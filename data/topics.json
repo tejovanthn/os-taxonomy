@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 1614,
+  "topicCount": 1655,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -37,7 +37,9 @@
       ],
       "assessmentPrompt": "Could {{name}} look around your home and point out at least five things that have a computer inside them, including ones that don't look like traditional computers?",
       "standards": [
-        "nios-obe-a:A104.L1"
+        "nios-obe-a:A104.L1",
+        "nios-obe-b:B104.L1",
+        "nios-obe-c:C104.L1"
       ]
     },
     {
@@ -9267,7 +9269,8 @@
       ],
       "assessmentPrompt": "If {{name}} looked at the labels on items in your kitchen, could they explain why so many things come from different countries?",
       "standards": [
-        "nios-obe-a:A102.L12.1"
+        "nios-obe-a:A102.L12.1",
+        "nios-obe-c:C102.L15"
       ]
     },
     {
@@ -9286,7 +9289,9 @@
         "Give a reason why the price of something might go up or down"
       ],
       "assessmentPrompt": "Could {{name}} explain why ice cream might cost more at the beach in summer than at a supermarket in winter?",
-      "standards": []
+      "standards": [
+        "nios-obe-c:C102.L15"
+      ]
     },
     {
       "id": "mt_W5euSyU2sO",
@@ -9322,7 +9327,9 @@
         "Describe why taxes are needed (everyone chips in so everyone benefits)"
       ],
       "assessmentPrompt": "Could {{name}} explain where the money comes from to pay for things like schools and hospitals that everyone uses?",
-      "standards": []
+      "standards": [
+        "nios-obe-c:C102.L15"
+      ]
     },
     {
       "id": "mt_yJmvUCCym7",
@@ -10330,7 +10337,9 @@
         "Interpret a real-life context to identify which addition/subtraction operations are needed across multiple steps"
       ],
       "assessmentPrompt": "If {{name}} is given a complicated word problem involving large numbers or decimals — like calculating the total cost of several items — can they plan and carry out all the steps correctly?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L2"
+      ]
     },
     {
       "id": "mt_JH_6RpNWjr",
@@ -10511,7 +10520,8 @@
         "uk-nc-2013:KS3.Maths.Alg.1c",
         "uk-nc-2013:KS3.Maths.Alg.1d",
         "uk-nc-2013:KS3.Maths.Alg.1e",
-        "uk-nc-2013:KS3.Maths.Alg.1f"
+        "uk-nc-2013:KS3.Maths.Alg.1f",
+        "nios-obe-c:C103.L4"
       ]
     },
     {
@@ -10554,7 +10564,8 @@
       "standards": [
         "ccss-math:6.EE.3",
         "ccss-math:6.EE.4",
-        "uk-nc-2013:KS3.Maths.Alg.4a"
+        "uk-nc-2013:KS3.Maths.Alg.4a",
+        "nios-obe-c:C103.L4"
       ]
     },
     {
@@ -10597,7 +10608,8 @@
       "standards": [
         "ccss-math:6.EE.3",
         "ccss-math:7.EE.1",
-        "uk-nc-2013:KS3.Maths.Alg.4b"
+        "uk-nc-2013:KS3.Maths.Alg.4b",
+        "nios-obe-c:C103.L5"
       ]
     },
     {
@@ -10689,7 +10701,8 @@
         "ccss-math:7.EE.4a",
         "ccss-math:8.EE.7a",
         "ccss-math:8.EE.7b",
-        "uk-nc-2013:KS3.Maths.Alg.7"
+        "uk-nc-2013:KS3.Maths.Alg.7",
+        "nios-obe-c:C103.L6"
       ]
     },
     {
@@ -10731,7 +10744,8 @@
       "assessmentPrompt": "Can {{name}} look at an expression like \"6x + 9\" and rewrite it with the common factor taken out — as \"3(2x + 3)\"?",
       "standards": [
         "ccss-math:7.EE.1",
-        "uk-nc-2013:KS3.Maths.Alg.4c"
+        "uk-nc-2013:KS3.Maths.Alg.4c",
+        "nios-obe-c:C103.L5"
       ]
     },
     {
@@ -11337,7 +11351,10 @@
         "Explain the difference between a bar chart (discrete) and a time graph (continuous)"
       ],
       "assessmentPrompt": "Can {{name}} choose the right type of chart for some data — for example, a bar chart for favourite colours or a line graph for temperature over a week — and draw it correctly?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L8",
+        "nios-obe-c:C103.L18"
+      ]
     },
     {
       "id": "mt_r8XnXwRA6g",
@@ -11373,7 +11390,10 @@
         "Explain what a rising/falling line means on a time-series graph"
       ],
       "assessmentPrompt": "If {{name}} sees a line graph showing how a plant's height changed over several weeks, can they read off values, spot when it grew fastest, and find the difference between two points?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L8",
+        "nios-obe-c:C103.L18"
+      ]
     },
     {
       "id": "mt_Cqm8iy48UI",
@@ -11391,7 +11411,9 @@
         "Calculate how long a train journey takes using a timetable"
       ],
       "assessmentPrompt": "Can {{name}} read a timetable — like a train or bus timetable — to find out when a journey leaves, arrives, and how long it takes?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L8"
+      ]
     },
     {
       "id": "mt_fmm-P17Vka",
@@ -11927,7 +11949,10 @@
         "Convert between simple fractions, decimals, and percentages (e.g. 1/2 = 0.5 = 50%) and explain why they are equal"
       ],
       "assessmentPrompt": "If {{name}} saw '0.5' and '50%' written down, could they explain that they both mean the same amount — and write them as a fraction too?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L4",
+        "nios-obe-c:C103.L8"
+      ]
     },
     {
       "id": "mt_Fl7b8q9pI1",
@@ -12562,7 +12587,9 @@
         "Use fraction–decimal–percentage equivalences to compare 30%, 1/3, and 0.35 and put them in order"
       ],
       "assessmentPrompt": "If {{name}} sees 3/8 written on a worksheet, can they convert it to a decimal — and also say roughly what percentage that is?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L4"
+      ]
     },
     {
       "id": "mt_1PAWhRhpdg",
@@ -12724,7 +12751,9 @@
         "Explain why dividing numerator and denominator by a common factor produces an equivalent fraction"
       ],
       "assessmentPrompt": "If {{name}} has the fraction 12/16, can they simplify it to its lowest terms — and explain what they divided the top and bottom by?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L3"
+      ]
     },
     {
       "id": "mt_SBkTGjiZjZ",
@@ -12744,7 +12773,8 @@
       "assessmentPrompt": "If {{name}} sees 0.375 on a calculator display, can they convert it to a fraction in its simplest form — without using the calculator?",
       "standards": [
         "ccss-math:7.NS.2d",
-        "uk-nc-2013:KS3.Maths.Num.9"
+        "uk-nc-2013:KS3.Maths.Num.9",
+        "nios-obe-b:B103.L3"
       ]
     },
     {
@@ -12788,7 +12818,8 @@
         "ccss-math:6.NS.1",
         "ccss-math:6.NS.3",
         "ccss-math:7.NS.3",
-        "uk-nc-2013:KS3.Maths.Num.4"
+        "uk-nc-2013:KS3.Maths.Num.4",
+        "nios-obe-b:B103.L3"
       ]
     },
     {
@@ -13216,7 +13247,8 @@
       ],
       "assessmentPrompt": "If {{name}} looks at a set of railway tracks or a window frame, can they point to which lines are parallel (never crossing) and which are perpendicular (meeting at a right angle)?",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/GPS/4"
+        "uk-nc-2013:Ma/KS2/Y3/GPS/4",
+        "nios-obe-c:C103.L11"
       ]
     },
     {
@@ -13548,7 +13580,9 @@
         "Mark a right angle, an acute angle, and an obtuse angle in a given figure"
       ],
       "assessmentPrompt": "If {{name}} is given a piece of paper and a ruler, can they draw a line segment, mark a point, and then draw another line through that point that runs perfectly parallel to the first?",
-      "standards": []
+      "standards": [
+        "nios-obe-c:C103.L10"
+      ]
     },
     {
       "id": "mt_4MFUAsbx_6",
@@ -13674,7 +13708,9 @@
         "Draw a regular pentagon given the side length and interior angle"
       ],
       "assessmentPrompt": "If you ask {{name}} to draw a triangle with sides of 5 cm and 7 cm with a 40° angle between them, can they use a ruler and protractor to draw it accurately?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L7"
+      ]
     },
     {
       "id": "mt_REwgr0d_ss",
@@ -13784,7 +13820,10 @@
         "Explain the relationship between radius and diameter in their own words"
       ],
       "assessmentPrompt": "If you give {{name}} a round plate and a ruler, can they measure the diameter — and explain how the radius compares to the diameter?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L7",
+        "nios-obe-c:C103.L14"
+      ]
     },
     {
       "id": "mt_snlqRCiA1R",
@@ -13882,7 +13921,8 @@
       "standards": [
         "ccss-math:7.G.6",
         "ccss-math:8.G.9",
-        "uk-nc-2013:KS3.Maths.Geo.1"
+        "uk-nc-2013:KS3.Maths.Geo.1",
+        "nios-obe-c:C103.L12"
       ]
     },
     {
@@ -13948,7 +13988,9 @@
       "assessmentPrompt": "If {{name}} is given an architect's floor plan where 1 cm represents 2 m, can they measure a room on the plan and work out its real-world dimensions?",
       "standards": [
         "ccss-math:7.G.2",
-        "uk-nc-2013:KS3.Maths.Geo.3"
+        "uk-nc-2013:KS3.Maths.Geo.3",
+        "nios-obe-b:B103.L7",
+        "nios-obe-c:C103.L11"
       ]
     },
     {
@@ -13969,7 +14011,9 @@
       "assessmentPrompt": "If you ask {{name}} why the diagonals of a rectangle are always equal in length, can they explain it using the properties of the shape — rather than just measuring to check?",
       "standards": [
         "ccss-math:7.G.2",
-        "uk-nc-2013:KS3.Maths.Geo.7"
+        "uk-nc-2013:KS3.Maths.Geo.7",
+        "nios-obe-c:C103.L12",
+        "nios-obe-c:C103.L13"
       ]
     },
     {
@@ -14074,7 +14118,9 @@
       "assessmentPrompt": "If {{name}} wants to know how far a bicycle wheel travels in one full rotation, can they use the diameter of the wheel and π (pi) to work out the circumference?",
       "standards": [
         "ccss-math:7.G.4",
-        "uk-nc-2013:KS3.Maths.Geo.2"
+        "uk-nc-2013:KS3.Maths.Geo.2",
+        "nios-obe-b:B103.L6",
+        "nios-obe-c:C103.L16"
       ]
     },
     {
@@ -16035,7 +16081,8 @@
       ],
       "assessmentPrompt": "If {{name}} counts the small squares inside a rectangle drawn on squared paper, can they tell you the area — and explain what \"one square unit\" means?",
       "standards": [
-        "nios-obe-a:A103.L7"
+        "nios-obe-a:A103.L7",
+        "nios-obe-c:C103.L16"
       ]
     },
     {
@@ -16091,7 +16138,8 @@
       ],
       "assessmentPrompt": "If {{name}} has a small cardboard box, can they estimate how many 1 cm³ cubes would fit inside it — and then fill it with sugar cubes to check?",
       "standards": [
-        "nios-obe-a:A103.L7"
+        "nios-obe-a:A103.L7",
+        "nios-obe-c:C103.L17"
       ]
     },
     {
@@ -16200,7 +16248,10 @@
         "Explain why the area of a triangle is half the area of a related parallelogram"
       ],
       "assessmentPrompt": "If {{name}} is cutting triangular pieces of cloth where the base is 8 cm and the height is 5 cm, can they use a formula to work out the area of each piece?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L6",
+        "nios-obe-c:C103.L16"
+      ]
     },
     {
       "id": "mt_d7XktBQPxm",
@@ -16236,7 +16287,9 @@
         "Explain the relationship between mm, cm, m, and km using powers of 10"
       ],
       "assessmentPrompt": "If {{name}} needs to convert 5 cm to metres and write the answer as a decimal, can they do it — and also convert 2.45 kg into grams?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L5"
+      ]
     },
     {
       "id": "mt_nTL-owFJTF",
@@ -16272,7 +16325,9 @@
         "Solve a multi-step problem involving time, distance, and unit conversion"
       ],
       "assessmentPrompt": "If {{name}} is filling a fish tank that holds 60 litres and the tap fills it at 3.5 litres per minute, can they work out how long it will take to fill the tank?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L5"
+      ]
     },
     {
       "id": "mt_IuHa5UI5od",
@@ -16951,7 +17006,9 @@
         "Determine whether a given number (e.g. 97) is prime and justify the reasoning"
       ],
       "assessmentPrompt": "Can {{name}} list all the factor pairs for a number like 36 — (1, 36), (2, 18), (3, 12), (4, 9), (6, 6) — and find factors that two numbers share?",
-      "standards": []
+      "standards": [
+        "nios-obe-c:C103.L1"
+      ]
     },
     {
       "id": "mt_0Wg5F97osg",
@@ -17059,7 +17116,9 @@
         "Explain that multiplying by 10 shifts each digit one place to the left"
       ],
       "assessmentPrompt": "Can {{name}} quickly work out '4.7 × 100' or '3,600 ÷ 1,000' — knowing that digits shift left or right in the place-value chart depending on whether they're multiplying or dividing?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L2"
+      ]
     },
     {
       "id": "mt_y1XCVsIelg",
@@ -17077,7 +17136,9 @@
         "List all prime numbers up to 19 from memory"
       ],
       "assessmentPrompt": "Can {{name}} tell you what makes a number 'prime' — that it only divides exactly by 1 and itself — and give some examples like 7, 11, and 13?",
-      "standards": []
+      "standards": [
+        "nios-obe-c:C103.L1"
+      ]
     },
     {
       "id": "mt_A-FyLLLLzy",
@@ -17278,7 +17339,8 @@
       ],
       "assessmentPrompt": "Can {{name}} work out '4.6 ÷ 1,000 = 0.0046' — knowing that each division by 10 shifts digits one place to the right, even past the decimal point?",
       "standards": [
-        "uk-nc-2013:Ma6/2.3g"
+        "uk-nc-2013:Ma6/2.3g",
+        "nios-obe-b:B103.L2"
       ]
     },
     {
@@ -17391,7 +17453,8 @@
       "assessmentPrompt": "Can {{name}} find the highest common factor of two numbers like 24 and 36 — working out the biggest number that divides exactly into both — and explain how they found it?",
       "standards": [
         "ccss-math:6.NS.4",
-        "uk-nc-2013:KS3.Maths.Num.3"
+        "uk-nc-2013:KS3.Maths.Num.3",
+        "nios-obe-c:C103.L1"
       ]
     },
     {
@@ -18198,7 +18261,9 @@
         "Use rounding to estimate 4.83 × 2.17 ≈ 5 × 2 = 10"
       ],
       "assessmentPrompt": "Can {{name}} round a decimal like 3.748 to one decimal place (3.7) or two decimal places (3.75) — and explain which digit they look at to decide?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L4"
+      ]
     },
     {
       "id": "mt_RVK655t391",
@@ -18234,7 +18299,9 @@
         "Estimate the total attendance at three events by rounding each to the nearest 100,000"
       ],
       "assessmentPrompt": "If {{name}} reads that the distance to the Moon is about 384,400 km, can they round it to the nearest 10,000 km and say whether it's closer to 380,000 or 390,000?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L1"
+      ]
     },
     {
       "id": "mt_HLUqHJ9Y7n",
@@ -18288,7 +18355,9 @@
         "Write 'five and sixty-two thousandths' as 5.062"
       ],
       "assessmentPrompt": "Can {{name}} read and write decimals like 3.047 or 0.625, say what each digit means (3 ones, 0 tenths, 4 hundredths, 7 thousandths), and put a set of decimals in order?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L1"
+      ]
     },
     {
       "id": "mt_Gag_h98jWP",
@@ -18306,7 +18375,9 @@
         "State the value of the 7 in 7,045,200 as seven million"
       ],
       "assessmentPrompt": "Can {{name}} read and write numbers up to 10 million — like 4,302,617 — and say the value of any digit in the number?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B103.L1"
+      ]
     },
     {
       "id": "mt_lNGpnILM5C",
@@ -18430,7 +18501,8 @@
       "assessmentPrompt": "Can {{name}} work out that √25 = 5 and ∛27 = 3 — knowing these are the inverse of squaring and cubing — and say whether √50 is closer to 7 or 8?",
       "standards": [
         "ccss-math:8.EE.2",
-        "uk-nc-2013:KS3.Maths.Num.7"
+        "uk-nc-2013:KS3.Maths.Num.7",
+        "nios-obe-c:C103.L3"
       ]
     },
     {
@@ -18841,7 +18913,9 @@
         "Explain a strategy for finding any percentage of an amount using known percentage facts"
       ],
       "assessmentPrompt": "If a jumper originally costs £40 and is 15% off, can {{name}} work out how much the discount is and what the sale price would be?",
-      "standards": []
+      "standards": [
+        "nios-obe-c:C103.L8"
+      ]
     },
     {
       "id": "mt_h0gJcSuwdL",
@@ -18859,7 +18933,9 @@
         "Explain the multiplicative relationship between two quantities in a ratio context"
       ],
       "assessmentPrompt": "If a recipe uses 3 eggs for every 200g of flour, can {{name}} work out how many eggs would be needed for 600g of flour?",
-      "standards": []
+      "standards": [
+        "nios-obe-c:C103.L7"
+      ]
     },
     {
       "id": "mt_2OtRUM_0zW",
@@ -18877,7 +18953,9 @@
         "Use a scale factor to enlarge or reduce a shape and verify that all sides are in the same ratio"
       ],
       "assessmentPrompt": "If {{name}} has a scale drawing where 1 cm represents 5 m, and a room measures 3.5 cm on the plan, can they work out the real length of the room?",
-      "standards": []
+      "standards": [
+        "nios-obe-c:C103.L15"
+      ]
     },
     {
       "id": "mt_FnUJMXPUZX",
@@ -18979,7 +19057,8 @@
       "assessmentPrompt": "If a shop says a TV is 130% of its original price, does {{name}} understand what that means — and can they work out the new price from the original?",
       "standards": [
         "ccss-math:6.RP.3c",
-        "uk-nc-2013:KS3.Maths.Num.10"
+        "uk-nc-2013:KS3.Maths.Num.10",
+        "nios-obe-c:C103.L8"
       ]
     },
     {
@@ -19036,7 +19115,8 @@
       "assessmentPrompt": "If a smoothie recipe uses orange juice and mango juice in the ratio 3:2, can {{name}} simplify that ratio, express it as a fraction, and work out how much of each is needed for a given total amount?",
       "standards": [
         "ccss-math:6.RP.1",
-        "uk-nc-2013:KS3.Maths.Ratio.4"
+        "uk-nc-2013:KS3.Maths.Ratio.4",
+        "nios-obe-c:C103.L7"
       ]
     },
     {
@@ -19057,7 +19137,8 @@
       "assessmentPrompt": "If {{name}} looks at a map where 1 cm = 50 km, can they work out the real distance between two cities that are 4.5 cm apart on the map?",
       "standards": [
         "ccss-math:7.RP.2b",
-        "uk-nc-2013:KS3.Maths.Ratio.2"
+        "uk-nc-2013:KS3.Maths.Ratio.2",
+        "nios-obe-c:C103.L15"
       ]
     },
     {
@@ -19121,7 +19202,8 @@
       "standards": [
         "ccss-math:7.RP.2",
         "ccss-math:7.RP.2d",
-        "uk-nc-2013:KS3.Maths.Ratio.9"
+        "uk-nc-2013:KS3.Maths.Ratio.9",
+        "nios-obe-c:C103.L7"
       ]
     },
     {
@@ -19671,7 +19753,8 @@
       "assessmentPrompt": "Does {{name}} show genuine interest when learning about how families from different cultures celebrate, eat, or worship — asking questions respectfully rather than dismissing things that are unfamiliar?",
       "standards": [
         "ib-pyp-pspe:PSPE-ID-LO-P3-7",
-        "ib-pyp-pspe:PSPE.INT.P3.CU.3"
+        "ib-pyp-pspe:PSPE.INT.P3.CU.3",
+        "nios-obe-b:B102.L2.1"
       ]
     },
     {
@@ -20251,7 +20334,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that they have a right to feel safe at school AND a responsibility to help make school safe for others — understanding that rights and responsibilities go together?",
       "standards": [
-        "ib-pyp-pspe:PSPE.INT.P3.CU.5"
+        "ib-pyp-pspe:PSPE.INT.P3.CU.5",
+        "nios-obe-c:C102.L17"
       ]
     },
     {
@@ -21168,7 +21252,10 @@
         "Understands that conservation requires both protecting habitats and helping individual species"
       ],
       "assessmentPrompt": "If {{name}} visits a zoo with a breeding programme, can they explain how zoos help save endangered species and describe at least two other ways people protect wildlife?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B102.L7.3",
+        "nios-obe-c:C105.L20"
+      ]
     },
     {
       "id": "mt_EaWjCyn8W2",
@@ -21261,7 +21348,9 @@
       "centrality": 0.1792065663474692,
       "evidence": [],
       "assessmentPrompt": "Can {{name}} describe what happened to Yellowstone National Park after wolves were reintroduced — what unexpected changes rippled through the whole ecosystem, including effects on rivers, as a result of one predator coming back?",
-      "standards": []
+      "standards": [
+        "nios-obe-c:C105.L20"
+      ]
     },
     {
       "id": "mt_fqAkSv3cUE",
@@ -21922,7 +22011,9 @@
       ],
       "assessmentPrompt": "If {{name}} sees a sandcastle being washed away by waves, can they think of ways to protect it — like building a wall or planting grass to hold the sand?",
       "standards": [
-        "ngss-k5:2-ESS2-1"
+        "ngss-k5:2-ESS2-1",
+        "nios-obe-b:B102.L9.1",
+        "nios-obe-b:B102.L9.2"
       ]
     },
     {
@@ -21962,7 +22053,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that soil isn't just dirt — it's made from tiny broken-down bits of rock mixed with dead leaves and other organic material?",
       "standards": [
-        "uk-nc-2013:Y3.Sci.R.3"
+        "uk-nc-2013:Y3.Sci.R.3",
+        "nios-obe-b:B102.L8.1"
       ]
     },
     {
@@ -22063,7 +22155,8 @@
       ],
       "assessmentPrompt": "Can {{name}} look at a crumbling cliff or a river bank and explain how water, wind, or ice has slowly worn away the rock or soil over time?",
       "standards": [
-        "ngss-k5:4-ESS2-1"
+        "ngss-k5:4-ESS2-1",
+        "nios-obe-b:B102.L9.1"
       ]
     },
     {
@@ -22200,7 +22293,8 @@
       "assessmentPrompt": "Can {{name}} suggest ways people can help the environment — like recycling, not littering, saving water, or planting trees?",
       "standards": [
         "ngss-k5:K-ESS3-3",
-        "nios-obe-a:A102.L5.3"
+        "nios-obe-a:A102.L5.3",
+        "nios-obe-b:B102.L7.3"
       ]
     },
     {
@@ -22222,7 +22316,8 @@
       "standards": [
         "ngss-k5:2-LS4-1",
         "uk-nc-2013:Y2.Sci.LTH.2",
-        "nios-obe-a:A102.L4.1"
+        "nios-obe-a:A102.L4.1",
+        "nios-obe-c:C105.L2"
       ]
     },
     {
@@ -22306,7 +22401,8 @@
       "assessmentPrompt": "Can {{name}} draw a food chain showing how a caterpillar eats a leaf and then a bird eats the caterpillar?",
       "standards": [
         "uk-nc-2013:Y2.Sci.LTH.4",
-        "nios-obe-a:A102.L5.2"
+        "nios-obe-a:A102.L5.2",
+        "nios-obe-b:B102.L7.1"
       ]
     },
     {
@@ -22406,7 +22502,8 @@
       "assessmentPrompt": "Can {{name}} build a food chain for a woodland and point out which organisms are producers, which are predators, and which are prey?",
       "standards": [
         "uk-nc-2013:Y4.Sci.A.3",
-        "nios-obe-a:A102.L5.2"
+        "nios-obe-a:A102.L5.2",
+        "nios-obe-b:B102.L7.1"
       ]
     },
     {
@@ -22446,7 +22543,9 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what a carbon footprint is — not just that it's about pollution, but what it actually measures?",
       "standards": [
-        "nios-obe-a:A102.L5.3"
+        "nios-obe-a:A102.L5.3",
+        "nios-obe-b:B102.L9.3",
+        "nios-obe-c:C105.L19"
       ]
     },
     {
@@ -22524,7 +22623,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain the big groups that scientists sort all living things into — like plants, animals, and tiny micro-organisms — and give examples of each?",
       "standards": [
-        "uk-nc-2013:Y6.Sci.LTH.1"
+        "uk-nc-2013:Y6.Sci.LTH.1",
+        "nios-obe-c:C105.L3"
       ]
     },
     {
@@ -22629,7 +22729,9 @@
       "assessmentPrompt": "If {{name}} was shown a diagram with lots of animals connected by arrows, could they explain what it means — tracing what eats what — and predict what would happen if one animal disappeared from the web?",
       "standards": [
         "ngss-ms:MS-LS2-1",
-        "uk-nc-2013:KS3.Sci.Bio.Ecosystem.1"
+        "uk-nc-2013:KS3.Sci.Bio.Ecosystem.1",
+        "nios-obe-b:B102.L7.2",
+        "nios-obe-c:C105.L20"
       ]
     },
     {
@@ -22671,7 +22773,8 @@
       ],
       "assessmentPrompt": "If {{name}} watched rain falling outside and was asked where that water had been before it fell, could they trace its journey through the water cycle from the sea to the clouds to the rain and back?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Bio.Ecosystem.5"
+        "uk-nc-2013:KS3.Sci.Bio.Ecosystem.5",
+        "nios-obe-c:C105.L19"
       ]
     },
     {
@@ -22976,7 +23079,10 @@
         "Distinguish between 'stored energy' and 'transferred energy' with a correct example of each"
       ],
       "assessmentPrompt": "If {{name}} stretches a rubber band and lets it go, can they name what type of energy it had when stretched — and what it changed into?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B102.L10.1",
+        "nios-obe-b:B102.L10.3"
+      ]
     },
     {
       "id": "mt_DA7-JYRvtP",
@@ -22995,7 +23101,8 @@
       ],
       "assessmentPrompt": "Can {{name}} build a working circuit with a battery, wires, and a light bulb, and name each part they're using?",
       "standards": [
-        "uk-nc-2013:Y4.Sci.E.2"
+        "uk-nc-2013:Y4.Sci.E.2",
+        "nios-obe-c:C105.L14"
       ]
     },
     {
@@ -23015,7 +23122,8 @@
       ],
       "assessmentPrompt": "Can {{name}} test objects in a circuit and explain why metal objects let electricity through but rubber and plastic don't?",
       "standards": [
-        "uk-nc-2013:Y4.Sci.E.5"
+        "uk-nc-2013:Y4.Sci.E.5",
+        "nios-obe-c:C105.L14"
       ]
     },
     {
@@ -23355,7 +23463,8 @@
       ],
       "assessmentPrompt": "If {{name}} was heating soup on a hob and also warming their hands by a radiator, could they explain which type of heat transfer is happening in each case — and why the soup pot gets hot throughout even though it’s only heated at the bottom?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Phys.Energy.5"
+        "uk-nc-2013:KS3.Sci.Phys.Energy.5",
+        "nios-obe-c:C105.L10"
       ]
     },
     {
@@ -23461,7 +23570,9 @@
       "assessmentPrompt": "If {{name}} heard about a plan to build a new wind farm in your area, could they explain what the advantages and disadvantages would be compared to a gas-fired power station — both for the environment and for reliability?",
       "standards": [
         "ngss-ms:MS-ESS3-4",
-        "uk-nc-2013:KS3.Sci.Phys.Energy.1"
+        "uk-nc-2013:KS3.Sci.Phys.Energy.1",
+        "nios-obe-b:B102.L10.2",
+        "nios-obe-b:B102.L10.4"
       ]
     },
     {
@@ -23559,7 +23670,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why you have to touch a ball to kick it, but a magnet can pull a paperclip without touching it?",
       "standards": [
-        "uk-nc-2013:Y3.Sci.FM.2"
+        "uk-nc-2013:Y3.Sci.FM.2",
+        "nios-obe-c:C105.L15"
       ]
     },
     {
@@ -23597,7 +23709,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why a toy car rolls further on a smooth wooden floor than on carpet?",
       "standards": [
-        "uk-nc-2013:Y3.Sci.FM.1"
+        "uk-nc-2013:Y3.Sci.FM.1",
+        "nios-obe-c:C105.L15"
       ]
     },
     {
@@ -23618,7 +23731,8 @@
       "assessmentPrompt": "Can {{name}} test a magnet on different objects around the house and predict which ones will stick?",
       "standards": [
         "uk-nc-2013:Y3.Sci.FM.3",
-        "uk-nc-2013:Y3.Sci.FM.4"
+        "uk-nc-2013:Y3.Sci.FM.4",
+        "nios-obe-c:C105.L14"
       ]
     },
     {
@@ -23641,7 +23755,8 @@
         "ngss-k5:3-PS2-3",
         "ngss-k5:3-PS2-4",
         "uk-nc-2013:Y3.Sci.FM.5",
-        "uk-nc-2013:Y3.Sci.FM.6"
+        "uk-nc-2013:Y3.Sci.FM.6",
+        "nios-obe-c:C105.L14"
       ]
     },
     {
@@ -23908,7 +24023,8 @@
       ],
       "assessmentPrompt": "If {{name}} noticed the lid on a jar was very tight, could they explain why running it under hot water helps — and what's happening to the metal as it heats up?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.5"
+        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.5",
+        "nios-obe-c:C105.L15"
       ]
     },
     {
@@ -24652,7 +24768,8 @@
       "assessmentPrompt": "Can {{name}} explain what happens to an ice cube when you heat it, and at what temperature water freezes and boils?",
       "standards": [
         "ngss-k5:2-PS1-4",
-        "uk-nc-2013:Y4.Sci.SM.2"
+        "uk-nc-2013:Y4.Sci.SM.2",
+        "nios-obe-c:C105.L10"
       ]
     },
     {
@@ -24733,7 +24850,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain the difference between a solid like ice, a liquid like water, and a gas like steam, and sort everyday things into these three groups?",
       "standards": [
-        "uk-nc-2013:Y4.Sci.SM.1"
+        "uk-nc-2013:Y4.Sci.SM.1",
+        "nios-obe-c:C105.L6"
       ]
     },
     {
@@ -24774,7 +24892,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what happens when sugar dissolves in tea, and figure out how to get the salt back from salty water?",
       "standards": [
-        "uk-nc-2013:Y5.Sci.PCM.2"
+        "uk-nc-2013:Y5.Sci.PCM.2",
+        "nios-obe-c:C105.L6"
       ]
     },
     {
@@ -24853,7 +24972,8 @@
       ],
       "assessmentPrompt": "If {{name}} has a mixture of sand, salt, and water, can they figure out a step-by-step plan to separate all three using a sieve, filter, and evaporation?",
       "standards": [
-        "uk-nc-2013:Y5.Sci.PCM.3"
+        "uk-nc-2013:Y5.Sci.PCM.3",
+        "nios-obe-c:C105.L6"
       ]
     },
     {
@@ -24962,7 +25082,8 @@
       "standards": [
         "uk-nc-2013:KS3.Sci.Chem.AEC.6",
         "uk-nc-2013:KS3.Sci.Chem.AEC.9",
-        "uk-nc-2013:KS3.Sci.Chem.PT.5"
+        "uk-nc-2013:KS3.Sci.Chem.PT.5",
+        "nios-obe-c:C105.L7"
       ]
     },
     {
@@ -24986,7 +25107,8 @@
         "ngss-ms:MS-PS1-2",
         "ngss-ms:MS-PS1-5",
         "uk-nc-2013:KS3.Sci.Chem.AEC.4",
-        "uk-nc-2013:KS3.Sci.Chem.PIS.5"
+        "uk-nc-2013:KS3.Sci.Chem.PIS.5",
+        "nios-obe-c:C105.L8"
       ]
     },
     {
@@ -25030,7 +25152,8 @@
       ],
       "assessmentPrompt": "If {{name}} needed to separate salt from sand mixed together in water, could they describe two stages of separation, the equipment needed, and explain why each step works?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Chem.PIS.2"
+        "uk-nc-2013:KS3.Sci.Chem.PIS.2",
+        "nios-obe-c:C105.L6"
       ]
     },
     {
@@ -25122,7 +25245,8 @@
       ],
       "assessmentPrompt": "If {{name}} used a piece of universal indicator paper to test lemon juice and baking soda solution, could they predict what colour each would turn and explain what that tells you about each substance?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Chem.CR.2"
+        "uk-nc-2013:KS3.Sci.Chem.CR.2",
+        "nios-obe-c:C105.L8"
       ]
     },
     {
@@ -25257,7 +25381,8 @@
       "assessmentPrompt": "If {{name}} saw iron going rusty and a candle burning, could they explain what type of chemical reaction is happening in each case — and write a simple word equation for one of them?",
       "standards": [
         "ngss-ms:MS-PS1-2",
-        "uk-nc-2013:KS3.Sci.Chem.CR.1"
+        "uk-nc-2013:KS3.Sci.Chem.CR.1",
+        "nios-obe-c:C105.L8"
       ]
     },
     {
@@ -25895,7 +26020,8 @@
       "standards": [
         "uk-nc-2013:Y1.Sci.P.2",
         "nios-obe-a:A102.L4.4",
-        "nios-obe-a:A102.L5.2"
+        "nios-obe-a:A102.L5.2",
+        "nios-obe-c:C105.L3"
       ]
     },
     {
@@ -26080,7 +26206,8 @@
       "assessmentPrompt": "Can {{name}} explain why a flower needs roots underground and leaves up top — what job does each part do?",
       "standards": [
         "uk-nc-2013:Y3.Sci.P.1",
-        "nios-obe-a:A102.L5.2"
+        "nios-obe-a:A102.L5.2",
+        "nios-obe-c:C105.L3"
       ]
     },
     {
@@ -26203,7 +26330,8 @@
       "assessmentPrompt": "Can {{name}} explain how a camel's humps, a cactus's thick skin, or a polar bear's white fur help them survive where they live, and how these adaptations developed over time?",
       "standards": [
         "ngss-k5:3-LS4-3",
-        "uk-nc-2013:Y6.Sci.EI.3"
+        "uk-nc-2013:Y6.Sci.EI.3",
+        "nios-obe-c:C105.L2"
       ]
     },
     {
@@ -26360,7 +26488,10 @@
         "Explain the difference between an artery and a vein using the correct anatomical terms"
       ],
       "assessmentPrompt": "Can {{name}} explain what the circulatory system does — not just 'the heart pumps blood', but using words like 'oxygen', 'artery', and 'blood vessel'?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B102.L13.1",
+        "nios-obe-c:C105.L3"
+      ]
     },
     {
       "id": "mt_IzlVK0Eony",
@@ -26580,7 +26711,8 @@
       "assessmentPrompt": "If {{name}} prepared a slide of onion skin and looked at it through a school microscope, could they identify what they were seeing and explain that all living things are made of these tiny units?",
       "standards": [
         "ngss-ms:MS-LS1-1",
-        "uk-nc-2013:KS3.Sci.Bio.Cells.1"
+        "uk-nc-2013:KS3.Sci.Bio.Cells.1",
+        "nios-obe-c:C105.L2"
       ]
     },
     {
@@ -26600,7 +26732,8 @@
       ],
       "assessmentPrompt": "If {{name}} heard about conditions like obesity or vitamin deficiency diseases, could they explain how eating too much, too little, or the wrong mix of foods leads to those health problems?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Bio.Nutrition.3"
+        "uk-nc-2013:KS3.Sci.Bio.Nutrition.3",
+        "nios-obe-b:B102.L12.1"
       ]
     },
     {
@@ -26682,7 +26815,8 @@
       "assessmentPrompt": "If {{name}} was planning a packed lunch, could they explain what each food group does for the body — why we need protein, carbohydrates, fats, vitamins, and minerals?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Bio.Nutrition.1",
-        "nios-obe-a:A102.L8.2"
+        "nios-obe-a:A102.L8.2",
+        "nios-obe-b:B102.L12.2"
       ]
     },
     {
@@ -26725,7 +26859,8 @@
       "assessmentPrompt": "If {{name}} was asked why plants don't need to eat food like animals do, could they explain how plants make their own food using sunlight, water, and carbon dioxide — and write the equation?",
       "standards": [
         "ngss-ms:MS-LS1-6",
-        "uk-nc-2013:KS3.Sci.Bio.Nutrition.6"
+        "uk-nc-2013:KS3.Sci.Bio.Nutrition.6",
+        "nios-obe-c:C105.L11"
       ]
     },
     {
@@ -26746,7 +26881,8 @@
       "assessmentPrompt": "If {{name}} was shown unlabelled diagrams of a plant cell and an animal cell side by side, could they spot which features are shared and which ones only appear in plant cells — and say why?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Bio.Cells.3",
-        "uk-nc-2013:KS3.Sci.Bio.Cells.4"
+        "uk-nc-2013:KS3.Sci.Bio.Cells.4",
+        "nios-obe-c:C105.L2"
       ]
     },
     {
@@ -26767,7 +26903,8 @@
       "assessmentPrompt": "If {{name}} learned that bacteria are made of just one cell, could they explain how that single cell still manages to feed, grow, and reproduce — doing everything a whole body does?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Bio.Cells.5",
-        "uk-nc-2013:KS3.Sci.Bio.Cells.6"
+        "uk-nc-2013:KS3.Sci.Bio.Cells.6",
+        "nios-obe-c:C105.L12"
       ]
     },
     {
@@ -26979,7 +27116,9 @@
       ],
       "assessmentPrompt": "If {{name}} was studying human reproduction, could they describe how the male and female reproductive systems work together and explain what happens between fertilisation and birth?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Bio.Reproduction.1"
+        "uk-nc-2013:KS3.Sci.Bio.Reproduction.1",
+        "nios-obe-b:B102.L13.8",
+        "nios-obe-c:C105.L5"
       ]
     },
     {
@@ -27001,7 +27140,9 @@
       "assessmentPrompt": "If {{name}} got a cold, could they explain what type of pathogen caused it, how the immune system tries to fight it off, and why a vaccine for flu won't protect you from all colds?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Bio.Health.3",
-        "uk-nc-2013:KS3.Sci.Bio.Health.4"
+        "uk-nc-2013:KS3.Sci.Bio.Health.4",
+        "nios-obe-b:B102.L14.2",
+        "nios-obe-c:C105.L12"
       ]
     },
     {
@@ -28024,7 +28165,8 @@
       "assessmentPrompt": "Can {{name}} use a magnifying glass to look carefully at something like a leaf or an insect and describe in detail what they see?",
       "standards": [
         "uk-nc-2013:KS1.Sci.WS.2",
-        "uk-nc-2013:KS1.Sci.WS.4"
+        "uk-nc-2013:KS1.Sci.WS.4",
+        "nios-obe-c:C105.L1"
       ]
     },
     {
@@ -28905,7 +29047,9 @@
         "Use a comparison to convey cosmic scale (e.g. if the Sun were a football, Earth would be a peppercorn 26 metres away)"
       ],
       "assessmentPrompt": "Can {{name}} describe how our place in the universe works — that we’re on a planet in a solar system in a galaxy among billions of galaxies?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B102.L11.3"
+      ]
     },
     {
       "id": "mt_ae-cHHFR76",
@@ -29134,7 +29278,9 @@
       "standards": [
         "ngss-k5:5-ESS1-2",
         "uk-nc-2013:Y5.Sci.ES.4",
-        "nios-obe-a:A102.L6.2"
+        "nios-obe-a:A102.L6.2",
+        "nios-obe-b:B102.L11.4",
+        "nios-obe-b:B102.L11.5"
       ]
     },
     {
@@ -29176,7 +29322,8 @@
       "standards": [
         "uk-nc-2013:Y5.Sci.ES.1",
         "uk-nc-2013:Y5.Sci.ES.2",
-        "uk-nc-2013:Y5.Sci.ES.3"
+        "uk-nc-2013:Y5.Sci.ES.3",
+        "nios-obe-b:B102.L11.1"
       ]
     },
     {
@@ -29237,7 +29384,8 @@
       "assessmentPrompt": "If {{name}} noticed the Moon looking like a thin crescent one night and a full circle two weeks later, could they explain what has changed and why — and describe what happens during a lunar eclipse?",
       "standards": [
         "ngss-ms:MS-ESS1-1",
-        "uk-nc-2013:KS3.Sci.Phys.SpacePhysics.3"
+        "uk-nc-2013:KS3.Sci.Phys.SpacePhysics.3",
+        "nios-obe-b:B102.L11.2"
       ]
     },
     {
@@ -29257,7 +29405,8 @@
       ],
       "assessmentPrompt": "If {{name}} was making a model of the solar system, could they describe the difference between a planet, a moon, an asteroid, and a comet — and explain why planets closest to the Sun take less time to complete an orbit?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Phys.SpacePhysics.1"
+        "uk-nc-2013:KS3.Sci.Phys.SpacePhysics.1",
+        "nios-obe-b:B102.L11.1"
       ]
     },
     {
@@ -29278,7 +29427,8 @@
       "assessmentPrompt": "If {{name}} was asked why the UK is hot in summer but Australia is cold at the same time, could they explain that it's not about being closer to the Sun but about which half of the Earth is tilted towards the Sun?",
       "standards": [
         "ngss-ms:MS-ESS1-1",
-        "uk-nc-2013:KS3.Sci.Phys.SpacePhysics.2"
+        "uk-nc-2013:KS3.Sci.Phys.SpacePhysics.2",
+        "nios-obe-b:B102.L11.5"
       ]
     },
     {
@@ -29493,7 +29643,9 @@
         "Give an example: muscle cells form muscle tissue, which forms the heart organ, which is part of the circulatory system"
       ],
       "assessmentPrompt": "Can {{name}} explain that the body is made of tiny cells, and that cells group together to make tissues, which make organs, which make whole systems?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B102.L13.1"
+      ]
     },
     {
       "id": "mt_6N-4TqCleR",
@@ -29511,7 +29663,9 @@
         "Name the heart and muscles of the digestive system as examples of involuntary muscles"
       ],
       "assessmentPrompt": "Can {{name}} bend their arm and explain that one muscle is pulling while the other is relaxing — and that their heart muscle works without them thinking about it?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B102.L13.2"
+      ]
     },
     {
       "id": "mt_-gkJdxJUQT",
@@ -29529,7 +29683,9 @@
         "Explain that the pupil gets bigger in dim light and smaller in bright light to control how much light enters"
       ],
       "assessmentPrompt": "Can {{name}} explain what happens inside their eye when they look at something — how light comes in through the pupil and the brain turns it into a picture?",
-      "standards": []
+      "standards": [
+        "nios-obe-c:C105.L17"
+      ]
     },
     {
       "id": "mt_OMmiuv9ZLH",
@@ -29547,7 +29703,10 @@
         "State that not all animals have internal skeletons — some have shells or exoskeletons"
       ],
       "assessmentPrompt": "Can {{name}} point to different parts of their body and name the bones underneath — like the femur in the thigh or the vertebrae in the spine?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B102.L13.2",
+        "nios-obe-c:C105.L3"
+      ]
     },
     {
       "id": "mt_JpQUM1129q",
@@ -29565,7 +29724,10 @@
         "State that the small intestine is where most nutrients pass into the blood, and the large intestine removes water from waste"
       ],
       "assessmentPrompt": "If {{name}} ate a sandwich, could they describe the journey it takes through their body — from mouth to stomach to intestines?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B102.L13.3",
+        "nios-obe-c:C105.L11"
+      ]
     },
     {
       "id": "mt_I047mKeeaq",
@@ -29621,7 +29783,10 @@
         "Explain that puberty is triggered by hormones — chemical messengers released by glands"
       ],
       "assessmentPrompt": "Can {{name}} describe how a person’s body changes as they grow from a baby to an adult to an elderly person — and explain what happens during puberty?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B102.L13.8",
+        "nios-obe-c:C105.L5"
+      ]
     },
     {
       "id": "mt_4k3HGahK2k",
@@ -29659,7 +29824,10 @@
         "Name the components of blood: red blood cells (carry oxygen), white blood cells (fight infection), platelets (help clotting), plasma (liquid)"
       ],
       "assessmentPrompt": "Can {{name}} trace the path blood takes through the heart and body — explaining that it goes to the lungs first for oxygen, then out to the rest of the body?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B102.L13.5",
+        "nios-obe-c:C105.L4"
+      ]
     },
     {
       "id": "mt_zPDDJLAl-J",
@@ -29677,7 +29845,10 @@
         "Describe the mechanical process: the diaphragm contracts to pull air in and relaxes to push air out"
       ],
       "assessmentPrompt": "Can {{name}} describe what happens to the air they breathe in — how it travels deeper and deeper into the lungs until oxygen swaps into the blood?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B102.L13.4",
+        "nios-obe-c:C105.L4"
+      ]
     },
     {
       "id": "mt_4JpMXUIxeD",
@@ -29713,7 +29884,10 @@
         "State that nerve signals travel extremely fast, which is why reflexes happen almost instantly"
       ],
       "assessmentPrompt": "Can {{name}} explain how a message travels from their finger to their brain when they touch something hot, and then back to their hand to pull it away?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B102.L13.7",
+        "nios-obe-c:C105.L4"
+      ]
     },
     {
       "id": "mt_LkOMijDvL7",
@@ -29731,7 +29905,9 @@
         "Explains immunological memory: after first exposure, memory B and T cells remain, making subsequent response faster and stronger — the basis of vaccine protection"
       ],
       "assessmentPrompt": "If {{name}} was asked why they don't get chickenpox twice, could they explain the difference between just fighting off a germ and actually 'remembering' it — and describe how a vaccine trains the immune system without causing the disease?",
-      "standards": []
+      "standards": [
+        "nios-obe-b:B102.L14.4"
+      ]
     },
     {
       "id": "mt_okUMpHsV-P",
@@ -30164,7 +30340,8 @@
       ],
       "assessmentPrompt": "Can {{name}} come up with different ideas for keeping people safe from earthquakes or floods, and compare which ones would work best?",
       "standards": [
-        "ngss-k5:4-ESS3-2"
+        "ngss-k5:4-ESS3-2",
+        "nios-obe-c:C105.L18"
       ]
     },
     {
@@ -30219,7 +30396,9 @@
         "Explain that the rock cycle operates over millions of years through weathering, pressure, heat, and melting"
       ],
       "assessmentPrompt": "If {{name}} saw igneous rock, sandstone, and marble side by side, could they explain how each type forms and how rocks slowly transform from one type to another in a never-ending cycle?",
-      "standards": []
+      "standards": [
+        "nios-obe-c:C105.L18"
+      ]
     },
     {
       "id": "mt_gv_uoHkdjR",
@@ -30261,7 +30440,9 @@
       "centrality": 0.08618331053351573,
       "evidence": [],
       "assessmentPrompt": "If {{name}} read a news story about a town that refused to evacuate before a predicted volcanic eruption, can they describe at least two reasons — beyond just stubbornness — why people might genuinely choose to stay?",
-      "standards": []
+      "standards": [
+        "nios-obe-c:C105.L18"
+      ]
     },
     {
       "id": "mt_Am_iTzHjoe",
@@ -30367,7 +30548,8 @@
       ],
       "assessmentPrompt": "Can {{name}} test different materials with a torch and sort them into ones light goes through, ones that block light, and ones in between?",
       "standards": [
-        "ngss-k5:1-PS4-3"
+        "ngss-k5:1-PS4-3",
+        "nios-obe-c:C105.L17"
       ]
     },
     {
@@ -30388,7 +30570,8 @@
       "assessmentPrompt": "Can {{name}} pluck a rubber band and explain that the vibrating band makes the sound, and then hold a ruler on a speaker and see it shake from the music?",
       "standards": [
         "ngss-k5:1-PS4-1",
-        "uk-nc-2013:Y4.Sci.Snd.1"
+        "uk-nc-2013:Y4.Sci.Snd.1",
+        "nios-obe-c:C105.L16"
       ]
     },
     {
@@ -30449,7 +30632,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why they can see themselves in a mirror or a shiny spoon, and why a rough wall doesn't reflect light the same way?",
       "standards": [
-        "uk-nc-2013:Y3.Sci.L.2"
+        "uk-nc-2013:Y3.Sci.L.2",
+        "nios-obe-c:C105.L17"
       ]
     },
     {
@@ -30551,7 +30735,8 @@
       "standards": [
         "ngss-k5:4-PS4-2",
         "uk-nc-2013:Y6.Sci.L.2",
-        "uk-nc-2013:Y6.Sci.L.3"
+        "uk-nc-2013:Y6.Sci.L.3",
+        "nios-obe-c:C105.L17"
       ]
     },
     {
@@ -30651,7 +30836,8 @@
       ],
       "assessmentPrompt": "If {{name}} heard an echo in a large empty hall, could they explain what causes the echo, why the same sound in a carpeted living room doesn’t echo, and what would happen to sound in outer space?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Phys.Waves.3"
+        "uk-nc-2013:KS3.Sci.Phys.Waves.3",
+        "nios-obe-c:C105.L16"
       ]
     },
     {
@@ -30894,7 +31080,9 @@
         "Use words like hot, warm, cool, and cold appropriately to describe air temperature"
       ],
       "assessmentPrompt": "If {{name}} saw a thermometer outside, could they explain that it tells us how hot or cold the air is, and describe today as hot, warm, cool, or cold?",
-      "standards": []
+      "standards": [
+        "nios-obe-c:C105.L10"
+      ]
     },
     {
       "id": "mt_jc9k_HJQGd",
@@ -31187,7 +31375,9 @@
       ],
       "assessmentPrompt": "Can {{name}} explain where petrol, electricity, and gas come from — that they come from natural resources like oil, coal, wind, or sunlight — and how using them affects the environment?",
       "standards": [
-        "ngss-k5:4-ESS3-1"
+        "ngss-k5:4-ESS3-1",
+        "nios-obe-b:B102.L10.2",
+        "nios-obe-c:C105.L19"
       ]
     },
     {
@@ -31512,7 +31702,8 @@
       ],
       "assessmentPrompt": "Can {{name}} describe different ways people send messages to each other — talking, writing, phones — and give an example of a sign or signal that carries a message without words?",
       "standards": [
-        "nios-obe-a:A102.L10.4"
+        "nios-obe-a:A102.L10.4",
+        "nios-obe-c:C102.L13"
       ]
     },
     {
@@ -31673,7 +31864,8 @@
       "assessmentPrompt": "Can {{name}} explain why food needs to be kept clean and fresh and water needs to be safe to drink — and name a way to make water safe, like boiling it?",
       "standards": [
         "nios-obe-a:A102.L8.4",
-        "nios-obe-a:A102.L8.5"
+        "nios-obe-a:A102.L8.5",
+        "nios-obe-b:B102.L12.3"
       ]
     },
     {
@@ -31814,6 +32006,859 @@
       "assessmentPrompt": "Can {{name}} type some text in a word processor, fix mistakes and tidy it up, and save the document so it can be opened again?",
       "standards": [
         "nios-obe-a:A104.L6"
+      ]
+    },
+    {
+      "id": "mt_9UT0aF8Fmn",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Ancient India",
+      "name": "The Indus Valley Civilisation",
+      "description": "Understand that one of the world’s earliest cities grew up along the Indus and Saraswati rivers over 4,000 years ago — with planned streets, drains, granaries and trade at cities like Harappa and Mohenjo-daro.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Locate the Indus Valley Civilisation in time and place",
+        "Describe features of its planned cities (drainage, brick houses, the Great Bath)",
+        "Explain what artefacts and seals tell us about its trade and daily life"
+      ],
+      "assessmentPrompt": "Can {{name}} describe the Indus Valley cities — their planned streets and drains — and explain how we know about a civilisation with no readable writing?",
+      "standards": [
+        "nios-obe-c:C102.L1"
+      ]
+    },
+    {
+      "id": "mt_jgJMDA0GTY",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Ancient India",
+      "name": "The Vedic Age",
+      "description": "Understand the Vedic age that followed — when the Vedas were composed, and the society, economy and beliefs of the period reflected in the great epics, the Ramayana and Mahabharata.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Explain what the Vedas are and why they matter as a source",
+        "Describe features of Vedic society and economy",
+        "Recognise the Ramayana and Mahabharata as texts of this period"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what the Vedas are and describe what life was like in the Vedic age?",
+      "standards": [
+        "nios-obe-c:C102.L2"
+      ]
+    },
+    {
+      "id": "mt_SBHKtfCzu3",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Ancient India",
+      "name": "The Maurya Empire and Ashoka",
+      "description": "Understand how the Maurya Empire, growing from the mahajanapadas and the Nanda dynasty, united much of the subcontinent — and how the emperor Ashoka, after the Kalinga war, spread a message of peace and non-violence.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Explain how the Maurya Empire rose to power",
+        "Describe Ashoka’s change of heart after Kalinga and his policy of peace",
+        "Recognise Ashoka’s pillars and edicts as historical sources"
+      ],
+      "assessmentPrompt": "Can {{name}} tell the story of Ashoka — how a powerful emperor turned to peace after a terrible war — and why the Maurya Empire mattered?",
+      "standards": [
+        "nios-obe-c:C102.L3"
+      ]
+    },
+    {
+      "id": "mt_EpCX1FgGqv",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Ancient India",
+      "name": "The Gupta Age",
+      "description": "Understand the Gupta age and the reign of Harshavardhana — often called a golden age for its achievements in art, science, mathematics and learning — and place Kanishka in the same broad era.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain why the Gupta age is called a golden age",
+        "Give examples of achievements in science, mathematics or art",
+        "Place the Guptas and Harshavardhana in the sweep of Indian history"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why the Gupta age is remembered as a golden age and give an example of what was achieved then?",
+      "standards": [
+        "nios-obe-c:C102.L4"
+      ]
+    },
+    {
+      "id": "mt_fxcXASVcXE",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Ancient India",
+      "name": "Kingdoms of Southern India",
+      "description": "Understand that powerful kingdoms flourished in the south of the subcontinent — the Cholas, Cheras and Pandyas — known for temple building, trade across the seas, and rich literature.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Name the Chola, Chera and Pandya kingdoms and locate them in the south",
+        "Describe an achievement such as sea trade or temple building",
+        "Recognise that Indian history includes powerful southern kingdoms, not only northern empires"
+      ],
+      "assessmentPrompt": "Can {{name}} name some kingdoms of southern India and describe what they were known for, like trade or temples?",
+      "standards": [
+        "nios-obe-c:C102.L4"
+      ]
+    },
+    {
+      "id": "mt_FUDkWnl03o",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Medieval India",
+      "name": "The Delhi Sultanate",
+      "description": "Understand how, after the arrival of Arab and Turkish rulers, the Delhi Sultanate governed much of northern India — introducing new systems of administration, agriculture, markets, art and architecture.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain how the Delhi Sultanate came to power",
+        "Describe a reform or feature of its rule (markets, administration, architecture)",
+        "Place the Sultanate between the ancient kingdoms and the Mughals"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what the Delhi Sultanate was and describe one way it changed how northern India was governed?",
+      "standards": [
+        "nios-obe-c:C102.L5"
+      ]
+    },
+    {
+      "id": "mt_fvAz0QwV5b",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Medieval India",
+      "name": "The Mughal Empire",
+      "description": "Understand the Mughal Empire — its founding, its powerful emperors, and its lasting achievements in administration, art, architecture (like the Taj Mahal) and culture — including Akbar’s policies of tolerance.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain how the Mughal Empire was founded and grew",
+        "Give examples of Mughal achievements in art and architecture",
+        "Describe Akbar’s policy of religious tolerance"
+      ],
+      "assessmentPrompt": "Can {{name}} describe the Mughal Empire — a famous building it left behind, and why a ruler like Akbar is remembered?",
+      "standards": [
+        "nios-obe-c:C102.L6"
+      ]
+    },
+    {
+      "id": "mt_GMNJygVgfN",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Medieval India",
+      "name": "The Marathas and the Rajputs",
+      "description": "Understand the Maratha Empire and the Rajput kingdoms — their rise, their relationships (sometimes conflict, sometimes alliance) with the Mughals, and their place in the story of medieval India.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Identify the Marathas and Rajputs as powers of medieval India",
+        "Describe their changing relations with the Mughal Empire",
+        "Give an example of a Maratha or Rajput leader or achievement"
+      ],
+      "assessmentPrompt": "Can {{name}} explain who the Marathas and Rajputs were and how they related to the Mughals — sometimes fighting, sometimes allying?",
+      "standards": [
+        "nios-obe-c:C102.L6"
+      ]
+    },
+    {
+      "id": "mt_gM1adZDGIy",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern India",
+      "name": "British Rule in India",
+      "description": "Understand how the British East India Company arrived to trade, gradually took political control, and how British rule reshaped India’s economy, agriculture and society — leading up to the revolt of 1857.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain how a trading company came to rule much of India",
+        "Describe an effect of British rule on India’s economy or society",
+        "Identify the 1857 revolt as a turning point"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how the British came to India to trade but ended up ruling it — and describe one way British rule affected ordinary people?",
+      "standards": [
+        "nios-obe-b:B102.L4.1",
+        "nios-obe-c:C102.L7"
+      ]
+    },
+    {
+      "id": "mt_Jd2NQIbpjV",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern India",
+      "name": "India's Freedom Struggle",
+      "description": "Understand the long struggle for India’s independence — the leaders and revolutionaries, the mass movements, and the ideas of freedom and self-rule that led to independence in 1947.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Name key figures of the freedom struggle and describe their contribution",
+        "Explain the difference between mass non-violent movements and armed revolution",
+        "Explain the significance of 1947"
+      ],
+      "assessmentPrompt": "Can {{name}} describe how India won its freedom — naming a leader or two and explaining what they stood for?",
+      "standards": [
+        "nios-obe-b:B102.L4.2",
+        "nios-obe-c:C102.L8"
+      ]
+    },
+    {
+      "id": "mt_t6BQm5x5Su",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern India",
+      "name": "Reform and Awakening in 19th-Century India",
+      "description": "Understand the social, educational and religious reform movements of 19th-century India — how reformers worked against social evils and for education, and how this awakening fed into the national movement.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain what a social reform movement is",
+        "Give an example of a reform (against a social evil, or for education)",
+        "Connect the reform movements to the growth of national feeling"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how 19th-century reformers tried to change society for the better, and give an example?",
+      "standards": [
+        "nios-obe-c:C102.L7"
+      ]
+    },
+    {
+      "id": "mt_1zM5tBMqRF",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "States and Union Territories of India",
+      "description": "Understand that India is a large country made up of many states and union territories, each with its own capital, languages and character, and locate India on the world map.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Explain that India is divided into states and union territories",
+        "Locate India on a world or Asia map",
+        "Name several states and their approximate locations"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that India is made of many states and union territories, and point to India on a world map?",
+      "standards": [
+        "nios-obe-b:B102.L5.1"
+      ]
+    },
+    {
+      "id": "mt_zniDXv3Ko3",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "India's Physical Features and Climate",
+      "description": "Understand India’s major physical features — the Himalayas, plains, plateaus, deserts and coasts — and how the monsoon shapes its climate and seasons.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Name major physical features of India (mountains, plains, coasts)",
+        "Explain what the monsoon is and why it matters",
+        "Relate climate and seasons to physical geography"
+      ],
+      "assessmentPrompt": "Can {{name}} describe India’s main physical features — like the Himalayas and the plains — and explain what the monsoon brings?",
+      "standards": [
+        "nios-obe-b:B102.L5.2",
+        "nios-obe-c:C102.L9"
+      ]
+    },
+    {
+      "id": "mt_Qx5riGaO8e",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "Natural Resources of India",
+      "description": "Understand India’s natural resources — forests, water, soils, minerals and energy sources (both traditional like coal and petroleum, and non-traditional like solar and wind) — and why they must be conserved.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Name several natural resources of India",
+        "Distinguish traditional from non-traditional energy sources",
+        "Explain why resources need to be conserved"
+      ],
+      "assessmentPrompt": "Can {{name}} name some of India’s natural resources and explain why they need to be used carefully and conserved?",
+      "standards": [
+        "nios-obe-b:B102.L1.3",
+        "nios-obe-c:C102.L10"
+      ]
+    },
+    {
+      "id": "mt_D3sDOaujQk",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "Agriculture in India",
+      "description": "Understand farming in India — the main food and cash crops, the Rabi, Kharif and Zaid growing seasons, the stages of cultivation from sowing to harvest, and the factors (like rainfall) that affect a harvest.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Name major Indian crops and classify some as food or cash crops",
+        "Explain the Rabi, Kharif and Zaid seasons",
+        "Describe the main stages of growing a crop"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how crops are grown in India across the seasons — and name some of the main crops?",
+      "standards": [
+        "nios-obe-b:B102.L5.3",
+        "nios-obe-b:B102.L8.1",
+        "nios-obe-b:B102.L8.2",
+        "nios-obe-b:B102.L8.3",
+        "nios-obe-c:C102.L11"
+      ]
+    },
+    {
+      "id": "mt_QCQjNxURAP",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "Industries in India",
+      "description": "Understand what industries are and their types — from cottage and small-scale to heavy industry — and how industry in India has developed from ancient crafts to the modern day.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain what an industry is and give types (cottage, small-scale, heavy)",
+        "Give an example of an Indian industry",
+        "Describe how industry has changed over time"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what industries are, give different types, and describe how they turn raw materials into useful goods?",
+      "standards": [
+        "nios-obe-c:C102.L12"
+      ]
+    },
+    {
+      "id": "mt_ECbqGTZYhL",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Indian Democracy and Government",
+      "description": "Understand that India is a democracy governed by the people’s representatives, and that government has three parts — the legislature that makes laws, the executive that carries them out, and the judiciary that interprets them.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain what democracy means",
+        "Name the three organs of government and what each does",
+        "Explain why power is divided between them"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that India is a democracy and name the three parts of government — one that makes laws, one that carries them out, one that judges?",
+      "standards": [
+        "nios-obe-b:B102.L6.1",
+        "nios-obe-c:C102.L16",
+        "nios-obe-c:C102.L17",
+        "nios-obe-c:C102.L18"
+      ]
+    },
+    {
+      "id": "mt_zFL9HpDF22",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "The Constitution of India: Rights and Duties",
+      "description": "Understand that the Constitution is the highest set of rules for the country, that it grants citizens fundamental rights (like equality and freedom) and sets out fundamental duties, and how these shape everyday life.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain what a constitution is and why a country needs one",
+        "Name a few fundamental rights of Indian citizens",
+        "Give an example of a fundamental duty"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what the Constitution is, and name a right it gives citizens and a duty it asks of them?",
+      "standards": [
+        "nios-obe-c:C102.L17"
+      ]
+    },
+    {
+      "id": "mt_FJZZUv2ewS",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Local Self-Government: Panchayati Raj",
+      "description": "Understand how India governs itself locally — the tri-level Panchayati Raj system in villages (gram, block and district panchayats) and municipal bodies in towns and cities — and how these bring decisions close to people.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain what local self-government is",
+        "Describe the three levels of the Panchayati Raj system",
+        "Explain how local government differs from state and national government"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how a village or town runs its own local affairs through panchayats or municipal councils?",
+      "standards": [
+        "nios-obe-b:B102.L6.2",
+        "nios-obe-b:B102.L6.3",
+        "nios-obe-c:C102.L19"
+      ]
+    },
+    {
+      "id": "mt_Dx3DLwmuLq",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Elections and the Right to Vote",
+      "description": "Understand how democracy works through elections — universal adult franchise (every adult’s equal vote), political parties, and why voting is both a right and a responsibility that keeps democracy strong.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain what an election is and what universal adult franchise means",
+        "Explain why every vote counts equally",
+        "Explain why voting is a responsibility, not only a right"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how elections let people choose their government, and why every adult’s single vote matters?",
+      "standards": [
+        "nios-obe-c:C102.L19"
+      ]
+    },
+    {
+      "id": "mt_sfHoytwSwm",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "Unity in Diversity",
+      "description": "Understand that India is home to many languages, religions, cultures and traditions, that this diversity is a strength, and that shared values and a shared nation bind people together — as leaders like Ashoka and Akbar recognised.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Give examples of India’s linguistic, religious and cultural diversity",
+        "Explain what unites people across this diversity",
+        "Explain why respecting differences keeps a society peaceful"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how India can have so many languages and cultures and still be one country — and why that diversity is a strength?",
+      "standards": [
+        "nios-obe-b:B102.L1.1",
+        "nios-obe-b:B102.L2.1",
+        "nios-obe-b:B102.L2.2",
+        "nios-obe-b:B102.L2.3",
+        "nios-obe-b:B102.L2.4"
+      ]
+    },
+    {
+      "id": "mt_BlcpwdLsRX",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "Gender Equality and Social Reform",
+      "description": "Understand that a fair society treats girls and boys, women and men as equals — that education for all (including girls) matters, and that harmful practices like the dowry system are wrong and against the law.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain what gender equality means and why it is fair",
+        "Explain why educating girls matters",
+        "Recognise that harmful social practices like dowry are wrong and illegal"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why girls and boys deserve equal chances — in education and in life — and that harmful old customs like dowry are against the law?",
+      "standards": [
+        "nios-obe-b:B102.L3.1",
+        "nios-obe-b:B102.L3.2",
+        "nios-obe-b:B102.L3.3",
+        "nios-obe-b:B102.L3.4"
+      ]
+    },
+    {
+      "id": "mt_29aZtsWvgT",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "Population and Its Challenges",
+      "description": "Understand what population growth means for a country — its social and economic effects — and the ideas of birth rate, death rate and sex ratio, and why a balanced, healthy population matters.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain what population growth is",
+        "Describe an effect of rapid population growth on resources or services",
+        "Explain birth rate, death rate and sex ratio in simple terms"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why a country’s population size matters — how fast growth can strain resources like schools, water and jobs?",
+      "standards": [
+        "nios-obe-c:C102.L14"
+      ]
+    },
+    {
+      "id": "mt_t1uflyWbd1",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "National Development Schemes",
+      "description": "Understand major national schemes that aim to improve life for all — Swachh Bharat (Clean India), Clean Ganga, Skill India and Digital India — what each aims to do, and the role every citizen plays.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Name national development schemes and what each aims to achieve",
+        "Explain why cleanliness, skills or digital access help a country develop",
+        "Describe how an individual can contribute to such a scheme"
+      ],
+      "assessmentPrompt": "Can {{name}} name a national scheme like Swachh Bharat or Digital India, explain its goal, and say how an ordinary person can help?",
+      "standards": [
+        "nios-obe-c:C102.L20"
+      ]
+    },
+    {
+      "id": "mt_bhhWfhDRQh",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "The Human Body",
+      "name": "Kidneys and Excretion",
+      "description": "Understand that the body must remove the waste made by its cells, and that the kidneys filter the blood to make urine — the excretory system that keeps the body clean inside.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Explain why the body needs to remove waste",
+        "Describe what the kidneys do (filter blood, make urine)",
+        "Name the main parts of the excretory system"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what the kidneys do — cleaning the blood and removing waste as urine — and why that matters?",
+      "standards": [
+        "nios-obe-b:B102.L13.6",
+        "nios-obe-c:C105.L4"
+      ]
+    },
+    {
+      "id": "mt_GxmukTWBAR",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "The Human Body",
+      "name": "Communicable and Non-Communicable Diseases",
+      "description": "Understand the difference between communicable diseases that spread from person to person (like the cold, malaria or tuberculosis) and non-communicable diseases that do not (like diabetes or heart disease), and how good habits and vaccination help prevent illness.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Distinguish communicable from non-communicable diseases with examples",
+        "Explain how communicable diseases spread",
+        "Describe ways to prevent disease (hygiene, vaccination, avoiding harmful substances)"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the difference between a disease that spreads from person to person and one that does not — and name ways to stay healthy?",
+      "standards": [
+        "nios-obe-b:B102.L12.1",
+        "nios-obe-b:B102.L14.1",
+        "nios-obe-b:B102.L14.2",
+        "nios-obe-b:B102.L14.3",
+        "nios-obe-b:B102.L14.4"
+      ]
+    },
+    {
+      "id": "mt_bKvMdYmfbn",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Fibres and Fabrics",
+      "description": "Understand that cloth is made from fibres — some natural, from plants (cotton, jute) and animals (wool, silk), and some synthetic (nylon, polyester) — and that different fibres suit different uses.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Sort fibres into natural and synthetic",
+        "Match a natural fibre to its plant or animal source (cotton, wool, silk)",
+        "Explain why a fibre’s properties make it suitable for a particular use"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that cloth is made from fibres — some from plants or animals like cotton and wool, some made in factories — and match a fibre to where it comes from?",
+      "standards": [
+        "nios-obe-c:C105.L9"
+      ]
+    },
+    {
+      "id": "mt_MqjZhvyWVa",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Ecosystems & Habitats",
+      "name": "Waste and Its Management",
+      "description": "Understand that we produce different kinds of waste, that biodegradable and non-biodegradable waste should be separated, and that reducing, reusing and recycling — the aim of drives like Swachh Bharat — keeps the environment clean.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Sort waste into biodegradable and non-biodegradable",
+        "Explain the idea of reduce, reuse and recycle",
+        "Explain why separating and managing waste protects the environment"
+      ],
+      "assessmentPrompt": "Can {{name}} sort waste into what will rot away and what will not, and explain how reducing, reusing and recycling keep our surroundings clean?",
+      "standards": [
+        "nios-obe-b:B102.L15.1",
+        "nios-obe-b:B102.L15.2",
+        "nios-obe-b:B102.L15.3",
+        "nios-obe-c:C105.L21"
+      ]
+    },
+    {
+      "id": "mt_YYY63Ddd6O",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Multiplication & Division",
+      "name": "HCF and LCM",
+      "description": "Find the highest common factor (HCF) and lowest common multiple (LCM) of numbers — by listing factors and multiples and by prime factorisation — and use them to solve problems.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Find the HCF of two numbers by listing factors and by prime factorisation",
+        "Find the LCM of two numbers",
+        "Use HCF or LCM to solve a word problem"
+      ],
+      "assessmentPrompt": "Can {{name}} find the highest common factor and lowest common multiple of two numbers, and use them to solve a problem?",
+      "standards": [
+        "nios-obe-c:C103.L1"
+      ]
+    },
+    {
+      "id": "mt_zLG6El2cCk",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Number Representation & Place Value",
+      "name": "Square Roots and Cube Roots",
+      "description": "Understand square roots and cube roots as the inverse of squaring and cubing, and find them for perfect squares and cubes using prime factorisation and the division method.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain a square root and cube root as inverse operations",
+        "Find the square root of a perfect square by prime factorisation",
+        "Find the cube root of a perfect cube"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what a square root is and find the square root of a perfect square like 144?",
+      "standards": [
+        "nios-obe-c:C103.L3"
+      ]
+    },
+    {
+      "id": "mt_R3arzY0IjZ",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Ratio & Proportion",
+      "name": "Simple and Compound Interest",
+      "description": "Understand interest as the cost of borrowing or the reward for saving money, calculate simple interest, and understand how compound interest differs by adding interest onto interest.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain what interest is in everyday terms",
+        "Calculate simple interest given principal, rate and time",
+        "Explain the difference between simple and compound interest"
+      ],
+      "assessmentPrompt": "Can {{name}} work out the simple interest on a sum of money, and explain how compound interest is different?",
+      "standards": [
+        "nios-obe-c:C103.L9"
+      ]
+    },
+    {
+      "id": "mt_KrubSgPw8n",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Mathematical Thinking",
+      "name": "Vedic Mathematics",
+      "description": "Understand Vedic mathematics as a system of quick mental-calculation methods based on short rules (sutras) — such as methods for fast multiplication and squaring — an Indian mathematical tradition.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain what Vedic mathematics is and that it uses short rules (sutras)",
+        "Apply a Vedic sutra to multiply or square numbers quickly",
+        "Check a Vedic-method answer against the ordinary method"
+      ],
+      "assessmentPrompt": "Can {{name}} use a Vedic maths shortcut to multiply or square numbers quickly, and check that it gives the same answer as the usual method?",
+      "standards": [
+        "nios-obe-c:C103.L19",
+        "nios-obe-c:C103.L20"
+      ]
+    },
+    {
+      "id": "mt_AquDlNBiZ2",
+      "type": "REPRESENTATIONAL",
+      "subject": "Mathematics",
+      "domain": "Data & Statistics",
+      "name": "Pie Charts",
+      "description": "Read and draw pie charts — circular graphs where each slice shows a part of the whole — and understand when a pie chart is a good way to show data.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Read information from a pie chart",
+        "Explain that the whole circle represents the total and each slice a part",
+        "Choose a pie chart as an appropriate display for part-of-whole data"
+      ],
+      "assessmentPrompt": "Can {{name}} read a pie chart — understanding that the whole circle is the total and each slice is a part of it?",
+      "standards": [
+        "nios-obe-c:C103.L18"
+      ]
+    },
+    {
+      "id": "mt_Ba1TCziUYg",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Working with Spreadsheets",
+      "description": "Use a spreadsheet to enter data into rows and columns, use simple formulae and functions to calculate, and make charts from the data.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Enter and correct data in a spreadsheet’s rows and columns",
+        "Use a simple formula or function to calculate a result",
+        "Make a chart from spreadsheet data"
+      ],
+      "assessmentPrompt": "Can {{name}} put numbers into a spreadsheet and use a formula to add them up automatically?",
+      "standards": [
+        "nios-obe-b:B104.L3",
+        "nios-obe-c:C104.L3"
+      ]
+    },
+    {
+      "id": "mt_wBHFyquqBq",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Making Presentations",
+      "description": "Make a slide presentation — adding text, pictures and charts, formatting slides, sequencing them, and using templates, transitions and simple animation.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Create slides with text and images",
+        "Order slides into a sensible sequence",
+        "Apply a template, transition or animation"
+      ],
+      "assessmentPrompt": "Can {{name}} make a short slideshow with text and pictures, arranged in a sensible order?",
+      "standards": [
+        "nios-obe-b:B104.L4",
+        "nios-obe-c:C104.L4"
+      ]
+    },
+    {
+      "id": "mt_VyzX3sr3iU",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "The Internet and the Web",
+      "description": "Understand that the internet connects computers around the world, that the World Wide Web is made of websites and webpages, and how to connect, open websites and find information.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Explain in simple terms what the internet and the web are",
+        "Open a website and find information on it",
+        "Distinguish a website from a webpage"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what the internet is, and open a website to look something up?",
+      "standards": [
+        "nios-obe-b:B104.L5",
+        "nios-obe-c:C104.L6"
+      ]
+    },
+    {
+      "id": "mt_uaADKyENCh",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Sending Email",
+      "description": "Understand what email is and how an email address works, and send and receive messages — including attaching a file — understanding how email differs from ordinary post.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Explain what an email address is",
+        "Send an email message and attach a file",
+        "Explain how email differs from ordinary post"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how an email address works and send a message with a file attached?",
+      "standards": [
+        "nios-obe-b:B104.L7"
+      ]
+    },
+    {
+      "id": "mt_95JDcZrboX",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Online Safety and Computer Security",
+      "description": "Understand why computers and internet use need protection — making and keeping strong passwords, recognising the danger of computer viruses, and taking simple steps to stay safe online.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Explain why passwords should be strong and kept private",
+        "Explain what a computer virus is and how to reduce the risk",
+        "Describe a simple habit for staying safe online"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why a strong, private password matters and what a computer virus is?",
+      "standards": [
+        "nios-obe-b:B104.L6"
+      ]
+    },
+    {
+      "id": "mt_ntRFz3PisC",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Computer Networks",
+      "description": "Understand that a network connects computers so they can share information and resources, the main types of network, and the tools and connections that link them — the idea behind the internet itself.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain what a computer network is and why it is useful",
+        "Name types of network (e.g. local and wide-area)",
+        "Explain that the internet is a very large network of networks"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what a computer network is and why connecting computers together is useful?",
+      "standards": [
+        "nios-obe-c:C104.L5"
+      ]
+    },
+    {
+      "id": "mt_ZEI5s3w9Kr",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Multimedia",
+      "description": "Understand multimedia as the combination of text, images, sound, animation and video, where it is used (education, entertainment, marketing), and the devices that play it.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "List the elements of multimedia",
+        "Give examples of where multimedia is used",
+        "Name devices used to play or create multimedia"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what multimedia is — combining text, sound, pictures and video — and give an example of where it’s used?",
+      "standards": [
+        "nios-obe-c:C104.L7"
+      ]
+    },
+    {
+      "id": "mt_6PJWknNtc8",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Online Services: Banking and E-commerce",
+      "description": "Understand everyday online services — internet banking, e-commerce, e-governance, video conferencing and social networking — their benefits, and the precautions needed to use them safely.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Give examples of online services (banking, shopping, government services)",
+        "Explain a benefit of an online service",
+        "Describe a precaution for using online banking or shopping safely"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how services like online banking or shopping work, and name a precaution for using them safely?",
+      "standards": [
+        "nios-obe-c:C104.L6",
+        "nios-obe-c:C104.L8"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-07-14T15:22:18.678Z",
+  "generatedAt": "2026-07-14T16:23:33.274Z",
   "codesOnlySources": [
     "c3-social-studies",
     "ib-pyp-pspe",
@@ -9,40 +9,40 @@
     "ngss-ms"
   ],
   "counts": {
-    "topics": 1614,
+    "topics": 1655,
     "topicsBySubject": {
-      "Computing": 28,
+      "Computing": 36,
       "English": 286,
-      "History": 90,
+      "History": 101,
       "Learning to Learn": 18,
       "Life Skills": 37,
-      "Mathematics": 503,
+      "Mathematics": 508,
       "Personal & Social Development": 88,
-      "Science": 552,
-      "Social Studies": 12
+      "Science": 556,
+      "Social Studies": 25
     },
-    "dependencies": 3252,
-    "curricula": 8,
-    "curriculumStandards": 3310,
-    "topicStandardLinks": 1972,
-    "clusters": 192
+    "dependencies": 3307,
+    "curricula": 10,
+    "curriculumStandards": 3450,
+    "topicStandardLinks": 2195,
+    "clusters": 206
   },
   "files": {
     "topics.json": {
-      "bytes": 1694308,
-      "sha256": "fe99e029475ae657dc00073f17fa163b457247e3fbbaf4fe9a93b71bbf0eeaca"
+      "bytes": 1737704,
+      "sha256": "b71e7fb19b507f29f3df44be6ca22f94463baca56ca51f85cca06596db2a32be"
     },
     "dependencies.json": {
-      "bytes": 703177,
-      "sha256": "e3e80e920dac3248896672cfc20affc860fb60c52bcff74556f4e7ede78c77bd"
+      "bytes": 713761,
+      "sha256": "ca8639ef06d6ef678ca49efa9ee40c83c2b9ab588c7d276186deaf696a57486b"
     },
     "curriculum-standards.json": {
-      "bytes": 1645979,
-      "sha256": "d67a34a0661df425d7c306770ee7b2d53f30115e632d3606e5fe0bcd0bf1e53b"
+      "bytes": 1713735,
+      "sha256": "6a7c651b7509d21eed85c9fb7c1f2cfb285c6e853a7cab07ddff7bd64916a0fe"
     },
     "clusters.json": {
-      "bytes": 63908,
-      "sha256": "caf0ffefce8f3cf1dc81f526c8c272a10c105256f7611d99168dc00d5c51bf80"
+      "bytes": 67842,
+      "sha256": "30477010284477ea81b1365178a24e1ffcaca556dc4a0a06a5f718c8aa08dc18"
     }
   },
   "excluded": [

@@ -6,7 +6,7 @@
     "ngss-k5",
     "ngss-ms"
   ],
-  "curriculumCount": 8,
+  "curriculumCount": 10,
   "curricula": [
     {
       "slug": "uk-nc-2013",
@@ -37996,6 +37996,1710 @@
             "courseCode": "A-104",
             "lesson": "Lesson 6",
             "description": "Open and close a word-processing programme; type text, correct and format it, save it as a file or document, and open existing files."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nios-obe-b",
+      "country": "IN",
+      "name": "NIOS Open Basic Education (Adult) — Level 'B'",
+      "version": "2023",
+      "sourceUrl": "https://nios.ac.in/media/documents/Bleveleng.pdf",
+      "textIncluded": true,
+      "license": "NIOS Copyright Statement — reproduction permitted with prominent acknowledgment; see PROVENANCE.md",
+      "topicCount": 70,
+      "topics": [
+        {
+          "key": "nios-obe-b:B102.L1.1",
+          "code": "B102.L1.1",
+          "data": {
+            "title": "India's composite culture",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 1: Conservation and Respect of Indian Cultural & Natural Heritage",
+            "description": "Understand the significance of India's composite culture and the necessity of protecting it."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L1.2",
+          "code": "B102.L1.2",
+          "data": {
+            "title": "Historical heritage",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 1: Conservation and Respect of Indian Cultural & Natural Heritage",
+            "description": "Appreciate the importance of India’s historical heritage and its conservation."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L1.3",
+          "code": "B102.L1.3",
+          "data": {
+            "title": "Natural resources of India",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 1: Conservation and Respect of Indian Cultural & Natural Heritage",
+            "description": "Know India’s natural resources — forests, flora and fauna, water and mineral resources — their importance and conservation."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L2.1",
+          "code": "B102.L2.1",
+          "data": {
+            "title": "Diversity in India",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 2: Peace, Unity and Cultural Amalgamation",
+            "description": "Describe the linguistic, cultural and social diversity of India."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L2.2",
+          "code": "B102.L2.2",
+          "data": {
+            "title": "Unity amidst diversity",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 2: Peace, Unity and Cultural Amalgamation",
+            "description": "Recognise the threads of unity that run through India’s diversity."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L2.3",
+          "code": "B102.L2.3",
+          "data": {
+            "title": "Importance of peace and unity",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 2: Peace, Unity and Cultural Amalgamation",
+            "description": "Understand the importance of peace and unity and our responsibility towards them."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L2.4",
+          "code": "B102.L2.4",
+          "data": {
+            "title": "Peace policies of Ashoka and Akbar",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 2: Peace, Unity and Cultural Amalgamation",
+            "description": "Learn about the peace, unity and goodwill policies of emperors Ashoka and Akbar."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L3.1",
+          "code": "B102.L3.1",
+          "data": {
+            "title": "The small family",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 3: Our Social Concerns",
+            "description": "Understand the concept and importance of the small family (family planning) and our responsibility."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L3.2",
+          "code": "B102.L3.2",
+          "data": {
+            "title": "Education and the female child",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 3: Our Social Concerns",
+            "description": "Appreciate the importance of education and of educating the female child."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L3.3",
+          "code": "B102.L3.3",
+          "data": {
+            "title": "Gender equality and women’s rights",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 3: Our Social Concerns",
+            "description": "Understand the necessity of gender equality, the reasons for inequality, and the laws for women’s rights and empowerment."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L3.4",
+          "code": "B102.L3.4",
+          "data": {
+            "title": "Dowry and its prohibition",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 3: Our Social Concerns",
+            "description": "Understand the causes and ill effects of the dowry system and the Dowry Prohibition Act, 1961."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L4.1",
+          "code": "B102.L4.1",
+          "data": {
+            "title": "Establishment of British rule",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 4: Our Freedom Struggle",
+            "description": "Learn how British rule was established in India and the era of subjugation that followed."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L4.2",
+          "code": "B102.L4.2",
+          "data": {
+            "title": "The freedom movement",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 4: Our Freedom Struggle",
+            "description": "Learn about the freedom movement, important revolutionaries, their struggle and the attainment of freedom."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L5.1",
+          "code": "B102.L5.1",
+          "data": {
+            "title": "States and Union Territories",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 5: States of India and their Natural Features",
+            "description": "Identify the states and union territories of India."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L5.2",
+          "code": "B102.L5.2",
+          "data": {
+            "title": "India on the world map",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 5: States of India and their Natural Features",
+            "description": "Locate India on the world map and describe its natural features and resources."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L5.3",
+          "code": "B102.L5.3",
+          "data": {
+            "title": "Crops and plants of India",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 5: States of India and their Natural Features",
+            "description": "Describe the various crops and plants of India."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L6.1",
+          "code": "B102.L6.1",
+          "data": {
+            "title": "Indian democracy and governance",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 6: Our Community and Public Administration",
+            "description": "Identify the democratic mode of governance in India — the legislature, executive and judiciary."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L6.2",
+          "code": "B102.L6.2",
+          "data": {
+            "title": "Rural public administration",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 6: Our Community and Public Administration",
+            "description": "Understand rural public administration — the village, area and district panchayats, their constitution, function and tenure."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L6.3",
+          "code": "B102.L6.3",
+          "data": {
+            "title": "Urban public administration",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 6: Our Community and Public Administration",
+            "description": "Understand urban public administration — city administration, municipal councils and commissions, their constitution, function and tenure."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L7.1",
+          "code": "B102.L7.1",
+          "data": {
+            "title": "Interdependence and the food chain",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 7: Plant and Animal Life",
+            "description": "Understand the interdependence between plants and animals and the food chain."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L7.2",
+          "code": "B102.L7.2",
+          "data": {
+            "title": "Natural equilibrium",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 7: Plant and Animal Life",
+            "description": "Understand the importance of natural equilibrium and the ill effects of imbalance in nature."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L7.3",
+          "code": "B102.L7.3",
+          "data": {
+            "title": "Conservation of forests and wildlife",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 7: Plant and Animal Life",
+            "description": "Understand the conservation of the environment, forests and wild animals."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L8.1",
+          "code": "B102.L8.1",
+          "data": {
+            "title": "Soil and crops",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 8: Soil and Crops",
+            "description": "Understand the significance of soil, the types of soil and the crops cultivated in them."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L8.2",
+          "code": "B102.L8.2",
+          "data": {
+            "title": "Agricultural activities",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 8: Soil and Crops",
+            "description": "Describe the important activities of cultivation — preparing the land, sowing, seed protection, weeding, irrigation, manures and fertilizers, crop protection and harvest."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L8.3",
+          "code": "B102.L8.3",
+          "data": {
+            "title": "Rabi, Kharif and Zaid crops",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 8: Soil and Crops",
+            "description": "Know the crops grown in particular seasons — Rabi, Kharif and Zaid."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L9.1",
+          "code": "B102.L9.1",
+          "data": {
+            "title": "Soil erosion",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 9: Soil & Forest Conservation",
+            "description": "Understand soil erosion, its ill effects, its causes and preventive measures."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L9.2",
+          "code": "B102.L9.2",
+          "data": {
+            "title": "Forests and erosion",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 9: Soil & Forest Conservation",
+            "description": "Understand the role of forest conservation in preventing soil erosion."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L9.3",
+          "code": "B102.L9.3",
+          "data": {
+            "title": "Soil pollution",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 9: Soil & Forest Conservation",
+            "description": "Understand the ill effects of soil pollution, its causes and preventive measures, with reference to bio-agriculture."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L10.1",
+          "code": "B102.L10.1",
+          "data": {
+            "title": "Need for energy",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 10: Sources of Energy",
+            "description": "Understand the need and importance of energy."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L10.2",
+          "code": "B102.L10.2",
+          "data": {
+            "title": "Exhaustible and non-exhaustible sources",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 10: Sources of Energy",
+            "description": "Distinguish between exhaustible and non-exhaustible sources of energy."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L10.3",
+          "code": "B102.L10.3",
+          "data": {
+            "title": "Types of energy",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 10: Sources of Energy",
+            "description": "Know the types of energy — from food, solar, wind, water, bio, electrical and magnetic energy."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L10.4",
+          "code": "B102.L10.4",
+          "data": {
+            "title": "Alternative energy and conservation",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 10: Sources of Energy",
+            "description": "Understand the use of alternative sources of energy and measures for saving energy."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L11.1",
+          "code": "B102.L11.1",
+          "data": {
+            "title": "Solar system, planets and satellites",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 11: Solar System & the Earth",
+            "description": "Describe the solar system, its planets and satellites and their qualities."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L11.2",
+          "code": "B102.L11.2",
+          "data": {
+            "title": "Phases of the Moon",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 11: Solar System & the Earth",
+            "description": "Understand the phases of the Moon and the cycle of dates in accordance with them."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L11.3",
+          "code": "B102.L11.3",
+          "data": {
+            "title": "Natural and artificial satellites",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 11: Solar System & the Earth",
+            "description": "Distinguish between natural and artificial satellites and understand the significance and utility of artificial satellites."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L11.4",
+          "code": "B102.L11.4",
+          "data": {
+            "title": "Latitude, longitude and time",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 11: Solar System & the Earth",
+            "description": "Understand the Earth’s lines of longitude and latitude and how time is known on the basis of latitude."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L11.5",
+          "code": "B102.L11.5",
+          "data": {
+            "title": "Day-night cycle and seasons",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 11: Solar System & the Earth",
+            "description": "Understand the expansion and contraction of the day-night cycle and the positions of 21 June, 22 December, 21 March and 23 September."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L12.1",
+          "code": "B102.L12.1",
+          "data": {
+            "title": "Deficiency diseases",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 12: Food & Health",
+            "description": "Diagnose and prevent deficiency diseases — anaemia, kwashiorkor, marasmus, night blindness, goitre, slow mental development and beriberi."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L12.2",
+          "code": "B102.L12.2",
+          "data": {
+            "title": "Inexpensive nutritious food",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 12: Food & Health",
+            "description": "Identify inexpensive nutritious food and conditions in which food intake should be carefully monitored."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L12.3",
+          "code": "B102.L12.3",
+          "data": {
+            "title": "Storage of food",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 12: Food & Health",
+            "description": "Know methods of storing food items — drying and cooling, with spices and oil, with chemicals, by cooking, freezing and storing in boxes."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.1",
+          "code": "B102.L13.1",
+          "data": {
+            "title": "Internal organs overview",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Know the internal organs of the human body and their importance."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.2",
+          "code": "B102.L13.2",
+          "data": {
+            "title": "Skeleton and muscles",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Know the main parts of the skeleton and their functions, and the types and functions of muscles."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.3",
+          "code": "B102.L13.3",
+          "data": {
+            "title": "Digestive system",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Know the digestive system — mouth, food pipe, stomach, small and large intestine, rectum and liver — and their functions."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.4",
+          "code": "B102.L13.4",
+          "data": {
+            "title": "Lungs",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Understand the structure, functions and significance of the lungs."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.5",
+          "code": "B102.L13.5",
+          "data": {
+            "title": "Heart",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Understand the structure, functions and significance of the heart."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.6",
+          "code": "B102.L13.6",
+          "data": {
+            "title": "Kidneys",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Understand the structure, functions and significance of the kidneys."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.7",
+          "code": "B102.L13.7",
+          "data": {
+            "title": "Brain",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Understand the structure, functions and significance of the brain."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.8",
+          "code": "B102.L13.8",
+          "data": {
+            "title": "Reproductive organs",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Understand the structure, functions and significance of the reproductive organs in the human male and female."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L14.1",
+          "code": "B102.L14.1",
+          "data": {
+            "title": "Contagious and non-contagious diseases",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 14: Common Diseases",
+            "description": "Distinguish between contagious (communicable) and non-contagious diseases."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L14.2",
+          "code": "B102.L14.2",
+          "data": {
+            "title": "Communicable diseases",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 14: Common Diseases",
+            "description": "Know the symptoms, causes and prevention of major communicable diseases — diarrhoea, malaria, cholera, dengue, elephantiasis, typhoid, tuberculosis, common cold, influenza, pneumonia and HIV-AIDS."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L14.3",
+          "code": "B102.L14.3",
+          "data": {
+            "title": "Non-communicable diseases",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 14: Common Diseases",
+            "description": "Know the symptoms, causes and prevention of some non-communicable diseases — heart attack, diabetes and cancer."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L14.4",
+          "code": "B102.L14.4",
+          "data": {
+            "title": "Preventing disease",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 14: Common Diseases",
+            "description": "Know the main preventive measures against disease — hygiene, care around communicable patients, vaccination, and avoiding tobacco, alcohol and drugs."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L15.1",
+          "code": "B102.L15.1",
+          "data": {
+            "title": "Categories of waste",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 15: Disposal of Waste Material",
+            "description": "Identify the categories of waste materials."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L15.2",
+          "code": "B102.L15.2",
+          "data": {
+            "title": "Disposing of waste",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 15: Disposal of Waste Material",
+            "description": "Dispose of waste by its nature, using separate bins for biodegradable and non-biodegradable waste."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L15.3",
+          "code": "B102.L15.3",
+          "data": {
+            "title": "A clean environment",
+            "level": "Level 'B'",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "lesson": "Lesson 15: Disposal of Waste Material",
+            "description": "Understand that keeping a clean environment is our shared responsibility."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L1",
+          "code": "B103.L1",
+          "data": {
+            "title": "Numbers",
+            "level": "Level 'B'",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "lesson": "Lesson 1",
+            "description": "Read and write numbers from 1001 up to one crore in figures and words; understand place value and expanded form; compare and order numbers; and make the smallest and largest numbers from given digits."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L2",
+          "code": "B103.L2",
+          "data": {
+            "title": "Addition, Subtraction, Multiplication & Division",
+            "level": "Level 'B'",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "lesson": "Lesson 2",
+            "description": "Add, subtract, multiply and divide numbers of up to three digits, and solve everyday problems using the four operations."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L3",
+          "code": "B103.L3",
+          "data": {
+            "title": "Fractions",
+            "level": "Level 'B'",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "lesson": "Lesson 3",
+            "description": "Read, write and picture fractions; find equivalent fractions and lowest terms; compare and order fractions; convert between mixed and improper fractions; add, subtract, multiply and divide fractions; and solve everyday problems."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L4",
+          "code": "B103.L4",
+          "data": {
+            "title": "Decimals",
+            "level": "Level 'B'",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "lesson": "Lesson 4",
+            "description": "Understand decimals; convert between fractions and decimals; compare and order decimals; carry out the four operations with decimals; convert decimals to percentages; and use decimals in everyday life."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L5",
+          "code": "B103.L5",
+          "data": {
+            "title": "Mensuration",
+            "level": "Level 'B'",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "lesson": "Lesson 5",
+            "description": "Use units of length, weight, capacity, heat and time and Indian currency; and solve everyday problems involving measurement."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L6",
+          "code": "B103.L6",
+          "data": {
+            "title": "Perimeter, Area and Volume",
+            "level": "Level 'B'",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "lesson": "Lesson 6",
+            "description": "Understand and find the perimeter and area of plane figures and the volume of solid structures."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L7",
+          "code": "B103.L7",
+          "data": {
+            "title": "Geometry",
+            "level": "Level 'B'",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "lesson": "Lesson 7",
+            "description": "Recognise curves, line segments and rays; identify and compare angles; draw and measure angles with a protractor; draw circles and know their parts; and recognise parallel and non-parallel lines."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L8",
+          "code": "B103.L8",
+          "data": {
+            "title": "Statistics",
+            "level": "Level 'B'",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "lesson": "Lesson 8",
+            "description": "Understand what data is and why it is needed; collect and manage data; represent it pictorially; and analyse it to draw results."
+          }
+        },
+        {
+          "key": "nios-obe-b:B104.L1",
+          "code": "B104.L1",
+          "data": {
+            "title": "Revision",
+            "level": "Level 'B'",
+            "course": "Basic Computer Skills",
+            "courseCode": "B-104",
+            "lesson": "Lesson 1",
+            "description": "Revise the computer and its uses, its parts and operating systems, and making and sending documents."
+          }
+        },
+        {
+          "key": "nios-obe-b:B104.L2",
+          "code": "B104.L2",
+          "data": {
+            "title": "Word Processing: Specialties",
+            "level": "Level 'B'",
+            "course": "Basic Computer Skills",
+            "courseCode": "B-104",
+            "lesson": "Lesson 2",
+            "description": "Make tables in a word processor and fill them; change fonts; type documents in Hindi and other languages; and send a document to many people (mail merge)."
+          }
+        },
+        {
+          "key": "nios-obe-b:B104.L3",
+          "code": "B104.L3",
+          "data": {
+            "title": "Spreadsheet",
+            "level": "Level 'B'",
+            "course": "Basic Computer Skills",
+            "courseCode": "B-104",
+            "lesson": "Lesson 3",
+            "description": "Understand and make a spreadsheet, its parts, and the mathematical formulae and equations available in it; fill and correct data."
+          }
+        },
+        {
+          "key": "nios-obe-b:B104.L4",
+          "code": "B104.L4",
+          "data": {
+            "title": "Presentation",
+            "level": "Level 'B'",
+            "course": "Basic Computer Skills",
+            "courseCode": "B-104",
+            "lesson": "Lesson 4",
+            "description": "Make presentations — inserting pictures, graphs and text, formatting, editing and sequencing slides."
+          }
+        },
+        {
+          "key": "nios-obe-b:B104.L5",
+          "code": "B104.L5",
+          "data": {
+            "title": "Internet and Its Benefits",
+            "level": "Level 'B'",
+            "course": "Basic Computer Skills",
+            "courseCode": "B-104",
+            "lesson": "Lesson 5",
+            "description": "Understand the internet and its benefits; connect to it; use the World Wide Web, websites and webpages; and collect information and read online newspapers."
+          }
+        },
+        {
+          "key": "nios-obe-b:B104.L6",
+          "code": "B104.L6",
+          "data": {
+            "title": "Computer Security",
+            "level": "Level 'B'",
+            "course": "Basic Computer Skills",
+            "courseCode": "B-104",
+            "lesson": "Lesson 6",
+            "description": "Understand the need for computer and internet security, rules for making and keeping passwords, and protection from computer viruses."
+          }
+        },
+        {
+          "key": "nios-obe-b:B104.L7",
+          "code": "B104.L7",
+          "data": {
+            "title": "E-Mail",
+            "level": "Level 'B'",
+            "course": "Basic Computer Skills",
+            "courseCode": "B-104",
+            "lesson": "Lesson 7",
+            "description": "Understand email and email addresses; the difference between post and email; and creating an account, using an address book, and sending messages with attachments."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nios-obe-c",
+      "country": "IN",
+      "name": "NIOS Open Basic Education (Adult) — Level 'C'",
+      "version": "2023",
+      "sourceUrl": "https://nios.ac.in/media/documents/Cleveleng.pdf",
+      "textIncluded": true,
+      "license": "NIOS Copyright Statement — reproduction permitted with prominent acknowledgment; see PROVENANCE.md",
+      "topicCount": 70,
+      "topics": [
+        {
+          "key": "nios-obe-c:C102.L1",
+          "code": "C102.L1",
+          "data": {
+            "title": "Evolution of Human Civilization",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 1",
+            "description": "Trace the evolution of human civilization — ancient society and life, early beliefs, the Indus Valley Civilization, the rise of urban life, and the beginnings of agriculture."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L2",
+          "code": "C102.L2",
+          "data": {
+            "title": "The Vedic Civilization",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 2",
+            "description": "Understand the Vedic civilization — the Vedas; social, economic and political systems of the Vedic age; and the Ramayana and Mahabharata period."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L3",
+          "code": "C102.L3",
+          "data": {
+            "title": "Life during the Post-Vedic Age",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 3",
+            "description": "Learn about the post-Vedic age — the janapadas and mahajanapadas, the Nanda dynasty, and the Maurya Empire."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L4",
+          "code": "C102.L4",
+          "data": {
+            "title": "Advent of the Medieval Age",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 4",
+            "description": "Learn about the Gupta dynasty and Kanishka, the reign of Harshavardhana, and the southern kingdoms of the Cholas, Cheras and Pandyas."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L5",
+          "code": "C102.L5",
+          "data": {
+            "title": "The Delhi Sultanate",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 5",
+            "description": "Learn about the arrival of the Arabs and Islam in India and the Delhi Sultanate — the Slave Dynasty and its economic, agricultural, market and cultural reforms."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L6",
+          "code": "C102.L6",
+          "data": {
+            "title": "The Mughals, the Marathas and the Rajputs",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 6",
+            "description": "Learn about the Mughal Empire and its achievements, the Maratha Empire, and the history of the Rajputs and their relations with the Mughals."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L7",
+          "code": "C102.L7",
+          "data": {
+            "title": "The British Rule",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 7",
+            "description": "Learn about the arrival of the East India Company, the expansion of British rule, the 19th-century social, educational and religious reforms, and the first war of independence in 1857."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L8",
+          "code": "C102.L8",
+          "data": {
+            "title": "Freedom Struggle",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 8",
+            "description": "Learn about the national freedom struggle, its impact, and the situation in post-independence India."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L9",
+          "code": "C102.L9",
+          "data": {
+            "title": "Physical Features of India",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 9",
+            "description": "Describe the physical features of India — its expanse, climate and monsoon, natural resources, soils and their conservation, water resources, and forest resources."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L10",
+          "code": "C102.L10",
+          "data": {
+            "title": "Minerals and Energy Resources",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 10",
+            "description": "Know India’s mineral and energy resources — traditional sources (coal, petroleum, atomic energy) and non-traditional sources (solar, wind)."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L11",
+          "code": "C102.L11",
+          "data": {
+            "title": "Agriculture in India",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 11",
+            "description": "Understand the types of agriculture in India, the major food and cash crops, the Rabi, Kharif and Zaid seasons, and the factors that affect agriculture."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L12",
+          "code": "C102.L12",
+          "data": {
+            "title": "Our Industries",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 12",
+            "description": "Understand industries and their types and the development of industry in India — small-scale, cottage, medium and heavy industry."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L13",
+          "code": "C102.L13",
+          "data": {
+            "title": "Transportation and Communication",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 13",
+            "description": "Describe the modes of transportation — road, rail and air — and the tele-communication revolution."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L14",
+          "code": "C102.L14",
+          "data": {
+            "title": "Population Explosion and Control",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 14",
+            "description": "Understand the social and economic impact of population explosion and the ways of controlling population — birth rate, death rate and sex ratio."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L15",
+          "code": "C102.L15",
+          "data": {
+            "title": "Financial Life",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 15",
+            "description": "Understand financial life and needs, the division of labour, the inclusion of women in economic growth, and the market-centric economy."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L16",
+          "code": "C102.L16",
+          "data": {
+            "title": "Nature of Governance Systems",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 16",
+            "description": "Understand the need for government and the state, and the types of governance — monarchy, fascism, colonialism and democracy."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L17",
+          "code": "C102.L17",
+          "data": {
+            "title": "The Indian Constitution",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 17",
+            "description": "Understand the features of the Indian Constitution, fundamental rights and duties, and parliamentary democracy — the legislature and executive."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L18",
+          "code": "C102.L18",
+          "data": {
+            "title": "State Government",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 18",
+            "description": "Understand the state legislature (assembly and council) and executive (governor, chief minister and council of ministers) — their organisation, powers and functioning."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L19",
+          "code": "C102.L19",
+          "data": {
+            "title": "Democracy and Local Self-Governance",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 19",
+            "description": "Understand the nature of democracy and its fundamental ingredients — the constitution, fundamental rights, universal adult franchise, political parties and elections — and local self-governance through the tri-level Panchayati Raj and urban bodies."
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L20",
+          "code": "C102.L20",
+          "data": {
+            "title": "India on the Path of Progress",
+            "level": "Level 'C'",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "lesson": "Lesson 20",
+            "description": "Learn about national development schemes — Swachh Bharat Abhiyan, Clean Ganga, Skill India and Digital India."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L1",
+          "code": "C103.L1",
+          "data": {
+            "title": "Natural and Whole Numbers",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 1, Lesson 1",
+            "description": "Understand natural and whole numbers, their properties, factors and multiples; prime and co-prime numbers; prime factorisation; and finding HCF and LCM by factorisation and division, and the divisibility rules."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L2",
+          "code": "C103.L2",
+          "data": {
+            "title": "Whole Numbers",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 1, Lesson 2",
+            "description": "Plot whole numbers on the number line, add and subtract on it, and understand the properties and operations of whole numbers."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L3",
+          "code": "C103.L3",
+          "data": {
+            "title": "Squares and Square Roots, Cubes and Cube Roots",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 1, Lesson 3",
+            "description": "Understand squares and square roots and cubes and cube roots, and find them by prime factorisation and the division method."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L4",
+          "code": "C103.L4",
+          "data": {
+            "title": "Introduction to Algebra",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 2, Lesson 4",
+            "description": "Understand variables and constants, algebraic terms, and the addition, subtraction and multiplication of algebraic expressions."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L5",
+          "code": "C103.L5",
+          "data": {
+            "title": "Algebraic Expressions and Operations",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 2, Lesson 5",
+            "description": "Understand algebraic expressions, their types and value, and their addition, subtraction, multiplication and division."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L6",
+          "code": "C103.L6",
+          "data": {
+            "title": "Linear Equations in One Variable",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 2, Lesson 6",
+            "description": "Understand and solve linear equations in one variable."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L7",
+          "code": "C103.L7",
+          "data": {
+            "title": "Ratio and Proportion",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 3, Lesson 7",
+            "description": "Understand ratio, proportion and its types, the unitary method, and problems of time and work and time and distance."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L8",
+          "code": "C103.L8",
+          "data": {
+            "title": "Percentage and its Applications",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 3, Lesson 8",
+            "description": "Understand percentage as a fraction, convert between them, and solve problems of profit and loss and discount."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L9",
+          "code": "C103.L9",
+          "data": {
+            "title": "Simple and Compound Interest",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 3, Lesson 9",
+            "description": "Understand and calculate simple interest and compound interest and the difference between them."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L10",
+          "code": "C103.L10",
+          "data": {
+            "title": "Fundamental Concepts of Geometry",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 4, Lesson 10",
+            "description": "Understand points, lines and surfaces, line segments and rays, open and closed figures, and the use of geometrical instruments."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L11",
+          "code": "C103.L11",
+          "data": {
+            "title": "Angles and Parallel Lines",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 4, Lesson 11",
+            "description": "Understand angles and their measurement, draw angles of given measures, and understand parallel and perpendicular lines."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L12",
+          "code": "C103.L12",
+          "data": {
+            "title": "Triangles and their Types",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 4, Lesson 12",
+            "description": "Understand triangles and their parts, the angle-sum property, types of triangle, and the Pythagoras theorem for right-angled triangles."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L13",
+          "code": "C103.L13",
+          "data": {
+            "title": "Quadrilaterals and their Types",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 4, Lesson 13",
+            "description": "Understand quadrilaterals and their parts, the angle sum, and the trapezium, rectangle, square and rhombus."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L14",
+          "code": "C103.L14",
+          "data": {
+            "title": "Circle",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 4, Lesson 14",
+            "description": "Understand the parts of a circle, draw a circle, and understand chords and the angle in a semicircle."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L15",
+          "code": "C103.L15",
+          "data": {
+            "title": "Congruent and Similar Figures",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 4, Lesson 15",
+            "description": "Understand congruence and the SSS, SAS, ASA and RHS rules, and the concept of similarity."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L16",
+          "code": "C103.L16",
+          "data": {
+            "title": "Area of Plane Figures",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 5, Lesson 16",
+            "description": "Find the area of triangles, rectangles, squares, parallelograms and trapeziums, and the circumference and area of a circle."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L17",
+          "code": "C103.L17",
+          "data": {
+            "title": "Volume of Solids",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 5, Lesson 17",
+            "description": "Understand the dimensions of cubes and cuboids and find their surface area and volume."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L18",
+          "code": "C103.L18",
+          "data": {
+            "title": "Introduction to Statistics",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 5, Lesson 18",
+            "description": "Collect, present and classify data; and read, draw and interpret bar graphs and pie charts."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L19",
+          "code": "C103.L19",
+          "data": {
+            "title": "Introduction to Vedic Mathematics",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 6, Lesson 19",
+            "description": "Understand the importance, formulae (sutras) and meaning of Vedic mathematics, including vinculum numbers and formulae for addition and subtraction."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L20",
+          "code": "C103.L20",
+          "data": {
+            "title": "Applications of Vedic Mathematics",
+            "level": "Level 'C'",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "lesson": "Module 6, Lesson 20",
+            "description": "Apply Vedic mathematics sutras — such as Ekanyunena Purvena, Ekadhikena, Nikhilam and Urdhva-Tiryagbhyam — for rapid multiplication and squaring."
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L1",
+          "code": "C104.L1",
+          "data": {
+            "title": "Revision",
+            "level": "Level 'C'",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "lesson": "Lesson 1",
+            "description": "Revise the computer, operating system, word processing, spreadsheet, presentation, computer security, internet and email."
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L2",
+          "code": "C104.L2",
+          "data": {
+            "title": "Word Processing",
+            "level": "Level 'C'",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "lesson": "Lesson 2",
+            "description": "Use tabs and indentation, page setup, print preview, printing and word art to make documents orderly and attractive."
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L3",
+          "code": "C104.L3",
+          "data": {
+            "title": "Spreadsheet",
+            "level": "Level 'C'",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "lesson": "Lesson 3",
+            "description": "Insert and use types of charts, and basic formulae and functions in a spreadsheet."
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L4",
+          "code": "C104.L4",
+          "data": {
+            "title": "Presentation",
+            "level": "Level 'C'",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "lesson": "Lesson 4",
+            "description": "Make presentations using templates, insert audio and video clips, and use slide transitions and animation."
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L5",
+          "code": "C104.L5",
+          "data": {
+            "title": "Computer Network",
+            "level": "Level 'C'",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "lesson": "Lesson 5",
+            "description": "Understand computer networks, their uses and types, network tools and connections."
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L6",
+          "code": "C104.L6",
+          "data": {
+            "title": "Internet",
+            "level": "Level 'C'",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "lesson": "Lesson 6",
+            "description": "Understand the internet and its benefits — categories of websites, video conferencing, social networking, e-governance, e-commerce, chatting and instant messaging."
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L7",
+          "code": "C104.L7",
+          "data": {
+            "title": "Multimedia",
+            "level": "Level 'C'",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "lesson": "Lesson 7",
+            "description": "Understand the elements, scope and instruments of multimedia."
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L8",
+          "code": "C104.L8",
+          "data": {
+            "title": "Internet Banking",
+            "level": "Level 'C'",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "lesson": "Lesson 8",
+            "description": "Understand e-banking, its types and benefits, and the precautions to take while making online transactions."
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L9",
+          "code": "C104.L9",
+          "data": {
+            "title": "Job Prospects in the Computer Sector",
+            "level": "Level 'C'",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "lesson": "Lesson 9",
+            "description": "Understand the availability of jobs in the computer sector and searching for jobs using computers and the internet."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L1",
+          "code": "C105.L1",
+          "data": {
+            "title": "What is Science",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 1: Living World",
+            "description": "Understand the concept of science, scientific outlook, the relation between science and technology, and the contribution of Indian scientists."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L2",
+          "code": "C105.L2",
+          "data": {
+            "title": "Living Beings and their Environment",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 1: Living World",
+            "description": "Understand the characteristics of living beings, the structure of the cell, the difference between plant and animal cells, and habitats and adaptation."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L3",
+          "code": "C105.L3",
+          "data": {
+            "title": "Plant and Animal Kingdom",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 1: Living World",
+            "description": "Classify plants and recognise the structure and functions of their parts; understand the diversity of animals, types of movement, and the human skeletal system."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L4",
+          "code": "C105.L4",
+          "data": {
+            "title": "Life Processes I: Respiration, Circulation & Excretion",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 1: Living World",
+            "description": "Understand respiration, the circulatory system and blood, and the excretory system in humans and other organisms and in plants."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L5",
+          "code": "C105.L5",
+          "data": {
+            "title": "Life Processes II: Reproduction",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 1: Living World",
+            "description": "Understand asexual and sexual reproduction, reproduction in humans, heredity, and reproduction in plants."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L6",
+          "code": "C105.L6",
+          "data": {
+            "title": "Types of Matter I",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 2: Matter",
+            "description": "Understand the states of matter, solubility, solutions, and methods of separating mixtures (filtration, sedimentation, distillation, crystallisation and more)."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L7",
+          "code": "C105.L7",
+          "data": {
+            "title": "Types of Matter II",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 2: Matter",
+            "description": "Understand metals and non-metals, their physical properties and reactions."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L8",
+          "code": "C105.L8",
+          "data": {
+            "title": "How Things Change",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 2: Matter",
+            "description": "Understand physical and chemical changes, types of chemical reaction, and acids and bases and their indicators."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L9",
+          "code": "C105.L9",
+          "data": {
+            "title": "Fibres and Clothes",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 2: Matter",
+            "description": "Understand natural and artificial fibres, their sources (cotton, wool, silk, synthetics) and their properties and uses."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L10",
+          "code": "C105.L10",
+          "data": {
+            "title": "Heat",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 2: Matter",
+            "description": "Understand heat, the thermometer, the transfer of heat by conduction, convection and radiation, and combustion and fuels."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L11",
+          "code": "C105.L11",
+          "data": {
+            "title": "Nourishment for Plants and Animals",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 3: Food",
+            "description": "Understand autotrophic and heterotrophic nutrition, photosynthesis, the modes of heterotrophic nutrition, and human digestion."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L12",
+          "code": "C105.L12",
+          "data": {
+            "title": "Microorganisms",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 3: Food",
+            "description": "Understand the types of microorganisms, beneficial and harmful microorganisms, the nitrogen cycle, and diseases they cause."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L13",
+          "code": "C105.L13",
+          "data": {
+            "title": "Crop Cultivation",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 3: Food",
+            "description": "Understand the types of crops and the stages of cultivation — preparing soil, sowing, fertilising, irrigation, weeding, harvesting and storage."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L14",
+          "code": "C105.L14",
+          "data": {
+            "title": "Magnetism, Electric Current and Circuits",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 4: How Things Work",
+            "description": "Understand magnets and their properties, electric circuits, conductors and insulators, and the magnetic effect of electricity."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L15",
+          "code": "C105.L15",
+          "data": {
+            "title": "Objects in Motion, Pressure and Friction",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 5: Objects in Motion",
+            "description": "Understand motion, force, pressure and atmospheric pressure, and the factors affecting friction and its benefits and harms."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L16",
+          "code": "C105.L16",
+          "data": {
+            "title": "Sound",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 5: Objects in Motion",
+            "description": "Understand how sound is produced by vibration, how it travels through different media, and noise pollution and its control."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L17",
+          "code": "C105.L17",
+          "data": {
+            "title": "Light",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 6: Natural Phenomena",
+            "description": "Understand the propagation of light; transparent, translucent and opaque objects; reflection and images; lenses; and the structure and defects of the eye."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L18",
+          "code": "C105.L18",
+          "data": {
+            "title": "Natural Phenomena and Disaster Management",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 6: Natural Phenomena",
+            "description": "Understand natural phenomena and calamities and their management."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L19",
+          "code": "C105.L19",
+          "data": {
+            "title": "Natural Resources I: Physical",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 7: Natural Resources",
+            "description": "Understand physical resources — air, water, soil, coal and petroleum; the water cycle; air and water pollution and its control; rainwater harvesting; and the formation and judicious use of fossil fuels."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L20",
+          "code": "C105.L20",
+          "data": {
+            "title": "Natural Resources II: Biological",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 7: Natural Resources",
+            "description": "Understand the importance of forests, flora and fauna, biodiversity, and the conservation of forests and biodiversity."
+          }
+        },
+        {
+          "key": "nios-obe-c:C105.L21",
+          "code": "C105.L21",
+          "data": {
+            "title": "Waste Management and Swachh Bharat",
+            "level": "Level 'C'",
+            "course": "Science",
+            "courseCode": "C-105",
+            "lesson": "Module 7: Natural Resources",
+            "description": "Understand waste and its harmful accumulation, the process of waste management (reduce, recycle, reuse), sewage management, and the Swachh Bharat (Clean India) drive."
           }
         }
       ]

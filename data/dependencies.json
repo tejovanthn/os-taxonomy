@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3252,
+  "edgeCount": 3307,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -19514,6 +19514,336 @@
       "prerequisiteId": "mt_ZRqI3Tlye4",
       "strength": "hard",
       "reason": "Word processing requires opening programs and saving files through the operating system"
+    },
+    {
+      "topicId": "mt_jgJMDA0GTY",
+      "prerequisiteId": "mt_9UT0aF8Fmn",
+      "strength": "soft",
+      "reason": "The Vedic age follows the Indus Valley Civilisation in the story of ancient India"
+    },
+    {
+      "topicId": "mt_SBHKtfCzu3",
+      "prerequisiteId": "mt_jgJMDA0GTY",
+      "strength": "soft",
+      "reason": "The Maurya Empire arises after the Vedic and later-Vedic periods"
+    },
+    {
+      "topicId": "mt_EpCX1FgGqv",
+      "prerequisiteId": "mt_SBHKtfCzu3",
+      "strength": "soft",
+      "reason": "The Gupta age follows the Maurya Empire in chronology"
+    },
+    {
+      "topicId": "mt_fxcXASVcXE",
+      "prerequisiteId": "mt_SBHKtfCzu3",
+      "strength": "soft",
+      "reason": "The southern kingdoms are studied alongside the post-Mauryan north"
+    },
+    {
+      "topicId": "mt_FUDkWnl03o",
+      "prerequisiteId": "mt_EpCX1FgGqv",
+      "strength": "soft",
+      "reason": "Medieval rule begins after the ancient empires"
+    },
+    {
+      "topicId": "mt_fvAz0QwV5b",
+      "prerequisiteId": "mt_FUDkWnl03o",
+      "strength": "soft",
+      "reason": "The Mughals follow the Delhi Sultanate"
+    },
+    {
+      "topicId": "mt_GMNJygVgfN",
+      "prerequisiteId": "mt_fvAz0QwV5b",
+      "strength": "soft",
+      "reason": "The Marathas and Rajputs are understood through their relations with the Mughals"
+    },
+    {
+      "topicId": "mt_gM1adZDGIy",
+      "prerequisiteId": "mt_fvAz0QwV5b",
+      "strength": "soft",
+      "reason": "British rule expands as Mughal power declines"
+    },
+    {
+      "topicId": "mt_t6BQm5x5Su",
+      "prerequisiteId": "mt_gM1adZDGIy",
+      "strength": "hard",
+      "reason": "19th-century reform movements arise under British rule"
+    },
+    {
+      "topicId": "mt_Jd2NQIbpjV",
+      "prerequisiteId": "mt_gM1adZDGIy",
+      "strength": "hard",
+      "reason": "The freedom struggle is a response to British rule"
+    },
+    {
+      "topicId": "mt_Jd2NQIbpjV",
+      "prerequisiteId": "mt_t6BQm5x5Su",
+      "strength": "soft",
+      "reason": "The reform awakening fed national feeling and the freedom movement"
+    },
+    {
+      "topicId": "mt_9UT0aF8Fmn",
+      "prerequisiteId": "mt_C3eNLQJlgt",
+      "strength": "soft",
+      "reason": "Placing a civilisation in time builds on reading historical timelines"
+    },
+    {
+      "topicId": "mt_zniDXv3Ko3",
+      "prerequisiteId": "mt_1zM5tBMqRF",
+      "strength": "soft",
+      "reason": "Physical geography builds on knowing the country and its extent"
+    },
+    {
+      "topicId": "mt_Qx5riGaO8e",
+      "prerequisiteId": "mt_zniDXv3Ko3",
+      "strength": "soft",
+      "reason": "Resources are distributed across the physical landscape"
+    },
+    {
+      "topicId": "mt_D3sDOaujQk",
+      "prerequisiteId": "mt_zniDXv3Ko3",
+      "strength": "hard",
+      "reason": "Farming depends on climate, soil and the monsoon"
+    },
+    {
+      "topicId": "mt_D3sDOaujQk",
+      "prerequisiteId": "mt_yhhprm7dZK",
+      "strength": "soft",
+      "reason": "Understanding crops builds on knowing about soil"
+    },
+    {
+      "topicId": "mt_QCQjNxURAP",
+      "prerequisiteId": "mt_Qx5riGaO8e",
+      "strength": "soft",
+      "reason": "Industries process natural resources"
+    },
+    {
+      "topicId": "mt_ECbqGTZYhL",
+      "prerequisiteId": "mt_h_shhH-6DC",
+      "strength": "soft",
+      "reason": "Understanding government builds on community rights and responsibilities"
+    },
+    {
+      "topicId": "mt_zFL9HpDF22",
+      "prerequisiteId": "mt_ECbqGTZYhL",
+      "strength": "hard",
+      "reason": "The Constitution defines how the democracy and its government work"
+    },
+    {
+      "topicId": "mt_zFL9HpDF22",
+      "prerequisiteId": "mt_dAeSzg4mmt",
+      "strength": "soft",
+      "reason": "Fundamental rights generalise specific rights like the right to education"
+    },
+    {
+      "topicId": "mt_FJZZUv2ewS",
+      "prerequisiteId": "mt_ECbqGTZYhL",
+      "strength": "hard",
+      "reason": "Local self-government is one layer of the democratic system"
+    },
+    {
+      "topicId": "mt_Dx3DLwmuLq",
+      "prerequisiteId": "mt_ECbqGTZYhL",
+      "strength": "hard",
+      "reason": "Elections are how a democracy chooses its government"
+    },
+    {
+      "topicId": "mt_Dx3DLwmuLq",
+      "prerequisiteId": "mt_zFL9HpDF22",
+      "strength": "soft",
+      "reason": "Universal adult franchise is guaranteed by the Constitution"
+    },
+    {
+      "topicId": "mt_sfHoytwSwm",
+      "prerequisiteId": "mt_DkzsZdyaL2",
+      "strength": "soft",
+      "reason": "Unity in diversity builds on understanding many cultures and traditions"
+    },
+    {
+      "topicId": "mt_BlcpwdLsRX",
+      "prerequisiteId": "mt_mDp-1vlL3R",
+      "strength": "hard",
+      "reason": "Gender equality builds on the idea of fairness and equality"
+    },
+    {
+      "topicId": "mt_BlcpwdLsRX",
+      "prerequisiteId": "mt_dAeSzg4mmt",
+      "strength": "soft",
+      "reason": "Educating every child, including girls, applies the right to education"
+    },
+    {
+      "topicId": "mt_29aZtsWvgT",
+      "prerequisiteId": "mt_1zM5tBMqRF",
+      "strength": "soft",
+      "reason": "Population is understood in the context of the country and its resources"
+    },
+    {
+      "topicId": "mt_t1uflyWbd1",
+      "prerequisiteId": "mt_8SKBJJFzh1",
+      "strength": "soft",
+      "reason": "National development schemes are a specific case of government support"
+    },
+    {
+      "topicId": "mt_t1uflyWbd1",
+      "prerequisiteId": "mt_MqjZhvyWVa",
+      "strength": "soft",
+      "reason": "Swachh Bharat applies the idea of managing waste at national scale"
+    },
+    {
+      "topicId": "mt_bhhWfhDRQh",
+      "prerequisiteId": "mt_C7FNeIDGc6",
+      "strength": "hard",
+      "reason": "Excretion is understood through cells, tissues and organs"
+    },
+    {
+      "topicId": "mt_bhhWfhDRQh",
+      "prerequisiteId": "mt_g_M4Vh_pK7",
+      "strength": "soft",
+      "reason": "The kidneys filter the blood the heart circulates"
+    },
+    {
+      "topicId": "mt_GxmukTWBAR",
+      "prerequisiteId": "mt_4JpMXUIxeD",
+      "strength": "hard",
+      "reason": "Understanding disease builds on knowing the immune system"
+    },
+    {
+      "topicId": "mt_GxmukTWBAR",
+      "prerequisiteId": "mt_uof32CdhYK",
+      "strength": "soft",
+      "reason": "Preventing communicable disease builds on personal hygiene"
+    },
+    {
+      "topicId": "mt_bKvMdYmfbn",
+      "prerequisiteId": "mt_ZAJvTcroFO",
+      "strength": "soft",
+      "reason": "Fibres and fabrics build on naming everyday materials"
+    },
+    {
+      "topicId": "mt_bKvMdYmfbn",
+      "prerequisiteId": "mt_cpDCbpY8gk",
+      "strength": "soft",
+      "reason": "Wool and silk come from the useful animals already studied"
+    },
+    {
+      "topicId": "mt_MqjZhvyWVa",
+      "prerequisiteId": "mt_deexfCHU9m",
+      "strength": "soft",
+      "reason": "Managing waste builds on reducing human impact on the environment"
+    },
+    {
+      "topicId": "mt_MqjZhvyWVa",
+      "prerequisiteId": "mt_iTCwrNlXD9",
+      "strength": "soft",
+      "reason": "Sorting biodegradable from non-biodegradable extends natural vs man-made"
+    },
+    {
+      "topicId": "mt_YYY63Ddd6O",
+      "prerequisiteId": "mt_FHIAv6dfhU",
+      "strength": "hard",
+      "reason": "HCF and LCM build on factors, multiples and primes"
+    },
+    {
+      "topicId": "mt_zLG6El2cCk",
+      "prerequisiteId": "mt_hCVPYlF-7Y",
+      "strength": "hard",
+      "reason": "Roots are the inverse of square and cube numbers"
+    },
+    {
+      "topicId": "mt_zLG6El2cCk",
+      "prerequisiteId": "mt_YYY63Ddd6O",
+      "strength": "soft",
+      "reason": "Prime factorisation used for roots is practised finding HCF and LCM"
+    },
+    {
+      "topicId": "mt_R3arzY0IjZ",
+      "prerequisiteId": "mt_PNSyfH56eQ",
+      "strength": "hard",
+      "reason": "Interest calculations build on calculating percentages"
+    },
+    {
+      "topicId": "mt_R3arzY0IjZ",
+      "prerequisiteId": "mt_bAy4dmP1-A",
+      "strength": "soft",
+      "reason": "Interest formalises the everyday idea of borrowing and debt"
+    },
+    {
+      "topicId": "mt_KrubSgPw8n",
+      "prerequisiteId": "mt_18fK9sQdIz",
+      "strength": "soft",
+      "reason": "Vedic multiplication shortcuts build on standard written multiplication"
+    },
+    {
+      "topicId": "mt_AquDlNBiZ2",
+      "prerequisiteId": "mt_H6LlpWgEYS",
+      "strength": "soft",
+      "reason": "Reading pie charts builds on reading bar graphs"
+    },
+    {
+      "topicId": "mt_AquDlNBiZ2",
+      "prerequisiteId": "mt_ZM9mhHsyYZ",
+      "strength": "soft",
+      "reason": "Pie-chart slices as parts of a whole build on understanding percentages"
+    },
+    {
+      "topicId": "mt_Ba1TCziUYg",
+      "prerequisiteId": "mt_ZRqI3Tlye4",
+      "strength": "hard",
+      "reason": "Using a spreadsheet application requires basic operating-system skills"
+    },
+    {
+      "topicId": "mt_Ba1TCziUYg",
+      "prerequisiteId": "mt_glPPG-kTQY",
+      "strength": "soft",
+      "reason": "Spreadsheet formulae build on everyday arithmetic"
+    },
+    {
+      "topicId": "mt_wBHFyquqBq",
+      "prerequisiteId": "mt_8lqspeGNuz",
+      "strength": "soft",
+      "reason": "Making slides builds on typing and formatting text"
+    },
+    {
+      "topicId": "mt_VyzX3sr3iU",
+      "prerequisiteId": "mt_ZRqI3Tlye4",
+      "strength": "hard",
+      "reason": "Browsing the web requires basic operating-system skills"
+    },
+    {
+      "topicId": "mt_uaADKyENCh",
+      "prerequisiteId": "mt_VyzX3sr3iU",
+      "strength": "hard",
+      "reason": "Email is sent and received over the internet"
+    },
+    {
+      "topicId": "mt_95JDcZrboX",
+      "prerequisiteId": "mt_VyzX3sr3iU",
+      "strength": "hard",
+      "reason": "Online safety concerns arise once you use the internet"
+    },
+    {
+      "topicId": "mt_ntRFz3PisC",
+      "prerequisiteId": "mt_VyzX3sr3iU",
+      "strength": "soft",
+      "reason": "The internet is the most familiar example of a computer network"
+    },
+    {
+      "topicId": "mt_ZEI5s3w9Kr",
+      "prerequisiteId": "mt_wBHFyquqBq",
+      "strength": "soft",
+      "reason": "Multimedia extends the text, image and video used in presentations"
+    },
+    {
+      "topicId": "mt_6PJWknNtc8",
+      "prerequisiteId": "mt_95JDcZrboX",
+      "strength": "hard",
+      "reason": "Safe use of online banking and shopping depends on online-safety habits"
+    },
+    {
+      "topicId": "mt_6PJWknNtc8",
+      "prerequisiteId": "mt_8SKBJJFzh1",
+      "strength": "soft",
+      "reason": "E-governance delivers government services and schemes online"
     }
   ]
 }

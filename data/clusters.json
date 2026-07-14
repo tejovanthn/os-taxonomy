@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 192,
+  "clusterCount": 206,
   "clusters": [
     {
       "subject": "English",
@@ -1153,6 +1153,90 @@
       "domain": "Computer Basics",
       "ageRangeStart": 8,
       "summary": "Your child is building practical computer skills — telling hardware from software, sorting input, output and storage devices, finding their way around the desktop, and typing and saving documents."
+    },
+    {
+      "subject": "History",
+      "domain": "Ancient India",
+      "ageRangeStart": 9,
+      "summary": "Your child is exploring the deep past of the Indian subcontinent — the planned cities of the Indus Valley, the Vedic age, and the Maurya Empire and emperor Ashoka."
+    },
+    {
+      "subject": "History",
+      "domain": "Ancient India",
+      "ageRangeStart": 10,
+      "summary": "Your child is learning about the golden Gupta age and the powerful kingdoms of southern India — their achievements in art, science, trade and temple-building."
+    },
+    {
+      "subject": "History",
+      "domain": "Medieval India",
+      "ageRangeStart": 10,
+      "summary": "Your child is learning about medieval India — the Delhi Sultanate, the Mughal Empire and its art and architecture, and the Marathas and Rajputs."
+    },
+    {
+      "subject": "History",
+      "domain": "Modern India",
+      "ageRangeStart": 10,
+      "summary": "Your child is learning how the British came to trade and stayed to rule, and how that reshaped India — the groundwork for the freedom struggle."
+    },
+    {
+      "subject": "History",
+      "domain": "Modern India",
+      "ageRangeStart": 11,
+      "summary": "Your child is learning about the reform movements and the long freedom struggle that led to India’s independence in 1947."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "ageRangeStart": 9,
+      "summary": "Your child is getting to know India as a place — its states, its physical features and monsoon climate, and how its farming works across the seasons."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "ageRangeStart": 10,
+      "summary": "Your child is learning about India’s natural resources and industries — where materials and energy come from, and how they are turned into useful goods."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "ageRangeStart": 10,
+      "summary": "Your child is learning how India governs itself — democracy, the three organs of government, and local self-government through panchayats and municipal bodies."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "ageRangeStart": 11,
+      "summary": "Your child is learning about the Constitution — the rights and duties of citizens — and how elections and the equal right to vote keep a democracy strong."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "ageRangeStart": 9,
+      "summary": "Your child is learning what holds a diverse country together — how India’s many languages, faiths and cultures can be a shared strength."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "ageRangeStart": 10,
+      "summary": "Your child is learning about fairness in society — gender equality, education for all, and why harmful old customs are wrong and against the law."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "ageRangeStart": 11,
+      "summary": "Your child is learning about the challenges a country works on together — a growing population, and national schemes like Swachh Bharat and Digital India that every citizen can support."
+    },
+    {
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "ageRangeStart": 9,
+      "summary": "Your child is building everyday computing skills — spreadsheets and presentations, using the internet and email, and staying safe and secure online."
+    },
+    {
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "ageRangeStart": 11,
+      "summary": "Your child is learning how computers connect and serve us — networks, multimedia, and online services like banking and e-commerce, used safely."
     }
   ]
 }
