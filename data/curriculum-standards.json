@@ -6,7 +6,7 @@
     "ngss-k5",
     "ngss-ms"
   ],
-  "curriculumCount": 7,
+  "curriculumCount": 8,
   "curricula": [
     {
       "slug": "uk-nc-2013",
@@ -37397,6 +37397,606 @@
         {
           "key": "ngss-ms:MS-PS4-3",
           "code": "MS-PS4-3"
+        }
+      ]
+    },
+    {
+      "slug": "nios-obe-a",
+      "country": "IN",
+      "name": "NIOS Open Basic Education (Adult) — Level 'A'",
+      "version": "2023",
+      "sourceUrl": "https://nios.ac.in/media/documents/Aleveleng.pdf",
+      "textIncluded": true,
+      "license": "NIOS Copyright Statement — reproduction permitted with prominent acknowledgment; see PROVENANCE.md",
+      "topicCount": 49,
+      "topics": [
+        {
+          "key": "nios-obe-a:A102.L1.1",
+          "code": "A102.L1.1",
+          "data": {
+            "title": "The Concept of Family",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 1: The Concept of Family & Kinship Relations",
+            "description": "Understand the concept of a family and its role in a person’s life."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L1.2",
+          "code": "A102.L1.2",
+          "data": {
+            "title": "Importance of Kinship",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 1: The Concept of Family & Kinship Relations",
+            "description": "Understand the importance of kinship and the ties between relatives."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L1.3",
+          "code": "A102.L1.3",
+          "data": {
+            "title": "Respect for Women in Society",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 1: The Concept of Family & Kinship Relations",
+            "description": "Appreciate the need for respect for women in society."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L1.4",
+          "code": "A102.L1.4",
+          "data": {
+            "title": "Sensitivity towards Persons with Disability and the Elderly",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 1: The Concept of Family & Kinship Relations",
+            "description": "Be sensitive and respectfully helpful towards persons with disability and the elderly."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L2.1",
+          "code": "A102.L2.1",
+          "data": {
+            "title": "Respect for Different Occupations",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 2: Our Social Environ",
+            "description": "Respect different occupations and the people involved in them."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L2.2",
+          "code": "A102.L2.2",
+          "data": {
+            "title": "Public Conveniences in the Vicinity",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 2: Our Social Environ",
+            "description": "Identify public conveniences available in the vicinity."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L2.3",
+          "code": "A102.L2.3",
+          "data": {
+            "title": "Role of Family, Neighbourhood and Community",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 2: Our Social Environ",
+            "description": "Understand the role of family, neighbourhood and community in social development."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L3.1",
+          "code": "A102.L3.1",
+          "data": {
+            "title": "Significance of Social & National Festivals",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 3: Our Festivals and Celebrations",
+            "description": "Understand the significance of social and national festivals."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L4.1",
+          "code": "A102.L4.1",
+          "data": {
+            "title": "Features of the Environ",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 4: The Concept of Environ",
+            "description": "Describe the features of the environment."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L4.2",
+          "code": "A102.L4.2",
+          "data": {
+            "title": "Material and Living Environ",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 4: The Concept of Environ",
+            "description": "Distinguish between the material and the living environment."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L4.3",
+          "code": "A102.L4.3",
+          "data": {
+            "title": "Categorization of Objects by their Qualities",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 4: The Concept of Environ",
+            "description": "Categorize objects on the basis of their qualities — living (animals & plants) and non-living (natural/manmade)."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L4.4",
+          "code": "A102.L4.4",
+          "data": {
+            "title": "Qualities of General Plants & Animals",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 4: The Concept of Environ",
+            "description": "Describe the qualities of common plants and animals."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L5.1",
+          "code": "A102.L5.1",
+          "data": {
+            "title": "Useful Animals",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 5: Conservation of Environ",
+            "description": "Identify useful animals — milch cattle; animals reared for meat, eggs, wool and silk; animals used to transport goods and people; and pet animals."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L5.2",
+          "code": "A102.L5.2",
+          "data": {
+            "title": "Parts and Uses of Plants; Food Chain",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 5: Conservation of Environ",
+            "description": "Name the main parts of plants (roots, trunk, stem, leaves, flower, fruit) and their various uses; understand environmental balance, the food chain and the food net."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L5.3",
+          "code": "A102.L5.3",
+          "data": {
+            "title": "Conservation of Water, Forest and Land",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 5: Conservation of Environ",
+            "description": "Understand the significance of water, forest and land, and the need for their conservation."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L6.1",
+          "code": "A102.L6.1",
+          "data": {
+            "title": "The Sun, Moon and Stars",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 6: The Sun, Moon, Stars, Night-Day & Seasons",
+            "description": "Describe the Sun, Moon and stars, their importance and their relation with each other; recognise and dispel myths and superstitions related to them."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L6.2",
+          "code": "A102.L6.2",
+          "data": {
+            "title": "Cycle of Night-Day and Change of Seasons",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 6: The Sun, Moon, Stars, Night-Day & Seasons",
+            "description": "Scientifically explain the cycle of night and day and the change of seasons."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L7.1",
+          "code": "A102.L7.1",
+          "data": {
+            "title": "Basic Necessities for Human Life",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 7: Our Basic Necessities",
+            "description": "Understand the importance and maintenance of the basic necessities for human life — food, water, air, clothes and shelter."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L8.1",
+          "code": "A102.L8.1",
+          "data": {
+            "title": "Importance of Food for the Body",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 8: Food",
+            "description": "Understand the importance of food for the body — a source of energy for work and sustenance, for growth and repair, and a shield against diseases and germs."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L8.2",
+          "code": "A102.L8.2",
+          "data": {
+            "title": "Nutrients in Food and their Sources",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 8: Food",
+            "description": "Identify the different nutrients in food and their sources."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L8.3",
+          "code": "A102.L8.3",
+          "data": {
+            "title": "Balanced Diet",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 8: Food",
+            "description": "Explain what a balanced diet is and its benefits."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L8.4",
+          "code": "A102.L8.4",
+          "data": {
+            "title": "Food Hygiene, Upkeep & Safety",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 8: Food",
+            "description": "Practise food hygiene, upkeep and safety."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L8.5",
+          "code": "A102.L8.5",
+          "data": {
+            "title": "Drinking Water — Sources and Purification",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 8: Food",
+            "description": "Understand the importance of water for a healthy body, the sources of water and the ways of water purification."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L9.1",
+          "code": "A102.L9.1",
+          "data": {
+            "title": "External Organs of the Human Body",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 9: Health & Hygiene of External Organs",
+            "description": "Know the external organs of the human body — hair, eyes, ears, nose, mouth, teeth, hands and legs, skin and private parts — and their importance."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L9.2",
+          "code": "A102.L9.2",
+          "data": {
+            "title": "Health, Hygiene and Safety of External Organs",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 9: Health & Hygiene of External Organs",
+            "description": "Follow health, hygiene and safety measures for the external organs."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L10.1",
+          "code": "A102.L10.1",
+          "data": {
+            "title": "Importance and Development of Transportation",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 10: Transportation & Communication",
+            "description": "Understand the importance of transportation and its sequential development."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L10.2",
+          "code": "A102.L10.2",
+          "data": {
+            "title": "Modes of Transport",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 10: Transportation & Communication",
+            "description": "Identify and use different modes of transport — road, rail, water and pipeline transport."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L10.3",
+          "code": "A102.L10.3",
+          "data": {
+            "title": "Ways of Transportation and their Significance",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 10: Transportation & Communication",
+            "description": "Describe various ways of transportation and their significance."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L10.4",
+          "code": "A102.L10.4",
+          "data": {
+            "title": "Communication through Signs",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 10: Transportation & Communication",
+            "description": "Understand communication through various signs in humans and animals and its significance."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L11.1",
+          "code": "A102.L11.1",
+          "data": {
+            "title": "National Symbols of India",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 11: National Symbols",
+            "description": "Understand the significance of the national flag, national emblem, Indian currency, national animal, national flower and national game."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L11.2",
+          "code": "A102.L11.2",
+          "data": {
+            "title": "National Anthem, National Song and National Unity",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 11: National Symbols",
+            "description": "Understand the national anthem and national song and their role in national unity."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L11.3",
+          "code": "A102.L11.3",
+          "data": {
+            "title": "Significance of National Festivals",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 11: National Symbols",
+            "description": "Understand the significance of national festivals."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L12.1",
+          "code": "A102.L12.1",
+          "data": {
+            "title": "Concept and Significance of Globalisation",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 12: Our Social-Economic Environ",
+            "description": "Understand the concept and significance of globalisation."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L12.2",
+          "code": "A102.L12.2",
+          "data": {
+            "title": "Right to Education",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 12: Our Social-Economic Environ",
+            "description": "Explain the Right to Education — its introduction and major features."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L12.3",
+          "code": "A102.L12.3",
+          "data": {
+            "title": "Right to Information",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 12: Our Social-Economic Environ",
+            "description": "Explain the Right to Information — its introduction, major features, and the fee and rules for providing information."
+          }
+        },
+        {
+          "key": "nios-obe-a:A102.L12.4",
+          "code": "A102.L12.4",
+          "data": {
+            "title": "MNREGA",
+            "level": "Level 'A'",
+            "course": "Environmental Study",
+            "courseCode": "A-102",
+            "lesson": "Lesson 12: Our Social-Economic Environ",
+            "description": "Explain the Mahatma Gandhi National Rural Employment Guarantee Act (MNREGA) — the rules of employment, compensation of labour, and facilities at the workplace."
+          }
+        },
+        {
+          "key": "nios-obe-a:A103.L1",
+          "code": "A103.L1",
+          "data": {
+            "title": "Learning Numbers — Reading, Writing, Making & Recognizing",
+            "level": "Level 'A'",
+            "course": "Mathematics",
+            "courseCode": "A-103",
+            "lesson": "Lesson 1",
+            "description": "Read, write, make and recognise numbers from 1 to 1000 in numerals and words; understand the value of each digit by its place in a two-, three- or four-digit number; and order three-digit numbers in ascending and descending order."
+          }
+        },
+        {
+          "key": "nios-obe-a:A103.L2",
+          "code": "A103.L2",
+          "data": {
+            "title": "Addition & Subtraction of Numbers",
+            "level": "Level 'A'",
+            "course": "Mathematics",
+            "courseCode": "A-103",
+            "lesson": "Lesson 2",
+            "description": "Add and subtract single-, two- and three-digit numbers, with and without carrying and borrowing; and apply simple addition and subtraction to money and everyday situations."
+          }
+        },
+        {
+          "key": "nios-obe-a:A103.L3",
+          "code": "A103.L3",
+          "data": {
+            "title": "Multiplication",
+            "level": "Level 'A'",
+            "course": "Mathematics",
+            "courseCode": "A-103",
+            "lesson": "Lesson 3",
+            "description": "Understand multiplication as repeated addition; know the multiplication tables of 1 to 10; and multiply single-, two- and three-digit numbers where the product is less than 1000."
+          }
+        },
+        {
+          "key": "nios-obe-a:A103.L4",
+          "code": "A103.L4",
+          "data": {
+            "title": "Division",
+            "level": "Level 'A'",
+            "course": "Mathematics",
+            "courseCode": "A-103",
+            "lesson": "Lesson 4",
+            "description": "Understand division as repeated subtraction; divide two- and three-digit numbers by a one-digit number; and appreciate the use of division in daily life."
+          }
+        },
+        {
+          "key": "nios-obe-a:A103.L5",
+          "code": "A103.L5",
+          "data": {
+            "title": "Fractions",
+            "level": "Level 'A'",
+            "course": "Mathematics",
+            "courseCode": "A-103",
+            "lesson": "Lesson 5",
+            "description": "Understand equal portions of an object as parts of a whole; read, write and understand fractions; and appreciate their use in daily life."
+          }
+        },
+        {
+          "key": "nios-obe-a:A103.L6",
+          "code": "A103.L6",
+          "data": {
+            "title": "Mensuration",
+            "level": "Level 'A'",
+            "course": "Mathematics",
+            "courseCode": "A-103",
+            "lesson": "Lesson 6",
+            "description": "Measure length in centimetres, metres and kilometres; weight in grams and kilograms; and liquids in millilitres and litres."
+          }
+        },
+        {
+          "key": "nios-obe-a:A103.L7",
+          "code": "A103.L7",
+          "data": {
+            "title": "Geometrical Structures",
+            "level": "Level 'A'",
+            "course": "Mathematics",
+            "courseCode": "A-103",
+            "lesson": "Lesson 7",
+            "description": "Understand the meaning and use of geometry and its basic units; recognise rectangles, squares and triangles on a plane surface and solid objects; understand volume; and draw lines and geometrical designs using instruments."
+          }
+        },
+        {
+          "key": "nios-obe-a:A104.L1",
+          "code": "A104.L1",
+          "data": {
+            "title": "Introduction to Computer",
+            "level": "Level 'A'",
+            "course": "Basic Computer Skills",
+            "courseCode": "A-104",
+            "lesson": "Lesson 1",
+            "description": "Understand what a computer is, its qualities, uses, development and types; start and shut down a computer; and take precautions for its maintenance and upkeep."
+          }
+        },
+        {
+          "key": "nios-obe-a:A104.L2",
+          "code": "A104.L2",
+          "data": {
+            "title": "Functioning of Computer",
+            "level": "Level 'A'",
+            "course": "Basic Computer Skills",
+            "courseCode": "A-104",
+            "lesson": "Lesson 2",
+            "description": "Understand computer hardware and software, the different kinds of software used in computers, and the languages and vocabulary of computers."
+          }
+        },
+        {
+          "key": "nios-obe-a:A104.L3",
+          "code": "A104.L3",
+          "data": {
+            "title": "Input, Output & Storage Devices",
+            "level": "Level 'A'",
+            "course": "Basic Computer Skills",
+            "courseCode": "A-104",
+            "lesson": "Lesson 3",
+            "description": "Recognise input devices and their types, output devices and their types, printers, speakers and plotters."
+          }
+        },
+        {
+          "key": "nios-obe-a:A104.L4",
+          "code": "A104.L4",
+          "data": {
+            "title": "Operating System",
+            "level": "Level 'A'",
+            "course": "Basic Computer Skills",
+            "courseCode": "A-104",
+            "lesson": "Lesson 4",
+            "description": "Understand what an operating system is, work on it, identify the parts of the desktop, and make files and folders."
+          }
+        },
+        {
+          "key": "nios-obe-a:A104.L5",
+          "code": "A104.L5",
+          "data": {
+            "title": "Paint, Brush & Computer Games",
+            "level": "Level 'A'",
+            "course": "Basic Computer Skills",
+            "courseCode": "A-104",
+            "lesson": "Lesson 5",
+            "description": "Open a paint/brush application, use its tools to make and colour pictures, save and open files, and play games on a computer."
+          }
+        },
+        {
+          "key": "nios-obe-a:A104.L6",
+          "code": "A104.L6",
+          "data": {
+            "title": "Word Processing",
+            "level": "Level 'A'",
+            "course": "Basic Computer Skills",
+            "courseCode": "A-104",
+            "lesson": "Lesson 6",
+            "description": "Open and close a word-processing programme; type text, correct and format it, save it as a file or document, and open existing files."
+          }
         }
       ]
     }

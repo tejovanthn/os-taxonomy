@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3221,
+  "edgeCount": 3252,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -19328,6 +19328,192 @@
       "prerequisiteId": "mt_M_xcaRcvSo",
       "strength": "soft",
       "reason": "Knight knowledge provides military context for the Crusades"
+    },
+    {
+      "topicId": "mt_Lkc7l7OvTP",
+      "prerequisiteId": "mt_X0Kp51EEpr",
+      "strength": "hard",
+      "reason": "Kinship terms build on first understanding what a family is"
+    },
+    {
+      "topicId": "mt_jqiva7dKnb",
+      "prerequisiteId": "mt_X0Kp51EEpr",
+      "strength": "hard",
+      "reason": "The community extends outward from the family unit"
+    },
+    {
+      "topicId": "mt_yfEEUum8iZ",
+      "prerequisiteId": "mt_jqiva7dKnb",
+      "strength": "hard",
+      "reason": "Locating shared public services assumes a concept of the neighbourhood"
+    },
+    {
+      "topicId": "mt_98SM0iCKTg",
+      "prerequisiteId": "mt_QEW2aFMKWv",
+      "strength": "hard",
+      "reason": "National festivals are a specific kind of the festivals already understood"
+    },
+    {
+      "topicId": "mt_98SM0iCKTg",
+      "prerequisiteId": "mt_s63gXTWzPP",
+      "strength": "soft",
+      "reason": "National festivals celebrate the nation represented by its symbols"
+    },
+    {
+      "topicId": "mt_s63gXTWzPP",
+      "prerequisiteId": "mt_jqiva7dKnb",
+      "strength": "soft",
+      "reason": "National identity extends the child’s sense of community to the whole country"
+    },
+    {
+      "topicId": "mt_fwkPvwG8ET",
+      "prerequisiteId": "mt_jqiva7dKnb",
+      "strength": "soft",
+      "reason": "Transport connects the neighbourhood to wider places"
+    },
+    {
+      "topicId": "mt_f4c1NeL3Fv",
+      "prerequisiteId": "mt_jqiva7dKnb",
+      "strength": "soft",
+      "reason": "Communication links people across the community and beyond"
+    },
+    {
+      "topicId": "mt_dAeSzg4mmt",
+      "prerequisiteId": "mt_rkrG2w7WXI",
+      "strength": "hard",
+      "reason": "Understanding rights builds on understanding that rules and agreements exist"
+    },
+    {
+      "topicId": "mt_dAeSzg4mmt",
+      "prerequisiteId": "mt_h_shhH-6DC",
+      "strength": "hard",
+      "reason": "Child rights are a specific case of community rights and responsibilities"
+    },
+    {
+      "topicId": "mt_OeXPJk4wrb",
+      "prerequisiteId": "mt_dAeSzg4mmt",
+      "strength": "soft",
+      "reason": "The right to information extends the idea of legally-backed rights"
+    },
+    {
+      "topicId": "mt_8SKBJJFzh1",
+      "prerequisiteId": "mt_cSz7XTxVAx",
+      "strength": "hard",
+      "reason": "Welfare schemes are funded by taxes and deliver public services"
+    },
+    {
+      "topicId": "mt_8SKBJJFzh1",
+      "prerequisiteId": "mt_OeXPJk4wrb",
+      "strength": "soft",
+      "reason": "Understanding government schemes builds on knowing how citizens access official information"
+    },
+    {
+      "topicId": "mt_iTCwrNlXD9",
+      "prerequisiteId": "mt_5r47Pvstyn",
+      "strength": "soft",
+      "reason": "Sorting natural from made things builds on distinguishing objects from their materials"
+    },
+    {
+      "topicId": "mt_iTCwrNlXD9",
+      "prerequisiteId": "mt_Sa48W7KXB5",
+      "strength": "soft",
+      "reason": "Classifying the wider world extends the living/dead/never-alive distinction"
+    },
+    {
+      "topicId": "mt_cpDCbpY8gk",
+      "prerequisiteId": "mt_zVLOm6U7bh",
+      "strength": "hard",
+      "reason": "Naming common animals precedes learning how they are useful to people"
+    },
+    {
+      "topicId": "mt_Dp07VVbfBH",
+      "prerequisiteId": "mt_xT6jPzyj92",
+      "strength": "hard",
+      "reason": "Knowing the parts of a plant precedes understanding their uses"
+    },
+    {
+      "topicId": "mt_Dp07VVbfBH",
+      "prerequisiteId": "mt_j7cer_Nmor",
+      "strength": "soft",
+      "reason": "Recognising common plants supports learning what they are used for"
+    },
+    {
+      "topicId": "mt_uof32CdhYK",
+      "prerequisiteId": "mt_83gRQ9OPkc",
+      "strength": "hard",
+      "reason": "Caring for the body’s external parts assumes being able to name them"
+    },
+    {
+      "topicId": "mt_uof32CdhYK",
+      "prerequisiteId": "mt_cxJRc15osy",
+      "strength": "soft",
+      "reason": "Hygiene is part of meeting the body’s basic needs"
+    },
+    {
+      "topicId": "mt_Km5iZqQ8Vi",
+      "prerequisiteId": "mt_uof32CdhYK",
+      "strength": "soft",
+      "reason": "Food and water hygiene extends everyday personal hygiene habits"
+    },
+    {
+      "topicId": "mt_Km5iZqQ8Vi",
+      "prerequisiteId": "mt_QhLAeAlHI0",
+      "strength": "soft",
+      "reason": "Food safety complements knowing what makes a balanced, healthy diet"
+    },
+    {
+      "topicId": "mt_yOQ0M9wsMN",
+      "prerequisiteId": "mt_XbGfVhfiUz",
+      "strength": "hard",
+      "reason": "Naming a computer’s parts builds on knowing what computers are and where they are used"
+    },
+    {
+      "topicId": "mt_59xWxyEPyE",
+      "prerequisiteId": "mt_yOQ0M9wsMN",
+      "strength": "hard",
+      "reason": "Operating a computer assumes recognising its parts"
+    },
+    {
+      "topicId": "mt_VPyvJyLQ9W",
+      "prerequisiteId": "mt_yOQ0M9wsMN",
+      "strength": "hard",
+      "reason": "The hardware/software distinction builds on knowing the physical parts"
+    },
+    {
+      "topicId": "mt_CubybCLCKN",
+      "prerequisiteId": "mt_yOQ0M9wsMN",
+      "strength": "hard",
+      "reason": "Classifying devices builds on recognising a computer’s parts"
+    },
+    {
+      "topicId": "mt_CubybCLCKN",
+      "prerequisiteId": "mt_VPyvJyLQ9W",
+      "strength": "soft",
+      "reason": "Devices are hardware, so the hardware/software idea helps organise them"
+    },
+    {
+      "topicId": "mt_ZRqI3Tlye4",
+      "prerequisiteId": "mt_59xWxyEPyE",
+      "strength": "hard",
+      "reason": "Using the operating system assumes being able to start the computer"
+    },
+    {
+      "topicId": "mt_ZRqI3Tlye4",
+      "prerequisiteId": "mt_VPyvJyLQ9W",
+      "strength": "soft",
+      "reason": "The operating system is the software that controls the hardware"
+    },
+    {
+      "topicId": "mt_W8Nrlon7qO",
+      "prerequisiteId": "mt_ZRqI3Tlye4",
+      "strength": "hard",
+      "reason": "Opening a paint program requires basic operating-system navigation"
+    },
+    {
+      "topicId": "mt_8lqspeGNuz",
+      "prerequisiteId": "mt_ZRqI3Tlye4",
+      "strength": "hard",
+      "reason": "Word processing requires opening programs and saving files through the operating system"
     }
   ]
 }

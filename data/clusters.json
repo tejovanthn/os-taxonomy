@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 183,
+  "clusterCount": 192,
   "clusters": [
     {
       "subject": "English",
@@ -1099,6 +1099,60 @@
       "domain": "Weather & Climate",
       "ageRangeStart": 9,
       "summary": "Your child is exploring how the Sun drives weather patterns and creates different climate zones around Earth, learning about extreme weather events, climate change, and how people design solutions to protect communities from weather hazards."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Family & Community",
+      "ageRangeStart": 5,
+      "summary": "Your child is learning about the people closest to them — what a family is, how relatives are connected, and that families come in many shapes. It’s the first step in understanding how people belong together."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Family & Community",
+      "ageRangeStart": 6,
+      "summary": "Your child is looking beyond the family to the neighbourhood and community — the people who live and work nearby, the shared places like schools and clinics, and how neighbours help one another."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Culture & Nation",
+      "ageRangeStart": 5,
+      "summary": "Your child is learning that festivals bring families and communities together, that different communities celebrate different festivals, and that each celebration has its own meaning."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Culture & Nation",
+      "ageRangeStart": 7,
+      "summary": "Your child is getting to know the symbols and festivals of their country — the national flag, emblem and anthem, and national festivals like Independence Day — and what these shared things stand for."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Transport & Communication",
+      "ageRangeStart": 6,
+      "summary": "Your child is learning how people and goods travel — by road, rail and water — and the many ways people communicate, from talking and writing to signs, phones and the internet."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Civic Life & Rights",
+      "ageRangeStart": 9,
+      "summary": "Your child is beginning to understand their place as a citizen — that every child has a right to education and to be kept safe, and that rights come alongside responsibilities to others."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Civic Life & Rights",
+      "ageRangeStart": 11,
+      "summary": "Your child is learning how citizens and government relate — the right to ask for official information, and how government schemes funded by taxes support people who need work, food or opportunity."
+    },
+    {
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "ageRangeStart": 7,
+      "summary": "Your child is getting to know a computer — naming its main parts, turning it on and off properly, and starting to draw and create with simple programs."
+    },
+    {
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "ageRangeStart": 8,
+      "summary": "Your child is building practical computer skills — telling hardware from software, sorting input, output and storage devices, finding their way around the desktop, and typing and saving documents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 1590,
+  "topicCount": 1614,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -36,7 +36,9 @@
         "Sort a set of objects into 'contains a computer' and 'does not contain a computer'"
       ],
       "assessmentPrompt": "Could {{name}} look around your home and point out at least five things that have a computer inside them, including ones that don't look like traditional computers?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A104.L1"
+      ]
     },
     {
       "id": "mt_jvJ35MmCvK",
@@ -8684,7 +8686,9 @@
         "Explain that both making things and helping people are valuable kinds of work"
       ],
       "assessmentPrompt": "Could {{name}} tell you the difference between a product you buy in a shop and a service like getting a haircut, and give examples of each?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L2.1"
+      ]
     },
     {
       "id": "mt_CrGnpVjnk8",
@@ -9008,7 +9012,9 @@
         "Connect a personal interest to a job (e.g. 'I like animals so I could be a vet')"
       ],
       "assessmentPrompt": "Could {{name}} tell you about different jobs people do in your community and explain that people get paid for their work?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L2.1"
+      ]
     },
     {
       "id": "mt_FNSeo9_T2Z",
@@ -9260,7 +9266,9 @@
         "Explain that different countries use different currencies and you need to exchange money when travelling"
       ],
       "assessmentPrompt": "If {{name}} looked at the labels on items in your kitchen, could they explain why so many things come from different countries?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L12.1"
+      ]
     },
     {
       "id": "mt_udgPy5oAvR",
@@ -9905,7 +9913,8 @@
       ],
       "assessmentPrompt": "Can {{name}} set out a sum like '347 + 265' or '512 − 278' in columns and work through it step by step, carrying or borrowing where needed?",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/AS/2"
+        "uk-nc-2013:Ma/KS2/Y3/AS/2",
+        "nios-obe-a:A103.L2"
       ]
     },
     {
@@ -9965,7 +9974,8 @@
       ],
       "assessmentPrompt": "Can {{name}} add or subtract numbers in the hundreds — like '347 + 256' — by thinking about hundreds, tens, and ones separately, or drawing a diagram to help?",
       "standards": [
-        "ccss-math:2.NBT.7"
+        "ccss-math:2.NBT.7",
+        "nios-obe-a:A103.L2"
       ]
     },
     {
@@ -11144,7 +11154,8 @@
       ],
       "assessmentPrompt": "Can {{name}} count confidently up to 1000 — and if you ask them to count by hundreds from 200, or by tens from 650, can they do it without losing their place?",
       "standards": [
-        "ccss-math:2.NBT.2"
+        "ccss-math:2.NBT.2",
+        "nios-obe-a:A103.L1"
       ]
     },
     {
@@ -11580,7 +11591,8 @@
       ],
       "assessmentPrompt": "If {{name}} is helping share a sandwich equally between two people, can they cut it so both pieces are the same size — and tell you each piece is called a half?",
       "standards": [
-        "uk-nc-2013:Maths/Y1/F/1"
+        "uk-nc-2013:Maths/Y1/F/1",
+        "nios-obe-a:A103.L5"
       ]
     },
     {
@@ -11619,7 +11631,9 @@
         "Explain in own words why 2/4 and 1/2 are equivalent fractions"
       ],
       "assessmentPrompt": "If {{name}} saw the fraction 3/4 written down, could they point to the numerator and the denominator — and explain what each number actually means?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A103.L5"
+      ]
     },
     {
       "id": "mt_cFltwUQi-d",
@@ -11658,7 +11672,8 @@
       ],
       "assessmentPrompt": "If you give {{name}} a round pizza or a rectangular chocolate bar, can they divide it into four equal pieces and tell you each piece is called a quarter or a fourth?",
       "standards": [
-        "ccss-math:1.G.3"
+        "ccss-math:1.G.3",
+        "nios-obe-a:A103.L5"
       ]
     },
     {
@@ -11678,7 +11693,8 @@
       ],
       "assessmentPrompt": "If {{name}} has 6 strawberries and eats half of them, can they write that as \"1/2 of 6 = 3\" — and explain why 2/4 and 1/2 are the same amount?",
       "standards": [
-        "uk-nc-2013:Maths/Y2/F/2"
+        "uk-nc-2013:Maths/Y2/F/2",
+        "nios-obe-a:A103.L5"
       ]
     },
     {
@@ -12055,7 +12071,9 @@
         "Given a pre-partitioned shape, write the unit fraction for one part"
       ],
       "assessmentPrompt": "If you ask {{name}} to fold a square piece of paper into 8 equal parts, can they tell you what fraction of the whole square each part represents?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A103.L5"
+      ]
     },
     {
       "id": "mt_3y7xKP9MjU",
@@ -12811,7 +12829,8 @@
       "assessmentPrompt": "Can {{name}} point to shapes around the house — like a clock, a window, or a pizza — and correctly name whether each is a circle, triangle, rectangle, or square?",
       "standards": [
         "ccss-math:K.G.2",
-        "uk-nc-2013:Maths/Y1/GPS/1"
+        "uk-nc-2013:Maths/Y1/GPS/1",
+        "nios-obe-a:A103.L7"
       ]
     },
     {
@@ -12833,7 +12852,8 @@
       "standards": [
         "ccss-math:K.G.1",
         "ccss-math:K.G.3",
-        "uk-nc-2013:Maths/Y1/GPS/2"
+        "uk-nc-2013:Maths/Y1/GPS/2",
+        "nios-obe-a:A103.L7"
       ]
     },
     {
@@ -12974,7 +12994,8 @@
       ],
       "assessmentPrompt": "Can {{name}} look at a 3-D shape and name the 2-D shapes on its faces — for example, saying a cylinder has circles on the ends and a rectangle wrapped round the side?",
       "standards": [
-        "uk-nc-2013:Maths/Y2/GPS/3"
+        "uk-nc-2013:Maths/Y2/GPS/3",
+        "nios-obe-a:A103.L7"
       ]
     },
     {
@@ -13154,7 +13175,8 @@
       ],
       "assessmentPrompt": "If {{name}} is given a cube to look at, can they draw it on paper — and then make a cube-shaped model from modelling clay or construction materials?",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/GPS/1"
+        "uk-nc-2013:Ma/KS2/Y3/GPS/1",
+        "nios-obe-a:A103.L7"
       ]
     },
     {
@@ -15227,7 +15249,8 @@
       ],
       "assessmentPrompt": "If {{name}} uses balance scales to compare two objects, can they tell you which is heavier — and if given weights like 100g, can they balance an object on the scale?",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/6"
+        "uk-nc-2013:Maths/Y1/M/6",
+        "nios-obe-a:A103.L6"
       ]
     },
     {
@@ -15287,7 +15310,8 @@
       ],
       "assessmentPrompt": "If {{name}} needs to make exactly 30p, can they find two or three different ways to do it using different combinations of coins?",
       "standards": [
-        "uk-nc-2013:Maths/Y2/M/4"
+        "uk-nc-2013:Maths/Y2/M/4",
+        "nios-obe-a:A103.L2"
       ]
     },
     {
@@ -15347,7 +15371,8 @@
       ],
       "assessmentPrompt": "If {{name}} has three pencils of different lengths but can only compare two at a time, can they figure out which is longest — by using a third pencil as a go-between?",
       "standards": [
-        "ccss-math:1.MD.1"
+        "ccss-math:1.MD.1",
+        "nios-obe-a:A103.L6"
       ]
     },
     {
@@ -15387,7 +15412,8 @@
       ],
       "assessmentPrompt": "If {{name}} buys a snack for 45p and pays with a £1 coin, can they work out how much change they should get — and count it back?",
       "standards": [
-        "uk-nc-2013:Maths/Y2/M/5"
+        "uk-nc-2013:Maths/Y2/M/5",
+        "nios-obe-a:A103.L2"
       ]
     },
     {
@@ -15648,7 +15674,8 @@
       ],
       "assessmentPrompt": "If {{name}} needs to measure a piece of fabric about 80 cm long, can they pick the right tool — a short ruler or a tape measure — and use it accurately?",
       "standards": [
-        "ccss-math:2.MD.1"
+        "ccss-math:2.MD.1",
+        "nios-obe-a:A103.L6"
       ]
     },
     {
@@ -15708,7 +15735,8 @@
       ],
       "assessmentPrompt": "If {{name}} measures the same book in centimetres and then in inches, can they explain why the numbers are different even though the book hasn't changed size?",
       "standards": [
-        "ccss-math:2.MD.2"
+        "ccss-math:2.MD.2",
+        "nios-obe-a:A103.L6"
       ]
     },
     {
@@ -15858,7 +15886,9 @@
         "Convert 5 weeks to 35 days"
       ],
       "assessmentPrompt": "If {{name}} is told a journey is 3.5 km, can they convert that to metres — and also turn 2 hours 15 minutes into just minutes?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A103.L6"
+      ]
     },
     {
       "id": "mt_mFJ-2ZF6Tk",
@@ -15912,7 +15942,9 @@
         "Solve: 3 bags weigh 250 g each — what is the total mass?"
       ],
       "assessmentPrompt": "If {{name}} is filling bottles that each hold 250 ml from a 2-litre container of juice, can they work out how many bottles they can fill?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A103.L6"
+      ]
     },
     {
       "id": "mt_IL86kadLSS",
@@ -16002,7 +16034,9 @@
         "Distinguish between area and perimeter as different measurements"
       ],
       "assessmentPrompt": "If {{name}} counts the small squares inside a rectangle drawn on squared paper, can they tell you the area — and explain what \"one square unit\" means?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A103.L7"
+      ]
     },
     {
       "id": "mt_Zks8xyInSG",
@@ -16056,7 +16090,9 @@
         "Estimate the capacity of a jug by comparing to known litre measures"
       ],
       "assessmentPrompt": "If {{name}} has a small cardboard box, can they estimate how many 1 cm³ cubes would fit inside it — and then fill it with sugar cubes to check?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A103.L7"
+      ]
     },
     {
       "id": "mt_5HV4mbgSGH",
@@ -16327,7 +16363,8 @@
       ],
       "assessmentPrompt": "If {{name}} has 12 grapes to share equally between 3 friends, can they work out that each friend gets 4 — and explain what they did?",
       "standards": [
-        "uk-nc-2013:Maths/Y1/MD/1"
+        "uk-nc-2013:Maths/Y1/MD/1",
+        "nios-obe-a:A103.L4"
       ]
     },
     {
@@ -16367,7 +16404,8 @@
       ],
       "assessmentPrompt": "If {{name}} needs to count 4 bags with 3 apples in each, can they see that instead of counting all 12 one by one, they could add 3 + 3 + 3 + 3 — or say '4 groups of 3'?",
       "standards": [
-        "uk-nc-2013:Maths/Y1/MD/1"
+        "uk-nc-2013:Maths/Y1/MD/1",
+        "nios-obe-a:A103.L3"
       ]
     },
     {
@@ -16407,7 +16445,8 @@
       ],
       "assessmentPrompt": "If you tell {{name}} 'you have 5 bags with 4 marbles in each — how many altogether?', can they figure it out using objects, a drawing, or mental adding?",
       "standards": [
-        "uk-nc-2013:Maths/Y2/MD/4"
+        "uk-nc-2013:Maths/Y2/MD/4",
+        "nios-obe-a:A103.L3"
       ]
     },
     {
@@ -16467,7 +16506,8 @@
       ],
       "assessmentPrompt": "Can {{name}} quickly recall times table facts from the 2s, 5s, and 10s — like '5 × 6 = 30' or '20 ÷ 2 = 10' — forwards and backwards?",
       "standards": [
-        "uk-nc-2013:Maths/Y2/MD/1"
+        "uk-nc-2013:Maths/Y2/MD/1",
+        "nios-obe-a:A103.L3"
       ]
     },
     {
@@ -16567,7 +16607,8 @@
       ],
       "assessmentPrompt": "Can {{name}} work out sums like '23 × 4' or '68 ÷ 4' — either in their head using times table knowledge, or by writing it out step by step?",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/MD/2"
+        "uk-nc-2013:Ma/KS2/Y3/MD/2",
+        "nios-obe-a:A103.L4"
       ]
     },
     {
@@ -16807,7 +16848,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that '56 ÷ 8' could mean 'if 56 things are shared between 8 people, how many does each person get?' — not just recite the answer '7'?",
       "standards": [
-        "ccss-math:3.OA.2"
+        "ccss-math:3.OA.2",
+        "nios-obe-a:A103.L4"
       ]
     },
     {
@@ -16827,7 +16869,8 @@
       ],
       "assessmentPrompt": "If {{name}} sees '5 × 7' written down, can they explain it means 5 groups with 7 in each group — not just recite the answer '35'?",
       "standards": [
-        "ccss-math:3.OA.1"
+        "ccss-math:3.OA.1",
+        "nios-obe-a:A103.L3"
       ]
     },
     {
@@ -16847,7 +16890,8 @@
       ],
       "assessmentPrompt": "Can {{name}} work out '347 × 6' by setting it out formally in a column — multiplying each digit separately and carrying where needed?",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/MD/4"
+        "uk-nc-2013:Ma/KS2/Y4/MD/4",
+        "nios-obe-a:A103.L3"
       ]
     },
     {
@@ -16884,7 +16928,9 @@
         "Represent a two-step problem with an equation using n for the unknown"
       ],
       "assessmentPrompt": "If {{name}} reads 'a school buys 7 boxes of 24 pens and shares them equally between 8 classes', can they work through all the steps and decide sensibly what to do with any remainder?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A103.L4"
+      ]
     },
     {
       "id": "mt_FHIAv6dfhU",
@@ -17448,7 +17494,8 @@
       ],
       "assessmentPrompt": "Can {{name}} read and write any number up to 100 — both as a numeral and by saying what it means?",
       "standards": [
-        "uk-nc-2013:Maths/Y1/NPV/2"
+        "uk-nc-2013:Maths/Y1/NPV/2",
+        "nios-obe-a:A103.L1"
       ]
     },
     {
@@ -17469,7 +17516,8 @@
       "assessmentPrompt": "Can {{name}} read a number like '17' written on paper and write it themselves — and do they know what each digit means?",
       "standards": [
         "ccss-math:K.CC.3",
-        "uk-nc-2013:Maths/Y1/NPV/5"
+        "uk-nc-2013:Maths/Y1/NPV/5",
+        "nios-obe-a:A103.L1"
       ]
     },
     {
@@ -17758,7 +17806,8 @@
       "assessmentPrompt": "If you give {{name}} a set of three-digit numbers like 456, 231, and 789, can they put them in order and use > and < correctly?",
       "standards": [
         "ccss-math:2.NBT.4",
-        "uk-nc-2013:Ma/KS2/Y3/NPV/3"
+        "uk-nc-2013:Ma/KS2/Y3/NPV/3",
+        "nios-obe-a:A103.L1"
       ]
     },
     {
@@ -17778,7 +17827,8 @@
       ],
       "assessmentPrompt": "If {{name}} is told 'I have 4 hundreds, 3 tens, and 7 ones — what number is that?', can they put it together and tell you 437?",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/NPV/6"
+        "uk-nc-2013:Ma/KS2/Y3/NPV/6",
+        "nios-obe-a:A103.L1"
       ]
     },
     {
@@ -17799,7 +17849,8 @@
       "assessmentPrompt": "Can {{name}} read and write numbers up to 1,000 — both as numerals and in words — like reading '642' as 'six hundred and forty-two'?",
       "standards": [
         "ccss-math:2.NBT.3",
-        "uk-nc-2013:Ma/KS2/Y3/NPV/5"
+        "uk-nc-2013:Ma/KS2/Y3/NPV/5",
+        "nios-obe-a:A103.L1"
       ]
     },
     {
@@ -17940,7 +17991,8 @@
       ],
       "assessmentPrompt": "If {{name}} sees the number 5,347, can they tell you the value of each digit — that the 5 means 5,000, the 3 means 300, the 4 means 40, and the 7 means 7?",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/NPV/4"
+        "uk-nc-2013:Ma/KS2/Y4/NPV/4",
+        "nios-obe-a:A103.L1"
       ]
     },
     {
@@ -19396,7 +19448,9 @@
         "Use kind words to encourage or cheer up someone who is struggling"
       ],
       "assessmentPrompt": "If a younger child at school falls over in the playground, does {{name}} go over to help or comfort them without being told to by an adult?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L1.4"
+      ]
     },
     {
       "id": "mt_wzUzVEBqJb",
@@ -19436,7 +19490,8 @@
       "assessmentPrompt": "Can {{name}} talk positively about how families in their class are different — some have two mums, some speak another language at home, some celebrate different holidays — and see this as interesting rather than strange?",
       "standards": [
         "ib-pyp-pspe:PSPE-ID-CU-P1-5",
-        "ib-pyp-pspe:PSPE-ID-LO-P1-4"
+        "ib-pyp-pspe:PSPE-ID-LO-P1-4",
+        "nios-obe-a:A102.L1.4"
       ]
     },
     {
@@ -19474,7 +19529,8 @@
       ],
       "assessmentPrompt": "If a new child joins {{name}}'s class who doesn't speak much English or whose family situation is very different, does {{name}} show understanding and try to include them rather than avoiding them?",
       "standards": [
-        "ib-pyp-pspe:PSPE-ID-LO-P2-1"
+        "ib-pyp-pspe:PSPE-ID-LO-P2-1",
+        "nios-obe-a:A102.L1.4"
       ]
     },
     {
@@ -19494,7 +19550,8 @@
       ],
       "assessmentPrompt": "If a child with a broken arm gets extra time to finish a task at school, can {{name}} explain why that's fair even though other children don't get extra time?",
       "standards": [
-        "ib-pyp-pspe:PSPE.INT.P2.CU.2"
+        "ib-pyp-pspe:PSPE.INT.P2.CU.2",
+        "nios-obe-a:A102.L1.3"
       ]
     },
     {
@@ -19592,7 +19649,8 @@
       "assessmentPrompt": "If someone says 'boys don't cry' or 'girls aren't good at maths', can {{name}} explain why those statements are unfair stereotypes that don't apply to everyone?",
       "standards": [
         "ib-pyp-pspe:PSPE-ID-CU-P4-3",
-        "ib-pyp-pspe:PSPE-ID-LO-P4-6"
+        "ib-pyp-pspe:PSPE-ID-LO-P4-6",
+        "nios-obe-a:A102.L1.3"
       ]
     },
     {
@@ -19656,7 +19714,9 @@
       "centrality": 0.06976744186046512,
       "evidence": [],
       "assessmentPrompt": "When {{name}} reads about a crisis happening in another country, can they describe how they think about their own responsibility — and name one practical thing young people can genuinely do about large-scale problems rather than just feeling helpless?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L12.1"
+      ]
     },
     {
       "id": "mt_PdYlsA33jB",
@@ -20016,7 +20076,9 @@
         "Demonstrate safe behaviour in a familiar everyday situation without being reminded"
       ],
       "assessmentPrompt": "Does {{name}} know their basic safety rules — like not going off with someone they don't know, looking both ways before crossing, and telling you if something online makes them uncomfortable?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L9.2"
+      ]
     },
     {
       "id": "mt_Wc6cOTQ1bA",
@@ -20880,7 +20942,9 @@
         "Explains that animals communicate to find mates, warn of danger, or share food locations"
       ],
       "assessmentPrompt": "If {{name}} hears birds singing in the morning, can they explain that birdsong is a way of communicating — and describe at least two other ways different animals send messages to each other?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L10.4"
+      ]
     },
     {
       "id": "mt_bK84sPehyP",
@@ -21799,7 +21863,8 @@
       "standards": [
         "ngss-k5:K-ESS2-1",
         "uk-nc-2013:Y1.Sci.SC.1",
-        "uk-nc-2013:Y1.Sci.SC.2"
+        "uk-nc-2013:Y1.Sci.SC.2",
+        "nios-obe-a:A102.L6.2"
       ]
     },
     {
@@ -21937,7 +22002,8 @@
       ],
       "assessmentPrompt": "Can {{name}} name the different places water is found on Earth — in oceans, rivers, ice caps, and even underground — and explain that ice is just frozen water?",
       "standards": [
-        "ngss-k5:2-ESS2-3"
+        "ngss-k5:2-ESS2-3",
+        "nios-obe-a:A102.L8.5"
       ]
     },
     {
@@ -22133,7 +22199,8 @@
       ],
       "assessmentPrompt": "Can {{name}} suggest ways people can help the environment — like recycling, not littering, saving water, or planting trees?",
       "standards": [
-        "ngss-k5:K-ESS3-3"
+        "ngss-k5:K-ESS3-3",
+        "nios-obe-a:A102.L5.3"
       ]
     },
     {
@@ -22154,7 +22221,8 @@
       "assessmentPrompt": "Can {{name}} explain why a polar bear lives in the Arctic and not in a desert, and how the animals and plants in a habitat help each other?",
       "standards": [
         "ngss-k5:2-LS4-1",
-        "uk-nc-2013:Y2.Sci.LTH.2"
+        "uk-nc-2013:Y2.Sci.LTH.2",
+        "nios-obe-a:A102.L4.1"
       ]
     },
     {
@@ -22173,7 +22241,9 @@
         "Name at least three contrasting habitats and describe what makes each distinctive"
       ],
       "assessmentPrompt": "Can {{name}} explain why a polar bear couldn't survive in a rainforest — using the word 'habitat' or 'conditions' rather than just 'it's too hot'?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L4.1"
+      ]
     },
     {
       "id": "mt_Sa48W7KXB5",
@@ -22192,7 +22262,9 @@
       ],
       "assessmentPrompt": "If you show {{name}} a rock, a fallen leaf, and a caterpillar, can they tell you which is alive, which was once alive, and which was never alive?",
       "standards": [
-        "uk-nc-2013:Y2.Sci.LTH.1"
+        "uk-nc-2013:Y2.Sci.LTH.1",
+        "nios-obe-a:A102.L4.2",
+        "nios-obe-a:A102.L4.3"
       ]
     },
     {
@@ -22233,7 +22305,8 @@
       ],
       "assessmentPrompt": "Can {{name}} draw a food chain showing how a caterpillar eats a leaf and then a bird eats the caterpillar?",
       "standards": [
-        "uk-nc-2013:Y2.Sci.LTH.4"
+        "uk-nc-2013:Y2.Sci.LTH.4",
+        "nios-obe-a:A102.L5.2"
       ]
     },
     {
@@ -22332,7 +22405,8 @@
       ],
       "assessmentPrompt": "Can {{name}} build a food chain for a woodland and point out which organisms are producers, which are predators, and which are prey?",
       "standards": [
-        "uk-nc-2013:Y4.Sci.A.3"
+        "uk-nc-2013:Y4.Sci.A.3",
+        "nios-obe-a:A102.L5.2"
       ]
     },
     {
@@ -22371,7 +22445,9 @@
         "Apply 'carbon footprint' and 'sustainability' correctly in a discussion about everyday human choices"
       ],
       "assessmentPrompt": "Can {{name}} explain what a carbon footprint is — not just that it's about pollution, but what it actually measures?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L5.3"
+      ]
     },
     {
       "id": "mt_uVaS12lN1i",
@@ -24439,7 +24515,8 @@
       ],
       "assessmentPrompt": "If you hold up a wooden spoon and a metal spoon, can {{name}} explain that both are spoons (the object) but made from different materials?",
       "standards": [
-        "uk-nc-2013:Y1.Sci.EM.1"
+        "uk-nc-2013:Y1.Sci.EM.1",
+        "nios-obe-a:A102.L4.3"
       ]
     },
     {
@@ -25690,7 +25767,8 @@
       "assessmentPrompt": "Can {{name}} describe how a fish's body is different from a bird's body and explain features like scales, feathers, or fins?",
       "standards": [
         "ngss-k5:1-LS1-1",
-        "uk-nc-2013:Y1.Sci.A.3"
+        "uk-nc-2013:Y1.Sci.A.3",
+        "nios-obe-a:A102.L4.4"
       ]
     },
     {
@@ -25710,7 +25788,8 @@
       ],
       "assessmentPrompt": "Can {{name}} point to their eyes, ears, nose, tongue, and skin and tell you which sense each one is used for?",
       "standards": [
-        "uk-nc-2013:Y1.Sci.A.4"
+        "uk-nc-2013:Y1.Sci.A.4",
+        "nios-obe-a:A102.L9.1"
       ]
     },
     {
@@ -25731,7 +25810,8 @@
       "assessmentPrompt": "If you point to a tree in the park, can {{name}} tell you what kind it is and whether it keeps its leaves in winter?",
       "standards": [
         "ngss-k5:K-LS1-1",
-        "uk-nc-2013:Y1.Sci.P.1"
+        "uk-nc-2013:Y1.Sci.P.1",
+        "nios-obe-a:A102.L4.4"
       ]
     },
     {
@@ -25770,7 +25850,9 @@
         "Explain why a plant is alive using at least two life process words"
       ],
       "assessmentPrompt": "Can {{name}} explain why a rock is not alive but a weed is — using a science word like 'nutrition' or 'growth' rather than just saying 'it moves'?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L4.2"
+      ]
     },
     {
       "id": "mt_zVLOm6U7bh",
@@ -25790,7 +25872,8 @@
       "assessmentPrompt": "When {{name}} sees a frog, a robin, or a goldfish, can they tell you which animal group each belongs to?",
       "standards": [
         "ngss-k5:K-LS1-1",
-        "uk-nc-2013:Y1.Sci.A.1"
+        "uk-nc-2013:Y1.Sci.A.1",
+        "nios-obe-a:A102.L4.4"
       ]
     },
     {
@@ -25810,7 +25893,9 @@
       ],
       "assessmentPrompt": "If you pick a flower from the garden, can {{name}} point to the roots, stem, leaves, and petals and say what each part does?",
       "standards": [
-        "uk-nc-2013:Y1.Sci.P.2"
+        "uk-nc-2013:Y1.Sci.P.2",
+        "nios-obe-a:A102.L4.4",
+        "nios-obe-a:A102.L5.2"
       ]
     },
     {
@@ -25832,7 +25917,8 @@
       "standards": [
         "ngss-k5:K-LS1-1",
         "uk-nc-2013:Y2.Sci.A.2",
-        "uk-nc-2013:Y2.Sci.P.2"
+        "uk-nc-2013:Y2.Sci.P.2",
+        "nios-obe-a:A102.L7.1"
       ]
     },
     {
@@ -25954,7 +26040,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why people need to eat different types of food like fruit, protein, and carbohydrates to stay healthy?",
       "standards": [
-        "uk-nc-2013:Y3.Sci.A.1"
+        "uk-nc-2013:Y3.Sci.A.1",
+        "nios-obe-a:A102.L8.1"
       ]
     },
     {
@@ -25992,7 +26079,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why a flower needs roots underground and leaves up top — what job does each part do?",
       "standards": [
-        "uk-nc-2013:Y3.Sci.P.1"
+        "uk-nc-2013:Y3.Sci.P.1",
+        "nios-obe-a:A102.L5.2"
       ]
     },
     {
@@ -26593,7 +26681,8 @@
       ],
       "assessmentPrompt": "If {{name}} was planning a packed lunch, could they explain what each food group does for the body — why we need protein, carbohydrates, fats, vitamins, and minerals?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Bio.Nutrition.1"
+        "uk-nc-2013:KS3.Sci.Bio.Nutrition.1",
+        "nios-obe-a:A102.L8.2"
       ]
     },
     {
@@ -28488,7 +28577,9 @@
         "Explain that space is the area beyond the Earth's sky, where the planets and stars are"
       ],
       "assessmentPrompt": "Does {{name}} know that Earth is one of several planets that go around the Sun, and that this group is called the solar system?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L6.1"
+      ]
     },
     {
       "id": "mt_BVpB5wyijZ",
@@ -28686,7 +28777,9 @@
         "Describe the solar system as the Sun at the centre with planets orbiting around it"
       ],
       "assessmentPrompt": "Does {{name}} know that the Sun is actually a star — just a very close one — and that the planets go around it?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L6.1"
+      ]
     },
     {
       "id": "mt_KiRn5lnRgj",
@@ -28958,7 +29051,8 @@
       "assessmentPrompt": "Has {{name}} noticed that it's still light at bedtime in summer but dark much earlier in winter, and can they explain this pattern?",
       "standards": [
         "ngss-k5:1-ESS1-2",
-        "uk-nc-2013:Y1.Sci.SC.2"
+        "uk-nc-2013:Y1.Sci.SC.2",
+        "nios-obe-a:A102.L6.2"
       ]
     },
     {
@@ -28978,7 +29072,9 @@
       ],
       "assessmentPrompt": "Can {{name}} describe patterns they've noticed in the sky — like the sun rising in the east, the moon changing shape over weeks, and stars coming out at night?",
       "standards": [
-        "ngss-k5:1-ESS1-1"
+        "ngss-k5:1-ESS1-1",
+        "nios-obe-a:A102.L6.1",
+        "nios-obe-a:A102.L6.2"
       ]
     },
     {
@@ -29037,7 +29133,8 @@
       "assessmentPrompt": "Can {{name}} explain that the sun doesn't actually move across the sky — it's the Earth spinning that makes it look like it does, and that's what causes day and night?",
       "standards": [
         "ngss-k5:5-ESS1-2",
-        "uk-nc-2013:Y5.Sci.ES.4"
+        "uk-nc-2013:Y5.Sci.ES.4",
+        "nios-obe-a:A102.L6.2"
       ]
     },
     {
@@ -29262,7 +29359,10 @@
         "Describe what happens if one need isn't met (e.g. feeling tired without sleep, thirsty without water)"
       ],
       "assessmentPrompt": "Can {{name}} explain why their body needs food, water, sleep, and exercise — and what happens if they miss any of them?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L7.1",
+        "nios-obe-a:A102.L8.1"
+      ]
     },
     {
       "id": "mt_SdIWVjzopp",
@@ -29334,7 +29434,9 @@
         "Give an example of using each sense in everyday life (e.g. smelling food cooking, feeling hot water)"
       ],
       "assessmentPrompt": "If you blindfolded {{name}} and gave them something to smell, taste, and touch, could they name which sense they were using each time and which body part does the job?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L9.1"
+      ]
     },
     {
       "id": "mt_lp1eTsQen7",
@@ -29370,7 +29472,10 @@
         "State that vitamins and minerals protect against illness and help the body work properly"
       ],
       "assessmentPrompt": "If {{name}} looked at their dinner plate, could they identify which foods give energy, which help muscles grow, and which keep them healthy?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L8.2",
+        "nios-obe-a:A102.L8.3"
+      ]
     },
     {
       "id": "mt_C7FNeIDGc6",
@@ -29478,7 +29583,9 @@
         "Explain that humans have all types because we are omnivores — we eat both plants and meat"
       ],
       "assessmentPrompt": "Can {{name}} look in a mirror, point out their different types of teeth, and explain what each type is for?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L9.1"
+      ]
     },
     {
       "id": "mt_QK-ZZb7UUN",
@@ -29532,7 +29639,9 @@
         "State at least two harmful effects of smoking (damages lungs, increases heart disease risk) or alcohol (damages liver, affects brain)"
       ],
       "assessmentPrompt": "Can {{name}} explain how what they eat, how much they exercise, and how much they sleep affects how their body works — and why smoking or drugs are harmful?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L8.4"
+      ]
     },
     {
       "id": "mt_g_M4Vh_pK7",
@@ -30711,7 +30820,9 @@
         "Describe how weather affects daily activities like playtime, walking to school, or outdoor events"
       ],
       "assessmentPrompt": "Before going outside, can {{name}} check the weather and choose the right clothes — like grabbing a raincoat if it's cloudy or a sun hat if it's hot?",
-      "standards": []
+      "standards": [
+        "nios-obe-a:A102.L7.1"
+      ]
     },
     {
       "id": "mt_TlLE4cZgOr",
@@ -31220,6 +31331,490 @@
       "evidence": [],
       "assessmentPrompt": "Has {{name}} heard of geoengineering? Can they describe one proposal for deliberately cooling the Earth and explain one potential risk of attempting it — and say whether they think individuals or governments bear more responsibility for tackling climate change?",
       "standards": []
+    },
+    {
+      "id": "mt_X0Kp51EEpr",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Family & Community",
+      "name": "What Makes a Family",
+      "description": "Understand what a family is — a group of people connected by birth, marriage, or care who live together and look after one another — and that families come in many shapes and sizes.",
+      "ageRangeStart": 5,
+      "ageRangeEnd": 7,
+      "centrality": null,
+      "evidence": [
+        "Name the members of their own family and how each is related to them",
+        "Recognise that families differ — some large, some small, some with grandparents or one parent",
+        "Explain one way family members help and care for each other"
+      ],
+      "assessmentPrompt": "Can {{name}} tell you who is in their family and how each person is related to them — and understand that other children’s families might look different from theirs?",
+      "standards": [
+        "nios-obe-a:A102.L1.1"
+      ]
+    },
+    {
+      "id": "mt_Lkc7l7OvTP",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Family & Community",
+      "name": "Kinship and Relatives",
+      "description": "Understand kinship — the wider web of relatives beyond the household, such as grandparents, aunts, uncles and cousins — and why these ties matter for support and belonging.",
+      "ageRangeStart": 5,
+      "ageRangeEnd": 7,
+      "centrality": null,
+      "evidence": [
+        "Use kinship words correctly — grandmother, uncle, aunt, cousin",
+        "Trace a simple relationship (e.g. “my father’s sister is my aunt”)",
+        "Give an example of how relatives help each other at times like festivals or illness"
+      ],
+      "assessmentPrompt": "When {{name}} talks about relatives beyond their home — like an aunt, uncle, or cousin — do they understand how those people are connected to them and why staying in touch matters?",
+      "standards": [
+        "nios-obe-a:A102.L1.2"
+      ]
+    },
+    {
+      "id": "mt_jqiva7dKnb",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Family & Community",
+      "name": "Our Neighbourhood and Community",
+      "description": "Understand that beyond the family is a neighbourhood and community — the people living and working nearby — and that a community develops through the shared roles of families, neighbours and local groups.",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 8,
+      "centrality": null,
+      "evidence": [
+        "Describe their own neighbourhood and name some people in it",
+        "Explain how neighbours help one another",
+        "Give an example of families and community working together for a shared purpose"
+      ],
+      "assessmentPrompt": "Can {{name}} describe the neighbourhood they live in and give an example of how neighbours or the wider community help each other?",
+      "standards": [
+        "nios-obe-a:A102.L2.3"
+      ]
+    },
+    {
+      "id": "mt_yfEEUum8iZ",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Family & Community",
+      "name": "Public Services in Our Neighbourhood",
+      "description": "Know the public conveniences and services found in a neighbourhood — such as schools, hospitals, post offices, water taps, parks and public transport stops — and understand that they are shared by everyone and should be looked after.",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 8,
+      "centrality": null,
+      "evidence": [
+        "Name several public services in their area and say what each is for",
+        "Explain that public services are shared and paid for by the community",
+        "Describe one way people should look after a shared public facility"
+      ],
+      "assessmentPrompt": "Can {{name}} point out shared public places near home — like a school, clinic, or park — explain what they are for, and say why everyone should help keep them clean and working?",
+      "standards": [
+        "nios-obe-a:A102.L2.2"
+      ]
+    },
+    {
+      "id": "mt_QEW2aFMKWv",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Culture & Nation",
+      "name": "Festivals We Celebrate",
+      "description": "Understand that festivals are shared celebrations that bring families and communities together, that different communities celebrate different festivals, and that each festival has its own meaning and customs.",
+      "ageRangeStart": 5,
+      "ageRangeEnd": 7,
+      "centrality": null,
+      "evidence": [
+        "Name festivals their family or community celebrates and describe what people do",
+        "Recognise that other communities celebrate different festivals",
+        "Explain that a festival has a reason or meaning behind the celebration"
+      ],
+      "assessmentPrompt": "Can {{name}} tell you about a festival their family celebrates — what happens and why — and understand that other families might celebrate different festivals?",
+      "standards": [
+        "nios-obe-a:A102.L3.1"
+      ]
+    },
+    {
+      "id": "mt_s63gXTWzPP",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Culture & Nation",
+      "name": "National Symbols of India",
+      "description": "Recognise the national symbols of India — the national flag, national emblem, currency, national animal, national flower and national game — and understand that the national anthem and national song stand for the country and help bring people together.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Identify the national flag and describe its colours and the wheel at its centre",
+        "Name several national symbols of India and what each represents",
+        "Explain that the national anthem is sung with respect and stands for the whole country"
+      ],
+      "assessmentPrompt": "Can {{name}} recognise India’s flag and name a few other national symbols — like the national animal or anthem — and explain that these stand for the country and are treated with respect?",
+      "standards": [
+        "nios-obe-a:A102.L11.1",
+        "nios-obe-a:A102.L11.2"
+      ]
+    },
+    {
+      "id": "mt_98SM0iCKTg",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Culture & Nation",
+      "name": "National Festivals of India",
+      "description": "Understand the national festivals of India — Independence Day, Republic Day and Gandhi Jayanti — what each one remembers, and how they are marked across the whole country rather than by one community.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Name the three national festivals and roughly when they fall",
+        "Explain what each national festival remembers or honours",
+        "Distinguish a national festival (celebrated by the whole country) from a community festival"
+      ],
+      "assessmentPrompt": "Can {{name}} name India’s national festivals like Independence Day and Republic Day, say what each one remembers, and explain how they are different from festivals only some families celebrate?",
+      "standards": [
+        "nios-obe-a:A102.L11.3"
+      ]
+    },
+    {
+      "id": "mt_fwkPvwG8ET",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Transport & Communication",
+      "name": "How People and Goods Travel",
+      "description": "Understand that people and goods move from place to place using different modes of transport — road, rail, water and pipeline — that transport has developed over time from walking and animals to modern vehicles, and that each mode suits different needs.",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 8,
+      "centrality": null,
+      "evidence": [
+        "Name modes of transport and sort them into road, rail, water and air",
+        "Give an example of goods or people best carried by a particular mode",
+        "Describe how transport has changed over time"
+      ],
+      "assessmentPrompt": "Can {{name}} name different ways people and goods travel — by road, rail, water — and explain why you might choose one over another for a particular journey?",
+      "standards": [
+        "nios-obe-a:A102.L10.1",
+        "nios-obe-a:A102.L10.2",
+        "nios-obe-a:A102.L10.3"
+      ]
+    },
+    {
+      "id": "mt_f4c1NeL3Fv",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Transport & Communication",
+      "name": "Ways We Communicate",
+      "description": "Understand that communication is how people share messages and information — through speech, writing, signs and signals, letters, telephones and the internet — and that both humans and animals use signs to communicate.",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 8,
+      "centrality": null,
+      "evidence": [
+        "Name several ways people send messages to one another",
+        "Give an example of communicating with a sign or signal rather than words",
+        "Recognise that animals also communicate using sounds and signals"
+      ],
+      "assessmentPrompt": "Can {{name}} describe different ways people send messages to each other — talking, writing, phones — and give an example of a sign or signal that carries a message without words?",
+      "standards": [
+        "nios-obe-a:A102.L10.4"
+      ]
+    },
+    {
+      "id": "mt_dAeSzg4mmt",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Civic Life & Rights",
+      "name": "Right to Education and Child Rights",
+      "description": "Understand that every child has a right to education and to be cared for and protected, that these rights are backed by law, and that rights come with responsibilities towards oneself and others.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Explain that every child has a right to go to school",
+        "Name a few basic rights that all children share",
+        "Describe a responsibility that goes alongside a right"
+      ],
+      "assessmentPrompt": "Does {{name}} understand that every child has the right to an education and to be kept safe — and that having rights also means having responsibilities towards others?",
+      "standards": [
+        "nios-obe-a:A102.L12.2"
+      ]
+    },
+    {
+      "id": "mt_OeXPJk4wrb",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Civic Life & Rights",
+      "name": "Right to Information",
+      "description": "Understand that citizens have a right to ask for and receive information about how the government works, that this openness helps hold those in power to account, and that there are rules for how such information is requested.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain what the Right to Information means in simple terms",
+        "Give a reason why being able to ask the government questions matters",
+        "Describe, in outline, how someone might request official information"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why citizens being able to ask the government for information helps keep things fair and honest — and roughly how someone would go about requesting it?",
+      "standards": [
+        "nios-obe-a:A102.L12.3"
+      ]
+    },
+    {
+      "id": "mt_8SKBJJFzh1",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Civic Life & Rights",
+      "name": "Government Support and Welfare Schemes",
+      "description": "Understand that governments run schemes to support people — such as guaranteed work, food, or education programmes — that these are funded by taxes, and that schemes like MNREGA aim to give people fair opportunities and a basic livelihood.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain that the government provides support and services funded by taxes",
+        "Give an example of a welfare scheme and who it is meant to help",
+        "Describe why a guaranteed-work or food scheme can matter for a family"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that the government runs schemes — paid for by taxes — to help people who need work, food or support, and give an example of who such a scheme is meant to help?",
+      "standards": [
+        "nios-obe-a:A102.L12.4"
+      ]
+    },
+    {
+      "id": "mt_iTCwrNlXD9",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Natural and Man-Made Things",
+      "description": "Sort the things around us into those that occur in nature (rocks, water, plants, animals) and those that people make (buildings, tools, clothes), and understand that many made things are built from natural materials.",
+      "ageRangeStart": 5,
+      "ageRangeEnd": 7,
+      "centrality": null,
+      "evidence": [
+        "Sort familiar objects into natural and man-made",
+        "Give an example of a man-made thing built from a natural material (e.g. a wooden chair from a tree)",
+        "Explain the difference between something that grew or formed in nature and something a person made"
+      ],
+      "assessmentPrompt": "Can {{name}} look around and sort things into ones that come from nature and ones that people have made — and notice that many made things start from natural materials?",
+      "standards": [
+        "nios-obe-a:A102.L4.3"
+      ]
+    },
+    {
+      "id": "mt_cpDCbpY8gk",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Animals of the World",
+      "name": "Animals That Help Us",
+      "description": "Know that people keep and care for many useful animals — cattle for milk; animals reared for eggs, wool and silk; animals that carry people and goods; and pets for company — and that in return these animals need food, shelter and kind treatment.",
+      "ageRangeStart": 5,
+      "ageRangeEnd": 7,
+      "centrality": null,
+      "evidence": [
+        "Name useful animals and say what each provides (milk, eggs, wool, transport, company)",
+        "Match a product like milk, eggs or wool to the animal it comes from",
+        "Explain that useful animals must be fed, sheltered and treated kindly"
+      ],
+      "assessmentPrompt": "Can {{name}} name some animals that help people — for milk, eggs, wool, carrying loads, or company — and explain that these animals need to be looked after in return?",
+      "standards": [
+        "nios-obe-a:A102.L5.1"
+      ]
+    },
+    {
+      "id": "mt_Dp07VVbfBH",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Organisms & Life Processes",
+      "name": "Uses of Plants",
+      "description": "Understand that plants are useful to people and animals in many ways — as food (fruits, vegetables, grains), and as sources of wood, cloth fibres, medicines and shade — and that this is a reason to grow and protect them.",
+      "ageRangeStart": 5,
+      "ageRangeEnd": 7,
+      "centrality": null,
+      "evidence": [
+        "Name foods that come from plants",
+        "Give a non-food use of plants (wood, cloth, medicine, shade)",
+        "Explain one reason why plants are worth growing and protecting"
+      ],
+      "assessmentPrompt": "Can {{name}} give examples of how plants are useful — foods we eat and things like wood or cloth — and explain why that means we should look after them?",
+      "standards": [
+        "nios-obe-a:A102.L5.2"
+      ]
+    },
+    {
+      "id": "mt_uof32CdhYK",
+      "type": "PROCEDURAL",
+      "subject": "Science",
+      "domain": "The Human Body",
+      "name": "Keeping Clean: Personal Hygiene",
+      "description": "Look after the external parts of the body through everyday hygiene — washing hands, bathing, brushing teeth, keeping hair, nails, eyes, ears and skin clean — and understand that cleanliness helps keep germs and illness away.",
+      "ageRangeStart": 5,
+      "ageRangeEnd": 7,
+      "centrality": null,
+      "evidence": [
+        "Describe daily hygiene habits and when to do them (e.g. wash hands before eating)",
+        "Explain that keeping clean helps keep germs and illness away",
+        "Demonstrate or describe correct handwashing and tooth-brushing"
+      ],
+      "assessmentPrompt": "Does {{name}} know the everyday ways to keep their body clean — washing hands before eating, brushing teeth, bathing — and understand that this helps keep germs and illness away?",
+      "standards": [
+        "nios-obe-a:A102.L9.2"
+      ]
+    },
+    {
+      "id": "mt_Km5iZqQ8Vi",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "The Human Body",
+      "name": "Safe Food and Clean Water",
+      "description": "Understand that food must be kept clean and fresh and that drinking water should be clean and safe — that dirty food or water can carry germs and make us ill — and know simple ways to keep food safe and to make water safe to drink, such as boiling or filtering.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Explain why food should be covered, washed and stored properly",
+        "Describe how unsafe food or water can make people ill",
+        "Name a way to make water safe to drink (boiling, filtering, safe storage)"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why food needs to be kept clean and fresh and water needs to be safe to drink — and name a way to make water safe, like boiling it?",
+      "standards": [
+        "nios-obe-a:A102.L8.4",
+        "nios-obe-a:A102.L8.5"
+      ]
+    },
+    {
+      "id": "mt_yOQ0M9wsMN",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Parts of a Computer",
+      "description": "Recognise and name the main parts of a computer — the monitor (screen), keyboard, mouse and the box or unit that does the processing — and know what each part is for.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Point to and name the monitor, keyboard, mouse and main unit",
+        "Say what each main part is used for",
+        "Recognise a computer among other machines and devices"
+      ],
+      "assessmentPrompt": "Can {{name}} point to and name the main parts of a computer — screen, keyboard, mouse — and say what each one is for?",
+      "standards": [
+        "nios-obe-a:A104.L1"
+      ]
+    },
+    {
+      "id": "mt_59xWxyEPyE",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Starting and Shutting Down a Computer",
+      "description": "Turn a computer on and shut it down correctly using the proper steps, and understand why shutting down properly (rather than switching off at the wall) protects the computer and your work.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Start a computer and wait for it to be ready",
+        "Shut it down using the correct steps rather than pulling the power",
+        "Explain why shutting down properly matters"
+      ],
+      "assessmentPrompt": "Can {{name}} switch a computer on and shut it down the proper way — and explain why that’s better than just pulling out the plug?",
+      "standards": [
+        "nios-obe-a:A104.L1"
+      ]
+    },
+    {
+      "id": "mt_VPyvJyLQ9W",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Hardware and Software",
+      "description": "Understand the difference between hardware (the physical parts you can touch) and software (the programs that tell the computer what to do), and that a computer needs both to work.",
+      "ageRangeStart": 8,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Classify examples as hardware or software",
+        "Explain that software is a set of instructions the computer follows",
+        "Give an example of a program (software) and what it does"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the difference between the parts of a computer you can touch (hardware) and the programs that run on it (software), and give an example of each?",
+      "standards": [
+        "nios-obe-a:A104.L2"
+      ]
+    },
+    {
+      "id": "mt_CubybCLCKN",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Input, Output and Storage Devices",
+      "description": "Understand that input devices (keyboard, mouse, microphone) put information into a computer, output devices (screen, printer, speaker) get information out, and storage devices (disk, USB drive) keep information for later.",
+      "ageRangeStart": 8,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Sort devices into input, output and storage",
+        "Explain what each group of devices does",
+        "Give an example of a device that stores information to use later"
+      ],
+      "assessmentPrompt": "Can {{name}} sort computer devices into ones that put information in (input), get it out (output), or store it for later — and give an example of each?",
+      "standards": [
+        "nios-obe-a:A104.L3"
+      ]
+    },
+    {
+      "id": "mt_ZRqI3Tlye4",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Using an Operating System",
+      "description": "Find your way around a computer’s desktop — recognise icons, open and close programs, and create and organise files and folders — understanding that the operating system is the software that lets you control the computer.",
+      "ageRangeStart": 8,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Identify parts of the desktop and open a program from it",
+        "Create a folder and save a file into it",
+        "Explain that the operating system is what lets you use the computer"
+      ],
+      "assessmentPrompt": "Can {{name}} find their way around a computer’s desktop — open a program, and make a folder to keep files in?",
+      "standards": [
+        "nios-obe-a:A104.L4"
+      ]
+    },
+    {
+      "id": "mt_W8Nrlon7qO",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Drawing with Paint",
+      "description": "Use a simple paint program to draw and colour pictures with its tools, and save, open and close your work — building confidence in controlling the mouse and screen.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Open a paint program and use brush, colour and shape tools",
+        "Make and colour a picture",
+        "Save the picture and open it again later"
+      ],
+      "assessmentPrompt": "Can {{name}} open a drawing program, make a colourful picture with its tools, and save it so they can open it again later?",
+      "standards": [
+        "nios-obe-a:A104.L5"
+      ]
+    },
+    {
+      "id": "mt_8lqspeGNuz",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Word Processing Basics",
+      "description": "Use a word-processing program to type text, correct mistakes, do simple formatting, and save the document as a file — and open an existing document again.",
+      "ageRangeStart": 8,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Open a word processor and type a few sentences",
+        "Correct and make simple formatting changes to the text",
+        "Save the document and open an existing one"
+      ],
+      "assessmentPrompt": "Can {{name}} type some text in a word processor, fix mistakes and tidy it up, and save the document so it can be opened again?",
+      "standards": [
+        "nios-obe-a:A104.L6"
+      ]
     }
   ]
 }

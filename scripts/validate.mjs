@@ -71,6 +71,35 @@ for (const d of deps.dependencies) {
   check(d.strength === 'hard' || d.strength === 'soft', `bad strength ${d.strength}`);
 }
 
+// --- dependencies form a DAG (no cycles) ------------------------------------
+{
+  const adj = new Map();
+  for (const d of deps.dependencies) {
+    if (!adj.has(d.topicId)) adj.set(d.topicId, []);
+    adj.get(d.topicId).push(d.prerequisiteId);
+  }
+  const WHITE = 0, GRAY = 1, BLACK = 2;
+  const color = new Map();
+  const stack = [];
+  let cycle = null;
+  const visit = (u) => {
+    color.set(u, GRAY);
+    stack.push(u);
+    for (const v of adj.get(u) ?? []) {
+      const c = color.get(v) ?? WHITE;
+      if (c === GRAY) { cycle = stack.slice(stack.indexOf(v)).concat(v); return true; }
+      if (c === WHITE && visit(v)) return true;
+    }
+    color.set(u, BLACK);
+    stack.pop();
+    return false;
+  };
+  for (const u of adj.keys()) {
+    if ((color.get(u) ?? WHITE) === WHITE && visit(u)) break;
+  }
+  if (cycle) errors.push(`dependency cycle: ${cycle.join(' → ')}`);
+}
+
 // --- referential integrity: topic → standard -------------------------------
 let danglingRefs = 0;
 for (const t of topics.topics) {

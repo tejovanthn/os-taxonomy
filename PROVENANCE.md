@@ -17,6 +17,12 @@ For encumbered sources we ship only the **standard code** (e.g. `1-ESS1-1`) and 
 - **Required notice:** *"Contains public sector information licensed under the Open Government Licence v3.0."*
 - **We ship:** full standard text.
 
+### 🟢 `nios-obe-a` — NIOS Open Basic Education (Adult) Level 'A' (India) — **full text**
+- **Publisher / rights:** National Institute of Open Schooling (NIOS), India — an autonomous body under the Ministry of Education.
+- **License:** the [NIOS Copyright Statement](https://nios.ac.in/terms-conditions.aspx) states: *"Material featured on this site may be reproduced free of charge in any format or media without requiring specific permission. This is subject to the material being reproduced accurately and not being used in a derogatory manner or in a misleading context. Where the material is being published or issued to others, the source must be prominently acknowledged."* This is an OGL-style permission (permits commercial use and redistribution). It does **not** grant a share-alike relicense, so these records remain under the NIOS terms, **not** ODbL.
+- **Required notice:** *"Contains material from the National Institute of Open Schooling (NIOS), reproduced under its Copyright Statement. Source: https://nios.ac.in."*
+- **We ship:** full standard text (the course lesson/sub-topic descriptions), distilled from the Level 'A' curriculum document ([Aleveleng.pdf](https://nios.ac.in/media/documents/Aleveleng.pdf)) covering three courses — A-102 Environmental Study, A-103 Mathematics, and A-104 Basic Computer Skills.
+
 ### 🟡 `ccss-ela`, `ccss-math` — Common Core State Standards — **full text**
 - **Publisher / rights:** © 2010 National Governors Association Center for Best Practices (NGA Center) and Council of Chief State School Officers (CCSSO).
 - **License:** the CCSS Public License grants *"a limited, non-exclusive, royalty-free license to copy, publish, distribute, and display the Common Core State Standards **for purposes that support the Common Core State Standards Initiative**."* This is **purpose-limited**, and it does **not** clearly grant derivative-work or sublicensing rights — so the CCSS-derived records remain under the CCSS Public License, **not** ODbL.
