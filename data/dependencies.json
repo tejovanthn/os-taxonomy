@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3470,
+  "edgeCount": 3500,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -20822,6 +20822,186 @@
       "prerequisiteId": "mt_Cg8VPguS_V",
       "strength": "hard",
       "reason": "Median and mode build on calculating the mean"
+    },
+    {
+      "topicId": "mt_WRmH6pd30u",
+      "prerequisiteId": "mt_b6kZgqolEd",
+      "strength": "hard",
+      "reason": "Atoms and molecules build on the particle model of matter"
+    },
+    {
+      "topicId": "mt_T7ICFeChaV",
+      "prerequisiteId": "mt_WRmH6pd30u",
+      "strength": "hard",
+      "reason": "Atomic structure builds on knowing matter is made of atoms"
+    },
+    {
+      "topicId": "mt_rswmjlVxDp",
+      "prerequisiteId": "mt_T7ICFeChaV",
+      "strength": "hard",
+      "reason": "Bonding builds on the arrangement of electrons in atoms"
+    },
+    {
+      "topicId": "mt_Id4cr53vlQ",
+      "prerequisiteId": "mt_v0K6GRi4ZL",
+      "strength": "hard",
+      "reason": "Balancing equations builds on understanding chemical reactions"
+    },
+    {
+      "topicId": "mt_Id4cr53vlQ",
+      "prerequisiteId": "mt_WRmH6pd30u",
+      "strength": "soft",
+      "reason": "Balancing counts atoms, which builds on atoms and molecules"
+    },
+    {
+      "topicId": "mt_zqdALphaES",
+      "prerequisiteId": "mt_lcf8lx-LkZ",
+      "strength": "soft",
+      "reason": "Describing motion builds on understanding forces"
+    },
+    {
+      "topicId": "mt_qcDIPchMJt",
+      "prerequisiteId": "mt_zqdALphaES",
+      "strength": "hard",
+      "reason": "Newton’s laws build on describing motion"
+    },
+    {
+      "topicId": "mt_1WRBUMcXaO",
+      "prerequisiteId": "mt_Jvg_r4yWaY",
+      "strength": "hard",
+      "reason": "Work and power build on energy stores and transfers"
+    },
+    {
+      "topicId": "mt_FQXGRdTDhp",
+      "prerequisiteId": "mt_qzbgwaUQOA",
+      "strength": "soft",
+      "reason": "Hormonal control complements the nervous system"
+    },
+    {
+      "topicId": "mt_sVnzpPPhUg",
+      "prerequisiteId": "mt_gM1adZDGIy",
+      "strength": "soft",
+      "reason": "The modern world context frames British rule in India"
+    },
+    {
+      "topicId": "mt_sVnzpPPhUg",
+      "prerequisiteId": "mt_H4bLNkDrGJ",
+      "strength": "soft",
+      "reason": "The modern world follows the medieval world"
+    },
+    {
+      "topicId": "mt_DVIPdRFomK",
+      "prerequisiteId": "mt_ECbqGTZYhL",
+      "strength": "soft",
+      "reason": "Democracy’s challenges build on understanding how the government works"
+    },
+    {
+      "topicId": "mt_DVIPdRFomK",
+      "prerequisiteId": "mt_sfHoytwSwm",
+      "strength": "soft",
+      "reason": "Communalism as a challenge builds on understanding unity in diversity"
+    },
+    {
+      "topicId": "mt_gmIQuiD2CE",
+      "prerequisiteId": "mt_sVnzpPPhUg",
+      "strength": "soft",
+      "reason": "Peace and security are understood against the modern world of nations"
+    },
+    {
+      "topicId": "mt_gmIQuiD2CE",
+      "prerequisiteId": "mt_sfHoytwSwm",
+      "strength": "soft",
+      "reason": "Peace within a nation builds on national unity in diversity"
+    },
+    {
+      "topicId": "mt_y8Wj38VEpV",
+      "prerequisiteId": "mt_zrGl2FRuhh",
+      "strength": "hard",
+      "reason": "The central problems build on the basic idea of scarcity and economics"
+    },
+    {
+      "topicId": "mt_yGbS9NpIU8",
+      "prerequisiteId": "mt_zrGl2FRuhh",
+      "strength": "soft",
+      "reason": "Production uses the scarce resources economics studies"
+    },
+    {
+      "topicId": "mt_yGbS9NpIU8",
+      "prerequisiteId": "mt_9gpUHWVKMR",
+      "strength": "soft",
+      "reason": "Factors of production build on costs and revenue"
+    },
+    {
+      "topicId": "mt_jeTXkpY2IU",
+      "prerequisiteId": "mt_zrGl2FRuhh",
+      "strength": "soft",
+      "reason": "Demand is a core idea within economics"
+    },
+    {
+      "topicId": "mt_0AwWXAesqm",
+      "prerequisiteId": "mt_zrGl2FRuhh",
+      "strength": "soft",
+      "reason": "Supply is a core idea within economics"
+    },
+    {
+      "topicId": "mt_yWJTq3Oc3r",
+      "prerequisiteId": "mt_jeTXkpY2IU",
+      "strength": "hard",
+      "reason": "Price determination builds on demand"
+    },
+    {
+      "topicId": "mt_yWJTq3Oc3r",
+      "prerequisiteId": "mt_0AwWXAesqm",
+      "strength": "hard",
+      "reason": "Price determination builds on supply"
+    },
+    {
+      "topicId": "mt_9Xg22tQB7f",
+      "prerequisiteId": "mt_yWJTq3Oc3r",
+      "strength": "soft",
+      "reason": "Understanding markets builds on how prices are set"
+    },
+    {
+      "topicId": "mt_MOhhQz1xTG",
+      "prerequisiteId": "mt_zrGl2FRuhh",
+      "strength": "soft",
+      "reason": "The Indian economy applies economic ideas to India"
+    },
+    {
+      "topicId": "mt_MOhhQz1xTG",
+      "prerequisiteId": "mt_QCQjNxURAP",
+      "strength": "soft",
+      "reason": "The Indian economy builds on knowing India’s industries"
+    },
+    {
+      "topicId": "mt_0CmQMjd6dQ",
+      "prerequisiteId": "mt_MOhhQz1xTG",
+      "strength": "soft",
+      "reason": "The sectors describe the structure of the Indian economy"
+    },
+    {
+      "topicId": "mt_IGrGGt7lKf",
+      "prerequisiteId": "mt_av-uRBrhwT",
+      "strength": "soft",
+      "reason": "Functional writing builds on planning, revising and editing writing"
+    },
+    {
+      "topicId": "mt_qZAQBsLwp3",
+      "prerequisiteId": "mt_gMSFymQlrW",
+      "strength": "soft",
+      "reason": "Note-making and summarising build on evaluating and understanding texts"
+    },
+    {
+      "topicId": "mt_ctlZpQx3Wd",
+      "prerequisiteId": "mt_bkvB7QYKwg",
+      "strength": "soft",
+      "reason": "Formal speaking builds on adapting speech to context"
+    },
+    {
+      "topicId": "mt_ctlZpQx3Wd",
+      "prerequisiteId": "mt_LNYTNpJOGT",
+      "strength": "soft",
+      "reason": "Formal discussion builds on building on others in discussions"
     }
   ]
 }

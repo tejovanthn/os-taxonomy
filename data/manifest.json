@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-07-15T14:46:51.041Z",
+  "generatedAt": "2026-07-15T15:26:58.852Z",
   "codesOnlySources": [
     "c3-social-studies",
     "ib-pyp-pspe",
@@ -9,42 +9,43 @@
     "ngss-ms"
   ],
   "counts": {
-    "topics": 1790,
+    "topics": 1813,
     "topicsBySubject": {
       "Computing": 39,
-      "English": 286,
-      "History": 139,
+      "Economics": 9,
+      "English": 289,
+      "History": 140,
       "Indian Culture & Heritage": 17,
       "Learning to Learn": 18,
       "Life Skills": 37,
       "Mathematics": 518,
       "Personal & Social Development": 88,
       "Psychology": 21,
-      "Science": 561,
-      "Social Studies": 66
+      "Science": 569,
+      "Social Studies": 68
     },
-    "dependencies": 3470,
+    "dependencies": 3500,
     "curricula": 11,
-    "curriculumStandards": 3524,
-    "topicStandardLinks": 2396,
-    "clusters": 231
+    "curriculumStandards": 3608,
+    "topicStandardLinks": 2500,
+    "clusters": 247
   },
   "files": {
     "topics.json": {
-      "bytes": 1858797,
-      "sha256": "2981fd0b931b03a1d9e80693521e283472418fe04642c8c26620e1831b608171"
+      "bytes": 1881341,
+      "sha256": "73b258ee09c9afd28867758401c4dd8ab9cdb746968e278f8cd7c59d9062808a"
     },
     "dependencies.json": {
-      "bytes": 744505,
-      "sha256": "d6f3507a0993fdceb596b59b29995f184659b2936369e2e7350fd4140c71ee89"
+      "bytes": 750123,
+      "sha256": "60aa629ebbbdfeddbcecfe384b7191da78339a65ea8ef3fb89f601be9e25ddc6"
     },
     "curriculum-standards.json": {
-      "bytes": 1751988,
-      "sha256": "8fbaebc77bce90721ea5a8d6f282cc0f0bb2d2a171e9566439e5fc208dd10458"
+      "bytes": 1793146,
+      "sha256": "f03ec7d525741b88172e1723900c5c1c42e31f4b4070352cf1aa9d7c1c3bb917"
     },
     "clusters.json": {
-      "bytes": 75307,
-      "sha256": "f90ef6b3a318c6fb86409ad13c17f46e97b102c56ff8ed08ec6dc304a52c3e5b"
+      "bytes": 79603,
+      "sha256": "dbd0692f777aff1110673ccdc4325d426849d1707c4f270b1ef4cbf67cbe664d"
     }
   },
   "excluded": [

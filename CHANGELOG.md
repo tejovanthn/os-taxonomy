@@ -8,6 +8,14 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### NIOS Secondary Curriculum 2020 — Science, Social Science, Economics, English (2026-07-15)
+
+The align-heavy secondary subjects — mostly aligning existing topics, minting only genuine secondary gaps.
+- **Science and Technology (212)** — 25 lessons; **23 existing Science topics aligned** + **8 new** (atoms & molecules, atomic structure, chemical bonding, balancing equations, describing motion, Newton's laws, work & power, hormones).
+- **Social Science (213)** — 27 lessons; **26 aligned** to the existing India history/geography/civics + world history, **3 new** (the making of the modern world, challenges to Indian democracy, peace & security).
+- **Economics (214)** → a new **Economics** subject (12th subject); **9 new** micro-topics (what is economics, central problems, factors of production, demand, supply, price, markets, the Indian economy, sectors) + **12 aligned** to existing Life Skills/Maths.
+- **English (202)** — skills syllabus; **12 existing English skill topics aligned** + **3 new** (functional writing, note-making & summarising, formal speaking). The prescribed reader's individual texts are not micro-topics.
+
 ### NIOS Secondary Curriculum 2020 — Mathematics (2026-07-15)
 - **Mathematics (Code 211)** — align-heavy. 26 lesson standards across 6 modules;
   **27 existing Maths topics aligned** (algebra, percentages/interest, lines &

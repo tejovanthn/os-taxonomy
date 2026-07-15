@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 231,
+  "clusterCount": 247,
   "clusters": [
     {
       "subject": "English",
@@ -1387,6 +1387,102 @@
       "domain": "Number Representation & Place Value",
       "ageRangeStart": 13,
       "summary": "Your teenager is extending the number system to irrational numbers like √2 and π, and seeing how rational and irrational numbers together fill the number line."
+    },
+    {
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is learning that all matter is built from atoms and molecules — the difference between elements and compounds — the foundation of chemistry."
+    },
+    {
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is studying secondary chemistry — the structure of the atom, how atoms bond into compounds, and how to balance chemical equations."
+    },
+    {
+      "subject": "Science",
+      "domain": "Forces & Motion",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is learning to describe motion precisely — speed, velocity and acceleration — and to read distance-time and speed-time graphs."
+    },
+    {
+      "subject": "Science",
+      "domain": "Forces & Motion",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning Newton’s laws of motion — how force, mass and acceleration relate, and why every action has a reaction."
+    },
+    {
+      "subject": "Science",
+      "domain": "Energy",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning the scientific meaning of work, energy and power, and how to calculate them."
+    },
+    {
+      "subject": "Science",
+      "domain": "The Human Body",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning how the body is coordinated by hormones — chemical messengers from glands — working alongside the nervous system."
+    },
+    {
+      "subject": "History",
+      "domain": "Modern World",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning how the modern world was made — the Renaissance and revolutions, industrialisation, the world wars, and how colonised nations like India won their freedom."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is thinking about the challenges a large democracy faces — inequality, corruption and communalism — and how active, informed citizens help meet them."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning why peace and security matter for nations and the world, and how countries cooperate to keep the peace."
+    },
+    {
+      "subject": "Economics",
+      "domain": "Basic Concepts",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning the foundations of economics — how limited resources and unlimited wants force choices, and the central problems every economy must solve."
+    },
+    {
+      "subject": "Economics",
+      "domain": "Production",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning how goods and services are produced — the factors of production (land, labour, capital and enterprise) and the costs involved."
+    },
+    {
+      "subject": "Economics",
+      "domain": "Markets",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning how markets work — demand and supply, how they set prices, and the different kinds of market."
+    },
+    {
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning about the Indian economy — its sectors, its challenges, and its place in the global economy."
+    },
+    {
+      "subject": "English",
+      "domain": "Writing Composition",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning functional writing — formal letters, applications, reports and notices — using the right format and tone for each real-world purpose."
+    },
+    {
+      "subject": "English",
+      "domain": "Reading Comprehension",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is building study skills — making organised notes from what they read and writing concise summaries in their own words."
+    },
+    {
+      "subject": "English",
+      "domain": "Speaking & Listening",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning to speak in formal settings — taking part in discussions and debates and giving short prepared talks."
     }
   ]
 }

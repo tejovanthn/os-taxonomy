@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 1790,
+  "topicCount": 1813,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -1140,7 +1140,9 @@
         "Write three sentences each containing a different abstract noun (e.g. 'honesty', 'friendship', 'happiness')"
       ],
       "assessmentPrompt": "Can {{name}} write a sentence using an abstract word like \"kindness\", \"freedom\", or \"happiness\" — knowing these are nouns even though you can't touch or see them?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:202.GRM"
+      ]
     },
     {
       "id": "mt_2NfIKEYdbm",
@@ -1599,7 +1601,8 @@
       "assessmentPrompt": "When {{name}} wants to write about something without saying who did it — like in a science report — can they switch the sentence round to say \"The experiment was carried out\" instead of \"We carried out the experiment\"?",
       "standards": [
         "uk-nc-2013:Eng.App2.Y6.Sent.1",
-        "uk-nc-2013:Eng.UKS2.Write.VGP.1b"
+        "uk-nc-2013:Eng.UKS2.Write.VGP.1b",
+        "nios-sec-2020:202.GRM"
       ]
     },
     {
@@ -3526,7 +3529,8 @@
       ],
       "assessmentPrompt": "After reading a persuasive article — like one arguing for or against something — can {{name}} identify the reasons the author gives and say whether each one is convincing and well-supported?",
       "standards": [
-        "ccss-ela:RI.4.8"
+        "ccss-ela:RI.4.8",
+        "nios-sec-2020:202.RDG"
       ]
     },
     {
@@ -4103,7 +4107,8 @@
         "ccss-ela:RI.7.8",
         "ccss-ela:RI.8.8",
         "uk-nc-2013:KS3-ENG-R-2b",
-        "uk-nc-2013:KS3-ENG-R-3e"
+        "uk-nc-2013:KS3-ENG-R-3e",
+        "nios-sec-2020:202.RDG"
       ]
     },
     {
@@ -4200,7 +4205,8 @@
       "standards": [
         "ccss-ela:RL.6.5",
         "ccss-ela:RL.7.5",
-        "uk-nc-2013:KS3-ENG-R-3b"
+        "uk-nc-2013:KS3-ENG-R-3b",
+        "nios-sec-2020:202.LIT"
       ]
     },
     {
@@ -4620,7 +4626,8 @@
       ],
       "assessmentPrompt": "Does {{name}} naturally speak differently depending on who they're talking to — for example, more formally with a teacher than with a friend at the playground?",
       "standards": [
-        "ccss-ela:SL.5.6"
+        "ccss-ela:SL.5.6",
+        "nios-sec-2020:202.SPK"
       ]
     },
     {
@@ -4640,7 +4647,9 @@
       ],
       "assessmentPrompt": "In a class discussion, does {{name}} ask questions that move the conversation forward and add comments that build on what others have said rather than just repeating the same ideas?",
       "standards": [
-        "ccss-ela:SL.5.1.c"
+        "ccss-ela:SL.5.1.c",
+        "nios-sec-2020:202.SPK",
+        "nios-sec-2020:202.LSC"
       ]
     },
     {
@@ -5777,7 +5786,8 @@
         "ccss-ela:L.6.6",
         "ccss-ela:L.7.6",
         "ccss-ela:L.8.6",
-        "uk-nc-2013:KS3-ENG-GV-1c"
+        "uk-nc-2013:KS3-ENG-GV-1c",
+        "nios-sec-2020:202.VOC"
       ]
     },
     {
@@ -5806,7 +5816,8 @@
         "ccss-ela:L.8.5",
         "ccss-ela:L.8.5a",
         "uk-nc-2013:KS3-ENG-GV-1c",
-        "uk-nc-2013:KS3-ENG-R-3a"
+        "uk-nc-2013:KS3-ENG-R-3a",
+        "nios-sec-2020:202.VOC"
       ]
     },
     {
@@ -6394,7 +6405,8 @@
       "assessmentPrompt": "When {{name}} writes a non-fiction piece — like a report on climate change — do they draw on specific facts and evidence from things they've read, weaving that information into their own writing?",
       "standards": [
         "ccss-ela:W.4.9b",
-        "ccss-ela:W.5.9b"
+        "ccss-ela:W.5.9b",
+        "nios-sec-2020:202.WRT"
       ]
     },
     {
@@ -6417,7 +6429,8 @@
         "ccss-ela:W.4.9",
         "ccss-ela:W.4.9a",
         "ccss-ela:W.5.9",
-        "ccss-ela:W.5.9a"
+        "ccss-ela:W.5.9a",
+        "nios-sec-2020:202.LIT"
       ]
     },
     {
@@ -6621,7 +6634,8 @@
         "ccss-ela:W.8.5",
         "uk-nc-2013:KS3-ENG-W-2a",
         "uk-nc-2013:KS3-ENG-W-2b",
-        "uk-nc-2013:KS3-ENG-W-2c"
+        "uk-nc-2013:KS3-ENG-W-2c",
+        "nios-sec-2020:202.WRT"
       ]
     },
     {
@@ -7028,7 +7042,9 @@
         "Explain why studying ancient Egypt helps us understand how human civilisation developed"
       ],
       "assessmentPrompt": "If {{name}} is asked what the ancient Egyptians gave to the world, can they name some lasting achievements and explain how Egypt compared to other ancient civilisations?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:213.M1.L1"
+      ]
     },
     {
       "id": "mt_HZyUwycFvf",
@@ -7604,7 +7620,10 @@
         "Explain that the Eastern (Byzantine) Empire survived for nearly 1,000 years after the West fell"
       ],
       "assessmentPrompt": "Could {{name}} explain why the Roman Empire fell apart and tell you that while the western half collapsed, the eastern half kept going for centuries?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:213.M1.L1",
+        "nios-sec-2020:213.M1.L2"
+      ]
     },
     {
       "id": "mt_lzCcQzPJZi",
@@ -8689,7 +8708,8 @@
       ],
       "assessmentPrompt": "Could {{name}} tell you the difference between a product you buy in a shop and a service like getting a haircut, and give examples of each?",
       "standards": [
-        "nios-obe-a:A102.L2.1"
+        "nios-obe-a:A102.L2.1",
+        "nios-sec-2020:214.M1.L3"
       ]
     },
     {
@@ -8762,7 +8782,9 @@
         "Explain what happens if costs are higher than revenue (you make a loss)"
       ],
       "assessmentPrompt": "If {{name}} spent £4 on supplies for a lemonade stand and earned £10 selling lemonade, could they tell you how much profit they made?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:214.M3.L8"
+      ]
     },
     {
       "id": "mt_RTwmvr9R7V",
@@ -9052,7 +9074,9 @@
         "Explain why a family might choose to buy a need before a want"
       ],
       "assessmentPrompt": "If you showed {{name}} pictures of a winter coat, a toy robot, and a loaf of bread, could they tell you which ones are needs and which is a want?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:214.M1.L2"
+      ]
     },
     {
       "id": "mt_zrCyqhngYm",
@@ -9088,7 +9112,9 @@
         "Name at least two forms money can take (coins, notes, card, phone payment)"
       ],
       "assessmentPrompt": "If you asked {{name}} why people use money instead of just swapping things, could they give you a sensible answer?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:214.M5.L14"
+      ]
     },
     {
       "id": "mt_My0OL6fhGL",
@@ -9106,7 +9132,9 @@
         "Describe a time when advertising made them want something they didn't really need"
       ],
       "assessmentPrompt": "When {{name}} sees an advert for a toy or game, can they recognise that the advert is trying to make them want to buy it?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:214.M8.L24"
+      ]
     },
     {
       "id": "mt_uSUqTjOl8m",
@@ -9124,7 +9152,9 @@
         "Name one reason a bank account is safer than keeping all your money at home"
       ],
       "assessmentPrompt": "Could {{name}} explain what a bank does and why people put their money there instead of keeping it all at home?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:214.M5.L15"
+      ]
     },
     {
       "id": "mt_Qzbh-_v0Gq",
@@ -9250,7 +9280,9 @@
         "Explain why planning ahead with money is better than spending everything as it comes in"
       ],
       "assessmentPrompt": "If {{name}} wanted to save up for something costing £30, could they work out a realistic plan for how long it would take?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:214.M5.L16"
+      ]
     },
     {
       "id": "mt_0Rx1ISxXFE",
@@ -9290,7 +9322,8 @@
       ],
       "assessmentPrompt": "Could {{name}} explain why ice cream might cost more at the beach in summer than at a supermarket in winter?",
       "standards": [
-        "nios-obe-c:C102.L15"
+        "nios-obe-c:C102.L15",
+        "nios-sec-2020:214.M4.L13"
       ]
     },
     {
@@ -9328,7 +9361,8 @@
       ],
       "assessmentPrompt": "Could {{name}} explain where the money comes from to pay for things like schools and hospitals that everyone uses?",
       "standards": [
-        "nios-obe-c:C102.L15"
+        "nios-obe-c:C102.L15",
+        "nios-sec-2020:214.M4.L13"
       ]
     },
     {
@@ -11364,7 +11398,8 @@
       "standards": [
         "nios-obe-b:B103.L8",
         "nios-obe-c:C103.L18",
-        "nios-sec-2020:211.M6.L24"
+        "nios-sec-2020:211.M6.L24",
+        "nios-sec-2020:214.M6.L18"
       ]
     },
     {
@@ -11424,7 +11459,8 @@
       ],
       "assessmentPrompt": "Can {{name}} read a timetable — like a train or bus timetable — to find out when a journey leaves, arrives, and how long it takes?",
       "standards": [
-        "nios-obe-b:B103.L8"
+        "nios-obe-b:B103.L8",
+        "nios-sec-2020:214.M6.L17"
       ]
     },
     {
@@ -21846,7 +21882,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that the animals and plants alive today are different from those that lived millions of years ago, and that we know this from fossils?",
       "standards": [
-        "uk-nc-2013:Y6.Sci.EI.1"
+        "uk-nc-2013:Y6.Sci.EI.1",
+        "nios-sec-2020:212.M5.L20"
       ]
     },
     {
@@ -22591,7 +22628,9 @@
       "standards": [
         "nios-obe-a:A102.L5.3",
         "nios-obe-b:B102.L9.3",
-        "nios-obe-c:C105.L19"
+        "nios-obe-c:C105.L19",
+        "nios-sec-2020:213.M4.L26",
+        "nios-sec-2020:214.M8.L23"
       ]
     },
     {
@@ -22670,7 +22709,8 @@
       "assessmentPrompt": "Can {{name}} explain the big groups that scientists sort all living things into — like plants, animals, and tiny micro-organisms — and give examples of each?",
       "standards": [
         "uk-nc-2013:Y6.Sci.LTH.1",
-        "nios-obe-c:C105.L3"
+        "nios-obe-c:C105.L3",
+        "nios-sec-2020:212.M5.L19"
       ]
     },
     {
@@ -23470,7 +23510,8 @@
       "standards": [
         "ngss-ms:MS-PS3-1",
         "ngss-ms:MS-PS3-2",
-        "uk-nc-2013:KS3.Sci.Phys.Energy.1"
+        "uk-nc-2013:KS3.Sci.Phys.Energy.1",
+        "nios-sec-2020:212.M4.L13"
       ]
     },
     {
@@ -23510,7 +23551,8 @@
       "assessmentPrompt": "If {{name}} was heating soup on a hob and also warming their hands by a radiator, could they explain which type of heat transfer is happening in each case — and why the soup pot gets hot throughout even though it’s only heated at the bottom?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Phys.Energy.5",
-        "nios-obe-c:C105.L10"
+        "nios-obe-c:C105.L10",
+        "nios-sec-2020:212.M4.L14"
       ]
     },
     {
@@ -23573,7 +23615,8 @@
       ],
       "assessmentPrompt": "If {{name}} doubles the resistance in a circuit while keeping the battery the same, can they predict what happens to the current and explain using the V = IR formula?",
       "standards": [
-        "ngss-ms:MS-PS2-3"
+        "ngss-ms:MS-PS2-3",
+        "nios-sec-2020:212.M4.L16"
       ]
     },
     {
@@ -23618,7 +23661,8 @@
         "ngss-ms:MS-ESS3-4",
         "uk-nc-2013:KS3.Sci.Phys.Energy.1",
         "nios-obe-b:B102.L10.2",
-        "nios-obe-b:B102.L10.4"
+        "nios-obe-b:B102.L10.4",
+        "nios-sec-2020:212.M4.L12"
       ]
     },
     {
@@ -23638,7 +23682,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why the lights in your home don't all switch off when you turn off one room's light, but a string of old-fashioned Christmas lights does go off if one bulb breaks?",
       "standards": [
-        "ngss-ms:MS-PS2-3"
+        "ngss-ms:MS-PS2-3",
+        "nios-sec-2020:212.M4.L16"
       ]
     },
     {
@@ -23717,7 +23762,8 @@
       "assessmentPrompt": "Can {{name}} explain why you have to touch a ball to kick it, but a magnet can pull a paperclip without touching it?",
       "standards": [
         "uk-nc-2013:Y3.Sci.FM.2",
-        "nios-obe-c:C105.L15"
+        "nios-obe-c:C105.L15",
+        "nios-sec-2020:212.M3.L10"
       ]
     },
     {
@@ -24201,7 +24247,8 @@
       ],
       "assessmentPrompt": "If {{name}} looked inside an electric motor or the back of a loudspeaker, could they explain why the coil of wire moves — and what would happen to the movement if you reversed the direction of the current?",
       "standards": [
-        "ngss-ms:MS-PS2-5"
+        "ngss-ms:MS-PS2-5",
+        "nios-sec-2020:212.M4.L17"
       ]
     },
     {
@@ -24897,7 +24944,8 @@
       "assessmentPrompt": "Can {{name}} explain the difference between a solid like ice, a liquid like water, and a gas like steam, and sort everyday things into these three groups?",
       "standards": [
         "uk-nc-2013:Y4.Sci.SM.1",
-        "nios-obe-c:C105.L6"
+        "nios-obe-c:C105.L6",
+        "nios-sec-2020:212.M2.L2"
       ]
     },
     {
@@ -25223,7 +25271,8 @@
         "ngss-ms:MS-PS1-4",
         "uk-nc-2013:KS3.Sci.Chem.PNM.1",
         "uk-nc-2013:KS3.Sci.Chem.PNM.3",
-        "uk-nc-2013:KS3.Sci.Chem.PNM.4"
+        "uk-nc-2013:KS3.Sci.Chem.PNM.4",
+        "nios-sec-2020:212.M2.L2"
       ]
     },
     {
@@ -25247,7 +25296,8 @@
         "ngss-ms:MS-PS1-1",
         "uk-nc-2013:KS3.Sci.Chem.AEC.7",
         "uk-nc-2013:KS3.Sci.Chem.PT.2",
-        "uk-nc-2013:KS3.Sci.Chem.PT.3"
+        "uk-nc-2013:KS3.Sci.Chem.PT.3",
+        "nios-sec-2020:212.M2.L6"
       ]
     },
     {
@@ -25292,7 +25342,8 @@
       "assessmentPrompt": "If {{name}} used a piece of universal indicator paper to test lemon juice and baking soda solution, could they predict what colour each would turn and explain what that tells you about each substance?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Chem.CR.2",
-        "nios-obe-c:C105.L8"
+        "nios-obe-c:C105.L8",
+        "nios-sec-2020:212.M2.L8"
       ]
     },
     {
@@ -25428,7 +25479,8 @@
       "standards": [
         "ngss-ms:MS-PS1-2",
         "uk-nc-2013:KS3.Sci.Chem.CR.1",
-        "nios-obe-c:C105.L8"
+        "nios-obe-c:C105.L8",
+        "nios-sec-2020:212.M2.L4"
       ]
     },
     {
@@ -26758,7 +26810,8 @@
       "standards": [
         "ngss-ms:MS-LS1-1",
         "uk-nc-2013:KS3.Sci.Bio.Cells.1",
-        "nios-obe-c:C105.L2"
+        "nios-obe-c:C105.L2",
+        "nios-sec-2020:212.M5.L21"
       ]
     },
     {
@@ -26906,7 +26959,8 @@
       "standards": [
         "ngss-ms:MS-LS1-6",
         "uk-nc-2013:KS3.Sci.Bio.Nutrition.6",
-        "nios-obe-c:C105.L11"
+        "nios-obe-c:C105.L11",
+        "nios-sec-2020:212.M5.L22"
       ]
     },
     {
@@ -27164,7 +27218,8 @@
       "standards": [
         "uk-nc-2013:KS3.Sci.Bio.Reproduction.1",
         "nios-obe-b:B102.L13.8",
-        "nios-obe-c:C105.L5"
+        "nios-obe-c:C105.L5",
+        "nios-sec-2020:212.M5.L24"
       ]
     },
     {
@@ -28387,7 +28442,8 @@
       ],
       "assessmentPrompt": "Can {{name}} use a thermometer to measure temperature accurately, read a ruler in centimetres, and record measurements carefully during an experiment?",
       "standards": [
-        "uk-nc-2013:KS2L.Sci.WS.3"
+        "uk-nc-2013:KS2L.Sci.WS.3",
+        "nios-sec-2020:212.M1.L1"
       ]
     },
     {
@@ -29516,7 +29572,8 @@
       "assessmentPrompt": "If {{name}} was asked why the Moon doesn't fly off into space but also doesn't crash into Earth, could they explain that gravity is constantly pulling it into a curved path — like swinging a ball on a string?",
       "standards": [
         "ngss-ms:MS-ESS1-2",
-        "uk-nc-2013:KS3.Sci.Phys.SpacePhysics.4"
+        "uk-nc-2013:KS3.Sci.Phys.SpacePhysics.4",
+        "nios-sec-2020:212.M3.L11"
       ]
     },
     {
@@ -29933,7 +29990,8 @@
       "assessmentPrompt": "Can {{name}} explain how a message travels from their finger to their brain when they touch something hot, and then back to their hand to pull it away?",
       "standards": [
         "nios-obe-b:B102.L13.7",
-        "nios-obe-c:C105.L4"
+        "nios-obe-c:C105.L4",
+        "nios-sec-2020:212.M5.L23"
       ]
     },
     {
@@ -29990,7 +30048,9 @@
         "Describes CRISPR as a molecular tool that can cut and edit DNA sequences, and raises at least two distinct ethical considerations about its use in humans"
       ],
       "assessmentPrompt": "If {{name}} heard that scientists have edited a human gene to prevent a hereditary disease, could they explain what DNA actually is, how genes work, and why some people think editing human DNA raises serious ethical questions?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:212.M5.L25"
+      ]
     },
     {
       "id": "mt_J40cOn7VWn",
@@ -30884,7 +30944,8 @@
       "assessmentPrompt": "If {{name}} heard an echo in a large empty hall, could they explain what causes the echo, why the same sound in a carpeted living room doesn’t echo, and what would happen to sound in outer space?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Phys.Waves.3",
-        "nios-obe-c:C105.L16"
+        "nios-obe-c:C105.L16",
+        "nios-sec-2020:212.M4.L18"
       ]
     },
     {
@@ -30906,7 +30967,8 @@
       "assessmentPrompt": "If {{name}} put a straw in a glass of water and it looked bent at the surface, could they explain why that happens — drawing a diagram to show the path of light at the water’s surface?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Phys.Waves.1",
-        "uk-nc-2013:KS3.Sci.Phys.Waves.4"
+        "uk-nc-2013:KS3.Sci.Phys.Waves.4",
+        "nios-sec-2020:212.M4.L15"
       ]
     },
     {
@@ -31729,7 +31791,8 @@
       "standards": [
         "nios-obe-a:A102.L10.1",
         "nios-obe-a:A102.L10.2",
-        "nios-obe-a:A102.L10.3"
+        "nios-obe-a:A102.L10.3",
+        "nios-sec-2020:213.M2.L13"
       ]
     },
     {
@@ -31810,7 +31873,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that the government runs schemes — paid for by taxes — to help people who need work, food or support, and give an example of who such a scheme is meant to help?",
       "standards": [
-        "nios-obe-a:A102.L12.4"
+        "nios-obe-a:A102.L12.4",
+        "nios-sec-2020:213.M3.L17"
       ]
     },
     {
@@ -32177,7 +32241,8 @@
       "assessmentPrompt": "Can {{name}} explain what the Delhi Sultanate was and describe one way it changed how northern India was governed?",
       "standards": [
         "nios-obe-c:C102.L5",
-        "nios-sec-2020:223.M2.L4"
+        "nios-sec-2020:223.M2.L4",
+        "nios-sec-2020:213.M1.L2"
       ]
     },
     {
@@ -32239,7 +32304,8 @@
       "assessmentPrompt": "Can {{name}} explain how the British came to India to trade but ended up ruling it — and describe one way British rule affected ordinary people?",
       "standards": [
         "nios-obe-b:B102.L4.1",
-        "nios-obe-c:C102.L7"
+        "nios-obe-c:C102.L7",
+        "nios-sec-2020:213.M1.L5"
       ]
     },
     {
@@ -32261,7 +32327,8 @@
       "standards": [
         "nios-obe-b:B102.L4.2",
         "nios-obe-c:C102.L8",
-        "nios-sec-2020:223.M2.L5"
+        "nios-sec-2020:223.M2.L5",
+        "nios-sec-2020:213.M1.L8"
       ]
     },
     {
@@ -32283,7 +32350,8 @@
       "standards": [
         "nios-obe-c:C102.L7",
         "nios-sec-2020:223.M2.L5",
-        "nios-sec-2020:223.M4.L10"
+        "nios-sec-2020:223.M4.L10",
+        "nios-sec-2020:213.M1.L6"
       ]
     },
     {
@@ -32324,7 +32392,9 @@
       "assessmentPrompt": "Can {{name}} describe India’s main physical features — like the Himalayas and the plains — and explain what the monsoon brings?",
       "standards": [
         "nios-obe-b:B102.L5.2",
-        "nios-obe-c:C102.L9"
+        "nios-obe-c:C102.L9",
+        "nios-sec-2020:213.M2.L9",
+        "nios-sec-2020:213.M2.L10"
       ]
     },
     {
@@ -32370,7 +32440,8 @@
         "nios-obe-b:B102.L8.2",
         "nios-obe-b:B102.L8.3",
         "nios-obe-c:C102.L11",
-        "nios-obe-c:C105.L13"
+        "nios-obe-c:C105.L13",
+        "nios-sec-2020:213.M2.L12"
       ]
     },
     {
@@ -32433,7 +32504,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what the Constitution is, and name a right it gives citizens and a duty it asks of them?",
       "standards": [
-        "nios-obe-c:C102.L17"
+        "nios-obe-c:C102.L17",
+        "nios-sec-2020:213.M3.L15"
       ]
     },
     {
@@ -32455,7 +32527,8 @@
       "standards": [
         "nios-obe-b:B102.L6.2",
         "nios-obe-b:B102.L6.3",
-        "nios-obe-c:C102.L19"
+        "nios-obe-c:C102.L19",
+        "nios-sec-2020:213.M3.L18"
       ]
     },
     {
@@ -32475,7 +32548,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how elections let people choose their government, and why every adult’s single vote matters?",
       "standards": [
-        "nios-obe-c:C102.L19"
+        "nios-obe-c:C102.L19",
+        "nios-sec-2020:213.M3.L22"
       ]
     },
     {
@@ -32499,7 +32573,8 @@
         "nios-obe-b:B102.L2.1",
         "nios-obe-b:B102.L2.2",
         "nios-obe-b:B102.L2.3",
-        "nios-obe-b:B102.L2.4"
+        "nios-obe-b:B102.L2.4",
+        "nios-sec-2020:213.M4.L24"
       ]
     },
     {
@@ -32542,7 +32617,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why a country’s population size matters — how fast growth can strain resources like schools, water and jobs?",
       "standards": [
-        "nios-obe-c:C102.L14"
+        "nios-obe-c:C102.L14",
+        "nios-sec-2020:213.M2.L14"
       ]
     },
     {
@@ -32562,7 +32638,8 @@
       ],
       "assessmentPrompt": "Can {{name}} name a national scheme like Swachh Bharat or Digital India, explain its goal, and say how an ordinary person can help?",
       "standards": [
-        "nios-obe-c:C102.L20"
+        "nios-obe-c:C102.L20",
+        "nios-sec-2020:213.M4.L25"
       ]
     },
     {
@@ -33559,7 +33636,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what the revolt of 1857 was and why it is an important turning point in India’s history?",
       "standards": [
-        "nios-obe-c:C102.L7"
+        "nios-obe-c:C102.L7",
+        "nios-sec-2020:213.M1.L7"
       ]
     },
     {
@@ -33579,7 +33657,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how Indians came together — through groups like the Congress — to demand a say in how their country was run?",
       "standards": [
-        "nios-obe-c:C102.L8"
+        "nios-obe-c:C102.L8",
+        "nios-sec-2020:213.M1.L8"
       ]
     },
     {
@@ -33742,7 +33821,8 @@
       "assessmentPrompt": "Can {{name}} give examples of India’s forests and wild animals, and explain why we must protect them?",
       "standards": [
         "nios-obe-b:B102.L1.3",
-        "nios-obe-c:C102.L9"
+        "nios-obe-c:C102.L9",
+        "nios-sec-2020:213.M2.L11"
       ]
     },
     {
@@ -33803,7 +33883,8 @@
       "assessmentPrompt": "Can {{name}} explain what the legislature does — that it is where elected representatives make the laws?",
       "standards": [
         "nios-obe-b:B102.L6.1",
-        "nios-obe-c:C102.L17"
+        "nios-obe-c:C102.L17",
+        "nios-sec-2020:213.M3.L20"
       ]
     },
     {
@@ -33824,7 +33905,8 @@
       "assessmentPrompt": "Can {{name}} explain that the executive — like the Prime Minister and ministers — carries out the laws and runs the country?",
       "standards": [
         "nios-obe-b:B102.L6.1",
-        "nios-obe-c:C102.L17"
+        "nios-obe-c:C102.L17",
+        "nios-sec-2020:213.M3.L20"
       ]
     },
     {
@@ -33865,7 +33947,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that each state has its own government — with an assembly and a chief minister — as well as the national one?",
       "standards": [
-        "nios-obe-c:C102.L18"
+        "nios-obe-c:C102.L18",
+        "nios-sec-2020:213.M3.L19"
       ]
     },
     {
@@ -33885,7 +33968,8 @@
       ],
       "assessmentPrompt": "Can {{name}} name a few fundamental rights — like equality and freedom of speech — and explain what they protect?",
       "standards": [
-        "nios-obe-c:C102.L17"
+        "nios-obe-c:C102.L17",
+        "nios-sec-2020:213.M3.L16"
       ]
     },
     {
@@ -34005,7 +34089,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what political parties are and how they take part in elections?",
       "standards": [
-        "nios-obe-c:C102.L19"
+        "nios-obe-c:C102.L19",
+        "nios-sec-2020:213.M3.L21"
       ]
     },
     {
@@ -35413,7 +35498,8 @@
       ],
       "assessmentPrompt": "Can {{name}} discuss a socio-cultural issue facing India today and why working on it matters?",
       "standards": [
-        "nios-sec-2020:223.M8.L20"
+        "nios-sec-2020:223.M8.L20",
+        "nios-sec-2020:213.M4.L25"
       ]
     },
     {
@@ -35635,6 +35721,471 @@
       "assessmentPrompt": "Can {{name}} find the median and mode of a set of numbers, and explain how they differ from the mean?",
       "standards": [
         "nios-sec-2020:211.M6.L25"
+      ]
+    },
+    {
+      "id": "mt_WRmH6pd30u",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Atoms and Molecules",
+      "description": "Understand that all matter is made of tiny particles called atoms, that atoms join to form molecules, and that elements are made of one kind of atom while compounds combine different atoms.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explain that matter is made of atoms",
+        "Distinguish an element from a compound",
+        "Explain how atoms combine to form molecules"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that everything is made of atoms, and the difference between an element and a compound?",
+      "standards": [
+        "nios-sec-2020:212.M2.L3"
+      ]
+    },
+    {
+      "id": "mt_T7ICFeChaV",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Atomic Structure",
+      "description": "Understand the structure of the atom — a nucleus of protons and neutrons surrounded by electrons in shells — and how this structure explains an element’s identity.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name the three sub-atomic particles and their charges",
+        "Explain that the number of protons defines the element",
+        "Describe how electrons are arranged in shells"
+      ],
+      "assessmentPrompt": "Can {{name}} describe what an atom is made of — protons, neutrons and electrons — and how they are arranged?",
+      "standards": [
+        "nios-sec-2020:212.M2.L5"
+      ]
+    },
+    {
+      "id": "mt_Id4cr53vlQ",
+      "type": "PROCEDURAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Balancing Chemical Equations",
+      "description": "Understand that a chemical equation represents a reaction and must be balanced — the same number of each kind of atom on both sides — because matter is conserved.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain why a chemical equation must be balanced",
+        "Balance a simple chemical equation",
+        "Relate balancing to the conservation of mass"
+      ],
+      "assessmentPrompt": "Can {{name}} balance a simple chemical equation, and explain why the atoms must match on both sides?",
+      "standards": [
+        "nios-sec-2020:212.M2.L4"
+      ]
+    },
+    {
+      "id": "mt_rswmjlVxDp",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Chemical Bonding",
+      "description": "Understand how atoms join together through chemical bonds — ionic bonds (transferring electrons) and covalent bonds (sharing electrons) — to form stable compounds.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain why atoms form bonds",
+        "Distinguish ionic from covalent bonding",
+        "Give an example of an ionically and a covalently bonded substance"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how atoms bond — by sharing or transferring electrons — to make compounds?",
+      "standards": [
+        "nios-sec-2020:212.M2.L7"
+      ]
+    },
+    {
+      "id": "mt_zqdALphaES",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Forces & Motion",
+      "name": "Describing Motion",
+      "description": "Understand how to describe motion precisely — distance and displacement, speed and velocity, and acceleration — and read distance-time and speed-time graphs.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Distinguish speed from velocity and distance from displacement",
+        "Calculate speed from distance and time",
+        "Read a distance-time or speed-time graph"
+      ],
+      "assessmentPrompt": "Can {{name}} describe how fast something moves — using speed and velocity — and read a distance-time graph?",
+      "standards": [
+        "nios-sec-2020:212.M3.L9"
+      ]
+    },
+    {
+      "id": "mt_qcDIPchMJt",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Forces & Motion",
+      "name": "Newton's Laws of Motion",
+      "description": "Understand Newton’s three laws of motion — inertia, the link between force, mass and acceleration (F = ma), and action and reaction — and how they explain everyday movement.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "State Newton’s three laws of motion in simple terms",
+        "Apply F = ma to a simple situation",
+        "Give an everyday example of action and reaction"
+      ],
+      "assessmentPrompt": "Can {{name}} explain Newton’s laws of motion — including that force equals mass times acceleration?",
+      "standards": [
+        "nios-sec-2020:212.M3.L10"
+      ]
+    },
+    {
+      "id": "mt_1WRBUMcXaO",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Energy",
+      "name": "Work, Energy and Power",
+      "description": "Understand the scientific meaning of work (force times distance), its link to energy transfer, and power as the rate of doing work — and calculate each.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Define work as force times distance",
+        "Explain that doing work transfers energy",
+        "Explain power as the rate of doing work"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what \"work\" means in science, and how it relates to energy and power?",
+      "standards": [
+        "nios-sec-2020:212.M4.L13"
+      ]
+    },
+    {
+      "id": "mt_FQXGRdTDhp",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "The Human Body",
+      "name": "Hormones and the Endocrine System",
+      "description": "Understand that hormones are chemical messengers made by glands, that they travel in the blood to control processes like growth and blood sugar, and that they work alongside the nervous system to coordinate the body.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain that hormones are chemical messengers from glands",
+        "Give an example of a hormone and what it controls",
+        "Explain how hormones and nerves together coordinate the body"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how hormones act as chemical messengers to control things like growth, working alongside the nervous system?",
+      "standards": [
+        "nios-sec-2020:212.M5.L23"
+      ]
+    },
+    {
+      "id": "mt_sVnzpPPhUg",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "The Making of the Modern World",
+      "description": "Understand the forces that shaped the modern world — the Renaissance and scientific revolution, the great political and industrial revolutions, the world wars, and the wave of decolonisation that freed nations like India.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name forces that shaped the modern world (revolutions, industrialisation)",
+        "Explain the significance of the world wars",
+        "Explain what decolonisation was"
+      ],
+      "assessmentPrompt": "Can {{name}} explain some of the big changes that made the modern world — revolutions, industrialisation, the world wars, and nations winning independence?",
+      "standards": [
+        "nios-sec-2020:213.M1.L3",
+        "nios-sec-2020:213.M1.L4"
+      ]
+    },
+    {
+      "id": "mt_DVIPdRFomK",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Challenges to Indian Democracy",
+      "description": "Understand the challenges a large democracy like India faces — inequality, corruption, communalism and low participation — and how active, informed citizens help meet them.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name a challenge facing Indian democracy",
+        "Explain why the challenge matters",
+        "Explain how citizens can help strengthen democracy"
+      ],
+      "assessmentPrompt": "Can {{name}} describe a challenge facing India’s democracy and explain how citizens can help address it?",
+      "standards": [
+        "nios-sec-2020:213.M4.L23"
+      ]
+    },
+    {
+      "id": "mt_gmIQuiD2CE",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "Peace and Security in the World",
+      "description": "Understand why peace and security matter for nations and the world — the causes of conflict, the value of cooperation between countries, and the role of institutions that work for peace.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain why peace and security matter",
+        "Give an example of a cause of conflict",
+        "Explain how countries cooperate for peace"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why peace and security matter, and how countries work together to keep the peace?",
+      "standards": [
+        "nios-sec-2020:213.M4.L27"
+      ]
+    },
+    {
+      "id": "mt_zrGl2FRuhh",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Basic Concepts",
+      "name": "What Is Economics",
+      "description": "Understand economics as the study of how people and societies use their limited resources to satisfy their unlimited wants — and why that makes choice necessary.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Define economics in simple terms",
+        "Explain the problem of limited resources and unlimited wants",
+        "Explain why economics is about making choices"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what economics studies — how people make choices because resources are limited but wants are not?",
+      "standards": [
+        "nios-sec-2020:214.M1.L1",
+        "nios-sec-2020:214.M2.L4"
+      ]
+    },
+    {
+      "id": "mt_y8Wj38VEpV",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Basic Concepts",
+      "name": "The Central Problems of an Economy",
+      "description": "Understand that because resources are scarce, every economy must answer three central questions — what to produce, how to produce it, and for whom — and that different economic systems answer them differently.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "State the three central problems of an economy",
+        "Explain how scarcity creates these problems",
+        "Explain that different systems answer them differently"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the three big questions every economy must answer — what, how and for whom to produce?",
+      "standards": [
+        "nios-sec-2020:214.M2.L5",
+        "nios-sec-2020:214.M2.L6"
+      ]
+    },
+    {
+      "id": "mt_yGbS9NpIU8",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Production",
+      "name": "Factors of Production",
+      "description": "Understand that producing goods and services needs four factors of production — land, labour, capital and enterprise — and what each contributes.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name the four factors of production",
+        "Explain what each factor contributes",
+        "Give an example of each factor in a real business"
+      ],
+      "assessmentPrompt": "Can {{name}} name the four things needed to produce anything — land, labour, capital and enterprise — and what each does?",
+      "standards": [
+        "nios-sec-2020:214.M3.L7"
+      ]
+    },
+    {
+      "id": "mt_jeTXkpY2IU",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Markets",
+      "name": "Demand",
+      "description": "Understand demand as the quantity of a good buyers are willing to buy at each price, and the law of demand — that, other things equal, people buy more when the price is lower.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what demand means in economics",
+        "State the law of demand",
+        "Explain a factor other than price that changes demand"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what \"demand\" means and why people usually buy more of something when its price falls?",
+      "standards": [
+        "nios-sec-2020:214.M4.L9"
+      ]
+    },
+    {
+      "id": "mt_0AwWXAesqm",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Markets",
+      "name": "Supply",
+      "description": "Understand supply as the quantity of a good sellers are willing to offer at each price, and the law of supply — that, other things equal, sellers offer more when the price is higher.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what supply means in economics",
+        "State the law of supply",
+        "Explain a factor other than price that changes supply"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what \"supply\" means and why sellers usually offer more of something when its price rises?",
+      "standards": [
+        "nios-sec-2020:214.M4.L10"
+      ]
+    },
+    {
+      "id": "mt_yWJTq3Oc3r",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Markets",
+      "name": "How Prices Are Determined",
+      "description": "Understand that in a market the price settles where demand and supply meet — the equilibrium price — and how a change in demand or supply shifts it.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain that price is set where demand meets supply",
+        "Explain what happens to price if demand rises",
+        "Explain what happens to price if supply falls"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how the price of something is set by demand and supply meeting in a market?",
+      "standards": [
+        "nios-sec-2020:214.M4.L11"
+      ]
+    },
+    {
+      "id": "mt_9Xg22tQB7f",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Markets",
+      "name": "Types of Market",
+      "description": "Understand what a market is — any arrangement where buyers and sellers trade — and how markets differ, from many small sellers competing to a single dominant seller.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what a market is",
+        "Give examples of different kinds of market",
+        "Explain how competition among sellers affects buyers"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what a market is and how markets can differ, from lots of competing sellers to just one?",
+      "standards": [
+        "nios-sec-2020:214.M4.L12"
+      ]
+    },
+    {
+      "id": "mt_MOhhQz1xTG",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "The Indian Economy",
+      "description": "Understand the broad features of the Indian economy, the major challenges it faces (like poverty and unemployment), and its place in the global economy.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describe a key feature of the Indian economy",
+        "Name a major challenge facing it",
+        "Explain that India trades within a global economy"
+      ],
+      "assessmentPrompt": "Can {{name}} describe the Indian economy in broad terms — a strength, a challenge, and its place in the wider world?",
+      "standards": [
+        "nios-sec-2020:214.M7.L19",
+        "nios-sec-2020:214.M7.L21",
+        "nios-sec-2020:214.M7.L22"
+      ]
+    },
+    {
+      "id": "mt_0CmQMjd6dQ",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Sectors of the Economy",
+      "description": "Understand that an economy has three sectors — primary (farming, mining), secondary (manufacturing) and tertiary (services) — and how their balance shows a country’s development.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name the three sectors of the economy with examples",
+        "Classify a job or activity into a sector",
+        "Explain what the balance of sectors says about development"
+      ],
+      "assessmentPrompt": "Can {{name}} sort economic activities into the primary, secondary and tertiary sectors, and explain what each is?",
+      "standards": [
+        "nios-sec-2020:214.M7.L20"
+      ]
+    },
+    {
+      "id": "mt_IGrGGt7lKf",
+      "type": "PROCEDURAL",
+      "subject": "English",
+      "domain": "Writing Composition",
+      "name": "Functional Writing",
+      "description": "Write practical, real-world texts in the right format — formal and informal letters, applications, reports, notices and emails — using the conventions each type expects.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Write a formal letter or application in the correct format",
+        "Write a notice or report suited to its purpose and audience",
+        "Explain how format and tone differ across functional texts"
+      ],
+      "assessmentPrompt": "Can {{name}} write a formal letter, application or notice in the right format for its purpose?",
+      "standards": [
+        "nios-sec-2020:202.WRT"
+      ]
+    },
+    {
+      "id": "mt_qZAQBsLwp3",
+      "type": "PROCEDURAL",
+      "subject": "English",
+      "domain": "Reading Comprehension",
+      "name": "Note-Making and Summarising",
+      "description": "Read a text and capture its key points as organised notes, and write a concise summary in your own words — skills for studying and for handling information.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Pick out the main points of a text",
+        "Organise points into structured notes",
+        "Write a short summary of a passage in your own words"
+      ],
+      "assessmentPrompt": "Can {{name}} read a passage and make clear notes on its main points, and write a short summary in their own words?",
+      "standards": [
+        "nios-sec-2020:202.STU"
+      ]
+    },
+    {
+      "id": "mt_ctlZpQx3Wd",
+      "type": "PROCEDURAL",
+      "subject": "English",
+      "domain": "Speaking & Listening",
+      "name": "Speaking in Formal Settings",
+      "description": "Speak effectively in formal situations — taking part in a discussion or debate, giving a short prepared talk or presentation, and adjusting language for a formal audience.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Contribute relevantly to a discussion or debate",
+        "Give a short prepared talk on a topic",
+        "Use language and tone suited to a formal setting"
+      ],
+      "assessmentPrompt": "Can {{name}} take part in a discussion or give a short prepared talk, using language suited to a formal setting?",
+      "standards": [
+        "nios-sec-2020:202.SPK"
       ]
     }
   ]

@@ -39712,7 +39712,7 @@
       "sourceUrl": "https://nios.ac.in/media/documents/seccurriculum2020.pdf",
       "textIncluded": true,
       "license": "NIOS Copyright Statement — reproduction permitted with prominent acknowledgment; see PROVENANCE.md",
-      "topicCount": 74,
+      "topicCount": 158,
       "topics": [
         {
           "key": "nios-sec-2020:222.M1.L1",
@@ -40674,6 +40674,1098 @@
             "module": "VI. Statistics",
             "lesson": "Introduction to Probability",
             "description": "Understand probability as a measure of the likelihood of an event."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M1.L1",
+          "code": "212.M1.L1",
+          "data": {
+            "title": "Measurement in Science and Technology",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "I. Measurement in Science",
+            "lesson": "Measurement in Science and Technology",
+            "description": "Understand physical quantities, their units, and correct ways of measuring and expressing them."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M2.L2",
+          "code": "212.M2.L2",
+          "data": {
+            "title": "Matter in our Surroundings",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "II. Matter in our Surroundings",
+            "lesson": "Matter in our Surroundings",
+            "description": "Understand matter, its states, and how it changes state."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M2.L3",
+          "code": "212.M2.L3",
+          "data": {
+            "title": "Atoms and Molecules",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "II. Matter in our Surroundings",
+            "lesson": "Atoms and Molecules",
+            "description": "Understand that matter is made of atoms and molecules, and the idea of elements and compounds."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M2.L4",
+          "code": "212.M2.L4",
+          "data": {
+            "title": "Chemical Reaction and Equations",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "II. Matter in our Surroundings",
+            "lesson": "Chemical Reaction and Equations",
+            "description": "Understand chemical reactions and how to write and balance chemical equations."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M2.L5",
+          "code": "212.M2.L5",
+          "data": {
+            "title": "Atomic Structure",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "II. Matter in our Surroundings",
+            "lesson": "Atomic Structure",
+            "description": "Understand the structure of the atom — protons, neutrons and electrons — and the arrangement of electrons."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M2.L6",
+          "code": "212.M2.L6",
+          "data": {
+            "title": "Periodic Classification of Elements",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "II. Matter in our Surroundings",
+            "lesson": "Periodic Classification of Elements",
+            "description": "Understand how elements are arranged in the periodic table and the patterns it reveals."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M2.L7",
+          "code": "212.M2.L7",
+          "data": {
+            "title": "Chemical Bonding",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "II. Matter in our Surroundings",
+            "lesson": "Chemical Bonding",
+            "description": "Understand how atoms join by chemical bonds — ionic and covalent bonding."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M2.L8",
+          "code": "212.M2.L8",
+          "data": {
+            "title": "Acids, Bases and Salts",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "II. Matter in our Surroundings",
+            "lesson": "Acids, Bases and Salts",
+            "description": "Understand acids, bases and salts, the pH scale, and their reactions."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M3.L9",
+          "code": "212.M3.L9",
+          "data": {
+            "title": "Motion and its Description",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "III. Moving Things",
+            "lesson": "Motion and its Description",
+            "description": "Understand and describe motion — distance, displacement, speed, velocity and acceleration."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M3.L10",
+          "code": "212.M3.L10",
+          "data": {
+            "title": "Force and Motion",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "III. Moving Things",
+            "lesson": "Force and Motion",
+            "description": "Understand force and its effects, and Newton’s laws of motion."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M3.L11",
+          "code": "212.M3.L11",
+          "data": {
+            "title": "Gravitation",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "III. Moving Things",
+            "lesson": "Gravitation",
+            "description": "Understand gravitation and the force of gravity between objects."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M4.L12",
+          "code": "212.M4.L12",
+          "data": {
+            "title": "Sources of Energy",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "IV. Energy",
+            "lesson": "Sources of Energy",
+            "description": "Understand the different sources of energy, renewable and non-renewable."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M4.L13",
+          "code": "212.M4.L13",
+          "data": {
+            "title": "Work and Energy",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "IV. Energy",
+            "lesson": "Work and Energy",
+            "description": "Understand work, energy and power and the relationships between them."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M4.L14",
+          "code": "212.M4.L14",
+          "data": {
+            "title": "Thermal Energy",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "IV. Energy",
+            "lesson": "Thermal Energy",
+            "description": "Understand heat and its transfer by conduction, convection and radiation."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M4.L15",
+          "code": "212.M4.L15",
+          "data": {
+            "title": "Light Energy",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "IV. Energy",
+            "lesson": "Light Energy",
+            "description": "Understand light — reflection, refraction, lenses and the formation of images."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M4.L16",
+          "code": "212.M4.L16",
+          "data": {
+            "title": "Electrical Energy",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "IV. Energy",
+            "lesson": "Electrical Energy",
+            "description": "Understand electric current, potential difference, resistance and simple circuits."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M4.L17",
+          "code": "212.M4.L17",
+          "data": {
+            "title": "Magnetic Effect of Electric Current",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "IV. Energy",
+            "lesson": "Magnetic Effect of Electric Current",
+            "description": "Understand the magnetic effect of electric current and its applications."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M4.L18",
+          "code": "212.M4.L18",
+          "data": {
+            "title": "Sound",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "IV. Energy",
+            "lesson": "Sound",
+            "description": "Understand sound — how it is produced, travels and is heard."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M5.L19",
+          "code": "212.M5.L19",
+          "data": {
+            "title": "Classification of Living Organisms",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "V. The Living World",
+            "lesson": "Classification of Living Organisms",
+            "description": "Understand how living organisms are classified into groups."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M5.L20",
+          "code": "212.M5.L20",
+          "data": {
+            "title": "History of Life on Earth",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "V. The Living World",
+            "lesson": "History of Life on Earth",
+            "description": "Understand how life on Earth has changed over time and the evidence for it."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M5.L21",
+          "code": "212.M5.L21",
+          "data": {
+            "title": "Building Blocks of Life – Cell",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "V. The Living World",
+            "lesson": "Building Blocks of Life – Cell",
+            "description": "Understand the cell as the basic unit of life and its structures."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M5.L22",
+          "code": "212.M5.L22",
+          "data": {
+            "title": "Life Processes – I: Nutrition and Respiration",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "V. The Living World",
+            "lesson": "Life Processes – I: Nutrition and Respiration",
+            "description": "Understand the life processes of nutrition and respiration in plants and animals."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M5.L23",
+          "code": "212.M5.L23",
+          "data": {
+            "title": "Life Processes – II: Control and Coordination",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "V. The Living World",
+            "lesson": "Life Processes – II: Control and Coordination",
+            "description": "Understand control and coordination in organisms — the nervous system and hormones."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M5.L24",
+          "code": "212.M5.L24",
+          "data": {
+            "title": "Life Processes – III: Reproduction",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "V. The Living World",
+            "lesson": "Life Processes – III: Reproduction",
+            "description": "Understand reproduction in plants and animals."
+          }
+        },
+        {
+          "key": "nios-sec-2020:212.M5.L25",
+          "code": "212.M5.L25",
+          "data": {
+            "title": "Heredity",
+            "level": "Secondary",
+            "subject": "Science and Technology",
+            "courseCode": "212",
+            "module": "V. The Living World",
+            "lesson": "Heredity",
+            "description": "Understand heredity — how traits are passed from parents to offspring."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M1.L1",
+          "code": "213.M1.L1",
+          "data": {
+            "title": "Ancient World",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "I. India and the World through the Ages",
+            "lesson": "Ancient World",
+            "description": "Understand the great civilisations and cultures of the ancient world."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M1.L2",
+          "code": "213.M1.L2",
+          "data": {
+            "title": "Medieval World",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "I. India and the World through the Ages",
+            "lesson": "Medieval World",
+            "description": "Understand the medieval world — its empires, faiths and cultures."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M1.L3",
+          "code": "213.M1.L3",
+          "data": {
+            "title": "Modern World – I",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "I. India and the World through the Ages",
+            "lesson": "Modern World – I",
+            "description": "Understand the making of the modern world — the Renaissance, revolutions and the rise of nation states."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M1.L4",
+          "code": "213.M1.L4",
+          "data": {
+            "title": "Modern World – II",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "I. India and the World through the Ages",
+            "lesson": "Modern World – II",
+            "description": "Understand the modern world — industrialisation, the world wars and decolonisation."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M1.L5",
+          "code": "213.M1.L5",
+          "data": {
+            "title": "Impact of British Rule in India",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "I. India and the World through the Ages",
+            "lesson": "Impact of British Rule in India",
+            "description": "Understand the impact of British rule on India’s economy and society."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M1.L6",
+          "code": "213.M1.L6",
+          "data": {
+            "title": "Religious and Social Reform Movements",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "I. India and the World through the Ages",
+            "lesson": "Religious and Social Reform Movements",
+            "description": "Understand the religious and social reform movements of modern India."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M1.L7",
+          "code": "213.M1.L7",
+          "data": {
+            "title": "Popular Resistance to British Rule",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "I. India and the World through the Ages",
+            "lesson": "Popular Resistance to British Rule",
+            "description": "Understand the popular uprisings against British rule, including the revolt of 1857."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M1.L8",
+          "code": "213.M1.L8",
+          "data": {
+            "title": "Indian National Movement",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "I. India and the World through the Ages",
+            "lesson": "Indian National Movement",
+            "description": "Understand the Indian national movement and the struggle for independence."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M2.L9",
+          "code": "213.M2.L9",
+          "data": {
+            "title": "Physiography of India",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "II. India: Natural Environment and Resources",
+            "lesson": "Physiography of India",
+            "description": "Understand the physical features of India — its mountains, plains, plateaus and coasts."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M2.L10",
+          "code": "213.M2.L10",
+          "data": {
+            "title": "Climate",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "II. India: Natural Environment and Resources",
+            "lesson": "Climate",
+            "description": "Understand India’s climate and the monsoon."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M2.L11",
+          "code": "213.M2.L11",
+          "data": {
+            "title": "Bio-Diversity",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "II. India: Natural Environment and Resources",
+            "lesson": "Bio-Diversity",
+            "description": "Understand India’s biodiversity — its forests, wildlife and the need for conservation."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M2.L12",
+          "code": "213.M2.L12",
+          "data": {
+            "title": "Agriculture in India",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "II. India: Natural Environment and Resources",
+            "lesson": "Agriculture in India",
+            "description": "Understand agriculture in India — its crops, seasons and importance."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M2.L13",
+          "code": "213.M2.L13",
+          "data": {
+            "title": "Transport and Communication",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "II. India: Natural Environment and Resources",
+            "lesson": "Transport and Communication",
+            "description": "Understand transport and communication in India and their role in development."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M2.L14",
+          "code": "213.M2.L14",
+          "data": {
+            "title": "Population: Our Human Resource",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "II. India: Natural Environment and Resources",
+            "lesson": "Population: Our Human Resource",
+            "description": "Understand India’s population as a human resource and the challenges of population growth."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M3.L15",
+          "code": "213.M3.L15",
+          "data": {
+            "title": "Constitutional Values",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "III. Democracy and its Values",
+            "lesson": "Constitutional Values",
+            "description": "Understand the values enshrined in the Indian Constitution."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M3.L16",
+          "code": "213.M3.L16",
+          "data": {
+            "title": "Fundamental Rights",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "III. Democracy and its Values",
+            "lesson": "Fundamental Rights",
+            "description": "Understand the fundamental rights of Indian citizens."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M3.L17",
+          "code": "213.M3.L17",
+          "data": {
+            "title": "India: A Welfare State",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "III. Democracy and its Values",
+            "lesson": "India: A Welfare State",
+            "description": "Understand India as a welfare state that works for the well-being of its people."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M3.L18",
+          "code": "213.M3.L18",
+          "data": {
+            "title": "Local Government",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "III. Democracy and its Values",
+            "lesson": "Local Government",
+            "description": "Understand local self-government in villages and towns."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M3.L19",
+          "code": "213.M3.L19",
+          "data": {
+            "title": "Governance at the State Level",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "III. Democracy and its Values",
+            "lesson": "Governance at the State Level",
+            "description": "Understand the structure and working of state government."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M3.L20",
+          "code": "213.M3.L20",
+          "data": {
+            "title": "Governance at the Union Level",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "III. Democracy and its Values",
+            "lesson": "Governance at the Union Level",
+            "description": "Understand the structure and working of the union (national) government."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M3.L21",
+          "code": "213.M3.L21",
+          "data": {
+            "title": "Political Parties and Pressure Groups",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "III. Democracy and its Values",
+            "lesson": "Political Parties and Pressure Groups",
+            "description": "Understand political parties and pressure groups in a democracy."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M3.L22",
+          "code": "213.M3.L22",
+          "data": {
+            "title": "People’s Participation in Democracy",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "III. Democracy and its Values",
+            "lesson": "People’s Participation in Democracy",
+            "description": "Understand how people participate in democracy through elections and civic action."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M4.L23",
+          "code": "213.M4.L23",
+          "data": {
+            "title": "Challenges to Indian Democracy",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "IV. Contemporary India",
+            "lesson": "Challenges to Indian Democracy",
+            "description": "Understand the challenges facing Indian democracy and how they can be addressed."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M4.L24",
+          "code": "213.M4.L24",
+          "data": {
+            "title": "National Integration",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "IV. Contemporary India",
+            "lesson": "National Integration",
+            "description": "Understand national integration and what holds a diverse India together."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M4.L25",
+          "code": "213.M4.L25",
+          "data": {
+            "title": "Socio-Economic Development",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "IV. Contemporary India",
+            "lesson": "Socio-Economic Development",
+            "description": "Understand socio-economic development and the schemes and issues involved."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M4.L26",
+          "code": "213.M4.L26",
+          "data": {
+            "title": "Environmental Concerns",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "IV. Contemporary India",
+            "lesson": "Environmental Concerns",
+            "description": "Understand environmental concerns and the need for sustainable development."
+          }
+        },
+        {
+          "key": "nios-sec-2020:213.M4.L27",
+          "code": "213.M4.L27",
+          "data": {
+            "title": "Peace and Security",
+            "level": "Secondary",
+            "subject": "Social Science",
+            "courseCode": "213",
+            "module": "IV. Contemporary India",
+            "lesson": "Peace and Security",
+            "description": "Understand issues of peace and security in India and the world."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M1.L1",
+          "code": "214.M1.L1",
+          "data": {
+            "title": "What is Economics?",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "I. Introduction",
+            "lesson": "What is Economics?",
+            "description": "Understand economics as the study of how people and societies use limited resources to satisfy their wants."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M1.L2",
+          "code": "214.M1.L2",
+          "data": {
+            "title": "Human Wants",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "I. Introduction",
+            "lesson": "Human Wants",
+            "description": "Understand human wants — that they are unlimited — and how they are classified."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M1.L3",
+          "code": "214.M1.L3",
+          "data": {
+            "title": "Goods and Services",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "I. Introduction",
+            "lesson": "Goods and Services",
+            "description": "Understand goods and services and how they satisfy wants."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M2.L4",
+          "code": "214.M2.L4",
+          "data": {
+            "title": "Economy – Its Meaning and Types",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "II. The Economy",
+            "lesson": "Economy – Its Meaning and Types",
+            "description": "Understand what an economy is and the main types of economic systems."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M2.L5",
+          "code": "214.M2.L5",
+          "data": {
+            "title": "Central Problems of an Economy",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "II. The Economy",
+            "lesson": "Central Problems of an Economy",
+            "description": "Understand the central problems of every economy — what, how and for whom to produce — arising from scarcity."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M2.L6",
+          "code": "214.M2.L6",
+          "data": {
+            "title": "Basic Economic Activities",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "II. The Economy",
+            "lesson": "Basic Economic Activities",
+            "description": "Understand the basic economic activities — production, consumption, exchange and distribution."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M3.L7",
+          "code": "214.M3.L7",
+          "data": {
+            "title": "Production",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "III. Production",
+            "lesson": "Production",
+            "description": "Understand production and the factors of production — land, labour, capital and enterprise."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M3.L8",
+          "code": "214.M3.L8",
+          "data": {
+            "title": "Cost and Revenue",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "III. Production",
+            "lesson": "Cost and Revenue",
+            "description": "Understand the costs of production and the revenue earned from sales."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M4.L9",
+          "code": "214.M4.L9",
+          "data": {
+            "title": "Demand",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "IV. Market",
+            "lesson": "Demand",
+            "description": "Understand demand — how much of a good buyers want at different prices — and the law of demand."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M4.L10",
+          "code": "214.M4.L10",
+          "data": {
+            "title": "Supply",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "IV. Market",
+            "lesson": "Supply",
+            "description": "Understand supply — how much of a good sellers offer at different prices — and the law of supply."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M4.L11",
+          "code": "214.M4.L11",
+          "data": {
+            "title": "Determination of Price",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "IV. Market",
+            "lesson": "Determination of Price",
+            "description": "Understand how price is determined where demand and supply meet (market equilibrium)."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M4.L12",
+          "code": "214.M4.L12",
+          "data": {
+            "title": "Market",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "IV. Market",
+            "lesson": "Market",
+            "description": "Understand what a market is and the main types of market."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M4.L13",
+          "code": "214.M4.L13",
+          "data": {
+            "title": "Role of Government in the Economy",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "IV. Market",
+            "lesson": "Role of Government in the Economy",
+            "description": "Understand the role of government in the economy — taxes, spending and regulation."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M5.L14",
+          "code": "214.M5.L14",
+          "data": {
+            "title": "Money and its Role",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "V. Money and Banking",
+            "lesson": "Money and its Role",
+            "description": "Understand money and its role in the economy."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M5.L15",
+          "code": "214.M5.L15",
+          "data": {
+            "title": "Banking and Credit",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "V. Money and Banking",
+            "lesson": "Banking and Credit",
+            "description": "Understand banking, credit, and the role of banks in the economy."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M5.L16",
+          "code": "214.M5.L16",
+          "data": {
+            "title": "Savings and Investment",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "V. Money and Banking",
+            "lesson": "Savings and Investment",
+            "description": "Understand saving and investment and their importance for growth."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M6.L17",
+          "code": "214.M6.L17",
+          "data": {
+            "title": "Collection and Organisation of Data",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "VI. Statistics in Economics",
+            "lesson": "Collection and Organisation of Data",
+            "description": "Understand how economic data is collected and organised."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M6.L18",
+          "code": "214.M6.L18",
+          "data": {
+            "title": "Analysis of Data",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "VI. Statistics in Economics",
+            "lesson": "Analysis of Data",
+            "description": "Understand how economic data is analysed and presented."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M7.L19",
+          "code": "214.M7.L19",
+          "data": {
+            "title": "An Overview of Indian Economy",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "VII. Indian Economy",
+            "lesson": "An Overview of Indian Economy",
+            "description": "Understand an overview of the Indian economy and its features."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M7.L20",
+          "code": "214.M7.L20",
+          "data": {
+            "title": "Sectoral Aspects of Indian Economy",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "VII. Indian Economy",
+            "lesson": "Sectoral Aspects of Indian Economy",
+            "description": "Understand the primary, secondary and tertiary sectors of the Indian economy."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M7.L21",
+          "code": "214.M7.L21",
+          "data": {
+            "title": "Challenges before Indian Economy",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "VII. Indian Economy",
+            "lesson": "Challenges before Indian Economy",
+            "description": "Understand the major challenges facing the Indian economy."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M7.L22",
+          "code": "214.M7.L22",
+          "data": {
+            "title": "Indian Economy in the Global Context",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "VII. Indian Economy",
+            "lesson": "Indian Economy in the Global Context",
+            "description": "Understand the Indian economy in the global context and international trade."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M8.L23",
+          "code": "214.M8.L23",
+          "data": {
+            "title": "Environment and Sustainable Development",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "VIII. Contemporary Concerns",
+            "lesson": "Environment and Sustainable Development",
+            "description": "Understand the link between the environment, the economy and sustainable development."
+          }
+        },
+        {
+          "key": "nios-sec-2020:214.M8.L24",
+          "code": "214.M8.L24",
+          "data": {
+            "title": "Consumer Awareness",
+            "level": "Secondary",
+            "subject": "Economics",
+            "courseCode": "214",
+            "module": "VIII. Contemporary Concerns",
+            "lesson": "Consumer Awareness",
+            "description": "Understand consumer rights and awareness in the marketplace."
+          }
+        },
+        {
+          "key": "nios-sec-2020:202.LSC",
+          "code": "202.LSC",
+          "data": {
+            "title": "Listening Comprehension",
+            "level": "Secondary",
+            "subject": "English",
+            "courseCode": "202",
+            "module": "Listening",
+            "lesson": "Listening Comprehension",
+            "description": "Listen to understand — getting the gist and specific information from talks, dialogues and media, and following instructions and directions."
+          }
+        },
+        {
+          "key": "nios-sec-2020:202.SPK",
+          "code": "202.SPK",
+          "data": {
+            "title": "Speaking",
+            "level": "Secondary",
+            "subject": "English",
+            "courseCode": "202",
+            "module": "Speaking",
+            "lesson": "Speaking",
+            "description": "Speak clearly and appropriately in different situations — conversations, discussions, describing, narrating and presenting."
+          }
+        },
+        {
+          "key": "nios-sec-2020:202.RDG",
+          "code": "202.RDG",
+          "data": {
+            "title": "Reading Comprehension",
+            "level": "Secondary",
+            "subject": "English",
+            "courseCode": "202",
+            "module": "Reading",
+            "lesson": "Reading Comprehension",
+            "description": "Read a range of texts with understanding — grasping meaning, drawing inferences, and evaluating arguments and points of view."
+          }
+        },
+        {
+          "key": "nios-sec-2020:202.WRT",
+          "code": "202.WRT",
+          "data": {
+            "title": "Writing",
+            "level": "Secondary",
+            "subject": "English",
+            "courseCode": "202",
+            "module": "Writing",
+            "lesson": "Writing",
+            "description": "Write clearly and appropriately for different purposes — planning, drafting, revising and editing coherent texts."
+          }
+        },
+        {
+          "key": "nios-sec-2020:202.GRM",
+          "code": "202.GRM",
+          "data": {
+            "title": "Grammar and Usage",
+            "level": "Secondary",
+            "subject": "English",
+            "courseCode": "202",
+            "module": "Grammar",
+            "lesson": "Grammar and Usage",
+            "description": "Use grammar accurately — tenses, voice, parts of speech, and sentence structure — in speech and writing."
+          }
+        },
+        {
+          "key": "nios-sec-2020:202.VOC",
+          "code": "202.VOC",
+          "data": {
+            "title": "Vocabulary",
+            "level": "Secondary",
+            "subject": "English",
+            "courseCode": "202",
+            "module": "Vocabulary",
+            "lesson": "Vocabulary",
+            "description": "Build and use a wide vocabulary, including academic and figurative language."
+          }
+        },
+        {
+          "key": "nios-sec-2020:202.LIT",
+          "code": "202.LIT",
+          "data": {
+            "title": "Literary Appreciation",
+            "level": "Secondary",
+            "subject": "English",
+            "courseCode": "202",
+            "module": "Literary Appreciation",
+            "lesson": "Literary Appreciation",
+            "description": "Read and appreciate prose, poetry and drama — understanding theme, character, and the writer’s use of language."
+          }
+        },
+        {
+          "key": "nios-sec-2020:202.STU",
+          "code": "202.STU",
+          "data": {
+            "title": "Study Skills",
+            "level": "Secondary",
+            "subject": "English",
+            "courseCode": "202",
+            "module": "Study Skills",
+            "lesson": "Study Skills",
+            "description": "Use study skills — note-making, summarising, and using references and dictionaries — to learn independently."
           }
         }
       ]
