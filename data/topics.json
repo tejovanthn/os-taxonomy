@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 1697,
+  "topicCount": 1742,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -33704,6 +33704,913 @@
       "assessmentPrompt": "Can {{name}} name some of India’s energy sources — like coal, and cleaner ones like solar and wind — and explain why using them wisely matters?",
       "standards": [
         "nios-obe-c:C102.L10"
+      ]
+    },
+    {
+      "id": "mt_7LYY3PybtA",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Ways Countries Are Governed",
+      "description": "Understand that countries can be governed in different ways — by a single ruler (monarchy), by force, or by the people through democracy — and why India chose democracy.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Name different ways a country can be governed",
+        "Explain what makes democracy different from rule by one person",
+        "Explain why a country needs a government at all"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that countries can be run in different ways — and what makes a democracy special?",
+      "standards": [
+        "nios-obe-c:C102.L16"
+      ]
+    },
+    {
+      "id": "mt_Pzr7io8maf",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "The Legislature: Making Laws",
+      "description": "Understand that the legislature is the part of government that makes the laws — the elected representatives who debate and decide the rules everyone lives by.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain that the legislature makes laws",
+        "Explain that its members are elected representatives",
+        "Give an example of something a law might decide"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what the legislature does — that it is where elected representatives make the laws?",
+      "standards": [
+        "nios-obe-b:B102.L6.1",
+        "nios-obe-c:C102.L17"
+      ]
+    },
+    {
+      "id": "mt_yG7RDMJU9b",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "The Executive: Running the Country",
+      "description": "Understand that the executive is the part of government that carries out the laws and runs the country day to day — led by figures like the Prime Minister and the council of ministers.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain that the executive carries out laws and runs the country",
+        "Name roles such as the Prime Minister or a minister",
+        "Distinguish making a law from carrying it out"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that the executive — like the Prime Minister and ministers — carries out the laws and runs the country?",
+      "standards": [
+        "nios-obe-b:B102.L6.1",
+        "nios-obe-c:C102.L17"
+      ]
+    },
+    {
+      "id": "mt_g76LnkOJeD",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "The Judiciary: The Courts",
+      "description": "Understand that the judiciary is the system of courts that settles disputes, decides whether laws have been broken, and protects people’s rights fairly and independently.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain that the judiciary is the courts",
+        "Explain that courts decide disputes and whether laws are broken",
+        "Explain why courts must be fair and independent"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what the courts (the judiciary) do — settling disputes and making sure the law is followed fairly?",
+      "standards": [
+        "nios-obe-b:B102.L6.1",
+        "nios-obe-c:C102.L17"
+      ]
+    },
+    {
+      "id": "mt_iHCKCUdd4y",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "State Government",
+      "description": "Understand that alongside the national government, each state has its own government — with an assembly that makes state laws and a chief minister and governor who run the state.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain that states have their own governments",
+        "Name the state assembly, chief minister and governor",
+        "Explain that some matters are decided by the state, not the nation"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that each state has its own government — with an assembly and a chief minister — as well as the national one?",
+      "standards": [
+        "nios-obe-c:C102.L18"
+      ]
+    },
+    {
+      "id": "mt_WaAVnaJ3Ne",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Fundamental Rights of Citizens",
+      "description": "Understand the fundamental rights the Constitution grants every citizen — such as equality before the law, freedom of speech, and freedom of religion — and that these protect people from unfair treatment.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Name several fundamental rights",
+        "Explain what a right protects a person from",
+        "Explain that rights apply equally to all citizens"
+      ],
+      "assessmentPrompt": "Can {{name}} name a few fundamental rights — like equality and freedom of speech — and explain what they protect?",
+      "standards": [
+        "nios-obe-c:C102.L17"
+      ]
+    },
+    {
+      "id": "mt_8PeIaMh7Yb",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Fundamental Duties of Citizens",
+      "description": "Understand that rights come with fundamental duties — responsibilities every citizen has, such as respecting the Constitution, protecting the environment, and promoting harmony.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Name a few fundamental duties of citizens",
+        "Explain why rights come with responsibilities",
+        "Give an example of a duty in everyday life"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that being a citizen means having duties too — like caring for the environment and respecting others — not only rights?",
+      "standards": [
+        "nios-obe-c:C102.L17"
+      ]
+    },
+    {
+      "id": "mt_hopWG4d3s4",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "The Gram Panchayat",
+      "description": "Understand the gram panchayat — the elected village council that manages local matters like water, roads, sanitation and disputes — the level of government closest to village life.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain what a gram panchayat is and does",
+        "Explain that its members are elected by the village",
+        "Give an example of a local matter it manages"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how a village runs its own affairs through an elected gram panchayat?",
+      "standards": [
+        "nios-obe-b:B102.L6.2"
+      ]
+    },
+    {
+      "id": "mt_YE9WTLeboe",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Block and District Panchayats",
+      "description": "Understand that above the village, the block (area) and district panchayats coordinate development and services across many villages — the three tiers of the Panchayati Raj system.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Name the three levels of Panchayati Raj (village, block, district)",
+        "Explain what higher panchayat levels coordinate",
+        "Explain why larger areas need their own councils"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the three levels of village government — from the gram panchayat up to the district?",
+      "standards": [
+        "nios-obe-b:B102.L6.2"
+      ]
+    },
+    {
+      "id": "mt_zxlN4ht3wT",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Town and City Government",
+      "description": "Understand how towns and cities govern themselves — through municipal councils and corporations that manage water, roads, rubbish, health and other services for city dwellers.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain that towns and cities have their own local government",
+        "Name a service a municipal body provides",
+        "Distinguish urban local bodies from village panchayats"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how a town or city looks after services like water and rubbish through its own local government?",
+      "standards": [
+        "nios-obe-b:B102.L6.3"
+      ]
+    },
+    {
+      "id": "mt_57pI4N3eI2",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "One Person, One Vote",
+      "description": "Understand universal adult franchise — that every adult citizen, whoever they are, gets exactly one equal vote — and why this equality is at the heart of democracy.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain what universal adult franchise means",
+        "Explain why every vote counts equally",
+        "Explain why equal voting is fair and important"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that in a democracy every adult gets one equal vote, no matter who they are?",
+      "standards": [
+        "nios-obe-c:C102.L19"
+      ]
+    },
+    {
+      "id": "mt_ZfqyrBYcTZ",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Political Parties",
+      "description": "Understand that political parties are groups with shared ideas about how the country should be run, that they put up candidates in elections, and that voters choose between them.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain what a political party is",
+        "Explain the role of parties in an election",
+        "Explain that voters choose between competing ideas"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what political parties are and how they take part in elections?",
+      "standards": [
+        "nios-obe-c:C102.L19"
+      ]
+    },
+    {
+      "id": "mt_i749YJfKX2",
+      "type": "PROCEDURAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "How Elections Are Held",
+      "description": "Understand how an election actually works — voters register, go to a polling booth, cast a secret ballot, and the votes are counted fairly to decide the winner.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Describe the steps of voting in an election",
+        "Explain why the ballot is secret",
+        "Explain that votes are counted fairly to decide the result"
+      ],
+      "assessmentPrompt": "Can {{name}} describe how an election works — from casting a secret vote to counting the votes to find the winner?",
+      "standards": [
+        "nios-obe-c:C102.L19"
+      ]
+    },
+    {
+      "id": "mt_3rGIZ3WsJU",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "India's Many Languages",
+      "description": "Understand that India is home to hundreds of languages, that different regions have their own, and that this rich variety of languages is part of what makes India special.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Explain that India has many languages",
+        "Name a few Indian languages and where they are spoken",
+        "Explain that many languages can belong to one country"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that India has hundreds of languages, and name a few spoken in different parts of the country?",
+      "standards": [
+        "nios-obe-b:B102.L2.1"
+      ]
+    },
+    {
+      "id": "mt_f2xTzkHOsh",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "India's Many Cultures and Religions",
+      "description": "Understand that people across India follow many religions and cultural traditions, that they live side by side, and that respecting all faiths and cultures keeps society peaceful.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Give examples of India’s cultural and religious diversity",
+        "Explain that different communities live together",
+        "Explain why respecting all faiths and cultures matters"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that people in India follow many religions and cultures, and why it matters to respect all of them?",
+      "standards": [
+        "nios-obe-b:B102.L2.1"
+      ]
+    },
+    {
+      "id": "mt_WmgVRPQgCX",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "Threads That Unite India",
+      "description": "Understand what holds India together across its diversity — a shared history and land, a shared Constitution and citizenship, and shared festivals and values that cross community lines.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Explain what unites Indians across their differences",
+        "Give an example of something shared across communities",
+        "Explain the idea of \"unity in diversity\""
+      ],
+      "assessmentPrompt": "Can {{name}} explain what ties India together as one country even though its people are so different?",
+      "standards": [
+        "nios-obe-b:B102.L2.2"
+      ]
+    },
+    {
+      "id": "mt_Yb68YCJeqG",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "Living Together in Peace",
+      "description": "Understand why peace and goodwill between communities matter, that it is everyone’s responsibility, and that leaders like Ashoka and Akbar are remembered for encouraging tolerance.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Explain why peace between communities matters",
+        "Explain that keeping peace is everyone’s responsibility",
+        "Give an example of a leader who promoted tolerance"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why it is important for different communities to live together peacefully, and that it is everyone’s job?",
+      "standards": [
+        "nios-obe-b:B102.L2.3",
+        "nios-obe-b:B102.L2.4"
+      ]
+    },
+    {
+      "id": "mt_qAB0QgJBAj",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "Equality for Girls and Women",
+      "description": "Understand that girls and women deserve the same rights and opportunities as boys and men, that unfair treatment still happens, and that laws protect women’s rights and equality.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain what gender equality means",
+        "Give an example of unfair treatment and why it is wrong",
+        "Explain that laws protect women’s rights"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why girls and women deserve the same chances as boys and men — and that laws protect that equality?",
+      "standards": [
+        "nios-obe-b:B102.L3.3"
+      ]
+    },
+    {
+      "id": "mt_XAnyXFB9mO",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "Why Girls’ Education Matters",
+      "description": "Understand why educating girls is so important — for the girls themselves, their families and the whole country — and that every child, girl or boy, has the right to go to school.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Explain why educating girls benefits everyone",
+        "Explain that every child has the right to school",
+        "Recognise barriers that can keep girls out of school"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why it is so important that girls go to school, just like boys?",
+      "standards": [
+        "nios-obe-b:B102.L3.2"
+      ]
+    },
+    {
+      "id": "mt_mMskViErBu",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "Ending Harmful Customs",
+      "description": "Understand that some old customs, like the dowry system, cause real harm and are unfair, that they are against the law, and that societies can change for the better.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain why a custom like dowry is harmful and unfair",
+        "Explain that such customs are against the law",
+        "Explain that society can change harmful practices"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why harmful old customs like dowry are wrong and illegal — and that societies can change for the better?",
+      "standards": [
+        "nios-obe-b:B102.L3.4"
+      ]
+    },
+    {
+      "id": "mt_HxE447LSi9",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "The Small Family",
+      "description": "Understand the idea of the small family — why many families choose to have fewer children, and how this can mean better care, health and education for each child.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain the idea of a small family",
+        "Explain a benefit of a smaller family for children",
+        "Connect family size to care, health and schooling"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why some families choose to be smaller, and how that can help each child?",
+      "standards": [
+        "nios-obe-b:B102.L3.1"
+      ]
+    },
+    {
+      "id": "mt_kOFOr0gGSX",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "India's Growing Population",
+      "description": "Understand that India has a very large and growing population, and how rapid growth puts pressure on shared resources like water, food, schools, jobs and housing.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "State that India’s population is large and growing",
+        "Explain how growth strains shared resources",
+        "Give an example of a service under pressure from population growth"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why India’s fast-growing population puts pressure on things everyone shares, like water, schools and jobs?",
+      "standards": [
+        "nios-obe-c:C102.L14"
+      ]
+    },
+    {
+      "id": "mt_La7RcC7ojy",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "Birth Rate, Death Rate and Sex Ratio",
+      "description": "Understand simple measures of a population — the birth rate, the death rate, and the sex ratio (the number of girls to boys) — and why a balanced sex ratio matters for a fair society.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain birth rate and death rate in simple terms",
+        "Explain what the sex ratio measures",
+        "Explain why a balanced sex ratio matters"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what birth rate, death rate and sex ratio mean — and why it matters that girls and boys are born in balance?",
+      "standards": [
+        "nios-obe-c:C102.L14"
+      ]
+    },
+    {
+      "id": "mt_1BF4PJJJyU",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "Swachh Bharat: The Clean India Mission",
+      "description": "Understand the Swachh Bharat (Clean India) Mission — a national drive for cleanliness and toilets for all — its goals, and how every person can help keep their surroundings clean.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Explain the goal of the Swachh Bharat mission",
+        "Explain why cleanliness and sanitation matter for health",
+        "Describe how an individual can contribute"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what the Swachh Bharat (Clean India) mission is trying to do, and how they can help?",
+      "standards": [
+        "nios-obe-c:C102.L20"
+      ]
+    },
+    {
+      "id": "mt_pijPBdxKbh",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "The Clean Ganga Mission",
+      "description": "Understand the mission to clean the river Ganga — why the river matters to millions of people, how it became polluted, and what is being done to restore it.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain why the Ganga matters to so many people",
+        "Explain how a river becomes polluted",
+        "Describe the aim of the Clean Ganga mission"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why the Ganga is so important, and what the mission to clean it is trying to do?",
+      "standards": [
+        "nios-obe-c:C102.L20"
+      ]
+    },
+    {
+      "id": "mt_BlYMlHIPeO",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "Skill India",
+      "description": "Understand the Skill India mission — helping people learn practical skills and trades so they can find work — and why skills matter for a person and for the country’s growth.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Explain the goal of the Skill India mission",
+        "Explain how learning a skill helps a person find work",
+        "Connect skills to the country’s development"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how a mission like Skill India helps people learn skills to get jobs, and why that helps the country?",
+      "standards": [
+        "nios-obe-c:C102.L20"
+      ]
+    },
+    {
+      "id": "mt_SwhZkzRDAn",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Society & Development",
+      "name": "Digital India",
+      "description": "Understand the Digital India mission — bringing internet access and online government services to everyone — and how digital access can make services faster and fairer.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain the goal of the Digital India mission",
+        "Give an example of a government service delivered online",
+        "Explain how digital access can help people"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how Digital India tries to bring the internet and online services to everyone, and why that helps?",
+      "standards": [
+        "nios-obe-c:C102.L20"
+      ]
+    },
+    {
+      "id": "mt_Qp4lP8lrb9",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "Crops of India",
+      "description": "Understand the main crops grown in India — food crops like rice, wheat and pulses, and cash crops like cotton, tea and sugarcane grown to sell.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Name major Indian food crops and cash crops",
+        "Distinguish a food crop from a cash crop",
+        "Match a crop to a region where it grows well"
+      ],
+      "assessmentPrompt": "Can {{name}} name some of India’s main crops and explain the difference between food crops and cash crops?",
+      "standards": [
+        "nios-obe-b:B102.L5.3",
+        "nios-obe-c:C102.L11"
+      ]
+    },
+    {
+      "id": "mt_OyFF92CLGH",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "Farming Seasons: Rabi, Kharif and Zaid",
+      "description": "Understand that Indian farming follows seasons tied to the monsoon — Kharif crops sown with the rains, Rabi crops in winter, and Zaid crops in summer.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Name the Rabi, Kharif and Zaid seasons",
+        "Match a season to when its crops are sown and harvested",
+        "Connect the seasons to the monsoon"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the Rabi, Kharif and Zaid farming seasons and how they follow the monsoon?",
+      "standards": [
+        "nios-obe-b:B102.L8.3",
+        "nios-obe-c:C102.L11"
+      ]
+    },
+    {
+      "id": "mt_GjZFr0xSIz",
+      "type": "PROCEDURAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "How Crops Are Grown",
+      "description": "Understand the stages of growing a crop — preparing the soil, sowing seeds, watering (irrigation), adding manure or fertiliser, weeding, protecting the crop, and harvesting.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "List the main stages of growing a crop in order",
+        "Explain the purpose of irrigation and weeding",
+        "Explain why crops need protection before harvest"
+      ],
+      "assessmentPrompt": "Can {{name}} describe the steps a farmer follows to grow a crop, from preparing the soil to the harvest?",
+      "standards": [
+        "nios-obe-b:B102.L8.2"
+      ]
+    },
+    {
+      "id": "mt_HAVlsBtQy0",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "Types of Industries",
+      "description": "Understand that industries come in different sizes and kinds — from home-based cottage industries and small-scale workshops to large heavy industries — and what each produces.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Name types of industry by size (cottage, small-scale, heavy)",
+        "Give an example of what each type produces",
+        "Explain how industries turn raw materials into goods"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the different kinds of industry — from small home crafts to big factories — and what they make?",
+      "standards": [
+        "nios-obe-c:C102.L12"
+      ]
+    },
+    {
+      "id": "mt_BHbZEDCZGF",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Culture & Nation",
+      "name": "The National Flag of India",
+      "description": "Know the Indian national flag — its three bands of saffron, white and green with the blue Ashoka Chakra in the middle — and that it stands for the whole country and is treated with respect.",
+      "ageRangeStart": 5,
+      "ageRangeEnd": 7,
+      "centrality": null,
+      "evidence": [
+        "Describe the colours of the Indian flag and the wheel at its centre",
+        "Explain that the flag stands for the country",
+        "Explain that the flag is treated with respect"
+      ],
+      "assessmentPrompt": "Can {{name}} describe the Indian flag — its colours and the wheel in the middle — and explain that it stands for the whole country?",
+      "standards": [
+        "nios-obe-a:A102.L11.1"
+      ]
+    },
+    {
+      "id": "mt_xJahosMm5U",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Culture & Nation",
+      "name": "The National Emblem and National Animal",
+      "description": "Know some of India’s other national symbols — the national emblem (the lion capital of Ashoka), the national animal (the tiger), flower (the lotus) and other symbols — and what they represent.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Identify the national emblem and its lions",
+        "Name the national animal, flower and other symbols",
+        "Explain that these symbols represent the nation"
+      ],
+      "assessmentPrompt": "Can {{name}} name a few of India’s national symbols — like the emblem with the lions and the tiger — and what they stand for?",
+      "standards": [
+        "nios-obe-a:A102.L11.1"
+      ]
+    },
+    {
+      "id": "mt_I96n1aj0Mp",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Culture & Nation",
+      "name": "The National Anthem and National Song",
+      "description": "Know that India has a national anthem (Jana Gana Mana) and a national song (Vande Mataram), that they are sung with respect, and that they help bring people together as one nation.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Name the national anthem and national song",
+        "Explain that the anthem is sung standing, with respect",
+        "Explain how shared songs help unite people"
+      ],
+      "assessmentPrompt": "Can {{name}} name India’s national anthem, and explain why people stand and show respect when it is sung?",
+      "standards": [
+        "nios-obe-a:A102.L11.2"
+      ]
+    },
+    {
+      "id": "mt_IiWIbkjPvW",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Transport & Communication",
+      "name": "Road and Rail Transport",
+      "description": "Understand how people and goods travel over land — by road (buses, cars, trucks) and by rail — and when each is useful for a journey.",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 8,
+      "centrality": null,
+      "evidence": [
+        "Give examples of road and rail transport",
+        "Explain when rail is better than road, or the reverse",
+        "Explain that land transport carries both people and goods"
+      ],
+      "assessmentPrompt": "Can {{name}} give examples of travelling by road and by rail, and say when a train might be better than a bus or truck?",
+      "standards": [
+        "nios-obe-a:A102.L10.2"
+      ]
+    },
+    {
+      "id": "mt_SGAUy2H6WP",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Transport & Communication",
+      "name": "Water and Air Transport",
+      "description": "Understand how people and goods travel by water (boats and ships) and by air (aeroplanes), and why these are useful for crossing seas or travelling long distances quickly.",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 8,
+      "centrality": null,
+      "evidence": [
+        "Give examples of water and air transport",
+        "Explain when water or air transport is the best choice",
+        "Explain that heavy goods often go by ship and urgent trips by air"
+      ],
+      "assessmentPrompt": "Can {{name}} give examples of travelling by water and by air, and say when you might choose a ship or a plane?",
+      "standards": [
+        "nios-obe-a:A102.L10.2"
+      ]
+    },
+    {
+      "id": "mt_VFhHCU805T",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Transport & Communication",
+      "name": "How Transport Has Changed Over Time",
+      "description": "Understand that transport has changed enormously over time — from walking and animals, to carts and boats, to trains, cars and aeroplanes — making journeys faster and easier.",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 8,
+      "centrality": null,
+      "evidence": [
+        "Order some forms of transport from oldest to newest",
+        "Explain how transport has become faster over time",
+        "Give an example of how better transport changed people’s lives"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how the way people travel has changed over time, from walking and animals to trains and planes?",
+      "standards": [
+        "nios-obe-a:A102.L10.1"
+      ]
+    },
+    {
+      "id": "mt_uQN3rX6TOX",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "The Human Body",
+      "name": "How Diseases Spread",
+      "description": "Understand that communicable diseases spread from person to person — through the air, water, food, touch, or insects like mosquitoes — and that knowing how they spread helps us stop them.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Explain that communicable diseases spread from person to person",
+        "Name ways diseases spread (air, water, insects, touch)",
+        "Explain how knowing the route of spread helps prevention"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how catching diseases work — that they spread through things like air, water, or mosquito bites?",
+      "standards": [
+        "nios-obe-b:B102.L14.2"
+      ]
+    },
+    {
+      "id": "mt_vb6T0NzPzv",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "The Human Body",
+      "name": "Non-Communicable Diseases",
+      "description": "Understand that some diseases — like diabetes, heart disease and cancer — do not spread from person to person, and that lifestyle and other factors affect the risk of getting them.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Give examples of non-communicable diseases",
+        "Explain that these do not spread between people",
+        "Explain that lifestyle can affect the risk"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that some diseases, like diabetes or heart disease, are not caught from other people?",
+      "standards": [
+        "nios-obe-b:B102.L14.3"
+      ]
+    },
+    {
+      "id": "mt_7sxObKXO9G",
+      "type": "PROCEDURAL",
+      "subject": "Science",
+      "domain": "The Human Body",
+      "name": "Preventing Disease",
+      "description": "Understand the main ways to prevent disease — good hygiene, clean food and water, vaccination, care around sick people, and avoiding harmful substances like tobacco and alcohol.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Name several ways to prevent disease",
+        "Explain how vaccination protects against illness",
+        "Explain why avoiding tobacco and alcohol protects health"
+      ],
+      "assessmentPrompt": "Can {{name}} name ways to stay healthy and avoid disease — like hygiene, clean water, and vaccination?",
+      "standards": [
+        "nios-obe-b:B102.L14.4"
+      ]
+    },
+    {
+      "id": "mt_mlWPHuJoHH",
+      "type": "PROCEDURAL",
+      "subject": "Science",
+      "domain": "The Human Body",
+      "name": "Keeping Food Safe",
+      "description": "Understand that food must be kept clean, fresh and properly stored to stop germs growing — covering food, washing it, cooking it well, and storing it correctly.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Explain why food should be covered, washed and cooked well",
+        "Describe a way to store food so it stays safe",
+        "Explain how unsafe food can make people ill"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how to keep food safe to eat — covering it, washing it, and storing it properly?",
+      "standards": [
+        "nios-obe-a:A102.L8.4",
+        "nios-obe-b:B102.L12.3"
+      ]
+    },
+    {
+      "id": "mt_P7G3nrrszn",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "The Human Body",
+      "name": "Clean Water to Drink",
+      "description": "Understand that drinking water must be clean and safe, that dirty water can carry germs and cause illness, and know simple ways to make water safe — boiling, filtering and safe storage.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Explain why drinking water must be clean",
+        "Explain how dirty water can make people ill",
+        "Name a way to make water safe to drink (boiling, filtering)"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why drinking water needs to be clean, and name a way to make water safe, like boiling it?",
+      "standards": [
+        "nios-obe-a:A102.L8.5"
+      ]
+    },
+    {
+      "id": "mt_DwhMBWAZIa",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Input Devices",
+      "description": "Understand that input devices put information into a computer — the keyboard for typing, the mouse for pointing, the microphone for sound, and cameras and scanners for images.",
+      "ageRangeStart": 8,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Name several input devices and what each is for",
+        "Explain what \"input\" means for a computer",
+        "Sort devices into input and not-input"
+      ],
+      "assessmentPrompt": "Can {{name}} name devices that put information into a computer — like the keyboard and mouse — and say what each does?",
+      "standards": [
+        "nios-obe-a:A104.L3"
+      ]
+    },
+    {
+      "id": "mt_69vuYvo1qi",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Output Devices",
+      "description": "Understand that output devices get information out of a computer — the screen shows pictures and text, the printer makes paper copies, and the speaker plays sound.",
+      "ageRangeStart": 8,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Name several output devices and what each is for",
+        "Explain what \"output\" means for a computer",
+        "Distinguish output devices from input devices"
+      ],
+      "assessmentPrompt": "Can {{name}} name devices that get information out of a computer — like the screen, printer and speaker?",
+      "standards": [
+        "nios-obe-a:A104.L3"
+      ]
+    },
+    {
+      "id": "mt_cBEoGx45iA",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Storage Devices",
+      "description": "Understand that storage devices keep information so it can be used later — the computer’s internal disk, USB pen drives, and memory cards — even when the computer is switched off.",
+      "ageRangeStart": 8,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Name several storage devices",
+        "Explain that storage keeps information for later",
+        "Explain why storage keeps data even when the power is off"
+      ],
+      "assessmentPrompt": "Can {{name}} name devices that store information for later — like a USB drive — and explain what storage is for?",
+      "standards": [
+        "nios-obe-a:A104.L3"
       ]
     }
   ]

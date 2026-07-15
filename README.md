@@ -2,7 +2,7 @@
 
 An open, structured taxonomy of **what children learn** across the primary/elementary years — decomposed into fine-grained "micro-topics", wired into a prerequisite graph, and aligned to national curriculum standards. Produced by [Marble](https://withmarble.com).
 
-> **Version:** `v1` · **Topics:** 1,697 · **Prerequisite edges:** 3,359 · **Subjects:** 9
+> **Version:** `v1` · **Topics:** 1,742 · **Prerequisite edges:** 3,412 · **Subjects:** 9
 
 ## See it
 
@@ -15,8 +15,8 @@ Every dot is a micro-topic, colored by subject; height is age; each thread is a 
 
 Most curriculum data is either a flat list of standards or locked inside a product. This dataset is a **connected graph of learning**:
 
-- **1,697 micro-topics** — a single, teachable idea (e.g. *"Building sentences"*, *"Apparent brightness of stars"*), each with a plain-language description, mastery **evidence** criteria, a type (conceptual / procedural / representational / language / meta), a subject + domain, and an approximate age range.
-- **3,359 prerequisite dependencies** — a directed acyclic graph: *"topic X depends on prerequisite Y"*, each edge tagged `hard`/`soft` and carrying a one-line **reason**.
+- **1,742 micro-topics** — a single, teachable idea (e.g. *"Building sentences"*, *"Apparent brightness of stars"*), each with a plain-language description, mastery **evidence** criteria, a type (conceptual / procedural / representational / language / meta), a subject + domain, and an approximate age range.
+- **3,412 prerequisite dependencies** — a directed acyclic graph: *"topic X depends on prerequisite Y"*, each edge tagged `hard`/`soft` and carrying a one-line **reason**.
 - **Curriculum alignment** — each micro-topic links to the standards it was distilled from (NGSS, Common Core, the UK National Curriculum, India's NIOS Open Basic Education, and more).
 - **Domain clusters** — 211 parent-friendly one-paragraph summaries per (subject, domain, age band).
 
@@ -24,14 +24,14 @@ Most curriculum data is either a flat list of standards or locked inside a produ
 
 | Subject | Topics |
 |---|---:|
-| Science | 556 |
+| Science | 561 |
 | Mathematics | 508 |
 | English | 286 |
 | History | 139 |
 | Personal & Social Development | 88 |
+| Social Studies | 66 |
+| Computing | 39 |
 | Life Skills | 37 |
-| Computing | 36 |
-| Social Studies | 29 |
 | Learning to Learn | 18 |
 
 ## Files

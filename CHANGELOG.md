@@ -8,6 +8,15 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### Indian civics, society & geography — depth decomposition, pass 2 (2026-07-15)
+- **45 new micro-topics** decomposing the remaining coarse India-specific topics — the ones that still bundled several distinct ideas (a single topic linked to 3–5 lesson standards). Coarse overview topics stay as entry points; specifics hang off them.
+  - **Governance & Constitution** 4 → 17: the three organs of government each their own topic (*Legislature*, *Executive*, *Judiciary*), plus *Ways Countries Are Governed*, *State Government*, *Fundamental Rights*, *Fundamental Duties*, the three Panchayati Raj tiers (*Gram Panchayat*, *Block & District*, *Town & City Government*), and elections (*One Person One Vote*, *Political Parties*, *How Elections Are Held*).
+  - **Society & Development** 4 → 18: diversity split (*languages*, *cultures & religions*, *threads of unity*, *living in peace*); social reform split (*equality for women*, *girls’ education*, *ending harmful customs*, *the small family*); population split; and the four national schemes each their own (*Swachh Bharat*, *Clean Ganga*, *Skill India*, *Digital India*).
+  - **Indian Geography**: agriculture split into *crops*, *farming seasons*, *how crops are grown*; plus *types of industries*.
+  - **Culture & Nation**: national symbols split into *flag*, *emblem & animal*, *anthem & song*. **Transport**: split into *road & rail*, *water & air*, *history of transport*.
+  - **Science**: diseases split into *how diseases spread*, *non-communicable diseases*, *preventing disease*; safe food/water split into *keeping food safe* and *clean drinking water*. **Computing**: I/O/storage split into *input*, *output*, *storage devices*.
+- **53 new prerequisite edges**. Purely additive — every prior topic byte-unchanged. `scripts/build/nios-obe-in-depth2.mjs` (idempotent). Graph re-verified acyclic.
+
 ### Indian history & geography — depth decomposition (2026-07-15)
 - **42 new micro-topics** bringing the India-specific content up to the taxonomy's own grain. The B/C pass had authored Indian history at "one topic per era" (e.g. the whole Indus Valley Civilisation as a single topic), whereas the taxonomy decomposes *one* ancient civilization into ~29 micro-topics (Ancient Egypt), graduated across ages 5–14.
 - **Indian history** now decomposed to that grain — Ancient India 5 → 24 topics, Medieval India 3 → 12, Modern India 3 → 13 (e.g. the Indus Valley now spans *Cities*, *Town Planning and Drainage*, *The Great Bath and Granaries*, *Seals, Crafts and Trade*, *Daily Life*, *Decline*, at ages 5–11). The coarse overview topics remain as age-appropriate entry points; the specific micro-topics hang off them and off the chronology.

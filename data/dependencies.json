@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3359,
+  "edgeCount": 3412,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -20156,6 +20156,324 @@
       "prerequisiteId": "mt_Qx5riGaO8e",
       "strength": "soft",
       "reason": "Minerals and energy are natural resources from the overview"
+    },
+    {
+      "topicId": "mt_7LYY3PybtA",
+      "prerequisiteId": "mt_ECbqGTZYhL",
+      "strength": "soft",
+      "reason": "Comparing forms of government builds on the democracy-and-government overview"
+    },
+    {
+      "topicId": "mt_Pzr7io8maf",
+      "prerequisiteId": "mt_ECbqGTZYhL",
+      "strength": "soft",
+      "reason": "The legislature is one organ of the government introduced in the overview"
+    },
+    {
+      "topicId": "mt_yG7RDMJU9b",
+      "prerequisiteId": "mt_ECbqGTZYhL",
+      "strength": "soft",
+      "reason": "The executive is one organ of the government introduced in the overview"
+    },
+    {
+      "topicId": "mt_g76LnkOJeD",
+      "prerequisiteId": "mt_ECbqGTZYhL",
+      "strength": "soft",
+      "reason": "The judiciary is one organ of the government introduced in the overview"
+    },
+    {
+      "topicId": "mt_Pzr7io8maf",
+      "prerequisiteId": "mt_7LYY3PybtA",
+      "strength": "soft",
+      "reason": "The organs of government are studied once democracy is understood"
+    },
+    {
+      "topicId": "mt_iHCKCUdd4y",
+      "prerequisiteId": "mt_ECbqGTZYhL",
+      "strength": "soft",
+      "reason": "State government mirrors the national government at the state level"
+    },
+    {
+      "topicId": "mt_WaAVnaJ3Ne",
+      "prerequisiteId": "mt_zFL9HpDF22",
+      "strength": "soft",
+      "reason": "Fundamental rights are set out by the Constitution"
+    },
+    {
+      "topicId": "mt_8PeIaMh7Yb",
+      "prerequisiteId": "mt_zFL9HpDF22",
+      "strength": "soft",
+      "reason": "Fundamental duties are set out by the Constitution"
+    },
+    {
+      "topicId": "mt_8PeIaMh7Yb",
+      "prerequisiteId": "mt_WaAVnaJ3Ne",
+      "strength": "soft",
+      "reason": "Duties are the counterpart of rights"
+    },
+    {
+      "topicId": "mt_hopWG4d3s4",
+      "prerequisiteId": "mt_FJZZUv2ewS",
+      "strength": "soft",
+      "reason": "The gram panchayat is the base of the Panchayati Raj system"
+    },
+    {
+      "topicId": "mt_YE9WTLeboe",
+      "prerequisiteId": "mt_hopWG4d3s4",
+      "strength": "hard",
+      "reason": "The higher panchayat levels build up from the gram panchayat"
+    },
+    {
+      "topicId": "mt_zxlN4ht3wT",
+      "prerequisiteId": "mt_FJZZUv2ewS",
+      "strength": "soft",
+      "reason": "Urban local government is the town counterpart of village panchayats"
+    },
+    {
+      "topicId": "mt_57pI4N3eI2",
+      "prerequisiteId": "mt_Dx3DLwmuLq",
+      "strength": "soft",
+      "reason": "Universal franchise is the basis of the elections overview"
+    },
+    {
+      "topicId": "mt_ZfqyrBYcTZ",
+      "prerequisiteId": "mt_Dx3DLwmuLq",
+      "strength": "soft",
+      "reason": "Parties contest the elections introduced in the overview"
+    },
+    {
+      "topicId": "mt_i749YJfKX2",
+      "prerequisiteId": "mt_57pI4N3eI2",
+      "strength": "hard",
+      "reason": "How an election runs builds on the idea of one person, one vote"
+    },
+    {
+      "topicId": "mt_i749YJfKX2",
+      "prerequisiteId": "mt_ZfqyrBYcTZ",
+      "strength": "soft",
+      "reason": "Elections choose between the parties on offer"
+    },
+    {
+      "topicId": "mt_3rGIZ3WsJU",
+      "prerequisiteId": "mt_sfHoytwSwm",
+      "strength": "soft",
+      "reason": "India’s languages are one strand of its diversity"
+    },
+    {
+      "topicId": "mt_f2xTzkHOsh",
+      "prerequisiteId": "mt_sfHoytwSwm",
+      "strength": "soft",
+      "reason": "India’s cultures and religions are one strand of its diversity"
+    },
+    {
+      "topicId": "mt_WmgVRPQgCX",
+      "prerequisiteId": "mt_sfHoytwSwm",
+      "strength": "soft",
+      "reason": "The threads of unity build on the unity-in-diversity overview"
+    },
+    {
+      "topicId": "mt_WmgVRPQgCX",
+      "prerequisiteId": "mt_3rGIZ3WsJU",
+      "strength": "soft",
+      "reason": "Unity is understood against the backdrop of many languages"
+    },
+    {
+      "topicId": "mt_Yb68YCJeqG",
+      "prerequisiteId": "mt_WmgVRPQgCX",
+      "strength": "soft",
+      "reason": "Living in peace builds on what unites a diverse society"
+    },
+    {
+      "topicId": "mt_qAB0QgJBAj",
+      "prerequisiteId": "mt_BlcpwdLsRX",
+      "strength": "soft",
+      "reason": "Women’s equality is a strand of the gender-equality overview"
+    },
+    {
+      "topicId": "mt_qAB0QgJBAj",
+      "prerequisiteId": "mt_mDp-1vlL3R",
+      "strength": "soft",
+      "reason": "Gender equality builds on the idea of fairness and equality"
+    },
+    {
+      "topicId": "mt_XAnyXFB9mO",
+      "prerequisiteId": "mt_BlcpwdLsRX",
+      "strength": "soft",
+      "reason": "Girls’ education is a strand of the gender-equality overview"
+    },
+    {
+      "topicId": "mt_mMskViErBu",
+      "prerequisiteId": "mt_BlcpwdLsRX",
+      "strength": "soft",
+      "reason": "Ending harmful customs is part of building a fairer society"
+    },
+    {
+      "topicId": "mt_HxE447LSi9",
+      "prerequisiteId": "mt_BlcpwdLsRX",
+      "strength": "soft",
+      "reason": "The small family is one of the social concerns in the overview"
+    },
+    {
+      "topicId": "mt_kOFOr0gGSX",
+      "prerequisiteId": "mt_29aZtsWvgT",
+      "strength": "soft",
+      "reason": "Population growth builds on the population overview"
+    },
+    {
+      "topicId": "mt_La7RcC7ojy",
+      "prerequisiteId": "mt_kOFOr0gGSX",
+      "strength": "soft",
+      "reason": "The measures of population build on understanding population growth"
+    },
+    {
+      "topicId": "mt_1BF4PJJJyU",
+      "prerequisiteId": "mt_t1uflyWbd1",
+      "strength": "soft",
+      "reason": "Swachh Bharat is one of the national development schemes"
+    },
+    {
+      "topicId": "mt_pijPBdxKbh",
+      "prerequisiteId": "mt_t1uflyWbd1",
+      "strength": "soft",
+      "reason": "The Clean Ganga mission is one of the national development schemes"
+    },
+    {
+      "topicId": "mt_BlYMlHIPeO",
+      "prerequisiteId": "mt_t1uflyWbd1",
+      "strength": "soft",
+      "reason": "Skill India is one of the national development schemes"
+    },
+    {
+      "topicId": "mt_SwhZkzRDAn",
+      "prerequisiteId": "mt_t1uflyWbd1",
+      "strength": "soft",
+      "reason": "Digital India is one of the national development schemes"
+    },
+    {
+      "topicId": "mt_1BF4PJJJyU",
+      "prerequisiteId": "mt_uof32CdhYK",
+      "strength": "soft",
+      "reason": "Swachh Bharat applies everyday hygiene at national scale"
+    },
+    {
+      "topicId": "mt_Qp4lP8lrb9",
+      "prerequisiteId": "mt_D3sDOaujQk",
+      "strength": "soft",
+      "reason": "The crops of India build on the agriculture overview"
+    },
+    {
+      "topicId": "mt_OyFF92CLGH",
+      "prerequisiteId": "mt_D3sDOaujQk",
+      "strength": "soft",
+      "reason": "The farming seasons build on the agriculture overview"
+    },
+    {
+      "topicId": "mt_OyFF92CLGH",
+      "prerequisiteId": "mt_qNSCvaxZKR",
+      "strength": "soft",
+      "reason": "The farming seasons follow the monsoon"
+    },
+    {
+      "topicId": "mt_GjZFr0xSIz",
+      "prerequisiteId": "mt_D3sDOaujQk",
+      "strength": "soft",
+      "reason": "The stages of growing a crop build on the agriculture overview"
+    },
+    {
+      "topicId": "mt_HAVlsBtQy0",
+      "prerequisiteId": "mt_QCQjNxURAP",
+      "strength": "soft",
+      "reason": "The types of industry build on the industries overview"
+    },
+    {
+      "topicId": "mt_BHbZEDCZGF",
+      "prerequisiteId": "mt_s63gXTWzPP",
+      "strength": "soft",
+      "reason": "The flag is one of the national symbols in the overview"
+    },
+    {
+      "topicId": "mt_xJahosMm5U",
+      "prerequisiteId": "mt_s63gXTWzPP",
+      "strength": "soft",
+      "reason": "The emblem and animal are national symbols in the overview"
+    },
+    {
+      "topicId": "mt_I96n1aj0Mp",
+      "prerequisiteId": "mt_s63gXTWzPP",
+      "strength": "soft",
+      "reason": "The anthem and song are national symbols in the overview"
+    },
+    {
+      "topicId": "mt_IiWIbkjPvW",
+      "prerequisiteId": "mt_fwkPvwG8ET",
+      "strength": "soft",
+      "reason": "Land transport is one mode from the transport overview"
+    },
+    {
+      "topicId": "mt_SGAUy2H6WP",
+      "prerequisiteId": "mt_fwkPvwG8ET",
+      "strength": "soft",
+      "reason": "Water and air are modes from the transport overview"
+    },
+    {
+      "topicId": "mt_VFhHCU805T",
+      "prerequisiteId": "mt_fwkPvwG8ET",
+      "strength": "soft",
+      "reason": "How transport changed builds on the transport overview"
+    },
+    {
+      "topicId": "mt_uQN3rX6TOX",
+      "prerequisiteId": "mt_GxmukTWBAR",
+      "strength": "soft",
+      "reason": "How diseases spread builds on the diseases overview"
+    },
+    {
+      "topicId": "mt_vb6T0NzPzv",
+      "prerequisiteId": "mt_GxmukTWBAR",
+      "strength": "soft",
+      "reason": "Non-communicable diseases are one half of the diseases overview"
+    },
+    {
+      "topicId": "mt_7sxObKXO9G",
+      "prerequisiteId": "mt_GxmukTWBAR",
+      "strength": "soft",
+      "reason": "Preventing disease builds on the diseases overview"
+    },
+    {
+      "topicId": "mt_7sxObKXO9G",
+      "prerequisiteId": "mt_uQN3rX6TOX",
+      "strength": "soft",
+      "reason": "Prevention builds on knowing how diseases spread"
+    },
+    {
+      "topicId": "mt_mlWPHuJoHH",
+      "prerequisiteId": "mt_Km5iZqQ8Vi",
+      "strength": "soft",
+      "reason": "Keeping food safe is one half of the safe-food-and-water overview"
+    },
+    {
+      "topicId": "mt_P7G3nrrszn",
+      "prerequisiteId": "mt_Km5iZqQ8Vi",
+      "strength": "soft",
+      "reason": "Clean drinking water is one half of the safe-food-and-water overview"
+    },
+    {
+      "topicId": "mt_DwhMBWAZIa",
+      "prerequisiteId": "mt_CubybCLCKN",
+      "strength": "soft",
+      "reason": "Input devices are one group from the devices overview"
+    },
+    {
+      "topicId": "mt_69vuYvo1qi",
+      "prerequisiteId": "mt_CubybCLCKN",
+      "strength": "soft",
+      "reason": "Output devices are one group from the devices overview"
+    },
+    {
+      "topicId": "mt_cBEoGx45iA",
+      "prerequisiteId": "mt_CubybCLCKN",
+      "strength": "soft",
+      "reason": "Storage devices are one group from the devices overview"
     }
   ]
 }
