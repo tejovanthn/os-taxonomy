@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 1763,
+  "topicCount": 1780,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -32063,7 +32063,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what the Vedas are and describe what life was like in the Vedic age?",
       "standards": [
-        "nios-obe-c:C102.L2"
+        "nios-obe-c:C102.L2",
+        "nios-sec-2020:223.M2.L3"
       ]
     },
     {
@@ -32103,7 +32104,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why the Gupta age is remembered as a golden age and give an example of what was achieved then?",
       "standards": [
-        "nios-obe-c:C102.L4"
+        "nios-obe-c:C102.L4",
+        "nios-sec-2020:223.M2.L3"
       ]
     },
     {
@@ -32143,7 +32145,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what the Delhi Sultanate was and describe one way it changed how northern India was governed?",
       "standards": [
-        "nios-obe-c:C102.L5"
+        "nios-obe-c:C102.L5",
+        "nios-sec-2020:223.M2.L4"
       ]
     },
     {
@@ -32163,7 +32166,8 @@
       ],
       "assessmentPrompt": "Can {{name}} describe the Mughal Empire — a famous building it left behind, and why a ruler like Akbar is remembered?",
       "standards": [
-        "nios-obe-c:C102.L6"
+        "nios-obe-c:C102.L6",
+        "nios-sec-2020:223.M2.L4"
       ]
     },
     {
@@ -32225,7 +32229,8 @@
       "assessmentPrompt": "Can {{name}} describe how India won its freedom — naming a leader or two and explaining what they stood for?",
       "standards": [
         "nios-obe-b:B102.L4.2",
-        "nios-obe-c:C102.L8"
+        "nios-obe-c:C102.L8",
+        "nios-sec-2020:223.M2.L5"
       ]
     },
     {
@@ -32245,7 +32250,9 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how 19th-century reformers tried to change society for the better, and give an example?",
       "standards": [
-        "nios-obe-c:C102.L7"
+        "nios-obe-c:C102.L7",
+        "nios-sec-2020:223.M2.L5",
+        "nios-sec-2020:223.M4.L10"
       ]
     },
     {
@@ -35053,6 +35060,347 @@
       "assessmentPrompt": "Can {{name}} explain how understanding people — their motivation and teamwork — helps organisations and workplaces run well?",
       "standards": [
         "nios-sec-2020:222.M6.L22"
+      ]
+    },
+    {
+      "id": "mt_izT3oKzOuZ",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Understanding Culture",
+      "name": "What Is Culture",
+      "description": "Understand culture as the whole way of life of a people — their beliefs, customs, arts, language and values — passed on and changing across generations.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Define culture as a shared way of life",
+        "Distinguish material from non-material culture",
+        "Explain that culture is learned and passed on"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what \"culture\" means — the shared beliefs, customs, arts and values that make up a people’s way of life?",
+      "standards": [
+        "nios-sec-2020:223.M1.L1"
+      ]
+    },
+    {
+      "id": "mt_iWPyUde6dq",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Understanding Culture",
+      "name": "Features of Indian Culture",
+      "description": "Understand what makes Indian culture distinctive — its great antiquity and continuity, its unity within diversity, and its capacity to absorb and blend many influences.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describe features that make Indian culture distinctive",
+        "Explain \"unity in diversity\" as a feature of Indian culture",
+        "Give an example of Indian culture absorbing an outside influence"
+      ],
+      "assessmentPrompt": "Can {{name}} describe what makes Indian culture distinctive — its long continuity and its unity across great diversity?",
+      "standards": [
+        "nios-sec-2020:223.M1.L2"
+      ]
+    },
+    {
+      "id": "mt_b0r2yUV0da",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Religion & Philosophy",
+      "name": "Religion and Philosophy in Ancient India",
+      "description": "Understand the major religious and philosophical traditions of ancient India — Vedic thought, the rise of Buddhism and Jainism, and the classical schools of Indian philosophy.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name religious traditions that arose in ancient India",
+        "Explain a key idea of Buddhism or Jainism",
+        "Recognise that India developed several schools of philosophy"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the main religions and ways of thinking that grew up in ancient India, like Buddhism and Jainism?",
+      "standards": [
+        "nios-sec-2020:223.M4.L8"
+      ]
+    },
+    {
+      "id": "mt_UH65NM4rxm",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Religion & Philosophy",
+      "name": "The Bhakti and Sufi Movements",
+      "description": "Understand the medieval devotional movements — Bhakti among Hindus and Sufism among Muslims — which stressed love of God, equality and devotion over ritual, and brought communities together.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what the Bhakti and Sufi movements were",
+        "Describe their shared message of devotion and equality",
+        "Explain how they helped bridge communities"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the Bhakti and Sufi movements — how they taught love of God and equality, and brought people together?",
+      "standards": [
+        "nios-sec-2020:223.M4.L9"
+      ]
+    },
+    {
+      "id": "mt_58TXfg0Okt",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Religion & Philosophy",
+      "name": "Religious and Social Reform in Modern India",
+      "description": "Understand how modern reformers worked to remove social and religious ills — such as caste discrimination and the mistreatment of women — and to renew Indian society.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what a religious/social reform movement aimed to change",
+        "Give an example of an ill the reformers opposed",
+        "Connect reform to the awakening of modern India"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how reformers in modern India worked to end social and religious wrongs and renew society?",
+      "standards": [
+        "nios-sec-2020:223.M4.L10"
+      ]
+    },
+    {
+      "id": "mt_zHARzQRiBE",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Languages & Literature",
+      "name": "Classical Languages and Literature",
+      "description": "Understand the role of Sanskrit in ancient India and the rich literature written in Sanskrit, Prakrit and Pali — epics, drama, poetry and sacred texts.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain the importance of Sanskrit in ancient India",
+        "Name classical languages of ancient India (Sanskrit, Prakrit, Pali)",
+        "Give an example of a kind of classical literature"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the importance of Sanskrit and the classical literature of ancient India?",
+      "standards": [
+        "nios-sec-2020:223.M3.L6"
+      ]
+    },
+    {
+      "id": "mt_JNT3UUx7Nd",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Languages & Literature",
+      "name": "Literature of the Indian Languages",
+      "description": "Understand the literary riches of India’s regional languages — the ancient Sangam literature of Tamil, and the literature of Telugu, Kannada, Malayalam and other languages.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what Sangam literature is",
+        "Name several Indian languages with rich literary traditions",
+        "Explain that India’s literature spans many languages"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that India has great literature in many languages, like the ancient Sangam poetry of Tamil?",
+      "standards": [
+        "nios-sec-2020:223.M3.L7"
+      ]
+    },
+    {
+      "id": "mt_7BG2AbuXDn",
+      "type": "REPRESENTATIONAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Art & Architecture",
+      "name": "Indian Painting",
+      "description": "Understand the traditions of Indian painting — from the ancient cave murals of Ajanta to Mughal and Rajput miniatures and vibrant folk styles.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Name traditions of Indian painting (cave, miniature, folk)",
+        "Give an example such as the Ajanta murals",
+        "Describe a feature of a style of Indian painting"
+      ],
+      "assessmentPrompt": "Can {{name}} describe some traditions of Indian painting, like the ancient Ajanta cave murals or miniature paintings?",
+      "standards": [
+        "nios-sec-2020:223.M5.L11"
+      ]
+    },
+    {
+      "id": "mt_EuGth6lA55",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Art & Architecture",
+      "name": "Indian Music and Dance",
+      "description": "Understand India’s performing arts — its two great classical music traditions (Hindustani and Carnatic), its classical dance forms, and its living folk traditions.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Name the two classical music traditions of India",
+        "Name a classical Indian dance form",
+        "Distinguish classical from folk performing arts"
+      ],
+      "assessmentPrompt": "Can {{name}} name India’s classical music and dance traditions and explain how they differ from folk arts?",
+      "standards": [
+        "nios-sec-2020:223.M5.L12"
+      ]
+    },
+    {
+      "id": "mt_OvdZUG9ara",
+      "type": "REPRESENTATIONAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Art & Architecture",
+      "name": "Indian Architecture",
+      "description": "Understand the great styles of Indian architecture across the ages — Buddhist stupas, Hindu temples, Indo-Islamic mosques and forts, and colonial buildings.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Name styles of Indian architecture (temple, stupa, mosque, fort)",
+        "Give an example such as a famous temple or the Taj Mahal",
+        "Explain that architectural styles blended over time"
+      ],
+      "assessmentPrompt": "Can {{name}} describe different styles of Indian architecture — temples, stupas, and Mughal buildings like the Taj Mahal?",
+      "standards": [
+        "nios-sec-2020:223.M5.L13"
+      ]
+    },
+    {
+      "id": "mt_nbirDKrAtk",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Science & Innovation",
+      "name": "Science in Ancient India",
+      "description": "Understand India’s ancient heritage in science — advances in mathematics (zero, the decimal system), astronomy, and medicine (Ayurveda) — and scientists like Aryabhata and Sushruta.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Give examples of ancient Indian achievements in maths or astronomy",
+        "Name an ancient Indian scientist and their field",
+        "Explain the significance of the idea of zero"
+      ],
+      "assessmentPrompt": "Can {{name}} give examples of ancient India’s achievements in science and maths, and name a scientist like Aryabhata?",
+      "standards": [
+        "nios-sec-2020:223.M6.L14",
+        "nios-sec-2020:223.M6.L15"
+      ]
+    },
+    {
+      "id": "mt_F9MekLVt5d",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Science & Innovation",
+      "name": "Science in Medieval India",
+      "description": "Understand the scientific and technological achievements of medieval India — in astronomy, medicine, metallurgy and architecture-engineering.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Give an example of a medieval Indian scientific or technological achievement",
+        "Explain that knowledge was exchanged with other cultures",
+        "Connect medieval science to earlier Indian traditions"
+      ],
+      "assessmentPrompt": "Can {{name}} give an example of science or technology in medieval India?",
+      "standards": [
+        "nios-sec-2020:223.M6.L16"
+      ]
+    },
+    {
+      "id": "mt_iDqc7SlTOy",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Science & Innovation",
+      "name": "Scientists of Modern India",
+      "description": "Know the contributions of modern Indian scientists — such as C. V. Raman, J. C. Bose, Srinivasa Ramanujan and Homi Bhabha — and India’s achievements in science today.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name a modern Indian scientist and their contribution",
+        "Give an example of a modern Indian scientific achievement",
+        "Explain that India continues a long scientific tradition"
+      ],
+      "assessmentPrompt": "Can {{name}} name a modern Indian scientist like C. V. Raman or Ramanujan and what they are known for?",
+      "standards": [
+        "nios-sec-2020:223.M6.L17"
+      ]
+    },
+    {
+      "id": "mt_accpGGdIgM",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Society & Education",
+      "name": "Education Through the Ages in India",
+      "description": "Understand India’s long tradition of education — from ancient centres of learning like Nalanda and Takshashila, through the gurukul system, to modern schooling.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name ancient Indian centres of learning",
+        "Explain the gurukul tradition",
+        "Trace how education in India changed over time"
+      ],
+      "assessmentPrompt": "Can {{name}} explain India’s tradition of education, from ancient universities like Nalanda to schools today?",
+      "standards": [
+        "nios-sec-2020:223.M7.L18"
+      ]
+    },
+    {
+      "id": "mt_gxkthtRLEG",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Society & Education",
+      "name": "Indian Social Structure",
+      "description": "Understand the structure of Indian society — the roles of family and community, its great diversity of groups, and how social structure has changed over time.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describe the role of family and community in Indian society",
+        "Explain the diversity of Indian society",
+        "Explain that social structures change over time"
+      ],
+      "assessmentPrompt": "Can {{name}} describe how Indian society is organised around family and community, and how diverse it is?",
+      "standards": [
+        "nios-sec-2020:223.M8.L19"
+      ]
+    },
+    {
+      "id": "mt_KraqV2LrXY",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Society & Education",
+      "name": "Socio-Cultural Issues Today",
+      "description": "Understand major socio-cultural issues facing contemporary India — such as inequality, communal harmony, and preserving heritage — and efforts to address them.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name a socio-cultural issue facing India today",
+        "Explain why communal harmony matters",
+        "Give an example of an effort to address an issue"
+      ],
+      "assessmentPrompt": "Can {{name}} discuss a socio-cultural issue facing India today and why working on it matters?",
+      "standards": [
+        "nios-sec-2020:223.M8.L20"
+      ]
+    },
+    {
+      "id": "mt_JAXUqyRnYy",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "India and the World",
+      "name": "The Spread of Indian Culture Abroad",
+      "description": "Understand how Indian culture spread far beyond its borders — through trade, and the spread of Buddhism, art, language and ideas across Asia and beyond.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain how Indian culture spread abroad (trade, religion, ideas)",
+        "Give an example of Indian influence in another region",
+        "Explain that cultural exchange goes both ways"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how Indian culture spread to other lands — through trade and the spread of religions like Buddhism?",
+      "standards": [
+        "nios-sec-2020:223.M9.L21"
       ]
     }
   ]

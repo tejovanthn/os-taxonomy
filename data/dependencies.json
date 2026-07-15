@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3435,
+  "edgeCount": 3456,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -20612,6 +20612,132 @@
       "prerequisiteId": "mt_cJjnPjuvCU",
       "strength": "soft",
       "reason": "Career planning builds on personal goal-setting"
+    },
+    {
+      "topicId": "mt_iWPyUde6dq",
+      "prerequisiteId": "mt_izT3oKzOuZ",
+      "strength": "hard",
+      "reason": "Features of Indian culture build on understanding what culture is"
+    },
+    {
+      "topicId": "mt_b0r2yUV0da",
+      "prerequisiteId": "mt_jgJMDA0GTY",
+      "strength": "soft",
+      "reason": "Ancient Indian religion and philosophy build on the Vedic age"
+    },
+    {
+      "topicId": "mt_UH65NM4rxm",
+      "prerequisiteId": "mt_b0r2yUV0da",
+      "strength": "soft",
+      "reason": "Medieval devotional movements build on ancient religious traditions"
+    },
+    {
+      "topicId": "mt_UH65NM4rxm",
+      "prerequisiteId": "mt_fvAz0QwV5b",
+      "strength": "soft",
+      "reason": "The Bhakti and Sufi movements flourished in the medieval Mughal era"
+    },
+    {
+      "topicId": "mt_58TXfg0Okt",
+      "prerequisiteId": "mt_UH65NM4rxm",
+      "strength": "soft",
+      "reason": "Modern reform continues the devotional and reforming impulse"
+    },
+    {
+      "topicId": "mt_58TXfg0Okt",
+      "prerequisiteId": "mt_t6BQm5x5Su",
+      "strength": "soft",
+      "reason": "Religious reform is part of the modern reform and awakening"
+    },
+    {
+      "topicId": "mt_zHARzQRiBE",
+      "prerequisiteId": "mt_iWPyUde6dq",
+      "strength": "soft",
+      "reason": "Classical literature is a feature of Indian culture"
+    },
+    {
+      "topicId": "mt_JNT3UUx7Nd",
+      "prerequisiteId": "mt_zHARzQRiBE",
+      "strength": "soft",
+      "reason": "Regional literature complements the classical Sanskrit tradition"
+    },
+    {
+      "topicId": "mt_7BG2AbuXDn",
+      "prerequisiteId": "mt_iWPyUde6dq",
+      "strength": "soft",
+      "reason": "Painting is an expression of Indian culture"
+    },
+    {
+      "topicId": "mt_EuGth6lA55",
+      "prerequisiteId": "mt_iWPyUde6dq",
+      "strength": "soft",
+      "reason": "Music and dance are expressions of Indian culture"
+    },
+    {
+      "topicId": "mt_OvdZUG9ara",
+      "prerequisiteId": "mt_iWPyUde6dq",
+      "strength": "soft",
+      "reason": "Architecture is an expression of Indian culture"
+    },
+    {
+      "topicId": "mt_OvdZUG9ara",
+      "prerequisiteId": "mt_fvAz0QwV5b",
+      "strength": "soft",
+      "reason": "Indian architecture includes the great Mughal monuments"
+    },
+    {
+      "topicId": "mt_nbirDKrAtk",
+      "prerequisiteId": "mt_EpCX1FgGqv",
+      "strength": "soft",
+      "reason": "Ancient Indian science flourished in the Gupta golden age"
+    },
+    {
+      "topicId": "mt_nbirDKrAtk",
+      "prerequisiteId": "mt_iWPyUde6dq",
+      "strength": "soft",
+      "reason": "India’s scientific heritage is part of its culture"
+    },
+    {
+      "topicId": "mt_F9MekLVt5d",
+      "prerequisiteId": "mt_nbirDKrAtk",
+      "strength": "soft",
+      "reason": "Medieval science builds on ancient Indian science"
+    },
+    {
+      "topicId": "mt_iDqc7SlTOy",
+      "prerequisiteId": "mt_F9MekLVt5d",
+      "strength": "soft",
+      "reason": "Modern Indian science continues the earlier tradition"
+    },
+    {
+      "topicId": "mt_accpGGdIgM",
+      "prerequisiteId": "mt_iWPyUde6dq",
+      "strength": "soft",
+      "reason": "India’s educational tradition is part of its culture"
+    },
+    {
+      "topicId": "mt_gxkthtRLEG",
+      "prerequisiteId": "mt_iWPyUde6dq",
+      "strength": "soft",
+      "reason": "Social structure is part of Indian culture"
+    },
+    {
+      "topicId": "mt_KraqV2LrXY",
+      "prerequisiteId": "mt_gxkthtRLEG",
+      "strength": "soft",
+      "reason": "Contemporary issues arise within Indian social structure"
+    },
+    {
+      "topicId": "mt_KraqV2LrXY",
+      "prerequisiteId": "mt_sfHoytwSwm",
+      "strength": "soft",
+      "reason": "Socio-cultural issues are set against India’s unity in diversity"
+    },
+    {
+      "topicId": "mt_JAXUqyRnYy",
+      "prerequisiteId": "mt_iWPyUde6dq",
+      "strength": "soft",
+      "reason": "The spread of Indian culture presupposes its distinctive features"
     }
   ]
 }

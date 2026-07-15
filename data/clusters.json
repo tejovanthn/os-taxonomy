@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 218,
+  "clusterCount": 225,
   "clusters": [
     {
       "subject": "English",
@@ -1309,6 +1309,48 @@
       "domain": "Work & Vocation",
       "ageRangeStart": 14,
       "summary": "Your teenager is learning how psychology guides working life — matching aptitudes and interests to jobs, preparing for a vocation, and how understanding people helps organisations."
+    },
+    {
+      "subject": "Indian Culture & Heritage",
+      "domain": "Understanding Culture",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning what culture is — a people’s shared way of life — and what makes Indian culture distinctive: its long continuity and its unity within great diversity."
+    },
+    {
+      "subject": "Indian Culture & Heritage",
+      "domain": "Religion & Philosophy",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is exploring India’s religious and philosophical heritage — the traditions of ancient India, the Bhakti and Sufi movements, and modern religious and social reform."
+    },
+    {
+      "subject": "Indian Culture & Heritage",
+      "domain": "Languages & Literature",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning about India’s literary heritage — the classical languages Sanskrit, Prakrit and Pali, and the rich literature of Tamil, Telugu, Kannada and other languages."
+    },
+    {
+      "subject": "Indian Culture & Heritage",
+      "domain": "Art & Architecture",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is exploring India’s arts — its painting from cave murals to miniatures, its classical and folk music and dance, and its great architecture across the ages."
+    },
+    {
+      "subject": "Indian Culture & Heritage",
+      "domain": "Science & Innovation",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning about India’s scientific heritage — ancient advances in maths, astronomy and medicine, and the achievements of Indian scientists from Aryabhata to Raman."
+    },
+    {
+      "subject": "Indian Culture & Heritage",
+      "domain": "Society & Education",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning about Indian society and its long tradition of education — from ancient universities like Nalanda to the social structure and issues of India today."
+    },
+    {
+      "subject": "Indian Culture & Heritage",
+      "domain": "India and the World",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning how Indian culture spread far beyond its borders — through trade, religion, art and ideas — across Asia and the wider world."
     }
   ]
 }

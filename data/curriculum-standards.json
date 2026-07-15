@@ -39712,7 +39712,7 @@
       "sourceUrl": "https://nios.ac.in/media/documents/seccurriculum2020.pdf",
       "textIncluded": true,
       "license": "NIOS Copyright Statement — reproduction permitted with prominent acknowledgment; see PROVENANCE.md",
-      "topicCount": 27,
+      "topicCount": 48,
       "topics": [
         {
           "key": "nios-sec-2020:222.M1.L1",
@@ -40063,6 +40063,279 @@
             "module": "VII. Yoga: A Way of Life",
             "lesson": "Controlling and Regulating the Mind",
             "description": "Understand yoga and meditation as ways of calming and regulating the mind."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M1.L1",
+          "code": "223.M1.L1",
+          "data": {
+            "title": "Culture: An Introduction",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "I. Culture",
+            "lesson": "Culture: An Introduction",
+            "description": "Understand the concept and meaning of culture and how it shapes a people’s way of life."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M1.L2",
+          "code": "223.M1.L2",
+          "data": {
+            "title": "Indian Culture",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "I. Culture",
+            "lesson": "Indian Culture",
+            "description": "Understand the salient features that make Indian culture distinct, and its continuity and diversity."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M2.L3",
+          "code": "223.M2.L3",
+          "data": {
+            "title": "Ancient India",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "II. History and Culture through the Ages",
+            "lesson": "Ancient India",
+            "description": "Trace the cultural development of ancient India — its civilisations, empires and achievements."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M2.L4",
+          "code": "223.M2.L4",
+          "data": {
+            "title": "Medieval India",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "II. History and Culture through the Ages",
+            "lesson": "Medieval India",
+            "description": "Trace the cultural development of medieval India — its rulers, art and cultural blending."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M2.L5",
+          "code": "223.M2.L5",
+          "data": {
+            "title": "Modern India",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "II. History and Culture through the Ages",
+            "lesson": "Modern India",
+            "description": "Trace the cultural development of modern India — colonial impact, reform and the national awakening."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M3.L6",
+          "code": "223.M3.L6",
+          "data": {
+            "title": "Indian Languages and Literature – I",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "III. Languages and Literature",
+            "lesson": "Indian Languages and Literature – I",
+            "description": "Understand the role of Sanskrit in ancient India and the literature of Sanskrit, Prakrit and Pali."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M3.L7",
+          "code": "223.M3.L7",
+          "data": {
+            "title": "Indian Languages and Literature – II",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "III. Languages and Literature",
+            "lesson": "Indian Languages and Literature – II",
+            "description": "Understand the rich Sangam literature in Tamil and the literature of Telugu, Kannada, Malayalam and other Indian languages."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M4.L8",
+          "code": "223.M4.L8",
+          "data": {
+            "title": "Religion and Philosophy in Ancient India",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "IV. Religion and Philosophy",
+            "lesson": "Religion and Philosophy in Ancient India",
+            "description": "Understand the major religious traditions and schools of philosophy that emerged in ancient India."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M4.L9",
+          "code": "223.M4.L9",
+          "data": {
+            "title": "Religion and Philosophy in Medieval India",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "IV. Religion and Philosophy",
+            "lesson": "Religion and Philosophy in Medieval India",
+            "description": "Understand medieval devotional movements — the Bhakti and Sufi traditions — and their message."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M4.L10",
+          "code": "223.M4.L10",
+          "data": {
+            "title": "Religious Reform Movements in Modern India",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "IV. Religion and Philosophy",
+            "lesson": "Religious Reform Movements in Modern India",
+            "description": "Understand the reform movements that arose in modern India to address ills within religion and society."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M5.L11",
+          "code": "223.M5.L11",
+          "data": {
+            "title": "Indian Painting",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "V. Painting, Performing Arts and Architecture",
+            "lesson": "Indian Painting",
+            "description": "Understand the traditions of Indian painting — from cave murals to miniatures and folk styles."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M5.L12",
+          "code": "223.M5.L12",
+          "data": {
+            "title": "Performing Arts: Music, Dance and Theatre",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "V. Painting, Performing Arts and Architecture",
+            "lesson": "Performing Arts: Music, Dance and Theatre",
+            "description": "Understand India’s performing arts — its classical and folk music, dance forms and theatre."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M5.L13",
+          "code": "223.M5.L13",
+          "data": {
+            "title": "Indian Architecture",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "V. Painting, Performing Arts and Architecture",
+            "lesson": "Indian Architecture",
+            "description": "Understand the styles of Indian architecture — temples, stupas, mosques and forts — across the ages."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M6.L14",
+          "code": "223.M6.L14",
+          "data": {
+            "title": "Science and Technology in India",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "VI. Science and Technology",
+            "lesson": "Science and Technology in India",
+            "description": "Understand India’s heritage of science and technology from ancient to modern times."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M6.L15",
+          "code": "223.M6.L15",
+          "data": {
+            "title": "Scientists of Ancient India",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "VI. Science and Technology",
+            "lesson": "Scientists of Ancient India",
+            "description": "Know the contributions of ancient Indian scientists and mathematicians such as Aryabhata and Sushruta."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M6.L16",
+          "code": "223.M6.L16",
+          "data": {
+            "title": "Science and Scientists of Medieval India",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "VI. Science and Technology",
+            "lesson": "Science and Scientists of Medieval India",
+            "description": "Know the scientific and technological achievements of medieval India."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M6.L17",
+          "code": "223.M6.L17",
+          "data": {
+            "title": "Scientists of Modern India",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "VI. Science and Technology",
+            "lesson": "Scientists of Modern India",
+            "description": "Know the contributions of modern Indian scientists such as Raman, Bose and Ramanujan."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M7.L18",
+          "code": "223.M7.L18",
+          "data": {
+            "title": "Education in India",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "VII. Education",
+            "lesson": "Education in India",
+            "description": "Understand the tradition of education in India — from ancient centres like Nalanda and Takshashila to the present."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M8.L19",
+          "code": "223.M8.L19",
+          "data": {
+            "title": "Indian Social Structure",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "VIII. Society",
+            "lesson": "Indian Social Structure",
+            "description": "Understand the structure of Indian society — family, community and its diversity."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M8.L20",
+          "code": "223.M8.L20",
+          "data": {
+            "title": "Socio-Cultural Issues in Contemporary India",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "VIII. Society",
+            "lesson": "Socio-Cultural Issues in Contemporary India",
+            "description": "Understand socio-cultural issues facing contemporary India and efforts to address them."
+          }
+        },
+        {
+          "key": "nios-sec-2020:223.M9.L21",
+          "code": "223.M9.L21",
+          "data": {
+            "title": "Spread of Indian Culture Abroad",
+            "level": "Secondary",
+            "subject": "Indian Culture & Heritage",
+            "courseCode": "223",
+            "module": "IX. Spread of Indian Culture",
+            "lesson": "Spread of Indian Culture Abroad",
+            "description": "Understand how Indian culture spread beyond its borders through trade, religion and ideas."
           }
         }
       ]

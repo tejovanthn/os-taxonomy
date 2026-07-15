@@ -8,6 +8,15 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### NIOS Secondary Curriculum 2020 — Indian Culture & Heritage (2026-07-15)
+- **Indian Culture & Heritage (Code 223)** → a new **Indian Culture & Heritage**
+  subject (11th subject). 21 lesson standards across 9 modules; **17 new
+  micro-topics** (Understanding Culture, Religion & Philosophy, Languages &
+  Literature, Art & Architecture, Science & Innovation, Society & Education,
+  India and the World), and **6 existing India-history topics aligned** for the
+  historical-development lessons (Vedic/Gupta/Sultanate/Mughal/Freedom/Reform).
+  21 edges, 7 clusters.
+
 ### NIOS Secondary Curriculum 2020 — Psychology (2026-07-15)
 
 Start of integrating the NIOS Secondary curriculum (classes 9–10, age 14–16),
