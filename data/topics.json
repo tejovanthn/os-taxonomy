@@ -10146,7 +10146,8 @@
       ],
       "assessmentPrompt": "Can {{name}} mark numbers on a number line and show what happens when they add or subtract — for example, jumping forward 35 places from 48?",
       "standards": [
-        "ccss-math:2.MD.6"
+        "ccss-math:2.MD.6",
+        "nios-obe-c:C103.L2"
       ]
     },
     {
@@ -18034,7 +18035,8 @@
       ],
       "assessmentPrompt": "Can {{name}} mark a number like 6,400 roughly in the right place on a number line that goes from 0 to 10,000 — and explain how they decided where to put it?",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/NPV/6"
+        "uk-nc-2013:Ma/KS2/Y4/NPV/6",
+        "nios-obe-c:C103.L2"
       ]
     },
     {
@@ -32005,7 +32007,9 @@
       ],
       "assessmentPrompt": "Can {{name}} type some text in a word processor, fix mistakes and tidy it up, and save the document so it can be opened again?",
       "standards": [
-        "nios-obe-a:A104.L6"
+        "nios-obe-a:A104.L6",
+        "nios-obe-b:B104.L2",
+        "nios-obe-c:C104.L2"
       ]
     },
     {
@@ -32313,7 +32317,8 @@
         "nios-obe-b:B102.L8.1",
         "nios-obe-b:B102.L8.2",
         "nios-obe-b:B102.L8.3",
-        "nios-obe-c:C102.L11"
+        "nios-obe-c:C102.L11",
+        "nios-obe-c:C105.L13"
       ]
     },
     {
@@ -34309,7 +34314,8 @@
       ],
       "assessmentPrompt": "Can {{name}} describe the steps a farmer follows to grow a crop, from preparing the soil to the harvest?",
       "standards": [
-        "nios-obe-b:B102.L8.2"
+        "nios-obe-b:B102.L8.2",
+        "nios-obe-c:C105.L13"
       ]
     },
     {

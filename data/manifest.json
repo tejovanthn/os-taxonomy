@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-07-15T08:10:34.082Z",
+  "generatedAt": "2026-07-15T09:50:11.445Z",
   "codesOnlySources": [
     "c3-social-studies",
     "ib-pyp-pspe",
@@ -24,13 +24,13 @@
     "dependencies": 3412,
     "curricula": 10,
     "curriculumStandards": 3450,
-    "topicStandardLinks": 2294,
+    "topicStandardLinks": 2300,
     "clusters": 211
   },
   "files": {
     "topics.json": {
-      "bytes": 1814092,
-      "sha256": "25b2505d7a44c0d346f03730af41c91d93ad705a14303a1459374e890a5e9825"
+      "bytes": 1814274,
+      "sha256": "c77a6536ff5b0e86232df915c862538a9c0c095471ad0c8372e75b584de224e9"
     },
     "dependencies.json": {
       "bytes": 733553,
