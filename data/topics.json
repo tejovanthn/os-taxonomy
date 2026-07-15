@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 1780,
+  "topicCount": 1790,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -10522,7 +10522,8 @@
         "uk-nc-2013:KS3.Maths.Alg.1d",
         "uk-nc-2013:KS3.Maths.Alg.1e",
         "uk-nc-2013:KS3.Maths.Alg.1f",
-        "nios-obe-c:C103.L4"
+        "nios-obe-c:C103.L4",
+        "nios-sec-2020:211.M1.L3"
       ]
     },
     {
@@ -10566,7 +10567,8 @@
         "ccss-math:6.EE.3",
         "ccss-math:6.EE.4",
         "uk-nc-2013:KS3.Maths.Alg.4a",
-        "nios-obe-c:C103.L4"
+        "nios-obe-c:C103.L4",
+        "nios-sec-2020:211.M1.L3"
       ]
     },
     {
@@ -10610,7 +10612,8 @@
         "ccss-math:6.EE.3",
         "ccss-math:7.EE.1",
         "uk-nc-2013:KS3.Maths.Alg.4b",
-        "nios-obe-c:C103.L5"
+        "nios-obe-c:C103.L5",
+        "nios-sec-2020:211.M1.L4"
       ]
     },
     {
@@ -10654,7 +10657,8 @@
       "standards": [
         "ccss-math:8.F.1",
         "uk-nc-2013:KS3.Maths.Alg.14",
-        "uk-nc-2013:KS3.Maths.Alg.16"
+        "uk-nc-2013:KS3.Maths.Alg.16",
+        "nios-sec-2020:211.M1.L7"
       ]
     },
     {
@@ -10703,7 +10707,8 @@
         "ccss-math:8.EE.7a",
         "ccss-math:8.EE.7b",
         "uk-nc-2013:KS3.Maths.Alg.7",
-        "nios-obe-c:C103.L6"
+        "nios-obe-c:C103.L6",
+        "nios-sec-2020:211.M1.L5"
       ]
     },
     {
@@ -10746,7 +10751,8 @@
       "standards": [
         "ccss-math:7.EE.1",
         "uk-nc-2013:KS3.Maths.Alg.4c",
-        "nios-obe-c:C103.L5"
+        "nios-obe-c:C103.L5",
+        "nios-sec-2020:211.M1.L4"
       ]
     },
     {
@@ -10791,7 +10797,8 @@
       "assessmentPrompt": "If {{name}} is given the sequence 4, 7, 10, 13…, can they find a formula for the nth term — and use it to check whether, say, 100 is in the sequence?",
       "standards": [
         "ccss-math:8.F.4",
-        "uk-nc-2013:KS3.Maths.Alg.15"
+        "uk-nc-2013:KS3.Maths.Alg.15",
+        "nios-sec-2020:211.M1.L7"
       ]
     },
     {
@@ -10900,7 +10907,8 @@
         "ccss-math:8.F.3",
         "ccss-math:8.F.5",
         "uk-nc-2013:KS3.Maths.Alg.12",
-        "uk-nc-2013:KS3.Maths.Alg.9"
+        "uk-nc-2013:KS3.Maths.Alg.9",
+        "nios-sec-2020:211.M1.L6"
       ]
     },
     {
@@ -10922,7 +10930,8 @@
       "standards": [
         "ccss-math:8.EE.8a",
         "ccss-math:8.EE.8b",
-        "uk-nc-2013:KS3.Maths.Alg.10"
+        "uk-nc-2013:KS3.Maths.Alg.10",
+        "nios-sec-2020:211.M1.L5"
       ]
     },
     {
@@ -11354,7 +11363,8 @@
       "assessmentPrompt": "Can {{name}} choose the right type of chart for some data — for example, a bar chart for favourite colours or a line graph for temperature over a week — and draw it correctly?",
       "standards": [
         "nios-obe-b:B103.L8",
-        "nios-obe-c:C103.L18"
+        "nios-obe-c:C103.L18",
+        "nios-sec-2020:211.M6.L24"
       ]
     },
     {
@@ -11393,7 +11403,8 @@
       "assessmentPrompt": "If {{name}} sees a line graph showing how a plant's height changed over several weeks, can they read off values, spot when it grew fastest, and find the difference between two points?",
       "standards": [
         "nios-obe-b:B103.L8",
-        "nios-obe-c:C103.L18"
+        "nios-obe-c:C103.L18",
+        "nios-sec-2020:211.M6.L24"
       ]
     },
     {
@@ -11450,7 +11461,9 @@
         "Find a missing data value given the mean and all other values"
       ],
       "assessmentPrompt": "If the family scored 6, 8, 7, 5, and 9 on a board game over five rounds, can {{name}} work out the mean (average) score?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:211.M6.L25"
+      ]
     },
     {
       "id": "mt_bESTSBB0wK",
@@ -13249,7 +13262,8 @@
       "assessmentPrompt": "If {{name}} looks at a set of railway tracks or a window frame, can they point to which lines are parallel (never crossing) and which are perpendicular (meeting at a right angle)?",
       "standards": [
         "uk-nc-2013:Ma/KS2/Y3/GPS/4",
-        "nios-obe-c:C103.L11"
+        "nios-obe-c:C103.L11",
+        "nios-sec-2020:211.M3.L10"
       ]
     },
     {
@@ -13365,7 +13379,9 @@
         "Identify the coordinates of all vertices of a shape plotted on a grid"
       ],
       "assessmentPrompt": "If {{name}} is playing a grid-based treasure map game, can they correctly say where the treasure is using two numbers — like \"three across and four up\" — from the corner?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:211.M3.L19"
+      ]
     },
     {
       "id": "mt_hR2Y7NhMSY",
@@ -13401,7 +13417,9 @@
         "Identify which of several given nets will fold into a specific 3-D shape and explain why the others won't"
       ],
       "assessmentPrompt": "If {{name}} is given a flat T-shaped piece of card with six squares, can they tell you — before folding — that it makes a cube, and point out which square will become each face?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:211.M4.L21"
+      ]
     },
     {
       "id": "mt_SH7QgFl8-v",
@@ -13582,7 +13600,8 @@
       ],
       "assessmentPrompt": "If {{name}} is given a piece of paper and a ruler, can they draw a line segment, mark a point, and then draw another line through that point that runs perfectly parallel to the first?",
       "standards": [
-        "nios-obe-c:C103.L10"
+        "nios-obe-c:C103.L10",
+        "nios-sec-2020:211.M3.L10"
       ]
     },
     {
@@ -13823,7 +13842,8 @@
       "assessmentPrompt": "If you give {{name}} a round plate and a ruler, can they measure the diameter — and explain how the radius compares to the diameter?",
       "standards": [
         "nios-obe-b:B103.L7",
-        "nios-obe-c:C103.L14"
+        "nios-obe-c:C103.L14",
+        "nios-sec-2020:211.M3.L15"
       ]
     },
     {
@@ -13968,7 +13988,8 @@
         "ccss-math:8.G.1b",
         "ccss-math:8.G.1c",
         "ccss-math:8.G.3",
-        "uk-nc-2013:KS3.Maths.Geo.8"
+        "uk-nc-2013:KS3.Maths.Geo.8",
+        "nios-sec-2020:211.M3.L19"
       ]
     },
     {
@@ -14014,7 +14035,9 @@
         "ccss-math:7.G.2",
         "uk-nc-2013:KS3.Maths.Geo.7",
         "nios-obe-c:C103.L12",
-        "nios-obe-c:C103.L13"
+        "nios-obe-c:C103.L13",
+        "nios-sec-2020:211.M3.L11",
+        "nios-sec-2020:211.M3.L13"
       ]
     },
     {
@@ -14121,7 +14144,8 @@
         "ccss-math:7.G.4",
         "uk-nc-2013:KS3.Maths.Geo.2",
         "nios-obe-b:B103.L6",
-        "nios-obe-c:C103.L16"
+        "nios-obe-c:C103.L16",
+        "nios-sec-2020:211.M4.L20"
       ]
     },
     {
@@ -16251,7 +16275,8 @@
       "assessmentPrompt": "If {{name}} is cutting triangular pieces of cloth where the base is 8 cm and the height is 5 cm, can they use a formula to work out the area of each piece?",
       "standards": [
         "nios-obe-b:B103.L6",
-        "nios-obe-c:C103.L16"
+        "nios-obe-c:C103.L16",
+        "nios-sec-2020:211.M4.L20"
       ]
     },
     {
@@ -18504,7 +18529,8 @@
       "standards": [
         "ccss-math:8.EE.2",
         "uk-nc-2013:KS3.Maths.Num.7",
-        "nios-obe-c:C103.L3"
+        "nios-obe-c:C103.L3",
+        "nios-sec-2020:211.M1.L2"
       ]
     },
     {
@@ -18677,7 +18703,9 @@
         "Explain why increasing the number of favourable outcomes increases the probability"
       ],
       "assessmentPrompt": "If there are 3 red and 7 blue balls in a bag, can {{name}} work out the probability of picking a red one and express it as a fraction in its simplest form?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:211.M6.L26"
+      ]
     },
     {
       "id": "mt_-bMnJcPJy8",
@@ -18795,7 +18823,8 @@
       "assessmentPrompt": "Can {{name}} explain that probability goes from 0 (impossible) to 1 (certain), place events on that scale as numbers, and tell you whether a game is fair or not?",
       "standards": [
         "ccss-math:7.SP.5",
-        "uk-nc-2013:KS3.Maths.Prob.1"
+        "uk-nc-2013:KS3.Maths.Prob.1",
+        "nios-sec-2020:211.M6.L26"
       ]
     },
     {
@@ -18916,7 +18945,8 @@
       ],
       "assessmentPrompt": "If a jumper originally costs £40 and is 15% off, can {{name}} work out how much the discount is and what the sale price would be?",
       "standards": [
-        "nios-obe-c:C103.L8"
+        "nios-obe-c:C103.L8",
+        "nios-sec-2020:211.M2.L8"
       ]
     },
     {
@@ -18956,7 +18986,8 @@
       ],
       "assessmentPrompt": "If {{name}} has a scale drawing where 1 cm represents 5 m, and a room measures 3.5 cm on the plan, can they work out the real length of the room?",
       "standards": [
-        "nios-obe-c:C103.L15"
+        "nios-obe-c:C103.L15",
+        "nios-sec-2020:211.M3.L14"
       ]
     },
     {
@@ -32679,7 +32710,9 @@
       ],
       "assessmentPrompt": "Can {{name}} work out the simple interest on a sum of money, and explain how compound interest is different?",
       "standards": [
-        "nios-obe-c:C103.L9"
+        "nios-obe-c:C103.L9",
+        "nios-sec-2020:211.M2.L8",
+        "nios-sec-2020:211.M2.L9"
       ]
     },
     {
@@ -35401,6 +35434,207 @@
       "assessmentPrompt": "Can {{name}} explain how Indian culture spread to other lands — through trade and the spread of religions like Buddhism?",
       "standards": [
         "nios-sec-2020:223.M9.L21"
+      ]
+    },
+    {
+      "id": "mt_sORtAFxvlB",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Number Representation & Place Value",
+      "name": "Rational and Irrational Numbers",
+      "description": "Understand that numbers split into rational numbers (which can be written as a fraction) and irrational numbers (like √2 or π, whose decimals never end or repeat), and that together they fill the number line.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Classify a number as rational or irrational",
+        "Give an example of an irrational number and explain why",
+        "Place rational and irrational numbers on a number line"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the difference between rational numbers (which can be written as fractions) and irrational numbers like √2 or π?",
+      "standards": [
+        "nios-sec-2020:211.M1.L1"
+      ]
+    },
+    {
+      "id": "mt_cyTv9Ajw49",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Solving Quadratic Equations",
+      "description": "Solve quadratic equations (equations with a squared term) — by factorising and by using the quadratic formula — and understand what the solutions (roots) mean.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Recognise a quadratic equation",
+        "Solve a quadratic by factorising",
+        "Use the quadratic formula to find the roots"
+      ],
+      "assessmentPrompt": "Can {{name}} solve a quadratic equation — one with an x² term — by factorising or using the formula?",
+      "standards": [
+        "nios-sec-2020:211.M1.L6"
+      ]
+    },
+    {
+      "id": "mt_C1EJxERW34",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "Congruence of Triangles",
+      "description": "Understand that two triangles are congruent when they are exactly the same shape and size, and use the criteria (SSS, SAS, ASA, RHS) to prove congruence.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what it means for triangles to be congruent",
+        "State the congruence criteria (SSS, SAS, ASA, RHS)",
+        "Use a criterion to decide whether two triangles are congruent"
+      ],
+      "assessmentPrompt": "Can {{name}} explain when two triangles are congruent, and use a rule like SSS or SAS to prove it?",
+      "standards": [
+        "nios-sec-2020:211.M3.L11",
+        "nios-sec-2020:211.M3.L12"
+      ]
+    },
+    {
+      "id": "mt_GglXLxaYgQ",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "Angles in a Circle",
+      "description": "Understand the angle properties of circles — the angle at the centre is twice the angle at the circumference, angles in the same segment are equal, and opposite angles of a cyclic quadrilateral sum to 180°.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "State the relationship between angles at the centre and circumference",
+        "Explain that angles in the same segment are equal",
+        "Use the cyclic-quadrilateral angle property"
+      ],
+      "assessmentPrompt": "Can {{name}} use the angle rules of circles — like the angle at the centre being twice the angle at the edge — to find missing angles?",
+      "standards": [
+        "nios-sec-2020:211.M3.L16"
+      ]
+    },
+    {
+      "id": "mt_t3ANLmY5le",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "Tangents to a Circle",
+      "description": "Understand secants and tangents to a circle — that a tangent touches at one point and is perpendicular to the radius there, and that two tangents from a point are equal in length.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguish a tangent from a secant",
+        "Explain that a tangent is perpendicular to the radius at the point of contact",
+        "Use the equal-tangents property"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what a tangent to a circle is and that it meets the radius at a right angle?",
+      "standards": [
+        "nios-sec-2020:211.M3.L17"
+      ]
+    },
+    {
+      "id": "mt_AFH9ZAZxKC",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "Geometric Constructions",
+      "description": "Use a ruler and compass to make accurate geometric constructions — bisecting lines and angles, constructing perpendiculars, and drawing triangles to given measurements.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Bisect a line segment and an angle with ruler and compass",
+        "Construct a perpendicular to a line",
+        "Construct a triangle from given measurements"
+      ],
+      "assessmentPrompt": "Can {{name}} use a compass and ruler to accurately bisect an angle or construct a triangle?",
+      "standards": [
+        "nios-sec-2020:211.M3.L18"
+      ]
+    },
+    {
+      "id": "mt_0MbPqx8PCp",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Measurement",
+      "name": "Surface Area and Volume of Solids",
+      "description": "Calculate the surface area and volume of solid shapes — cuboids, cylinders, cones and spheres — using the appropriate formulae, and apply them to real problems.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Calculate the volume of a cuboid and a cylinder",
+        "Calculate the surface area of a solid",
+        "Apply surface area or volume to a real-world problem"
+      ],
+      "assessmentPrompt": "Can {{name}} work out the surface area and volume of solids like a cylinder or cone using the right formulae?",
+      "standards": [
+        "nios-sec-2020:211.M4.L21"
+      ]
+    },
+    {
+      "id": "mt_M2nFDa7tax",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Trigonometry",
+      "name": "Introduction to Trigonometry",
+      "description": "Understand trigonometry as the study of the relationships between the sides and angles of a right-angled triangle, and the idea of naming sides as opposite, adjacent and hypotenuse relative to an angle.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what trigonometry studies",
+        "Identify the opposite, adjacent and hypotenuse for an angle in a right triangle",
+        "Explain why side ratios stay the same for a given angle"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what trigonometry is about — the link between the sides and angles of a right-angled triangle?",
+      "standards": [
+        "nios-sec-2020:211.M5.L22"
+      ]
+    },
+    {
+      "id": "mt_RiJ6OdRsmw",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Trigonometry",
+      "name": "Trigonometric Ratios",
+      "description": "Understand the trigonometric ratios sine, cosine and tangent as ratios of the sides of a right triangle, and know their values for the special angles 0°, 30°, 45°, 60° and 90°.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Define sine, cosine and tangent as side ratios",
+        "Use a trig ratio to find an unknown side",
+        "Recall the ratios for special angles like 30°, 45° and 60°"
+      ],
+      "assessmentPrompt": "Can {{name}} use sine, cosine and tangent to find a missing side of a right-angled triangle?",
+      "standards": [
+        "nios-sec-2020:211.M5.L23"
+      ]
+    },
+    {
+      "id": "mt_dbsLUDDBRW",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Data & Statistics",
+      "name": "Median and Mode",
+      "description": "Understand the median (the middle value) and the mode (the most common value) as measures of central tendency, and choose the right average for a set of data.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Find the median of a set of data",
+        "Find the mode of a set of data",
+        "Explain when the median or mode is a better average than the mean"
+      ],
+      "assessmentPrompt": "Can {{name}} find the median and mode of a set of numbers, and explain how they differ from the mean?",
+      "standards": [
+        "nios-sec-2020:211.M6.L25"
       ]
     }
   ]

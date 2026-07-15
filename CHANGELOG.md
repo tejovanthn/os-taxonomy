@@ -8,6 +8,16 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### NIOS Secondary Curriculum 2020 — Mathematics (2026-07-15)
+- **Mathematics (Code 211)** — align-heavy. 26 lesson standards across 6 modules;
+  **27 existing Maths topics aligned** (algebra, percentages/interest, lines &
+  angles, similarity, circles, coordinates, area, data, probability), and **10
+  new secondary micro-topics** for the genuine gaps: rational & irrational
+  numbers, solving quadratic equations, congruence of triangles, circle angle
+  theorems, tangents, ruler-and-compass constructions, surface area & volume of
+  solids, and **a new Trigonometry domain** (introduction + trig ratios), plus
+  median & mode. 14 edges, 6 clusters.
+
 ### NIOS Secondary Curriculum 2020 — Indian Culture & Heritage (2026-07-15)
 - **Indian Culture & Heritage (Code 223)** → a new **Indian Culture & Heritage**
   subject (11th subject). 21 lesson standards across 9 modules; **17 new

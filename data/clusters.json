@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 225,
+  "clusterCount": 231,
   "clusters": [
     {
       "subject": "English",
@@ -1351,6 +1351,42 @@
       "domain": "India and the World",
       "ageRangeStart": 14,
       "summary": "Your teenager is learning how Indian culture spread far beyond its borders — through trade, religion, art and ideas — across Asia and the wider world."
+    },
+    {
+      "subject": "Mathematics",
+      "domain": "Trigonometry",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is starting trigonometry — the study of how the sides and angles of a right-angled triangle relate, using sine, cosine and tangent to find missing sides and angles."
+    },
+    {
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is tackling secondary geometry — congruent triangles and how to prove them, the angle and tangent properties of circles, and accurate ruler-and-compass constructions."
+    },
+    {
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is deepening algebra — solving quadratic equations by factorising and by formula, building on graphs and expressions."
+    },
+    {
+      "subject": "Mathematics",
+      "domain": "Measurement",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is calculating the surface area and volume of solid shapes — cuboids, cylinders, cones and spheres — and applying them to real problems."
+    },
+    {
+      "subject": "Mathematics",
+      "domain": "Data & Statistics",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is working with averages — the mean, median and mode — and choosing the right one to summarise a set of data."
+    },
+    {
+      "subject": "Mathematics",
+      "domain": "Number Representation & Place Value",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is extending the number system to irrational numbers like √2 and π, and seeing how rational and irrational numbers together fill the number line."
     }
   ]
 }

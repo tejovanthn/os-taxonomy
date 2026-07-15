@@ -39712,7 +39712,7 @@
       "sourceUrl": "https://nios.ac.in/media/documents/seccurriculum2020.pdf",
       "textIncluded": true,
       "license": "NIOS Copyright Statement — reproduction permitted with prominent acknowledgment; see PROVENANCE.md",
-      "topicCount": 48,
+      "topicCount": 74,
       "topics": [
         {
           "key": "nios-sec-2020:222.M1.L1",
@@ -40336,6 +40336,344 @@
             "module": "IX. Spread of Indian Culture",
             "lesson": "Spread of Indian Culture Abroad",
             "description": "Understand how Indian culture spread beyond its borders through trade, religion and ideas."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M1.L1",
+          "code": "211.M1.L1",
+          "data": {
+            "title": "Number System",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "I. Algebra",
+            "lesson": "Number System",
+            "description": "Understand the number system including rational and irrational numbers and their representation on the number line."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M1.L2",
+          "code": "211.M1.L2",
+          "data": {
+            "title": "Exponents and Radicals",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "I. Algebra",
+            "lesson": "Exponents and Radicals",
+            "description": "Understand exponents, the laws of exponents, and radicals (roots)."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M1.L3",
+          "code": "211.M1.L3",
+          "data": {
+            "title": "Algebraic Expressions and Polynomials",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "I. Algebra",
+            "lesson": "Algebraic Expressions and Polynomials",
+            "description": "Work with algebraic expressions and polynomials — terms, degree, and operations."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M1.L4",
+          "code": "211.M1.L4",
+          "data": {
+            "title": "Special Products and Factorization",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "I. Algebra",
+            "lesson": "Special Products and Factorization",
+            "description": "Use special products (identities) and factorise algebraic expressions."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M1.L5",
+          "code": "211.M1.L5",
+          "data": {
+            "title": "Linear Equations",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "I. Algebra",
+            "lesson": "Linear Equations",
+            "description": "Solve linear equations in one and two variables and simultaneous linear equations."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M1.L6",
+          "code": "211.M1.L6",
+          "data": {
+            "title": "Quadratic Equations",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "I. Algebra",
+            "lesson": "Quadratic Equations",
+            "description": "Understand and solve quadratic equations by factorisation and the quadratic formula."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M1.L7",
+          "code": "211.M1.L7",
+          "data": {
+            "title": "Arithmetic Progressions",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "I. Algebra",
+            "lesson": "Arithmetic Progressions",
+            "description": "Understand arithmetic progressions and find their terms and sums."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M2.L8",
+          "code": "211.M2.L8",
+          "data": {
+            "title": "Percentage and its Applications",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "II. Commercial Mathematics",
+            "lesson": "Percentage and its Applications",
+            "description": "Apply percentages to profit and loss, discount, and simple and compound interest."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M2.L9",
+          "code": "211.M2.L9",
+          "data": {
+            "title": "Instalment Buying",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "II. Commercial Mathematics",
+            "lesson": "Instalment Buying",
+            "description": "Understand instalment buying and calculate instalments and interest."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M3.L10",
+          "code": "211.M3.L10",
+          "data": {
+            "title": "Lines and Angles",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "III. Geometry",
+            "lesson": "Lines and Angles",
+            "description": "Understand lines, angles and the relationships between angles formed by intersecting and parallel lines."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M3.L11",
+          "code": "211.M3.L11",
+          "data": {
+            "title": "Congruence of Triangles",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "III. Geometry",
+            "lesson": "Congruence of Triangles",
+            "description": "Understand congruence of triangles and the criteria for it (SSS, SAS, ASA, RHS)."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M3.L12",
+          "code": "211.M3.L12",
+          "data": {
+            "title": "Concurrent Lines",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "III. Geometry",
+            "lesson": "Concurrent Lines",
+            "description": "Understand concurrent lines in a triangle — medians, altitudes and their points of concurrency."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M3.L13",
+          "code": "211.M3.L13",
+          "data": {
+            "title": "Quadrilaterals",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "III. Geometry",
+            "lesson": "Quadrilaterals",
+            "description": "Understand the properties of quadrilaterals and special quadrilaterals."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M3.L14",
+          "code": "211.M3.L14",
+          "data": {
+            "title": "Similarity of Triangles",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "III. Geometry",
+            "lesson": "Similarity of Triangles",
+            "description": "Understand similarity of triangles and the criteria for it."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M3.L15",
+          "code": "211.M3.L15",
+          "data": {
+            "title": "Circles",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "III. Geometry",
+            "lesson": "Circles",
+            "description": "Understand circles and their parts — centre, radius, chord, arc and sector."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M3.L16",
+          "code": "211.M3.L16",
+          "data": {
+            "title": "Angles in a Circle and Cyclic Quadrilaterals",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "III. Geometry",
+            "lesson": "Angles in a Circle and Cyclic Quadrilaterals",
+            "description": "Understand the angle properties of circles and cyclic quadrilaterals."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M3.L17",
+          "code": "211.M3.L17",
+          "data": {
+            "title": "Secants, Tangents and their Properties",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "III. Geometry",
+            "lesson": "Secants, Tangents and their Properties",
+            "description": "Understand secants and tangents to a circle and their properties."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M3.L18",
+          "code": "211.M3.L18",
+          "data": {
+            "title": "Constructions",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "III. Geometry",
+            "lesson": "Constructions",
+            "description": "Perform geometric constructions using ruler and compass."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M3.L19",
+          "code": "211.M3.L19",
+          "data": {
+            "title": "Co-ordinate Geometry",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "III. Geometry",
+            "lesson": "Co-ordinate Geometry",
+            "description": "Plot points and understand basic coordinate geometry, including distance between points."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M4.L20",
+          "code": "211.M4.L20",
+          "data": {
+            "title": "Perimeter and Area of Plane Figures",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "IV. Mensuration",
+            "lesson": "Perimeter and Area of Plane Figures",
+            "description": "Find the perimeter and area of plane figures including triangles, quadrilaterals and circles."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M4.L21",
+          "code": "211.M4.L21",
+          "data": {
+            "title": "Surface Area and Volume of Solids",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "IV. Mensuration",
+            "lesson": "Surface Area and Volume of Solids",
+            "description": "Find the surface area and volume of solids — cuboid, cylinder, cone and sphere."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M5.L22",
+          "code": "211.M5.L22",
+          "data": {
+            "title": "Introduction to Trigonometry",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "V. Trigonometry",
+            "lesson": "Introduction to Trigonometry",
+            "description": "Understand trigonometry as the study of relationships between the sides and angles of a right triangle."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M5.L23",
+          "code": "211.M5.L23",
+          "data": {
+            "title": "Trigonometric Ratios of Special Angles",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "V. Trigonometry",
+            "lesson": "Trigonometric Ratios of Special Angles",
+            "description": "Understand the trigonometric ratios sine, cosine and tangent, and their values for special angles."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M6.L24",
+          "code": "211.M6.L24",
+          "data": {
+            "title": "Data and their Representations",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "VI. Statistics",
+            "lesson": "Data and their Representations",
+            "description": "Collect, organise and represent data using tables, bar graphs, histograms and pie charts."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M6.L25",
+          "code": "211.M6.L25",
+          "data": {
+            "title": "Measures of Central Tendency",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "VI. Statistics",
+            "lesson": "Measures of Central Tendency",
+            "description": "Understand and calculate the mean, median and mode of data."
+          }
+        },
+        {
+          "key": "nios-sec-2020:211.M6.L26",
+          "code": "211.M6.L26",
+          "data": {
+            "title": "Introduction to Probability",
+            "level": "Secondary",
+            "subject": "Mathematics",
+            "courseCode": "211",
+            "module": "VI. Statistics",
+            "lesson": "Introduction to Probability",
+            "description": "Understand probability as a measure of the likelihood of an event."
           }
         }
       ]

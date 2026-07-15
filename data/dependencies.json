@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3456,
+  "edgeCount": 3470,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -20738,6 +20738,90 @@
       "prerequisiteId": "mt_iWPyUde6dq",
       "strength": "soft",
       "reason": "The spread of Indian culture presupposes its distinctive features"
+    },
+    {
+      "topicId": "mt_cyTv9Ajw49",
+      "prerequisiteId": "mt_GZuoYaDdWd",
+      "strength": "hard",
+      "reason": "Solving quadratics builds on understanding quadratic graphs"
+    },
+    {
+      "topicId": "mt_cyTv9Ajw49",
+      "prerequisiteId": "mt_uESbzWCZIq",
+      "strength": "soft",
+      "reason": "Solving quadratics by factorising builds on factorising expressions"
+    },
+    {
+      "topicId": "mt_sORtAFxvlB",
+      "prerequisiteId": "mt_hCVPYlF-7Y",
+      "strength": "soft",
+      "reason": "Irrational numbers like √2 build on square and cube numbers"
+    },
+    {
+      "topicId": "mt_C1EJxERW34",
+      "prerequisiteId": "mt_DNYQLahbfa",
+      "strength": "soft",
+      "reason": "Congruence builds on the properties of triangles"
+    },
+    {
+      "topicId": "mt_GglXLxaYgQ",
+      "prerequisiteId": "mt_xq3YHZ2zeR",
+      "strength": "hard",
+      "reason": "Circle angle theorems build on knowing the parts of a circle"
+    },
+    {
+      "topicId": "mt_t3ANLmY5le",
+      "prerequisiteId": "mt_xq3YHZ2zeR",
+      "strength": "hard",
+      "reason": "Tangents build on knowing the parts of a circle"
+    },
+    {
+      "topicId": "mt_t3ANLmY5le",
+      "prerequisiteId": "mt_GglXLxaYgQ",
+      "strength": "soft",
+      "reason": "Tangent properties are studied alongside circle angle theorems"
+    },
+    {
+      "topicId": "mt_AFH9ZAZxKC",
+      "prerequisiteId": "mt_QysgF57dxh",
+      "strength": "soft",
+      "reason": "Constructions build on understanding lines, rays and angles"
+    },
+    {
+      "topicId": "mt_0MbPqx8PCp",
+      "prerequisiteId": "mt_vnJEztczji",
+      "strength": "hard",
+      "reason": "Surface area of solids builds on nets of 3-D shapes"
+    },
+    {
+      "topicId": "mt_0MbPqx8PCp",
+      "prerequisiteId": "mt_svFa6_mjO_",
+      "strength": "soft",
+      "reason": "Volume of a cylinder builds on the area of a circle"
+    },
+    {
+      "topicId": "mt_M2nFDa7tax",
+      "prerequisiteId": "mt_2OtRUM_0zW",
+      "strength": "soft",
+      "reason": "Trigonometry builds on the similarity of triangles"
+    },
+    {
+      "topicId": "mt_M2nFDa7tax",
+      "prerequisiteId": "mt_DNYQLahbfa",
+      "strength": "soft",
+      "reason": "Trigonometry uses the properties of right triangles"
+    },
+    {
+      "topicId": "mt_RiJ6OdRsmw",
+      "prerequisiteId": "mt_M2nFDa7tax",
+      "strength": "hard",
+      "reason": "The trig ratios build on the introduction to trigonometry"
+    },
+    {
+      "topicId": "mt_dbsLUDDBRW",
+      "prerequisiteId": "mt_Cg8VPguS_V",
+      "strength": "hard",
+      "reason": "Median and mode build on calculating the mean"
     }
   ]
 }
