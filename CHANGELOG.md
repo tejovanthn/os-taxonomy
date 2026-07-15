@@ -8,6 +8,15 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### NIOS Secondary Curriculum 2020 — Business Studies, Accountancy, Home Science, Visual Arts, Music (2026-07-15)
+
+The brand-new secondary subjects — each a new subject the taxonomy had nothing for. Completes all 13 text-readable NIOS Secondary subjects.
+- **Business Studies (215)** → new **Business Studies** subject: 13 new micro-topics (business & commerce, forms of organisation, business services, trade & marketing, consumer protection, careers) + 5 aligned to Life Skills.
+- **Accountancy (224)** → new **Accountancy** subject: 10 new micro-topics (accounting basics, the accounting equation, double-entry & journal, ledger & trial balance, depreciation, financial statements, computerised accounting).
+- **Home Science (216)** → new **Home Science** subject: 9 new (meal planning, food preservation, clothing care, resource management, consumer education, child development, family, first aid) + 6 aligned to Science/Life Skills/hygiene.
+- **Painting (225)** → new **Visual Arts** subject: 8 new (elements of art, colour, composition, drawing, still life/landscape, modern & contemporary Indian art) + 1 aligned.
+- **Hindustani Music (242) + Carnatic Music (243)** → a single new **Music** subject: 8 new (shruti/svara/saptak, raga, tala, Hindustani forms & notation, Carnatic gamaka/forms/composers) + Indian-Culture alignment.
+
 ### NIOS Secondary Curriculum 2020 — Science, Social Science, Economics, English (2026-07-15)
 
 The align-heavy secondary subjects — mostly aligning existing topics, minting only genuine secondary gaps.

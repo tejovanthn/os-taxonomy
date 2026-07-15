@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 247,
+  "clusterCount": 272,
   "clusters": [
     {
       "subject": "English",
@@ -1483,6 +1483,156 @@
       "domain": "Speaking & Listening",
       "ageRangeStart": 14,
       "summary": "Your teenager is learning to speak in formal settings — taking part in discussions and debates and giving short prepared talks."
+    },
+    {
+      "subject": "Business Studies",
+      "domain": "Foundations of Business",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning the foundations of business — what business is and its objectives, and the two arms of industry and commerce."
+    },
+    {
+      "subject": "Business Studies",
+      "domain": "Forms of Business Organisation",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning how businesses are owned and organised — from sole proprietorships and partnerships to companies and cooperatives."
+    },
+    {
+      "subject": "Business Studies",
+      "domain": "Business Services",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning the services that support business — transport and warehousing, communication and postal services, banking and insurance, and outsourcing."
+    },
+    {
+      "subject": "Business Studies",
+      "domain": "Trade and Marketing",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning how goods reach customers — trade and channels of distribution, retail, and how advertising and promotion drive sales."
+    },
+    {
+      "subject": "Business Studies",
+      "domain": "Consumer Protection",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning about consumer rights and how consumers are protected and can seek redress when treated unfairly."
+    },
+    {
+      "subject": "Business Studies",
+      "domain": "Career and Enterprise",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is thinking about careers and enterprise — how to choose a career that fits their strengths, and what it takes to run a business."
+    },
+    {
+      "subject": "Accountancy",
+      "domain": "Accounting Basics",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning the foundations of accounting — what it is, the concepts that guide it, and the accounting equation that keeps every transaction in balance."
+    },
+    {
+      "subject": "Accountancy",
+      "domain": "Recording Transactions",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning how transactions are recorded — double-entry bookkeeping, the journal, and the cash and subsidiary books."
+    },
+    {
+      "subject": "Accountancy",
+      "domain": "Ledger and Trial Balance",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning how records are gathered and checked — posting to the ledger, balancing accounts, and preparing a trial balance to catch errors."
+    },
+    {
+      "subject": "Accountancy",
+      "domain": "Adjustments",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning end-of-year adjustments — depreciation as assets wear out, and provisions and reserves set aside for the future."
+    },
+    {
+      "subject": "Accountancy",
+      "domain": "Financial Statements",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning to read the final accounts — the profit-and-loss account that shows profit, and the balance sheet that shows what a business owns and owes."
+    },
+    {
+      "subject": "Accountancy",
+      "domain": "Computers in Accounting",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning how accounting software like Tally makes keeping accounts faster and more accurate."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Foundations",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is learning what home science is — the practical knowledge for running a home and caring for a family, spanning food, clothing, resources, health and human development."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Food & Nutrition",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning to plan balanced family meals across ages and budgets, and to keep food safe and preserved."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Textiles & Clothing",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning how to select clothing for different needs and how to care for it so it lasts."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Resource Management",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning to manage a family’s resources — money, time and space — and to be a wise, informed consumer."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Human Development",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is learning how children grow and develop, and what makes for healthy family relationships and a happy home."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Health & Hygiene",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning basic first aid and how to care for a sick person at home."
+    },
+    {
+      "subject": "Visual Arts",
+      "domain": "Understanding Art",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is learning what painting is — a way to express ideas and feelings through line, colour and form — and how to appreciate a work of art."
+    },
+    {
+      "subject": "Visual Arts",
+      "domain": "Elements & Principles",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is learning the building blocks of art — line, shape, colour, texture and tone — and the principles of composition that arrange them into a pleasing whole."
+    },
+    {
+      "subject": "Visual Arts",
+      "domain": "Drawing & Composition",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is developing practical art skills — drawing from observation, and composing still lifes, landscapes and figures."
+    },
+    {
+      "subject": "Visual Arts",
+      "domain": "Indian Art Traditions",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is exploring India’s art traditions — its folk and miniature painting, the pioneers of modern Indian art, and contemporary art today."
+    },
+    {
+      "subject": "Music",
+      "domain": "Fundamentals of Indian Music",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is learning the foundations of Indian classical music — the notes (svaras) and microtones (shrutis), the melodic framework of raga, and the rhythmic cycle of tala."
+    },
+    {
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is learning the Hindustani tradition — how ragas are grouped into thaats, vocal forms like dhrupad and khayal, notation, and voice culture."
+    },
+    {
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is learning the Carnatic tradition — its distinctive gamaka ornamentation, forms like the varnam and kriti, and its great composers such as the Trinity."
     }
   ]
 }

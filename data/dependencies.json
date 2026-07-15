@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3500,
+  "edgeCount": 3549,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -21002,6 +21002,300 @@
       "prerequisiteId": "mt_LNYTNpJOGT",
       "strength": "soft",
       "reason": "Formal discussion builds on building on others in discussions"
+    },
+    {
+      "topicId": "mt_eYQngys1jt",
+      "prerequisiteId": "mt_3owJnUWaIX",
+      "strength": "hard",
+      "reason": "Industry and commerce build on knowing what business is"
+    },
+    {
+      "topicId": "mt_8sHypB46Dk",
+      "prerequisiteId": "mt_3owJnUWaIX",
+      "strength": "hard",
+      "reason": "Forms of ownership build on the idea of business"
+    },
+    {
+      "topicId": "mt_aCpvoRDicq",
+      "prerequisiteId": "mt_8sHypB46Dk",
+      "strength": "soft",
+      "reason": "Companies and cooperatives extend the simpler forms of ownership"
+    },
+    {
+      "topicId": "mt_mp1SDUxSHY",
+      "prerequisiteId": "mt_eYQngys1jt",
+      "strength": "soft",
+      "reason": "Business services are part of commerce"
+    },
+    {
+      "topicId": "mt_vYelHz0dZR",
+      "prerequisiteId": "mt_eYQngys1jt",
+      "strength": "soft",
+      "reason": "Communication services are part of commerce"
+    },
+    {
+      "topicId": "mt_eVmoQ0ehxD",
+      "prerequisiteId": "mt_eYQngys1jt",
+      "strength": "soft",
+      "reason": "Banking and insurance are commercial services"
+    },
+    {
+      "topicId": "mt_eVmoQ0ehxD",
+      "prerequisiteId": "mt_uSUqTjOl8m",
+      "strength": "soft",
+      "reason": "Business banking builds on how banks and saving work"
+    },
+    {
+      "topicId": "mt_wEUSyJgmpN",
+      "prerequisiteId": "mt_3owJnUWaIX",
+      "strength": "soft",
+      "reason": "Outsourcing is a way of organising business work"
+    },
+    {
+      "topicId": "mt_rrIgP4C7CL",
+      "prerequisiteId": "mt_eYQngys1jt",
+      "strength": "soft",
+      "reason": "Trade and distribution are the heart of commerce"
+    },
+    {
+      "topicId": "mt_B6PvJm1RfI",
+      "prerequisiteId": "mt_rrIgP4C7CL",
+      "strength": "hard",
+      "reason": "Retail is the last step of the channel of distribution"
+    },
+    {
+      "topicId": "mt_zktxQfAlGz",
+      "prerequisiteId": "mt_rrIgP4C7CL",
+      "strength": "soft",
+      "reason": "Advertising and promotion support trade"
+    },
+    {
+      "topicId": "mt_zktxQfAlGz",
+      "prerequisiteId": "mt_My0OL6fhGL",
+      "strength": "soft",
+      "reason": "Advertising builds on how advertising influences spending"
+    },
+    {
+      "topicId": "mt_EfWu4E0RSk",
+      "prerequisiteId": "mt_B6PvJm1RfI",
+      "strength": "soft",
+      "reason": "Consumer protection applies where consumers buy from retailers"
+    },
+    {
+      "topicId": "mt_LJG4MQQgB6",
+      "prerequisiteId": "mt_3owJnUWaIX",
+      "strength": "soft",
+      "reason": "Careers include working in and running businesses"
+    },
+    {
+      "topicId": "mt_tSUsQ5vBWy",
+      "prerequisiteId": "mt_QdbA9aVFHY",
+      "strength": "hard",
+      "reason": "Accounting concepts build on knowing what accounting is"
+    },
+    {
+      "topicId": "mt_x3HUG5w1Rh",
+      "prerequisiteId": "mt_tSUsQ5vBWy",
+      "strength": "hard",
+      "reason": "The accounting equation builds on the basic concepts"
+    },
+    {
+      "topicId": "mt_rY0Mmwc33D",
+      "prerequisiteId": "mt_x3HUG5w1Rh",
+      "strength": "hard",
+      "reason": "Double-entry recording builds on the accounting equation"
+    },
+    {
+      "topicId": "mt_RWyadkjKwT",
+      "prerequisiteId": "mt_rY0Mmwc33D",
+      "strength": "hard",
+      "reason": "The cash book builds on double-entry recording"
+    },
+    {
+      "topicId": "mt_bftlNTHBaU",
+      "prerequisiteId": "mt_rY0Mmwc33D",
+      "strength": "hard",
+      "reason": "The ledger builds on journal entries"
+    },
+    {
+      "topicId": "mt_j6XjDjtXwP",
+      "prerequisiteId": "mt_bftlNTHBaU",
+      "strength": "hard",
+      "reason": "The trial balance builds on balanced ledger accounts"
+    },
+    {
+      "topicId": "mt_XGxXu2w2Xr",
+      "prerequisiteId": "mt_j6XjDjtXwP",
+      "strength": "soft",
+      "reason": "Adjustments like depreciation come after the trial balance"
+    },
+    {
+      "topicId": "mt_bcFSGgBMN4",
+      "prerequisiteId": "mt_j6XjDjtXwP",
+      "strength": "hard",
+      "reason": "Financial statements are prepared from the trial balance"
+    },
+    {
+      "topicId": "mt_bcFSGgBMN4",
+      "prerequisiteId": "mt_XGxXu2w2Xr",
+      "strength": "soft",
+      "reason": "Financial statements include adjustments like depreciation"
+    },
+    {
+      "topicId": "mt_yzsAqUCSMO",
+      "prerequisiteId": "mt_bcFSGgBMN4",
+      "strength": "soft",
+      "reason": "Computerised accounting produces the same records and statements"
+    },
+    {
+      "topicId": "mt_reuQF6QDDo",
+      "prerequisiteId": "mt_QhLAeAlHI0",
+      "strength": "hard",
+      "reason": "Meal planning builds on knowing about a balanced diet"
+    },
+    {
+      "topicId": "mt_H3f0rwBuKf",
+      "prerequisiteId": "mt_Km5iZqQ8Vi",
+      "strength": "soft",
+      "reason": "Food preservation builds on food safety"
+    },
+    {
+      "topicId": "mt_KN6c2I9QuB",
+      "prerequisiteId": "mt_bKvMdYmfbn",
+      "strength": "soft",
+      "reason": "Caring for clothing builds on knowing about fibres and fabrics"
+    },
+    {
+      "topicId": "mt_CYEyqYYkNn",
+      "prerequisiteId": "mt_r1hw-KenpK",
+      "strength": "soft",
+      "reason": "Managing family resources builds on financial planning"
+    },
+    {
+      "topicId": "mt_Jh5MCyRTh7",
+      "prerequisiteId": "mt_CYEyqYYkNn",
+      "strength": "hard",
+      "reason": "Consumer education is part of managing resources"
+    },
+    {
+      "topicId": "mt_KBplyMQYdO",
+      "prerequisiteId": "mt_aetv4BzDOo",
+      "strength": "soft",
+      "reason": "Family relationships include raising and caring for children"
+    },
+    {
+      "topicId": "mt_89nBn38YvO",
+      "prerequisiteId": "mt_uof32CdhYK",
+      "strength": "soft",
+      "reason": "Home health care builds on personal hygiene"
+    },
+    {
+      "topicId": "mt_yXg0blyrpv",
+      "prerequisiteId": "mt_QhLAeAlHI0",
+      "strength": "soft",
+      "reason": "Home science includes nutrition and diet"
+    },
+    {
+      "topicId": "mt_XG4yVv6uTE",
+      "prerequisiteId": "mt_OZawlpZtqg",
+      "strength": "hard",
+      "reason": "The elements of art build on understanding what painting is"
+    },
+    {
+      "topicId": "mt_reeZNBYG9Q",
+      "prerequisiteId": "mt_XG4yVv6uTE",
+      "strength": "hard",
+      "reason": "Colour is one of the elements of art"
+    },
+    {
+      "topicId": "mt_QGSOAeTyQt",
+      "prerequisiteId": "mt_XG4yVv6uTE",
+      "strength": "hard",
+      "reason": "Composition arranges the elements of art"
+    },
+    {
+      "topicId": "mt_FP0zEhri05",
+      "prerequisiteId": "mt_XG4yVv6uTE",
+      "strength": "hard",
+      "reason": "Drawing applies the elements of art"
+    },
+    {
+      "topicId": "mt_XmqVVg2TQu",
+      "prerequisiteId": "mt_FP0zEhri05",
+      "strength": "hard",
+      "reason": "Making compositions builds on drawing"
+    },
+    {
+      "topicId": "mt_XmqVVg2TQu",
+      "prerequisiteId": "mt_QGSOAeTyQt",
+      "strength": "soft",
+      "reason": "Compositions apply the principles of composition"
+    },
+    {
+      "topicId": "mt_6ESJubZOPh",
+      "prerequisiteId": "mt_7BG2AbuXDn",
+      "strength": "soft",
+      "reason": "Modern Indian art builds on India’s painting traditions"
+    },
+    {
+      "topicId": "mt_GjzWZJGIN6",
+      "prerequisiteId": "mt_6ESJubZOPh",
+      "strength": "hard",
+      "reason": "Contemporary art follows the modern Indian art pioneers"
+    },
+    {
+      "topicId": "mt_BcVVasvvOm",
+      "prerequisiteId": "mt_UllENpiwV0",
+      "strength": "hard",
+      "reason": "A raga is built from svaras"
+    },
+    {
+      "topicId": "mt_DLlA8eRAbK",
+      "prerequisiteId": "mt_BcVVasvvOm",
+      "strength": "soft",
+      "reason": "Hindustani forms are set in ragas"
+    },
+    {
+      "topicId": "mt_DLlA8eRAbK",
+      "prerequisiteId": "mt_8qV5fqk15P",
+      "strength": "soft",
+      "reason": "Hindustani compositions are set in talas"
+    },
+    {
+      "topicId": "mt_Gpa5FCcRU5",
+      "prerequisiteId": "mt_BcVVasvvOm",
+      "strength": "soft",
+      "reason": "Notation and voice culture serve the singing of ragas"
+    },
+    {
+      "topicId": "mt_UllENpiwV0",
+      "prerequisiteId": "mt_EuGth6lA55",
+      "strength": "soft",
+      "reason": "Music fundamentals build on knowing India’s music traditions"
+    },
+    {
+      "topicId": "mt_oD5SlNMEkk",
+      "prerequisiteId": "mt_UllENpiwV0",
+      "strength": "hard",
+      "reason": "Carnatic swara and gamaka build on the fundamentals of Indian music"
+    },
+    {
+      "topicId": "mt_Dq1aJIo7JO",
+      "prerequisiteId": "mt_oD5SlNMEkk",
+      "strength": "soft",
+      "reason": "Carnatic forms are sung with gamaka"
+    },
+    {
+      "topicId": "mt_Dq1aJIo7JO",
+      "prerequisiteId": "mt_BcVVasvvOm",
+      "strength": "soft",
+      "reason": "Carnatic compositions are set in ragas"
+    },
+    {
+      "topicId": "mt_I3etMN3Xrm",
+      "prerequisiteId": "mt_Dq1aJIo7JO",
+      "strength": "soft",
+      "reason": "The composers are known through their compositions"
     }
   ]
 }

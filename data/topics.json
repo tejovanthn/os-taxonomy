@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 1813,
+  "topicCount": 1861,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -8802,7 +8802,9 @@
         "Describe where one real entrepreneur got their business idea from"
       ],
       "assessmentPrompt": "If you asked {{name}} to think of a problem at school or home that they could solve by making or selling something, could they come up with an idea?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:215.M6.L20"
+      ]
     },
     {
       "id": "mt_dknMcCqvoY",
@@ -8910,7 +8912,9 @@
         "Explain why being able to explain your idea clearly matters for getting support"
       ],
       "assessmentPrompt": "If {{name}} had to stand up in front of the class and explain a business idea in two minutes, could they do it confidently and persuasively?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:215.M6.L20"
+      ]
     },
     {
       "id": "mt_rxJ2O_9Lkr",
@@ -8928,7 +8932,9 @@
         "Explain what the word 'entrepreneur' means in their own words"
       ],
       "assessmentPrompt": "Could {{name}} tell you about a real person who started a business as a kid and explain what qualities helped them succeed?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:215.M6.L20"
+      ]
     },
     {
       "id": "mt_7SsduPB2tP",
@@ -9133,7 +9139,8 @@
       ],
       "assessmentPrompt": "When {{name}} sees an advert for a toy or game, can they recognise that the advert is trying to make them want to buy it?",
       "standards": [
-        "nios-sec-2020:214.M8.L24"
+        "nios-sec-2020:214.M8.L24",
+        "nios-sec-2020:215.M4.L15"
       ]
     },
     {
@@ -9153,7 +9160,8 @@
       ],
       "assessmentPrompt": "Could {{name}} explain what a bank does and why people put their money there instead of keeping it all at home?",
       "standards": [
-        "nios-sec-2020:214.M5.L15"
+        "nios-sec-2020:214.M5.L15",
+        "nios-sec-2020:215.M3.L9"
       ]
     },
     {
@@ -9281,7 +9289,8 @@
       ],
       "assessmentPrompt": "If {{name}} wanted to save up for something costing £30, could they work out a realistic plan for how long it would take?",
       "standards": [
-        "nios-sec-2020:214.M5.L16"
+        "nios-sec-2020:214.M5.L16",
+        "nios-sec-2020:216.M4.L7"
       ]
     },
     {
@@ -26915,7 +26924,8 @@
       "standards": [
         "uk-nc-2013:KS3.Sci.Bio.Nutrition.1",
         "nios-obe-a:A102.L8.2",
-        "nios-obe-b:B102.L12.2"
+        "nios-obe-b:B102.L12.2",
+        "nios-sec-2020:216.M2.L2"
       ]
     },
     {
@@ -29727,7 +29737,9 @@
       "assessmentPrompt": "If {{name}} looked at their dinner plate, could they identify which foods give energy, which help muscles grow, and which keep them healthy?",
       "standards": [
         "nios-obe-a:A102.L8.2",
-        "nios-obe-a:A102.L8.3"
+        "nios-obe-a:A102.L8.3",
+        "nios-sec-2020:216.M2.L2",
+        "nios-sec-2020:216.M2.L3"
       ]
     },
     {
@@ -31954,7 +31966,8 @@
       ],
       "assessmentPrompt": "Does {{name}} know the everyday ways to keep their body clean — washing hands before eating, brushing teeth, bathing — and understand that this helps keep germs and illness away?",
       "standards": [
-        "nios-obe-a:A102.L9.2"
+        "nios-obe-a:A102.L9.2",
+        "nios-sec-2020:216.M6.L11"
       ]
     },
     {
@@ -31976,7 +31989,8 @@
       "standards": [
         "nios-obe-a:A102.L8.4",
         "nios-obe-a:A102.L8.5",
-        "nios-obe-b:B102.L12.3"
+        "nios-obe-b:B102.L12.3",
+        "nios-sec-2020:216.M2.L4"
       ]
     },
     {
@@ -32704,7 +32718,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that cloth is made from fibres — some from plants or animals like cotton and wool, some made in factories — and match a fibre to where it comes from?",
       "standards": [
-        "nios-obe-c:C105.L9"
+        "nios-obe-c:C105.L9",
+        "nios-sec-2020:216.M3.L5"
       ]
     },
     {
@@ -35337,7 +35352,9 @@
       ],
       "assessmentPrompt": "Can {{name}} describe some traditions of Indian painting, like the ancient Ajanta cave murals or miniature paintings?",
       "standards": [
-        "nios-sec-2020:223.M5.L11"
+        "nios-sec-2020:223.M5.L11",
+        "nios-sec-2020:225.M4.L8",
+        "nios-sec-2020:225.M1.L2"
       ]
     },
     {
@@ -35357,7 +35374,10 @@
       ],
       "assessmentPrompt": "Can {{name}} name India’s classical music and dance traditions and explain how they differ from folk arts?",
       "standards": [
-        "nios-sec-2020:223.M5.L12"
+        "nios-sec-2020:223.M5.L12",
+        "nios-sec-2020:242.M2.L5",
+        "nios-sec-2020:242.M1.L2",
+        "nios-sec-2020:243.M2.L3"
       ]
     },
     {
@@ -36186,6 +36206,978 @@
       "assessmentPrompt": "Can {{name}} take part in a discussion or give a short prepared talk, using language suited to a formal setting?",
       "standards": [
         "nios-sec-2020:202.SPK"
+      ]
+    },
+    {
+      "id": "mt_3owJnUWaIX",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Foundations of Business",
+      "name": "Nature and Scope of Business",
+      "description": "Understand business as an activity of producing or buying and selling goods and services to earn a profit and meet people’s needs, and the range of activities it covers.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Define business and its main objective",
+        "Distinguish business from other human activities",
+        "Give examples of the scope of business activity"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what business is — producing or trading goods and services for profit — and what it covers?",
+      "standards": [
+        "nios-sec-2020:215.M1.L1"
+      ]
+    },
+    {
+      "id": "mt_eYQngys1jt",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Foundations of Business",
+      "name": "Industry and Commerce",
+      "description": "Understand that business has two arms — industry (making goods and providing services) and commerce (trade and the services that support it, like transport and banking).",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguish industry from commerce",
+        "Explain what commerce includes beyond buying and selling",
+        "Give an example of each"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the difference between industry (making things) and commerce (trading and the services that support it)?",
+      "standards": [
+        "nios-sec-2020:215.M1.L2"
+      ]
+    },
+    {
+      "id": "mt_8sHypB46Dk",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Forms of Business Organisation",
+      "name": "Sole Proprietorship and Partnership",
+      "description": "Understand two simple forms of business ownership — the sole proprietorship (one owner) and the partnership (owned by two or more) — and their advantages and drawbacks.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what a sole proprietorship is",
+        "Explain what a partnership is",
+        "Give an advantage and a drawback of each"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the difference between a business owned by one person and one owned by partners?",
+      "standards": [
+        "nios-sec-2020:215.M2.L3"
+      ]
+    },
+    {
+      "id": "mt_aCpvoRDicq",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Forms of Business Organisation",
+      "name": "Companies and Cooperative Societies",
+      "description": "Understand larger forms of business organisation — the company, owned by shareholders, and the cooperative society, owned and run by its members for their mutual benefit.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what a company is and who owns it",
+        "Explain what a cooperative society is",
+        "Compare a company with a cooperative"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what a company is (owned by shareholders) and how a cooperative is different?",
+      "standards": [
+        "nios-sec-2020:215.M2.L4"
+      ]
+    },
+    {
+      "id": "mt_mp1SDUxSHY",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Services",
+      "name": "Transport and Warehousing",
+      "description": "Understand two services that support trade — transport, which moves goods from where they are made to where they are needed, and warehousing, which stores them until they are needed.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain how transport supports business",
+        "Explain the purpose of warehousing",
+        "Explain how both bridge production and consumption"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how transport and warehousing help goods get from the factory to the customer at the right time?",
+      "standards": [
+        "nios-sec-2020:215.M3.L5",
+        "nios-sec-2020:215.M3.L6"
+      ]
+    },
+    {
+      "id": "mt_vYelHz0dZR",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Services",
+      "name": "Communication and Postal Services",
+      "description": "Understand the communication, postal and courier services that let a business exchange information and send documents and goods — from post to phone to the internet.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name communication services a business uses",
+        "Explain the role of postal and courier services",
+        "Explain why fast communication matters in business"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how communication and postal services help a business keep in touch and send things?",
+      "standards": [
+        "nios-sec-2020:215.M3.L7",
+        "nios-sec-2020:215.M3.L8"
+      ]
+    },
+    {
+      "id": "mt_eVmoQ0ehxD",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Services",
+      "name": "Banking and Insurance Services",
+      "description": "Understand two financial services businesses rely on — banking, which handles money, payments and loans, and insurance, which protects against risks and losses.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain banking services a business uses",
+        "Explain how insurance manages risk",
+        "Give an example of a risk a business insures against"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how banks help businesses handle money, and how insurance protects them against losses?",
+      "standards": [
+        "nios-sec-2020:215.M3.L9",
+        "nios-sec-2020:215.M3.L10"
+      ]
+    },
+    {
+      "id": "mt_wEUSyJgmpN",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Services",
+      "name": "Outsourcing",
+      "description": "Understand outsourcing — when a business hires an outside firm to do work (like payroll, IT or a call centre) rather than doing it itself — and why it can save cost and add expertise.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what outsourcing means",
+        "Give an example of work a business might outsource",
+        "Explain a benefit and a risk of outsourcing"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what outsourcing is and why a business might pay another firm to do some of its work?",
+      "standards": [
+        "nios-sec-2020:215.M3.L11"
+      ]
+    },
+    {
+      "id": "mt_rrIgP4C7CL",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Trade and Marketing",
+      "name": "Trade and Channels of Distribution",
+      "description": "Understand how goods reach customers — the buying and selling of trade, and the channels of distribution (producer → wholesaler → retailer → consumer) that move goods along the way.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain the process of purchase and sale",
+        "Describe a channel of distribution",
+        "Explain the role of wholesalers and retailers"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how goods travel from the producer to the customer through wholesalers and retailers?",
+      "standards": [
+        "nios-sec-2020:215.M4.L12",
+        "nios-sec-2020:215.M4.L13"
+      ]
+    },
+    {
+      "id": "mt_B6PvJm1RfI",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Trade and Marketing",
+      "name": "Retail Trade",
+      "description": "Understand retail trade — selling goods in small quantities directly to consumers — and its different forms, from small shops and markets to supermarkets and online stores.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what retail trade is",
+        "Name different types of retailer",
+        "Explain the role of the retailer for the consumer"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what retail trade is and give examples of different kinds of shops and sellers?",
+      "standards": [
+        "nios-sec-2020:215.M4.L14"
+      ]
+    },
+    {
+      "id": "mt_zktxQfAlGz",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Trade and Marketing",
+      "name": "Advertising and Sales Promotion",
+      "description": "Understand how businesses make people aware of and want their products — advertising (paid messages) and sales promotion (offers, discounts and publicity) — and the difference between them.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain the purpose of advertising",
+        "Give an example of a sales promotion",
+        "Distinguish advertising from sales promotion"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how businesses use advertising and special offers to get people to buy their products?",
+      "standards": [
+        "nios-sec-2020:215.M4.L15",
+        "nios-sec-2020:215.M4.L16"
+      ]
+    },
+    {
+      "id": "mt_EfWu4E0RSk",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Consumer Protection",
+      "name": "Consumer Rights and Protection",
+      "description": "Understand that consumers have rights — to safety, information, choice and to be heard — and that laws and bodies protect them and give a way to seek redress when wronged.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name several consumer rights",
+        "Explain why consumer protection is needed",
+        "Describe how a consumer can seek redress"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what rights a consumer has and what they can do if a product or service treats them unfairly?",
+      "standards": [
+        "nios-sec-2020:215.M5.L17",
+        "nios-sec-2020:215.M5.L18"
+      ]
+    },
+    {
+      "id": "mt_LJG4MQQgB6",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Career and Enterprise",
+      "name": "Choosing a Career",
+      "description": "Understand how to choose a career — matching one’s interests, aptitudes and values to the opportunities and requirements of different kinds of work.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what to consider when choosing a career",
+        "Match interests and aptitudes to a kind of work",
+        "Explain why planning a career matters"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how someone chooses a career that fits their interests and strengths?",
+      "standards": [
+        "nios-sec-2020:215.M6.L19"
+      ]
+    },
+    {
+      "id": "mt_QdbA9aVFHY",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Accounting Basics",
+      "name": "Introduction to Accounting",
+      "description": "Understand accounting as the systematic recording, classifying and summarising of a business’s money dealings, so owners can see how the business is doing.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what accounting is and why businesses need it",
+        "Distinguish accounting from simply spending money",
+        "Name what accounting records"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what accounting is — keeping an organised record of a business’s money — and why it matters?",
+      "standards": [
+        "nios-sec-2020:224.M1.L1"
+      ]
+    },
+    {
+      "id": "mt_tSUsQ5vBWy",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Accounting Basics",
+      "name": "Accounting Concepts and Conventions",
+      "description": "Understand the basic concepts and conventions that make accounting consistent and reliable — such as treating the business as separate from its owner and recording at cost.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name a basic accounting concept",
+        "Explain the business-entity idea (business separate from owner)",
+        "Explain why shared conventions make accounts trustworthy"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why accounting follows agreed rules — like keeping the business’s money separate from the owner’s?",
+      "standards": [
+        "nios-sec-2020:224.M1.L2"
+      ]
+    },
+    {
+      "id": "mt_x3HUG5w1Rh",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Accounting Basics",
+      "name": "The Accounting Equation",
+      "description": "Understand the accounting equation — assets equal liabilities plus capital — and how every transaction keeps it balanced, and the types of accounts involved.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "State the accounting equation",
+        "Explain that every transaction keeps it in balance",
+        "Classify items as assets, liabilities or capital"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the accounting equation — that what a business owns equals what it owes plus the owner’s stake?",
+      "standards": [
+        "nios-sec-2020:224.M1.L3"
+      ]
+    },
+    {
+      "id": "mt_rY0Mmwc33D",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Recording Transactions",
+      "name": "Double-Entry and the Journal",
+      "description": "Understand double-entry bookkeeping — that every transaction affects two accounts, one debited and one credited — and how transactions are first recorded in the journal.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain the double-entry principle",
+        "Identify the debit and credit for a simple transaction",
+        "Record a transaction as a journal entry"
+      ],
+      "assessmentPrompt": "Can {{name}} explain double-entry bookkeeping — that every transaction has a debit and a credit — and make a journal entry?",
+      "standards": [
+        "nios-sec-2020:224.M2.L4"
+      ]
+    },
+    {
+      "id": "mt_RWyadkjKwT",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Recording Transactions",
+      "name": "Cash Book and Subsidiary Books",
+      "description": "Understand the cash book, which records money coming in and going out, and other special purpose (subsidiary) books used for particular kinds of transaction.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what the cash book records",
+        "Explain why subsidiary books are used",
+        "Record a cash transaction"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how a cash book keeps track of money in and out, and why businesses use special books for different transactions?",
+      "standards": [
+        "nios-sec-2020:224.M2.L5",
+        "nios-sec-2020:224.M2.L6"
+      ]
+    },
+    {
+      "id": "mt_bftlNTHBaU",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Ledger and Trial Balance",
+      "name": "The Ledger",
+      "description": "Understand the ledger — where all transactions of each account are gathered together — and how accounts are posted to it and balanced.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain the purpose of the ledger",
+        "Post a journal entry to the ledger",
+        "Balance a ledger account"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what the ledger is for — gathering all of each account’s transactions in one place — and balance an account?",
+      "standards": [
+        "nios-sec-2020:224.M3.L7"
+      ]
+    },
+    {
+      "id": "mt_j6XjDjtXwP",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Ledger and Trial Balance",
+      "name": "Trial Balance and Errors",
+      "description": "Understand the trial balance — a list of all account balances used to check that total debits equal total credits — and how it helps find errors.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what a trial balance is for",
+        "Explain that debits should equal credits",
+        "Explain how a trial balance helps detect errors"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how a trial balance checks that the books balance, with total debits equal to total credits?",
+      "standards": [
+        "nios-sec-2020:224.M3.L8"
+      ]
+    },
+    {
+      "id": "mt_XGxXu2w2Xr",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Adjustments",
+      "name": "Depreciation, Provisions and Reserves",
+      "description": "Understand depreciation — the fall in value of assets as they are used — and provisions and reserves, amounts a business sets aside for future losses or needs.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what depreciation is and why it is recorded",
+        "Distinguish a provision from a reserve",
+        "Give an example of an asset that depreciates"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why a business records depreciation as its equipment wears out, and what reserves are for?",
+      "standards": [
+        "nios-sec-2020:224.M4.L9",
+        "nios-sec-2020:224.M4.L10"
+      ]
+    },
+    {
+      "id": "mt_bcFSGgBMN4",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Financial Statements",
+      "name": "Financial Statements",
+      "description": "Understand the two main financial statements — the profit-and-loss account, which shows whether the business made a profit, and the balance sheet, which shows what it owns and owes.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what the profit-and-loss account shows",
+        "Explain what the balance sheet shows",
+        "Distinguish profit from financial position"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the difference between a profit-and-loss account (did the business make money?) and a balance sheet (what does it own and owe?)",
+      "standards": [
+        "nios-sec-2020:224.M5.L11",
+        "nios-sec-2020:224.M5.L12"
+      ]
+    },
+    {
+      "id": "mt_yzsAqUCSMO",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Computers in Accounting",
+      "name": "Computerised Accounting",
+      "description": "Understand how computers and accounting software such as Tally are used to keep accounts — making recording faster, more accurate and easier to report.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain benefits of computerised accounting",
+        "Name accounting software such as Tally",
+        "Explain how software reduces errors and effort"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how accounting software like Tally makes keeping accounts faster and more accurate?",
+      "standards": [
+        "nios-sec-2020:224.M6.L13",
+        "nios-sec-2020:224.M6.L14"
+      ]
+    },
+    {
+      "id": "mt_yXg0blyrpv",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Foundations",
+      "name": "What Is Home Science",
+      "description": "Understand home science as the practical study of running a home and caring for a family well — bringing together food and nutrition, clothing, managing resources, health, and how people grow and relate.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explain what home science studies",
+        "Name its main components",
+        "Explain how it is both an art and a science"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what home science is — the skills and knowledge for running a home and caring for a family well?",
+      "standards": [
+        "nios-sec-2020:216.M1.L1"
+      ]
+    },
+    {
+      "id": "mt_reuQF6QDDo",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Food & Nutrition",
+      "name": "Balanced Diet and Meal Planning",
+      "description": "Understand how to plan balanced meals for a family — combining foods to meet everyone’s nutritional needs across different ages, budgets and life stages.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Plan a balanced meal from the food groups",
+        "Explain how nutritional needs differ by age or life stage",
+        "Plan a nutritious meal within a budget"
+      ],
+      "assessmentPrompt": "Can {{name}} plan a balanced meal that meets a family’s needs, taking account of different ages and a budget?",
+      "standards": [
+        "nios-sec-2020:216.M2.L3"
+      ]
+    },
+    {
+      "id": "mt_H3f0rwBuKf",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Food & Nutrition",
+      "name": "Food Safety and Preservation",
+      "description": "Understand how to keep food safe and make it last — hygienic handling, and preservation methods such as drying, salting, refrigeration, canning and pickling.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain hygienic food handling",
+        "Name several methods of preserving food",
+        "Explain how preservation prevents spoilage"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how to keep food safe and make it last, naming methods like drying, refrigeration or pickling?",
+      "standards": [
+        "nios-sec-2020:216.M2.L4"
+      ]
+    },
+    {
+      "id": "mt_KN6c2I9QuB",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Textiles & Clothing",
+      "name": "Selection and Care of Clothing",
+      "description": "Understand how to choose clothing for different needs, seasons and occasions, and how to care for it — washing, drying, ironing, storing and simple repairs.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain factors in selecting clothing",
+        "Describe how to care for a fabric (washing, storage)",
+        "Explain how good care makes clothes last"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how to choose suitable clothing and look after it so it lasts?",
+      "standards": [
+        "nios-sec-2020:216.M3.L6"
+      ]
+    },
+    {
+      "id": "mt_CYEyqYYkNn",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Resource Management",
+      "name": "Managing Family Resources",
+      "description": "Understand how a family manages its resources — money, time, energy and space — through planning, budgeting and organising, to meet its needs and goals.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name the resources a family manages",
+        "Explain the steps of managing a resource (plan, use, evaluate)",
+        "Give an example of budgeting time or money"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how a family manages its money, time and space through planning and budgeting?",
+      "standards": [
+        "nios-sec-2020:216.M4.L7"
+      ]
+    },
+    {
+      "id": "mt_Jh5MCyRTh7",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Resource Management",
+      "name": "Consumer Education",
+      "description": "Understand how to be a wise consumer — comparing products, reading labels, avoiding waste and misleading claims, and knowing one’s consumer rights.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain how to compare products before buying",
+        "Explain the value of reading labels",
+        "Name a consumer right"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how to shop wisely — comparing products, reading labels, and knowing their rights as a consumer?",
+      "standards": [
+        "nios-sec-2020:216.M4.L8"
+      ]
+    },
+    {
+      "id": "mt_aetv4BzDOo",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Human Development",
+      "name": "Growth and Development of Children",
+      "description": "Understand how children grow and develop — physically, mentally, emotionally and socially — through infancy and childhood, and the care and needs of each stage.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Describe areas of child development",
+        "Explain the needs of a stage of childhood",
+        "Explain why early care matters for development"
+      ],
+      "assessmentPrompt": "Can {{name}} describe how children grow and develop, and what they need at different stages?",
+      "standards": [
+        "nios-sec-2020:216.M5.L9"
+      ]
+    },
+    {
+      "id": "mt_KBplyMQYdO",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Human Development",
+      "name": "The Family and its Relationships",
+      "description": "Understand the family — its types and life stages — and the relationships within it, and how care, communication and shared responsibility make a happy home.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Describe types of family and their life stages",
+        "Explain what makes family relationships healthy",
+        "Give an example of shared responsibility in a family"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what makes for healthy family relationships and a happy home?",
+      "standards": [
+        "nios-sec-2020:216.M5.L10"
+      ]
+    },
+    {
+      "id": "mt_89nBn38YvO",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Health & Hygiene",
+      "name": "First Aid and Home Nursing",
+      "description": "Understand basic first aid for common emergencies — cuts, burns, choking and fainting — and simple care of a sick person at home.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describe first aid for a common injury",
+        "Explain what a first-aid kit should contain",
+        "Describe simple care for someone unwell at home"
+      ],
+      "assessmentPrompt": "Can {{name}} give basic first aid for something like a cut or burn, and help care for someone who is unwell at home?",
+      "standards": [
+        "nios-sec-2020:216.M6.L12"
+      ]
+    },
+    {
+      "id": "mt_OZawlpZtqg",
+      "type": "CONCEPTUAL",
+      "subject": "Visual Arts",
+      "domain": "Understanding Art",
+      "name": "Introduction to Painting",
+      "description": "Understand painting as a way of expressing ideas and feelings through visual means — line, colour, form and proportion — and that art can be enjoyed, made and understood.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain that painting expresses ideas visually",
+        "Name visual means a painter uses (line, colour, form)",
+        "Explain that art is both made and appreciated"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what painting is — expressing ideas and feelings through line, colour and form?",
+      "standards": [
+        "nios-sec-2020:225.M1.L1"
+      ]
+    },
+    {
+      "id": "mt_XG4yVv6uTE",
+      "type": "REPRESENTATIONAL",
+      "subject": "Visual Arts",
+      "domain": "Elements & Principles",
+      "name": "The Elements of Art",
+      "description": "Understand the building blocks of a picture — line, shape, form, colour, texture, space and tone — and how an artist uses each.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name the elements of art",
+        "Identify an element in a picture",
+        "Explain what one element contributes to a work"
+      ],
+      "assessmentPrompt": "Can {{name}} name the elements of art — like line, shape, colour and texture — and point them out in a picture?",
+      "standards": [
+        "nios-sec-2020:225.M2.L3"
+      ]
+    },
+    {
+      "id": "mt_reeZNBYG9Q",
+      "type": "REPRESENTATIONAL",
+      "subject": "Visual Arts",
+      "domain": "Elements & Principles",
+      "name": "Understanding Colour",
+      "description": "Understand colour — the colour wheel, primary and secondary colours, warm and cool colours, and how tone (light and dark) gives a picture depth.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name primary and secondary colours",
+        "Distinguish warm from cool colours",
+        "Explain how tonal gradation creates depth"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the colour wheel — primary and secondary, warm and cool colours — and how light and dark tones add depth?",
+      "standards": [
+        "nios-sec-2020:225.M2.L4"
+      ]
+    },
+    {
+      "id": "mt_QGSOAeTyQt",
+      "type": "REPRESENTATIONAL",
+      "subject": "Visual Arts",
+      "domain": "Elements & Principles",
+      "name": "Principles of Composition",
+      "description": "Understand the principles that arrange the elements into a pleasing whole — balance, rhythm, proportion, contrast and harmony.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name principles of composition",
+        "Explain balance or rhythm in a picture",
+        "Explain why composition matters in a work of art"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how an artist arranges a picture using balance, rhythm and proportion?",
+      "standards": [
+        "nios-sec-2020:225.M2.L5"
+      ]
+    },
+    {
+      "id": "mt_FP0zEhri05",
+      "type": "PROCEDURAL",
+      "subject": "Visual Arts",
+      "domain": "Drawing & Composition",
+      "name": "Drawing",
+      "description": "Develop drawing skill — observing carefully, getting proportions right, and rendering form with line and shading.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Draw an object with accurate proportions",
+        "Use shading to show form",
+        "Explain the role of observation in drawing"
+      ],
+      "assessmentPrompt": "Can {{name}} draw an object from observation with reasonable proportion and shading?",
+      "standards": [
+        "nios-sec-2020:225.M3.L6"
+      ]
+    },
+    {
+      "id": "mt_XmqVVg2TQu",
+      "type": "PROCEDURAL",
+      "subject": "Visual Arts",
+      "domain": "Drawing & Composition",
+      "name": "Still Life, Landscape and Figure",
+      "description": "Create still-life, landscape and figure compositions, applying the elements and principles of art to arrange subjects into a finished picture.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Compose a still life or landscape",
+        "Apply the principles of composition in the work",
+        "Explain the choices made in arranging the picture"
+      ],
+      "assessmentPrompt": "Can {{name}} make a still-life or landscape picture, arranging it thoughtfully using what they know about composition?",
+      "standards": [
+        "nios-sec-2020:225.M3.L7"
+      ]
+    },
+    {
+      "id": "mt_6ESJubZOPh",
+      "type": "CONCEPTUAL",
+      "subject": "Visual Arts",
+      "domain": "Indian Art Traditions",
+      "name": "Pioneers of Modern Indian Art",
+      "description": "Know the pioneers of modern Indian art — such as Raja Ravi Varma, Abanindranath Tagore and the Bengal School — and how they renewed Indian painting.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name a pioneer of modern Indian art",
+        "Describe their contribution",
+        "Explain how modern Indian art built on and renewed tradition"
+      ],
+      "assessmentPrompt": "Can {{name}} name a pioneer of modern Indian art, like Raja Ravi Varma, and what they are known for?",
+      "standards": [
+        "nios-sec-2020:225.M4.L9"
+      ]
+    },
+    {
+      "id": "mt_GjzWZJGIN6",
+      "type": "CONCEPTUAL",
+      "subject": "Visual Arts",
+      "domain": "Indian Art Traditions",
+      "name": "Contemporary Indian Art",
+      "description": "Appreciate contemporary Indian art — its varied styles, media and themes — and how artists today respond to the world around them.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what contemporary art is",
+        "Describe a theme in contemporary Indian art",
+        "Explain that art keeps changing with the times"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what contemporary Indian art is like, and how today’s artists respond to the world around them?",
+      "standards": [
+        "nios-sec-2020:225.M4.L10"
+      ]
+    },
+    {
+      "id": "mt_UllENpiwV0",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Fundamentals of Indian Music",
+      "name": "Shruti, Svara and Saptak",
+      "description": "Understand the basic building blocks of Indian music — the seven svaras (notes), the finer shrutis (microtones) between them, and the saptak (octave) in its low, middle and high registers.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name the seven svaras",
+        "Explain what a shruti is",
+        "Explain the three registers of the saptak"
+      ],
+      "assessmentPrompt": "Can {{name}} name the seven notes (svaras) of Indian music and explain the idea of octaves?",
+      "standards": [
+        "nios-sec-2020:242.M1.L1"
+      ]
+    },
+    {
+      "id": "mt_BcVVasvvOm",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Fundamentals of Indian Music",
+      "name": "Understanding Raga",
+      "description": "Understand the raga as the heart of Indian classical music — a framework of chosen notes with a characteristic ascent (aroha) and descent (avaroha) that creates a particular mood.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what a raga is",
+        "Explain aroha and avaroha",
+        "Explain that each raga has its own mood or time"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what a raga is — a special set of notes that gives a piece its mood?",
+      "standards": [
+        "nios-sec-2020:242.M1.L2"
+      ]
+    },
+    {
+      "id": "mt_8qV5fqk15P",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Fundamentals of Indian Music",
+      "name": "Understanding Tala",
+      "description": "Understand tala as the rhythmic cycle of Indian music — a fixed pattern of beats grouped into sections — and how it is kept and recited as a theka.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what a tala is",
+        "Explain that a tala repeats in a cycle of beats",
+        "Keep or recite a simple tala"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what a tala is — the repeating cycle of beats that gives music its rhythm?",
+      "standards": [
+        "nios-sec-2020:242.M1.L3"
+      ]
+    },
+    {
+      "id": "mt_DLlA8eRAbK",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "Hindustani Ragas and Forms",
+      "description": "Understand how Hindustani music organises ragas (the thaat system) and its main vocal forms — the older dhrupad and the popular khayal — and their compositions.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain the thaat system in outline",
+        "Name Hindustani vocal forms (dhrupad, khayal)",
+        "Describe a feature of a Hindustani composition"
+      ],
+      "assessmentPrompt": "Can {{name}} name Hindustani vocal forms like khayal and explain how ragas are grouped into thaats?",
+      "standards": [
+        "nios-sec-2020:242.M2.L4",
+        "nios-sec-2020:242.M2.L5"
+      ]
+    },
+    {
+      "id": "mt_Gpa5FCcRU5",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "Notation and Voice Culture",
+      "description": "Understand how Indian music is written down in notation, and the practice of voice culture — warm-ups and alankaras (note patterns) that train the voice.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Read or write a simple notation",
+        "Explain what an alankara is",
+        "Explain why voice culture matters for a singer"
+      ],
+      "assessmentPrompt": "Can {{name}} read a simple piece of Indian music notation and explain how singers train their voices with alankaras?",
+      "standards": [
+        "nios-sec-2020:242.M2.L6"
+      ]
+    },
+    {
+      "id": "mt_oD5SlNMEkk",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "Carnatic Music: Swara and Gamaka",
+      "description": "Understand the distinctive features of Carnatic music — its swaras and srutis, and above all gamaka, the graceful ornamentation and sliding between notes that defines its sound.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what gamaka is",
+        "Explain how Carnatic music uses ornamentation",
+        "Relate swara and sruti to the fundamentals of Indian music"
+      ],
+      "assessmentPrompt": "Can {{name}} explain gamaka — the ornamentation and sliding between notes that gives Carnatic music its distinctive sound?",
+      "standards": [
+        "nios-sec-2020:243.M1.L1",
+        "nios-sec-2020:243.M2.L2"
+      ]
+    },
+    {
+      "id": "mt_Dq1aJIo7JO",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "Carnatic Forms and Compositions",
+      "description": "Understand the main forms of Carnatic music — the beginner’s geetam, the varnam, and the central kriti — and how a composition is structured.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name Carnatic forms (geetam, varnam, kriti)",
+        "Describe the structure of a kriti in outline",
+        "Explain the role of the varnam in learning"
+      ],
+      "assessmentPrompt": "Can {{name}} name Carnatic forms like the varnam and kriti and describe how a composition is put together?",
+      "standards": [
+        "nios-sec-2020:243.M2.L3"
+      ]
+    },
+    {
+      "id": "mt_I3etMN3Xrm",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "The Composers of Carnatic Music",
+      "description": "Know the great composers of Carnatic music — above all the Trinity, Tyagaraja, Muthuswami Dikshitar and Syama Sastri — and their lasting contribution.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name the Carnatic Trinity",
+        "Describe a contribution of a great composer",
+        "Explain why these composers are revered"
+      ],
+      "assessmentPrompt": "Can {{name}} name the great Carnatic composers, like the Trinity, and what they are remembered for?",
+      "standards": [
+        "nios-sec-2020:243.M2.L4"
       ]
     }
   ]

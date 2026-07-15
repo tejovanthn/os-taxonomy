@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-07-15T15:26:58.852Z",
+  "generatedAt": "2026-07-15T15:36:33.915Z",
   "codesOnlySources": [
     "c3-social-studies",
     "ib-pyp-pspe",
@@ -9,43 +9,48 @@
     "ngss-ms"
   ],
   "counts": {
-    "topics": 1813,
+    "topics": 1861,
     "topicsBySubject": {
+      "Accountancy": 10,
+      "Business Studies": 13,
       "Computing": 39,
       "Economics": 9,
       "English": 289,
       "History": 140,
+      "Home Science": 9,
       "Indian Culture & Heritage": 17,
       "Learning to Learn": 18,
       "Life Skills": 37,
       "Mathematics": 518,
+      "Music": 8,
       "Personal & Social Development": 88,
       "Psychology": 21,
       "Science": 569,
-      "Social Studies": 68
+      "Social Studies": 68,
+      "Visual Arts": 8
     },
-    "dependencies": 3500,
+    "dependencies": 3549,
     "curricula": 11,
-    "curriculumStandards": 3608,
-    "topicStandardLinks": 2500,
-    "clusters": 247
+    "curriculumStandards": 3674,
+    "topicStandardLinks": 2577,
+    "clusters": 272
   },
   "files": {
     "topics.json": {
-      "bytes": 1881341,
-      "sha256": "73b258ee09c9afd28867758401c4dd8ab9cdb746968e278f8cd7c59d9062808a"
+      "bytes": 1922535,
+      "sha256": "00ca7ee362652a9f5d10fffb7b2df256aacad76b957da03a12c211951a55e88b"
     },
     "dependencies.json": {
-      "bytes": 750123,
-      "sha256": "60aa629ebbbdfeddbcecfe384b7191da78339a65ea8ef3fb89f601be9e25ddc6"
+      "bytes": 759046,
+      "sha256": "efc9a71a9c665e68da98de8103b87d1713e1d866addb3446aeb130f1bce5b4ed"
     },
     "curriculum-standards.json": {
-      "bytes": 1793146,
-      "sha256": "f03ec7d525741b88172e1723900c5c1c42e31f4b4070352cf1aa9d7c1c3bb917"
+      "bytes": 1825144,
+      "sha256": "0f7d0c250b3247c658c21bef58583542c65eac938ee5bfa79fadd46f67050907"
     },
     "clusters.json": {
-      "bytes": 79603,
-      "sha256": "dbd0692f777aff1110673ccdc4325d426849d1707c4f270b1ef4cbf67cbe664d"
+      "bytes": 86479,
+      "sha256": "3408a21a8005bea5765a8285e57aec80f86d233656570f029e50dc2367f794b6"
     }
   },
   "excluded": [

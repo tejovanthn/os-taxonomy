@@ -39712,7 +39712,7 @@
       "sourceUrl": "https://nios.ac.in/media/documents/seccurriculum2020.pdf",
       "textIncluded": true,
       "license": "NIOS Copyright Statement — reproduction permitted with prominent acknowledgment; see PROVENANCE.md",
-      "topicCount": 158,
+      "topicCount": 224,
       "topics": [
         {
           "key": "nios-sec-2020:222.M1.L1",
@@ -41766,6 +41766,864 @@
             "module": "Study Skills",
             "lesson": "Study Skills",
             "description": "Use study skills — note-making, summarising, and using references and dictionaries — to learn independently."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M1.L1",
+          "code": "215.M1.L1",
+          "data": {
+            "title": "Nature and Scope of Business",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "I. Foundations of Business",
+            "lesson": "Nature and Scope of Business",
+            "description": "Understand what business is, its nature, objectives and scope."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M1.L2",
+          "code": "215.M1.L2",
+          "data": {
+            "title": "Industry and Commerce",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "I. Foundations of Business",
+            "lesson": "Industry and Commerce",
+            "description": "Understand industry and commerce and how they relate within business."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M2.L3",
+          "code": "215.M2.L3",
+          "data": {
+            "title": "Sole Proprietorship and Partnership",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "II. Forms of Business Organisation",
+            "lesson": "Sole Proprietorship and Partnership",
+            "description": "Understand sole proprietorship and partnership as forms of business ownership."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M2.L4",
+          "code": "215.M2.L4",
+          "data": {
+            "title": "Companies and Cooperative Societies",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "II. Forms of Business Organisation",
+            "lesson": "Companies and Cooperative Societies",
+            "description": "Understand companies and cooperative societies as forms of business organisation."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M3.L5",
+          "code": "215.M3.L5",
+          "data": {
+            "title": "Transport Services",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "III. Business Services",
+            "lesson": "Transport Services",
+            "description": "Understand the role of transport services in business."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M3.L6",
+          "code": "215.M3.L6",
+          "data": {
+            "title": "Warehousing Services",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "III. Business Services",
+            "lesson": "Warehousing Services",
+            "description": "Understand the role of warehousing in business."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M3.L7",
+          "code": "215.M3.L7",
+          "data": {
+            "title": "Communication Services",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "III. Business Services",
+            "lesson": "Communication Services",
+            "description": "Understand communication services and their role in business."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M3.L8",
+          "code": "215.M3.L8",
+          "data": {
+            "title": "Postal and Courier Services",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "III. Business Services",
+            "lesson": "Postal and Courier Services",
+            "description": "Understand postal and courier services used by business."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M3.L9",
+          "code": "215.M3.L9",
+          "data": {
+            "title": "Banking Services",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "III. Business Services",
+            "lesson": "Banking Services",
+            "description": "Understand the banking services a business uses."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M3.L10",
+          "code": "215.M3.L10",
+          "data": {
+            "title": "Insurance",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "III. Business Services",
+            "lesson": "Insurance",
+            "description": "Understand insurance and how it manages business risk."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M3.L11",
+          "code": "215.M3.L11",
+          "data": {
+            "title": "Outsourcing",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "III. Business Services",
+            "lesson": "Outsourcing",
+            "description": "Understand outsourcing and why businesses use it."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M4.L12",
+          "code": "215.M4.L12",
+          "data": {
+            "title": "Purchase and Sale",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "IV. Trade and Marketing",
+            "lesson": "Purchase and Sale",
+            "description": "Understand the processes of purchase and sale in business."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M4.L13",
+          "code": "215.M4.L13",
+          "data": {
+            "title": "Channels of Distribution",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "IV. Trade and Marketing",
+            "lesson": "Channels of Distribution",
+            "description": "Understand how goods move from producer to consumer through channels of distribution."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M4.L14",
+          "code": "215.M4.L14",
+          "data": {
+            "title": "Retail Trade",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "IV. Trade and Marketing",
+            "lesson": "Retail Trade",
+            "description": "Understand retail trade and its types."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M4.L15",
+          "code": "215.M4.L15",
+          "data": {
+            "title": "Advertising",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "IV. Trade and Marketing",
+            "lesson": "Advertising",
+            "description": "Understand advertising and its role in marketing."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M4.L16",
+          "code": "215.M4.L16",
+          "data": {
+            "title": "Sales Promotion and Publicity",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "IV. Trade and Marketing",
+            "lesson": "Sales Promotion and Publicity",
+            "description": "Understand sales promotion and publicity."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M5.L17",
+          "code": "215.M5.L17",
+          "data": {
+            "title": "Consumer Rights",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "V. Consumer Protection",
+            "lesson": "Consumer Rights",
+            "description": "Understand the rights of consumers."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M5.L18",
+          "code": "215.M5.L18",
+          "data": {
+            "title": "Consumer Protection",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "V. Consumer Protection",
+            "lesson": "Consumer Protection",
+            "description": "Understand how consumers are protected and how to seek redress."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M6.L19",
+          "code": "215.M6.L19",
+          "data": {
+            "title": "Choosing a Career",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "VI. Career and Enterprise",
+            "lesson": "Choosing a Career",
+            "description": "Understand how to choose a career suited to one’s interests and abilities."
+          }
+        },
+        {
+          "key": "nios-sec-2020:215.M6.L20",
+          "code": "215.M6.L20",
+          "data": {
+            "title": "Entrepreneurship",
+            "level": "Secondary",
+            "subject": "Business Studies",
+            "courseCode": "215",
+            "module": "VI. Career and Enterprise",
+            "lesson": "Entrepreneurship",
+            "description": "Understand entrepreneurship — starting and running one’s own business."
+          }
+        },
+        {
+          "key": "nios-sec-2020:224.M1.L1",
+          "code": "224.M1.L1",
+          "data": {
+            "title": "Introduction to Accounting",
+            "level": "Secondary",
+            "subject": "Accountancy",
+            "courseCode": "224",
+            "module": "I. Introduction to Accounting",
+            "lesson": "Introduction to Accounting",
+            "description": "Understand accounting as the recording, classifying and summarising of a business’s financial transactions."
+          }
+        },
+        {
+          "key": "nios-sec-2020:224.M1.L2",
+          "code": "224.M1.L2",
+          "data": {
+            "title": "Accounting Concepts and Conventions",
+            "level": "Secondary",
+            "subject": "Accountancy",
+            "courseCode": "224",
+            "module": "I. Introduction to Accounting",
+            "lesson": "Accounting Concepts and Conventions",
+            "description": "Understand the basic concepts and conventions that guide accounting."
+          }
+        },
+        {
+          "key": "nios-sec-2020:224.M1.L3",
+          "code": "224.M1.L3",
+          "data": {
+            "title": "Accounting Equation and Types of Accounts",
+            "level": "Secondary",
+            "subject": "Accountancy",
+            "courseCode": "224",
+            "module": "I. Introduction to Accounting",
+            "lesson": "Accounting Equation and Types of Accounts",
+            "description": "Understand the accounting equation (assets = liabilities + capital) and the types of accounts."
+          }
+        },
+        {
+          "key": "nios-sec-2020:224.M2.L4",
+          "code": "224.M2.L4",
+          "data": {
+            "title": "Journal",
+            "level": "Secondary",
+            "subject": "Accountancy",
+            "courseCode": "224",
+            "module": "II. Recording Transactions",
+            "lesson": "Journal",
+            "description": "Understand double-entry bookkeeping and recording transactions in the journal."
+          }
+        },
+        {
+          "key": "nios-sec-2020:224.M2.L5",
+          "code": "224.M2.L5",
+          "data": {
+            "title": "Cash Book",
+            "level": "Secondary",
+            "subject": "Accountancy",
+            "courseCode": "224",
+            "module": "II. Recording Transactions",
+            "lesson": "Cash Book",
+            "description": "Understand the cash book and how cash transactions are recorded."
+          }
+        },
+        {
+          "key": "nios-sec-2020:224.M2.L6",
+          "code": "224.M2.L6",
+          "data": {
+            "title": "Special Purpose Books",
+            "level": "Secondary",
+            "subject": "Accountancy",
+            "courseCode": "224",
+            "module": "II. Recording Transactions",
+            "lesson": "Special Purpose Books",
+            "description": "Understand special purpose (subsidiary) books used to record particular kinds of transaction."
+          }
+        },
+        {
+          "key": "nios-sec-2020:224.M3.L7",
+          "code": "224.M3.L7",
+          "data": {
+            "title": "Ledger",
+            "level": "Secondary",
+            "subject": "Accountancy",
+            "courseCode": "224",
+            "module": "III. Ledger and Trial Balance",
+            "lesson": "Ledger",
+            "description": "Understand posting transactions to the ledger and balancing accounts."
+          }
+        },
+        {
+          "key": "nios-sec-2020:224.M3.L8",
+          "code": "224.M3.L8",
+          "data": {
+            "title": "Trial Balance and Errors",
+            "level": "Secondary",
+            "subject": "Accountancy",
+            "courseCode": "224",
+            "module": "III. Ledger and Trial Balance",
+            "lesson": "Trial Balance and Errors",
+            "description": "Understand preparing a trial balance and detecting errors."
+          }
+        },
+        {
+          "key": "nios-sec-2020:224.M4.L9",
+          "code": "224.M4.L9",
+          "data": {
+            "title": "Depreciation",
+            "level": "Secondary",
+            "subject": "Accountancy",
+            "courseCode": "224",
+            "module": "IV. Adjustments",
+            "lesson": "Depreciation",
+            "description": "Understand depreciation — the fall in value of assets over time — and how it is accounted for."
+          }
+        },
+        {
+          "key": "nios-sec-2020:224.M4.L10",
+          "code": "224.M4.L10",
+          "data": {
+            "title": "Provisions and Reserves",
+            "level": "Secondary",
+            "subject": "Accountancy",
+            "courseCode": "224",
+            "module": "IV. Adjustments",
+            "lesson": "Provisions and Reserves",
+            "description": "Understand provisions and reserves and why a business sets them aside."
+          }
+        },
+        {
+          "key": "nios-sec-2020:224.M5.L11",
+          "code": "224.M5.L11",
+          "data": {
+            "title": "Financial Statements – I",
+            "level": "Secondary",
+            "subject": "Accountancy",
+            "courseCode": "224",
+            "module": "V. Financial Statements",
+            "lesson": "Financial Statements – I",
+            "description": "Understand the trading and profit-and-loss account that shows a business’s profit."
+          }
+        },
+        {
+          "key": "nios-sec-2020:224.M5.L12",
+          "code": "224.M5.L12",
+          "data": {
+            "title": "Financial Statements – II",
+            "level": "Secondary",
+            "subject": "Accountancy",
+            "courseCode": "224",
+            "module": "V. Financial Statements",
+            "lesson": "Financial Statements – II",
+            "description": "Understand the balance sheet that shows a business’s financial position."
+          }
+        },
+        {
+          "key": "nios-sec-2020:224.M6.L13",
+          "code": "224.M6.L13",
+          "data": {
+            "title": "Computers in Accounting",
+            "level": "Secondary",
+            "subject": "Accountancy",
+            "courseCode": "224",
+            "module": "VI. Computers in Accounting",
+            "lesson": "Computers in Accounting",
+            "description": "Understand how computers are used in accounting."
+          }
+        },
+        {
+          "key": "nios-sec-2020:224.M6.L14",
+          "code": "224.M6.L14",
+          "data": {
+            "title": "Introduction to Tally",
+            "level": "Secondary",
+            "subject": "Accountancy",
+            "courseCode": "224",
+            "module": "VI. Computers in Accounting",
+            "lesson": "Introduction to Tally",
+            "description": "Understand computerised accounting using software such as Tally."
+          }
+        },
+        {
+          "key": "nios-sec-2020:216.M1.L1",
+          "code": "216.M1.L1",
+          "data": {
+            "title": "What is Home Science",
+            "level": "Secondary",
+            "subject": "Home Science",
+            "courseCode": "216",
+            "module": "I. Foundations",
+            "lesson": "What is Home Science",
+            "description": "Understand home science as the study of managing a home and family well — spanning food, clothing, resources, health and human development."
+          }
+        },
+        {
+          "key": "nios-sec-2020:216.M2.L2",
+          "code": "216.M2.L2",
+          "data": {
+            "title": "Food and Nutrients",
+            "level": "Secondary",
+            "subject": "Home Science",
+            "courseCode": "216",
+            "module": "II. Food and Nutrition",
+            "lesson": "Food and Nutrients",
+            "description": "Understand food, its functions, and the nutrients it provides."
+          }
+        },
+        {
+          "key": "nios-sec-2020:216.M2.L3",
+          "code": "216.M2.L3",
+          "data": {
+            "title": "Balanced Diet and Meal Planning",
+            "level": "Secondary",
+            "subject": "Home Science",
+            "courseCode": "216",
+            "module": "II. Food and Nutrition",
+            "lesson": "Balanced Diet and Meal Planning",
+            "description": "Understand a balanced diet and how to plan meals for the family across life stages."
+          }
+        },
+        {
+          "key": "nios-sec-2020:216.M2.L4",
+          "code": "216.M2.L4",
+          "data": {
+            "title": "Food Safety and Preservation",
+            "level": "Secondary",
+            "subject": "Home Science",
+            "courseCode": "216",
+            "module": "II. Food and Nutrition",
+            "lesson": "Food Safety and Preservation",
+            "description": "Understand food hygiene, safety, and methods of preserving food."
+          }
+        },
+        {
+          "key": "nios-sec-2020:216.M3.L5",
+          "code": "216.M3.L5",
+          "data": {
+            "title": "Fibres and Fabrics",
+            "level": "Secondary",
+            "subject": "Home Science",
+            "courseCode": "216",
+            "module": "III. Textiles and Clothing",
+            "lesson": "Fibres and Fabrics",
+            "description": "Understand fibres and fabrics and their properties."
+          }
+        },
+        {
+          "key": "nios-sec-2020:216.M3.L6",
+          "code": "216.M3.L6",
+          "data": {
+            "title": "Selection and Care of Clothing",
+            "level": "Secondary",
+            "subject": "Home Science",
+            "courseCode": "216",
+            "module": "III. Textiles and Clothing",
+            "lesson": "Selection and Care of Clothing",
+            "description": "Understand how to select clothing and care for it — washing, storage and repair."
+          }
+        },
+        {
+          "key": "nios-sec-2020:216.M4.L7",
+          "code": "216.M4.L7",
+          "data": {
+            "title": "Managing Family Resources",
+            "level": "Secondary",
+            "subject": "Home Science",
+            "courseCode": "216",
+            "module": "IV. Resource Management",
+            "lesson": "Managing Family Resources",
+            "description": "Understand how to manage family resources — money, time, energy and space."
+          }
+        },
+        {
+          "key": "nios-sec-2020:216.M4.L8",
+          "code": "216.M4.L8",
+          "data": {
+            "title": "Consumer Education",
+            "level": "Secondary",
+            "subject": "Home Science",
+            "courseCode": "216",
+            "module": "IV. Resource Management",
+            "lesson": "Consumer Education",
+            "description": "Understand consumer education — making wise purchases and knowing consumer rights."
+          }
+        },
+        {
+          "key": "nios-sec-2020:216.M5.L9",
+          "code": "216.M5.L9",
+          "data": {
+            "title": "Growth and Development",
+            "level": "Secondary",
+            "subject": "Home Science",
+            "courseCode": "216",
+            "module": "V. Human Development",
+            "lesson": "Growth and Development",
+            "description": "Understand the growth and development of children and the needs of each stage."
+          }
+        },
+        {
+          "key": "nios-sec-2020:216.M5.L10",
+          "code": "216.M5.L10",
+          "data": {
+            "title": "The Family and its Relationships",
+            "level": "Secondary",
+            "subject": "Home Science",
+            "courseCode": "216",
+            "module": "V. Human Development",
+            "lesson": "The Family and its Relationships",
+            "description": "Understand the family, its life stages, and healthy relationships within it."
+          }
+        },
+        {
+          "key": "nios-sec-2020:216.M6.L11",
+          "code": "216.M6.L11",
+          "data": {
+            "title": "Personal and Family Health",
+            "level": "Secondary",
+            "subject": "Home Science",
+            "courseCode": "216",
+            "module": "VI. Health and Hygiene",
+            "lesson": "Personal and Family Health",
+            "description": "Understand personal and family health, hygiene and sanitation."
+          }
+        },
+        {
+          "key": "nios-sec-2020:216.M6.L12",
+          "code": "216.M6.L12",
+          "data": {
+            "title": "First Aid and Home Nursing",
+            "level": "Secondary",
+            "subject": "Home Science",
+            "courseCode": "216",
+            "module": "VI. Health and Hygiene",
+            "lesson": "First Aid and Home Nursing",
+            "description": "Understand basic first aid and caring for the sick at home."
+          }
+        },
+        {
+          "key": "nios-sec-2020:225.M1.L1",
+          "code": "225.M1.L1",
+          "data": {
+            "title": "Introduction to Painting",
+            "level": "Secondary",
+            "subject": "Visual Arts",
+            "courseCode": "225",
+            "module": "I. Understanding Art",
+            "lesson": "Introduction to Painting",
+            "description": "Understand painting as expressing ideas and feelings through line, colour, form and proportion."
+          }
+        },
+        {
+          "key": "nios-sec-2020:225.M1.L2",
+          "code": "225.M1.L2",
+          "data": {
+            "title": "History and Appreciation of Indian Art",
+            "level": "Secondary",
+            "subject": "Visual Arts",
+            "courseCode": "225",
+            "module": "I. Understanding Art",
+            "lesson": "History and Appreciation of Indian Art",
+            "description": "Appreciate the history of Indian art and how to look at and value a work of art."
+          }
+        },
+        {
+          "key": "nios-sec-2020:225.M2.L3",
+          "code": "225.M2.L3",
+          "data": {
+            "title": "Elements of Art",
+            "level": "Secondary",
+            "subject": "Visual Arts",
+            "courseCode": "225",
+            "module": "II. Elements and Principles",
+            "lesson": "Elements of Art",
+            "description": "Understand the elements of art — line, shape, form, colour, texture, space and tone."
+          }
+        },
+        {
+          "key": "nios-sec-2020:225.M2.L4",
+          "code": "225.M2.L4",
+          "data": {
+            "title": "Colour",
+            "level": "Secondary",
+            "subject": "Visual Arts",
+            "courseCode": "225",
+            "module": "II. Elements and Principles",
+            "lesson": "Colour",
+            "description": "Understand colour — the colour wheel, primary and secondary colours, warm and cool colours, and tonal gradation."
+          }
+        },
+        {
+          "key": "nios-sec-2020:225.M2.L5",
+          "code": "225.M2.L5",
+          "data": {
+            "title": "Principles of Composition",
+            "level": "Secondary",
+            "subject": "Visual Arts",
+            "courseCode": "225",
+            "module": "II. Elements and Principles",
+            "lesson": "Principles of Composition",
+            "description": "Understand the principles of composition — balance, rhythm, proportion, contrast and harmony."
+          }
+        },
+        {
+          "key": "nios-sec-2020:225.M3.L6",
+          "code": "225.M3.L6",
+          "data": {
+            "title": "Drawing",
+            "level": "Secondary",
+            "subject": "Visual Arts",
+            "courseCode": "225",
+            "module": "III. Drawing and Composition",
+            "lesson": "Drawing",
+            "description": "Develop drawing skills — observation, proportion and rendering form."
+          }
+        },
+        {
+          "key": "nios-sec-2020:225.M3.L7",
+          "code": "225.M3.L7",
+          "data": {
+            "title": "Still Life, Landscape and Composition",
+            "level": "Secondary",
+            "subject": "Visual Arts",
+            "courseCode": "225",
+            "module": "III. Drawing and Composition",
+            "lesson": "Still Life, Landscape and Composition",
+            "description": "Create still-life, landscape and figure compositions using the elements and principles of art."
+          }
+        },
+        {
+          "key": "nios-sec-2020:225.M4.L8",
+          "code": "225.M4.L8",
+          "data": {
+            "title": "Indian Folk and Miniature Art",
+            "level": "Secondary",
+            "subject": "Visual Arts",
+            "courseCode": "225",
+            "module": "IV. Indian Art Traditions",
+            "lesson": "Indian Folk and Miniature Art",
+            "description": "Appreciate India’s folk art traditions and its rich miniature painting tradition."
+          }
+        },
+        {
+          "key": "nios-sec-2020:225.M4.L9",
+          "code": "225.M4.L9",
+          "data": {
+            "title": "Pioneers of Modern Indian Art",
+            "level": "Secondary",
+            "subject": "Visual Arts",
+            "courseCode": "225",
+            "module": "IV. Indian Art Traditions",
+            "lesson": "Pioneers of Modern Indian Art",
+            "description": "Know the pioneers of modern Indian art and their contribution."
+          }
+        },
+        {
+          "key": "nios-sec-2020:225.M4.L10",
+          "code": "225.M4.L10",
+          "data": {
+            "title": "Contemporary Indian Art",
+            "level": "Secondary",
+            "subject": "Visual Arts",
+            "courseCode": "225",
+            "module": "IV. Indian Art Traditions",
+            "lesson": "Contemporary Indian Art",
+            "description": "Appreciate contemporary Indian art and its themes."
+          }
+        },
+        {
+          "key": "nios-sec-2020:242.M1.L1",
+          "code": "242.M1.L1",
+          "data": {
+            "title": "Shruti, Svara and Saptak",
+            "level": "Secondary",
+            "subject": "Music (Hindustani)",
+            "courseCode": "242",
+            "module": "I. Fundamentals of Indian Music",
+            "lesson": "Shruti, Svara and Saptak",
+            "description": "Understand the basic units of Indian music — shruti (microtone), svara (note) and saptak (octave)."
+          }
+        },
+        {
+          "key": "nios-sec-2020:242.M1.L2",
+          "code": "242.M1.L2",
+          "data": {
+            "title": "Raga",
+            "level": "Secondary",
+            "subject": "Music (Hindustani)",
+            "courseCode": "242",
+            "module": "I. Fundamentals of Indian Music",
+            "lesson": "Raga",
+            "description": "Understand the raga — a melodic framework — its aroha and avaroha (ascent and descent) and mood."
+          }
+        },
+        {
+          "key": "nios-sec-2020:242.M1.L3",
+          "code": "242.M1.L3",
+          "data": {
+            "title": "Tala",
+            "level": "Secondary",
+            "subject": "Music (Hindustani)",
+            "courseCode": "242",
+            "module": "I. Fundamentals of Indian Music",
+            "lesson": "Tala",
+            "description": "Understand tala — the rhythmic cycle — and how to keep and recite it (theka)."
+          }
+        },
+        {
+          "key": "nios-sec-2020:242.M2.L4",
+          "code": "242.M2.L4",
+          "data": {
+            "title": "The Thaat System",
+            "level": "Secondary",
+            "subject": "Music (Hindustani)",
+            "courseCode": "242",
+            "module": "II. Hindustani Music",
+            "lesson": "The Thaat System",
+            "description": "Understand the thaat system that classifies Hindustani ragas."
+          }
+        },
+        {
+          "key": "nios-sec-2020:242.M2.L5",
+          "code": "242.M2.L5",
+          "data": {
+            "title": "Forms and Compositions",
+            "level": "Secondary",
+            "subject": "Music (Hindustani)",
+            "courseCode": "242",
+            "module": "II. Hindustani Music",
+            "lesson": "Forms and Compositions",
+            "description": "Understand Hindustani vocal forms such as dhrupad and khayal and their compositions."
+          }
+        },
+        {
+          "key": "nios-sec-2020:242.M2.L6",
+          "code": "242.M2.L6",
+          "data": {
+            "title": "Notation and Voice Culture",
+            "level": "Secondary",
+            "subject": "Music (Hindustani)",
+            "courseCode": "242",
+            "module": "II. Hindustani Music",
+            "lesson": "Notation and Voice Culture",
+            "description": "Understand the notation system and the practice of voice culture and alankaras."
+          }
+        },
+        {
+          "key": "nios-sec-2020:243.M1.L1",
+          "code": "243.M1.L1",
+          "data": {
+            "title": "Swara, Sruti and Gamaka",
+            "level": "Secondary",
+            "subject": "Music (Carnatic)",
+            "courseCode": "243",
+            "module": "I. Fundamentals",
+            "lesson": "Swara, Sruti and Gamaka",
+            "description": "Understand the Carnatic basics — swara, sruti, and gamaka (the ornamentation that gives Carnatic music its character)."
+          }
+        },
+        {
+          "key": "nios-sec-2020:243.M2.L2",
+          "code": "243.M2.L2",
+          "data": {
+            "title": "Raga and Tala in Carnatic Music",
+            "level": "Secondary",
+            "subject": "Music (Carnatic)",
+            "courseCode": "243",
+            "module": "II. Carnatic Music",
+            "lesson": "Raga and Tala in Carnatic Music",
+            "description": "Understand raga and tala as used in Carnatic music, including the tala angas and alankaras."
+          }
+        },
+        {
+          "key": "nios-sec-2020:243.M2.L3",
+          "code": "243.M2.L3",
+          "data": {
+            "title": "Forms and Compositions",
+            "level": "Secondary",
+            "subject": "Music (Carnatic)",
+            "courseCode": "243",
+            "module": "II. Carnatic Music",
+            "lesson": "Forms and Compositions",
+            "description": "Understand Carnatic forms such as the geetam, varnam and kriti and their structure."
+          }
+        },
+        {
+          "key": "nios-sec-2020:243.M2.L4",
+          "code": "243.M2.L4",
+          "data": {
+            "title": "Composers of Carnatic Music",
+            "level": "Secondary",
+            "subject": "Music (Carnatic)",
+            "courseCode": "243",
+            "module": "II. Carnatic Music",
+            "lesson": "Composers of Carnatic Music",
+            "description": "Know the great composers of Carnatic music, including the Trinity — Tyagaraja, Muthuswami Dikshitar and Syama Sastri."
           }
         }
       ]
