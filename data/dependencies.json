@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3307,
+  "edgeCount": 3359,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -19844,6 +19844,318 @@
       "prerequisiteId": "mt_8SKBJJFzh1",
       "strength": "soft",
       "reason": "E-governance delivers government services and schemes online"
+    },
+    {
+      "topicId": "mt_n1f6mdT82s",
+      "prerequisiteId": "mt_zyKjsmb4Qk",
+      "strength": "soft",
+      "reason": "Understanding town planning builds on knowing the Indus cities existed"
+    },
+    {
+      "topicId": "mt_86Mben8sNG",
+      "prerequisiteId": "mt_n1f6mdT82s",
+      "strength": "soft",
+      "reason": "The great public buildings are part of the planned city"
+    },
+    {
+      "topicId": "mt_mcFVkNDrsz",
+      "prerequisiteId": "mt_zyKjsmb4Qk",
+      "strength": "soft",
+      "reason": "Crafts and trade are studied once the cities are known"
+    },
+    {
+      "topicId": "mt_AH4kENGEqX",
+      "prerequisiteId": "mt_zyKjsmb4Qk",
+      "strength": "soft",
+      "reason": "Everyday life is set within the Indus cities"
+    },
+    {
+      "topicId": "mt_CZbHgJ4jLw",
+      "prerequisiteId": "mt_zyKjsmb4Qk",
+      "strength": "hard",
+      "reason": "The decline of the cities presupposes knowing they flourished"
+    },
+    {
+      "topicId": "mt_zyKjsmb4Qk",
+      "prerequisiteId": "mt_9UT0aF8Fmn",
+      "strength": "soft",
+      "reason": "A specific look at the Indus cities builds on the overview of the civilisation"
+    },
+    {
+      "topicId": "mt_3wtwfvYz8N",
+      "prerequisiteId": "mt_jgJMDA0GTY",
+      "strength": "soft",
+      "reason": "The Vedic people build on the overview of the Vedic age"
+    },
+    {
+      "topicId": "mt_3wtwfvYz8N",
+      "prerequisiteId": "mt_CZbHgJ4jLw",
+      "strength": "soft",
+      "reason": "The Vedic age follows the decline of the Indus cities"
+    },
+    {
+      "topicId": "mt_VfuKtBDXSg",
+      "prerequisiteId": "mt_3wtwfvYz8N",
+      "strength": "soft",
+      "reason": "The Vedas belong to the Vedic people just introduced"
+    },
+    {
+      "topicId": "mt_vIkPpl3BBu",
+      "prerequisiteId": "mt_3wtwfvYz8N",
+      "strength": "soft",
+      "reason": "Vedic society develops the picture of the Vedic people"
+    },
+    {
+      "topicId": "mt_98e4lwRafa",
+      "prerequisiteId": "mt_3wtwfvYz8N",
+      "strength": "soft",
+      "reason": "The epics come from the Vedic period"
+    },
+    {
+      "topicId": "mt_hqW8c6NNvt",
+      "prerequisiteId": "mt_SBHKtfCzu3",
+      "strength": "soft",
+      "reason": "The mahajanapadas set the stage covered in the Maurya overview"
+    },
+    {
+      "topicId": "mt_hqW8c6NNvt",
+      "prerequisiteId": "mt_vIkPpl3BBu",
+      "strength": "soft",
+      "reason": "Kingdoms grow out of later Vedic society"
+    },
+    {
+      "topicId": "mt_ODhwxDUChm",
+      "prerequisiteId": "mt_hqW8c6NNvt",
+      "strength": "hard",
+      "reason": "The empire is founded by uniting the mahajanapadas"
+    },
+    {
+      "topicId": "mt_K4ruZTN8Ip",
+      "prerequisiteId": "mt_ODhwxDUChm",
+      "strength": "hard",
+      "reason": "Ashoka rules the empire Chandragupta founded"
+    },
+    {
+      "topicId": "mt_b0A4dFFg9E",
+      "prerequisiteId": "mt_K4ruZTN8Ip",
+      "strength": "soft",
+      "reason": "The edicts spread the message Ashoka embraced after Kalinga"
+    },
+    {
+      "topicId": "mt_e0iI8dObNV",
+      "prerequisiteId": "mt_EpCX1FgGqv",
+      "strength": "soft",
+      "reason": "A closer look at the Guptas builds on the Gupta overview"
+    },
+    {
+      "topicId": "mt_e0iI8dObNV",
+      "prerequisiteId": "mt_K4ruZTN8Ip",
+      "strength": "soft",
+      "reason": "The Guptas rise well after the Mauryas in chronology"
+    },
+    {
+      "topicId": "mt_AoEOx02SlR",
+      "prerequisiteId": "mt_e0iI8dObNV",
+      "strength": "soft",
+      "reason": "Gupta science flourished under the stable Gupta Empire"
+    },
+    {
+      "topicId": "mt_HUvBpsnOo9",
+      "prerequisiteId": "mt_e0iI8dObNV",
+      "strength": "soft",
+      "reason": "Harshavardhana ruled after the Guptas"
+    },
+    {
+      "topicId": "mt_XHIhoA2kfj",
+      "prerequisiteId": "mt_fxcXASVcXE",
+      "strength": "soft",
+      "reason": "The Cholas are a specific southern kingdom from the overview"
+    },
+    {
+      "topicId": "mt_PGkgkndKX5",
+      "prerequisiteId": "mt_XHIhoA2kfj",
+      "strength": "soft",
+      "reason": "Southern temples and trade build on knowing the Chola empire"
+    },
+    {
+      "topicId": "mt_U6RVZvLbMx",
+      "prerequisiteId": "mt_FUDkWnl03o",
+      "strength": "soft",
+      "reason": "A closer look builds on the Delhi Sultanate overview"
+    },
+    {
+      "topicId": "mt_U6RVZvLbMx",
+      "prerequisiteId": "mt_HUvBpsnOo9",
+      "strength": "soft",
+      "reason": "Medieval rule follows the last ancient northern kings"
+    },
+    {
+      "topicId": "mt_ZOsGEcPcxD",
+      "prerequisiteId": "mt_U6RVZvLbMx",
+      "strength": "hard",
+      "reason": "Administration presupposes the Sultanate being established"
+    },
+    {
+      "topicId": "mt_ZgEsUMPGWa",
+      "prerequisiteId": "mt_U6RVZvLbMx",
+      "strength": "soft",
+      "reason": "Sultanate architecture is studied once its rule is known"
+    },
+    {
+      "topicId": "mt_nzTueQH6r4",
+      "prerequisiteId": "mt_U6RVZvLbMx",
+      "strength": "hard",
+      "reason": "The Mughals defeat and follow the Delhi Sultanate"
+    },
+    {
+      "topicId": "mt_nzTueQH6r4",
+      "prerequisiteId": "mt_fvAz0QwV5b",
+      "strength": "soft",
+      "reason": "Babur’s founding builds on the Mughal overview"
+    },
+    {
+      "topicId": "mt_PHDgVRFidt",
+      "prerequisiteId": "mt_nzTueQH6r4",
+      "strength": "hard",
+      "reason": "Akbar rules the empire Babur founded"
+    },
+    {
+      "topicId": "mt_GckMVcXKyk",
+      "prerequisiteId": "mt_PHDgVRFidt",
+      "strength": "soft",
+      "reason": "Mughal art flourished under emperors like Akbar and Shah Jahan"
+    },
+    {
+      "topicId": "mt_bb0jFtGNVG",
+      "prerequisiteId": "mt_PHDgVRFidt",
+      "strength": "soft",
+      "reason": "Everyday Mughal life is set in the established empire"
+    },
+    {
+      "topicId": "mt_KMm4K5rZBq",
+      "prerequisiteId": "mt_GMNJygVgfN",
+      "strength": "soft",
+      "reason": "Shivaji builds on the Marathas and Rajputs overview"
+    },
+    {
+      "topicId": "mt_KMm4K5rZBq",
+      "prerequisiteId": "mt_PHDgVRFidt",
+      "strength": "soft",
+      "reason": "The Marathas rose to challenge Mughal power"
+    },
+    {
+      "topicId": "mt_Ayp6VkO7uC",
+      "prerequisiteId": "mt_PHDgVRFidt",
+      "strength": "soft",
+      "reason": "Rajput–Mughal relations presuppose knowing the Mughals"
+    },
+    {
+      "topicId": "mt_EDtuNRjNdi",
+      "prerequisiteId": "mt_gM1adZDGIy",
+      "strength": "soft",
+      "reason": "A closer look builds on the British Rule overview"
+    },
+    {
+      "topicId": "mt_EDtuNRjNdi",
+      "prerequisiteId": "mt_bb0jFtGNVG",
+      "strength": "soft",
+      "reason": "The Company arrives as Mughal power wanes"
+    },
+    {
+      "topicId": "mt_P1APNBAJwz",
+      "prerequisiteId": "mt_EDtuNRjNdi",
+      "strength": "hard",
+      "reason": "The Company becomes a ruler after arriving to trade"
+    },
+    {
+      "topicId": "mt_ZCwHKy4rEZ",
+      "prerequisiteId": "mt_P1APNBAJwz",
+      "strength": "hard",
+      "reason": "Economic impact follows the Company taking control"
+    },
+    {
+      "topicId": "mt_urJm0eW3GK",
+      "prerequisiteId": "mt_P1APNBAJwz",
+      "strength": "hard",
+      "reason": "The 1857 revolt is a response to Company rule"
+    },
+    {
+      "topicId": "mt_612ezPQBl1",
+      "prerequisiteId": "mt_urJm0eW3GK",
+      "strength": "hard",
+      "reason": "Organised nationalism grows after 1857 and Crown rule"
+    },
+    {
+      "topicId": "mt_612ezPQBl1",
+      "prerequisiteId": "mt_Jd2NQIbpjV",
+      "strength": "soft",
+      "reason": "A closer look builds on the Freedom Struggle overview"
+    },
+    {
+      "topicId": "mt_ijRSgBBd0W",
+      "prerequisiteId": "mt_612ezPQBl1",
+      "strength": "hard",
+      "reason": "Gandhi led the movement the Congress had begun"
+    },
+    {
+      "topicId": "mt_XgBJu5fJiR",
+      "prerequisiteId": "mt_ijRSgBBd0W",
+      "strength": "hard",
+      "reason": "The mass movements were largely led by Gandhi"
+    },
+    {
+      "topicId": "mt_zyOZjpvokG",
+      "prerequisiteId": "mt_612ezPQBl1",
+      "strength": "soft",
+      "reason": "The revolutionary path is one strand of the national movement"
+    },
+    {
+      "topicId": "mt_lJfcDibOG1",
+      "prerequisiteId": "mt_XgBJu5fJiR",
+      "strength": "hard",
+      "reason": "Independence in 1947 is the outcome of the freedom movements"
+    },
+    {
+      "topicId": "mt_YIyFqxPOYN",
+      "prerequisiteId": "mt_t6BQm5x5Su",
+      "strength": "soft",
+      "reason": "Named reformers build on the reform-and-awakening overview"
+    },
+    {
+      "topicId": "mt_YIyFqxPOYN",
+      "prerequisiteId": "mt_ZCwHKy4rEZ",
+      "strength": "soft",
+      "reason": "Reform movements grew under British rule"
+    },
+    {
+      "topicId": "mt_UJqGKMoRvb",
+      "prerequisiteId": "mt_zniDXv3Ko3",
+      "strength": "soft",
+      "reason": "A closer look at mountains and rivers builds on the physical-features overview"
+    },
+    {
+      "topicId": "mt_qNSCvaxZKR",
+      "prerequisiteId": "mt_zniDXv3Ko3",
+      "strength": "soft",
+      "reason": "The monsoon is part of India’s climate and physical geography"
+    },
+    {
+      "topicId": "mt_qNSCvaxZKR",
+      "prerequisiteId": "mt_UJqGKMoRvb",
+      "strength": "soft",
+      "reason": "The monsoon and the rivers together shape the land"
+    },
+    {
+      "topicId": "mt_RFilNlLL3T",
+      "prerequisiteId": "mt_Qx5riGaO8e",
+      "strength": "soft",
+      "reason": "Forests and wildlife are natural resources from the overview"
+    },
+    {
+      "topicId": "mt_RE1bwmAHw1",
+      "prerequisiteId": "mt_Qx5riGaO8e",
+      "strength": "soft",
+      "reason": "Minerals and energy are natural resources from the overview"
     }
   ]
 }

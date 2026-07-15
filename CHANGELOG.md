@@ -8,6 +8,12 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### Indian history & geography — depth decomposition (2026-07-15)
+- **42 new micro-topics** bringing the India-specific content up to the taxonomy's own grain. The B/C pass had authored Indian history at "one topic per era" (e.g. the whole Indus Valley Civilisation as a single topic), whereas the taxonomy decomposes *one* ancient civilization into ~29 micro-topics (Ancient Egypt), graduated across ages 5–14.
+- **Indian history** now decomposed to that grain — Ancient India 5 → 24 topics, Medieval India 3 → 12, Modern India 3 → 13 (e.g. the Indus Valley now spans *Cities*, *Town Planning and Drainage*, *The Great Bath and Granaries*, *Seals, Crafts and Trade*, *Daily Life*, *Decline*, at ages 5–11). The coarse overview topics remain as age-appropriate entry points; the specific micro-topics hang off them and off the chronology.
+- **Indian geography** split into distinct ideas (the Himalayas & rivers, the monsoon, forests & wildlife, minerals & energy).
+- **52 new prerequisite edges** (chronological + hangs-off-overview) and **5 clusters**. Purely additive — every prior topic byte-unchanged. `scripts/build/nios-obe-in-depth.mjs` (idempotent). Graph re-verified acyclic.
+
 ### NIOS Open Basic Education Levels 'B' & 'C' (2026-07-14)
 - **Two new sources `nios-obe-b` (70 standards) and `nios-obe-c` (70 standards)** — the continuation of Level 'A'. Level 'B': Environmental Studies, Mathematics, Basic Computer Skills. Level 'C': Social Science, Mathematics, Basic Computer Skills, and Science. Full text; same NIOS rights basis as Level 'A' — see [PROVENANCE.md](PROVENANCE.md).
 - **123 existing micro-topics aligned** (149 new topic↔standard links) — the bulk of Levels B/C Maths and Science maps onto existing topics.

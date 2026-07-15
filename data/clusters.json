@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 206,
+  "clusterCount": 211,
   "clusters": [
     {
       "subject": "English",
@@ -1237,6 +1237,36 @@
       "domain": "Computer Basics",
       "ageRangeStart": 11,
       "summary": "Your child is learning how computers connect and serve us — networks, multimedia, and online services like banking and e-commerce, used safely."
+    },
+    {
+      "subject": "History",
+      "domain": "Ancient India",
+      "ageRangeStart": 5,
+      "summary": "Your child is meeting the earliest Indians — the great cities of the Indus Valley, what daily life was like there, and the famous story of the emperor Ashoka."
+    },
+    {
+      "subject": "History",
+      "domain": "Ancient India",
+      "ageRangeStart": 7,
+      "summary": "Your child is looking closely at ancient India — the clever town planning of the Indus cities, the great epics, and how a mighty emperor chose peace after a terrible war."
+    },
+    {
+      "subject": "History",
+      "domain": "Medieval India",
+      "ageRangeStart": 7,
+      "summary": "Your child is exploring medieval India through its art and buildings — most famously the Taj Mahal, built by the Mughals."
+    },
+    {
+      "subject": "History",
+      "domain": "Medieval India",
+      "ageRangeStart": 9,
+      "summary": "Your child is getting to know the rulers of medieval India — the great Akbar, and Shivaji who built the Maratha kingdom and stood up to the Mughals."
+    },
+    {
+      "subject": "History",
+      "domain": "Modern India",
+      "ageRangeStart": 9,
+      "summary": "Your child is learning how India won its freedom — above all how Mahatma Gandhi led the struggle peacefully, without violence."
     }
   ]
 }
