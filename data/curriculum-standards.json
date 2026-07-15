@@ -6,7 +6,7 @@
     "ngss-k5",
     "ngss-ms"
   ],
-  "curriculumCount": 10,
+  "curriculumCount": 11,
   "curricula": [
     {
       "slug": "uk-nc-2013",
@@ -39700,6 +39700,369 @@
             "courseCode": "C-105",
             "lesson": "Module 7: Natural Resources",
             "description": "Understand waste and its harmful accumulation, the process of waste management (reduce, recycle, reuse), sewage management, and the Swachh Bharat (Clean India) drive."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nios-sec-2020",
+      "country": "IN",
+      "name": "NIOS Secondary Curriculum 2020",
+      "version": "2020",
+      "sourceUrl": "https://nios.ac.in/media/documents/seccurriculum2020.pdf",
+      "textIncluded": true,
+      "license": "NIOS Copyright Statement — reproduction permitted with prominent acknowledgment; see PROVENANCE.md",
+      "topicCount": 27,
+      "topics": [
+        {
+          "key": "nios-sec-2020:222.M1.L1",
+          "code": "222.M1.L1",
+          "data": {
+            "title": "An Introduction to Psychology",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "I. Foundations of Psychology",
+            "lesson": "An Introduction to Psychology",
+            "description": "Understand psychology as the scientific study of behaviour and mental processes, and its main fields and applications."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M1.L2",
+          "code": "222.M1.L2",
+          "data": {
+            "title": "Methods of Psychology",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "I. Foundations of Psychology",
+            "lesson": "Methods of Psychology",
+            "description": "Understand how psychologists study behaviour — observation, experiment, survey, interview and case study."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M1.L3",
+          "code": "222.M1.L3",
+          "data": {
+            "title": "Individual Differences",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "I. Foundations of Psychology",
+            "lesson": "Individual Differences",
+            "description": "Understand that people differ in intelligence, personality and abilities, and how these differences are described and measured."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M2.L4",
+          "code": "222.M2.L4",
+          "data": {
+            "title": "Learning",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "II. Basic Psychological Processes",
+            "lesson": "Learning",
+            "description": "Understand learning as a relatively lasting change in behaviour through experience — classical and operant conditioning and observational learning."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M2.L5",
+          "code": "222.M2.L5",
+          "data": {
+            "title": "Sensory Processes: Attention and Perception",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "II. Basic Psychological Processes",
+            "lesson": "Sensory Processes: Attention and Perception",
+            "description": "Understand how we take in information through the senses, attend to some of it, and organise it into meaningful perception."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M2.L6",
+          "code": "222.M2.L6",
+          "data": {
+            "title": "Memory",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "II. Basic Psychological Processes",
+            "lesson": "Memory",
+            "description": "Understand memory as encoding, storage and retrieval, its stages, why we forget, and how to remember better."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M2.L7",
+          "code": "222.M2.L7",
+          "data": {
+            "title": "Thinking and Problem Solving",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "II. Basic Psychological Processes",
+            "lesson": "Thinking and Problem Solving",
+            "description": "Understand thinking, reasoning, problem solving and decision making, and obstacles to good thinking."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M2.L8",
+          "code": "222.M2.L8",
+          "data": {
+            "title": "Motivation and Emotion",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "II. Basic Psychological Processes",
+            "lesson": "Motivation and Emotion",
+            "description": "Understand motivation as what drives behaviour (needs, drives, goals) and emotion as feeling states with bodily and mental components."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M3.L9",
+          "code": "222.M3.L9",
+          "data": {
+            "title": "Nature and Determinants of Development",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "III. Human Development",
+            "lesson": "Nature and Determinants of Development",
+            "description": "Understand human development across the lifespan and how heredity (nature) and environment (nurture) shape it."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M3.L10",
+          "code": "222.M3.L10",
+          "data": {
+            "title": "Childhood",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "III. Human Development",
+            "lesson": "Childhood",
+            "description": "Understand the physical, cognitive, emotional and social development that happens during childhood."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M3.L11",
+          "code": "222.M3.L11",
+          "data": {
+            "title": "Adolescence and its Challenges",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "III. Human Development",
+            "lesson": "Adolescence and its Challenges",
+            "description": "Understand adolescence as a stage of rapid change and identity formation, and the challenges it brings."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M3.L12",
+          "code": "222.M3.L12",
+          "data": {
+            "title": "Adulthood and Aging",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "III. Human Development",
+            "lesson": "Adulthood and Aging",
+            "description": "Understand the stages, tasks and changes of adulthood and aging."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M4.L13",
+          "code": "222.M4.L13",
+          "data": {
+            "title": "Groups and Leadership",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "IV. Social Psychological Processes",
+            "lesson": "Groups and Leadership",
+            "description": "Understand how people behave in groups and the nature and styles of leadership."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M4.L14",
+          "code": "222.M4.L14",
+          "data": {
+            "title": "Communication",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "IV. Social Psychological Processes",
+            "lesson": "Communication",
+            "description": "Understand the process of communication, its types (verbal and non-verbal), and barriers to it."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M4.L15",
+          "code": "222.M4.L15",
+          "data": {
+            "title": "Attitudes, Beliefs and Social Cognition",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "IV. Social Psychological Processes",
+            "lesson": "Attitudes, Beliefs and Social Cognition",
+            "description": "Understand how attitudes and beliefs form and change, and how we perceive and think about other people."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M4.L16",
+          "code": "222.M4.L16",
+          "data": {
+            "title": "Social and Educational Problems",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "IV. Social Psychological Processes",
+            "lesson": "Social and Educational Problems",
+            "description": "Understand some major social and educational problems from a psychological point of view."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M5.L17",
+          "code": "222.M5.L17",
+          "data": {
+            "title": "Happiness and Wellbeing",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "V. Health and Well Being",
+            "lesson": "Happiness and Wellbeing",
+            "description": "Understand the psychology of happiness and well-being and the obstacles to and paths towards them."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M5.L18",
+          "code": "222.M5.L18",
+          "data": {
+            "title": "Mental Disorders and their Treatment",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "V. Health and Well Being",
+            "lesson": "Mental Disorders and their Treatment",
+            "description": "Understand what mental disorders are, some common ones, and how they can be treated — reducing stigma."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M5.L19",
+          "code": "222.M5.L19",
+          "data": {
+            "title": "Mental Health and Hygiene",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "V. Health and Well Being",
+            "lesson": "Mental Health and Hygiene",
+            "description": "Understand mental health and everyday practices that support positive mental health."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M6.L20",
+          "code": "222.M6.L20",
+          "data": {
+            "title": "Aptitude, Interest and Job Requirements",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "VI. Work Life and Environmental Concerns",
+            "lesson": "Aptitude, Interest and Job Requirements",
+            "description": "Understand aptitudes and interests and how they relate to the requirements of different jobs."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M6.L21",
+          "code": "222.M6.L21",
+          "data": {
+            "title": "Preparation for the Vocational Role",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "VI. Work Life and Environmental Concerns",
+            "lesson": "Preparation for the Vocational Role",
+            "description": "Understand how to prepare for a vocational role — skills, planning and readiness for work."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M6.L22",
+          "code": "222.M6.L22",
+          "data": {
+            "title": "The World of Organization",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "VI. Work Life and Environmental Concerns",
+            "lesson": "The World of Organization",
+            "description": "Understand how psychology applies to organisations and the world of work."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M6.L23",
+          "code": "222.M6.L23",
+          "data": {
+            "title": "Environmental Stress",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "VI. Work Life and Environmental Concerns",
+            "lesson": "Environmental Stress",
+            "description": "Understand stress arising from the environment and ways of coping with it."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M7.L24",
+          "code": "222.M7.L24",
+          "data": {
+            "title": "Healthy Mind in a Healthy Body",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "VII. Yoga: A Way of Life",
+            "lesson": "Healthy Mind in a Healthy Body",
+            "description": "Understand yoga as an ancient practice linking a healthy body and a healthy mind."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M7.L25",
+          "code": "222.M7.L25",
+          "data": {
+            "title": "Self-development and Yoga",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "VII. Yoga: A Way of Life",
+            "lesson": "Self-development and Yoga",
+            "description": "Understand how yoga supports self-development, self-awareness and regulation."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M7.L26",
+          "code": "222.M7.L26",
+          "data": {
+            "title": "Nurturing the Whole Person",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "VII. Yoga: A Way of Life",
+            "lesson": "Nurturing the Whole Person",
+            "description": "Understand yoga as nurturing the whole person — body, mind and emotions."
+          }
+        },
+        {
+          "key": "nios-sec-2020:222.M7.L27",
+          "code": "222.M7.L27",
+          "data": {
+            "title": "Controlling and Regulating the Mind",
+            "level": "Secondary",
+            "subject": "Psychology",
+            "courseCode": "222",
+            "module": "VII. Yoga: A Way of Life",
+            "lesson": "Controlling and Regulating the Mind",
+            "description": "Understand yoga and meditation as ways of calming and regulating the mind."
           }
         }
       ]

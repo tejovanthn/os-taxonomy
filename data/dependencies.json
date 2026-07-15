@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3412,
+  "edgeCount": 3435,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -20474,6 +20474,144 @@
       "prerequisiteId": "mt_CubybCLCKN",
       "strength": "soft",
       "reason": "Storage devices are one group from the devices overview"
+    },
+    {
+      "topicId": "mt_wtGQ9BAl7b",
+      "prerequisiteId": "mt_eb0LkMn5pS",
+      "strength": "hard",
+      "reason": "The methods of psychology build on knowing what psychology is"
+    },
+    {
+      "topicId": "mt_Hhu37V8kMQ",
+      "prerequisiteId": "mt_eb0LkMn5pS",
+      "strength": "soft",
+      "reason": "Individual differences are a topic within the field of psychology"
+    },
+    {
+      "topicId": "mt_8bRzLS9tVP",
+      "prerequisiteId": "mt_eb0LkMn5pS",
+      "strength": "soft",
+      "reason": "Learning is a basic psychological process within the field"
+    },
+    {
+      "topicId": "mt_OZqdlmbiFe",
+      "prerequisiteId": "mt_eb0LkMn5pS",
+      "strength": "soft",
+      "reason": "Perception is a basic psychological process within the field"
+    },
+    {
+      "topicId": "mt_0QQhTHgVc5",
+      "prerequisiteId": "mt_OZqdlmbiFe",
+      "strength": "soft",
+      "reason": "Memory builds on how information is perceived and attended to"
+    },
+    {
+      "topicId": "mt_VrnFD18Is4",
+      "prerequisiteId": "mt_0QQhTHgVc5",
+      "strength": "soft",
+      "reason": "Thinking works on information held in memory"
+    },
+    {
+      "topicId": "mt_nNepUo1rKW",
+      "prerequisiteId": "mt_eb0LkMn5pS",
+      "strength": "soft",
+      "reason": "Motivation is a basic psychological process within the field"
+    },
+    {
+      "topicId": "mt_nNepUo1rKW",
+      "prerequisiteId": "mt_mydcMoa8gN",
+      "strength": "soft",
+      "reason": "Motivation and emotion build on emotional intelligence"
+    },
+    {
+      "topicId": "mt_8AjBHDBMFM",
+      "prerequisiteId": "mt_iaiDih8bJP",
+      "strength": "hard",
+      "reason": "Childhood development builds on the nature/nurture framing"
+    },
+    {
+      "topicId": "mt_8p9oqWJZPN",
+      "prerequisiteId": "mt_iaiDih8bJP",
+      "strength": "soft",
+      "reason": "Adulthood is a later stage of lifespan development"
+    },
+    {
+      "topicId": "mt_iaiDih8bJP",
+      "prerequisiteId": "mt_pu2mmK27UA",
+      "strength": "soft",
+      "reason": "Development builds on the biology of growing up"
+    },
+    {
+      "topicId": "mt_QVye0kDXCQ",
+      "prerequisiteId": "mt_eb0LkMn5pS",
+      "strength": "soft",
+      "reason": "Social cognition is a branch of psychology"
+    },
+    {
+      "topicId": "mt_QVye0kDXCQ",
+      "prerequisiteId": "mt_2oswCNuapH",
+      "strength": "soft",
+      "reason": "Attitudes and social cognition build on understanding stereotypes"
+    },
+    {
+      "topicId": "mt_eeWI9vjrHu",
+      "prerequisiteId": "mt_QVye0kDXCQ",
+      "strength": "soft",
+      "reason": "Social problems are analysed through attitudes and social cognition"
+    },
+    {
+      "topicId": "mt_zfBltmjNYW",
+      "prerequisiteId": "mt_eb0LkMn5pS",
+      "strength": "soft",
+      "reason": "Well-being is a topic within psychology"
+    },
+    {
+      "topicId": "mt_zfBltmjNYW",
+      "prerequisiteId": "mt_0VOZSVjo6c",
+      "strength": "soft",
+      "reason": "Well-being builds on understanding stress"
+    },
+    {
+      "topicId": "mt_eelhTx8MYA",
+      "prerequisiteId": "mt_zfBltmjNYW",
+      "strength": "soft",
+      "reason": "Understanding disorders complements understanding well-being"
+    },
+    {
+      "topicId": "mt_ATlUCh9I60",
+      "prerequisiteId": "mt_eelhTx8MYA",
+      "strength": "soft",
+      "reason": "Mental-health practices build on understanding disorders and well-being"
+    },
+    {
+      "topicId": "mt_KBn1Qv6ily",
+      "prerequisiteId": "mt_ATlUCh9I60",
+      "strength": "soft",
+      "reason": "Yoga is one practice supporting mental health"
+    },
+    {
+      "topicId": "mt_NaVkO0Qtu8",
+      "prerequisiteId": "mt_KBn1Qv6ily",
+      "strength": "hard",
+      "reason": "Yoga for self-development builds on yoga for a healthy mind"
+    },
+    {
+      "topicId": "mt_qcFePqTi3X",
+      "prerequisiteId": "mt_dQu4pnFou2",
+      "strength": "hard",
+      "reason": "Preparing for a vocation builds on knowing one’s aptitudes and interests"
+    },
+    {
+      "topicId": "mt_vAz3nalEus",
+      "prerequisiteId": "mt_qcFePqTi3X",
+      "strength": "soft",
+      "reason": "Psychology at work follows preparation for a vocational role"
+    },
+    {
+      "topicId": "mt_dQu4pnFou2",
+      "prerequisiteId": "mt_cJjnPjuvCU",
+      "strength": "soft",
+      "reason": "Career planning builds on personal goal-setting"
     }
   ]
 }

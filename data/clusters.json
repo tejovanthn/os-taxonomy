@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 211,
+  "clusterCount": 218,
   "clusters": [
     {
       "subject": "English",
@@ -1267,6 +1267,48 @@
       "domain": "Modern India",
       "ageRangeStart": 9,
       "summary": "Your child is learning how India won its freedom — above all how Mahatma Gandhi led the struggle peacefully, without violence."
+    },
+    {
+      "subject": "Psychology",
+      "domain": "Foundations of Psychology",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning what psychology is — the scientific study of how people think, feel and behave — how psychologists study it, and how people differ from one another."
+    },
+    {
+      "subject": "Psychology",
+      "domain": "Basic Psychological Processes",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is exploring the mind’s basic workings — how we learn, pay attention and perceive, remember and forget, think through problems, and what motivates us."
+    },
+    {
+      "subject": "Psychology",
+      "domain": "Human Development",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is learning how people develop across the whole lifespan — shaped by both nature and nurture — from childhood through adolescence to adulthood and aging."
+    },
+    {
+      "subject": "Psychology",
+      "domain": "Social Psychology",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning how people think about and influence one another — attitudes and beliefs, first impressions and stereotypes, and the psychology behind social problems."
+    },
+    {
+      "subject": "Psychology",
+      "domain": "Mental Health & Well-Being",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is learning what supports a healthy mind — happiness and well-being, understanding mental disorders without stigma, everyday mental-health habits, and yoga."
+    },
+    {
+      "subject": "Psychology",
+      "domain": "Mental Health & Well-Being",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning what supports a healthy mind — happiness and well-being, understanding and treating mental disorders, everyday mental-health habits, and yoga for self-development."
+    },
+    {
+      "subject": "Psychology",
+      "domain": "Work & Vocation",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning how psychology guides working life — matching aptitudes and interests to jobs, preparing for a vocation, and how understanding people helps organisations."
     }
   ]
 }

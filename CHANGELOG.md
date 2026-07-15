@@ -8,6 +8,23 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### NIOS Secondary Curriculum 2020 — Psychology (2026-07-15)
+
+Start of integrating the NIOS Secondary curriculum (classes 9–10, age 14–16),
+subject by subject. New source `nios-sec-2020` (full text, NIOS terms).
+
+- **Psychology (Code 222)** → a new **Psychology** subject (10th subject). 27
+  lesson standards across 7 modules; **21 new micro-topics** (Foundations,
+  Basic Psychological Processes, Human Development, Social Psychology, Mental
+  Health & Well-Being, Work & Vocation), and **8 existing PSD/Science topics
+  aligned** where the secondary lessons overlap (adolescence, leadership,
+  communication, emotion, stress). 23 edges, 7 clusters.
+- Shared scaffolding `scripts/build/nios-sec.mjs` (append-or-create the
+  `nios-sec-2020` curriculum; each secondary subject is its own script).
+- **Note:** of the 22 requested subjects, 13 extract cleanly; the 5 Indian
+  languages (image-based pages) and 4 Sanskrit-stream subjects (garbled
+  Devanagari) need OCR and are deferred. See PROVENANCE.
+
 ### Indian civics, society & geography — depth decomposition, pass 2 (2026-07-15)
 - **45 new micro-topics** decomposing the remaining coarse India-specific topics — the ones that still bundled several distinct ideas (a single topic linked to 3–5 lesson standards). Coarse overview topics stay as entry points; specifics hang off them.
   - **Governance & Constitution** 4 → 17: the three organs of government each their own topic (*Legislature*, *Executive*, *Judiciary*), plus *Ways Countries Are Governed*, *State Government*, *Fundamental Rights*, *Fundamental Duties*, the three Panchayati Raj tiers (*Gram Panchayat*, *Block & District*, *Town & City Government*), and elections (*One Person One Vote*, *Political Parties*, *How Elections Are Held*).

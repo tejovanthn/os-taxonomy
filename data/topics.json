@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 1742,
+  "topicCount": 1763,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -19486,7 +19486,9 @@
       "centrality": 0.08618331053351573,
       "evidence": [],
       "assessmentPrompt": "Can {{name}} explain, in basic terms, why teenagers tend to feel emotions more intensely than adults — what's happening in the developing brain that makes feelings so powerful during adolescence, and what's the difference between managing a feeling and suppressing it?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:222.M2.L5"
+      ]
     },
     {
       "id": "mt_p-8Hlf6_9k",
@@ -19500,7 +19502,9 @@
       "centrality": 0.09439124487004104,
       "evidence": [],
       "assessmentPrompt": "If {{name}} goes through a phase of feeling unsure about who they are or where they belong, can they explain why this kind of uncertainty is a completely normal and even necessary part of adolescence — not a sign that something is wrong?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:222.M3.L11"
+      ]
     },
     {
       "id": "mt_mydcMoa8gN",
@@ -19514,7 +19518,9 @@
       "centrality": 0.1313269493844049,
       "evidence": [],
       "assessmentPrompt": "Can {{name}} describe a real situation where being aware of their own emotions — knowing what they were feeling and why — helped them handle a difficult moment better than if they had just reacted automatically?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:222.M2.L8"
+      ]
     },
     {
       "id": "mt_lAvS72LOUO",
@@ -20017,7 +20023,8 @@
       ],
       "assessmentPrompt": "If friends want {{name}} to do something they're uncomfortable with — like excluding another child or breaking a rule — can {{name}} say 'I don't want to do that' firmly but politely?",
       "standards": [
-        "ib-pyp-pspe:PSPE.INT.P2.LO.8"
+        "ib-pyp-pspe:PSPE.INT.P2.LO.8",
+        "nios-sec-2020:222.M4.L14"
       ]
     },
     {
@@ -20094,7 +20101,9 @@
       "centrality": 0.08071135430916553,
       "evidence": [],
       "assessmentPrompt": "When {{name}} senses tension or unspoken 'undercurrents' in a group of friends, can they describe what social cues they pick up on and explain the difference between being assertive and being aggressive when they choose to address it?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:222.M4.L13"
+      ]
     },
     {
       "id": "mt_NCrbQe0LdB",
@@ -20122,7 +20131,9 @@
       "centrality": 0.08891928864569083,
       "evidence": [],
       "assessmentPrompt": "If {{name}} were leading a group project where one person was dominating all the decisions, can they describe two different leadership approaches they could take and explain why the most authoritative person in a group isn't always the best leader?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:222.M4.L13"
+      ]
     },
     {
       "id": "mt_UHQfb-n-w3",
@@ -20856,7 +20867,9 @@
       "centrality": 0.08891928864569083,
       "evidence": [],
       "assessmentPrompt": "When {{name}} is under pressure from exams or social situations, can they name two or three strategies that genuinely help them manage the stress — and explain why each one actually works, not just that it 'makes them feel better'?",
-      "standards": []
+      "standards": [
+        "nios-sec-2020:222.M6.L23"
+      ]
     },
     {
       "id": "mt_0ewYhTSHtP",
@@ -29787,7 +29800,8 @@
       "assessmentPrompt": "Can {{name}} describe how a person’s body changes as they grow from a baby to an adult to an elderly person — and explain what happens during puberty?",
       "standards": [
         "nios-obe-b:B102.L13.8",
-        "nios-obe-c:C105.L5"
+        "nios-obe-c:C105.L5",
+        "nios-sec-2020:222.M3.L11"
       ]
     },
     {
@@ -34617,6 +34631,428 @@
       "assessmentPrompt": "Can {{name}} name devices that store information for later — like a USB drive — and explain what storage is for?",
       "standards": [
         "nios-obe-a:A104.L3"
+      ]
+    },
+    {
+      "id": "mt_eb0LkMn5pS",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Foundations of Psychology",
+      "name": "What Is Psychology",
+      "description": "Understand psychology as the scientific study of behaviour and mental processes — how we think, feel and act — and the main fields where it is applied.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Define psychology as the scientific study of behaviour and mental processes",
+        "Give examples of what psychologists study",
+        "Name a field where psychology is applied (clinical, educational, organisational)"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what psychology is — the scientific study of how people think, feel and behave — and give an example of where it is used?",
+      "standards": [
+        "nios-sec-2020:222.M1.L1"
+      ]
+    },
+    {
+      "id": "mt_wtGQ9BAl7b",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Foundations of Psychology",
+      "name": "How Psychologists Study Behaviour",
+      "description": "Understand the methods psychologists use to study behaviour scientifically — observation, experiment, survey, interview and case study — and why a systematic method matters.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name several methods used in psychology",
+        "Explain the difference between observation and experiment",
+        "Explain why psychology uses systematic methods rather than opinion"
+      ],
+      "assessmentPrompt": "Can {{name}} name a few ways psychologists study behaviour, like experiments and surveys, and explain why a careful method matters?",
+      "standards": [
+        "nios-sec-2020:222.M1.L2"
+      ]
+    },
+    {
+      "id": "mt_Hhu37V8kMQ",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Foundations of Psychology",
+      "name": "Individual Differences",
+      "description": "Understand that people differ from one another in intelligence, personality and abilities, and that psychologists describe and measure these individual differences.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what individual differences are",
+        "Give examples of ways people differ (intelligence, personality)",
+        "Explain that such differences can be measured"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that people differ in things like personality and ability, and that psychology tries to describe and measure those differences?",
+      "standards": [
+        "nios-sec-2020:222.M1.L3"
+      ]
+    },
+    {
+      "id": "mt_8bRzLS9tVP",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Basic Psychological Processes",
+      "name": "How We Learn: Conditioning",
+      "description": "Understand learning as a lasting change in behaviour through experience — classical conditioning (learning by association), operant conditioning (learning from consequences), and learning by observing others.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain learning as a change in behaviour from experience",
+        "Distinguish classical from operant conditioning with an example",
+        "Give an example of learning by observation"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how we learn from experience — through association, through rewards and consequences, and by watching others?",
+      "standards": [
+        "nios-sec-2020:222.M2.L4"
+      ]
+    },
+    {
+      "id": "mt_OZqdlmbiFe",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Basic Psychological Processes",
+      "name": "Attention and Perception",
+      "description": "Understand how we take in information through the senses, focus on some of it through attention, and organise it into a meaningful picture through perception — which can sometimes be fooled by illusions.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain the difference between sensation, attention and perception",
+        "Explain why we cannot attend to everything at once",
+        "Give an example of how perception can be misled (an illusion)"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how we notice and make sense of the world — paying attention to some things and organising them into meaning — and how perception can sometimes trick us?",
+      "standards": [
+        "nios-sec-2020:222.M2.L5"
+      ]
+    },
+    {
+      "id": "mt_0QQhTHgVc5",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Basic Psychological Processes",
+      "name": "Memory and Forgetting",
+      "description": "Understand memory as encoding, storing and retrieving information, that it has different stages (sensory, short-term, long-term), why we forget, and simple ways to remember better.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describe memory as encoding, storage and retrieval",
+        "Name stages of memory (short-term, long-term)",
+        "Give a reason we forget and a way to improve memory"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how memory works — taking in, storing and recalling information — and why we forget and how to remember better?",
+      "standards": [
+        "nios-sec-2020:222.M2.L6"
+      ]
+    },
+    {
+      "id": "mt_VrnFD18Is4",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Basic Psychological Processes",
+      "name": "Thinking and Problem Solving",
+      "description": "Understand thinking as using mental images, concepts and reasoning to solve problems and make decisions, and the mental habits and biases that can get in the way of clear thinking.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what thinking and reasoning involve",
+        "Describe a strategy for solving a problem",
+        "Give an example of a bias or block to clear thinking"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how we think through problems and make decisions — and how mental shortcuts can sometimes lead us astray?",
+      "standards": [
+        "nios-sec-2020:222.M2.L7"
+      ]
+    },
+    {
+      "id": "mt_nNepUo1rKW",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Basic Psychological Processes",
+      "name": "Motivation: What Drives Behaviour",
+      "description": "Understand motivation as what energises and directs behaviour — needs, drives and goals — including the difference between motivation that comes from within and rewards from outside.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what motivation is",
+        "Distinguish internal (intrinsic) from external (extrinsic) motivation",
+        "Give an example of a need or goal driving behaviour"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what motivates people to act — needs and goals — and the difference between doing something for its own sake and for a reward?",
+      "standards": [
+        "nios-sec-2020:222.M2.L8"
+      ]
+    },
+    {
+      "id": "mt_iaiDih8bJP",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Human Development",
+      "name": "Nature, Nurture and Development",
+      "description": "Understand that human development unfolds across the lifespan, and that both heredity (nature) and environment (nurture) shape who a person becomes.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explain what is meant by nature and nurture",
+        "Explain that development continues across the whole lifespan",
+        "Give an example of heredity and of environment shaping a person"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that people are shaped by both what they inherit (nature) and their surroundings and experiences (nurture)?",
+      "standards": [
+        "nios-sec-2020:222.M3.L9"
+      ]
+    },
+    {
+      "id": "mt_8AjBHDBMFM",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Human Development",
+      "name": "Development in Childhood",
+      "description": "Understand the major changes of childhood — physical growth, the development of thinking and language, and growing emotional and social abilities.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Describe kinds of development that happen in childhood",
+        "Give an example of cognitive or language development",
+        "Explain that childhood lays foundations for later life"
+      ],
+      "assessmentPrompt": "Can {{name}} describe the big changes that happen as children grow — in body, thinking, language and getting along with others?",
+      "standards": [
+        "nios-sec-2020:222.M3.L10"
+      ]
+    },
+    {
+      "id": "mt_8p9oqWJZPN",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Human Development",
+      "name": "Adulthood and Aging",
+      "description": "Understand that development continues through adulthood and aging — with its own tasks, roles and changes in body and mind — and that aging can bring both losses and gains.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describe stages and tasks of adulthood",
+        "Give an example of a change that comes with aging",
+        "Explain that aging brings both challenges and strengths"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that people keep developing through adulthood and old age, with new roles and both challenges and strengths?",
+      "standards": [
+        "nios-sec-2020:222.M3.L12"
+      ]
+    },
+    {
+      "id": "mt_QVye0kDXCQ",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Social Psychology",
+      "name": "Attitudes and Social Cognition",
+      "description": "Understand how attitudes and beliefs form and change, and how we perceive, judge and think about other people (social cognition) — including stereotypes and first impressions.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what an attitude is and how it can change",
+        "Explain how we form impressions of other people",
+        "Give an example of a stereotype affecting judgement"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how people form attitudes and opinions about others — and how first impressions and stereotypes can shape those judgements?",
+      "standards": [
+        "nios-sec-2020:222.M4.L15"
+      ]
+    },
+    {
+      "id": "mt_eeWI9vjrHu",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Social Psychology",
+      "name": "Psychology of Social Problems",
+      "description": "Understand how psychology helps make sense of social and educational problems — such as prejudice, aggression or exam stress — and how understanding causes can point to solutions.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Give an example of a social problem psychology studies",
+        "Explain a psychological factor behind a social problem",
+        "Explain how understanding causes can help solve a problem"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how understanding the psychology behind a social problem — like prejudice or bullying — can help in tackling it?",
+      "standards": [
+        "nios-sec-2020:222.M4.L16"
+      ]
+    },
+    {
+      "id": "mt_zfBltmjNYW",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Mental Health & Well-Being",
+      "name": "Happiness and Well-Being",
+      "description": "Understand what psychologists have learned about happiness and well-being — that it is more than pleasure, what gets in its way, and habits that support a flourishing life.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain that well-being is more than momentary pleasure",
+        "Name an obstacle to well-being",
+        "Describe a habit that supports happiness and well-being"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what really supports lasting happiness and well-being, beyond just feeling good in the moment?",
+      "standards": [
+        "nios-sec-2020:222.M5.L17"
+      ]
+    },
+    {
+      "id": "mt_eelhTx8MYA",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Mental Health & Well-Being",
+      "name": "Mental Disorders and Their Treatment",
+      "description": "Understand that mental disorders are real health conditions that affect thoughts, feelings and behaviour, that some are common, that they can be treated, and that they should not carry stigma.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain that mental disorders are health conditions, not weaknesses",
+        "Name a common mental health condition",
+        "Explain that treatment and support are available"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that mental disorders are real, treatable health conditions — and that people who have them deserve support, not stigma?",
+      "standards": [
+        "nios-sec-2020:222.M5.L18"
+      ]
+    },
+    {
+      "id": "mt_ATlUCh9I60",
+      "type": "PROCEDURAL",
+      "subject": "Psychology",
+      "domain": "Mental Health & Well-Being",
+      "name": "Mental Health and Hygiene",
+      "description": "Understand mental health as more than the absence of illness, and everyday practices — sleep, exercise, talking about feelings, seeking help — that keep the mind healthy.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what good mental health means",
+        "Name everyday practices that support mental health",
+        "Explain when and how to seek help"
+      ],
+      "assessmentPrompt": "Can {{name}} name everyday habits that keep the mind healthy — and explain that it is okay to ask for help?",
+      "standards": [
+        "nios-sec-2020:222.M5.L19"
+      ]
+    },
+    {
+      "id": "mt_KBn1Qv6ily",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Mental Health & Well-Being",
+      "name": "Yoga for a Healthy Mind",
+      "description": "Understand yoga as an ancient Indian practice that links body and mind — through postures, breathing and meditation — and how it supports calm and health.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explain that yoga connects body and mind",
+        "Name components of yoga (postures, breathing, meditation)",
+        "Explain a benefit of yoga for the mind"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how yoga — through postures, breathing and stillness — helps keep both body and mind healthy?",
+      "standards": [
+        "nios-sec-2020:222.M7.L24",
+        "nios-sec-2020:222.M7.L26"
+      ]
+    },
+    {
+      "id": "mt_NaVkO0Qtu8",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Mental Health & Well-Being",
+      "name": "Yoga and Self-Development",
+      "description": "Understand how yoga and meditation support self-development — self-awareness, self-control, and calming and regulating the mind.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain how yoga supports self-awareness and self-control",
+        "Describe how meditation can calm the mind",
+        "Give an example of using yoga to regulate emotions"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how practising yoga and meditation can help someone understand and steady their own mind?",
+      "standards": [
+        "nios-sec-2020:222.M7.L25",
+        "nios-sec-2020:222.M7.L27"
+      ]
+    },
+    {
+      "id": "mt_dQu4pnFou2",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Work & Vocation",
+      "name": "Aptitude and Interests",
+      "description": "Understand aptitude (a natural capacity to learn a skill) and interest (what a person enjoys), and how matching them to job requirements guides good career choices.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguish aptitude from interest",
+        "Explain how aptitudes and interests relate to jobs",
+        "Give an example of matching a person to a suitable role"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the difference between what someone is naturally good at (aptitude) and what they enjoy (interest), and how both guide career choices?",
+      "standards": [
+        "nios-sec-2020:222.M6.L20"
+      ]
+    },
+    {
+      "id": "mt_qcFePqTi3X",
+      "type": "PROCEDURAL",
+      "subject": "Psychology",
+      "domain": "Work & Vocation",
+      "name": "Preparing for a Vocation",
+      "description": "Understand how to prepare for working life — building skills, planning, and developing the habits and readiness a vocational role needs.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what preparing for a vocation involves",
+        "Name a skill or habit useful for work",
+        "Describe a step in planning towards a career"
+      ],
+      "assessmentPrompt": "Can {{name}} describe how someone prepares for working life — the skills, planning and habits it takes?",
+      "standards": [
+        "nios-sec-2020:222.M6.L21"
+      ]
+    },
+    {
+      "id": "mt_vAz3nalEus",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Work & Vocation",
+      "name": "Psychology at Work",
+      "description": "Understand how psychology applies in organisations and the world of work — motivation, teamwork, leadership and a healthy work environment.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Give an example of psychology applied at work",
+        "Explain how motivation or teamwork affects a workplace",
+        "Explain what makes a healthy work environment"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how understanding people — their motivation and teamwork — helps organisations and workplaces run well?",
+      "standards": [
+        "nios-sec-2020:222.M6.L22"
       ]
     }
   ]

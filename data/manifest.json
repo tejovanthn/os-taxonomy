@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-07-15T09:50:11.445Z",
+  "generatedAt": "2026-07-15T14:18:26.432Z",
   "codesOnlySources": [
     "c3-social-studies",
     "ib-pyp-pspe",
@@ -9,7 +9,7 @@
     "ngss-ms"
   ],
   "counts": {
-    "topics": 1742,
+    "topics": 1763,
     "topicsBySubject": {
       "Computing": 39,
       "English": 286,
@@ -18,31 +18,32 @@
       "Life Skills": 37,
       "Mathematics": 508,
       "Personal & Social Development": 88,
+      "Psychology": 21,
       "Science": 561,
       "Social Studies": 66
     },
-    "dependencies": 3412,
-    "curricula": 10,
-    "curriculumStandards": 3450,
-    "topicStandardLinks": 2300,
-    "clusters": 211
+    "dependencies": 3435,
+    "curricula": 11,
+    "curriculumStandards": 3477,
+    "topicStandardLinks": 2331,
+    "clusters": 218
   },
   "files": {
     "topics.json": {
-      "bytes": 1814274,
-      "sha256": "c77a6536ff5b0e86232df915c862538a9c0c095471ad0c8372e75b584de224e9"
+      "bytes": 1833593,
+      "sha256": "c5c61c8b013d95c87d5e313a117728e16a2db52b19845a0836e2a97ce4cdb263"
     },
     "dependencies.json": {
-      "bytes": 733553,
-      "sha256": "6177a8fad1f56d905f4ad2be352df6c2f84a96cc137bd738b89958e60cc4c5b8"
+      "bytes": 737900,
+      "sha256": "aedc87edec6137d975ff831b8424f798538251e6bac7a8bc5712f192c1b3365d"
     },
     "curriculum-standards.json": {
-      "bytes": 1713735,
-      "sha256": "6a7c651b7509d21eed85c9fb7c1f2cfb285c6e853a7cab07ddff7bd64916a0fe"
+      "bytes": 1728170,
+      "sha256": "1acc4ef86f364f2c79cdab53f3c1d49ef20d470d97c02e423a6b17190496e73e"
     },
     "clusters.json": {
-      "bytes": 69176,
-      "sha256": "62230e57bd09971f46187a174ab52215f7d65bc1dea397880753f0be733575de"
+      "bytes": 71349,
+      "sha256": "abfd2728d8d2447b2657b419c6292b5ff0f7ce55a110a1519b4df14f40665919"
     }
   },
   "excluded": [
