@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3659,
+  "edgeCount": 3670,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -21956,6 +21956,72 @@
       "prerequisiteId": "mt_zHARzQRiBE",
       "strength": "soft",
       "reason": "Sanskrit poetics deepens the classical-literature heritage"
+    },
+    {
+      "topicId": "mt_eAR1bCJrgZ",
+      "prerequisiteId": "mt_scBgiMKhG_",
+      "strength": "soft",
+      "reason": "Cross-language: reading as meaning-making transfers to reading Hindi"
+    },
+    {
+      "topicId": "mt_VOQM7d8DrU",
+      "prerequisiteId": "mt_scBgiMKhG_",
+      "strength": "soft",
+      "reason": "Cross-language: reading as meaning-making transfers to reading Telugu"
+    },
+    {
+      "topicId": "mt_dqfGO1aUd4",
+      "prerequisiteId": "mt_scBgiMKhG_",
+      "strength": "soft",
+      "reason": "Cross-language: reading as meaning-making transfers to reading Kannada"
+    },
+    {
+      "topicId": "mt_nKNUAMKFcA",
+      "prerequisiteId": "mt_scBgiMKhG_",
+      "strength": "soft",
+      "reason": "Cross-language: reading as meaning-making transfers to reading Tamil"
+    },
+    {
+      "topicId": "mt_cUpCdjZbDC",
+      "prerequisiteId": "mt_scBgiMKhG_",
+      "strength": "soft",
+      "reason": "Cross-language: reading as meaning-making transfers to reading Sanskrit"
+    },
+    {
+      "topicId": "mt_GcCnPyG5hg",
+      "prerequisiteId": "mt_N8CpN1EJrP",
+      "strength": "soft",
+      "reason": "Cross-language: the concept of a complete sentence transfers to Hindi sentence structure"
+    },
+    {
+      "topicId": "mt_RvyXplfKPK",
+      "prerequisiteId": "mt_N8CpN1EJrP",
+      "strength": "soft",
+      "reason": "Cross-language: the concept of a complete sentence transfers to Tamil sentence construction"
+    },
+    {
+      "topicId": "mt_cxqHfydB0O",
+      "prerequisiteId": "mt_curkA82CmO",
+      "strength": "soft",
+      "reason": "Cross-language: the skill of summarising transfers to Hindi saar-lekhan"
+    },
+    {
+      "topicId": "mt_lzQwOfJbzI",
+      "prerequisiteId": "mt_curkA82CmO",
+      "strength": "soft",
+      "reason": "Cross-language: the skill of summarising transfers to Kannada précis writing"
+    },
+    {
+      "topicId": "mt_kvpdqRUZDk",
+      "prerequisiteId": "mt_MlmIrLb_7x",
+      "strength": "soft",
+      "reason": "Cross-language: simile and metaphor as concepts transfer to the Hindi alankaras (upma, rupak)"
+    },
+    {
+      "topicId": "mt_afyX5aOX2V",
+      "prerequisiteId": "mt_aClzPBiS9k",
+      "strength": "soft",
+      "reason": "Cross-language: the concept of poetic form and metre transfers to Hindi chhand"
     }
   ]
 }

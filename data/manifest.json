@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-07-16T09:51:25.620Z",
+  "generatedAt": "2026-07-16T09:58:01.761Z",
   "codesOnlySources": [
     "c3-social-studies",
     "ib-pyp-pspe",
@@ -34,7 +34,7 @@
       "Telugu": 5,
       "Visual Arts": 8
     },
-    "dependencies": 3659,
+    "dependencies": 3670,
     "curricula": 11,
     "curriculumStandards": 3722,
     "topicStandardLinks": 2685,
@@ -46,8 +46,8 @@
       "sha256": "b0de694b30d27c18dc2fdd77e3bcdfb7f07bf6f20b1a898e0f579cc6031694a8"
     },
     "dependencies.json": {
-      "bytes": 779496,
-      "sha256": "0bb218bcba62d9843704093898b2675844ce6612662737b51740773fbcf6dc04"
+      "bytes": 781803,
+      "sha256": "c3ec8b52e02490f0fb3d8a52389a68630f6aac8dd09568739d8db0f3e9413e80"
     },
     "curriculum-standards.json": {
       "bytes": 1853439,
