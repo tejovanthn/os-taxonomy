@@ -8,6 +8,19 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### Age correction — typical learning ages, not course-admission ages (2026-07-16)
+- The language, Sanskrit-stream, Music and Visual Arts topics from the NIOS
+  Secondary integration had been stamped with the NIOS course admission age
+  (14+, open schooling). The taxonomy models when children *typically* learn
+  things, so **98 topics were re-aged** to typical learning ages: mother-tongue
+  skills from ~6–8, Veda adhyayana from ~8 (traditionally begun after
+  brahmopadesham at ~8–9), music fundamentals from ~6, art elements from ~6–7,
+  story literature (Panchatantra, subhashitas) in childhood — while genuinely
+  advanced content (Paninian derivation, Advaita Vedanta, mahakavya, formal
+  poetics) keeps senior bands (12–16). 31 clusters re-keyed to the new bands.
+- Only `ageRangeStart`/`ageRangeEnd` changed (verified field-level); graph and
+  standards untouched. `scripts/build/nios-sec-ages.mjs` (idempotent).
+
 ### NIOS Secondary — the nine OCR-blocked subjects (2026-07-16)
 
 The language-medium and Sanskrit-stream subjects, whose PDF pages were image-only
