@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3549,
+  "edgeCount": 3572,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -21296,6 +21296,144 @@
       "prerequisiteId": "mt_Dq1aJIo7JO",
       "strength": "soft",
       "reason": "The composers are known through their compositions"
+    },
+    {
+      "topicId": "mt_7P4EsEbQpI",
+      "prerequisiteId": "mt_sVnzpPPhUg",
+      "strength": "soft",
+      "reason": "A closer look at the revolutions builds on the overview of the modern world"
+    },
+    {
+      "topicId": "mt_mUDHsziRvs",
+      "prerequisiteId": "mt_sVnzpPPhUg",
+      "strength": "soft",
+      "reason": "A closer look at the wars and decolonisation builds on the modern-world overview"
+    },
+    {
+      "topicId": "mt_mUDHsziRvs",
+      "prerequisiteId": "mt_7P4EsEbQpI",
+      "strength": "soft",
+      "reason": "The world wars follow the age of revolutions and industrialisation"
+    },
+    {
+      "topicId": "mt_f8dmAdEPq2",
+      "prerequisiteId": "mt_MOhhQz1xTG",
+      "strength": "soft",
+      "reason": "The challenges build on the overview of the Indian economy"
+    },
+    {
+      "topicId": "mt_LEtOXY2B5P",
+      "prerequisiteId": "mt_MOhhQz1xTG",
+      "strength": "soft",
+      "reason": "India’s global role builds on the overview of the Indian economy"
+    },
+    {
+      "topicId": "mt_RaLonugipz",
+      "prerequisiteId": "mt_eVmoQ0ehxD",
+      "strength": "soft",
+      "reason": "Banking is one of the financial services in the overview"
+    },
+    {
+      "topicId": "mt_RaLonugipz",
+      "prerequisiteId": "mt_uSUqTjOl8m",
+      "strength": "soft",
+      "reason": "Business banking builds on how banks and saving work"
+    },
+    {
+      "topicId": "mt_JvNAuZXt8Z",
+      "prerequisiteId": "mt_eVmoQ0ehxD",
+      "strength": "soft",
+      "reason": "Insurance is one of the financial services in the overview"
+    },
+    {
+      "topicId": "mt_vMDmfFjuLm",
+      "prerequisiteId": "mt_mp1SDUxSHY",
+      "strength": "soft",
+      "reason": "Transport is one of the services in the overview"
+    },
+    {
+      "topicId": "mt_SQToqd1SHT",
+      "prerequisiteId": "mt_mp1SDUxSHY",
+      "strength": "soft",
+      "reason": "Warehousing is one of the services in the overview"
+    },
+    {
+      "topicId": "mt_s3QEwImLcY",
+      "prerequisiteId": "mt_bcFSGgBMN4",
+      "strength": "soft",
+      "reason": "The profit-and-loss account is one of the financial statements"
+    },
+    {
+      "topicId": "mt_s3QEwImLcY",
+      "prerequisiteId": "mt_j6XjDjtXwP",
+      "strength": "hard",
+      "reason": "The profit-and-loss account is prepared from the trial balance"
+    },
+    {
+      "topicId": "mt_fKIC1c1Hm7",
+      "prerequisiteId": "mt_bcFSGgBMN4",
+      "strength": "soft",
+      "reason": "The balance sheet is one of the financial statements"
+    },
+    {
+      "topicId": "mt_fKIC1c1Hm7",
+      "prerequisiteId": "mt_s3QEwImLcY",
+      "strength": "soft",
+      "reason": "The balance sheet is drawn up after the profit-and-loss account"
+    },
+    {
+      "topicId": "mt_SGaAO8Kq9Z",
+      "prerequisiteId": "mt_XGxXu2w2Xr",
+      "strength": "soft",
+      "reason": "A focused look at depreciation builds on the adjustments overview"
+    },
+    {
+      "topicId": "mt_eqaxzYogPq",
+      "prerequisiteId": "mt_XGxXu2w2Xr",
+      "strength": "soft",
+      "reason": "A focused look at provisions and reserves builds on the adjustments overview"
+    },
+    {
+      "topicId": "mt_OJdk5cjFc5",
+      "prerequisiteId": "mt_DLlA8eRAbK",
+      "strength": "soft",
+      "reason": "The thaat system is part of Hindustani raga organisation"
+    },
+    {
+      "topicId": "mt_OJdk5cjFc5",
+      "prerequisiteId": "mt_BcVVasvvOm",
+      "strength": "soft",
+      "reason": "Thaats group ragas, building on understanding raga"
+    },
+    {
+      "topicId": "mt_7Ql8gGI0vt",
+      "prerequisiteId": "mt_DLlA8eRAbK",
+      "strength": "soft",
+      "reason": "The vocal forms are part of Hindustani music"
+    },
+    {
+      "topicId": "mt_7Ql8gGI0vt",
+      "prerequisiteId": "mt_8qV5fqk15P",
+      "strength": "soft",
+      "reason": "Vocal compositions are set in a tala"
+    },
+    {
+      "topicId": "mt_lVAZR0S51M",
+      "prerequisiteId": "mt_C1EJxERW34",
+      "strength": "soft",
+      "reason": "Concurrent lines are studied alongside triangle congruence"
+    },
+    {
+      "topicId": "mt_lVAZR0S51M",
+      "prerequisiteId": "mt_QysgF57dxh",
+      "strength": "soft",
+      "reason": "Concurrent lines build on understanding lines and angles"
+    },
+    {
+      "topicId": "mt_qZAQBsLwp3",
+      "prerequisiteId": "mt_curkA82CmO",
+      "strength": "soft",
+      "reason": "Note-making and summarising build on writing a précis"
     }
   ]
 }

@@ -8,6 +8,11 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### NIOS Secondary — grain split pass (2026-07-16)
+- A grain audit of the secondary mints (measured against the taxonomy's own age-12+ topics) found the grain sound overall — evidence count, description length and age bands all matched, coverage was complete (0 unlinked standards), no duplicates — but a tail of ~7 mints bundled two or more distinct teachable ideas. This decomposes them to grain (coarse topics kept as entry points; specifics added beneath and wired).
+- **15 new micro-topics**: History — *Revolutions and the Modern Age* + *World Wars and Decolonisation*; Economics — *Challenges before the Indian Economy* + *India in the Global Economy*; Business Studies — *Banking Services* / *Insurance* / *Transport Services* / *Warehousing Services*; Accountancy — *The Profit and Loss Account* / *The Balance Sheet* / *Depreciation* / *Provisions and Reserves*; Music — *The Thaat System* / *Hindustani Vocal Forms*; Mathematics — *Concurrent Lines in a Triangle*.
+- Also wired the existing *Writing a Précis* (primary) to the secondary study-skills standard and as a prerequisite of *Note-Making and Summarising*. 23 edges. Purely additive — every prior topic byte-unchanged. `scripts/build/nios-sec-depth.mjs` (idempotent). Graph re-verified acyclic.
+
 ### NIOS Secondary Curriculum 2020 — Business Studies, Accountancy, Home Science, Visual Arts, Music (2026-07-15)
 
 The brand-new secondary subjects — each a new subject the taxonomy had nothing for. Completes all 13 text-readable NIOS Secondary subjects.

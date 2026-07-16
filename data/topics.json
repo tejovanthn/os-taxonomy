@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 1861,
+  "topicCount": 1876,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -6531,7 +6531,8 @@
       ],
       "assessmentPrompt": "If {{name}} reads a long article about a topic they're studying, can they write a short summary in their own words that captures the key points without copying sentences?",
       "standards": [
-        "uk-nc-2013:Eng.UKS2.Write.Comp.2c"
+        "uk-nc-2013:Eng.UKS2.Write.Comp.2c",
+        "nios-sec-2020:202.STU"
       ]
     },
     {
@@ -37178,6 +37179,306 @@
       "assessmentPrompt": "Can {{name}} name the great Carnatic composers, like the Trinity, and what they are remembered for?",
       "standards": [
         "nios-sec-2020:243.M2.L4"
+      ]
+    },
+    {
+      "id": "mt_7P4EsEbQpI",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "Revolutions and the Modern Age",
+      "description": "Understand the changes that opened the modern age — the Renaissance and scientific revolution, the great political revolutions in America and France, and the industrial revolution that transformed how people lived and worked.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what the Renaissance and scientific revolution changed",
+        "Describe a political revolution and the ideas it spread",
+        "Explain how the industrial revolution changed everyday life"
+      ],
+      "assessmentPrompt": "Can {{name}} explain some of the revolutions — scientific, political and industrial — that made the modern world?",
+      "standards": [
+        "nios-sec-2020:213.M1.L3"
+      ]
+    },
+    {
+      "id": "mt_mUDHsziRvs",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "World Wars and Decolonisation",
+      "description": "Understand the great upheavals of the twentieth century — the two world wars and their consequences, and the wave of decolonisation in which colonised nations, including India, won their independence.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain the significance of the two world wars",
+        "Explain what decolonisation was",
+        "Connect decolonisation to India’s independence"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how the world wars and the freeing of colonised nations reshaped the twentieth-century world?",
+      "standards": [
+        "nios-sec-2020:213.M1.L4"
+      ]
+    },
+    {
+      "id": "mt_f8dmAdEPq2",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Challenges before the Indian Economy",
+      "description": "Understand the major challenges facing the Indian economy — poverty, unemployment, inequality and the need to develop while protecting the environment — and why they are hard to solve.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name major challenges facing the Indian economy",
+        "Explain why a challenge such as unemployment matters",
+        "Explain a tension between growth and other goals"
+      ],
+      "assessmentPrompt": "Can {{name}} name and explain a major challenge the Indian economy faces, like poverty or unemployment?",
+      "standards": [
+        "nios-sec-2020:214.M7.L21"
+      ]
+    },
+    {
+      "id": "mt_LEtOXY2B5P",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "India in the Global Economy",
+      "description": "Understand India’s place in the global economy — how it trades with other countries through imports and exports, and how being part of a connected world brings both opportunities and risks.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what imports and exports are",
+        "Explain a benefit of trading with other countries",
+        "Explain a risk of being part of a global economy"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how India trades with the rest of the world, and the opportunities and risks that brings?",
+      "standards": [
+        "nios-sec-2020:214.M7.L22"
+      ]
+    },
+    {
+      "id": "mt_RaLonugipz",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Services",
+      "name": "Banking Services",
+      "description": "Understand the banking services a business relies on — accounts to hold money, ways to make and receive payments, and loans and overdrafts to finance its activities.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name banking services a business uses",
+        "Explain how a business uses a bank loan or overdraft",
+        "Explain why safe payment handling matters to a business"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the banking services a business uses — holding money, making payments, and borrowing?",
+      "standards": [
+        "nios-sec-2020:215.M3.L9"
+      ]
+    },
+    {
+      "id": "mt_JvNAuZXt8Z",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Services",
+      "name": "Insurance",
+      "description": "Understand insurance as a way businesses manage risk — paying a premium so that an insurer covers a loss if something goes wrong, such as fire, theft or accident.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain how insurance works (premium in, cover for losses)",
+        "Give an example of a risk a business insures against",
+        "Explain why insurance gives a business security"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how insurance protects a business — paying a premium so losses are covered if something goes wrong?",
+      "standards": [
+        "nios-sec-2020:215.M3.L10"
+      ]
+    },
+    {
+      "id": "mt_vMDmfFjuLm",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Services",
+      "name": "Transport Services",
+      "description": "Understand how transport services move goods and people for business — by road, rail, water and air — and how the right choice depends on cost, speed and what is being carried.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name modes of transport used in business",
+        "Explain how transport creates value by moving goods to where they are needed",
+        "Choose a suitable mode for a given good"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how transport services move goods to where they are needed, and how a business chooses a mode?",
+      "standards": [
+        "nios-sec-2020:215.M3.L5"
+      ]
+    },
+    {
+      "id": "mt_SQToqd1SHT",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Services",
+      "name": "Warehousing Services",
+      "description": "Understand warehousing — storing goods safely between production and sale — and how it lets a business hold stock, smooth out seasonal demand and deliver on time.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain the purpose of warehousing",
+        "Explain how storage bridges production and demand",
+        "Give an example where warehousing helps a business"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why a business stores goods in a warehouse, and how that helps it meet demand on time?",
+      "standards": [
+        "nios-sec-2020:215.M3.L6"
+      ]
+    },
+    {
+      "id": "mt_s3QEwImLcY",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Financial Statements",
+      "name": "The Profit and Loss Account",
+      "description": "Understand the trading and profit-and-loss account — the statement that sets a business’s income against its expenses over a period to show whether it made a profit or a loss.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what the profit-and-loss account shows",
+        "Explain how income and expenses give profit or loss",
+        "Distinguish gross profit from net profit"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how the profit-and-loss account shows whether a business made money over a period?",
+      "standards": [
+        "nios-sec-2020:224.M5.L11"
+      ]
+    },
+    {
+      "id": "mt_fKIC1c1Hm7",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Financial Statements",
+      "name": "The Balance Sheet",
+      "description": "Understand the balance sheet — a snapshot at one moment of what a business owns (assets) and owes (liabilities), and the owner’s capital, always balancing by the accounting equation.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what the balance sheet shows",
+        "Explain why assets equal liabilities plus capital",
+        "Distinguish the balance sheet from the profit-and-loss account"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how a balance sheet shows what a business owns and owes at a moment in time?",
+      "standards": [
+        "nios-sec-2020:224.M5.L12"
+      ]
+    },
+    {
+      "id": "mt_SGaAO8Kq9Z",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Adjustments",
+      "name": "Depreciation",
+      "description": "Understand depreciation — the gradual fall in value of a fixed asset as it is used and wears out — and why a business records it each year as a cost against profit.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what depreciation is and why it happens",
+        "Explain why depreciation is charged as a cost",
+        "Give an example of an asset that depreciates"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why a business records depreciation as its equipment wears out over the years?",
+      "standards": [
+        "nios-sec-2020:224.M4.L9"
+      ]
+    },
+    {
+      "id": "mt_eqaxzYogPq",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Adjustments",
+      "name": "Provisions and Reserves",
+      "description": "Understand provisions and reserves — amounts a business sets aside from profit for a likely future cost (a provision) or to strengthen the business for the future (a reserve).",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguish a provision from a reserve",
+        "Give an example of each",
+        "Explain why setting money aside is prudent"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the difference between a provision (for a likely cost) and a reserve (saved for the future)?",
+      "standards": [
+        "nios-sec-2020:224.M4.L10"
+      ]
+    },
+    {
+      "id": "mt_OJdk5cjFc5",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "The Thaat System",
+      "description": "Understand the thaat system of Hindustani music — a way of grouping ragas into parent scales, so that each raga can be placed within one of the ten thaats.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what a thaat is",
+        "Explain how thaats group ragas",
+        "Explain that each raga belongs to a thaat"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how Hindustani music groups its ragas into parent scales called thaats?",
+      "standards": [
+        "nios-sec-2020:242.M2.L4"
+      ]
+    },
+    {
+      "id": "mt_7Ql8gGI0vt",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "Hindustani Vocal Forms",
+      "description": "Understand the main vocal forms of Hindustani music — the older, solemn dhrupad and the freer, more popular khayal — and how their compositions are structured within a raga and tala.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name Hindustani vocal forms (dhrupad, khayal)",
+        "Describe how dhrupad and khayal differ",
+        "Explain that a composition is set in a raga and tala"
+      ],
+      "assessmentPrompt": "Can {{name}} name Hindustani vocal forms like dhrupad and khayal, and explain how they differ?",
+      "standards": [
+        "nios-sec-2020:242.M2.L5"
+      ]
+    },
+    {
+      "id": "mt_lVAZR0S51M",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "Concurrent Lines in a Triangle",
+      "description": "Understand concurrent lines — lines that all pass through one point — in a triangle, where the medians, altitudes, perpendicular bisectors and angle bisectors each meet at a special centre.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what concurrent lines are",
+        "Name special lines of a triangle (medians, altitudes)",
+        "State that each set of these lines meets at one point"
+      ],
+      "assessmentPrompt": "Can {{name}} explain that the medians (or altitudes) of a triangle all meet at a single point?",
+      "standards": [
+        "nios-sec-2020:211.M3.L12"
       ]
     }
   ]
