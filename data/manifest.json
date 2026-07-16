@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-07-16T07:40:40.518Z",
+  "generatedAt": "2026-07-16T09:44:02.755Z",
   "codesOnlySources": [
     "c3-social-studies",
     "ib-pyp-pspe",
@@ -9,7 +9,7 @@
     "ngss-ms"
   ],
   "counts": {
-    "topics": 1901,
+    "topics": 1959,
     "topicsBySubject": {
       "Accountancy": 14,
       "Business Studies": 17,
@@ -19,40 +19,43 @@
       "Hindi": 13,
       "History": 142,
       "Home Science": 9,
-      "Indian Culture & Heritage": 17,
+      "Indian Culture & Heritage": 29,
+      "Kannada": 6,
       "Learning to Learn": 18,
       "Life Skills": 37,
       "Mathematics": 519,
       "Music": 10,
       "Personal & Social Development": 88,
       "Psychology": 21,
-      "Sanskrit": 12,
+      "Sanskrit": 39,
       "Science": 569,
       "Social Studies": 68,
+      "Tamil": 8,
+      "Telugu": 5,
       "Visual Arts": 8
     },
-    "dependencies": 3594,
+    "dependencies": 3659,
     "curricula": 11,
-    "curriculumStandards": 3694,
-    "topicStandardLinks": 2622,
-    "clusters": 282
+    "curriculumStandards": 3722,
+    "topicStandardLinks": 2685,
+    "clusters": 296
   },
   "files": {
     "topics.json": {
-      "bytes": 1957969,
-      "sha256": "36aa4eb6e4ef0ae344cd793ec94a92d16ffba59b9429d552957d55fd2650f103"
+      "bytes": 2008693,
+      "sha256": "0d01ad05e8f57619e5d6d59f6f0dc07f515fab25012b737ba86a1f241dd1b7b6"
     },
     "dependencies.json": {
-      "bytes": 767535,
-      "sha256": "03ebc0b221c1e30f80941f7713a07168460aee49606e758aaa76b41e14e04787"
+      "bytes": 779496,
+      "sha256": "0bb218bcba62d9843704093898b2675844ce6612662737b51740773fbcf6dc04"
     },
     "curriculum-standards.json": {
-      "bytes": 1837233,
-      "sha256": "9f27c10383b3ff8f450f45170f4b4951cfcf788085125cfb2b80726358cd22cd"
+      "bytes": 1853439,
+      "sha256": "0a411e6563bf847ee1819eda3e8229649700cd1a8f1055e412d05c182c90cbef"
     },
     "clusters.json": {
-      "bytes": 89099,
-      "sha256": "ee847c36751721c53e65f7dd0099bb8db689f2b2604d7e1b660e2d7523d16817"
+      "bytes": 92912,
+      "sha256": "6dfc2300b259d9788b5b16103c7184ce7adb160bc07d9bfb6a78e23889a71584"
     }
   },
   "excluded": [

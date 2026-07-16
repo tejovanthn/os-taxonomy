@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 1901,
+  "topicCount": 1959,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -37983,6 +37983,1171 @@
       "assessmentPrompt": "Can {{name}} use Sanskrit prefixes and unchanging words (avyayas) correctly in sentences?",
       "standards": [
         "nios-sec-2020:209.GRM.7"
+      ]
+    },
+    {
+      "id": "mt_Hafy9D5ifH",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Vedic Studies",
+      "name": "What the Veda Is",
+      "description": "Understand what the Veda is — its meaning and synonyms, its place as the foundation of Indian thought, and the classical debate over whether it is of human or more-than-human origin (पौरुषेय/अपौरुषेय).",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain the meaning of \"Veda\" and its synonyms",
+        "Explain the apaurusheya debate in simple terms",
+        "Explain why the Veda is called the root of Indian thought"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what the Veda is, and the old debate about whether it has an author?",
+      "standards": [
+        "nios-sec-2020:245.C1"
+      ]
+    },
+    {
+      "id": "mt_hfBgGrEjvz",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Vedic Studies",
+      "name": "How the Veda Was Preserved",
+      "description": "Understand how the Veda was preserved orally for millennia with astonishing accuracy — the recitation methods (पाठप्रकार), and how each mantra carries its rishi, metre (छन्द), deity and application (विनियोग).",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain how recitation methods protected the text",
+        "Name the four attributes of a mantra (rishi, chandas, devata, viniyoga)",
+        "Explain why oral preservation was so exact"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how the Veda was passed down by voice for thousands of years without changing?",
+      "standards": [
+        "nios-sec-2020:245.C1"
+      ]
+    },
+    {
+      "id": "mt_TCz6tuPc4p",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Vedic Studies",
+      "name": "The Commentators of the Veda",
+      "description": "Know the great commentators (भाष्यकार) of the Veda and their differing methods of interpretation (भाष्यपद्धति) — how the same mantra can be read ritually, philosophically or naturalistically.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name a Vedic commentator",
+        "Explain what a bhashya (commentary) does",
+        "Explain that different methods yield different readings"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what a Vedic commentary is and why different commentators read the same verse differently?",
+      "standards": [
+        "nios-sec-2020:245.C1"
+      ]
+    },
+    {
+      "id": "mt_ePdtfWT2B9",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Vedic Studies",
+      "name": "Yajna and the Vedic Deities",
+      "description": "Understand the Vedic yajna (sacrifice) as the centre of Vedic religion, and the Vedic deities — their classification, forms and nature, such as Indra — along with the legends (आख्यान) woven through the texts.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what a yajna is",
+        "Classify the Vedic deities in outline",
+        "Retell a Vedic legend (akhyana)"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the Vedic yajna and name some Vedic deities and what they stand for?",
+      "standards": [
+        "nios-sec-2020:245.C1"
+      ]
+    },
+    {
+      "id": "mt_0CQiaebFyw",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Vedic Studies",
+      "name": "Suktas of Sun, Dawn and Harmony",
+      "description": "Read and understand Vedic suktas addressed to the natural and social order — the Surya (sun), Ushas (dawn) and Pushan hymns, and the Sanjnana sukta’s famous call to move, speak and think in harmony together.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Give the gist of the Surya or Ushas sukta",
+        "Explain the harmony message of the Sanjnana sukta",
+        "Connect a sukta’s imagery to its deity"
+      ],
+      "assessmentPrompt": "Can {{name}} give the sense of a Vedic hymn like the dawn hymn or the unity hymn (\"walk together, speak together\")?",
+      "standards": [
+        "nios-sec-2020:245.C2"
+      ]
+    },
+    {
+      "id": "mt_2MKLN1UV38",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Vedic Studies",
+      "name": "The Varuna and Yama Suktas",
+      "description": "Read and understand the Varuna sukta — the guardian of cosmic order (ऋत) and moral law — and the Yama sukta’s reflection on death and what lies beyond.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain Varuna’s connection with cosmic and moral order",
+        "Give the gist of the Yama sukta",
+        "Explain the idea of rita (ऋत)"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what the Varuna hymn says about moral order, and what the Yama hymn reflects on?",
+      "standards": [
+        "nios-sec-2020:245.C2"
+      ]
+    },
+    {
+      "id": "mt_DfXhb2w5Kf",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Vedic Studies",
+      "name": "The Story of Shunahshepa",
+      "description": "Read the Shunahshepa Upakhyana from the Aitareya Brahmana — the dramatic tale of a boy sold for sacrifice and saved by his own prayer — and the Vishvamitra–rivers dialogue, two celebrated Vedic narratives.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Retell the story of Shunahshepa",
+        "Explain what the story shows about prayer and deliverance",
+        "Give the sense of the Vishvamitra–rivers dialogue"
+      ],
+      "assessmentPrompt": "Can {{name}} tell the story of Shunahshepa — the boy saved by his own prayer — and the poet’s dialogue with the rivers?",
+      "standards": [
+        "nios-sec-2020:245.C2"
+      ]
+    },
+    {
+      "id": "mt_EO1JdZzThV",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Vedic Studies",
+      "name": "Vedic Grammar: Panini's Rules for the Veda",
+      "description": "Understand how Vedic Sanskrit differs from the classical language, through the Vedic-specific rules (वैदिकी प्रक्रिया) that Panini gives across the Ashtadhyayi — forms, accents and licences peculiar to the Veda.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Give an example of a Vedic form that classical Sanskrit lacks",
+        "Explain that Panini wrote special rules for Vedic usage",
+        "Recognise the role of accent (svara) in Vedic text"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how the Sanskrit of the Veda differs from classical Sanskrit, and that Panini made special rules for it?",
+      "standards": [
+        "nios-sec-2020:245.C3"
+      ]
+    },
+    {
+      "id": "mt_pWkL9LF3fq",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Paninian Grammar",
+      "name": "How Panini's Grammar Works",
+      "description": "Understand the design of Panini’s Ashtadhyayi — grammar compressed into brief sutras, refined by vartikas — and why this system has been called the most remarkable grammar ever written.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what a sutra is and why sutras are so brief",
+        "Explain the role of a vartika",
+        "Describe the Ashtadhyayi’s reputation and structure in outline"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how Panini packed a whole grammar into short sutras, and what the Ashtadhyayi is?",
+      "standards": [
+        "nios-sec-2020:246.C1"
+      ]
+    },
+    {
+      "id": "mt_V7ROh0L8X5",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Paninian Grammar",
+      "name": "The Maheshvara Sutras and It-Markers",
+      "description": "Understand the fourteen Maheshvara Sutras that arrange the sounds of Sanskrit, and the it-markers (इत्) — silent letters in a sutra that carry instructions and disappear (लोप).",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Recite or recognise the Maheshvara Sutras’ arrangement of sounds",
+        "Explain what an it-marker does",
+        "Explain how a pratyahara abbreviates a group of sounds"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the sound-list Panini starts from, and the trick of silent marker letters?",
+      "standards": [
+        "nios-sec-2020:246.C1"
+      ]
+    },
+    {
+      "id": "mt_aGUQMElfLZ",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Paninian Grammar",
+      "name": "Panini's Technical Terms (Samjna)",
+      "description": "Know the defined technical terms (संज्ञा) the sutras use — savarna, guna, vrddhi, dhatu, upadha and others — the precise vocabulary that makes the compressed rules work.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Define guna and vrddhi as Panini uses them",
+        "Explain what counts as a dhatu",
+        "Use a samjna to read a sutra correctly"
+      ],
+      "assessmentPrompt": "Can {{name}} explain Panini’s technical terms — like guna and vrddhi — and why exact definitions matter?",
+      "standards": [
+        "nios-sec-2020:246.C1"
+      ]
+    },
+    {
+      "id": "mt_XEqDBVwrkr",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Paninian Grammar",
+      "name": "The Metarules (Paribhasha)",
+      "description": "Understand the paribhashas — rules about how to apply rules — such as how a sixth-case word in a sutra marks what gets replaced (षष्ठी स्थानेयोगा), and the conventions for nearest-sound substitution.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what a paribhasha is",
+        "Apply षष्ठी स्थानेयोगा to read a substitution sutra",
+        "Explain why metarules are needed"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the \"rules about rules\" that tell you how to apply Panini’s sutras?",
+      "standards": [
+        "nios-sec-2020:246.C1"
+      ]
+    },
+    {
+      "id": "mt_4ntIXtYoD7",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Paninian Grammar",
+      "name": "Vowel Sandhi by the Sutras",
+      "description": "Derive vowel sandhi from the rules — yan substitution, guna and vrddhi sandhi, savarna-dirgha lengthening, and the prakritibhava exceptions — rather than memorising outcomes.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Derive a yan-sandhi form citing the rule idea",
+        "Apply guna/vrddhi sandhi at a word junction",
+        "Recognise a prakritibhava (no-change) case"
+      ],
+      "assessmentPrompt": "Can {{name}} not just apply vowel sandhi but explain which rule produces the change?",
+      "standards": [
+        "nios-sec-2020:246.C2"
+      ]
+    },
+    {
+      "id": "mt_wnciR8EXMn",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Paninian Grammar",
+      "name": "Consonant and Visarga Sandhi by the Sutras",
+      "description": "Derive consonant and visarga sandhi from the rules — jastva voicing, shchutva and shtutva assimilation, and the visarga changes (rutva and the rest) — as rule-governed processes.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Apply shchutva/shtutva assimilation at a junction",
+        "Derive a visarga change by rule",
+        "Explain sandhi as rule-governed, not arbitrary"
+      ],
+      "assessmentPrompt": "Can {{name}} derive consonant and visarga sandhi changes from the rules that govern them?",
+      "standards": [
+        "nios-sec-2020:246.C2"
+      ]
+    },
+    {
+      "id": "mt_hAJ2JdqTBf",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Paninian Grammar",
+      "name": "Deriving Vowel-Stem Declensions",
+      "description": "Derive the declensions of vowel-stem words by rule — rama case by case, then hari and go, the feminines rama and nadi, and the neuters jnana, vari and dadhi.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Derive a case form of राम step by step",
+        "Decline a feminine (नदी) and a neuter (वारि) stem",
+        "Explain how the same rules generate different stems’ forms"
+      ],
+      "assessmentPrompt": "Can {{name}} derive the case forms of words like राम and नदी from the rules, step by step?",
+      "standards": [
+        "nios-sec-2020:246.C3"
+      ]
+    },
+    {
+      "id": "mt_ICjqSvbPjw",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Paninian Grammar",
+      "name": "Deriving Consonant-Stem and Pronoun Forms",
+      "description": "Derive the harder declensions — consonant stems like राजन् and महत्, and the pronouns तत्, युष्मद् and अस्मद् — following the special rules each requires.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Derive forms of a consonant stem like राजन्",
+        "Decline the personal pronouns युष्मद्/अस्मद्",
+        "Explain why these stems need special rules"
+      ],
+      "assessmentPrompt": "Can {{name}} work out the trickier declensions — words like राजन् and the pronouns — by rule?",
+      "standards": [
+        "nios-sec-2020:246.C3"
+      ]
+    },
+    {
+      "id": "mt_5Y0EFPqEBH",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Paninian Grammar",
+      "name": "Karaka in the Sutras",
+      "description": "Understand karaka as Panini defines it — the sutra definitions of doer and object (कर्तुरीप्सिततमं कर्म), and how each vibhakti’s meanings follow from the karaka rules, nominative through locative.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "State a karaka definition from the sutras in simple terms",
+        "Assign the right vibhakti using a karaka rule",
+        "Explain the akathita (unstated) object rule in outline"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how Panini defines the roles in a sentence, and pick cases by those definitions?",
+      "standards": [
+        "nios-sec-2020:246.C4"
+      ]
+    },
+    {
+      "id": "mt_g1EXmXcgps",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Paninian Grammar",
+      "name": "Upapada Vibhakti Rules",
+      "description": "Know the upapada-vibhakti rules — where particular words in a sentence demand particular cases regardless of role — across the cases from accusative to locative.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Give an example of a word that forces a particular case",
+        "Apply an upapada rule in a sentence",
+        "Distinguish karaka-based from upapada-based case choice"
+      ],
+      "assessmentPrompt": "Can {{name}} spot the words that force a particular case ending, and use those rules correctly?",
+      "standards": [
+        "nios-sec-2020:246.C4"
+      ]
+    },
+    {
+      "id": "mt_D6aNogterc",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Paninian Grammar",
+      "name": "Krdanta: Deriving Words from Roots",
+      "description": "Derive new words from verb roots with krt suffixes — the krtya suffixes of obligation, and the purva- and uttara-krdanta formations — seeing word-building as rule-governed derivation.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Derive a krtya form (e.g. कर्तव्य) from a root",
+        "Form purva-krdanta words like गत्वा by rule",
+        "Explain krdanta as derivation, not memorisation"
+      ],
+      "assessmentPrompt": "Can {{name}} derive words like कर्तव्य and गत्वा from their roots using the krt suffix rules?",
+      "standards": [
+        "nios-sec-2020:246.C5"
+      ]
+    },
+    {
+      "id": "mt_rwQyOwmDfm",
+      "type": "LANGUAGE",
+      "subject": "Telugu",
+      "domain": "Reading",
+      "name": "Reading Telugu Poetry",
+      "description": "Read Telugu poetry with understanding and enjoyment — grasping a poem’s meaning and feeling, appreciating its craft, and experiencing its aesthetic flavour (రసానుభూతి).",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Read a Telugu poem and state its meaning and feeling",
+        "Appreciate a poetic feature of the text",
+        "Respond personally to a poem"
+      ],
+      "assessmentPrompt": "Can {{name}} read a Telugu poem, explain what it says and feels, and enjoy its beauty?",
+      "standards": [
+        "nios-sec-2020:205.PDY"
+      ]
+    },
+    {
+      "id": "mt_VOQM7d8DrU",
+      "type": "LANGUAGE",
+      "subject": "Telugu",
+      "domain": "Reading",
+      "name": "Reading Telugu Prose",
+      "description": "Read Telugu prose across genres with comprehension — grasping main ideas, learning grammar in context, and growing command of vocabulary.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Read a Telugu prose passage and state its main ideas",
+        "Work out unfamiliar words from context",
+        "Apply a grammar point met in the text"
+      ],
+      "assessmentPrompt": "Can {{name}} read a Telugu prose piece with understanding and pick up new words and usage from it?",
+      "standards": [
+        "nios-sec-2020:205.GDY"
+      ]
+    },
+    {
+      "id": "mt_cMFEnSVAbl",
+      "type": "META",
+      "subject": "Telugu",
+      "domain": "Reading",
+      "name": "Reading Widely in Telugu",
+      "description": "Build the habit of independent, extensive reading in Telugu — reading whole works on one’s own, developing taste, speed and the self-study habit.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Read a longer Telugu text independently",
+        "Summarise what was read",
+        "Choose further reading by own taste"
+      ],
+      "assessmentPrompt": "Does {{name}} read Telugu books on their own — and can they tell you about what they read?",
+      "standards": [
+        "nios-sec-2020:205.UPV"
+      ]
+    },
+    {
+      "id": "mt_UQFth1UDiS",
+      "type": "LANGUAGE",
+      "subject": "Telugu",
+      "domain": "Speaking & Writing",
+      "name": "Expressing Yourself in Telugu",
+      "description": "Express thoughts precisely in Telugu — speaking and writing clearly, and attempting creative writing of one’s own.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Express an idea precisely in spoken Telugu",
+        "Write a clear short passage in Telugu",
+        "Attempt a piece of creative writing"
+      ],
+      "assessmentPrompt": "Can {{name}} say and write what they mean in Telugu clearly — and try some writing of their own?",
+      "standards": [
+        "nios-sec-2020:205.PDY",
+        "nios-sec-2020:205.GDY"
+      ]
+    },
+    {
+      "id": "mt_ddnUHqveTw",
+      "type": "CONCEPTUAL",
+      "subject": "Telugu",
+      "domain": "Language & Society",
+      "name": "Telugu Language and Culture",
+      "description": "Know and value the Telugu language and its traditions — its literature and culture — and take pride in knowing Telugu while staying open to other languages and peoples.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describe a feature of Telugu literary or cultural tradition",
+        "Explain why the language and its traditions are valued",
+        "Relate Telugu identity to national integration"
+      ],
+      "assessmentPrompt": "Can {{name}} talk about what makes Telugu language and culture special, and why it is worth knowing well?",
+      "standards": [
+        "nios-sec-2020:205.PDY",
+        "nios-sec-2020:205.GDY"
+      ]
+    },
+    {
+      "id": "mt_TebWUloprY",
+      "type": "LANGUAGE",
+      "subject": "Kannada",
+      "domain": "Speaking & Listening",
+      "name": "Listening and Speaking Kannada",
+      "description": "Listen to Kannada attentively — analysing and judging what is heard — and speak it clearly with correct accent, in the register the occasion needs, with reasons and in good order.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Follow spoken Kannada and state its essence",
+        "Speak with clear pronunciation in formal and informal registers",
+        "Present a view with reasons in sequence"
+      ],
+      "assessmentPrompt": "Can {{name}} follow spoken Kannada closely, and speak it clearly and appropriately for the occasion?",
+      "standards": [
+        "nios-sec-2020:208.LSN",
+        "nios-sec-2020:208.SPK"
+      ]
+    },
+    {
+      "id": "mt_dqfGO1aUd4",
+      "type": "LANGUAGE",
+      "subject": "Kannada",
+      "domain": "Reading",
+      "name": "Reading Kannada Prose",
+      "description": "Read Kannada prose fluently and with quick comprehension — essays and narratives from lessons on people’s welfare, women’s progress, rational thinking and the world of computers — taking words and idioms in context.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Read a Kannada prose lesson and state its main ideas",
+        "Grasp a passage quickly in silent reading",
+        "Take the contextual sense of unfamiliar words and idioms"
+      ],
+      "assessmentPrompt": "Can {{name}} read a Kannada essay or story fluently and tell you what it says?",
+      "standards": [
+        "nios-sec-2020:208.RDG"
+      ]
+    },
+    {
+      "id": "mt_5QwY5X1qZc",
+      "type": "LANGUAGE",
+      "subject": "Kannada",
+      "domain": "Reading",
+      "name": "Reading Kannada Poetry",
+      "description": "Read Kannada poetry across its forms — modern poems, the vachanas of the sharanas, the three-line tripadi, and classical verse like Pampa’s \"Banavasi\" lines — with rhythm and feeling.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Read a Kannada poem at the right rhythm",
+        "Recognise forms like the vachana and tripadi",
+        "State the feeling of a poem read"
+      ],
+      "assessmentPrompt": "Can {{name}} read Kannada poetry — from vachanas to modern poems — with rhythm and explain its feeling?",
+      "standards": [
+        "nios-sec-2020:208.RDG"
+      ]
+    },
+    {
+      "id": "mt_qEUfhcqWP1",
+      "type": "PROCEDURAL",
+      "subject": "Kannada",
+      "domain": "Writing",
+      "name": "Functional Writing in Kannada",
+      "description": "Write practical Kannada in the right format — letters formal and informal, news paragraphs, picture and graph descriptions, form-filling and telephone messages.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Write a formal Kannada letter in correct format",
+        "Describe a picture or graph in Kannada",
+        "Fill an application form and record a message accurately"
+      ],
+      "assessmentPrompt": "Can {{name}} write a proper Kannada letter, describe a chart, and fill in a form correctly?",
+      "standards": [
+        "nios-sec-2020:208.WRT"
+      ]
+    },
+    {
+      "id": "mt_lzQwOfJbzI",
+      "type": "PROCEDURAL",
+      "subject": "Kannada",
+      "domain": "Writing",
+      "name": "Essay, Précis and Expansion in Kannada",
+      "description": "Compose longer Kannada writing — essays, précis (ಸಾರಸಂಗ್ರಹಣೆ), and the expansion of ideas into paragraphs — with clear expression and correct grammar in use.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Write a structured Kannada essay",
+        "Condense a passage into a précis",
+        "Expand a saying or idea into a paragraph"
+      ],
+      "assessmentPrompt": "Can {{name}} write a Kannada essay, shorten a passage into a précis, and expand an idea into a paragraph?",
+      "standards": [
+        "nios-sec-2020:208.WRT"
+      ]
+    },
+    {
+      "id": "mt_1ghTzUumTa",
+      "type": "CONCEPTUAL",
+      "subject": "Kannada",
+      "domain": "Language & Society",
+      "name": "Kannada Language and Its World",
+      "description": "Know Kannada’s place and life — a language changing with the times, gaining new technical words, serving Karnataka’s people as their common tongue — and its literary tradition from the vachanas to today.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describe how Kannada has changed and grown with the times",
+        "Name a feature of the Kannada literary tradition",
+        "Explain Kannada’s role as the common language of its people"
+      ],
+      "assessmentPrompt": "Can {{name}} talk about Kannada — how it changes and grows, and the literary tradition behind it?",
+      "standards": [
+        "nios-sec-2020:208.RDG"
+      ]
+    },
+    {
+      "id": "mt_5LzLS1txJ1",
+      "type": "LANGUAGE",
+      "subject": "Tamil",
+      "domain": "Reading",
+      "name": "Reading Tamil Poetry",
+      "description": "Read Tamil poetry across two thousand years — from the Sangam classics to modern free verse — with correct reading and immediate comprehension, honouring Tamil’s status as a classical language (செம்மொழி).",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Read a Tamil poem aloud correctly",
+        "State the meaning and feeling of a poem",
+        "Recognise Sangam poetry as classical literature"
+      ],
+      "assessmentPrompt": "Can {{name}} read Tamil poetry — from ancient Sangam verse to modern free verse — and explain its sense?",
+      "standards": [
+        "nios-sec-2020:237.PDY"
+      ]
+    },
+    {
+      "id": "mt_nKNUAMKFcA",
+      "type": "LANGUAGE",
+      "subject": "Tamil",
+      "domain": "Reading",
+      "name": "Reading Tamil Prose",
+      "description": "Read Tamil prose across genres — essays, short stories, drama, travel writing and letters — with quick comprehension, and report what was read.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Read a Tamil prose piece and state its main ideas",
+        "Report the content of what was read",
+        "Handle different prose genres"
+      ],
+      "assessmentPrompt": "Can {{name}} read a Tamil story or essay with understanding and retell what it said?",
+      "standards": [
+        "nios-sec-2020:237.GDY"
+      ]
+    },
+    {
+      "id": "mt_Upt5QVcits",
+      "type": "PROCEDURAL",
+      "subject": "Tamil",
+      "domain": "Writing",
+      "name": "Functional Tamil",
+      "description": "Use Tamil for the tasks of real life — writing letters and news items, preparing interviews and project proposals, filling forms, and composing advertisements — with correct letter-shapes and punctuation.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Write a Tamil letter or news item in correct format",
+        "Fill a Tamil form accurately",
+        "Draft a simple advertisement or proposal"
+      ],
+      "assessmentPrompt": "Can {{name}} handle everyday written Tamil — letters, forms, news items and notices — correctly?",
+      "standards": [
+        "nios-sec-2020:237.FNC"
+      ]
+    },
+    {
+      "id": "mt_ICe94SoQqK",
+      "type": "LANGUAGE",
+      "subject": "Tamil",
+      "domain": "Grammar",
+      "name": "The Tamil Sounds: ல, ள, ழ and ந, ன, ண",
+      "description": "Master the sound distinctions that define good Tamil — the three l-sounds (ல, ள, ழ) and the three n-sounds (ந, ன, ண) — hearing, pronouncing and spelling them correctly.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguish ல, ள and ழ in hearing and speech",
+        "Distinguish ந, ன and ண in spelling",
+        "Spell common words with the correct letter"
+      ],
+      "assessmentPrompt": "Can {{name}} tell apart Tamil’s three l-sounds and three n-sounds — saying and spelling them correctly?",
+      "standards": [
+        "nios-sec-2020:237.GRM"
+      ]
+    },
+    {
+      "id": "mt_SIM0rrWZBQ",
+      "type": "LANGUAGE",
+      "subject": "Tamil",
+      "domain": "Grammar",
+      "name": "Tamil Words and Their Meanings",
+      "description": "Command Tamil vocabulary — words with many meanings and meanings with many words, antonyms, and the idioms, proverbs and similes that colour the language.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Give several meanings of a polysemous word",
+        "Use an idiom or proverb aptly",
+        "Supply antonyms for common words"
+      ],
+      "assessmentPrompt": "Can {{name}} play with Tamil words — many meanings of one word, idioms and proverbs used well?",
+      "standards": [
+        "nios-sec-2020:237.GRM"
+      ]
+    },
+    {
+      "id": "mt_RvyXplfKPK",
+      "type": "LANGUAGE",
+      "subject": "Tamil",
+      "domain": "Grammar",
+      "name": "Tamil Sentences and Reported Speech",
+      "description": "Build correct Tamil sentences and move between direct and indirect speech, with sound narration technique and idiomatic usage.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Construct grammatically correct Tamil sentences",
+        "Convert direct speech to indirect and back",
+        "Narrate an event in correct sequence"
+      ],
+      "assessmentPrompt": "Can {{name}} build correct Tamil sentences and switch between direct and reported speech?",
+      "standards": [
+        "nios-sec-2020:237.GRM"
+      ]
+    },
+    {
+      "id": "mt_x7hSkkWUKn",
+      "type": "PROCEDURAL",
+      "subject": "Tamil",
+      "domain": "Writing",
+      "name": "Creative Writing in Tamil",
+      "description": "Develop creative ability in Tamil — writing of one’s own, informed by acquaintance with eminent Tamil authors and their works, discussion and direct experience.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Attempt an original piece of Tamil writing",
+        "Name an eminent Tamil author and work",
+        "Improve a draft after discussion"
+      ],
+      "assessmentPrompt": "Does {{name}} try writing Tamil of their own — knowing some of the great authors — and improve it with feedback?",
+      "standards": [
+        "nios-sec-2020:237.CRE"
+      ]
+    },
+    {
+      "id": "mt_teZqXxp5jp",
+      "type": "CONCEPTUAL",
+      "subject": "Tamil",
+      "domain": "Language & Society",
+      "name": "Tamil: A Classical Language",
+      "description": "Understand Tamil’s standing — an ancient classical language (செம்மொழி) with a vast literature, kin to Telugu, Kannada and Malayalam in the Dravidian family, spoken worldwide and strong in the computer age.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain Tamil’s recognition as a classical language",
+        "Name Tamil’s Dravidian sister languages",
+        "Describe Tamil’s worldwide presence and modern use"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why Tamil is honoured as a classical language, and name its sister languages?",
+      "standards": [
+        "nios-sec-2020:237.PDY",
+        "nios-sec-2020:237.GDY"
+      ]
+    },
+    {
+      "id": "mt_wSqeIpJGHL",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Indian Philosophy",
+      "name": "What Darshana Is",
+      "description": "Understand darshana — Indian philosophy — as the disciplined pursuit of life’s highest aim: what it studies, its sources, the means of valid knowledge (प्रमाण), and why the schools honestly disagree.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what darshana means and pursues",
+        "Name the pramanas (means of knowledge) in outline",
+        "Explain why the darshanas disagree with one another"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what Indian philosophy (darshana) is about, and why its schools reach different answers?",
+      "standards": [
+        "nios-sec-2020:247.C1"
+      ]
+    },
+    {
+      "id": "mt_aU8VU9GF2E",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Indian Philosophy",
+      "name": "The Map of Indian Learning",
+      "description": "Know the classical map of Indian learning — the Veda at its centre, the six Vedangas that serve it, the Upangas and Upavedas around it — and the prasthana-traya, the three foundational text-streams.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name the Vedangas in outline",
+        "Explain what the Upavedas are",
+        "Explain the prasthana-traya (Shruti, Smriti and reasoning texts)"
+      ],
+      "assessmentPrompt": "Can {{name}} sketch the classical map of Indian learning — the Veda, its limbs, and the three foundational text-streams?",
+      "standards": [
+        "nios-sec-2020:247.C1"
+      ]
+    },
+    {
+      "id": "mt_3M3jKog3tH",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Indian Philosophy",
+      "name": "Astika and Nastika Schools",
+      "description": "Understand the great division of Indian philosophy — the astika schools that accept the Veda’s authority and the nastika schools (Charvaka, Buddhist, Jain) that do not — and what each side holds.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "State the astika/nastika criterion",
+        "List the six astika and three nastika schools",
+        "Explain that the division is about Vedic authority, not belief in God"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how Indian philosophy divides into schools that accept the Veda and schools that do not — and name them?",
+      "standards": [
+        "nios-sec-2020:247.C1",
+        "nios-sec-2020:247.C2"
+      ]
+    },
+    {
+      "id": "mt_8hs2z9PePl",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Indian Philosophy",
+      "name": "Charvaka: The Materialists",
+      "description": "Understand the Charvaka darshana — India’s ancient materialists, who accepted only perception as knowledge and this life as the whole of existence — and its place as philosophy’s sharpest critic.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "State the Charvaka view of knowledge (perception only)",
+        "State its view of life and moksha",
+        "Explain its role as a challenge the other schools answered"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the Charvaka view — only what we perceive is real, and this life is all — and why it mattered?",
+      "standards": [
+        "nios-sec-2020:247.C2"
+      ]
+    },
+    {
+      "id": "mt_ACM2KwL8NW",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Indian Philosophy",
+      "name": "Buddhist and Jain Darshana",
+      "description": "Understand the Buddhist and Arhata (Jain) darshanas as philosophies — their teachers, texts and doctrines of knowledge, reality and liberation — beyond their religious observances.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "State a core Buddhist philosophical doctrine",
+        "State a core Jain philosophical doctrine (e.g. anekanta)",
+        "Name a text or acharya of each tradition"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the philosophical teachings of the Buddhists and Jains — how they saw knowledge, reality and liberation?",
+      "standards": [
+        "nios-sec-2020:247.C2"
+      ]
+    },
+    {
+      "id": "mt_BBvE2ocY0x",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Indian Philosophy",
+      "name": "Nyaya and Vaisheshika",
+      "description": "Understand the paired schools of logic and nature — Nyaya, the discipline of right reasoning and debate, and Vaisheshika, the analysis of reality into its categories (पदार्थ) — and their view of moksha.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain Nyaya’s concern with valid reasoning",
+        "Explain Vaisheshika’s categories in outline",
+        "Name a foundational text or acharya"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the logic school (Nyaya) and the nature-analysing school (Vaisheshika) and what they sought?",
+      "standards": [
+        "nios-sec-2020:247.C3"
+      ]
+    },
+    {
+      "id": "mt_5ilGqhfaZn",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Indian Philosophy",
+      "name": "Sankhya and Yoga Darshana",
+      "description": "Understand Sankhya — the analysis of existence into consciousness (पुरुष) and nature (प्रकृति) — and Yoga, its practical partner, the discipline of stilling the mind, from Patanjali to the living traditions.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain the purusha–prakriti distinction",
+        "Explain Yoga as Sankhya’s practical discipline",
+        "Name the eight limbs of Yoga in outline"
+      ],
+      "assessmentPrompt": "Can {{name}} explain Sankhya’s two realities — consciousness and nature — and Yoga as the practice that frees the one from the other?",
+      "standards": [
+        "nios-sec-2020:247.C3"
+      ]
+    },
+    {
+      "id": "mt_j2OCEUTxjS",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Indian Philosophy",
+      "name": "Mimamsa Darshana",
+      "description": "Understand Mimamsa — the school of Vedic interpretation and ritual duty (धर्म) — its method of reading texts, its epistemology, and its view of the goal of life.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain Mimamsa’s concern with dharma and ritual",
+        "Explain its care for rules of text interpretation",
+        "Name a foundational text or acharya"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what the Mimamsa school cared about — duty, ritual and how to read the Veda rightly?",
+      "standards": [
+        "nios-sec-2020:247.C3"
+      ]
+    },
+    {
+      "id": "mt_b0iAzwJRza",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Indian Philosophy",
+      "name": "Vedanta and Its Schools",
+      "description": "Understand Vedanta — the darshana of the Upanishads’ conclusion — and the family of schools that grew from it, Advaita and the others, agreeing on the texts while differing on the truth they teach.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what Vedanta takes as its foundation",
+        "Name schools within Vedanta (Advaita and others)",
+        "Explain how the schools differ over one reality or many"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what Vedanta is, and that it grew into several schools that read the same texts differently?",
+      "standards": [
+        "nios-sec-2020:247.C3"
+      ]
+    },
+    {
+      "id": "mt_0sIMITGIZe",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Indian Philosophy",
+      "name": "Advaita: Brahman",
+      "description": "Understand Advaita Vedanta’s central teaching — Brahman as the one reality, defined in itself (स्वरूपलक्षण) and by reference to the world (तटस्थलक्षण) — and the four preliminaries of its study.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "State the four preliminaries (adhikari, vishaya, sambandha, prayojana)",
+        "Distinguish the two definitions of Brahman",
+        "State Advaita’s core claim of non-duality"
+      ],
+      "assessmentPrompt": "Can {{name}} explain Advaita’s central claim — one reality, Brahman — and the two ways it is defined?",
+      "standards": [
+        "nios-sec-2020:247.C4"
+      ]
+    },
+    {
+      "id": "mt_Zp65MSovTv",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Indian Philosophy",
+      "name": "Advaita: Maya, Ishvara and Jiva",
+      "description": "Understand how Advaita accounts for the world and ourselves — Maya, the power of appearance; Ishvara and the individual Jiva explained through the analogies of reflection and delimitation.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain Maya in outline (the five marks)",
+        "Use the reflection analogy for Ishvara and Jiva",
+        "Explain how one reality appears as many"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how Advaita accounts for the many — Maya, and the images of one light reflected in many waters?",
+      "standards": [
+        "nios-sec-2020:247.C4"
+      ]
+    },
+    {
+      "id": "mt_kILwi6GeKN",
+      "type": "CONCEPTUAL",
+      "subject": "Indian Culture & Heritage",
+      "domain": "Indian Philosophy",
+      "name": "Advaita: The Path to Moksha",
+      "description": "Understand Advaita’s path to liberation — the teaching method of superimposition and retraction (अध्यारोप-अपवाद), the outer means (karma, bhakti, upasana) and inner means (shravana, manana, nididhyasana), and moksha as recognising what was never lost.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain the adhyaropa-apavada teaching method",
+        "Distinguish the outer and inner means",
+        "Explain moksha as already-attained (prapta-prapti)"
+      ],
+      "assessmentPrompt": "Can {{name}} explain Advaita’s path — how the teaching first affirms and then retracts, and why liberation is described as finding what you never lost?",
+      "standards": [
+        "nios-sec-2020:247.C4"
+      ]
+    },
+    {
+      "id": "mt_ub53FBviBX",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Literature",
+      "name": "Subhashitas: Verses of Wisdom",
+      "description": "Read subhashitas — Sanskrit’s polished verses of wit and wisdom — working out the prose order (अन्वय), literal meaning and purport of each.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Give the anvaya (prose order) of a subhashita",
+        "State a subhashita’s literal meaning and purport",
+        "Quote a subhashita apt to a situation"
+      ],
+      "assessmentPrompt": "Can {{name}} unpack a Sanskrit wisdom-verse — rearrange it into prose order and explain what it teaches?",
+      "standards": [
+        "nios-sec-2020:248.S1"
+      ]
+    },
+    {
+      "id": "mt_V7qQN7dSSW",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Literature",
+      "name": "Riddle and Problem Verses",
+      "description": "Enjoy the playful side of Sanskrit — prahelikas (riddle-verses) and samasya-shlokas (problem-verses posed for completion) — and see how poets used puzzles to delight and sharpen readers.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Solve a simple Sanskrit riddle-verse",
+        "Explain what a samasya-shloka is",
+        "Explain why poets composed puzzle-verses"
+      ],
+      "assessmentPrompt": "Can {{name}} enjoy a Sanskrit riddle-verse — solving it and explaining the trick?",
+      "standards": [
+        "nios-sec-2020:248.S1"
+      ]
+    },
+    {
+      "id": "mt_gBFLTLpDBk",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Literature",
+      "name": "The Sanskrit Story Collections",
+      "description": "Read tales from Sanskrit’s great story collections — the Vetala’s twenty-five riddling tales, the parrot’s seventy of the Shukasaptati, and the Panchatantra’s animal fables — with their morals and wordplay.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Retell a tale from the Vetalapanchavimshati or Panchatantra",
+        "State the moral a tale argues (e.g. \"where dharma is, there is victory\")",
+        "Explain the frame-story device these collections use"
+      ],
+      "assessmentPrompt": "Can {{name}} retell a classic Sanskrit tale — from the Vetala stories or Panchatantra — and its point?",
+      "standards": [
+        "nios-sec-2020:248.S1"
+      ]
+    },
+    {
+      "id": "mt_gv6rIiSwds",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Literature",
+      "name": "What Kavya Is",
+      "description": "Understand the classical account of literature — what sahitya and kavya are, the poet (कवि) and poetic genius (प्रतिभा), the ideal reader (सहृदय), and what literature is for.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain kavya and kavi in the classical sense",
+        "Explain pratibha (poetic genius) and the sahridaya (ideal reader)",
+        "State classical purposes of literature"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the classical view of poetry — the poet’s genius, the feeling reader, and what literature is for?",
+      "standards": [
+        "nios-sec-2020:248.S2"
+      ]
+    },
+    {
+      "id": "mt_FfhuGCif9n",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Literature",
+      "name": "The Genres of Kavya",
+      "description": "Know the genres of Sanskrit literature — drama to be seen (दृश्य) and poetry to be heard (श्रव्य); verse, prose and the mixed champu; and the great mahakavya.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguish drishya from shravya kavya",
+        "Name genres: nataka, gadya, padya, champu, mahakavya",
+        "Place a studied work in its genre"
+      ],
+      "assessmentPrompt": "Can {{name}} name the kinds of Sanskrit literature — plays, heard poetry, prose, champu, epic — and give an example?",
+      "standards": [
+        "nios-sec-2020:248.S2"
+      ]
+    },
+    {
+      "id": "mt_NgAYpBCkgE",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Literature",
+      "name": "Reading the Ramayana: Rama Meets Hanuman",
+      "description": "Read Valmiki himself — the Kishkindha-kanda scene where Hanuman first meets Rama and Lakshmana — verse by verse with prose order and meaning, savouring Hanuman’s celebrated speech.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Give the anvaya and meaning of a studied verse",
+        "Retell the meeting of Rama and Hanuman",
+        "Explain why Hanuman’s speech is praised as perfect"
+      ],
+      "assessmentPrompt": "Can {{name}} read the famous first meeting of Rama and Hanuman in Valmiki’s own verses and explain them?",
+      "standards": [
+        "nios-sec-2020:248.S3"
+      ]
+    },
+    {
+      "id": "mt_YqgEmP5Nhl",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Literature",
+      "name": "Bhasa’s Karnabharam",
+      "description": "Read Bhasa’s one-act play Karnabharam — Karna’s anguish before battle, the story of the fatal weapon, and his gift of the divine armour — Sanskrit drama at its most humane.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Retell the play’s action (Karna’s burden and gift)",
+        "Explain Karna’s character as the play draws it",
+        "Read a passage of the play with meaning"
+      ],
+      "assessmentPrompt": "Can {{name}} tell the story of Bhasa’s play about Karna — his anguish and his great gift — from the text?",
+      "standards": [
+        "nios-sec-2020:248.S4"
+      ]
+    },
+    {
+      "id": "mt_aNdAnLHCQJ",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Literature",
+      "name": "Bharavi’s Kiratarjuniyam",
+      "description": "Read the opening of Bharavi’s mahakavya Kiratarjuniyam — the forest spy’s report, Duryodhana’s cunning statecraft, and Yudhishthira’s measured counsel — epic court-poetry in its full power.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Give the sense of studied verses from sarga 1",
+        "Describe Duryodhana’s conduct as the spy reports it",
+        "Explain Yudhishthira’s response"
+      ],
+      "assessmentPrompt": "Can {{name}} read the opening of the Kiratarjuniyam — the spy’s report and the counsel it provokes — and explain it?",
+      "standards": [
+        "nios-sec-2020:248.S4"
       ]
     }
   ]

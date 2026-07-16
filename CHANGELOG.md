@@ -8,6 +8,38 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### NIOS Secondary — the nine OCR-blocked subjects (2026-07-16)
+
+The language-medium and Sanskrit-stream subjects, whose PDF pages were image-only
+scans or garbled text. Recovered via parallel OCR (tesseract hin/san/tel/kan/tam
+at 300 DPI, agent-cross-checked against rendered page images; hour/mark totals
+verified arithmetically). Standard descriptions are English summaries authored
+from the extractions — flagged as OCR-derived in PROVENANCE.
+
+- **Hindi (201)** → new subject: 7 skill standards, 13 micro-topics (skills +
+  sandhi/samas, word origins, karak, idioms, chhand, alankar, roles of Hindi).
+- **Sanskrit (209)** → new subject: 13 standards, 12 micro-topics (4 skills +
+  sandhi, declensions, conjugations, samasa, pratyaya, karaka, upasarga).
+- **Telugu (205), Kannada (208), Tamil (237)** → three new subjects: 19
+  micro-topics (reading poetry/prose, functional writing, Tamil's ல/ள/ழ and
+  ந/ன/ண distinctions, classical-language standing, links to India's Many
+  Languages and regional literature).
+- **Veda Adhyayan (245)** → "Vedic Studies" domain under Sanskrit: 8 topics
+  (what the Veda is, oral preservation, commentators, yajna & deities, the
+  suktas incl. Shunahshepa, Vedic prakriya).
+- **Sanskrit Vyakarna (246)** → "Paninian Grammar" domain under Sanskrit: 11
+  topics (sutra system, Maheshvara sutras, samjna, paribhasha, rule-derived
+  sandhi/subanta/karaka/krdanta), wired as deepenings of the applied grammar.
+- **Bharatiya Darshan (247)** → "Indian Philosophy" domain under Indian Culture
+  & Heritage: 12 topics (darshana, astika/nastika, Charvaka, Buddhist/Jain,
+  Nyaya-Vaisheshika, Sankhya-Yoga, Mimamsa, Vedanta, and Advaita in depth).
+- **Sanskrit Sahitya (248)** → extends Sanskrit's Literature domain: 8 topics
+  (subhashitas, riddle-verses, story collections, poetics, genres, Ramayana,
+  Karnabharam, Kiratarjuniyam).
+
+All 22 requested NIOS Secondary subjects are now integrated. 58 new topics in
+this batch; graph re-verified acyclic; validate.mjs green.
+
 ### NIOS Secondary — grain split pass (2026-07-16)
 - A grain audit of the secondary mints (measured against the taxonomy's own age-12+ topics) found the grain sound overall — evidence count, description length and age bands all matched, coverage was complete (0 unlinked standards), no duplicates — but a tail of ~7 mints bundled two or more distinct teachable ideas. This decomposes them to grain (coarse topics kept as entry points; specifics added beneath and wired).
 - **15 new micro-topics**: History — *Revolutions and the Modern Age* + *World Wars and Decolonisation*; Economics — *Challenges before the Indian Economy* + *India in the Global Economy*; Business Studies — *Banking Services* / *Insurance* / *Transport Services* / *Warehousing Services*; Accountancy — *The Profit and Loss Account* / *The Balance Sheet* / *Depreciation* / *Provisions and Reserves*; Music — *The Thaat System* / *Hindustani Vocal Forms*; Mathematics — *Concurrent Lines in a Triangle*.

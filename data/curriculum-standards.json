@@ -39712,7 +39712,7 @@
       "sourceUrl": "https://nios.ac.in/media/documents/seccurriculum2020.pdf",
       "textIncluded": true,
       "license": "NIOS Copyright Statement — reproduction permitted with prominent acknowledgment; see PROVENANCE.md",
-      "topicCount": 244,
+      "topicCount": 272,
       "topics": [
         {
           "key": "nios-sec-2020:222.M1.L1",
@@ -42884,6 +42884,370 @@
             "module": "C. Composition (रचना)",
             "lesson": "रचना",
             "description": "Write paragraphs from hints, letters and picture descriptions in Sanskrit, and answer questions on unseen prose passages."
+          }
+        },
+        {
+          "key": "nios-sec-2020:245.C1",
+          "code": "245.C1",
+          "data": {
+            "title": "History of Vedic Literature (वैदिकसाहित्येतिहासः)",
+            "level": "Secondary",
+            "subject": "Veda Adhyayan",
+            "courseCode": "245",
+            "module": "Chapter 1 (Lessons 1–7)",
+            "lesson": "वैदिकसाहित्येतिहासः",
+            "description": "The Veda — its meaning, uniqueness and apaurusheya nature; time of origin; recitation types; rishi-chandas-devata of mantras; the commentators and their methods; Vedic legends; yajna; and the Vedic deities."
+          }
+        },
+        {
+          "key": "nios-sec-2020:245.C2",
+          "code": "245.C2",
+          "data": {
+            "title": "Study of Vedic Suktas (वैदिकसूक्ताध्ययनम्)",
+            "level": "Secondary",
+            "subject": "Veda Adhyayan",
+            "courseCode": "245",
+            "module": "Chapter 2 (Lessons 8–15)",
+            "lesson": "वैदिकसूक्ताध्ययनम्",
+            "description": "Reading of Vedic suktas — Surya (RV 1.115), Sanjnana (RV 10.191), Pushan (RV 6.54), Ushas (RV 3.61), Varuna (RV 1.25), Yama (RV 10.14), the Shunahshepa Upakhyana (Aitareya Brahmana 7.3), and the Vishvamitra–rivers dialogue (RV 3.33)."
+          }
+        },
+        {
+          "key": "nios-sec-2020:245.C3",
+          "code": "245.C3",
+          "data": {
+            "title": "The Vedic Grammatical Process (वैदिकी प्रक्रिया)",
+            "level": "Secondary",
+            "subject": "Veda Adhyayan",
+            "courseCode": "245",
+            "module": "Chapter 3 (Lessons 16–24)",
+            "lesson": "वैदिकी प्रक्रिया",
+            "description": "The Vedic-specific rules of Panini across the eight chapters of the Ashtadhyayi — how Vedic Sanskrit differs from the classical language."
+          }
+        },
+        {
+          "key": "nios-sec-2020:246.C1",
+          "code": "246.C1",
+          "data": {
+            "title": "Technical Terms and Metarules (संज्ञापरिभाषा)",
+            "level": "Secondary",
+            "subject": "Sanskrit Vyakarna",
+            "courseCode": "246",
+            "module": "Chapter 1 (Lessons 1–5)",
+            "lesson": "संज्ञापरिभाषा",
+            "description": "The grammar tradition; sutra and vartika; the Maheshvara Sutras and it-markers; samjnas such as savarna, guna, vrddhi, dhatu, upadha; and the paribhasha metarules."
+          }
+        },
+        {
+          "key": "nios-sec-2020:246.C2",
+          "code": "246.C2",
+          "data": {
+            "title": "Sandhi by the Sutras (सन्धिप्रकरणम्)",
+            "level": "Secondary",
+            "subject": "Sanskrit Vyakarna",
+            "courseCode": "246",
+            "module": "Chapter 2 (Lessons 6–9)",
+            "lesson": "सन्धिप्रकरणम्",
+            "description": "Vowel sandhi (yan, guna/vrddhi, savarna-dirgha, prakritibhava) and consonant and visarga sandhi (jastva, shchutva, shtutva, rutva) derived from the sutras."
+          }
+        },
+        {
+          "key": "nios-sec-2020:246.C3",
+          "code": "246.C3",
+          "data": {
+            "title": "Subanta: Nominal Declension (सुबन्तप्रकरणम्)",
+            "level": "Secondary",
+            "subject": "Sanskrit Vyakarna",
+            "courseCode": "246",
+            "module": "Chapter 3 (Lessons 10–18)",
+            "lesson": "सुबन्तप्रकरणम्",
+            "description": "Deriving declensions by rule — rama and the vowel stems, feminine and neuter words, consonant stems, and the pronouns."
+          }
+        },
+        {
+          "key": "nios-sec-2020:246.C4",
+          "code": "246.C4",
+          "data": {
+            "title": "Karaka and Case Meanings (विभक्त्यर्थप्रकरणम्)",
+            "level": "Secondary",
+            "subject": "Sanskrit Vyakarna",
+            "courseCode": "246",
+            "module": "Chapter 4 (Lessons 19–25)",
+            "lesson": "विभक्त्यर्थप्रकरणम्",
+            "description": "The karaka system through the sutras — each case’s meanings from nominative to locative, and the upapada-vibhakti rules."
+          }
+        },
+        {
+          "key": "nios-sec-2020:246.C5",
+          "code": "246.C5",
+          "data": {
+            "title": "Krdanta: Primary Derivatives (कृदन्तप्रकरणम्)",
+            "level": "Secondary",
+            "subject": "Sanskrit Vyakarna",
+            "courseCode": "246",
+            "module": "Chapter 5 (Lessons 26–29)",
+            "lesson": "कृदन्तप्रकरणम्",
+            "description": "Deriving words from roots with krt suffixes — the krtya suffixes and the purva- and uttara-krdanta."
+          }
+        },
+        {
+          "key": "nios-sec-2020:205.PDY",
+          "code": "205.PDY",
+          "data": {
+            "title": "Poetry Section (పద్యభాగం)",
+            "level": "Secondary",
+            "subject": "Telugu",
+            "courseCode": "205",
+            "module": "Sections",
+            "lesson": "పద్యభాగం",
+            "description": "Read and appreciate Telugu poems across periods — developing values, creativity and aesthetic enjoyment (rasanubhuti). Ten lessons."
+          }
+        },
+        {
+          "key": "nios-sec-2020:205.GDY",
+          "code": "205.GDY",
+          "data": {
+            "title": "Prose Section (గద్యభాగం)",
+            "level": "Secondary",
+            "subject": "Telugu",
+            "courseCode": "205",
+            "module": "Sections",
+            "lesson": "గద్యభాగం",
+            "description": "Read Telugu prose across genres — building comprehension, applied grammar and command of vocabulary. Fifteen lessons."
+          }
+        },
+        {
+          "key": "nios-sec-2020:205.UPV",
+          "code": "205.UPV",
+          "data": {
+            "title": "Supplementary Reader (ఉపవాచకం)",
+            "level": "Secondary",
+            "subject": "Telugu",
+            "courseCode": "205",
+            "module": "Sections",
+            "lesson": "ఉపవాచకం",
+            "description": "Extensive reading through the supplementary reader — building self-study habits and taste for wide reading."
+          }
+        },
+        {
+          "key": "nios-sec-2020:208.LSN",
+          "code": "208.LSN",
+          "data": {
+            "title": "Listening (ಆಲಿಸುವಿಕೆ)",
+            "level": "Secondary",
+            "subject": "Kannada",
+            "courseCode": "208",
+            "module": "Skills",
+            "lesson": "Listening",
+            "description": "Listen with concentration; analyse ideas heard, grasp their essence, and form judgements from them."
+          }
+        },
+        {
+          "key": "nios-sec-2020:208.SPK",
+          "code": "208.SPK",
+          "data": {
+            "title": "Speaking (ಮಾತನಾಡುವಿಕೆ)",
+            "level": "Secondary",
+            "subject": "Kannada",
+            "courseCode": "208",
+            "module": "Skills",
+            "lesson": "Speaking",
+            "description": "Speak Kannada with clear pronunciation and correct accent, in formal and informal registers, with reasoned and well-sequenced expression."
+          }
+        },
+        {
+          "key": "nios-sec-2020:208.RDG",
+          "code": "208.RDG",
+          "data": {
+            "title": "Reading (ಓದುವಿಕೆ)",
+            "level": "Secondary",
+            "subject": "Kannada",
+            "courseCode": "208",
+            "module": "Skills",
+            "lesson": "Reading",
+            "description": "Read Kannada prose and verse fluently at the right rhythm, grasp material quickly in silent reading, and take contextual sense of words, idioms and proverbs — through the 27 lessons of \"Madhura Kannada\" (prose, poetry, vachanas, tripadi, drama and classical verse)."
+          }
+        },
+        {
+          "key": "nios-sec-2020:208.WRT",
+          "code": "208.WRT",
+          "data": {
+            "title": "Writing (ಬರವಣಿಗೆ)",
+            "level": "Secondary",
+            "subject": "Kannada",
+            "courseCode": "208",
+            "module": "Skills",
+            "lesson": "Writing",
+            "description": "Write Kannada clearly — formal and informal letters, paragraphs and news items, essays, picture and graph description, précis and expansion, form-filling and telephone messages — applying grammar elements in use."
+          }
+        },
+        {
+          "key": "nios-sec-2020:237.PDY",
+          "code": "237.PDY",
+          "data": {
+            "title": "Poetry (செய்யுள்)",
+            "level": "Secondary",
+            "subject": "Tamil",
+            "courseCode": "237",
+            "module": "Sections",
+            "lesson": "Poetry",
+            "description": "Read Tamil poetry from Sangam literature through modern free verse — twelve lessons."
+          }
+        },
+        {
+          "key": "nios-sec-2020:237.GDY",
+          "code": "237.GDY",
+          "data": {
+            "title": "Prose (உரைநடை)",
+            "level": "Secondary",
+            "subject": "Tamil",
+            "courseCode": "237",
+            "module": "Sections",
+            "lesson": "Prose",
+            "description": "Read Tamil prose — essays, short stories, drama, travel essays and letters — ten lessons."
+          }
+        },
+        {
+          "key": "nios-sec-2020:237.FNC",
+          "code": "237.FNC",
+          "data": {
+            "title": "Functional Tamil (பயன்பாட்டுத் தமிழ்)",
+            "level": "Secondary",
+            "subject": "Tamil",
+            "courseCode": "237",
+            "module": "Sections",
+            "lesson": "Functional Tamil",
+            "description": "Use Tamil for practical purposes — letters, interviews, project proposals, forms, news and advertisements — thirteen lessons, plus grammar in use."
+          }
+        },
+        {
+          "key": "nios-sec-2020:237.CRE",
+          "code": "237.CRE",
+          "data": {
+            "title": "Creative Ability (படைப்பாற்றல்)",
+            "level": "Secondary",
+            "subject": "Tamil",
+            "courseCode": "237",
+            "module": "Sections",
+            "lesson": "Creative Ability",
+            "description": "Develop creative ability in Tamil through self-study, acquaintance with eminent authors and works, discussion and direct experience."
+          }
+        },
+        {
+          "key": "nios-sec-2020:237.GRM",
+          "code": "237.GRM",
+          "data": {
+            "title": "Grammar and Functional Language",
+            "level": "Secondary",
+            "subject": "Tamil",
+            "courseCode": "237",
+            "module": "Grammar & Functional Language",
+            "lesson": "Grammar",
+            "description": "Master Tamil usage — one word/many meanings and many words/one meaning, the ல/ள/ழ and ந/ன/ண distinctions, idioms, proverbs and similes, sentence structure, antonyms, and direct and indirect speech."
+          }
+        },
+        {
+          "key": "nios-sec-2020:247.C1",
+          "code": "247.C1",
+          "data": {
+            "title": "Introduction to Darshana and the Streams of Indian Learning",
+            "level": "Secondary",
+            "subject": "Bharatiya Darshan",
+            "courseCode": "247",
+            "module": "Chapter 1 (Lessons 1–6)",
+            "lesson": "दर्शनविद्याप्रस्थानपरिचयः",
+            "description": "What darshana is — its scope, sources, pramanas and the causes of disagreement; the classification of Indian learning (Veda, Vedangas, Upangas, Upavedas); and the prasthana-traya."
+          }
+        },
+        {
+          "key": "nios-sec-2020:247.C2",
+          "code": "247.C2",
+          "data": {
+            "title": "The Heterodox (Nastika) Systems",
+            "level": "Secondary",
+            "subject": "Bharatiya Darshan",
+            "courseCode": "247",
+            "module": "Chapter 2 (Lessons 7–9)",
+            "lesson": "नास्तिकदर्शनानि",
+            "description": "Charvaka, Buddhist and Arhata (Jain) darshanas — their history, acharyas, texts, epistemology, metaphysics and view of moksha."
+          }
+        },
+        {
+          "key": "nios-sec-2020:247.C3",
+          "code": "247.C3",
+          "data": {
+            "title": "The Orthodox (Astika) Systems",
+            "level": "Secondary",
+            "subject": "Bharatiya Darshan",
+            "courseCode": "247",
+            "module": "Chapter 3 (Lessons 10–16)",
+            "lesson": "आस्तिकदर्शनानि",
+            "description": "Nyaya-Vaisheshika, Sankhya, Yoga, Mimamsa and Vedanta — their history, acharyas, texts, categories, epistemology and moksha."
+          }
+        },
+        {
+          "key": "nios-sec-2020:247.C4",
+          "code": "247.C4",
+          "data": {
+            "title": "Advaita Vedanta",
+            "level": "Secondary",
+            "subject": "Bharatiya Darshan",
+            "courseCode": "247",
+            "module": "Chapter 4 (Lessons 17–25)",
+            "lesson": "अद्वैतवेदान्तः",
+            "description": "The four preliminaries; Brahman; Maya; Ishvara and Jiva; adhyaropa-apavada; the external and internal means to moksha; and the nature of moksha."
+          }
+        },
+        {
+          "key": "nios-sec-2020:248.S1",
+          "code": "248.S1",
+          "data": {
+            "title": "Subhashitas and Story Literature",
+            "level": "Secondary",
+            "subject": "Sanskrit Sahitya",
+            "courseCode": "248",
+            "module": "Section 1 (Lessons 1–7)",
+            "lesson": "सुभाषितादिकं कथासाहित्यम्",
+            "description": "Subhashitas with anvaya and meaning; riddle and problem verses; and tales from the Vetalapanchavimshati, Shukasaptati and Panchatantra."
+          }
+        },
+        {
+          "key": "nios-sec-2020:248.S2",
+          "code": "248.S2",
+          "data": {
+            "title": "Introduction to Kavya",
+            "level": "Secondary",
+            "subject": "Sanskrit Sahitya",
+            "courseCode": "248",
+            "module": "Section 2 (Lessons 8–11)",
+            "lesson": "काव्यपरिचयः",
+            "description": "What sahitya, kavya, kavi and pratibha mean; the sahridaya and the purpose of literature; and the genres of kavya."
+          }
+        },
+        {
+          "key": "nios-sec-2020:248.S3",
+          "code": "248.S3",
+          "data": {
+            "title": "Study of the Ramayana",
+            "level": "Secondary",
+            "subject": "Sanskrit Sahitya",
+            "courseCode": "248",
+            "module": "Section 3 (Lessons 12–15)",
+            "lesson": "रामायणाध्ययनम्",
+            "description": "Valmiki’s Ramayana, Kishkindha-kanda sarga 3 — the meeting of Rama and Hanuman — with anvaya and meaning."
+          }
+        },
+        {
+          "key": "nios-sec-2020:248.S4",
+          "code": "248.S4",
+          "data": {
+            "title": "Study of Kavya",
+            "level": "Secondary",
+            "subject": "Sanskrit Sahitya",
+            "courseCode": "248",
+            "module": "Section 4 (Lessons 16–22)",
+            "lesson": "काव्याध्ययनम्",
+            "description": "Bhasa’s Karnabharam (Karna’s anguish, the weapon, the gift of armour) and Bharavi’s Kiratarjuniyam sarga 1."
           }
         }
       ]

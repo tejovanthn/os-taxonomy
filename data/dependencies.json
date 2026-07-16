@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3594,
+  "edgeCount": 3659,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -21566,6 +21566,396 @@
       "prerequisiteId": "mt_ffG9xKHE3f",
       "strength": "soft",
       "reason": "Reading comprehension leans on recognising word forms"
+    },
+    {
+      "topicId": "mt_hfBgGrEjvz",
+      "prerequisiteId": "mt_Hafy9D5ifH",
+      "strength": "hard",
+      "reason": "How the Veda was preserved builds on knowing what it is"
+    },
+    {
+      "topicId": "mt_TCz6tuPc4p",
+      "prerequisiteId": "mt_Hafy9D5ifH",
+      "strength": "soft",
+      "reason": "The commentators interpret the Veda just introduced"
+    },
+    {
+      "topicId": "mt_ePdtfWT2B9",
+      "prerequisiteId": "mt_Hafy9D5ifH",
+      "strength": "soft",
+      "reason": "Yajna and the deities are the religion of the Veda"
+    },
+    {
+      "topicId": "mt_0CQiaebFyw",
+      "prerequisiteId": "mt_cUpCdjZbDC",
+      "strength": "hard",
+      "reason": "Reading suktas presupposes reading simple Sanskrit"
+    },
+    {
+      "topicId": "mt_0CQiaebFyw",
+      "prerequisiteId": "mt_hfBgGrEjvz",
+      "strength": "soft",
+      "reason": "Sukta study uses the mantra attributes (rishi, chandas, devata)"
+    },
+    {
+      "topicId": "mt_2MKLN1UV38",
+      "prerequisiteId": "mt_0CQiaebFyw",
+      "strength": "soft",
+      "reason": "The Varuna and Yama suktas follow the first sukta readings"
+    },
+    {
+      "topicId": "mt_DfXhb2w5Kf",
+      "prerequisiteId": "mt_0CQiaebFyw",
+      "strength": "soft",
+      "reason": "The narrative readings follow the first sukta readings"
+    },
+    {
+      "topicId": "mt_Hafy9D5ifH",
+      "prerequisiteId": "mt_b0r2yUV0da",
+      "strength": "soft",
+      "reason": "The Veda grounds the religion and philosophy of ancient India"
+    },
+    {
+      "topicId": "mt_V7ROh0L8X5",
+      "prerequisiteId": "mt_pWkL9LF3fq",
+      "strength": "hard",
+      "reason": "The Maheshvara Sutras are the foundation of the sutra system"
+    },
+    {
+      "topicId": "mt_aGUQMElfLZ",
+      "prerequisiteId": "mt_V7ROh0L8X5",
+      "strength": "hard",
+      "reason": "The samjnas build on the sound-arrangement and it-markers"
+    },
+    {
+      "topicId": "mt_XEqDBVwrkr",
+      "prerequisiteId": "mt_aGUQMElfLZ",
+      "strength": "hard",
+      "reason": "The metarules use the technical terms"
+    },
+    {
+      "topicId": "mt_4ntIXtYoD7",
+      "prerequisiteId": "mt_XEqDBVwrkr",
+      "strength": "hard",
+      "reason": "Deriving sandhi by rule requires the metarules"
+    },
+    {
+      "topicId": "mt_4ntIXtYoD7",
+      "prerequisiteId": "mt_ovWwgKINxC",
+      "strength": "soft",
+      "reason": "Sutra-based sandhi deepens applied sandhi"
+    },
+    {
+      "topicId": "mt_wnciR8EXMn",
+      "prerequisiteId": "mt_4ntIXtYoD7",
+      "strength": "hard",
+      "reason": "Consonant and visarga sandhi follow vowel sandhi"
+    },
+    {
+      "topicId": "mt_hAJ2JdqTBf",
+      "prerequisiteId": "mt_aGUQMElfLZ",
+      "strength": "hard",
+      "reason": "Deriving declensions uses the technical terms"
+    },
+    {
+      "topicId": "mt_hAJ2JdqTBf",
+      "prerequisiteId": "mt_ffG9xKHE3f",
+      "strength": "soft",
+      "reason": "Rule-derived declension deepens applied declension"
+    },
+    {
+      "topicId": "mt_ICjqSvbPjw",
+      "prerequisiteId": "mt_hAJ2JdqTBf",
+      "strength": "hard",
+      "reason": "The harder stems follow the vowel stems"
+    },
+    {
+      "topicId": "mt_5Y0EFPqEBH",
+      "prerequisiteId": "mt_hAJ2JdqTBf",
+      "strength": "hard",
+      "reason": "Karaka meanings attach to the declined forms"
+    },
+    {
+      "topicId": "mt_5Y0EFPqEBH",
+      "prerequisiteId": "mt_VDcBe3oTmz",
+      "strength": "soft",
+      "reason": "Sutra-based karaka deepens applied karaka"
+    },
+    {
+      "topicId": "mt_g1EXmXcgps",
+      "prerequisiteId": "mt_5Y0EFPqEBH",
+      "strength": "hard",
+      "reason": "Upapada rules refine the karaka system"
+    },
+    {
+      "topicId": "mt_D6aNogterc",
+      "prerequisiteId": "mt_aGUQMElfLZ",
+      "strength": "hard",
+      "reason": "Krdanta derivation uses the technical terms"
+    },
+    {
+      "topicId": "mt_D6aNogterc",
+      "prerequisiteId": "mt_xCtoz4vJDT",
+      "strength": "soft",
+      "reason": "Sutra-based krdanta deepens applied suffixes"
+    },
+    {
+      "topicId": "mt_EO1JdZzThV",
+      "prerequisiteId": "mt_pWkL9LF3fq",
+      "strength": "hard",
+      "reason": "The Vedic prakriya presupposes Panini’s sutra system"
+    },
+    {
+      "topicId": "mt_rwQyOwmDfm",
+      "prerequisiteId": "mt_VOQM7d8DrU",
+      "strength": "soft",
+      "reason": "Poetry reading builds on prose reading fluency"
+    },
+    {
+      "topicId": "mt_cMFEnSVAbl",
+      "prerequisiteId": "mt_VOQM7d8DrU",
+      "strength": "hard",
+      "reason": "Extensive reading presupposes reading prose with comprehension"
+    },
+    {
+      "topicId": "mt_UQFth1UDiS",
+      "prerequisiteId": "mt_VOQM7d8DrU",
+      "strength": "soft",
+      "reason": "Expression grows out of reading"
+    },
+    {
+      "topicId": "mt_ddnUHqveTw",
+      "prerequisiteId": "mt_3rGIZ3WsJU",
+      "strength": "soft",
+      "reason": "Telugu’s place builds on knowing India’s many languages"
+    },
+    {
+      "topicId": "mt_ddnUHqveTw",
+      "prerequisiteId": "mt_JNT3UUx7Nd",
+      "strength": "soft",
+      "reason": "Telugu literary tradition is part of India’s regional literatures"
+    },
+    {
+      "topicId": "mt_5QwY5X1qZc",
+      "prerequisiteId": "mt_dqfGO1aUd4",
+      "strength": "soft",
+      "reason": "Poetry reading builds on prose reading fluency"
+    },
+    {
+      "topicId": "mt_qEUfhcqWP1",
+      "prerequisiteId": "mt_dqfGO1aUd4",
+      "strength": "soft",
+      "reason": "Writing builds on reading with comprehension"
+    },
+    {
+      "topicId": "mt_lzQwOfJbzI",
+      "prerequisiteId": "mt_qEUfhcqWP1",
+      "strength": "hard",
+      "reason": "Essays and précis build on practical writing control"
+    },
+    {
+      "topicId": "mt_1ghTzUumTa",
+      "prerequisiteId": "mt_3rGIZ3WsJU",
+      "strength": "soft",
+      "reason": "Kannada’s place builds on knowing India’s many languages"
+    },
+    {
+      "topicId": "mt_1ghTzUumTa",
+      "prerequisiteId": "mt_JNT3UUx7Nd",
+      "strength": "soft",
+      "reason": "Kannada literary tradition is part of India’s regional literatures"
+    },
+    {
+      "topicId": "mt_5LzLS1txJ1",
+      "prerequisiteId": "mt_nKNUAMKFcA",
+      "strength": "soft",
+      "reason": "Poetry reading builds on prose reading fluency"
+    },
+    {
+      "topicId": "mt_Upt5QVcits",
+      "prerequisiteId": "mt_RvyXplfKPK",
+      "strength": "soft",
+      "reason": "Functional writing builds on correct sentences"
+    },
+    {
+      "topicId": "mt_SIM0rrWZBQ",
+      "prerequisiteId": "mt_nKNUAMKFcA",
+      "strength": "hard",
+      "reason": "Vocabulary grows out of reading"
+    },
+    {
+      "topicId": "mt_ICe94SoQqK",
+      "prerequisiteId": "mt_nKNUAMKFcA",
+      "strength": "soft",
+      "reason": "The sound distinctions are exercised in reading and spelling"
+    },
+    {
+      "topicId": "mt_x7hSkkWUKn",
+      "prerequisiteId": "mt_Upt5QVcits",
+      "strength": "hard",
+      "reason": "Creative writing builds on writing control"
+    },
+    {
+      "topicId": "mt_teZqXxp5jp",
+      "prerequisiteId": "mt_5LzLS1txJ1",
+      "strength": "soft",
+      "reason": "Tamil’s classical standing is seen through its ancient poetry"
+    },
+    {
+      "topicId": "mt_teZqXxp5jp",
+      "prerequisiteId": "mt_3rGIZ3WsJU",
+      "strength": "soft",
+      "reason": "Tamil’s place builds on knowing India’s many languages"
+    },
+    {
+      "topicId": "mt_teZqXxp5jp",
+      "prerequisiteId": "mt_JNT3UUx7Nd",
+      "strength": "soft",
+      "reason": "Sangam literature is the crown of India’s regional literatures"
+    },
+    {
+      "topicId": "mt_wSqeIpJGHL",
+      "prerequisiteId": "mt_b0r2yUV0da",
+      "strength": "soft",
+      "reason": "Darshana grows from the religion and philosophy of ancient India"
+    },
+    {
+      "topicId": "mt_aU8VU9GF2E",
+      "prerequisiteId": "mt_wSqeIpJGHL",
+      "strength": "hard",
+      "reason": "The map of learning locates darshana among the vidyas"
+    },
+    {
+      "topicId": "mt_3M3jKog3tH",
+      "prerequisiteId": "mt_wSqeIpJGHL",
+      "strength": "hard",
+      "reason": "The astika/nastika division organises the darshanas just introduced"
+    },
+    {
+      "topicId": "mt_8hs2z9PePl",
+      "prerequisiteId": "mt_3M3jKog3tH",
+      "strength": "hard",
+      "reason": "Charvaka is a nastika school within the division"
+    },
+    {
+      "topicId": "mt_ACM2KwL8NW",
+      "prerequisiteId": "mt_3M3jKog3tH",
+      "strength": "hard",
+      "reason": "The Buddhist and Jain darshanas are nastika schools"
+    },
+    {
+      "topicId": "mt_BBvE2ocY0x",
+      "prerequisiteId": "mt_3M3jKog3tH",
+      "strength": "hard",
+      "reason": "Nyaya-Vaisheshika are astika schools within the division"
+    },
+    {
+      "topicId": "mt_5ilGqhfaZn",
+      "prerequisiteId": "mt_3M3jKog3tH",
+      "strength": "hard",
+      "reason": "Sankhya and Yoga are astika schools within the division"
+    },
+    {
+      "topicId": "mt_j2OCEUTxjS",
+      "prerequisiteId": "mt_3M3jKog3tH",
+      "strength": "hard",
+      "reason": "Mimamsa is an astika school within the division"
+    },
+    {
+      "topicId": "mt_b0iAzwJRza",
+      "prerequisiteId": "mt_3M3jKog3tH",
+      "strength": "hard",
+      "reason": "Vedanta is an astika school within the division"
+    },
+    {
+      "topicId": "mt_j2OCEUTxjS",
+      "prerequisiteId": "mt_Hafy9D5ifH",
+      "strength": "soft",
+      "reason": "Mimamsa interprets the Veda already introduced"
+    },
+    {
+      "topicId": "mt_0sIMITGIZe",
+      "prerequisiteId": "mt_b0iAzwJRza",
+      "strength": "hard",
+      "reason": "Advaita is studied in depth after the Vedanta overview"
+    },
+    {
+      "topicId": "mt_Zp65MSovTv",
+      "prerequisiteId": "mt_0sIMITGIZe",
+      "strength": "hard",
+      "reason": "Maya, Ishvara and Jiva presuppose the teaching of Brahman"
+    },
+    {
+      "topicId": "mt_kILwi6GeKN",
+      "prerequisiteId": "mt_Zp65MSovTv",
+      "strength": "hard",
+      "reason": "The path to moksha builds on the full Advaita picture"
+    },
+    {
+      "topicId": "mt_5ilGqhfaZn",
+      "prerequisiteId": "mt_KBn1Qv6ily",
+      "strength": "soft",
+      "reason": "Yoga darshana deepens yoga as a practice for the mind"
+    },
+    {
+      "topicId": "mt_ub53FBviBX",
+      "prerequisiteId": "mt_cUpCdjZbDC",
+      "strength": "hard",
+      "reason": "Reading subhashitas presupposes reading simple Sanskrit"
+    },
+    {
+      "topicId": "mt_V7qQN7dSSW",
+      "prerequisiteId": "mt_ub53FBviBX",
+      "strength": "soft",
+      "reason": "Riddle-verses follow the subhashita readings"
+    },
+    {
+      "topicId": "mt_gBFLTLpDBk",
+      "prerequisiteId": "mt_wr4lGfBof9",
+      "strength": "soft",
+      "reason": "The story collections extend Sanskrit literature study"
+    },
+    {
+      "topicId": "mt_gv6rIiSwds",
+      "prerequisiteId": "mt_wr4lGfBof9",
+      "strength": "soft",
+      "reason": "Poetics builds on acquaintance with Sanskrit literature"
+    },
+    {
+      "topicId": "mt_FfhuGCif9n",
+      "prerequisiteId": "mt_gv6rIiSwds",
+      "strength": "hard",
+      "reason": "The genres presuppose knowing what kavya is"
+    },
+    {
+      "topicId": "mt_NgAYpBCkgE",
+      "prerequisiteId": "mt_ub53FBviBX",
+      "strength": "hard",
+      "reason": "Reading Valmiki builds on verse-reading with anvaya"
+    },
+    {
+      "topicId": "mt_YqgEmP5Nhl",
+      "prerequisiteId": "mt_FfhuGCif9n",
+      "strength": "soft",
+      "reason": "The play is read knowing its genre (drishya kavya)"
+    },
+    {
+      "topicId": "mt_aNdAnLHCQJ",
+      "prerequisiteId": "mt_FfhuGCif9n",
+      "strength": "soft",
+      "reason": "The mahakavya is read knowing its genre"
+    },
+    {
+      "topicId": "mt_aNdAnLHCQJ",
+      "prerequisiteId": "mt_NgAYpBCkgE",
+      "strength": "soft",
+      "reason": "Epic court-poetry follows the epic itself"
+    },
+    {
+      "topicId": "mt_gv6rIiSwds",
+      "prerequisiteId": "mt_zHARzQRiBE",
+      "strength": "soft",
+      "reason": "Sanskrit poetics deepens the classical-literature heritage"
     }
   ]
 }
