@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 272,
+  "clusterCount": 282,
   "clusters": [
     {
       "subject": "English",
@@ -1633,6 +1633,66 @@
       "domain": "Carnatic Music",
       "ageRangeStart": 13,
       "summary": "Your teenager is learning the Carnatic tradition — its distinctive gamaka ornamentation, forms like the varnam and kriti, and its great composers such as the Trinity."
+    },
+    {
+      "subject": "Hindi",
+      "domain": "Speaking & Listening",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is developing spoken Hindi — listening attentively and speaking clearly and confidently in conversation, speeches and debate."
+    },
+    {
+      "subject": "Hindi",
+      "domain": "Reading",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is reading Hindi widely — prose from stories to science writing, and poetry from Kabir’s couplets to modern poets — including unseen passages."
+    },
+    {
+      "subject": "Hindi",
+      "domain": "Writing",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is writing purposeful and expressive Hindi — letters and news reports, summaries and essays."
+    },
+    {
+      "subject": "Hindi",
+      "domain": "Grammar",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is mastering Hindi grammar in context — word formation with sandhi and samas, word origins, sentence structure with karak, and idioms and proverbs."
+    },
+    {
+      "subject": "Hindi",
+      "domain": "Literature",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning the craft of Hindi poetry — its metres like the doha, and its figures of speech from simile to personification."
+    },
+    {
+      "subject": "Hindi",
+      "domain": "Language & Society",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning the public life of Hindi — its roles as India’s official, national and link language, and how media and technology shape it."
+    },
+    {
+      "subject": "Sanskrit",
+      "domain": "Speaking & Listening",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning to hear and speak Sanskrit — its distinctive sounds, correct pronunciation, and the rhythmic recitation of verses."
+    },
+    {
+      "subject": "Sanskrit",
+      "domain": "Reading",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is reading simple Sanskrit — prose, poetry and drama — and studying works of Sanskrit literature, their authors and characters."
+    },
+    {
+      "subject": "Sanskrit",
+      "domain": "Writing",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is writing simple Sanskrit — dictation with correct spelling, story summaries, picture descriptions and short letters."
+    },
+    {
+      "subject": "Sanskrit",
+      "domain": "Grammar",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is learning the machinery of Sanskrit grammar — sandhi, declensions and conjugations, compounds, suffixes, and the karaka case system."
     }
   ]
 }

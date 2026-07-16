@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 1876,
+  "topicCount": 1901,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -37479,6 +37479,510 @@
       "assessmentPrompt": "Can {{name}} explain that the medians (or altitudes) of a triangle all meet at a single point?",
       "standards": [
         "nios-sec-2020:211.M3.L12"
+      ]
+    },
+    {
+      "id": "mt_tnTFGNc7K0",
+      "type": "LANGUAGE",
+      "subject": "Hindi",
+      "domain": "Speaking & Listening",
+      "name": "Listening with Understanding",
+      "description": "Listen to Hindi attentively and with courtesy — following correct pronunciation, stress and intonation — and grasp, analyse and respond to what is heard in conversations, speeches and questions.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Follow a Hindi conversation or speech and state its main points",
+        "Show the etiquette of attentive listening",
+        "Draw a conclusion from something heard and express a view on it"
+      ],
+      "assessmentPrompt": "Can {{name}} listen to a Hindi conversation or talk, pick out its main points, and respond thoughtfully?",
+      "standards": [
+        "nios-sec-2020:201.LSN"
+      ]
+    },
+    {
+      "id": "mt_wByO4SRJSD",
+      "type": "LANGUAGE",
+      "subject": "Hindi",
+      "domain": "Speaking & Listening",
+      "name": "Speaking Hindi Effectively",
+      "description": "Speak Hindi clearly and appropriately for the occasion — with correct pronunciation, pause and intonation — in conversation, self-introduction, short speeches, arguing a side, role-play, recitation and narration.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Speak with clear pronunciation and natural intonation",
+        "Present a point of view with reasons, for or against",
+        "Perform a role-play, recitation or short speech"
+      ],
+      "assessmentPrompt": "Can {{name}} speak Hindi clearly and confidently — holding a conversation, giving a short speech, or arguing a side?",
+      "standards": [
+        "nios-sec-2020:201.SPK"
+      ]
+    },
+    {
+      "id": "mt_eAR1bCJrgZ",
+      "type": "LANGUAGE",
+      "subject": "Hindi",
+      "domain": "Reading",
+      "name": "Reading Hindi Prose",
+      "description": "Read Hindi prose across genres — story (कहानी), sketch (रेखाचित्र), reportage, feature, essay and science writing — with comprehension, including unseen passages, and use dictionaries and references as needed.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Read a Hindi prose passage and state its main ideas",
+        "Handle an unseen prose passage (अपठित गद्य)",
+        "Use the contextual meaning of unfamiliar words"
+      ],
+      "assessmentPrompt": "Can {{name}} read a Hindi story or essay with understanding — including a passage they have never seen before?",
+      "standards": [
+        "nios-sec-2020:201.RDG.G"
+      ]
+    },
+    {
+      "id": "mt_ugCqBWVZAG",
+      "type": "LANGUAGE",
+      "subject": "Hindi",
+      "domain": "Reading",
+      "name": "Reading Hindi Poetry",
+      "description": "Read Hindi poetry with appreciation — from the couplets of Kabir, Rahim and Vrind to modern poets like Maithili Sharan Gupt, Jaishankar Prasad and Nirmala Putul — grasping the central feeling (केंद्रीय भाव) of a poem.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Read a Hindi poem and state its central feeling",
+        "Recognise poets from different periods of Hindi poetry",
+        "Handle an unseen poem (अपठित कविता)"
+      ],
+      "assessmentPrompt": "Can {{name}} read a Hindi poem — old or modern — and explain its central feeling and what the poet is expressing?",
+      "standards": [
+        "nios-sec-2020:201.RDG.K"
+      ]
+    },
+    {
+      "id": "mt_3HVK8ZcBIU",
+      "type": "PROCEDURAL",
+      "subject": "Hindi",
+      "domain": "Writing",
+      "name": "Purposeful Writing in Hindi",
+      "description": "Write practical Hindi in the right format — news reports, and formal and informal letters including business letters and letters to the editor.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Write a formal Hindi letter in correct format",
+        "Write a short news item (समाचार-लेखन)",
+        "Adjust tone between formal and informal writing"
+      ],
+      "assessmentPrompt": "Can {{name}} write a proper formal letter or short news report in Hindi, using the right format and tone?",
+      "standards": [
+        "nios-sec-2020:201.WRT.P"
+      ]
+    },
+    {
+      "id": "mt_cxqHfydB0O",
+      "type": "PROCEDURAL",
+      "subject": "Hindi",
+      "domain": "Writing",
+      "name": "Summary and Essay Writing in Hindi",
+      "description": "Write expressive Hindi — condense a passage into a faithful summary (सार-लेखन), and compose a well-organised essay (निबंध) presenting one’s own thoughts.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Write a summary of a Hindi passage in own words",
+        "Plan and write a structured Hindi essay",
+        "Express an original viewpoint in writing"
+      ],
+      "assessmentPrompt": "Can {{name}} summarise a Hindi passage in their own words, and write an organised essay giving their own thoughts?",
+      "standards": [
+        "nios-sec-2020:201.WRT.E"
+      ]
+    },
+    {
+      "id": "mt_GCzEZC1EPI",
+      "type": "LANGUAGE",
+      "subject": "Hindi",
+      "domain": "Grammar",
+      "name": "Hindi Word Formation",
+      "description": "Understand how Hindi words are built — prefixes (उपसर्ग) and suffixes (प्रत्यय), euphonic combination (संधि), and compounding (समास) — and use these to form and unpack words.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Split a word into prefix/suffix and root",
+        "Join and split words using sandhi",
+        "Identify the type of a samas (compound)"
+      ],
+      "assessmentPrompt": "Can {{name}} break a Hindi word into its parts — prefix, root, suffix — and work with sandhi and samas?",
+      "standards": [
+        "nios-sec-2020:201.GRM"
+      ]
+    },
+    {
+      "id": "mt_nCnfO9cPdJ",
+      "type": "LANGUAGE",
+      "subject": "Hindi",
+      "domain": "Grammar",
+      "name": "Hindi Word Types and Vocabulary",
+      "description": "Know the kinds of words in Hindi — tatsam (from Sanskrit), tadbhav (evolved), deshaj (indigenous) and aagat (borrowed) — and build vocabulary with synonyms, antonyms, multiple-meaning words and one-word substitutions.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Classify words as tatsam, tadbhav, deshaj or aagat",
+        "Give synonyms and antonyms for common words",
+        "Replace a phrase with a single word (अनेक शब्दों के लिए एक शब्द)"
+      ],
+      "assessmentPrompt": "Can {{name}} tell where Hindi words come from — Sanskrit, evolved, local or borrowed — and use synonyms, antonyms and one-word substitutions?",
+      "standards": [
+        "nios-sec-2020:201.GRM"
+      ]
+    },
+    {
+      "id": "mt_GcCnPyG5hg",
+      "type": "LANGUAGE",
+      "subject": "Hindi",
+      "domain": "Grammar",
+      "name": "Hindi Sentence Structure",
+      "description": "Understand how Hindi sentences are built — doer (कर्ता), object (कर्म), verb (क्रिया) and case markers (कारक), word order and agreement — and use simple, compound and complex sentences.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Identify karta, karm and kriya in a sentence",
+        "Use karak (case) markers correctly",
+        "Construct simple, compound and complex sentences"
+      ],
+      "assessmentPrompt": "Can {{name}} build correct Hindi sentences — using the right case markers and agreement — from simple to complex?",
+      "standards": [
+        "nios-sec-2020:201.GRM"
+      ]
+    },
+    {
+      "id": "mt_a4WIiKJaM8",
+      "type": "LANGUAGE",
+      "subject": "Hindi",
+      "domain": "Grammar",
+      "name": "Hindi Idioms and Proverbs",
+      "description": "Understand and use common Hindi idioms (मुहावरे) and proverbs (लोकोक्तियाँ) — grasping their figurative meanings and using them aptly in speech and writing.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain the figurative meaning of a common muhavara",
+        "Use an idiom aptly in a sentence",
+        "Explain the message of a common proverb"
+      ],
+      "assessmentPrompt": "Can {{name}} explain and correctly use common Hindi idioms and proverbs?",
+      "standards": [
+        "nios-sec-2020:201.GRM"
+      ]
+    },
+    {
+      "id": "mt_afyX5aOX2V",
+      "type": "CONCEPTUAL",
+      "subject": "Hindi",
+      "domain": "Literature",
+      "name": "Hindi Metre (Chhand)",
+      "description": "Understand the metres of Hindi poetry met in the course — doha, savaiya and pad — and free verse (मुक्त छंद), recognising their rhythm and form.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Recognise a doha by its form",
+        "Distinguish metrical verse from free verse",
+        "Name the metre of a familiar verse form"
+      ],
+      "assessmentPrompt": "Can {{name}} recognise the common Hindi verse forms — like the doha — and tell metrical poetry from free verse?",
+      "standards": [
+        "nios-sec-2020:201.GRM",
+        "nios-sec-2020:201.RDG.K"
+      ]
+    },
+    {
+      "id": "mt_kvpdqRUZDk",
+      "type": "CONCEPTUAL",
+      "subject": "Hindi",
+      "domain": "Literature",
+      "name": "Hindi Figures of Speech (Alankar)",
+      "description": "Understand the figures of speech of Hindi poetry — alliteration (अनुप्रास), pun (यमक), simile (उपमा), metaphor (रूपक), poetic fancy (उत्प्रेक्षा), allegory (अन्योक्ति), illustration (दृष्टांत) and personification (मानवीकरण).",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Identify an alankar in a line of verse",
+        "Distinguish upma (simile) from rupak (metaphor)",
+        "Explain the effect a figure of speech creates"
+      ],
+      "assessmentPrompt": "Can {{name}} spot figures of speech in Hindi poetry — telling a simile from a metaphor — and explain their effect?",
+      "standards": [
+        "nios-sec-2020:201.GRM",
+        "nios-sec-2020:201.RDG.K"
+      ]
+    },
+    {
+      "id": "mt_bcHw0Tefvk",
+      "type": "CONCEPTUAL",
+      "subject": "Hindi",
+      "domain": "Language & Society",
+      "name": "The Roles of Hindi",
+      "description": "Understand the public roles Hindi plays in India — as official language (राजभाषा), national language (राष्ट्रभाषा) and link language (संपर्क भाषा) — and how media and technology are reshaping its use.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguish rajbhasha, rashtrabhasha and sampark bhasha",
+        "Give an example of Hindi as a link language across regions",
+        "Describe how technology and media influence Hindi"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the different public roles Hindi plays in India — official, national and link language?",
+      "standards": [
+        "nios-sec-2020:201.GRM"
+      ]
+    },
+    {
+      "id": "mt_ZROVaFtzrB",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Speaking & Listening",
+      "name": "Listening to Sanskrit",
+      "description": "Recognise the distinctive sounds of Sanskrit by ear — final vowels and consonants, visarga, anusvara and conjuncts — and grasp the meaning of simple spoken Sanskrit sentences.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguish Sanskrit sounds like visarga and anusvara by ear",
+        "Follow a simple spoken Sanskrit sentence",
+        "Respond appropriately to simple spoken Sanskrit"
+      ],
+      "assessmentPrompt": "Can {{name}} follow simple spoken Sanskrit — hearing the special sounds correctly — and respond to it?",
+      "standards": [
+        "nios-sec-2020:209.LSN"
+      ]
+    },
+    {
+      "id": "mt_GHG799MyNB",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Speaking & Listening",
+      "name": "Pronouncing and Reciting Sanskrit",
+      "description": "Pronounce Sanskrit correctly — its vowels, consonants and conjuncts from their proper points of articulation — and recite verses rhythmically (सस्वर).",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Pronounce Sanskrit sounds from their correct points of articulation",
+        "Read Sanskrit sentences aloud accurately",
+        "Recite a Sanskrit verse rhythmically"
+      ],
+      "assessmentPrompt": "Can {{name}} pronounce Sanskrit accurately and recite a shloka with proper rhythm?",
+      "standards": [
+        "nios-sec-2020:209.VAC"
+      ]
+    },
+    {
+      "id": "mt_cUpCdjZbDC",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Reading",
+      "name": "Reading Simple Sanskrit",
+      "description": "Read simple Sanskrit prose, poetry and drama passages and grasp their gist (सार) — including unseen passages — using the vocabulary and grammar learned.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Read a simple Sanskrit passage and state its gist",
+        "Answer questions on an unseen Sanskrit passage",
+        "Work out unfamiliar words from context and word-parts"
+      ],
+      "assessmentPrompt": "Can {{name}} read a simple Sanskrit passage — prose or verse — and explain what it says?",
+      "standards": [
+        "nios-sec-2020:209.RDG",
+        "nios-sec-2020:209.CMP"
+      ]
+    },
+    {
+      "id": "mt_wr4lGfBof9",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Reading",
+      "name": "Sanskrit Literature: Prose, Poetry and Drama",
+      "description": "Study Sanskrit literature across its genres — prose (गद्य), poetry (पद्य) and drama (नाट्य) — knowing the authors and works read, their gist (भावार्थ), and sketching their characters.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name genres of Sanskrit literature and an example studied",
+        "Give the gist of a studied passage",
+        "Sketch a character from a studied work"
+      ],
+      "assessmentPrompt": "Can {{name}} talk about the Sanskrit texts they have studied — the work, its author, its gist and its characters?",
+      "standards": [
+        "nios-sec-2020:209.TXT"
+      ]
+    },
+    {
+      "id": "mt_YN9NNO8nCZ",
+      "type": "PROCEDURAL",
+      "subject": "Sanskrit",
+      "domain": "Writing",
+      "name": "Writing Simple Sanskrit",
+      "description": "Write simple Sanskrit correctly — take dictation with correct spelling, transcribe sandhi and compound words, summarise a story, describe a picture, and compose short paragraphs and letters.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Write dictated Sanskrit with correct spelling",
+        "Summarise a story in simple Sanskrit sentences",
+        "Describe a picture or write a short letter in Sanskrit"
+      ],
+      "assessmentPrompt": "Can {{name}} write simple Sanskrit — from dictation, a story summary, or a few sentences describing a picture?",
+      "standards": [
+        "nios-sec-2020:209.WRT",
+        "nios-sec-2020:209.CMP"
+      ]
+    },
+    {
+      "id": "mt_ovWwgKINxC",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Grammar",
+      "name": "Sanskrit Sandhi",
+      "description": "Understand sandhi — the sound changes where words and word-parts join — across its three kinds: vowel sandhi (स्वरसन्धि), consonant sandhi (व्यञ्जनसन्धि) and visarga sandhi (विसर्गसन्धि).",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Join two words applying a vowel sandhi rule",
+        "Split a sandhi-joined word into its parts",
+        "Name the three kinds of sandhi"
+      ],
+      "assessmentPrompt": "Can {{name}} join and split Sanskrit words using sandhi — vowel, consonant and visarga?",
+      "standards": [
+        "nios-sec-2020:209.GRM.1"
+      ]
+    },
+    {
+      "id": "mt_ffG9xKHE3f",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Grammar",
+      "name": "Sanskrit Noun Declensions",
+      "description": "Decline Sanskrit nouns and pronouns — vowel-stem words like बालक, लता and नदी, consonant-stem words like राजन् and आत्मन्, and the pronouns — across the cases and numbers.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Decline a vowel-stem noun across cases and numbers",
+        "Decline a common pronoun (तत्, किम्, अस्मद्)",
+        "Pick the correct declined form for a sentence"
+      ],
+      "assessmentPrompt": "Can {{name}} decline common Sanskrit nouns and pronouns — like बालक or नदी — through their cases?",
+      "standards": [
+        "nios-sec-2020:209.GRM.2"
+      ]
+    },
+    {
+      "id": "mt_mrLZFWQnrE",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Grammar",
+      "name": "Sanskrit Verb Conjugations",
+      "description": "Conjugate common Sanskrit verbs — भू, पठ्, गम्, दृश्, कृ, दा and others across the verb classes (gana) — in the main tenses and moods used at this level.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Conjugate a common verb like पठ् in the present tense",
+        "Recognise a verb’s root and class",
+        "Choose the correct verb form for person and number"
+      ],
+      "assessmentPrompt": "Can {{name}} conjugate everyday Sanskrit verbs — like पठति, गच्छति, करोति — correctly for person and number?",
+      "standards": [
+        "nios-sec-2020:209.GRM.3"
+      ]
+    },
+    {
+      "id": "mt_qCvGw8Yru6",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Grammar",
+      "name": "Sanskrit Compounds (Samasa)",
+      "description": "Understand the Sanskrit compound system — अव्ययीभाव, तत्पुरुष, कर्मधारय, द्विगु, द्वन्द्व and बहुव्रीहि — forming compounds and dissolving them (विग्रह).",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name the six kinds of samasa",
+        "Dissolve a compound into its parts (विग्रह)",
+        "Classify a given compound by type"
+      ],
+      "assessmentPrompt": "Can {{name}} recognise the kinds of Sanskrit compounds and split one apart to show its meaning?",
+      "standards": [
+        "nios-sec-2020:209.GRM.4"
+      ]
+    },
+    {
+      "id": "mt_xCtoz4vJDT",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Grammar",
+      "name": "Sanskrit Suffixes (Pratyaya)",
+      "description": "Use the Sanskrit suffixes met at this level — krt suffixes like क्त्वा, तुमुन् and शतृ that build words from verb roots, taddhita suffixes like मतुप् and तल्, and the feminine suffixes टाप् and ङीप्.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Form a word from a root with a krt suffix (e.g. गम् + क्त्वा)",
+        "Recognise a taddhita-derived word",
+        "Form a feminine noun with टाप् or ङीप्"
+      ],
+      "assessmentPrompt": "Can {{name}} build Sanskrit words with suffixes — like गत्वा from गम् — and recognise how suffixes change meaning?",
+      "standards": [
+        "nios-sec-2020:209.GRM.5"
+      ]
+    },
+    {
+      "id": "mt_VDcBe3oTmz",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Grammar",
+      "name": "Karaka: Sanskrit Case Relations",
+      "description": "Understand karaka — how the case endings (विभक्ति) mark each word’s role in the sentence (doer, object, instrument, recipient, source, location) — and the special upapada vibhaktis required by particular words.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Match each karaka to its vibhakti",
+        "Choose the correct case for a word’s role in a sentence",
+        "Apply an upapada vibhakti rule"
+      ],
+      "assessmentPrompt": "Can {{name}} choose the right Sanskrit case ending for a word’s role in the sentence — doer, object, instrument and the rest?",
+      "standards": [
+        "nios-sec-2020:209.GRM.6"
+      ]
+    },
+    {
+      "id": "mt_DD0RtlfilI",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Grammar",
+      "name": "Prefixes and Indeclinables",
+      "description": "Use Sanskrit upasargas (prefixes that shade a verb’s meaning) and avyayas (indeclinable words that never change form) correctly in sentences.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Show how an upasarga changes a verb’s meaning",
+        "Use common avyayas in sentences",
+        "Recognise indeclinables in a passage"
+      ],
+      "assessmentPrompt": "Can {{name}} use Sanskrit prefixes and unchanging words (avyayas) correctly in sentences?",
+      "standards": [
+        "nios-sec-2020:209.GRM.7"
       ]
     }
   ]

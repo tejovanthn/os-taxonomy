@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3572,
+  "edgeCount": 3594,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -21434,6 +21434,138 @@
       "prerequisiteId": "mt_curkA82CmO",
       "strength": "soft",
       "reason": "Note-making and summarising build on writing a précis"
+    },
+    {
+      "topicId": "mt_wByO4SRJSD",
+      "prerequisiteId": "mt_tnTFGNc7K0",
+      "strength": "soft",
+      "reason": "Speaking well builds on attentive listening"
+    },
+    {
+      "topicId": "mt_ugCqBWVZAG",
+      "prerequisiteId": "mt_eAR1bCJrgZ",
+      "strength": "soft",
+      "reason": "Poetry reading builds on general reading fluency in prose"
+    },
+    {
+      "topicId": "mt_3HVK8ZcBIU",
+      "prerequisiteId": "mt_GcCnPyG5hg",
+      "strength": "soft",
+      "reason": "Correct writing builds on Hindi sentence structure"
+    },
+    {
+      "topicId": "mt_cxqHfydB0O",
+      "prerequisiteId": "mt_eAR1bCJrgZ",
+      "strength": "hard",
+      "reason": "Summarising presupposes reading prose with comprehension"
+    },
+    {
+      "topicId": "mt_cxqHfydB0O",
+      "prerequisiteId": "mt_3HVK8ZcBIU",
+      "strength": "soft",
+      "reason": "Essay writing builds on practical writing control"
+    },
+    {
+      "topicId": "mt_nCnfO9cPdJ",
+      "prerequisiteId": "mt_GCzEZC1EPI",
+      "strength": "soft",
+      "reason": "Word origins complement how words are formed"
+    },
+    {
+      "topicId": "mt_a4WIiKJaM8",
+      "prerequisiteId": "mt_eAR1bCJrgZ",
+      "strength": "soft",
+      "reason": "Idioms and proverbs are met and used in reading prose"
+    },
+    {
+      "topicId": "mt_afyX5aOX2V",
+      "prerequisiteId": "mt_ugCqBWVZAG",
+      "strength": "hard",
+      "reason": "Metre is studied through the poetry being read"
+    },
+    {
+      "topicId": "mt_kvpdqRUZDk",
+      "prerequisiteId": "mt_ugCqBWVZAG",
+      "strength": "hard",
+      "reason": "Figures of speech are studied through the poetry being read"
+    },
+    {
+      "topicId": "mt_bcHw0Tefvk",
+      "prerequisiteId": "mt_3rGIZ3WsJU",
+      "strength": "soft",
+      "reason": "The roles of Hindi build on knowing India’s many languages"
+    },
+    {
+      "topicId": "mt_GHG799MyNB",
+      "prerequisiteId": "mt_ZROVaFtzrB",
+      "strength": "hard",
+      "reason": "Correct pronunciation builds on hearing Sanskrit sounds accurately"
+    },
+    {
+      "topicId": "mt_cUpCdjZbDC",
+      "prerequisiteId": "mt_GHG799MyNB",
+      "strength": "soft",
+      "reason": "Reading builds on sounding out Sanskrit correctly"
+    },
+    {
+      "topicId": "mt_wr4lGfBof9",
+      "prerequisiteId": "mt_cUpCdjZbDC",
+      "strength": "hard",
+      "reason": "Literature study presupposes reading simple Sanskrit"
+    },
+    {
+      "topicId": "mt_wr4lGfBof9",
+      "prerequisiteId": "mt_zHARzQRiBE",
+      "strength": "soft",
+      "reason": "Sanskrit literature study builds on knowing the classical literary heritage"
+    },
+    {
+      "topicId": "mt_YN9NNO8nCZ",
+      "prerequisiteId": "mt_cUpCdjZbDC",
+      "strength": "soft",
+      "reason": "Writing Sanskrit builds on reading it"
+    },
+    {
+      "topicId": "mt_YN9NNO8nCZ",
+      "prerequisiteId": "mt_ovWwgKINxC",
+      "strength": "soft",
+      "reason": "Transcribing sandhi-joined words requires knowing sandhi"
+    },
+    {
+      "topicId": "mt_ovWwgKINxC",
+      "prerequisiteId": "mt_GHG799MyNB",
+      "strength": "soft",
+      "reason": "Sandhi builds on the sounds and their points of articulation"
+    },
+    {
+      "topicId": "mt_VDcBe3oTmz",
+      "prerequisiteId": "mt_ffG9xKHE3f",
+      "strength": "hard",
+      "reason": "Using case relations presupposes declining nouns"
+    },
+    {
+      "topicId": "mt_qCvGw8Yru6",
+      "prerequisiteId": "mt_ffG9xKHE3f",
+      "strength": "soft",
+      "reason": "Compound formation builds on knowing word forms"
+    },
+    {
+      "topicId": "mt_xCtoz4vJDT",
+      "prerequisiteId": "mt_mrLZFWQnrE",
+      "strength": "soft",
+      "reason": "Krt suffixes build words from the verb roots being conjugated"
+    },
+    {
+      "topicId": "mt_DD0RtlfilI",
+      "prerequisiteId": "mt_mrLZFWQnrE",
+      "strength": "soft",
+      "reason": "Upasargas modify the verbs being learned"
+    },
+    {
+      "topicId": "mt_cUpCdjZbDC",
+      "prerequisiteId": "mt_ffG9xKHE3f",
+      "strength": "soft",
+      "reason": "Reading comprehension leans on recognising word forms"
     }
   ]
 }

@@ -39712,7 +39712,7 @@
       "sourceUrl": "https://nios.ac.in/media/documents/seccurriculum2020.pdf",
       "textIncluded": true,
       "license": "NIOS Copyright Statement — reproduction permitted with prominent acknowledgment; see PROVENANCE.md",
-      "topicCount": 224,
+      "topicCount": 244,
       "topics": [
         {
           "key": "nios-sec-2020:222.M1.L1",
@@ -42624,6 +42624,266 @@
             "module": "II. Carnatic Music",
             "lesson": "Composers of Carnatic Music",
             "description": "Know the great composers of Carnatic music, including the Trinity — Tyagaraja, Muthuswami Dikshitar and Syama Sastri."
+          }
+        },
+        {
+          "key": "nios-sec-2020:201.LSN",
+          "code": "201.LSN",
+          "data": {
+            "title": "Listening (सुनना)",
+            "level": "Secondary",
+            "subject": "Hindi",
+            "courseCode": "201",
+            "module": "Listening (सुनना)",
+            "lesson": "Listening",
+            "description": "Listen with attention and etiquette to correct pronunciation, stress and intonation; grasp, analyse and respond to conversations, speeches and questions."
+          }
+        },
+        {
+          "key": "nios-sec-2020:201.SPK",
+          "code": "201.SPK",
+          "data": {
+            "title": "Speaking (बोलना)",
+            "level": "Secondary",
+            "subject": "Hindi",
+            "courseCode": "201",
+            "module": "Speaking (बोलना)",
+            "lesson": "Speaking",
+            "description": "Speak Hindi clearly with correct pronunciation, pause and intonation — conversation, self-introduction, speeches, argument for and against, role-play, recitation, narration and compering."
+          }
+        },
+        {
+          "key": "nios-sec-2020:201.RDG.G",
+          "code": "201.RDG.G",
+          "data": {
+            "title": "Reading Prose (गद्य पठन)",
+            "level": "Secondary",
+            "subject": "Hindi",
+            "courseCode": "201",
+            "module": "Reading (पठन)",
+            "lesson": "Reading Prose (गद्य)",
+            "description": "Read Hindi prose of many genres — story, sketch, reportage, feature, essay, science writing — with comprehension, including unseen passages; use contextual meaning of words, idioms and proverbs."
+          }
+        },
+        {
+          "key": "nios-sec-2020:201.RDG.K",
+          "code": "201.RDG.K",
+          "data": {
+            "title": "Reading Poetry (कविता पठन)",
+            "level": "Secondary",
+            "subject": "Hindi",
+            "courseCode": "201",
+            "module": "Reading (पठन)",
+            "lesson": "Reading Poetry (कविता)",
+            "description": "Read Hindi poetry from Kabir, Rahim and Vrind to modern poets — grasp the central feeling (केंद्रीय भाव), appreciate poetic features, and handle unseen poetry."
+          }
+        },
+        {
+          "key": "nios-sec-2020:201.WRT.P",
+          "code": "201.WRT.P",
+          "data": {
+            "title": "Purposeful Writing (प्रयोजनपरक लेखन)",
+            "level": "Secondary",
+            "subject": "Hindi",
+            "courseCode": "201",
+            "module": "Writing (लेखन)",
+            "lesson": "Purposeful Writing (प्रयोजनपरक)",
+            "description": "Write purposeful Hindi — news writing, formal and informal letters including business letters and letters to the editor."
+          }
+        },
+        {
+          "key": "nios-sec-2020:201.WRT.E",
+          "code": "201.WRT.E",
+          "data": {
+            "title": "Expressive Writing (अभिव्यक्तिपरक लेखन)",
+            "level": "Secondary",
+            "subject": "Hindi",
+            "courseCode": "201",
+            "module": "Writing (लेखन)",
+            "lesson": "Expressive Writing (अभिव्यक्तिपरक)",
+            "description": "Write expressive Hindi — summary writing (सार-लेखन) and essay writing (निबंध-लेखन)."
+          }
+        },
+        {
+          "key": "nios-sec-2020:201.GRM",
+          "code": "201.GRM",
+          "data": {
+            "title": "Grammar and Practical Language Use (व्याकरण तथा व्यावहारिक भाषा-प्रयोग)",
+            "level": "Secondary",
+            "subject": "Hindi",
+            "courseCode": "201",
+            "module": "Grammar & Practical Language Use",
+            "lesson": "Grammar (व्याकरण)",
+            "description": "Use Hindi grammar correctly in context — word formation (उपसर्ग, प्रत्यय, संधि, समास), word types (तत्सम, तद्भव, देशज, आगत), sentence structure and कारक, idioms and proverbs, metre (छंद) and figures of speech (अलंकार) — and know Hindi’s roles as official, national and link language."
+          }
+        },
+        {
+          "key": "nios-sec-2020:209.LSN",
+          "code": "209.LSN",
+          "data": {
+            "title": "Listening (श्रवणकौशलम्)",
+            "level": "Secondary",
+            "subject": "Sanskrit",
+            "courseCode": "209",
+            "module": "Skills",
+            "lesson": "Listening (श्रवणकौशलम्)",
+            "description": "Recognise the distinctive sounds of Sanskrit on hearing them and grasp the meaning of simple Sanskrit sentences by listening."
+          }
+        },
+        {
+          "key": "nios-sec-2020:209.VAC",
+          "code": "209.VAC",
+          "data": {
+            "title": "Recitation and Oral Reading (वाचनकौशलम्)",
+            "level": "Secondary",
+            "subject": "Sanskrit",
+            "courseCode": "209",
+            "module": "Skills",
+            "lesson": "Recitation (वाचनकौशलम्)",
+            "description": "Pronounce Sanskrit sounds and sentences correctly and recite verse rhythmically (सस्वर)."
+          }
+        },
+        {
+          "key": "nios-sec-2020:209.RDG",
+          "code": "209.RDG",
+          "data": {
+            "title": "Reading Comprehension (पठनकौशलम्)",
+            "level": "Secondary",
+            "subject": "Sanskrit",
+            "courseCode": "209",
+            "module": "Skills",
+            "lesson": "Reading (पठनकौशलम्)",
+            "description": "Grasp the gist of Sanskrit prose, poetry and drama passages."
+          }
+        },
+        {
+          "key": "nios-sec-2020:209.WRT",
+          "code": "209.WRT",
+          "data": {
+            "title": "Writing (लेखनकौशलम्)",
+            "level": "Secondary",
+            "subject": "Sanskrit",
+            "courseCode": "209",
+            "module": "Skills",
+            "lesson": "Writing (लेखनकौशलम्)",
+            "description": "Write dictated words and sentences with correct spelling, transcribe sandhi and samasa words, summarise stories, describe pictures, and order jumbled sentences."
+          }
+        },
+        {
+          "key": "nios-sec-2020:209.TXT",
+          "code": "209.TXT",
+          "data": {
+            "title": "Textbook Study: Prose, Poetry and Drama",
+            "level": "Secondary",
+            "subject": "Sanskrit",
+            "courseCode": "209",
+            "module": "A. Textbook (पाठ्यपुस्तकम्)",
+            "lesson": "Textbook study",
+            "description": "Study Sanskrit prose, poetry and drama passages — gist (भावार्थ), question formation, author and work introductions, and character sketches."
+          }
+        },
+        {
+          "key": "nios-sec-2020:209.GRM.1",
+          "code": "209.GRM.1",
+          "data": {
+            "title": "Letters, Articulation and Sandhi",
+            "level": "Secondary",
+            "subject": "Sanskrit",
+            "courseCode": "209",
+            "module": "B. Applied Grammar (प्रायोगिक-व्याकरणम्)",
+            "lesson": "वर्णपरिचयः, सन्धिः",
+            "description": "Know the letters and their points of articulation, and vowel, consonant and visarga sandhi."
+          }
+        },
+        {
+          "key": "nios-sec-2020:209.GRM.2",
+          "code": "209.GRM.2",
+          "data": {
+            "title": "Noun Declensions (शब्दरूपाणि)",
+            "level": "Secondary",
+            "subject": "Sanskrit",
+            "courseCode": "209",
+            "module": "B. Applied Grammar (प्रायोगिक-व्याकरणम्)",
+            "lesson": "शब्दरूपाणि",
+            "description": "Decline vowel-stem and consonant-stem nouns and pronouns, and know the numerals."
+          }
+        },
+        {
+          "key": "nios-sec-2020:209.GRM.3",
+          "code": "209.GRM.3",
+          "data": {
+            "title": "Verb Conjugations (धातुरूपाणि)",
+            "level": "Secondary",
+            "subject": "Sanskrit",
+            "courseCode": "209",
+            "module": "B. Applied Grammar (प्रायोगिक-व्याकरणम्)",
+            "lesson": "धातुरूपाणि",
+            "description": "Conjugate common verbs across the ganas (भ्वादि, अदादि, जुहोत्यादि, दिवादि, स्वादि, तुदादि, तनादि, क्र्यादि, चुरादि)."
+          }
+        },
+        {
+          "key": "nios-sec-2020:209.GRM.4",
+          "code": "209.GRM.4",
+          "data": {
+            "title": "Compounds (समासाः)",
+            "level": "Secondary",
+            "subject": "Sanskrit",
+            "courseCode": "209",
+            "module": "B. Applied Grammar (प्रायोगिक-व्याकरणम्)",
+            "lesson": "समासाः",
+            "description": "Form and dissolve the compounds — अव्ययीभाव, तत्पुरुष, कर्मधारय, द्विगु, द्वन्द्व, बहुव्रीहि."
+          }
+        },
+        {
+          "key": "nios-sec-2020:209.GRM.5",
+          "code": "209.GRM.5",
+          "data": {
+            "title": "Suffixes (प्रत्ययाः)",
+            "level": "Secondary",
+            "subject": "Sanskrit",
+            "courseCode": "209",
+            "module": "B. Applied Grammar (प्रायोगिक-व्याकरणम्)",
+            "lesson": "प्रत्ययाः",
+            "description": "Use krt, taddhita and feminine suffixes (क्त्वा, ल्यप्, तुमुन्, क्त, शतृ, तव्यत्, त्व, तल्, मतुप्, टाप्, ङीप् and others)."
+          }
+        },
+        {
+          "key": "nios-sec-2020:209.GRM.6",
+          "code": "209.GRM.6",
+          "data": {
+            "title": "Case Relations (कारकम्)",
+            "level": "Secondary",
+            "subject": "Sanskrit",
+            "courseCode": "209",
+            "module": "B. Applied Grammar (प्रायोगिक-व्याकरणम्)",
+            "lesson": "कारकम्",
+            "description": "Use the karaka case-relations and upapada vibhaktis correctly."
+          }
+        },
+        {
+          "key": "nios-sec-2020:209.GRM.7",
+          "code": "209.GRM.7",
+          "data": {
+            "title": "Prefixes and Indeclinables",
+            "level": "Secondary",
+            "subject": "Sanskrit",
+            "courseCode": "209",
+            "module": "B. Applied Grammar (प्रायोगिक-व्याकरणम्)",
+            "lesson": "उपसर्गाः, अव्ययानि",
+            "description": "Use common upasargas (prefixes) and avyayas (indeclinables), taught contextually with the lessons."
+          }
+        },
+        {
+          "key": "nios-sec-2020:209.CMP",
+          "code": "209.CMP",
+          "data": {
+            "title": "Composition (रचना)",
+            "level": "Secondary",
+            "subject": "Sanskrit",
+            "courseCode": "209",
+            "module": "C. Composition (रचना)",
+            "lesson": "रचना",
+            "description": "Write paragraphs from hints, letters and picture descriptions in Sanskrit, and answer questions on unseen prose passages."
           }
         }
       ]

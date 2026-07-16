@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-07-16T02:14:16.535Z",
+  "generatedAt": "2026-07-16T07:40:40.518Z",
   "codesOnlySources": [
     "c3-social-studies",
     "ib-pyp-pspe",
@@ -9,13 +9,14 @@
     "ngss-ms"
   ],
   "counts": {
-    "topics": 1876,
+    "topics": 1901,
     "topicsBySubject": {
       "Accountancy": 14,
       "Business Studies": 17,
       "Computing": 39,
       "Economics": 11,
       "English": 289,
+      "Hindi": 13,
       "History": 142,
       "Home Science": 9,
       "Indian Culture & Heritage": 17,
@@ -25,32 +26,33 @@
       "Music": 10,
       "Personal & Social Development": 88,
       "Psychology": 21,
+      "Sanskrit": 12,
       "Science": 569,
       "Social Studies": 68,
       "Visual Arts": 8
     },
-    "dependencies": 3572,
+    "dependencies": 3594,
     "curricula": 11,
-    "curriculumStandards": 3674,
-    "topicStandardLinks": 2593,
-    "clusters": 272
+    "curriculumStandards": 3694,
+    "topicStandardLinks": 2622,
+    "clusters": 282
   },
   "files": {
     "topics.json": {
-      "bytes": 1935515,
-      "sha256": "e609897826844f868119c826c8d1f3a047cd4babdcb92a63b53a62caa145f296"
+      "bytes": 1957969,
+      "sha256": "36aa4eb6e4ef0ae344cd793ec94a92d16ffba59b9429d552957d55fd2650f103"
     },
     "dependencies.json": {
-      "bytes": 763448,
-      "sha256": "175e314250765ecd0734d8903e33f3c050fe7cf14ebe444d7c53ea436e1c9305"
+      "bytes": 767535,
+      "sha256": "03ebc0b221c1e30f80941f7713a07168460aee49606e758aaa76b41e14e04787"
     },
     "curriculum-standards.json": {
-      "bytes": 1825144,
-      "sha256": "0f7d0c250b3247c658c21bef58583542c65eac938ee5bfa79fadd46f67050907"
+      "bytes": 1837233,
+      "sha256": "9f27c10383b3ff8f450f45170f4b4951cfcf788085125cfb2b80726358cd22cd"
     },
     "clusters.json": {
-      "bytes": 86479,
-      "sha256": "3408a21a8005bea5765a8285e57aec80f86d233656570f029e50dc2367f794b6"
+      "bytes": 89099,
+      "sha256": "ee847c36751721c53e65f7dd0099bb8db689f2b2604d7e1b660e2d7523d16817"
     }
   },
   "excluded": [
