@@ -6,7 +6,7 @@
     "ngss-k5",
     "ngss-ms"
   ],
-  "curriculumCount": 12,
+  "curriculumCount": 13,
   "curricula": [
     {
       "slug": "uk-nc-2013",
@@ -43865,6 +43865,546 @@
             "level": "Vidwat Antima (Final)",
             "paper": "Tabla",
             "description": "The five jaatis of taal; the six gharanas’ playing styles; treatise references; forty-minute solo; accompanying thumri and vocal music; oral recitation and tabla tuning."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ncert-elem",
+      "country": "IN",
+      "name": "NCERT Syllabus for Elementary Classes (NCF 2005)",
+      "version": "2005",
+      "sourceUrl": "https://ncert.nic.in/syllabus.php",
+      "textIncluded": true,
+      "license": "NCERT permits no reproduction of its text; these records carry Marble-authored factual descriptions only (no NCERT text) — see PROVENANCE.md",
+      "topicCount": 48,
+      "topics": [
+        {
+          "key": "ncert-elem:M.C1.NUM",
+          "code": "M.C1.NUM",
+          "data": {
+            "title": "Class I Numbers",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "I",
+            "strand": "Numbers",
+            "description": "Counting and reading and writing small numbers; addition and subtraction within 20."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C1.GEO",
+          "code": "M.C1.GEO",
+          "data": {
+            "title": "Class I Geometry",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "I",
+            "strand": "Geometry",
+            "description": "Spatial vocabulary; observing and sorting solids and shapes from the surroundings."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C1.MEA",
+          "code": "M.C1.MEA",
+          "data": {
+            "title": "Class I Measurement",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "I",
+            "strand": "Measurement",
+            "description": "Comparing lengths, weights and capacities directly; sequencing events in time."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C1.MON",
+          "code": "M.C1.MON",
+          "data": {
+            "title": "Class I Money",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "I",
+            "strand": "Money",
+            "description": "Identifying common coins and notes."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C1.DH",
+          "code": "M.C1.DH",
+          "data": {
+            "title": "Class I Data Handling",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "I",
+            "strand": "Data Handling",
+            "description": "Collecting and sorting objects; simple picture records."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C1.PAT",
+          "code": "M.C1.PAT",
+          "data": {
+            "title": "Class I Patterns",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "I",
+            "strand": "Patterns",
+            "description": "Copying, extending and creating simple patterns of shapes and numbers."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C2.NUM",
+          "code": "M.C2.NUM",
+          "data": {
+            "title": "Class II Numbers",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "II",
+            "strand": "Numbers",
+            "description": "Numbers to 99 with place value; addition and subtraction with two-digit numbers; introduction to multiplication as repeated addition."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C2.GEO",
+          "code": "M.C2.GEO",
+          "data": {
+            "title": "Class II Geometry",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "II",
+            "strand": "Geometry",
+            "description": "Naming and tracing 2-D shapes from solids; straight and curved lines."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C2.MEA",
+          "code": "M.C2.MEA",
+          "data": {
+            "title": "Class II Measurement",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "II",
+            "strand": "Measurement",
+            "description": "Measuring with non-standard units; days, weeks and months; sequencing daily events."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C2.MON",
+          "code": "M.C2.MON",
+          "data": {
+            "title": "Class II Money",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "II",
+            "strand": "Money",
+            "description": "Adding and subtracting small amounts; simple purchases."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C2.DH",
+          "code": "M.C2.DH",
+          "data": {
+            "title": "Class II Data Handling",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "II",
+            "strand": "Data Handling",
+            "description": "Collecting and presenting data as pictures and tables."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C2.PAT",
+          "code": "M.C2.PAT",
+          "data": {
+            "title": "Class II Patterns",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "II",
+            "strand": "Patterns",
+            "description": "Growing patterns in shapes and numbers."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C3.NUM",
+          "code": "M.C3.NUM",
+          "data": {
+            "title": "Class III Numbers",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "III",
+            "strand": "Numbers",
+            "description": "Numbers to 999 with place value; column addition and subtraction; multiplication tables and simple division."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C3.GEO",
+          "code": "M.C3.GEO",
+          "data": {
+            "title": "Class III Geometry",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "III",
+            "strand": "Geometry",
+            "description": "Properties of 2-D shapes and 3-D solids; tiling; maps and routes."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C3.MEA",
+          "code": "M.C3.MEA",
+          "data": {
+            "title": "Class III Measurement",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "III",
+            "strand": "Measurement",
+            "description": "Standard units for length, weight and capacity; reading a calendar and clock."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C3.MON",
+          "code": "M.C3.MON",
+          "data": {
+            "title": "Class III Money",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "III",
+            "strand": "Money",
+            "description": "Adding and subtracting money; making rate charts and simple bills."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C3.DH",
+          "code": "M.C3.DH",
+          "data": {
+            "title": "Class III Data Handling",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "III",
+            "strand": "Data Handling",
+            "description": "Recording and presenting data in pictographs."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C3.PAT",
+          "code": "M.C3.PAT",
+          "data": {
+            "title": "Class III Patterns",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "III",
+            "strand": "Patterns",
+            "description": "Identifying pattern rules in shapes and numbers."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C4.NUM",
+          "code": "M.C4.NUM",
+          "data": {
+            "title": "Class IV Numbers",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "IV",
+            "strand": "Numbers",
+            "description": "Larger numbers; written multiplication and division; introduction to fractions of a whole."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C4.GEO",
+          "code": "M.C4.GEO",
+          "data": {
+            "title": "Class IV Geometry",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "IV",
+            "strand": "Geometry",
+            "description": "Circles and their parts; reflection and symmetry; perspectives of solids."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C4.MEA",
+          "code": "M.C4.MEA",
+          "data": {
+            "title": "Class IV Measurement",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "IV",
+            "strand": "Measurement",
+            "description": "Converting units; perimeter; time to the minute and am/pm."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C4.MON",
+          "code": "M.C4.MON",
+          "data": {
+            "title": "Class IV Money",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "IV",
+            "strand": "Money",
+            "description": "Money in decimal notation; giving change; unit cost."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C4.DH",
+          "code": "M.C4.DH",
+          "data": {
+            "title": "Class IV Data Handling",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "IV",
+            "strand": "Data Handling",
+            "description": "Bar charts drawn and read."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C4.PAT",
+          "code": "M.C4.PAT",
+          "data": {
+            "title": "Class IV Patterns",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "IV",
+            "strand": "Patterns",
+            "description": "Patterns in multiplication and skip counting; symmetry patterns."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C5.NUM",
+          "code": "M.C5.NUM",
+          "data": {
+            "title": "Class V Numbers",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "V",
+            "strand": "Numbers",
+            "description": "Large numbers; the four operations fluently; fractions and their equivalence; introduction to decimals."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C5.GEO",
+          "code": "M.C5.GEO",
+          "data": {
+            "title": "Class V Geometry",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "V",
+            "strand": "Geometry",
+            "description": "Angles and their measure; nets of solids; views and maps."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C5.MEA",
+          "code": "M.C5.MEA",
+          "data": {
+            "title": "Class V Measurement",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "V",
+            "strand": "Measurement",
+            "description": "Unit conversion; area and boundary of regions; volume by counting units."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C5.MON",
+          "code": "M.C5.MON",
+          "data": {
+            "title": "Class V Money",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "V",
+            "strand": "Money",
+            "description": "Estimating and comparing amounts; unitary reasoning with money."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C5.DH",
+          "code": "M.C5.DH",
+          "data": {
+            "title": "Class V Data Handling",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "V",
+            "strand": "Data Handling",
+            "description": "Reading and comparing bar graphs and tables to draw conclusions."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C5.PAT",
+          "code": "M.C5.PAT",
+          "data": {
+            "title": "Class V Patterns",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "V",
+            "strand": "Patterns",
+            "description": "Pattern rules stated and extended; relationships between numbers."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C6.NS",
+          "code": "M.C6.NS",
+          "data": {
+            "title": "Class VI Number System",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VI",
+            "strand": "Number System",
+            "description": "Large numbers and estimation; factors, multiples and primes; integers introduced; fractions and decimals consolidated."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C6.ALG",
+          "code": "M.C6.ALG",
+          "data": {
+            "title": "Class VI Algebra",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VI",
+            "strand": "Algebra",
+            "description": "Variables introduced; forming simple expressions and equations."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C6.RP",
+          "code": "M.C6.RP",
+          "data": {
+            "title": "Class VI Ratio & Proportion",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VI",
+            "strand": "Ratio & Proportion",
+            "description": "Ratio as comparison; unitary method."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C6.GEO",
+          "code": "M.C6.GEO",
+          "data": {
+            "title": "Class VI Geometry",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VI",
+            "strand": "Geometry",
+            "description": "Lines, angles and their kinds; basic shapes and their properties; symmetry; first constructions."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C6.MEN",
+          "code": "M.C6.MEN",
+          "data": {
+            "title": "Class VI Mensuration",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VI",
+            "strand": "Mensuration",
+            "description": "Perimeter and area of rectilinear figures."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C6.DH",
+          "code": "M.C6.DH",
+          "data": {
+            "title": "Class VI Data Handling",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VI",
+            "strand": "Data Handling",
+            "description": "Collecting and organising data; pictographs and bar graphs; the mean introduced."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C7.NS",
+          "code": "M.C7.NS",
+          "data": {
+            "title": "Class VII Number System",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VII",
+            "strand": "Number System",
+            "description": "Integers with all operations; fractions and decimals with all operations; rational numbers introduced."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C7.ALG",
+          "code": "M.C7.ALG",
+          "data": {
+            "title": "Class VII Algebra",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VII",
+            "strand": "Algebra",
+            "description": "Algebraic expressions and their operations; simple linear equations solved."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C7.RP",
+          "code": "M.C7.RP",
+          "data": {
+            "title": "Class VII Ratio & Proportion",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VII",
+            "strand": "Ratio & Proportion",
+            "description": "Proportion; percentage with applications including simple interest; profit and loss."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C7.GEO",
+          "code": "M.C7.GEO",
+          "data": {
+            "title": "Class VII Geometry",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VII",
+            "strand": "Geometry",
+            "description": "Angle pairs and parallel lines; properties and congruence of triangles; constructions."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C7.MEN",
+          "code": "M.C7.MEN",
+          "data": {
+            "title": "Class VII Mensuration",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VII",
+            "strand": "Mensuration",
+            "description": "Area of triangles, parallelograms and circles; circumference."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C7.DH",
+          "code": "M.C7.DH",
+          "data": {
+            "title": "Class VII Data Handling",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VII",
+            "strand": "Data Handling",
+            "description": "Mean, median and mode; bar graphs; chance and probability introduced."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C8.NS",
+          "code": "M.C8.NS",
+          "data": {
+            "title": "Class VIII Number System",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VIII",
+            "strand": "Number System",
+            "description": "Rational numbers with operations; squares, cubes and their roots; exponents and powers."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C8.ALG",
+          "code": "M.C8.ALG",
+          "data": {
+            "title": "Class VIII Algebra",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VIII",
+            "strand": "Algebra",
+            "description": "Algebraic expressions multiplied and factorised; linear equations in one variable solved and applied."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C8.RP",
+          "code": "M.C8.RP",
+          "data": {
+            "title": "Class VIII Ratio & Proportion",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VIII",
+            "strand": "Ratio & Proportion",
+            "description": "Percentages applied to discount, tax, and simple and compound interest; direct and inverse variation."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C8.GEO",
+          "code": "M.C8.GEO",
+          "data": {
+            "title": "Class VIII Geometry",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VIII",
+            "strand": "Geometry",
+            "description": "Properties of quadrilaterals; representing 3-D in 2-D; constructions of quadrilaterals."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C8.MEN",
+          "code": "M.C8.MEN",
+          "data": {
+            "title": "Class VIII Mensuration",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VIII",
+            "strand": "Mensuration",
+            "description": "Area of trapezium and polygon; surface area and volume of cube, cuboid and cylinder."
+          }
+        },
+        {
+          "key": "ncert-elem:M.C8.DH",
+          "code": "M.C8.DH",
+          "data": {
+            "title": "Class VIII Data Handling",
+            "subject": "Mathematics (I–V, VI–VIII)",
+            "class": "VIII",
+            "strand": "Data Handling",
+            "description": "Grouped data; histograms and pie charts; probability of events."
           }
         }
       ]

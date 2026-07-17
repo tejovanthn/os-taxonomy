@@ -8550,7 +8550,9 @@
         "Explain the difference between noticing a pattern and proving it always works"
       ],
       "assessmentPrompt": "If {{name}} spots a pattern — like a grammar rule or a number pattern — can they describe it as a general rule and then check whether it works in new examples?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C3.PAT"
+      ]
     },
     {
       "id": "mt_TDUpy57QVM",
@@ -9518,7 +9520,8 @@
       ],
       "assessmentPrompt": "Can {{name}} work out sums like '14 + 5' or '18 − 6' in their head or on paper, and do they know that adding or taking away zero leaves the number unchanged?",
       "standards": [
-        "uk-nc-2013:Maths/Y1/AS/3"
+        "uk-nc-2013:Maths/Y1/AS/3",
+        "ncert-elem:M.C1.NUM"
       ]
     },
     {
@@ -10026,7 +10029,8 @@
       "assessmentPrompt": "Can {{name}} add or subtract numbers in the hundreds — like '347 + 256' — by thinking about hundreds, tens, and ones separately, or drawing a diagram to help?",
       "standards": [
         "ccss-math:2.NBT.7",
-        "nios-obe-a:A103.L2"
+        "nios-obe-a:A103.L2",
+        "ncert-elem:M.C3.NUM"
       ]
     },
     {
@@ -10429,7 +10433,9 @@
         "ccss-math:7.NS.1b",
         "ccss-math:7.NS.1c",
         "ccss-math:7.NS.1d",
-        "uk-nc-2013:KS3.Maths.Num.2"
+        "uk-nc-2013:KS3.Maths.Num.2",
+        "ncert-elem:M.C6.NS",
+        "ncert-elem:M.C7.NS"
       ]
     },
     {
@@ -10484,7 +10490,9 @@
         "Explain informally why the relationship between the two sequences holds"
       ],
       "assessmentPrompt": "Can {{name}} follow two number patterns at once — for example, \"add 2\" and \"add 4\" — pair up the matching terms, and plot those pairs as points on a graph?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C5.PAT"
+      ]
     },
     {
       "id": "mt_gu0NPDvlhY",
@@ -10538,7 +10546,9 @@
         "Express a word problem as an algebraic equation and find the unknown value"
       ],
       "assessmentPrompt": "If {{name}} reads \"I think of a number, double it, and add 5 to get 17,\" can they write that as an equation using a letter for the unknown and solve it?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C6.ALG"
+      ]
     },
     {
       "id": "mt_KwdjWEmMNo",
@@ -10567,7 +10577,8 @@
         "uk-nc-2013:KS3.Maths.Alg.1e",
         "uk-nc-2013:KS3.Maths.Alg.1f",
         "nios-obe-c:C103.L4",
-        "nios-sec-2020:211.M1.L3"
+        "nios-sec-2020:211.M1.L3",
+        "ncert-elem:M.C6.ALG"
       ]
     },
     {
@@ -10612,7 +10623,8 @@
         "ccss-math:6.EE.4",
         "uk-nc-2013:KS3.Maths.Alg.4a",
         "nios-obe-c:C103.L4",
-        "nios-sec-2020:211.M1.L3"
+        "nios-sec-2020:211.M1.L3",
+        "ncert-elem:M.C7.ALG"
       ]
     },
     {
@@ -10657,7 +10669,8 @@
         "ccss-math:7.EE.1",
         "uk-nc-2013:KS3.Maths.Alg.4b",
         "nios-obe-c:C103.L5",
-        "nios-sec-2020:211.M1.L4"
+        "nios-sec-2020:211.M1.L4",
+        "ncert-elem:M.C8.ALG"
       ]
     },
     {
@@ -10752,7 +10765,9 @@
         "ccss-math:8.EE.7b",
         "uk-nc-2013:KS3.Maths.Alg.7",
         "nios-obe-c:C103.L6",
-        "nios-sec-2020:211.M1.L5"
+        "nios-sec-2020:211.M1.L5",
+        "ncert-elem:M.C7.ALG",
+        "ncert-elem:M.C8.ALG"
       ]
     },
     {
@@ -10796,7 +10811,8 @@
         "ccss-math:7.EE.1",
         "uk-nc-2013:KS3.Maths.Alg.4c",
         "nios-obe-c:C103.L5",
-        "nios-sec-2020:211.M1.L4"
+        "nios-sec-2020:211.M1.L4",
+        "ncert-elem:M.C8.ALG"
       ]
     },
     {
@@ -11059,7 +11075,8 @@
       "assessmentPrompt": "If {{name}} is counting a pile of grapes, do they touch or point to each one exactly once as they say each number — without skipping any or counting the same one twice?",
       "standards": [
         "ccss-math:K.CC.4",
-        "ccss-math:K.CC.4.a"
+        "ccss-math:K.CC.4.a",
+        "ncert-elem:M.C1.NUM"
       ]
     },
     {
@@ -11121,7 +11138,8 @@
       ],
       "assessmentPrompt": "If you spread out 15 buttons on the table in a random arrangement and ask {{name}} how many there are, can they count them all carefully and give you the right answer?",
       "standards": [
-        "ccss-math:K.CC.5"
+        "ccss-math:K.CC.5",
+        "ncert-elem:M.C1.NUM"
       ]
     },
     {
@@ -11143,7 +11161,8 @@
       "standards": [
         "ccss-math:K.CC.1",
         "ccss-math:K.CC.2",
-        "uk-nc-2013:Maths/Y1/NPV/1"
+        "uk-nc-2013:Maths/Y1/NPV/1",
+        "ncert-elem:M.C2.NUM"
       ]
     },
     {
@@ -11243,7 +11262,8 @@
       ],
       "assessmentPrompt": "Can {{name}} count in fours all the way to 48, count in eights, or count up in hundreds from any starting point — for example 350, 450, 550?",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/NPV/1"
+        "uk-nc-2013:Ma/KS2/Y3/NPV/1",
+        "ncert-elem:M.C4.PAT"
       ]
     },
     {
@@ -11283,7 +11303,8 @@
       ],
       "assessmentPrompt": "Can {{name}} sort a pile of objects — like buttons, coins, or toy animals — into groups and count how many are in each group?",
       "standards": [
-        "ccss-math:K.MD.3"
+        "ccss-math:K.MD.3",
+        "ncert-elem:M.C1.DH"
       ]
     },
     {
@@ -11304,7 +11325,8 @@
       "assessmentPrompt": "Can {{name}} read a simple chart or pictogram — like one showing how many children chose each favourite fruit — and answer questions like \"which was most popular\"?",
       "standards": [
         "uk-nc-2013:Ma/KS2/Y3/S/1",
-        "uk-nc-2013:Maths/Y2/S/1"
+        "uk-nc-2013:Maths/Y2/S/1",
+        "ncert-elem:M.C2.DH"
       ]
     },
     {
@@ -11386,7 +11408,8 @@
       ],
       "assessmentPrompt": "Can {{name}} draw a simple bar chart or picture graph to show information — like how many of each colour of sweet are in a bag — and answer questions from it?",
       "standards": [
-        "ccss-math:2.MD.10"
+        "ccss-math:2.MD.10",
+        "ncert-elem:M.C3.DH"
       ]
     },
     {
@@ -11409,7 +11432,8 @@
         "nios-obe-b:B103.L8",
         "nios-obe-c:C103.L18",
         "nios-sec-2020:211.M6.L24",
-        "nios-sec-2020:214.M6.L18"
+        "nios-sec-2020:214.M6.L18",
+        "ncert-elem:M.C4.DH"
       ]
     },
     {
@@ -11449,7 +11473,8 @@
       "standards": [
         "nios-obe-b:B103.L8",
         "nios-obe-c:C103.L18",
-        "nios-sec-2020:211.M6.L24"
+        "nios-sec-2020:211.M6.L24",
+        "ncert-elem:M.C5.DH"
       ]
     },
     {
@@ -11508,7 +11533,8 @@
       ],
       "assessmentPrompt": "If the family scored 6, 8, 7, 5, and 9 on a board game over five rounds, can {{name}} work out the mean (average) score?",
       "standards": [
-        "nios-sec-2020:211.M6.L25"
+        "nios-sec-2020:211.M6.L25",
+        "ncert-elem:M.C6.DH"
       ]
     },
     {
@@ -11527,7 +11553,9 @@
         "Use a pie chart to determine the actual quantity represented by each sector given the total"
       ],
       "assessmentPrompt": "Can {{name}} read a pie chart — for example, one showing how a family spends its weekly budget — and use it to answer questions and solve problems?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C6.DH"
+      ]
     },
     {
       "id": "mt_IHipFGTFEY",
@@ -11836,7 +11864,8 @@
       ],
       "assessmentPrompt": "If {{name}} sees a bar divided into 4 equal parts with 2 shaded, can they tell you that's the same as 1/2 — and draw a different bar showing the same amount another way?",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/F/4"
+        "uk-nc-2013:Ma/KS2/Y3/F/4",
+        "ncert-elem:M.C5.NUM"
       ]
     },
     {
@@ -12066,7 +12095,9 @@
         "Find 3/10 of 1 kg and express the answer in grams and as a decimal of a kg"
       ],
       "assessmentPrompt": "If a bottle holds 1.5 litres and {{name}} drinks 0.75 litres, can they work out how much is left — and write it as both a decimal and a fraction?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C5.NUM"
+      ]
     },
     {
       "id": "mt_kDMKJ5Ztt6",
@@ -12194,7 +12225,9 @@
         "Draw a model showing 2/6 as 2 pieces of a whole cut into 6"
       ],
       "assessmentPrompt": "If you cut a pizza into 6 equal slices, can {{name}} explain what 1/6 means — and then work out what 4/6 of the pizza looks like?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C4.NUM"
+      ]
     },
     {
       "id": "mt_AYzE1EAvI0",
@@ -12879,7 +12912,8 @@
         "ccss-math:6.NS.3",
         "ccss-math:7.NS.3",
         "uk-nc-2013:KS3.Maths.Num.4",
-        "nios-obe-b:B103.L3"
+        "nios-obe-b:B103.L3",
+        "ncert-elem:M.C6.NS"
       ]
     },
     {
@@ -12899,7 +12933,8 @@
       ],
       "assessmentPrompt": "If a £120 jacket is reduced by 35%, can {{name}} work out the sale price — by first calculating 35% of £120 and then subtracting?",
       "standards": [
-        "uk-nc-2013:KS3.Maths.Num.11"
+        "uk-nc-2013:KS3.Maths.Num.11",
+        "ncert-elem:M.C7.NS"
       ]
     },
     {
@@ -12921,7 +12956,8 @@
       "standards": [
         "ccss-math:K.G.2",
         "uk-nc-2013:Maths/Y1/GPS/1",
-        "nios-obe-a:A103.L7"
+        "nios-obe-a:A103.L7",
+        "ncert-elem:M.C1.GEO"
       ]
     },
     {
@@ -12944,7 +12980,8 @@
         "ccss-math:K.G.1",
         "ccss-math:K.G.3",
         "uk-nc-2013:Maths/Y1/GPS/2",
-        "nios-obe-a:A103.L7"
+        "nios-obe-a:A103.L7",
+        "ncert-elem:M.C1.GEO"
       ]
     },
     {
@@ -12965,7 +13002,8 @@
       "assessmentPrompt": "Can {{name}} give directions to find something around the house using words like \"above,\" \"below,\" \"beside,\" \"in front of,\" or \"behind\"?",
       "standards": [
         "ccss-math:K.G.1",
-        "uk-nc-2013:Maths/Y1/GPD/1"
+        "uk-nc-2013:Maths/Y1/GPD/1",
+        "ncert-elem:M.C1.GEO"
       ]
     },
     {
@@ -12985,7 +13023,8 @@
       ],
       "assessmentPrompt": "Can {{name}} describe what makes two shapes different — for example, explaining that a triangle has 3 corners and 3 sides while a square has 4 of each?",
       "standards": [
-        "ccss-math:K.G.4"
+        "ccss-math:K.G.4",
+        "ncert-elem:M.C2.GEO"
       ]
     },
     {
@@ -13005,7 +13044,8 @@
       ],
       "assessmentPrompt": "Can {{name}} build or draw a shape they've been shown — for example, making a cube from folded paper or copying a triangle onto dot paper?",
       "standards": [
-        "ccss-math:K.G.5"
+        "ccss-math:K.G.5",
+        "ncert-elem:M.C2.GEO"
       ]
     },
     {
@@ -13206,7 +13246,9 @@
       ],
       "assessmentPrompt": "Can {{name}} spot a repeating pattern made of shapes or objects and continue it, or create their own repeating pattern?",
       "standards": [
-        "uk-nc-2013:Maths/Y2/GPD/1"
+        "uk-nc-2013:Maths/Y2/GPD/1",
+        "ncert-elem:M.C1.PAT",
+        "ncert-elem:M.C2.PAT"
       ]
     },
     {
@@ -13226,7 +13268,8 @@
       ],
       "assessmentPrompt": "Can {{name}} follow directions like \"turn clockwise a quarter turn\" or \"move three squares to the right\" on a grid or in a simple navigation game?",
       "standards": [
-        "uk-nc-2013:Maths/Y2/GPD/2"
+        "uk-nc-2013:Maths/Y2/GPD/2",
+        "ncert-elem:M.C3.GEO"
       ]
     },
     {
@@ -13246,7 +13289,8 @@
       ],
       "assessmentPrompt": "Can {{name}} sort a collection of shapes into groups — for example, separating all the shapes with curved sides from those with only straight sides?",
       "standards": [
-        "uk-nc-2013:Maths/Y2/GPS/4"
+        "uk-nc-2013:Maths/Y2/GPS/4",
+        "ncert-elem:M.C3.GEO"
       ]
     },
     {
@@ -13445,7 +13489,9 @@
         "Check a completed figure by folding along the mirror line"
       ],
       "assessmentPrompt": "If you show {{name}} half a shape drawn on squared paper with a mirror line marked, can they draw the missing half so the whole shape is perfectly symmetrical?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C4.GEO"
+      ]
     },
     {
       "id": "mt_vnJEztczji",
@@ -13464,7 +13510,8 @@
       ],
       "assessmentPrompt": "If {{name}} is given a flat T-shaped piece of card with six squares, can they tell you — before folding — that it makes a cube, and point out which square will become each face?",
       "standards": [
-        "nios-sec-2020:211.M4.L21"
+        "nios-sec-2020:211.M4.L21",
+        "ncert-elem:M.C5.GEO"
       ]
     },
     {
@@ -13519,7 +13566,9 @@
         "Read and interpret angle notation (e.g. angle ABC) and identify the angle being referred to in a diagram"
       ],
       "assessmentPrompt": "If {{name}}'s maths diagram shows a small square in one corner and matching arc marks on two other angles, can they tell you what each mark means — and use them to figure out a missing angle without re-measuring?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C6.GEO"
+      ]
     },
     {
       "id": "mt_Xt1cRqaBOW",
@@ -13555,7 +13604,9 @@
         "Match 2-D representations to the correct 3-D shape"
       ],
       "assessmentPrompt": "If you show {{name}} a flat architect's sketch of a box or a pyramid, can they tell you the name of the 3-D shape it represents?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C8.GEO"
+      ]
     },
     {
       "id": "mt_oqziWKry-L",
@@ -13647,7 +13698,8 @@
       "assessmentPrompt": "If {{name}} is given a piece of paper and a ruler, can they draw a line segment, mark a point, and then draw another line through that point that runs perfectly parallel to the first?",
       "standards": [
         "nios-obe-c:C103.L10",
-        "nios-sec-2020:211.M3.L10"
+        "nios-sec-2020:211.M3.L10",
+        "ncert-elem:M.C6.GEO"
       ]
     },
     {
@@ -13666,7 +13718,9 @@
         "Identify which scale on the protractor to use for an obtuse angle"
       ],
       "assessmentPrompt": "If {{name}} is given a protractor and an angle drawn on paper, can they measure it accurately and then draw a new angle of a size you specify?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C5.GEO"
+      ]
     },
     {
       "id": "mt_89riIKwGYp",
@@ -13889,7 +13943,8 @@
       "standards": [
         "nios-obe-b:B103.L7",
         "nios-obe-c:C103.L14",
-        "nios-sec-2020:211.M3.L15"
+        "nios-sec-2020:211.M3.L15",
+        "ncert-elem:M.C4.GEO"
       ]
     },
     {
@@ -13928,7 +13983,9 @@
         "Explain how translation changes coordinates (add/subtract) while reflection changes the sign of one coordinate"
       ],
       "assessmentPrompt": "If {{name}} draws a triangle at coordinates (1, 2), (3, 2), and (2, 4) on a grid, can they then reflect it across the x-axis and tell you the new coordinates of each corner?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C6.GEO"
+      ]
     },
     {
       "id": "mt_QDTO3GAgcq",
@@ -13989,7 +14046,8 @@
         "ccss-math:7.G.6",
         "ccss-math:8.G.9",
         "uk-nc-2013:KS3.Maths.Geo.1",
-        "nios-obe-c:C103.L12"
+        "nios-obe-c:C103.L12",
+        "ncert-elem:M.C7.GEO"
       ]
     },
     {
@@ -14083,7 +14141,8 @@
         "nios-obe-c:C103.L12",
         "nios-obe-c:C103.L13",
         "nios-sec-2020:211.M3.L11",
-        "nios-sec-2020:211.M3.L13"
+        "nios-sec-2020:211.M3.L13",
+        "ncert-elem:M.C8.GEO"
       ]
     },
     {
@@ -14191,7 +14250,8 @@
         "uk-nc-2013:KS3.Maths.Geo.2",
         "nios-obe-b:B103.L6",
         "nios-obe-c:C103.L16",
-        "nios-sec-2020:211.M4.L20"
+        "nios-sec-2020:211.M4.L20",
+        "ncert-elem:M.C7.MEN"
       ]
     },
     {
@@ -15162,7 +15222,8 @@
       "assessmentPrompt": "If {{name}} has two cups of different sizes, can they tell you which holds more water — and describe one as \"more full\" or \"less full\" than the other?",
       "standards": [
         "ccss-math:K.MD.1",
-        "uk-nc-2013:Maths/Y1/M/3"
+        "uk-nc-2013:Maths/Y1/M/3",
+        "ncert-elem:M.C1.MEA"
       ]
     },
     {
@@ -15182,7 +15243,8 @@
       ],
       "assessmentPrompt": "If {{name}} finishes their dinner before a sibling, can they tell you who finished earlier — and which one was quicker?",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/4"
+        "uk-nc-2013:Maths/Y1/M/4",
+        "ncert-elem:M.C1.MEA"
       ]
     },
     {
@@ -15204,7 +15266,8 @@
       "standards": [
         "ccss-math:K.MD.1",
         "ccss-math:K.MD.2",
-        "uk-nc-2013:Maths/Y1/M/1"
+        "uk-nc-2013:Maths/Y1/M/1",
+        "ncert-elem:M.C1.MEA"
       ]
     },
     {
@@ -15306,7 +15369,8 @@
       ],
       "assessmentPrompt": "If {{name}} is given a handful of coins, can they name each one — like 2p, 5p, 20p — and sort them from least to most valuable?",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/9"
+        "uk-nc-2013:Maths/Y1/M/9",
+        "ncert-elem:M.C1.MON"
       ]
     },
     {
@@ -15326,7 +15390,8 @@
       ],
       "assessmentPrompt": "If you ask {{name}} what day it is today, what day yesterday was, and what month we're in, can they answer all three — and tell you how many months are in a year?",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/11"
+        "uk-nc-2013:Maths/Y1/M/11",
+        "ncert-elem:M.C2.MEA"
       ]
     },
     {
@@ -15346,7 +15411,8 @@
       ],
       "assessmentPrompt": "If {{name}} measures the length of a book using small cubes laid end to end, can they count how many cubes it takes — and then try measuring the same book with a ruler?",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/5"
+        "uk-nc-2013:Maths/Y1/M/5",
+        "ncert-elem:M.C2.MEA"
       ]
     },
     {
@@ -15367,7 +15433,8 @@
       "assessmentPrompt": "If {{name}} uses balance scales to compare two objects, can they tell you which is heavier — and if given weights like 100g, can they balance an object on the scale?",
       "standards": [
         "uk-nc-2013:Maths/Y1/M/6",
-        "nios-obe-a:A103.L6"
+        "nios-obe-a:A103.L6",
+        "ncert-elem:M.C2.MEA"
       ]
     },
     {
@@ -15387,7 +15454,8 @@
       ],
       "assessmentPrompt": "If you point to a clock showing 3 o'clock or half past two, can {{name}} tell you the time — and then draw hands on a blank clock face to show a time you call out?",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/12"
+        "uk-nc-2013:Maths/Y1/M/12",
+        "ncert-elem:M.C3.MEA"
       ]
     },
     {
@@ -15428,7 +15496,8 @@
       "assessmentPrompt": "If {{name}} needs to make exactly 30p, can they find two or three different ways to do it using different combinations of coins?",
       "standards": [
         "uk-nc-2013:Maths/Y2/M/4",
-        "nios-obe-a:A103.L2"
+        "nios-obe-a:A103.L2",
+        "ncert-elem:M.C3.MON"
       ]
     },
     {
@@ -15448,7 +15517,8 @@
       ],
       "assessmentPrompt": "If you ask {{name}} whether to measure a swimming pool or a piece of paper in cm or m, can they pick the sensible unit for each — and explain why?",
       "standards": [
-        "uk-nc-2013:Maths/Y2/M/1"
+        "uk-nc-2013:Maths/Y2/M/1",
+        "ncert-elem:M.C3.MEA"
       ]
     },
     {
@@ -15489,7 +15559,8 @@
       "assessmentPrompt": "If {{name}} has three pencils of different lengths but can only compare two at a time, can they figure out which is longest — by using a third pencil as a go-between?",
       "standards": [
         "ccss-math:1.MD.1",
-        "nios-obe-a:A103.L6"
+        "nios-obe-a:A103.L6",
+        "ncert-elem:M.C3.MEA"
       ]
     },
     {
@@ -15530,7 +15601,8 @@
       "assessmentPrompt": "If {{name}} buys a snack for 45p and pays with a £1 coin, can they work out how much change they should get — and count it back?",
       "standards": [
         "uk-nc-2013:Maths/Y2/M/5",
-        "nios-obe-a:A103.L2"
+        "nios-obe-a:A103.L2",
+        "ncert-elem:M.C2.MON"
       ]
     },
     {
@@ -15751,7 +15823,8 @@
       ],
       "assessmentPrompt": "If {{name}} buys a book for £3.50 and a pencil for £1.25 with a £5 note, can they work out exactly how much change they should receive?",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/M/3"
+        "uk-nc-2013:Ma/KS2/Y3/M/3",
+        "ncert-elem:M.C4.MON"
       ]
     },
     {
@@ -15792,7 +15865,8 @@
       "assessmentPrompt": "If {{name}} needs to measure a piece of fabric about 80 cm long, can they pick the right tool — a short ruler or a tape measure — and use it accurately?",
       "standards": [
         "ccss-math:2.MD.1",
-        "nios-obe-a:A103.L6"
+        "nios-obe-a:A103.L6",
+        "ncert-elem:M.C4.MEA"
       ]
     },
     {
@@ -15812,7 +15886,8 @@
       ],
       "assessmentPrompt": "If {{name}} wants to put a decorative border around a rectangular picture frame 20 cm wide and 30 cm tall, can they work out the total length of border needed?",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/M/2"
+        "uk-nc-2013:Ma/KS2/Y3/M/2",
+        "ncert-elem:M.C4.MEA"
       ]
     },
     {
@@ -15913,7 +15988,9 @@
         "Match a set of 12-hour and 24-hour times"
       ],
       "assessmentPrompt": "If a train timetable shows a departure at 14:35, can {{name}} convert that to 12-hour clock time — and tell you whether that's morning or afternoon?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C4.MEA"
+      ]
     },
     {
       "id": "mt_y1n0Zwhoca",
@@ -15931,7 +16008,9 @@
         "Compare areas of two shapes by counting their unit squares"
       ],
       "assessmentPrompt": "If {{name}} draws a shape on squared centimetre paper, can they find its area by counting the squares — including making a sensible estimate for any partial squares?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C5.MEA"
+      ]
     },
     {
       "id": "mt_AQo4u7O4sM",
@@ -16004,7 +16083,8 @@
       ],
       "assessmentPrompt": "If {{name}} is told a journey is 3.5 km, can they convert that to metres — and also turn 2 hours 15 minutes into just minutes?",
       "standards": [
-        "nios-obe-a:A103.L6"
+        "nios-obe-a:A103.L6",
+        "ncert-elem:M.C5.MEA"
       ]
     },
     {
@@ -16023,7 +16103,9 @@
         "Calculate the total cost of 3 items at £2.45, £1.30, and £0.75"
       ],
       "assessmentPrompt": "If {{name}} is comparing three items costing £2.85, £3.10, and £2.50, can they put them in order from cheapest to most expensive — and work out the total cost?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C5.MON"
+      ]
     },
     {
       "id": "mt_ghK1mnEstc",
@@ -16097,7 +16179,9 @@
         "Draw two rectangles both with perimeter 24 cm but different areas"
       ],
       "assessmentPrompt": "If a rectangle has a perimeter of 24 cm and one side is 8 cm, can {{name}} work out the length of the other side — without drawing it?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C6.MEN"
+      ]
     },
     {
       "id": "mt_UNzojLkNdm",
@@ -16153,7 +16237,8 @@
       "assessmentPrompt": "If {{name}} counts the small squares inside a rectangle drawn on squared paper, can they tell you the area — and explain what \"one square unit\" means?",
       "standards": [
         "nios-obe-a:A103.L7",
-        "nios-obe-c:C103.L16"
+        "nios-obe-c:C103.L16",
+        "ncert-elem:M.C6.MEN"
       ]
     },
     {
@@ -16210,7 +16295,8 @@
       "assessmentPrompt": "If {{name}} has a small cardboard box, can they estimate how many 1 cm³ cubes would fit inside it — and then fill it with sugar cubes to check?",
       "standards": [
         "nios-obe-a:A103.L7",
-        "nios-obe-c:C103.L17"
+        "nios-obe-c:C103.L17",
+        "ncert-elem:M.C5.MEA"
       ]
     },
     {
@@ -16322,7 +16408,8 @@
       "standards": [
         "nios-obe-b:B103.L6",
         "nios-obe-c:C103.L16",
-        "nios-sec-2020:211.M4.L20"
+        "nios-sec-2020:211.M4.L20",
+        "ncert-elem:M.C7.MEN"
       ]
     },
     {
@@ -16532,7 +16619,8 @@
       "assessmentPrompt": "If {{name}} needs to count 4 bags with 3 apples in each, can they see that instead of counting all 12 one by one, they could add 3 + 3 + 3 + 3 — or say '4 groups of 3'?",
       "standards": [
         "uk-nc-2013:Maths/Y1/MD/1",
-        "nios-obe-a:A103.L3"
+        "nios-obe-a:A103.L3",
+        "ncert-elem:M.C2.NUM"
       ]
     },
     {
@@ -16634,7 +16722,8 @@
       "assessmentPrompt": "Can {{name}} quickly recall times table facts from the 2s, 5s, and 10s — like '5 × 6 = 30' or '20 ÷ 2 = 10' — forwards and backwards?",
       "standards": [
         "uk-nc-2013:Maths/Y2/MD/1",
-        "nios-obe-a:A103.L3"
+        "nios-obe-a:A103.L3",
+        "ncert-elem:M.C3.NUM"
       ]
     },
     {
@@ -16735,7 +16824,8 @@
       "assessmentPrompt": "Can {{name}} work out sums like '23 × 4' or '68 ÷ 4' — either in their head using times table knowledge, or by writing it out step by step?",
       "standards": [
         "uk-nc-2013:Ma/KS2/Y3/MD/2",
-        "nios-obe-a:A103.L4"
+        "nios-obe-a:A103.L4",
+        "ncert-elem:M.C4.NUM"
       ]
     },
     {
@@ -16755,7 +16845,8 @@
       ],
       "assessmentPrompt": "Can {{name}} recall any multiplication or division fact from all the times tables up to 12 — like '9 × 8 = 72' or '132 ÷ 12 = 11' — quickly and accurately?",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/MD/1"
+        "uk-nc-2013:Ma/KS2/Y4/MD/1",
+        "ncert-elem:M.C4.NUM"
       ]
     },
     {
@@ -17056,7 +17147,8 @@
       ],
       "assessmentPrompt": "If {{name}} reads 'a school buys 7 boxes of 24 pens and shares them equally between 8 classes', can they work through all the steps and decide sensibly what to do with any remainder?",
       "standards": [
-        "nios-obe-a:A103.L4"
+        "nios-obe-a:A103.L4",
+        "ncert-elem:M.C5.NUM"
       ]
     },
     {
@@ -17079,7 +17171,8 @@
       ],
       "assessmentPrompt": "Can {{name}} list all the factor pairs for a number like 36 — (1, 36), (2, 18), (3, 12), (4, 9), (6, 6) — and find factors that two numbers share?",
       "standards": [
-        "nios-obe-c:C103.L1"
+        "nios-obe-c:C103.L1",
+        "ncert-elem:M.C6.NS"
       ]
     },
     {
@@ -17338,7 +17431,9 @@
         "Solve a context problem that requires dividing a decimal amount equally (e.g. sharing £18.60 among 5 people)"
       ],
       "assessmentPrompt": "Can {{name}} use a written method to calculate something like '17 ÷ 4 = 4.25' — carrying the division past the decimal point to get a decimal answer rather than a remainder?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C7.NS"
+      ]
     },
     {
       "id": "mt_WsM4EmdOLe",
@@ -17630,7 +17725,8 @@
       "assessmentPrompt": "Can {{name}} read and write any number up to 100 — both as a numeral and by saying what it means?",
       "standards": [
         "uk-nc-2013:Maths/Y1/NPV/2",
-        "nios-obe-a:A103.L1"
+        "nios-obe-a:A103.L1",
+        "ncert-elem:M.C2.NUM"
       ]
     },
     {
@@ -17652,7 +17748,8 @@
       "standards": [
         "ccss-math:K.CC.3",
         "uk-nc-2013:Maths/Y1/NPV/5",
-        "nios-obe-a:A103.L1"
+        "nios-obe-a:A103.L1",
+        "ncert-elem:M.C1.NUM"
       ]
     },
     {
@@ -17963,7 +18060,8 @@
       "assessmentPrompt": "If {{name}} is told 'I have 4 hundreds, 3 tens, and 7 ones — what number is that?', can they put it together and tell you 437?",
       "standards": [
         "uk-nc-2013:Ma/KS2/Y3/NPV/6",
-        "nios-obe-a:A103.L1"
+        "nios-obe-a:A103.L1",
+        "ncert-elem:M.C3.NUM"
       ]
     },
     {
@@ -17985,7 +18083,8 @@
       "standards": [
         "ccss-math:2.NBT.3",
         "uk-nc-2013:Ma/KS2/Y3/NPV/5",
-        "nios-obe-a:A103.L1"
+        "nios-obe-a:A103.L1",
+        "ncert-elem:M.C3.NUM"
       ]
     },
     {
@@ -18107,7 +18206,8 @@
       "assessmentPrompt": "Can {{name}} mark a number like 6,400 roughly in the right place on a number line that goes from 0 to 10,000 — and explain how they decided where to put it?",
       "standards": [
         "uk-nc-2013:Ma/KS2/Y4/NPV/6",
-        "nios-obe-c:C103.L2"
+        "nios-obe-c:C103.L2",
+        "ncert-elem:M.C4.NUM"
       ]
     },
     {
@@ -18392,7 +18492,9 @@
         "Predict 2.56 × 10³ without calculating and explain the pattern"
       ],
       "assessmentPrompt": "Can {{name}} explain why 10² = 100 and 10³ = 1,000, and why multiplying by 10 just adds a zero — connecting the pattern of zeros to place value?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C8.NS"
+      ]
     },
     {
       "id": "mt_EDgw64OmfA",
@@ -18449,7 +18551,8 @@
       ],
       "assessmentPrompt": "Can {{name}} read and write numbers up to 10 million — like 4,302,617 — and say the value of any digit in the number?",
       "standards": [
-        "nios-obe-b:B103.L1"
+        "nios-obe-b:B103.L1",
+        "ncert-elem:M.C5.NUM"
       ]
     },
     {
@@ -18576,7 +18679,8 @@
         "ccss-math:8.EE.2",
         "uk-nc-2013:KS3.Maths.Num.7",
         "nios-obe-c:C103.L3",
-        "nios-sec-2020:211.M1.L2"
+        "nios-sec-2020:211.M1.L2",
+        "ncert-elem:M.C8.NS"
       ]
     },
     {
@@ -18750,7 +18854,8 @@
       ],
       "assessmentPrompt": "If there are 3 red and 7 blue balls in a bag, can {{name}} work out the probability of picking a red one and express it as a fraction in its simplest form?",
       "standards": [
-        "nios-sec-2020:211.M6.L26"
+        "nios-sec-2020:211.M6.L26",
+        "ncert-elem:M.C7.DH"
       ]
     },
     {
@@ -18787,7 +18892,9 @@
         "Spot an error in a probability table where the values don't sum to 1 and explain what's wrong"
       ],
       "assessmentPrompt": "If the probability of it raining tomorrow is 0.3, can {{name}} work out the probability of it NOT raining — and explain why all probabilities in a situation must add up to 1?",
-      "standards": []
+      "standards": [
+        "ncert-elem:M.C8.DH"
+      ]
     },
     {
       "id": "mt_t0g2SlP404",
@@ -18848,7 +18955,8 @@
       "standards": [
         "ccss-math:7.SP.6",
         "ccss-math:7.SP.7b",
-        "uk-nc-2013:KS3.Maths.Prob.1"
+        "uk-nc-2013:KS3.Maths.Prob.1",
+        "ncert-elem:M.C7.DH"
       ]
     },
     {
@@ -18992,7 +19100,8 @@
       "assessmentPrompt": "If a jumper originally costs £40 and is 15% off, can {{name}} work out how much the discount is and what the sale price would be?",
       "standards": [
         "nios-obe-c:C103.L8",
-        "nios-sec-2020:211.M2.L8"
+        "nios-sec-2020:211.M2.L8",
+        "ncert-elem:M.C7.RP"
       ]
     },
     {
@@ -19012,7 +19121,8 @@
       ],
       "assessmentPrompt": "If a recipe uses 3 eggs for every 200g of flour, can {{name}} work out how many eggs would be needed for 600g of flour?",
       "standards": [
-        "nios-obe-c:C103.L7"
+        "nios-obe-c:C103.L7",
+        "ncert-elem:M.C6.RP"
       ]
     },
     {
@@ -19195,7 +19305,8 @@
       "standards": [
         "ccss-math:6.RP.1",
         "uk-nc-2013:KS3.Maths.Ratio.4",
-        "nios-obe-c:C103.L7"
+        "nios-obe-c:C103.L7",
+        "ncert-elem:M.C6.RP"
       ]
     },
     {
@@ -19259,7 +19370,8 @@
       "assessmentPrompt": "If a bike originally costs £250 and its price goes up by 8%, can {{name}} work out the new price — and if a savings account earns 3% simple interest per year, how much interest would £500 earn in 4 years?",
       "standards": [
         "ccss-math:7.RP.3",
-        "uk-nc-2013:KS3.Maths.Ratio.8"
+        "uk-nc-2013:KS3.Maths.Ratio.8",
+        "ncert-elem:M.C8.RP"
       ]
     },
     {
@@ -19282,7 +19394,8 @@
         "ccss-math:7.RP.2",
         "ccss-math:7.RP.2d",
         "uk-nc-2013:KS3.Maths.Ratio.9",
-        "nios-obe-c:C103.L7"
+        "nios-obe-c:C103.L7",
+        "ncert-elem:M.C7.RP"
       ]
     },
     {
@@ -32783,7 +32896,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what a square root is and find the square root of a perfect square like 144?",
       "standards": [
-        "nios-obe-c:C103.L3"
+        "nios-obe-c:C103.L3",
+        "ncert-elem:M.C8.NS"
       ]
     },
     {
@@ -32805,7 +32919,8 @@
       "standards": [
         "nios-obe-c:C103.L9",
         "nios-sec-2020:211.M2.L8",
-        "nios-sec-2020:211.M2.L9"
+        "nios-sec-2020:211.M2.L9",
+        "ncert-elem:M.C8.RP"
       ]
     },
     {
@@ -32846,7 +32961,8 @@
       ],
       "assessmentPrompt": "Can {{name}} read a pie chart — understanding that the whole circle is the total and each slice is a part of it?",
       "standards": [
-        "nios-obe-c:C103.L18"
+        "nios-obe-c:C103.L18",
+        "ncert-elem:M.C8.DH"
       ]
     },
     {
@@ -35601,7 +35717,8 @@
       "assessmentPrompt": "Can {{name}} explain when two triangles are congruent, and use a rule like SSS or SAS to prove it?",
       "standards": [
         "nios-sec-2020:211.M3.L11",
-        "nios-sec-2020:211.M3.L12"
+        "nios-sec-2020:211.M3.L12",
+        "ncert-elem:M.C7.GEO"
       ]
     },
     {
@@ -35681,7 +35798,8 @@
       ],
       "assessmentPrompt": "Can {{name}} work out the surface area and volume of solids like a cylinder or cone using the right formulae?",
       "standards": [
-        "nios-sec-2020:211.M4.L21"
+        "nios-sec-2020:211.M4.L21",
+        "ncert-elem:M.C8.MEN"
       ]
     },
     {

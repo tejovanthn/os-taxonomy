@@ -8,6 +8,18 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### NCERT elementary syllabi — Mathematics I–V and VI–VIII (2026-07-17)
+- New source `ncert-elem` (NCERT Syllabus for Elementary Classes, NCF 2005).
+  NCERT's rights are the strictest yet (no reproduction; no summarisation of
+  its text) — records carry minted class×strand codes plus Marble-authored
+  factual descriptions only; **no NCERT text**. See PROVENANCE.
+- **Mathematics I–V + VI–VIII**: 48 class×strand standards; **97 existing
+  topics aligned (100 links), zero new topics needed** — India's national
+  elementary maths curriculum is fully covered by the existing Maths ladder,
+  a strong cross-curriculum validation of the graph.
+- In flight: Hindi I–V and Sanskrit VI–VIII (legacy-font PDFs, OCR agents);
+  English I–VIII, EVS III–V, Science VI–VIII, Social Science VI–VIII to follow.
+
 ### KSGH graded music & dance examinations — the performing-arts ladders (2026-07-17)
 
 New source `ksgh-music-exams`: the graded examination syllabus of the Karnataka
