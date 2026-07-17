@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 314,
+  "clusterCount": 317,
   "clusters": [
     {
       "subject": "English",
@@ -1885,6 +1885,24 @@
       "domain": "Hindustani Music",
       "ageRangeStart": 13,
       "summary": "Your teenager is approaching mastery — half-hour raga elaborations, thumri and the lighter forms, the gharana tradition, accompaniment, and the formal baithak."
+    },
+    {
+      "subject": "Hindi",
+      "domain": "Reading",
+      "ageRangeStart": 5,
+      "summary": "Your child is learning to read Hindi — the varnamala and matras, sounding out words, and their first sentences and stories."
+    },
+    {
+      "subject": "Hindi",
+      "domain": "Writing",
+      "ageRangeStart": 5,
+      "summary": "Your child is learning to write Hindi — forming the aksharas along the headline, then words and first sentences."
+    },
+    {
+      "subject": "Hindi",
+      "domain": "Grammar",
+      "ageRangeStart": 8,
+      "summary": "Your child is meeting Hindi grammar in use — naming words, gender and number, action words and first punctuation."
     }
   ]
 }

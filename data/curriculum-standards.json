@@ -43877,7 +43877,7 @@
       "sourceUrl": "https://ncert.nic.in/syllabus.php",
       "textIncluded": true,
       "license": "NCERT permits no reproduction of its text; these records carry Marble-authored factual descriptions only (no NCERT text) — see PROVENANCE.md",
-      "topicCount": 48,
+      "topicCount": 63,
       "topics": [
         {
           "key": "ncert-elem:M.C1.NUM",
@@ -44405,6 +44405,171 @@
             "class": "VIII",
             "strand": "Data Handling",
             "description": "Grouped data; histograms and pie charts; probability of events."
+          }
+        },
+        {
+          "key": "ncert-elem:SKT.C6.SKL",
+          "code": "SKT.C6.SKL",
+          "data": {
+            "title": "Class VI Sanskrit Skills",
+            "subject": "Sanskrit (VI–VIII)",
+            "class": "VI",
+            "strand": "Skills",
+            "description": "Listening to and speaking simple Sanskrit; reading and copying simple sentences; first comprehension."
+          }
+        },
+        {
+          "key": "ncert-elem:SKT.C6.GRM",
+          "code": "SKT.C6.GRM",
+          "data": {
+            "title": "Class VI Sanskrit Grammar",
+            "subject": "Sanskrit (VI–VIII)",
+            "class": "VI",
+            "strand": "Grammar",
+            "description": "First declensions (a-, aa-, i-, u-stem words); first pronouns; numerals to twenty; present and future tense (लट्, लृट्); seventeen roots; basic avyayas."
+          }
+        },
+        {
+          "key": "ncert-elem:SKT.C7.SKL",
+          "code": "SKT.C7.SKL",
+          "data": {
+            "title": "Class VII Sanskrit Skills",
+            "subject": "Sanskrit (VI–VIII)",
+            "class": "VII",
+            "strand": "Skills",
+            "description": "Comprehending short passages; guided speaking and recitation; writing short sentences and answers."
+          }
+        },
+        {
+          "key": "ncert-elem:SKT.C7.GRM",
+          "code": "SKT.C7.GRM",
+          "data": {
+            "title": "Class VII Sanskrit Grammar",
+            "subject": "Sanskrit (VI–VIII)",
+            "class": "VII",
+            "strand": "Grammar",
+            "description": "Further declensions (ऋ-stem, ई-stem and others); full pronoun forms; numerals to fifty; past tense added (लङ्); karaka introduced with upapada vibhaktis; the स्म usage; further roots and avyayas."
+          }
+        },
+        {
+          "key": "ncert-elem:SKT.C8.SKL",
+          "code": "SKT.C8.SKL",
+          "data": {
+            "title": "Class VIII Sanskrit Skills",
+            "subject": "Sanskrit (VI–VIII)",
+            "class": "VIII",
+            "strand": "Skills",
+            "description": "Independent reading of simple texts; sandhi-splitting; joining sentences with participial suffixes; free composition of simple sentences."
+          }
+        },
+        {
+          "key": "ncert-elem:SKT.C8.GRM",
+          "code": "SKT.C8.GRM",
+          "data": {
+            "title": "Class VIII Sanskrit Grammar",
+            "subject": "Sanskrit (VI–VIII)",
+            "class": "VIII",
+            "strand": "Grammar",
+            "description": "Feminine ऋ-stem and consonant-stem declensions; all pronoun forms; numerals to one hundred; imperative and optative added (लोट्, विधिलिङ्) for five lakaras in all; vowel sandhi; upasargas; क्त्वा, ल्यप्, तुमुन् suffixes; karaka vs upapada distinction."
+          }
+        },
+        {
+          "key": "ncert-elem:HIN.C12.ORAL",
+          "code": "HIN.C12.ORAL",
+          "data": {
+            "title": "Hindi Listening & Speaking (Classes I–II)",
+            "subject": "Hindi (I–V)",
+            "class": "I–II",
+            "strand": "Listening & Speaking",
+            "description": "Listening to and telling stories and rhymes; conversing naturally about one’s world; enjoying wordplay."
+          }
+        },
+        {
+          "key": "ncert-elem:HIN.C12.RDG",
+          "code": "HIN.C12.RDG",
+          "data": {
+            "title": "Hindi Reading (Classes I–II)",
+            "subject": "Hindi (I–V)",
+            "class": "I–II",
+            "strand": "Reading",
+            "description": "Learning the varnamala and matras; decoding words; reading first sentences and short texts with meaning."
+          }
+        },
+        {
+          "key": "ncert-elem:HIN.C12.WRT",
+          "code": "HIN.C12.WRT",
+          "data": {
+            "title": "Hindi Writing (Classes I–II)",
+            "subject": "Hindi (I–V)",
+            "class": "I–II",
+            "strand": "Writing",
+            "description": "Forming the aksharas; writing words and first sentences; drawing-and-writing expression."
+          }
+        },
+        {
+          "key": "ncert-elem:HIN.C35.ORAL",
+          "code": "HIN.C35.ORAL",
+          "data": {
+            "title": "Hindi Listening & Speaking (Classes III–V)",
+            "subject": "Hindi (I–V)",
+            "class": "III–V",
+            "strand": "Listening & Speaking",
+            "description": "Discussing, describing and narrating with growing clarity; listening critically."
+          }
+        },
+        {
+          "key": "ncert-elem:HIN.C35.RDG",
+          "code": "HIN.C35.RDG",
+          "data": {
+            "title": "Hindi Reading (Classes III–V)",
+            "subject": "Hindi (I–V)",
+            "class": "III–V",
+            "strand": "Reading",
+            "description": "Reading fluently and silently with comprehension across story, poem and information texts; using books independently."
+          }
+        },
+        {
+          "key": "ncert-elem:HIN.C35.WRT",
+          "code": "HIN.C35.WRT",
+          "data": {
+            "title": "Hindi Writing (Classes III–V)",
+            "subject": "Hindi (I–V)",
+            "class": "III–V",
+            "strand": "Writing",
+            "description": "Writing paragraphs, letters, descriptions and short compositions with correct spelling and punctuation."
+          }
+        },
+        {
+          "key": "ncert-elem:HIN.C3.GRM",
+          "code": "HIN.C3.GRM",
+          "data": {
+            "title": "Hindi Grammar (Classes III)",
+            "subject": "Hindi (I–V)",
+            "class": "III",
+            "strand": "Grammar",
+            "description": "First grammar in use — naming words, gender and number, action words, simple punctuation."
+          }
+        },
+        {
+          "key": "ncert-elem:HIN.C4.GRM",
+          "code": "HIN.C4.GRM",
+          "data": {
+            "title": "Hindi Grammar (Classes IV)",
+            "subject": "Hindi (I–V)",
+            "class": "IV",
+            "strand": "Grammar",
+            "description": "Pronouns and adjectives in use; tense in simple sentences; joining words; punctuation extended."
+          }
+        },
+        {
+          "key": "ncert-elem:HIN.C5.GRM",
+          "code": "HIN.C5.GRM",
+          "data": {
+            "title": "Hindi Grammar (Classes V)",
+            "subject": "Hindi (I–V)",
+            "class": "V",
+            "strand": "Grammar",
+            "description": "Word formation; synonyms, antonyms and multiple meanings; idiomatic expressions; fuller sentence grammar."
           }
         }
       ]

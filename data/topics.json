@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2024,
+  "topicCount": 2028,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -37630,7 +37630,9 @@
       ],
       "assessmentPrompt": "Can {{name}} listen to a Hindi conversation or talk, pick out its main points, and respond thoughtfully?",
       "standards": [
-        "nios-sec-2020:201.LSN"
+        "nios-sec-2020:201.LSN",
+        "ncert-elem:HIN.C12.ORAL",
+        "ncert-elem:HIN.C35.ORAL"
       ]
     },
     {
@@ -37650,7 +37652,9 @@
       ],
       "assessmentPrompt": "Can {{name}} speak Hindi clearly and confidently — holding a conversation, giving a short speech, or arguing a side?",
       "standards": [
-        "nios-sec-2020:201.SPK"
+        "nios-sec-2020:201.SPK",
+        "ncert-elem:HIN.C12.ORAL",
+        "ncert-elem:HIN.C35.ORAL"
       ]
     },
     {
@@ -37670,7 +37674,8 @@
       ],
       "assessmentPrompt": "Can {{name}} read a Hindi story or essay with understanding — including a passage they have never seen before?",
       "standards": [
-        "nios-sec-2020:201.RDG.G"
+        "nios-sec-2020:201.RDG.G",
+        "ncert-elem:HIN.C35.RDG"
       ]
     },
     {
@@ -37690,7 +37695,8 @@
       ],
       "assessmentPrompt": "Can {{name}} read a Hindi poem — old or modern — and explain its central feeling and what the poet is expressing?",
       "standards": [
-        "nios-sec-2020:201.RDG.K"
+        "nios-sec-2020:201.RDG.K",
+        "ncert-elem:HIN.C35.RDG"
       ]
     },
     {
@@ -37710,7 +37716,8 @@
       ],
       "assessmentPrompt": "Can {{name}} write a proper formal letter or short news report in Hindi, using the right format and tone?",
       "standards": [
-        "nios-sec-2020:201.WRT.P"
+        "nios-sec-2020:201.WRT.P",
+        "ncert-elem:HIN.C35.WRT"
       ]
     },
     {
@@ -37730,7 +37737,8 @@
       ],
       "assessmentPrompt": "Can {{name}} summarise a Hindi passage in their own words, and write an organised essay giving their own thoughts?",
       "standards": [
-        "nios-sec-2020:201.WRT.E"
+        "nios-sec-2020:201.WRT.E",
+        "ncert-elem:HIN.C35.WRT"
       ]
     },
     {
@@ -37750,7 +37758,8 @@
       ],
       "assessmentPrompt": "Can {{name}} break a Hindi word into its parts — prefix, root, suffix — and work with sandhi and samas?",
       "standards": [
-        "nios-sec-2020:201.GRM"
+        "nios-sec-2020:201.GRM",
+        "ncert-elem:HIN.C5.GRM"
       ]
     },
     {
@@ -37770,7 +37779,8 @@
       ],
       "assessmentPrompt": "Can {{name}} tell where Hindi words come from — Sanskrit, evolved, local or borrowed — and use synonyms, antonyms and one-word substitutions?",
       "standards": [
-        "nios-sec-2020:201.GRM"
+        "nios-sec-2020:201.GRM",
+        "ncert-elem:HIN.C5.GRM"
       ]
     },
     {
@@ -37790,7 +37800,9 @@
       ],
       "assessmentPrompt": "Can {{name}} build correct Hindi sentences — using the right case markers and agreement — from simple to complex?",
       "standards": [
-        "nios-sec-2020:201.GRM"
+        "nios-sec-2020:201.GRM",
+        "ncert-elem:HIN.C4.GRM",
+        "ncert-elem:HIN.C5.GRM"
       ]
     },
     {
@@ -37810,7 +37822,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain and correctly use common Hindi idioms and proverbs?",
       "standards": [
-        "nios-sec-2020:201.GRM"
+        "nios-sec-2020:201.GRM",
+        "ncert-elem:HIN.C5.GRM"
       ]
     },
     {
@@ -37892,7 +37905,8 @@
       ],
       "assessmentPrompt": "Can {{name}} follow simple spoken Sanskrit — hearing the special sounds correctly — and respond to it?",
       "standards": [
-        "nios-sec-2020:209.LSN"
+        "nios-sec-2020:209.LSN",
+        "ncert-elem:SKT.C6.SKL"
       ]
     },
     {
@@ -37912,7 +37926,9 @@
       ],
       "assessmentPrompt": "Can {{name}} pronounce Sanskrit accurately and recite a shloka with proper rhythm?",
       "standards": [
-        "nios-sec-2020:209.VAC"
+        "nios-sec-2020:209.VAC",
+        "ncert-elem:SKT.C6.SKL",
+        "ncert-elem:SKT.C7.SKL"
       ]
     },
     {
@@ -37933,7 +37949,9 @@
       "assessmentPrompt": "Can {{name}} read a simple Sanskrit passage — prose or verse — and explain what it says?",
       "standards": [
         "nios-sec-2020:209.RDG",
-        "nios-sec-2020:209.CMP"
+        "nios-sec-2020:209.CMP",
+        "ncert-elem:SKT.C7.SKL",
+        "ncert-elem:SKT.C8.SKL"
       ]
     },
     {
@@ -37974,7 +37992,9 @@
       "assessmentPrompt": "Can {{name}} write simple Sanskrit — from dictation, a story summary, or a few sentences describing a picture?",
       "standards": [
         "nios-sec-2020:209.WRT",
-        "nios-sec-2020:209.CMP"
+        "nios-sec-2020:209.CMP",
+        "ncert-elem:SKT.C7.SKL",
+        "ncert-elem:SKT.C8.SKL"
       ]
     },
     {
@@ -37994,7 +38014,8 @@
       ],
       "assessmentPrompt": "Can {{name}} join and split Sanskrit words using sandhi — vowel, consonant and visarga?",
       "standards": [
-        "nios-sec-2020:209.GRM.1"
+        "nios-sec-2020:209.GRM.1",
+        "ncert-elem:SKT.C8.GRM"
       ]
     },
     {
@@ -38014,7 +38035,10 @@
       ],
       "assessmentPrompt": "Can {{name}} decline common Sanskrit nouns and pronouns — like बालक or नदी — through their cases?",
       "standards": [
-        "nios-sec-2020:209.GRM.2"
+        "nios-sec-2020:209.GRM.2",
+        "ncert-elem:SKT.C6.GRM",
+        "ncert-elem:SKT.C7.GRM",
+        "ncert-elem:SKT.C8.GRM"
       ]
     },
     {
@@ -38034,7 +38058,10 @@
       ],
       "assessmentPrompt": "Can {{name}} conjugate everyday Sanskrit verbs — like पठति, गच्छति, करोति — correctly for person and number?",
       "standards": [
-        "nios-sec-2020:209.GRM.3"
+        "nios-sec-2020:209.GRM.3",
+        "ncert-elem:SKT.C6.GRM",
+        "ncert-elem:SKT.C7.GRM",
+        "ncert-elem:SKT.C8.GRM"
       ]
     },
     {
@@ -38074,7 +38101,9 @@
       ],
       "assessmentPrompt": "Can {{name}} build Sanskrit words with suffixes — like गत्वा from गम् — and recognise how suffixes change meaning?",
       "standards": [
-        "nios-sec-2020:209.GRM.5"
+        "nios-sec-2020:209.GRM.5",
+        "ncert-elem:SKT.C7.GRM",
+        "ncert-elem:SKT.C8.GRM"
       ]
     },
     {
@@ -38094,7 +38123,9 @@
       ],
       "assessmentPrompt": "Can {{name}} choose the right Sanskrit case ending for a word’s role in the sentence — doer, object, instrument and the rest?",
       "standards": [
-        "nios-sec-2020:209.GRM.6"
+        "nios-sec-2020:209.GRM.6",
+        "ncert-elem:SKT.C7.GRM",
+        "ncert-elem:SKT.C8.GRM"
       ]
     },
     {
@@ -38114,7 +38145,10 @@
       ],
       "assessmentPrompt": "Can {{name}} use Sanskrit prefixes and unchanging words (avyayas) correctly in sentences?",
       "standards": [
-        "nios-sec-2020:209.GRM.7"
+        "nios-sec-2020:209.GRM.7",
+        "ncert-elem:SKT.C6.GRM",
+        "ncert-elem:SKT.C7.GRM",
+        "ncert-elem:SKT.C8.GRM"
       ]
     },
     {
@@ -40633,6 +40667,87 @@
         "ksgh-music-exams:TAB.L1",
         "ksgh-music-exams:TAB.L2",
         "ksgh-music-exams:TAB.L4"
+      ]
+    },
+    {
+      "id": "mt_FPB91lHqFL",
+      "type": "LANGUAGE",
+      "subject": "Hindi",
+      "domain": "Reading",
+      "name": "The Varnamala and Matras",
+      "description": "Learn the Hindi varnamala — the vowels and consonants in their ordered families — and the matras that join them, decoding aksharas into words.",
+      "ageRangeStart": 5,
+      "ageRangeEnd": 7,
+      "centrality": null,
+      "evidence": [
+        "Recognise and sound the letters of the varnamala",
+        "Read words built with matras",
+        "Decode simple unfamiliar words"
+      ],
+      "assessmentPrompt": "Can {{name}} sound out the Hindi letters and read words built with matras?",
+      "standards": [
+        "ncert-elem:HIN.C12.RDG"
+      ]
+    },
+    {
+      "id": "mt_9DHmob0Jal",
+      "type": "LANGUAGE",
+      "subject": "Hindi",
+      "domain": "Reading",
+      "name": "First Reading in Hindi",
+      "description": "Read first sentences and short Hindi texts — rhymes, little stories — with meaning, moving from sounding-out to understanding.",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 8,
+      "centrality": null,
+      "evidence": [
+        "Read a short Hindi text aloud",
+        "Tell what a read sentence means",
+        "Follow a short story read independently"
+      ],
+      "assessmentPrompt": "Can {{name}} read a short Hindi story or rhyme and tell you what it says?",
+      "standards": [
+        "ncert-elem:HIN.C12.RDG"
+      ]
+    },
+    {
+      "id": "mt_5QO72Xkw6u",
+      "type": "PROCEDURAL",
+      "subject": "Hindi",
+      "domain": "Writing",
+      "name": "Writing the Aksharas",
+      "description": "Form the Hindi aksharas correctly — with the shirorekha (headline) — and write words and first sentences.",
+      "ageRangeStart": 5,
+      "ageRangeEnd": 7,
+      "centrality": null,
+      "evidence": [
+        "Form aksharas legibly with the headline",
+        "Write words with matras correctly",
+        "Write a first complete sentence"
+      ],
+      "assessmentPrompt": "Can {{name}} write Hindi letters and words neatly along the headline, up to a full sentence?",
+      "standards": [
+        "ncert-elem:HIN.C12.WRT"
+      ]
+    },
+    {
+      "id": "mt_DeKlOUf7Hi",
+      "type": "LANGUAGE",
+      "subject": "Hindi",
+      "domain": "Grammar",
+      "name": "First Hindi Grammar",
+      "description": "Meet Hindi grammar in use — naming words (संज्ञा), gender (लिंग) and number (वचन), pronouns and action words, and the first punctuation.",
+      "ageRangeStart": 8,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Identify sangya, sarvanam and kriya in sentences",
+        "Use ling and vachan agreement correctly",
+        "Use full stop and question mark correctly"
+      ],
+      "assessmentPrompt": "Can {{name}} spot naming words and action words in Hindi, and match gender and number correctly?",
+      "standards": [
+        "ncert-elem:HIN.C3.GRM",
+        "ncert-elem:HIN.C4.GRM"
       ]
     }
   ]

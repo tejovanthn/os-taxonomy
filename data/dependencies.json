@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3762,
+  "edgeCount": 3769,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -22574,6 +22574,48 @@
       "prerequisiteId": "mt_LGGMlzrdqD",
       "strength": "soft",
       "reason": "The two classical systems share their treatise heritage"
+    },
+    {
+      "topicId": "mt_FPB91lHqFL",
+      "prerequisiteId": "mt_F978c32kDr",
+      "strength": "soft",
+      "reason": "Cross-language: the concept that letters stand for sounds transfers to the varnamala"
+    },
+    {
+      "topicId": "mt_9DHmob0Jal",
+      "prerequisiteId": "mt_FPB91lHqFL",
+      "strength": "hard",
+      "reason": "Reading words presupposes decoding the aksharas"
+    },
+    {
+      "topicId": "mt_5QO72Xkw6u",
+      "prerequisiteId": "mt_FPB91lHqFL",
+      "strength": "hard",
+      "reason": "Writing the aksharas builds on recognising them"
+    },
+    {
+      "topicId": "mt_DeKlOUf7Hi",
+      "prerequisiteId": "mt_9DHmob0Jal",
+      "strength": "soft",
+      "reason": "Grammar is met inside the sentences being read"
+    },
+    {
+      "topicId": "mt_eAR1bCJrgZ",
+      "prerequisiteId": "mt_9DHmob0Jal",
+      "strength": "hard",
+      "reason": "Reading prose builds on first reading"
+    },
+    {
+      "topicId": "mt_GcCnPyG5hg",
+      "prerequisiteId": "mt_DeKlOUf7Hi",
+      "strength": "hard",
+      "reason": "Sentence structure builds on the first grammar in use"
+    },
+    {
+      "topicId": "mt_3HVK8ZcBIU",
+      "prerequisiteId": "mt_5QO72Xkw6u",
+      "strength": "soft",
+      "reason": "Purposeful writing builds on the mechanics of writing"
     }
   ]
 }

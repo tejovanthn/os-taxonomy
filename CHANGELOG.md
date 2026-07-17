@@ -17,8 +17,19 @@ Work-in-progress addition of Indian curricula, integrated one source at a time.
   topics aligned (100 links), zero new topics needed** — India's national
   elementary maths curriculum is fully covered by the existing Maths ladder,
   a strong cross-curriculum validation of the graph.
-- In flight: Hindi I–V and Sanskrit VI–VIII (legacy-font PDFs, OCR agents);
-  English I–VIII, EVS III–V, Science VI–VIII, Social Science VI–VIII to follow.
+- **Hindi I–V** (recovered via OCR of the legacy-font PDF): 9 band/class
+  standards; **4 new primary-literacy topics** — *The Varnamala and Matras*
+  (5–7), *First Reading in Hindi* (6–8), *Writing the Aksharas* (5–7), *First
+  Hindi Grammar* (8–10) — wired beneath the existing Hindi topics (reading
+  prose now hard-requires first reading; sentence structure requires first
+  grammar), plus 10 alignments and a cross-language edge from English letter-
+  sound knowledge to the varnamala.
+- **Sanskrit VI–VIII** (via OCR): 6 class standards capturing the graded
+  grammar progression (declensions by stem class; lakaras growing 2→3→5;
+  sandhi/upasarga/pratyaya staged at Class VIII); pure alignment — 10 existing
+  Sanskrit topics linked, zero new topics.
+- Still to integrate: English I–VIII, EVS III–V, Science VI–VIII, Social
+  Science VI–VIII (clean-text PDFs).
 
 ### KSGH graded music & dance examinations — the performing-arts ladders (2026-07-17)
 
