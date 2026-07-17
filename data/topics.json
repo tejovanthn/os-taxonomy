@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 1959,
+  "topicCount": 2024,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -37036,7 +37036,8 @@
       ],
       "assessmentPrompt": "Can {{name}} name the seven notes (svaras) of Indian music and explain the idea of octaves?",
       "standards": [
-        "nios-sec-2020:242.M1.L1"
+        "nios-sec-2020:242.M1.L1",
+        "ksgh-music-exams:CAR.L1.T1"
       ]
     },
     {
@@ -37056,7 +37057,9 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what a raga is — a special set of notes that gives a piece its mood?",
       "standards": [
-        "nios-sec-2020:242.M1.L2"
+        "nios-sec-2020:242.M1.L2",
+        "ksgh-music-exams:CAR.L1.T1",
+        "ksgh-music-exams:HIN.L1.T1"
       ]
     },
     {
@@ -37076,7 +37079,9 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what a tala is — the repeating cycle of beats that gives music its rhythm?",
       "standards": [
-        "nios-sec-2020:242.M1.L3"
+        "nios-sec-2020:242.M1.L3",
+        "ksgh-music-exams:CAR.L1.T1",
+        "ksgh-music-exams:HIN.L1.T1"
       ]
     },
     {
@@ -37097,7 +37102,8 @@
       "assessmentPrompt": "Can {{name}} name Hindustani vocal forms like khayal and explain how ragas are grouped into thaats?",
       "standards": [
         "nios-sec-2020:242.M2.L4",
-        "nios-sec-2020:242.M2.L5"
+        "nios-sec-2020:242.M2.L5",
+        "ksgh-music-exams:HIN.L2.T2"
       ]
     },
     {
@@ -37117,7 +37123,8 @@
       ],
       "assessmentPrompt": "Can {{name}} read a simple piece of Indian music notation and explain how singers train their voices with alankaras?",
       "standards": [
-        "nios-sec-2020:242.M2.L6"
+        "nios-sec-2020:242.M2.L6",
+        "ksgh-music-exams:HIN.L1.T1"
       ]
     },
     {
@@ -37138,7 +37145,8 @@
       "assessmentPrompt": "Can {{name}} explain gamaka — the ornamentation and sliding between notes that gives Carnatic music its distinctive sound?",
       "standards": [
         "nios-sec-2020:243.M1.L1",
-        "nios-sec-2020:243.M2.L2"
+        "nios-sec-2020:243.M2.L2",
+        "ksgh-music-exams:CAR.L3.T1"
       ]
     },
     {
@@ -37158,7 +37166,8 @@
       ],
       "assessmentPrompt": "Can {{name}} name Carnatic forms like the varnam and kriti and describe how a composition is put together?",
       "standards": [
-        "nios-sec-2020:243.M2.L3"
+        "nios-sec-2020:243.M2.L3",
+        "ksgh-music-exams:CAR.L2.T2"
       ]
     },
     {
@@ -37178,7 +37187,9 @@
       ],
       "assessmentPrompt": "Can {{name}} name the great Carnatic composers, like the Trinity, and what they are remembered for?",
       "standards": [
-        "nios-sec-2020:243.M2.L4"
+        "nios-sec-2020:243.M2.L4",
+        "ksgh-music-exams:CAR.L1.T1",
+        "ksgh-music-exams:CAR.L2.T2"
       ]
     },
     {
@@ -37438,7 +37449,9 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how Hindustani music groups its ragas into parent scales called thaats?",
       "standards": [
-        "nios-sec-2020:242.M2.L4"
+        "nios-sec-2020:242.M2.L4",
+        "ksgh-music-exams:HIN.L1.T1",
+        "ksgh-music-exams:HIN.L2.T1"
       ]
     },
     {
@@ -37458,7 +37471,8 @@
       ],
       "assessmentPrompt": "Can {{name}} name Hindustani vocal forms like dhrupad and khayal, and explain how they differ?",
       "standards": [
-        "nios-sec-2020:242.M2.L5"
+        "nios-sec-2020:242.M2.L5",
+        "ksgh-music-exams:HIN.L2.P3"
       ]
     },
     {
@@ -39148,6 +39162,1359 @@
       "assessmentPrompt": "Can {{name}} read the opening of the Kiratarjuniyam — the spy’s report and the counsel it provokes — and explain it?",
       "standards": [
         "nios-sec-2020:248.S4"
+      ]
+    },
+    {
+      "id": "mt_wzX2UsTmj5",
+      "type": "CONCEPTUAL",
+      "subject": "Dance",
+      "domain": "Foundations of Dance",
+      "name": "The Origin of Dance",
+      "description": "Know the story of how dance began as the Natyashastra tells it, and meet the two great books of dance — the Natyashastra and the Abhinaya Darpana.",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Retell the origin story of natya",
+        "Name the Natyashastra and Abhinaya Darpana",
+        "Explain that dance in India follows written tradition"
+      ],
+      "assessmentPrompt": "Can {{name}} tell the story of how dance was born, and name the ancient books dancers still follow?",
+      "standards": [
+        "ksgh-music-exams:DAN.L1.T1"
+      ]
+    },
+    {
+      "id": "mt_pPvkcQcsUA",
+      "type": "CONCEPTUAL",
+      "subject": "Dance",
+      "domain": "Foundations of Dance",
+      "name": "Tala for Dancers",
+      "description": "Understand the rhythm framework a dancer keeps — the tala angas (laghu, druta, anudruta) with their symbols, and the five jatis (tisra, chaturasra, khanda, mishra, sankeerna).",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Name the tala angas and their symbols",
+        "Name the five jatis",
+        "Keep a simple tala while moving"
+      ],
+      "assessmentPrompt": "Can {{name}} name the parts of a tala and its five jatis, and keep the beat while dancing?",
+      "standards": [
+        "ksgh-music-exams:DAN.L1.T1",
+        "ksgh-music-exams:DAN.L1.P1"
+      ]
+    },
+    {
+      "id": "mt_3ANhUkcwYC",
+      "type": "PROCEDURAL",
+      "subject": "Dance",
+      "domain": "Foundations of Dance",
+      "name": "Dance Exercises and Posture",
+      "description": "Build the dancer’s body — the vyayama kriyas (exercise movements) including the aramandala half-sit, the fixed-gaze tratakas, and later the asanas useful for dance.",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Perform basic vyayama kriyas including aramandala",
+        "Hold a fixed gaze (trataka)",
+        "Show correct dance posture"
+      ],
+      "assessmentPrompt": "Can {{name}} do the dancer’s warm-up exercises and hold the aramandala position with steady eyes?",
+      "standards": [
+        "ksgh-music-exams:DAN.L1.P1",
+        "ksgh-music-exams:DAN.L2.P1"
+      ]
+    },
+    {
+      "id": "mt_DfPI9SHe6G",
+      "type": "CONCEPTUAL",
+      "subject": "Dance",
+      "domain": "Foundations of Dance",
+      "name": "The Instruments of Dance",
+      "description": "Know the four classes of instruments (string, wind, membrane-percussion, solid) and the ensemble that accompanies Bharatanatyam.",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Sort instruments into the four classes",
+        "Name instruments used in Bharatanatyam",
+        "Recognise the sound of the dance ensemble"
+      ],
+      "assessmentPrompt": "Can {{name}} name the kinds of instruments and which ones play for a Bharatanatyam dancer?",
+      "standards": [
+        "ksgh-music-exams:DAN.L1.T1"
+      ]
+    },
+    {
+      "id": "mt_22f8zTwuWL",
+      "type": "PROCEDURAL",
+      "subject": "Dance",
+      "domain": "Bharatanatyam",
+      "name": "The Ten Adavus",
+      "description": "Learn the ten basic adavus — the building-block steps of Bharatanatyam — with their stance, hand-space, nritta hasta and leg movement, danced in three speeds (trikala).",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Perform the ten adavus",
+        "Show an adavu in three speeds",
+        "Name an adavu’s four defining features"
+      ],
+      "assessmentPrompt": "Can {{name}} dance the ten basic adavus, keeping them clean through three speeds?",
+      "standards": [
+        "ksgh-music-exams:DAN.L1.P1",
+        "ksgh-music-exams:DAN.L1.T1"
+      ]
+    },
+    {
+      "id": "mt_3tU28HrkIw",
+      "type": "PROCEDURAL",
+      "subject": "Dance",
+      "domain": "Bharatanatyam",
+      "name": "Adavus in the Five Jatis",
+      "description": "Deepen the adavus — dancing the ten adavus in all five jatis and three speeds, the full rhythmic matrix of the basic steps.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Perform adavus in each of the five jatis",
+        "Hold trikala within each jati",
+        "Recite an adavu’s sollukattu while dancing it"
+      ],
+      "assessmentPrompt": "Can {{name}} dance the adavus through all five jatis, in three speeds each?",
+      "standards": [
+        "ksgh-music-exams:DAN.L2.P1"
+      ]
+    },
+    {
+      "id": "mt_6YbQ2E1En5",
+      "type": "PROCEDURAL",
+      "subject": "Dance",
+      "domain": "Bharatanatyam",
+      "name": "The Advanced Adavu Families",
+      "description": "Master the further adavu families beyond the basic ten — including plavana (leaping), tandava, shikhara and nade adavus — in five jatis and three speeds.",
+      "ageRangeStart": 12,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Perform adavus from the advanced families",
+        "Sustain jati and speed discipline in them",
+        "Write an adavu’s sollukattu in tala notation"
+      ],
+      "assessmentPrompt": "Can {{name}} dance the advanced adavu families — leaps and tandava steps — with the same discipline as the basics?",
+      "standards": [
+        "ksgh-music-exams:DAN.L3.P2",
+        "ksgh-music-exams:DAN.L3.T2"
+      ]
+    },
+    {
+      "id": "mt_7HfIQOE7RC",
+      "type": "PROCEDURAL",
+      "subject": "Dance",
+      "domain": "Bharatanatyam",
+      "name": "First Dance Items",
+      "description": "Dance the first items of the repertoire — Tisra and Chaturasra Alarippu, a Jatiswaram in Adi tala, a Kautvam, a Kannada Devaranama and Devata Shlokas — knowing each item’s meaning and defining character.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Perform an Alarippu and a Jatiswaram",
+        "Present a Devaranama or Kautvam",
+        "State the meaning and lakshana of each item danced"
+      ],
+      "assessmentPrompt": "Can {{name}} perform their first full dance pieces — an Alarippu, a Jatiswaram, a Devaranama — and say what each one is?",
+      "standards": [
+        "ksgh-music-exams:DAN.L1.P2"
+      ]
+    },
+    {
+      "id": "mt_kXcnyA1y1Y",
+      "type": "PROCEDURAL",
+      "subject": "Dance",
+      "domain": "Bharatanatyam",
+      "name": "Building the Margam",
+      "description": "Grow the repertoire to the central margam items — Khanda Alarippu, Rupaka Jatiswaram, Shabdam, a Padavarnam, a Padam, a Kannada Javali, a Kriti and a Tillana — with each item’s lakshana, sollukattu and meaning.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Perform a Shabdam and a Padavarnam",
+        "Perform a Javali, Kriti and Tillana",
+        "Explain the lakshana and meaning of each item"
+      ],
+      "assessmentPrompt": "Can {{name}} dance the heart of the margam — Shabdam, Varnam, Padam, Tillana — and explain each piece?",
+      "standards": [
+        "ksgh-music-exams:DAN.L2.P2"
+      ]
+    },
+    {
+      "id": "mt_O0bldGx9Ij",
+      "type": "PROCEDURAL",
+      "subject": "Dance",
+      "domain": "Bharatanatyam",
+      "name": "The Expanding Repertoire",
+      "description": "Extend the repertoire into subtler territory — Mishra Alarippu, a nayaka-nayika Padavarnam, a Kshetrajna Pada, a Shringara Shloka, a Vachana and further Javali and Tillana.",
+      "ageRangeStart": 12,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Perform a nayaka-nayika Padavarnam",
+        "Present a Kshetrajna Pada or Vachana",
+        "Sing the pieces danced, with shruti and tala"
+      ],
+      "assessmentPrompt": "Can {{name}} dance the senior repertoire — varnams of longing, padas and vachanas — and sing what they dance?",
+      "standards": [
+        "ksgh-music-exams:DAN.L3.P2"
+      ]
+    },
+    {
+      "id": "mt_lTvo1gr4eP",
+      "type": "PROCEDURAL",
+      "subject": "Dance",
+      "domain": "Bharatanatyam",
+      "name": "The Full Dance Recital",
+      "description": "Present a complete Bharatanatyam kacheri — Pushpanjali through Daruvarnam, Ashtapadi and Padam to Tillana and Mangalam — with narration explaining every item’s character and meaning.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Perform a full margam in concert format",
+        "Present an Ashtapadi and Daruvarnam",
+        "Narrate each item’s lakshana and meaning to an audience"
+      ],
+      "assessmentPrompt": "Can {{name}} carry a full dance recital — from Pushpanjali to Mangalam — introducing and explaining every piece?",
+      "standards": [
+        "ksgh-music-exams:DAN.L4.P1",
+        "ksgh-music-exams:DAN.L4.P3"
+      ]
+    },
+    {
+      "id": "mt_Q3F968Zkuc",
+      "type": "PROCEDURAL",
+      "subject": "Dance",
+      "domain": "Bharatanatyam",
+      "name": "Nattuvangam and Singing for Dance",
+      "description": "Lead the dance from the side — sing the pieces with shruti and tala, recite sollukattu with teermana and muktaya, compose a jati, and keep nattuvangam (cymbal-led conducting) for Alarippu and Jatiswaram.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Sing danced pieces keeping shruti and tala",
+        "Recite sollukattus with correct muktaya",
+        "Keep nattuvangam for a simple item"
+      ],
+      "assessmentPrompt": "Can {{name}} sing and conduct for dance — reciting the rhythm syllables and keeping nattuvangam?",
+      "standards": [
+        "ksgh-music-exams:DAN.L3.P1",
+        "ksgh-music-exams:DAN.L2.P2",
+        "ksgh-music-exams:DAN.L4.T1"
+      ]
+    },
+    {
+      "id": "mt_4D0vI5rpTi",
+      "type": "PROCEDURAL",
+      "subject": "Dance",
+      "domain": "Bharatanatyam",
+      "name": "Creating Dance: Choreography",
+      "description": "Compose dance of your own — choreograph to a given jati, set abhinaya to a devaranama or other lyric, and shape nayaka-nayika bhava into sequence.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Choreograph movement to a given jati",
+        "Set abhinaya to a given devaranama or lyric",
+        "Justify the choices made in a composition"
+      ],
+      "assessmentPrompt": "Can {{name}} make their own dance — turning a rhythm or a song into choreography that works?",
+      "standards": [
+        "ksgh-music-exams:DAN.L4.P2"
+      ]
+    },
+    {
+      "id": "mt_fDZmqBnmwo",
+      "type": "PROCEDURAL",
+      "subject": "Dance",
+      "domain": "Abhinaya",
+      "name": "The Bhedas: Head, Eyes, Neck and Brows",
+      "description": "Train the dancer’s expressive instrument — the shiro (head), drishti (eye), griva (neck) and bhru (brow) bhedas of the Abhinaya Darpana, each with its shloka.",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Demonstrate the head and eye bhedas",
+        "Demonstrate the neck and brow bhedas",
+        "Recite the shloka for a bheda set"
+      ],
+      "assessmentPrompt": "Can {{name}} move head, eyes, neck and brows through their classical positions — and name them?",
+      "standards": [
+        "ksgh-music-exams:DAN.L1.P1"
+      ]
+    },
+    {
+      "id": "mt_YGHLZMRiQv",
+      "type": "PROCEDURAL",
+      "subject": "Dance",
+      "domain": "Abhinaya",
+      "name": "The Hasta Mudras",
+      "description": "Learn the hand-language of dance — the asamyukta (single-hand), samyukta (joined-hand) and nritta hastas of the Abhinaya Darpana, with their shlokas.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Show the asamyukta hastas in order with shloka",
+        "Show the samyukta hastas",
+        "Name the nritta hastas"
+      ],
+      "assessmentPrompt": "Can {{name}} speak with their hands — showing the single and joined hasta mudras with their verses?",
+      "standards": [
+        "ksgh-music-exams:DAN.L1.T1",
+        "ksgh-music-exams:DAN.L1.P1"
+      ]
+    },
+    {
+      "id": "mt_afSXkCkDQh",
+      "type": "PROCEDURAL",
+      "subject": "Dance",
+      "domain": "Abhinaya",
+      "name": "Using the Hastas: Viniyoga",
+      "description": "Put the hastas to work — the viniyogas (applications) of the asamyukta and samyukta hastas, and the devata hastas for the deities.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Demonstrate viniyogas of common hastas",
+        "Show the devata hastas",
+        "Use the right hasta to depict a given object or idea"
+      ],
+      "assessmentPrompt": "Can {{name}} use the hand gestures to actually say things — a deer, a king, a god — choosing the right hasta?",
+      "standards": [
+        "ksgh-music-exams:DAN.L2.P1",
+        "ksgh-music-exams:DAN.L2.T1"
+      ]
+    },
+    {
+      "id": "mt_jl1v8FSnEj",
+      "type": "PROCEDURAL",
+      "subject": "Dance",
+      "domain": "Abhinaya",
+      "name": "The Iconographic Hastas",
+      "description": "Master the specialised hasta sets — navagraha (nine planets), bandhava (kinship), dashavatara (ten avatars) and chaturvarna hastas — with their shlokas.",
+      "ageRangeStart": 12,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Show the navagraha hastas with shloka",
+        "Show the bandhava hastas",
+        "Show the dashavatara hastas"
+      ],
+      "assessmentPrompt": "Can {{name}} show the specialised hasta sets — planets, kinship, the ten avatars — with their verses?",
+      "standards": [
+        "ksgh-music-exams:DAN.L3.T2",
+        "ksgh-music-exams:DAN.L3.P1",
+        "ksgh-music-exams:DAN.L4.T1"
+      ]
+    },
+    {
+      "id": "mt_Otu7bTU047",
+      "type": "CONCEPTUAL",
+      "subject": "Dance",
+      "domain": "Abhinaya",
+      "name": "The Four Abhinayas",
+      "description": "Understand the four channels of dramatic expression — angika (body), vachika (voice), aharya (costume and makeup) and satvika (inner feeling) — and the pada bhedas of movement.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Name and explain the four abhinayas",
+        "Give an example of each channel in performance",
+        "Demonstrate the pada bhedas"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the four ways a dancer expresses — body, voice, costume and feeling — with examples?",
+      "standards": [
+        "ksgh-music-exams:DAN.L2.T1"
+      ]
+    },
+    {
+      "id": "mt_dlJxhMDt29",
+      "type": "CONCEPTUAL",
+      "subject": "Dance",
+      "domain": "Abhinaya",
+      "name": "The Navarasas",
+      "description": "Know the nine rasas — the sentiments dance evokes, from shringara (love) and hasya (mirth) to karuna (compassion) and shanta (peace) — and show them in the face.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Name the nine rasas",
+        "Show several rasas in facial expression",
+        "Match a story moment to its rasa"
+      ],
+      "assessmentPrompt": "Can {{name}} name the nine rasas and show them — love, laughter, fury, wonder — in their face?",
+      "standards": [
+        "ksgh-music-exams:DAN.L2.T2"
+      ]
+    },
+    {
+      "id": "mt_kfB7ScBRlH",
+      "type": "CONCEPTUAL",
+      "subject": "Dance",
+      "domain": "Abhinaya",
+      "name": "Rasa Theory and Nayaka-Nayika Bhava",
+      "description": "Go deeper into aesthetics — the rasa-sutra and its interpretations, the bhava machinery (sthayi, vibhava, anubhava, vyabhichari, satvika), and the classification of nayaka and nayika.",
+      "ageRangeStart": 12,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "State the rasa-sutra and explain its terms",
+        "Distinguish the kinds of bhava",
+        "Classify a nayika from a padam’s situation"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how rasa arises — the theory behind the feeling — and read a padam’s heroine by her type?",
+      "standards": [
+        "ksgh-music-exams:DAN.L3.T1",
+        "ksgh-music-exams:DAN.L4.P1"
+      ]
+    },
+    {
+      "id": "mt_wrHpuuIN1i",
+      "type": "CONCEPTUAL",
+      "subject": "Dance",
+      "domain": "Dance Traditions",
+      "name": "India's Eight Classical Dances",
+      "description": "Know India’s eight classical dance forms — Bharatanatyam, Kuchipudi, Mohiniyattam, Kathakali, Kathak, Manipuri, Odissi and Sattriya — their origins, costume and character.",
+      "ageRangeStart": 8,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Name the eight classical dances and their regions",
+        "Describe the costume or style of several forms",
+        "Distinguish two forms by their look and movement"
+      ],
+      "assessmentPrompt": "Can {{name}} name India’s eight classical dances and tell a few of them apart by costume and style?",
+      "standards": [
+        "ksgh-music-exams:DAN.L1.T1",
+        "ksgh-music-exams:DAN.L2.T2"
+      ]
+    },
+    {
+      "id": "mt_T1bidoPg7O",
+      "type": "CONCEPTUAL",
+      "subject": "Dance",
+      "domain": "Dance Traditions",
+      "name": "Folk Dances of South India",
+      "description": "Know the folk dance traditions of Karnataka — Kamsale, Dollu Kunitha, Veeragase, Kolata and others — and the folk dances of the neighbouring southern states.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Name Karnataka folk dances",
+        "Describe a folk dance’s occasion or community",
+        "Distinguish folk from classical dance"
+      ],
+      "assessmentPrompt": "Can {{name}} name Karnataka’s folk dances — like Dollu Kunitha and Kolata — and say when they are danced?",
+      "standards": [
+        "ksgh-music-exams:DAN.L2.T2",
+        "ksgh-music-exams:DAN.L3.T2"
+      ]
+    },
+    {
+      "id": "mt_IVYtVjYX2J",
+      "type": "CONCEPTUAL",
+      "subject": "Dance",
+      "domain": "Dance Traditions",
+      "name": "Nataraja: The Lord of Dance",
+      "description": "Understand the Nataraja image — Shiva as cosmic dancer — its symbolism, and the sapta tandavas, the seven forms of his dance.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Explain the elements of the Nataraja image",
+        "Tell what the dance of Shiva symbolises",
+        "Name the sapta tandavas"
+      ],
+      "assessmentPrompt": "Can {{name}} read the Nataraja image — the drum, the flame, the dwarf underfoot — and say what the dance means?",
+      "standards": [
+        "ksgh-music-exams:DAN.L2.T1",
+        "ksgh-music-exams:DAN.L4.T1"
+      ]
+    },
+    {
+      "id": "mt_uLsk3esIOH",
+      "type": "CONCEPTUAL",
+      "subject": "Dance",
+      "domain": "Dance Traditions",
+      "name": "The Dance Treatises and Dance-Drama",
+      "description": "Know the treatises that codify dance — Natyashastra, Abhinaya Darpana, Dasharupaka, Sangeeta Ratnakara, Lasyaranjana — and the dance-drama traditions like Yakshagana and Bhagavata Mela.",
+      "ageRangeStart": 12,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Name the major dance treatises",
+        "Describe a dance-drama tradition such as Yakshagana",
+        "Explain what a treatise contributes to practice"
+      ],
+      "assessmentPrompt": "Can {{name}} name the great dance texts and describe a dance-drama tradition like Yakshagana?",
+      "standards": [
+        "ksgh-music-exams:DAN.L3.T2"
+      ]
+    },
+    {
+      "id": "mt_NFQOZrudf4",
+      "type": "CONCEPTUAL",
+      "subject": "Dance",
+      "domain": "Dance Traditions",
+      "name": "Pioneers and Revivalists of Indian Dance",
+      "description": "Know the great dancers and revivalists — Balasaraswati, Birju Maharaj, Kelucharan Mohapatra, Rukmini Devi Arundale, E. Krishna Iyer — the guru-shishya parampara, and how classical dance was renewed in the twentieth century.",
+      "ageRangeStart": 12,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name pioneers of several classical forms",
+        "Explain the dance revival of the twentieth century",
+        "Explain the guru-shishya parampara"
+      ],
+      "assessmentPrompt": "Can {{name}} name the masters who carried and revived Indian dance, and explain how it is passed from guru to shishya?",
+      "standards": [
+        "ksgh-music-exams:DAN.L4.T1",
+        "ksgh-music-exams:DAN.L4.T2"
+      ]
+    },
+    {
+      "id": "mt_V9aXu51m1R",
+      "type": "CONCEPTUAL",
+      "subject": "Dance",
+      "domain": "Dance Traditions",
+      "name": "Contemporary Dance and the Stage",
+      "description": "Understand dance beyond the classical margam — Uday Shankar and contemporary Indian dance, the origins of Western ballet, and the stagecraft (space, sound, light) that frames a performance.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describe Uday Shankar’s contribution",
+        "Sketch the origins of Western ballet",
+        "Explain the staging needs of a dance performance"
+      ],
+      "assessmentPrompt": "Can {{name}} talk about dance beyond the classical repertoire — contemporary work, ballet, and what a stage needs?",
+      "standards": [
+        "ksgh-music-exams:DAN.L4.T2"
+      ]
+    },
+    {
+      "id": "mt_WTy7OWlAsC",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "The Varisai Exercises",
+      "description": "Learn the first exercises of Carnatic music — sarale and janti varisai, then datu and the upper- and lower-register varisais — sung to swara names in raga Mayamalavagaula, in three speeds.",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Sing sarale and janti varisai in three speeds",
+        "Sing datu and sthayi varisais",
+        "Hold the raga and tala steadily through an exercise"
+      ],
+      "assessmentPrompt": "Can {{name}} sing the beginning exercises — sarali and janta varisai — cleanly in three speeds?",
+      "standards": [
+        "ksgh-music-exams:CAR.L1.P1"
+      ]
+    },
+    {
+      "id": "mt_Ub2YTtaGh8",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "The Sapta Tala Alankaras",
+      "description": "Sing the alankaras — melodic patterns set to each of the seven talas — joining swara practice to the tala system for the first time.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Sing the seven alankaras keeping their talas",
+        "Name the tala of each alankara",
+        "Sing an alankara in more than one speed"
+      ],
+      "assessmentPrompt": "Can {{name}} sing the seven alankaras, keeping each one’s tala correctly?",
+      "standards": [
+        "ksgh-music-exams:CAR.L1.P1"
+      ]
+    },
+    {
+      "id": "mt_UT23llXHdc",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "Geetams and Jatiswaras",
+      "description": "Sing the first songs — pillari, sanchari and lakshana geetams and the jatiswaras — simple compositions that carry the learner from exercises into music.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Sing pillari and sanchari geetams",
+        "Sing a jatiswara",
+        "Explain what a lakshana geetam teaches about its raga"
+      ],
+      "assessmentPrompt": "Can {{name}} sing the first geetams — like Lambodara — and a jatiswara, with correct swara and tala?",
+      "standards": [
+        "ksgh-music-exams:CAR.L1.P1"
+      ]
+    },
+    {
+      "id": "mt_u9kDfonMnz",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "The Tala System: Sapta Talas to 35",
+      "description": "Understand the Carnatic tala system — the seven talas and their angas, the five jatis, and how they combine into the 35-tala scheme — with aksharakala as the unit of time.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Name the sapta talas and their angas",
+        "Explain how five jatis give 35 talas",
+        "Count a tala cycle showing its angas"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the seven talas and how the five jatis expand them into thirty-five?",
+      "standards": [
+        "ksgh-music-exams:CAR.L1.T1",
+        "ksgh-music-exams:CAR.L2.T1"
+      ]
+    },
+    {
+      "id": "mt_Q1wTDIYcWQ",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "Janaka and Janya Ragas",
+      "description": "Understand how Carnatic ragas are organised — parent (janaka) and derived (janya) ragas, upanga, bhashanga and vakra varieties — and read a raga by its arohana and avarohana.",
+      "ageRangeStart": 8,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Distinguish janaka from janya ragas",
+        "State the arohana/avarohana of familiar ragas",
+        "Recognise upanga, bhashanga and vakra varieties"
+      ],
+      "assessmentPrompt": "Can {{name}} explain parent and derived ragas, and give the ascent and descent of ragas they sing?",
+      "standards": [
+        "ksgh-music-exams:CAR.L1.T1"
+      ]
+    },
+    {
+      "id": "mt_A1w86t07vK",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "Learning Varnas",
+      "description": "Learn the tanavarna — the concentrated form that trains raga, tala and stamina together — first in one speed, growing to Adi and Ata tala varnas in two and three speeds.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Sing a tanavarna in one speed",
+        "Sing an Adi-tala varna in two speeds",
+        "Explain the varna’s parts (pallavi, anupallavi, charanas)"
+      ],
+      "assessmentPrompt": "Can {{name}} sing a varna — the form every Carnatic musician trains on — with its structure intact?",
+      "standards": [
+        "ksgh-music-exams:CAR.L1.P2",
+        "ksgh-music-exams:CAR.L2.P2",
+        "ksgh-music-exams:CAR.L3.P1"
+      ]
+    },
+    {
+      "id": "mt_TPQPnTq3yX",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "Building a Kriti Repertoire",
+      "description": "Build a repertoire of kritis — the central Carnatic form — in medium and slow tempos across the common ragas and talas, including the Ghanaraga Pancharatna kritis.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Sing madhyama-kala and vilamba-kala kritis",
+        "Sing a Pancharatna kriti",
+        "Name the raga, tala and composer of each kriti sung"
+      ],
+      "assessmentPrompt": "Can {{name}} sing a growing set of kritis — naming each one’s raga, tala and composer?",
+      "standards": [
+        "ksgh-music-exams:CAR.L1.P2",
+        "ksgh-music-exams:CAR.L2.P3",
+        "ksgh-music-exams:CAR.L2.P2"
+      ]
+    },
+    {
+      "id": "mt_zwwoRQfv7u",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "Dasara Padas and Vachanas",
+      "description": "Sing Karnataka’s devotional repertoire — the dasara padas of the Haridasas and the vachanas of the Shivasharanas — alongside the classical forms.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Sing dasara kirtanas",
+        "Sing shivasharana vachanas",
+        "Tell what a pada or vachana is saying"
+      ],
+      "assessmentPrompt": "Can {{name}} sing the songs of the Haridasas and the vachanas — and say what they mean?",
+      "standards": [
+        "ksgh-music-exams:CAR.L1.P2",
+        "ksgh-music-exams:CAR.L2.P3",
+        "ksgh-music-exams:CAR.L4.P2"
+      ]
+    },
+    {
+      "id": "mt_EpHdDAJUEz",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "Writing Music: Carnatic Notation",
+      "description": "Write music down — the Carnatic notation (sangeeta lipi) for swara, tala and sahitya — and notate the compositions already learned.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Write a learned exercise or geetam in notation",
+        "Read an unfamiliar line from notation",
+        "Mark tala angas correctly in written music"
+      ],
+      "assessmentPrompt": "Can {{name}} write down a geetam or varna in notation, and sing from notation they haven’t seen?",
+      "standards": [
+        "ksgh-music-exams:CAR.L2.T1"
+      ]
+    },
+    {
+      "id": "mt_0uPbdIFWUW",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "The 72 Melakartas and Katapayadi",
+      "description": "Understand the melakarta scheme — how 72 parent scales arise, their chakra organisation, and the katapayadi sutra that encodes each raga’s number in its name.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 14,
+      "centrality": null,
+      "evidence": [
+        "Explain how the 72 melakartas are constructed",
+        "Use the katapayadi sutra to find a mela number",
+        "Place a janya raga under its melakarta"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the 72 melakarta system and decode a raga’s number from its name?",
+      "standards": [
+        "ksgh-music-exams:CAR.L2.T1"
+      ]
+    },
+    {
+      "id": "mt_8xUzdI05j3",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "Raga Lakshana Study",
+      "description": "Study ragas one by one — their lakshana: arohana/avarohana, jeeva and nyasa swaras, vadi-samvadi relations, gamakas and characteristic phrases — across a growing list from 18 to over 100 ragas.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 14,
+      "centrality": null,
+      "evidence": [
+        "Give the lakshana of ragas from the graded lists",
+        "Identify a raga from its phrases",
+        "Compare two similar ragas by their lakshana"
+      ],
+      "assessmentPrompt": "Can {{name}} describe ragas precisely — their notes, life-tones and turns of phrase — and tell close ragas apart?",
+      "standards": [
+        "ksgh-music-exams:CAR.L1.T1",
+        "ksgh-music-exams:CAR.L2.T2",
+        "ksgh-music-exams:CAR.L3.T1",
+        "ksgh-music-exams:CAR.L4.T1"
+      ]
+    },
+    {
+      "id": "mt_Pn8QJtLRuH",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "The Haridasa and Mysore Traditions",
+      "description": "Know Karnataka’s own musical lineages — the Haridasas from Sripadaraya and Purandaradasa to Vijayadasa, and the Mysore court school of Veena Sheshanna, Mysore Sadashivarao and Mysore Vasudevacharya.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Name Haridasa composers and their contribution",
+        "Name Mysore-school musicians",
+        "Explain the vachana tradition’s place in Kannada music"
+      ],
+      "assessmentPrompt": "Can {{name}} tell the story of Karnataka’s own composers — the Haridasas and the Mysore court school?",
+      "standards": [
+        "ksgh-music-exams:CAR.L1.T1",
+        "ksgh-music-exams:CAR.L2.T2",
+        "ksgh-music-exams:CAR.L3.T2"
+      ]
+    },
+    {
+      "id": "mt_woAHR1QziS",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "Raga Alapana",
+      "description": "Begin manodharma — improvising a raga’s alapana, from brief sketches to mature elaborations, unfolding the raga’s shape without words or tala.",
+      "ageRangeStart": 12,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Sing a brief alapana of a familiar raga",
+        "Grow an alapana through its stages",
+        "Stay within the raga’s lakshana while improvising"
+      ],
+      "assessmentPrompt": "Can {{name}} improvise an alapana — unfolding a raga in their own phrases while keeping its character?",
+      "standards": [
+        "ksgh-music-exams:CAR.L3.P2",
+        "ksgh-music-exams:CAR.L4.T1"
+      ]
+    },
+    {
+      "id": "mt_C9R5hccKUu",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "Neraval and Swarakalpana",
+      "description": "Improvise within the composition — neraval, elaborating one line of sahitya, and swarakalpana, spinning solfa passages that land back on the theme.",
+      "ageRangeStart": 12,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Sing neraval on a kriti line",
+        "Sing sarvalaghu swarakalpana ending on the eduppu",
+        "Combine jati and gati variety in swara passages"
+      ],
+      "assessmentPrompt": "Can {{name}} take one line of a kriti and elaborate it — then improvise swaras that land home on the beat?",
+      "standards": [
+        "ksgh-music-exams:CAR.L3.P2",
+        "ksgh-music-exams:CAR.L4.T1"
+      ]
+    },
+    {
+      "id": "mt_2zZTQy61Ed",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "The 22 Shrutis",
+      "description": "Understand the microtonal foundation — how the 22 shrutis arise from shadja-panchama and shadja-madhyama cycles, and how ragas select among them.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain how the 22 shrutis arise",
+        "Distinguish pramana, nyuna and poorna shruti",
+        "Relate shruti choice to a raga’s colour"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the 22 shrutis — the fine intervals beneath the twelve notes — and why ragas sound the way they do?",
+      "standards": [
+        "ksgh-music-exams:CAR.L4.T1"
+      ]
+    },
+    {
+      "id": "mt_LGGMlzrdqD",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "The Musicological Treatises",
+      "description": "Know the texts that theorised the music — from the Natyashastra and Brihaddeshi through the Sangita Ratnakara and Chaturdandi Prakashika to the Sangita Sampradaya Pradarshini.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name the major treatises in order",
+        "State what each contributed",
+        "Explain how the melakarta scheme emerged from the treatises"
+      ],
+      "assessmentPrompt": "Can {{name}} trace the great music treatises and what each added to the tradition?",
+      "standards": [
+        "ksgh-music-exams:CAR.L3.T2"
+      ]
+    },
+    {
+      "id": "mt_tEcnltwtuz",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "Pallavi Singing",
+      "description": "Master the pallavi — composing and singing a single line across kalai tiers with anuloma-viloma-pratiloma manipulation, neraval and swarakalpana — the summit of tala-craft.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Render a pallavi in multiple kalais",
+        "Apply anuloma and pratiloma to the line",
+        "Improvise neraval and swaras within the pallavi"
+      ],
+      "assessmentPrompt": "Can {{name}} sing a pallavi — stretching and compressing one line across the tala in every direction?",
+      "standards": [
+        "ksgh-music-exams:CAR.L4.P1"
+      ]
+    },
+    {
+      "id": "mt_Cb5qBmZwH8",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "Geya Nataka: The Musical Operas",
+      "description": "Study one complete musical drama — Prahlada Bhakti Vijaya, Nauka Charitra, Krishna Leela Tarangini, Pallaki Seva Prabandha or the Geeta Govinda — music carrying an entire story.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Outline the chosen opera’s story and structure",
+        "Sing pieces from it in context",
+        "Explain its place in the composer’s work"
+      ],
+      "assessmentPrompt": "Can {{name}} take one musical opera — like Tyagaraja’s Nauka Charitra — and know it whole: story, songs and setting?",
+      "standards": [
+        "ksgh-music-exams:CAR.L4.T2A"
+      ]
+    },
+    {
+      "id": "mt_alTE2TYmpQ",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "Laya and Percussion in Concert",
+      "description": "Understand the rhythm side of the concert — tala versus laya, the percussion vocabulary from mohara to muktaya, the tani avartanam, and the great laya vidwans.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguish tala from laya",
+        "Explain the tani avartanam and its stages",
+        "Name great mridangam vidwans"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what happens in a tani avartanam — and the craft of the drummers who play it?",
+      "standards": [
+        "ksgh-music-exams:CAR.L4.T2B"
+      ]
+    },
+    {
+      "id": "mt_FrbFaRvafB",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "name": "The Carnatic Kacheri",
+      "description": "Give a concert — the kacheri format from varna through kritis with full manodharma to the tani avartanam and closing pieces, with accompanists.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Plan a balanced kacheri list",
+        "Perform with violin and mridangam accompaniment",
+        "Lead a main item with alapana, neraval and swaraprastara"
+      ],
+      "assessmentPrompt": "Can {{name}} carry a real concert — choosing the list, leading the ensemble, and delivering a main item in full?",
+      "standards": [
+        "ksgh-music-exams:CAR.L4.P3"
+      ]
+    },
+    {
+      "id": "mt_SaSLJPjukM",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "Alankars and Paltas",
+      "description": "Sing the first Hindustani exercises — alankars and paltas — in single, double and quadruple speed (thaay, dugun, chougun), learning shuddha and komal swaras by ear and voice.",
+      "ageRangeStart": 6,
+      "ageRangeEnd": 9,
+      "centrality": null,
+      "evidence": [
+        "Sing basic alankars in thaay, dugun and chougun",
+        "Sing and identify shuddha and vikrit swaras",
+        "Keep the taal while singing an exercise"
+      ],
+      "assessmentPrompt": "Can {{name}} sing the beginning alankars in three speeds, telling natural notes from flattened ones?",
+      "standards": [
+        "ksgh-music-exams:HIN.L1.P1"
+      ]
+    },
+    {
+      "id": "mt_j1cbCezgfx",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "Sargam and Lakshan Geets",
+      "description": "Sing the first songs — sargam geets sung to note-names, and lakshan geets whose words teach the raga’s own rules.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Sing a sargam geet in a syllabus raga",
+        "Sing a lakshan geet and say what it teaches about its raga",
+        "Hold sthayi and antara structure"
+      ],
+      "assessmentPrompt": "Can {{name}} sing sargam and lakshan geets — songs that teach the raga while you sing it?",
+      "standards": [
+        "ksgh-music-exams:HIN.L1.P1",
+        "ksgh-music-exams:HIN.L1.P2"
+      ]
+    },
+    {
+      "id": "mt_4stg0HKYek",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "The First Ragas",
+      "description": "Know the first sixteen ragas — Bhoopali, Des, Khamaj, Bhairav, Malkauns and their companions — their aaroha-avaroha, pakad, vaadi-samvaadi and singing time, and recognise them by ear.",
+      "ageRangeStart": 8,
+      "ageRangeEnd": 11,
+      "centrality": null,
+      "evidence": [
+        "Give the classical details of the primary ragas",
+        "Identify a primary raga sung by another",
+        "Sing the pakad of familiar ragas"
+      ],
+      "assessmentPrompt": "Can {{name}} describe and recognise the first Hindustani ragas — like Bhoopali and Bhairav — by their signs?",
+      "standards": [
+        "ksgh-music-exams:HIN.L1.T1",
+        "ksgh-music-exams:HIN.L1.P1",
+        "ksgh-music-exams:HIN.L1.P2"
+      ]
+    },
+    {
+      "id": "mt_mhBlP6OtzA",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "The Hindustani Taals",
+      "description": "Understand the Hindustani taal system — sam, khaali and vibhag, the theka — and keep the core taals: Teentaal, Ektaal, Rooptaal, Rupak, Dadra, Keharwa, Chautaal.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Clap a taal showing sam and khaali",
+        "Recite the theka of the core taals",
+        "Recognise a taal from its theka"
+      ],
+      "assessmentPrompt": "Can {{name}} keep the great Hindustani taals — clapping sam and khaali — and say their thekas?",
+      "standards": [
+        "ksgh-music-exams:HIN.L1.T1",
+        "ksgh-music-exams:TAB.L1"
+      ]
+    },
+    {
+      "id": "mt_JMHgBx7bLP",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "The Chota Khayal",
+      "description": "Sing the chota khayal — the fast composition at the heart of the tradition — with sthayi and antara, and four aalaps and four taans of one’s own.",
+      "ageRangeStart": 9,
+      "ageRangeEnd": 12,
+      "centrality": null,
+      "evidence": [
+        "Sing a chota khayal with correct sthayi-antara",
+        "Add aalap before and taan within the khayal",
+        "Name the raga and taal of each khayal sung"
+      ],
+      "assessmentPrompt": "Can {{name}} sing a chota khayal with their own aalap and taan?",
+      "standards": [
+        "ksgh-music-exams:HIN.L1.P1",
+        "ksgh-music-exams:HIN.L1.P2",
+        "ksgh-music-exams:HIN.L2.P1"
+      ]
+    },
+    {
+      "id": "mt_dIoZAsEo60",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "Bhatkhande and Paluskar Notation",
+      "description": "Write Hindustani music — the Bhatkhande and Paluskar swaralipi and taallipi systems — notating khayals and taals accurately.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Write a chota khayal in Bhatkhande notation",
+        "Write a taal in taal-lipi with its markings",
+        "Read an unseen line from notation"
+      ],
+      "assessmentPrompt": "Can {{name}} write a khayal down in Bhatkhande notation and read music back from the page?",
+      "standards": [
+        "ksgh-music-exams:HIN.L1.T1",
+        "ksgh-music-exams:HIN.L2.T2"
+      ]
+    },
+    {
+      "id": "mt_OG0Z4jhx9o",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "Meend, Gamak and the Ornaments",
+      "description": "Master the ornaments that give Hindustani music its curve — meend, gamak, andolan, kan swar, khatka and murki — and use them within the raga.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Demonstrate meend and gamak",
+        "Use khatka and murki in a phrase",
+        "Name the ornament heard in a phrase"
+      ],
+      "assessmentPrompt": "Can {{name}} bend and grace the notes — meend, gamak, murki — the way the style demands?",
+      "standards": [
+        "ksgh-music-exams:HIN.L2.T1"
+      ]
+    },
+    {
+      "id": "mt_zuoIWNDLly",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "The Art of Taan",
+      "description": "Command the taan in its varieties — saral, vakra, alankarik, bol, koota and the rest — the fast passages that crown a khayal.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 14,
+      "centrality": null,
+      "evidence": [
+        "Sing saral and vakra taans in a raga",
+        "Sing a bol taan on the composition’s words",
+        "Keep the taal through fast taan passages"
+      ],
+      "assessmentPrompt": "Can {{name}} sing the different kinds of taan — straight, crooked, worded — cleanly inside the taal?",
+      "standards": [
+        "ksgh-music-exams:HIN.L2.T1",
+        "ksgh-music-exams:HIN.L2.P1",
+        "ksgh-music-exams:HIN.L2.P2"
+      ]
+    },
+    {
+      "id": "mt_DdSeJT46GX",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "The Bada Khayal",
+      "description": "Sing the bada khayal — the slow, vast form in vilambit taals like Ektaal and Tilwada — unfolding the raga patiently before the fast khayal.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 14,
+      "centrality": null,
+      "evidence": [
+        "Sing a bada khayal in a vilambit taal",
+        "Develop the sthayi with unhurried aalap",
+        "Pair the bada khayal with its chota khayal"
+      ],
+      "assessmentPrompt": "Can {{name}} sing a bada khayal — holding the slow cycle and letting the raga open gradually?",
+      "standards": [
+        "ksgh-music-exams:HIN.L2.T2",
+        "ksgh-music-exams:HIN.L2.P1",
+        "ksgh-music-exams:HIN.L2.P2"
+      ]
+    },
+    {
+      "id": "mt_ZFYlbKAx45",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "Dhrupad and Dhamar",
+      "description": "Sing the oldest forms — dhrupad in Chautaal and dhamar in its own fourteen-beat taal — with the layakari of thaay, dugun and chougun.",
+      "ageRangeStart": 10,
+      "ageRangeEnd": 13,
+      "centrality": null,
+      "evidence": [
+        "Sing a dhrupad in laya tiers",
+        "Sing a dhamar",
+        "Show the doubling and quadrupling of the text against the taal"
+      ],
+      "assessmentPrompt": "Can {{name}} sing dhrupad and dhamar, doubling and redoubling the words against the beat?",
+      "standards": [
+        "ksgh-music-exams:HIN.L2.P3",
+        "ksgh-music-exams:HIN.L3.P1"
+      ]
+    },
+    {
+      "id": "mt_CgLON8TCuY",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "Thumri, Tarana and the Lighter Forms",
+      "description": "Sing the expressive and virtuoso forms — thumri in ragas like Kafi and Khamaj, tarana on its syllables, chaturang joining four elements — beside bhajan and vachana.",
+      "ageRangeStart": 12,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Present a tarana",
+        "Present a thumri with expressive freedom",
+        "Sing a chaturang"
+      ],
+      "assessmentPrompt": "Can {{name}} colour a thumri, drive a tarana, and explain what makes these forms lighter?",
+      "standards": [
+        "ksgh-music-exams:HIN.L2.P3",
+        "ksgh-music-exams:HIN.L3.P2",
+        "ksgh-music-exams:HIN.L4.P1"
+      ]
+    },
+    {
+      "id": "mt_S1GWaCOKnP",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "Raga, Rasa and Time",
+      "description": "Understand the deeper raga system — how ragas relate to rasa, to their singing time (gayan samay), and to allied ragas that differ by a hair — and how a raga is unfolded.",
+      "ageRangeStart": 12,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explain gayan samay with examples",
+        "Compare two allied ragas",
+        "Explain how a raga is progressively unfolded"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why ragas belong to hours of the day, and tell apart two ragas that nearly share their notes?",
+      "standards": [
+        "ksgh-music-exams:HIN.L3.T2"
+      ]
+    },
+    {
+      "id": "mt_iraBkapEqx",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "The Gharanas",
+      "description": "Know the gharana tradition — the family-lineages of style, their history and founders from Gwalior to Kirana, and how gharana shapes a musician’s singing.",
+      "ageRangeStart": 12,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explain what a gharana is",
+        "Name gharanas and founding masters",
+        "Describe a stylistic difference between gharanas"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the gharana system — the family styles of Hindustani music — and name some of its great houses?",
+      "standards": [
+        "ksgh-music-exams:HIN.L3.T1",
+        "ksgh-music-exams:HIN.L3.T2"
+      ]
+    },
+    {
+      "id": "mt_W4cBoaGg1b",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "Elaborating the Raga: Vistaar",
+      "description": "Carry a raga for half an hour and more — the elaborated bada and chota khayal, anibaddha and nibaddha development, aalap through layakari to taan — the mature art of raga presentation.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Elaborate a bada khayal over 30–45 minutes",
+        "Balance unmetered and metered development",
+        "Sustain the raga’s character throughout"
+      ],
+      "assessmentPrompt": "Can {{name}} hold a raga for half an hour — building it from silence to full flight without losing its face?",
+      "standards": [
+        "ksgh-music-exams:HIN.L3.P1",
+        "ksgh-music-exams:HIN.L3.P2",
+        "ksgh-music-exams:HIN.L4.P1",
+        "ksgh-music-exams:HIN.L4.P2"
+      ]
+    },
+    {
+      "id": "mt_Kpc84FlHIt",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "The Baithak",
+      "description": "Give the formal recital — a full khayal presentation with harmonium and tabla, judged on purity of swara and raga, imagination, layakari and impact.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Present a full khayal with accompaniment",
+        "Coordinate with harmonium and tabla",
+        "Sustain purity and impact under assessment"
+      ],
+      "assessmentPrompt": "Can {{name}} sit for a baithak — a real recital with accompanists — and carry it from first breath to close?",
+      "standards": [
+        "ksgh-music-exams:HIN.L4.P3"
+      ]
+    },
+    {
+      "id": "mt_Fg7EKvYK6x",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "Hindustani Music: History and Treatises",
+      "description": "Trace Hindustani music’s history from the Vedic period through the treatises — Natyashastra, Brihaddeshi, Sangeeta Ratnakara to Bhatkhande’s modern system — and its meeting with the Carnatic tradition.",
+      "ageRangeStart": 13,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Outline the history of Indian music by period",
+        "Name the treatises and Bhatkhande’s works",
+        "Compare the Hindustani and Carnatic systems in outline"
+      ],
+      "assessmentPrompt": "Can {{name}} trace how Hindustani music came to be — from the Vedas to Bhatkhande — and how it differs from the Carnatic south?",
+      "standards": [
+        "ksgh-music-exams:HIN.L4.T1",
+        "ksgh-music-exams:HIN.L4.T2"
+      ]
+    },
+    {
+      "id": "mt_e8duqtU5r1",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "Playing Tabla: Bols and Thekas",
+      "description": "Begin tabla — the instrument’s parts, the ten basic bols, the thekas of the core taals in single and double speed, and the first kaydas with paltas and tihai.",
+      "ageRangeStart": 7,
+      "ageRangeEnd": 10,
+      "centrality": null,
+      "evidence": [
+        "Play the ten basic bols cleanly",
+        "Play core thekas with dugun and chougun",
+        "Play a kayda with paltas and a tihai"
+      ],
+      "assessmentPrompt": "Can {{name}} play the basic tabla strokes and keep the great thekas — finishing a kayda with a tihai?",
+      "standards": [
+        "ksgh-music-exams:TAB.L1"
+      ]
+    },
+    {
+      "id": "mt_wvASfFax9I",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "The Tabla Solo",
+      "description": "Build the solo art — peshkar, kayda, mukhda, tukda, paran and chakradar — into extended solos, drawing on the styles of the six gharanas.",
+      "ageRangeStart": 11,
+      "ageRangeEnd": 14,
+      "centrality": null,
+      "evidence": [
+        "Play an extended solo with the canonical sections",
+        "Play kaydas in different gharana styles",
+        "Compose a new mukhda or tihai"
+      ],
+      "assessmentPrompt": "Can {{name}} sit for a tabla solo — peshkar through chakradar — with the shape the tradition expects?",
+      "standards": [
+        "ksgh-music-exams:TAB.L2",
+        "ksgh-music-exams:TAB.L3",
+        "ksgh-music-exams:TAB.L4"
+      ]
+    },
+    {
+      "id": "mt_RJz8T7TWGq",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "name": "Saath-Sangat: The Art of Accompaniment",
+      "description": "Accompany music — finding the sam, holding vilambit thekas under a bada khayal, laggi for thumri — the listening art of saath-sangat.",
+      "ageRangeStart": 12,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Find sam and taal from another’s singing",
+        "Accompany a khayal with a steady vilambit theka",
+        "Close a thumri accompaniment with laggi"
+      ],
+      "assessmentPrompt": "Can {{name}} accompany a singer — catching the sam, breathing with the khayal, sparkling in the laggi?",
+      "standards": [
+        "ksgh-music-exams:TAB.L1",
+        "ksgh-music-exams:TAB.L2",
+        "ksgh-music-exams:TAB.L4"
       ]
     }
   ]

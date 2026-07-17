@@ -8,6 +8,32 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### KSGH graded music & dance examinations — the performing-arts ladders (2026-07-17)
+
+New source `ksgh-music-exams`: the graded examination syllabus of the Karnataka
+State Dr. Gangubai Hangal Music and Performing Arts University, Mysuru (scanned
+Kannada, recovered via OCR agents cross-checked against page images; Marble-
+authored summaries only — no verbatim text, see PROVENANCE). Graded exams encode
+the ladder children actually climb, fixing the "arts are skeletons" gap:
+
+- **Carnatic Music** (18 standards, 4 levels) → the Music subject's Carnatic
+  domain grows 3 → 23 topics: the abhyasa gana ladder (varisai → alankara →
+  geetam → varna → kriti), the tala and melakarta systems, raga lakshana study,
+  Karnataka's Haridasa/Mysore lineages, manodharma (alapana, neraval,
+  swarakalpana), pallavi, the 22 shrutis, treatises, and the full kacheri.
+- **Hindustani Music** (21 standards incl. a parallel tabla ladder) → the
+  Hindustani domain grows 4 → 23 topics: alankars → sargam/lakshan geets →
+  chota/bada khayal → vistaar and the baithak; ornaments and taan; dhrupad/
+  dhamar; thumri/tarana; gharanas; raga-rasa-time; notation; and tabla (bols &
+  thekas → solo → saath-sangat).
+- **Dance** (16 standards, 4 levels) → a new **Dance** subject (23rd subject),
+  26 topics: the Bharatanatyam ladder (adavus → jatis → margam → kacheri →
+  choreography), abhinaya (bhedas, hastas, viniyoga, navarasa, rasa theory),
+  and dance traditions (eight classical forms, folk, Nataraja, treatises,
+  pioneers, contemporary).
+- 65 new topics, 92 edges, 18 clusters, 10 alignments of the earlier Music
+  sketch topics. Ages by grade level (primary ≈ 6, vidwat ≈ 14-16).
+
 ### Age correction — typical learning ages, not course-admission ages (2026-07-16)
 - The language, Sanskrit-stream, Music and Visual Arts topics from the NIOS
   Secondary integration had been stamped with the NIOS course admission age

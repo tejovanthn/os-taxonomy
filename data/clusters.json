@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 296,
+  "clusterCount": 314,
   "clusters": [
     {
       "subject": "English",
@@ -1777,6 +1777,114 @@
       "domain": "Indian Philosophy",
       "ageRangeStart": 12,
       "summary": "Your child is studying Indian philosophy proper — what darshana is, the astika and nastika schools from Charvaka to Vedanta, and a deep reading of Advaita: Brahman, Maya, and the path to liberation."
+    },
+    {
+      "subject": "Dance",
+      "domain": "Foundations of Dance",
+      "ageRangeStart": 6,
+      "summary": "Your child is building a dancer’s foundations — the story of dance’s origin, keeping tala, the training exercises and posture, and the instruments that accompany the dance."
+    },
+    {
+      "subject": "Dance",
+      "domain": "Bharatanatyam",
+      "ageRangeStart": 6,
+      "summary": "Your child is beginning Bharatanatyam — the ten basic adavus danced in three speeds, leading to their first full items like the Alarippu and Jatiswaram."
+    },
+    {
+      "subject": "Dance",
+      "domain": "Bharatanatyam",
+      "ageRangeStart": 9,
+      "summary": "Your child is growing their margam — adavus across the five jatis, and the central repertoire of Shabdam, Padavarnam, Javali and Tillana, learning to sing and conduct as well as dance."
+    },
+    {
+      "subject": "Dance",
+      "domain": "Bharatanatyam",
+      "ageRangeStart": 12,
+      "summary": "Your child is entering the senior repertoire — advanced adavu families, varnams of nayaka-nayika bhava, padas and vachanas."
+    },
+    {
+      "subject": "Dance",
+      "domain": "Bharatanatyam",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is reaching performance mastery — the full concert recital with narration, and composing choreography of their own."
+    },
+    {
+      "subject": "Dance",
+      "domain": "Abhinaya",
+      "ageRangeStart": 6,
+      "summary": "Your child is training the dancer’s expression — the classical movements of head, eyes, neck and brows, and the hasta mudras that let the hands speak."
+    },
+    {
+      "subject": "Dance",
+      "domain": "Abhinaya",
+      "ageRangeStart": 9,
+      "summary": "Your child is learning to mean things in dance — applying the hastas (viniyoga), the four channels of abhinaya, and the nine rasas shown in the face."
+    },
+    {
+      "subject": "Dance",
+      "domain": "Abhinaya",
+      "ageRangeStart": 12,
+      "summary": "Your teenager is mastering expressive depth — the specialised hasta sets, and the theory of rasa and nayaka-nayika bhava behind the repertoire."
+    },
+    {
+      "subject": "Dance",
+      "domain": "Dance Traditions",
+      "ageRangeStart": 8,
+      "summary": "Your child is discovering India’s dance heritage — the eight classical forms, the folk dances of the south, and the image of Nataraja, lord of dance."
+    },
+    {
+      "subject": "Dance",
+      "domain": "Dance Traditions",
+      "ageRangeStart": 12,
+      "summary": "Your teenager is studying dance as a tradition — its treatises and dance-drama forms, its pioneers and revivalists, and the contemporary stage."
+    },
+    {
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "ageRangeStart": 6,
+      "summary": "Your child is beginning Carnatic music — the sarali and janta varisai exercises sung to the swaras, in the traditional first raga, across three speeds."
+    },
+    {
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "ageRangeStart": 9,
+      "summary": "Your child is climbing the Carnatic ladder — varnas and kritis, the devotional padas and vachanas of Karnataka, and writing music in notation."
+    },
+    {
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "ageRangeStart": 12,
+      "summary": "Your teenager is entering manodharma — improvising alapana, neraval and swarakalpana — with deep raga study behind it."
+    },
+    {
+      "subject": "Music",
+      "domain": "Carnatic Music",
+      "ageRangeStart": 14,
+      "summary": "Your teenager is reaching concert readiness — pallavi singing, the musical operas, percussion scholarship, and the full kacheri with accompanists."
+    },
+    {
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "ageRangeStart": 6,
+      "summary": "Your child is beginning Hindustani music — alankars and paltas sung in three speeds, learning the natural and flattened notes by voice and ear."
+    },
+    {
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "ageRangeStart": 9,
+      "summary": "Your child is entering the khayal tradition — chota khayal with their own aalap and taan, the first sixteen ragas, notation, and the beginnings of tabla."
+    },
+    {
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "ageRangeStart": 11,
+      "summary": "Your child is deepening the art — bada khayal in slow cycles, the ornaments and taan varieties, dhrupad and dhamar, and the tabla solo."
+    },
+    {
+      "subject": "Music",
+      "domain": "Hindustani Music",
+      "ageRangeStart": 13,
+      "summary": "Your teenager is approaching mastery — half-hour raga elaborations, thumri and the lighter forms, the gharana tradition, accompaniment, and the formal baithak."
     }
   ]
 }

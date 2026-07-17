@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-07-16T09:58:01.761Z",
+  "generatedAt": "2026-07-17T16:26:53.807Z",
   "codesOnlySources": [
     "c3-social-studies",
     "ib-pyp-pspe",
@@ -9,11 +9,12 @@
     "ngss-ms"
   ],
   "counts": {
-    "topics": 1959,
+    "topics": 2024,
     "topicsBySubject": {
       "Accountancy": 14,
       "Business Studies": 17,
       "Computing": 39,
+      "Dance": 26,
       "Economics": 11,
       "English": 289,
       "Hindi": 13,
@@ -24,7 +25,7 @@
       "Learning to Learn": 18,
       "Life Skills": 37,
       "Mathematics": 519,
-      "Music": 10,
+      "Music": 49,
       "Personal & Social Development": 88,
       "Psychology": 21,
       "Sanskrit": 39,
@@ -34,28 +35,28 @@
       "Telugu": 5,
       "Visual Arts": 8
     },
-    "dependencies": 3670,
-    "curricula": 11,
-    "curriculumStandards": 3722,
-    "topicStandardLinks": 2685,
-    "clusters": 296
+    "dependencies": 3762,
+    "curricula": 12,
+    "curriculumStandards": 3777,
+    "topicStandardLinks": 2817,
+    "clusters": 314
   },
   "files": {
     "topics.json": {
-      "bytes": 2008647,
-      "sha256": "b0de694b30d27c18dc2fdd77e3bcdfb7f07bf6f20b1a898e0f579cc6031694a8"
+      "bytes": 2064212,
+      "sha256": "3e3d84901e4c0af2b0db1747e4ec91bef4f981bdc7487bc901ed66d651aeb9f4"
     },
     "dependencies.json": {
-      "bytes": 781803,
-      "sha256": "c3ec8b52e02490f0fb3d8a52389a68630f6aac8dd09568739d8db0f3e9413e80"
+      "bytes": 797945,
+      "sha256": "7d942ae98af0353de64ffe3d57fb759814ebfeb6609ad64415b62ea49b8b43c0"
     },
     "curriculum-standards.json": {
-      "bytes": 1853439,
-      "sha256": "0a411e6563bf847ee1819eda3e8229649700cd1a8f1055e412d05c182c90cbef"
+      "bytes": 1881365,
+      "sha256": "2eb5346a86773dfd620b5e237bbf196663411f82bfef4f0d77609c66d1ab16fd"
     },
     "clusters.json": {
-      "bytes": 92799,
-      "sha256": "aa70d63e5cd8487d49c3da4abfcb026c9cd30ba52ed9ef24fbb1fd6356d294da"
+      "bytes": 97632,
+      "sha256": "8f5ba8c38b031ec39245e0d5e23fa7dbce6739db09f12b246c99eafd081ec1d0"
     }
   },
   "excluded": [

@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3670,
+  "edgeCount": 3762,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -22022,6 +22022,558 @@
       "prerequisiteId": "mt_aClzPBiS9k",
       "strength": "soft",
       "reason": "Cross-language: the concept of poetic form and metre transfers to Hindi chhand"
+    },
+    {
+      "topicId": "mt_wzX2UsTmj5",
+      "prerequisiteId": "mt_EuGth6lA55",
+      "strength": "soft",
+      "reason": "Dance study builds on knowing India’s performing arts"
+    },
+    {
+      "topicId": "mt_pPvkcQcsUA",
+      "prerequisiteId": "mt_8qV5fqk15P",
+      "strength": "hard",
+      "reason": "Tala for dancers builds on understanding tala"
+    },
+    {
+      "topicId": "mt_22f8zTwuWL",
+      "prerequisiteId": "mt_3ANhUkcwYC",
+      "strength": "hard",
+      "reason": "The adavus require the dancer’s posture and conditioning"
+    },
+    {
+      "topicId": "mt_22f8zTwuWL",
+      "prerequisiteId": "mt_pPvkcQcsUA",
+      "strength": "soft",
+      "reason": "Adavus are danced to tala"
+    },
+    {
+      "topicId": "mt_3tU28HrkIw",
+      "prerequisiteId": "mt_22f8zTwuWL",
+      "strength": "hard",
+      "reason": "The jati matrix builds on the ten adavus"
+    },
+    {
+      "topicId": "mt_6YbQ2E1En5",
+      "prerequisiteId": "mt_3tU28HrkIw",
+      "strength": "hard",
+      "reason": "The advanced families extend the adavus in jatis"
+    },
+    {
+      "topicId": "mt_7HfIQOE7RC",
+      "prerequisiteId": "mt_22f8zTwuWL",
+      "strength": "hard",
+      "reason": "The first items are built from the adavus"
+    },
+    {
+      "topicId": "mt_7HfIQOE7RC",
+      "prerequisiteId": "mt_fDZmqBnmwo",
+      "strength": "soft",
+      "reason": "Items use the head and eye movements"
+    },
+    {
+      "topicId": "mt_7HfIQOE7RC",
+      "prerequisiteId": "mt_YGHLZMRiQv",
+      "strength": "soft",
+      "reason": "Items use the hasta mudras"
+    },
+    {
+      "topicId": "mt_kXcnyA1y1Y",
+      "prerequisiteId": "mt_7HfIQOE7RC",
+      "strength": "hard",
+      "reason": "The margam grows from the first items"
+    },
+    {
+      "topicId": "mt_kXcnyA1y1Y",
+      "prerequisiteId": "mt_3tU28HrkIw",
+      "strength": "soft",
+      "reason": "The middle items draw on the fuller adavu matrix"
+    },
+    {
+      "topicId": "mt_O0bldGx9Ij",
+      "prerequisiteId": "mt_kXcnyA1y1Y",
+      "strength": "hard",
+      "reason": "The senior repertoire extends the margam"
+    },
+    {
+      "topicId": "mt_O0bldGx9Ij",
+      "prerequisiteId": "mt_kfB7ScBRlH",
+      "strength": "soft",
+      "reason": "Nayaka-nayika varnams draw on rasa theory"
+    },
+    {
+      "topicId": "mt_lTvo1gr4eP",
+      "prerequisiteId": "mt_O0bldGx9Ij",
+      "strength": "hard",
+      "reason": "The full recital presupposes the senior repertoire"
+    },
+    {
+      "topicId": "mt_lTvo1gr4eP",
+      "prerequisiteId": "mt_Q3F968Zkuc",
+      "strength": "soft",
+      "reason": "The recital is presented with narration and musical command"
+    },
+    {
+      "topicId": "mt_Q3F968Zkuc",
+      "prerequisiteId": "mt_pPvkcQcsUA",
+      "strength": "hard",
+      "reason": "Nattuvangam builds on the dancer’s tala"
+    },
+    {
+      "topicId": "mt_Q3F968Zkuc",
+      "prerequisiteId": "mt_UllENpiwV0",
+      "strength": "soft",
+      "reason": "Singing for dance builds on svara and shruti"
+    },
+    {
+      "topicId": "mt_4D0vI5rpTi",
+      "prerequisiteId": "mt_O0bldGx9Ij",
+      "strength": "hard",
+      "reason": "Choreography presupposes command of the repertoire"
+    },
+    {
+      "topicId": "mt_4D0vI5rpTi",
+      "prerequisiteId": "mt_Q3F968Zkuc",
+      "strength": "hard",
+      "reason": "Composing to a jati requires rhythmic command"
+    },
+    {
+      "topicId": "mt_YGHLZMRiQv",
+      "prerequisiteId": "mt_fDZmqBnmwo",
+      "strength": "hard",
+      "reason": "The hasta work follows the first expressive training"
+    },
+    {
+      "topicId": "mt_afSXkCkDQh",
+      "prerequisiteId": "mt_YGHLZMRiQv",
+      "strength": "hard",
+      "reason": "Viniyoga applies the hastas already learned"
+    },
+    {
+      "topicId": "mt_jl1v8FSnEj",
+      "prerequisiteId": "mt_afSXkCkDQh",
+      "strength": "hard",
+      "reason": "The specialised sets build on viniyoga"
+    },
+    {
+      "topicId": "mt_Otu7bTU047",
+      "prerequisiteId": "mt_fDZmqBnmwo",
+      "strength": "soft",
+      "reason": "The four abhinayas frame the expressive training"
+    },
+    {
+      "topicId": "mt_dlJxhMDt29",
+      "prerequisiteId": "mt_Otu7bTU047",
+      "strength": "hard",
+      "reason": "The rasas are expressed through the abhinayas"
+    },
+    {
+      "topicId": "mt_kfB7ScBRlH",
+      "prerequisiteId": "mt_dlJxhMDt29",
+      "strength": "hard",
+      "reason": "Rasa theory deepens the navarasas"
+    },
+    {
+      "topicId": "mt_wrHpuuIN1i",
+      "prerequisiteId": "mt_wzX2UsTmj5",
+      "strength": "soft",
+      "reason": "The eight forms share the origin tradition"
+    },
+    {
+      "topicId": "mt_T1bidoPg7O",
+      "prerequisiteId": "mt_wrHpuuIN1i",
+      "strength": "soft",
+      "reason": "Folk dance is known against the classical forms"
+    },
+    {
+      "topicId": "mt_IVYtVjYX2J",
+      "prerequisiteId": "mt_wzX2UsTmj5",
+      "strength": "soft",
+      "reason": "Nataraja embodies the divine origin of dance"
+    },
+    {
+      "topicId": "mt_uLsk3esIOH",
+      "prerequisiteId": "mt_wzX2UsTmj5",
+      "strength": "soft",
+      "reason": "The treatises elaborate the tradition first met in the origin story"
+    },
+    {
+      "topicId": "mt_NFQOZrudf4",
+      "prerequisiteId": "mt_wrHpuuIN1i",
+      "strength": "soft",
+      "reason": "The pioneers are known through their forms"
+    },
+    {
+      "topicId": "mt_V9aXu51m1R",
+      "prerequisiteId": "mt_NFQOZrudf4",
+      "strength": "soft",
+      "reason": "Contemporary dance follows the revival generation"
+    },
+    {
+      "topicId": "mt_WTy7OWlAsC",
+      "prerequisiteId": "mt_UllENpiwV0",
+      "strength": "hard",
+      "reason": "The varisais are sung sequences of the svaras"
+    },
+    {
+      "topicId": "mt_WTy7OWlAsC",
+      "prerequisiteId": "mt_8qV5fqk15P",
+      "strength": "soft",
+      "reason": "Exercises are kept to tala"
+    },
+    {
+      "topicId": "mt_Ub2YTtaGh8",
+      "prerequisiteId": "mt_WTy7OWlAsC",
+      "strength": "hard",
+      "reason": "Alankaras follow the varisai exercises"
+    },
+    {
+      "topicId": "mt_Ub2YTtaGh8",
+      "prerequisiteId": "mt_u9kDfonMnz",
+      "strength": "soft",
+      "reason": "Each alankara embodies one of the sapta talas"
+    },
+    {
+      "topicId": "mt_UT23llXHdc",
+      "prerequisiteId": "mt_WTy7OWlAsC",
+      "strength": "hard",
+      "reason": "Geetams follow the exercise stage"
+    },
+    {
+      "topicId": "mt_u9kDfonMnz",
+      "prerequisiteId": "mt_8qV5fqk15P",
+      "strength": "hard",
+      "reason": "The Carnatic tala scheme deepens the idea of tala"
+    },
+    {
+      "topicId": "mt_Q1wTDIYcWQ",
+      "prerequisiteId": "mt_BcVVasvvOm",
+      "strength": "hard",
+      "reason": "Janaka-janya organisation deepens the idea of raga"
+    },
+    {
+      "topicId": "mt_A1w86t07vK",
+      "prerequisiteId": "mt_UT23llXHdc",
+      "strength": "hard",
+      "reason": "Varnas follow the geetams in the ladder"
+    },
+    {
+      "topicId": "mt_A1w86t07vK",
+      "prerequisiteId": "mt_Q1wTDIYcWQ",
+      "strength": "soft",
+      "reason": "A varna trains its raga’s full shape"
+    },
+    {
+      "topicId": "mt_TPQPnTq3yX",
+      "prerequisiteId": "mt_UT23llXHdc",
+      "strength": "hard",
+      "reason": "Kritis follow the geetams in the ladder"
+    },
+    {
+      "topicId": "mt_TPQPnTq3yX",
+      "prerequisiteId": "mt_Dq1aJIo7JO",
+      "strength": "soft",
+      "reason": "The kriti is the central Carnatic form"
+    },
+    {
+      "topicId": "mt_zwwoRQfv7u",
+      "prerequisiteId": "mt_TPQPnTq3yX",
+      "strength": "soft",
+      "reason": "The devotional repertoire grows beside the kritis"
+    },
+    {
+      "topicId": "mt_zwwoRQfv7u",
+      "prerequisiteId": "mt_I3etMN3Xrm",
+      "strength": "soft",
+      "reason": "The padas come from the Haridasa composers"
+    },
+    {
+      "topicId": "mt_EpHdDAJUEz",
+      "prerequisiteId": "mt_UT23llXHdc",
+      "strength": "soft",
+      "reason": "Notation begins from pieces already sung"
+    },
+    {
+      "topicId": "mt_EpHdDAJUEz",
+      "prerequisiteId": "mt_u9kDfonMnz",
+      "strength": "soft",
+      "reason": "Notation marks the tala angas"
+    },
+    {
+      "topicId": "mt_0uPbdIFWUW",
+      "prerequisiteId": "mt_Q1wTDIYcWQ",
+      "strength": "hard",
+      "reason": "The 72-mela scheme organises the janaka ragas"
+    },
+    {
+      "topicId": "mt_8xUzdI05j3",
+      "prerequisiteId": "mt_Q1wTDIYcWQ",
+      "strength": "hard",
+      "reason": "Lakshana study builds on raga organisation"
+    },
+    {
+      "topicId": "mt_8xUzdI05j3",
+      "prerequisiteId": "mt_oD5SlNMEkk",
+      "strength": "soft",
+      "reason": "A raga’s lakshana lives in its gamakas"
+    },
+    {
+      "topicId": "mt_Pn8QJtLRuH",
+      "prerequisiteId": "mt_I3etMN3Xrm",
+      "strength": "hard",
+      "reason": "The Karnataka lineages extend the composer story"
+    },
+    {
+      "topicId": "mt_woAHR1QziS",
+      "prerequisiteId": "mt_8xUzdI05j3",
+      "strength": "hard",
+      "reason": "Alapana improvises within a raga’s lakshana"
+    },
+    {
+      "topicId": "mt_C9R5hccKUu",
+      "prerequisiteId": "mt_woAHR1QziS",
+      "strength": "hard",
+      "reason": "Neraval and swarakalpana follow alapana in manodharma"
+    },
+    {
+      "topicId": "mt_C9R5hccKUu",
+      "prerequisiteId": "mt_TPQPnTq3yX",
+      "strength": "soft",
+      "reason": "Neraval elaborates a kriti’s line"
+    },
+    {
+      "topicId": "mt_2zZTQy61Ed",
+      "prerequisiteId": "mt_UllENpiwV0",
+      "strength": "hard",
+      "reason": "The 22 shrutis deepen shruti and svara"
+    },
+    {
+      "topicId": "mt_2zZTQy61Ed",
+      "prerequisiteId": "mt_0uPbdIFWUW",
+      "strength": "soft",
+      "reason": "Shruti theory underlies the mela system"
+    },
+    {
+      "topicId": "mt_LGGMlzrdqD",
+      "prerequisiteId": "mt_8xUzdI05j3",
+      "strength": "soft",
+      "reason": "The treatises codify raga and tala science"
+    },
+    {
+      "topicId": "mt_tEcnltwtuz",
+      "prerequisiteId": "mt_C9R5hccKUu",
+      "strength": "hard",
+      "reason": "Pallavi presupposes command of neraval and swarakalpana"
+    },
+    {
+      "topicId": "mt_tEcnltwtuz",
+      "prerequisiteId": "mt_u9kDfonMnz",
+      "strength": "soft",
+      "reason": "Pallavi is the summit of tala manipulation"
+    },
+    {
+      "topicId": "mt_Cb5qBmZwH8",
+      "prerequisiteId": "mt_TPQPnTq3yX",
+      "strength": "soft",
+      "reason": "The operas are known through their songs"
+    },
+    {
+      "topicId": "mt_alTE2TYmpQ",
+      "prerequisiteId": "mt_u9kDfonMnz",
+      "strength": "hard",
+      "reason": "Percussion scholarship builds on the tala system"
+    },
+    {
+      "topicId": "mt_FrbFaRvafB",
+      "prerequisiteId": "mt_C9R5hccKUu",
+      "strength": "hard",
+      "reason": "The concert’s main item requires manodharma"
+    },
+    {
+      "topicId": "mt_FrbFaRvafB",
+      "prerequisiteId": "mt_A1w86t07vK",
+      "strength": "soft",
+      "reason": "A kacheri opens with a varna"
+    },
+    {
+      "topicId": "mt_FrbFaRvafB",
+      "prerequisiteId": "mt_alTE2TYmpQ",
+      "strength": "soft",
+      "reason": "The kacheri includes the tani avartanam"
+    },
+    {
+      "topicId": "mt_SaSLJPjukM",
+      "prerequisiteId": "mt_UllENpiwV0",
+      "strength": "hard",
+      "reason": "The alankars are sung sequences of the svaras"
+    },
+    {
+      "topicId": "mt_j1cbCezgfx",
+      "prerequisiteId": "mt_SaSLJPjukM",
+      "strength": "hard",
+      "reason": "The geets follow the exercise stage"
+    },
+    {
+      "topicId": "mt_4stg0HKYek",
+      "prerequisiteId": "mt_BcVVasvvOm",
+      "strength": "hard",
+      "reason": "The primary ragas apply the idea of raga"
+    },
+    {
+      "topicId": "mt_mhBlP6OtzA",
+      "prerequisiteId": "mt_8qV5fqk15P",
+      "strength": "hard",
+      "reason": "The Hindustani taals deepen the idea of tala"
+    },
+    {
+      "topicId": "mt_JMHgBx7bLP",
+      "prerequisiteId": "mt_j1cbCezgfx",
+      "strength": "hard",
+      "reason": "The chota khayal follows the sargam and lakshan geets"
+    },
+    {
+      "topicId": "mt_JMHgBx7bLP",
+      "prerequisiteId": "mt_4stg0HKYek",
+      "strength": "soft",
+      "reason": "Khayals are sung in the ragas being learned"
+    },
+    {
+      "topicId": "mt_dIoZAsEo60",
+      "prerequisiteId": "mt_Gpa5FCcRU5",
+      "strength": "hard",
+      "reason": "Bhatkhande notation deepens notation and voice culture"
+    },
+    {
+      "topicId": "mt_dIoZAsEo60",
+      "prerequisiteId": "mt_JMHgBx7bLP",
+      "strength": "soft",
+      "reason": "Notation practice writes the khayals being sung"
+    },
+    {
+      "topicId": "mt_OG0Z4jhx9o",
+      "prerequisiteId": "mt_JMHgBx7bLP",
+      "strength": "soft",
+      "reason": "The ornaments decorate the khayal being sung"
+    },
+    {
+      "topicId": "mt_zuoIWNDLly",
+      "prerequisiteId": "mt_OG0Z4jhx9o",
+      "strength": "hard",
+      "reason": "Taan technique builds on the ornaments"
+    },
+    {
+      "topicId": "mt_DdSeJT46GX",
+      "prerequisiteId": "mt_JMHgBx7bLP",
+      "strength": "hard",
+      "reason": "The bada khayal follows the chota khayal"
+    },
+    {
+      "topicId": "mt_DdSeJT46GX",
+      "prerequisiteId": "mt_OJdk5cjFc5",
+      "strength": "soft",
+      "reason": "Raga development leans on the thaat system"
+    },
+    {
+      "topicId": "mt_ZFYlbKAx45",
+      "prerequisiteId": "mt_7Ql8gGI0vt",
+      "strength": "hard",
+      "reason": "Dhrupad practice deepens the vocal forms"
+    },
+    {
+      "topicId": "mt_ZFYlbKAx45",
+      "prerequisiteId": "mt_mhBlP6OtzA",
+      "strength": "soft",
+      "reason": "Dhrupad layakari works against the taal"
+    },
+    {
+      "topicId": "mt_CgLON8TCuY",
+      "prerequisiteId": "mt_DdSeJT46GX",
+      "strength": "soft",
+      "reason": "The lighter forms follow the khayal discipline"
+    },
+    {
+      "topicId": "mt_S1GWaCOKnP",
+      "prerequisiteId": "mt_4stg0HKYek",
+      "strength": "soft",
+      "reason": "Raga-time theory builds on knowing ragas"
+    },
+    {
+      "topicId": "mt_iraBkapEqx",
+      "prerequisiteId": "mt_DdSeJT46GX",
+      "strength": "soft",
+      "reason": "Gharana style is heard in khayal singing"
+    },
+    {
+      "topicId": "mt_W4cBoaGg1b",
+      "prerequisiteId": "mt_DdSeJT46GX",
+      "strength": "hard",
+      "reason": "Elaboration extends the bada khayal"
+    },
+    {
+      "topicId": "mt_W4cBoaGg1b",
+      "prerequisiteId": "mt_zuoIWNDLly",
+      "strength": "hard",
+      "reason": "Elaboration requires command of taan"
+    },
+    {
+      "topicId": "mt_W4cBoaGg1b",
+      "prerequisiteId": "mt_S1GWaCOKnP",
+      "strength": "soft",
+      "reason": "Mature presentation honours raga, rasa and time"
+    },
+    {
+      "topicId": "mt_Kpc84FlHIt",
+      "prerequisiteId": "mt_W4cBoaGg1b",
+      "strength": "hard",
+      "reason": "The recital presents the elaborated raga"
+    },
+    {
+      "topicId": "mt_Kpc84FlHIt",
+      "prerequisiteId": "mt_RJz8T7TWGq",
+      "strength": "soft",
+      "reason": "The baithak is carried with accompaniment"
+    },
+    {
+      "topicId": "mt_e8duqtU5r1",
+      "prerequisiteId": "mt_mhBlP6OtzA",
+      "strength": "hard",
+      "reason": "Tabla playing builds on the taal system"
+    },
+    {
+      "topicId": "mt_wvASfFax9I",
+      "prerequisiteId": "mt_e8duqtU5r1",
+      "strength": "hard",
+      "reason": "The solo builds on bols and thekas"
+    },
+    {
+      "topicId": "mt_wvASfFax9I",
+      "prerequisiteId": "mt_iraBkapEqx",
+      "strength": "soft",
+      "reason": "Solo styles follow the gharana traditions"
+    },
+    {
+      "topicId": "mt_RJz8T7TWGq",
+      "prerequisiteId": "mt_e8duqtU5r1",
+      "strength": "hard",
+      "reason": "Accompaniment builds on the thekas"
+    },
+    {
+      "topicId": "mt_RJz8T7TWGq",
+      "prerequisiteId": "mt_wvASfFax9I",
+      "strength": "soft",
+      "reason": "Sangat draws on the solo vocabulary"
+    },
+    {
+      "topicId": "mt_Fg7EKvYK6x",
+      "prerequisiteId": "mt_iraBkapEqx",
+      "strength": "soft",
+      "reason": "History frames the gharana tradition"
+    },
+    {
+      "topicId": "mt_Fg7EKvYK6x",
+      "prerequisiteId": "mt_LGGMlzrdqD",
+      "strength": "soft",
+      "reason": "The two classical systems share their treatise heritage"
     }
   ]
 }

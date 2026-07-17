@@ -6,7 +6,7 @@
     "ngss-k5",
     "ngss-ms"
   ],
-  "curriculumCount": 11,
+  "curriculumCount": 12,
   "curricula": [
     {
       "slug": "uk-nc-2013",
@@ -43248,6 +43248,623 @@
             "module": "Section 4 (Lessons 16–22)",
             "lesson": "काव्याध्ययनम्",
             "description": "Bhasa’s Karnabharam (Karna’s anguish, the weapon, the gift of armour) and Bharavi’s Kiratarjuniyam sarga 1."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ksgh-music-exams",
+      "country": "IN",
+      "name": "Karnataka State Dr. Gangubai Hangal Music and Performing Arts University — Graded Music & Dance Examinations",
+      "version": "2025",
+      "sourceUrl": "https://musicuniversity.ac.in/wp-content/uploads/2025/03/Syllabus-Copy.pdf",
+      "textIncluded": true,
+      "license": "No open license stated by the university; standard descriptions are Marble-authored English summaries (no verbatim source text) — see PROVENANCE.md",
+      "topicCount": 55,
+      "topics": [
+        {
+          "key": "ksgh-music-exams:DAN.L1.T1",
+          "code": "DAN.L1.T1",
+          "data": {
+            "title": "Natyotpatti (Origin of Dance)",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Prathamika (Primary)",
+            "paper": "Theory",
+            "description": "The origin story of natya; intro to the Natyashastra and Abhinaya Darpana; the eight classical dances; the ten adavus and their features; hasta gestures with shlokas; tala angas and the five jatis; instrument classes; temple dance sculpture; Purandara Dasa and Kanaka Dasa."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L1.P1",
+          "code": "DAN.L1.P1",
+          "data": {
+            "title": "Sangeeta Samanvaya (Music Coordination)",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Prathamika (Primary)",
+            "paper": "Practical 1",
+            "description": "Singing sarale and janti varases and four geetas; head/eye/neck/brow bhedas with shloka; asamyukta and samyukta hastas; dance exercises (vyayama kriyas) and tratakas; the ten adavus in three speeds."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L1.P2",
+          "code": "DAN.L1.P2",
+          "data": {
+            "title": "Nrittabhinaya",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Prathamika (Primary)",
+            "paper": "Practical 2",
+            "description": "First dance items: Tisra and Chaturasra Alarippu, Jatiswaram in Adi tala, one Kautvam, one Kannada Devaranama, two Devata Shlokas — with the meaning and defining character of each."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L2.T1",
+          "code": "DAN.L2.T1",
+          "data": {
+            "title": "Chaturvidhabhinaya",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Madhyamika (Middle)",
+            "paper": "Theory 1",
+            "description": "Dance terminology; the Nataraja image explained; the four abhinayas (angika, vachika, aharya, satvika); hasta viniyogas; lakshanas of the dance-item forms; the four pada bhedas."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L2.T2",
+          "code": "DAN.L2.T2",
+          "data": {
+            "title": "Classical and Folk Dances",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Madhyamika (Middle)",
+            "paper": "Theory 2",
+            "description": "The eight classical dances in detail; Karnataka folk dances; the Suladi Sapta Talas and their angas; raga lakshanas; composer biographies; the navarasas."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L2.P1",
+          "code": "DAN.L2.P1",
+          "data": {
+            "title": "Hastabhinaya and Pada Bhedas",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Madhyamika (Middle)",
+            "paper": "Practical 1",
+            "description": "Viniyogas of the asamyukta, samyukta and devata hastas; asanas useful for dance; the ten adavus in five jatis and three speeds; the pada bhedas demonstrated."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L2.P2",
+          "code": "DAN.L2.P2",
+          "data": {
+            "title": "Narthana Marga",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Madhyamika (Middle)",
+            "paper": "Practical 2",
+            "description": "Suladi Sapta Tala alankaras sung in three speeds; Khanda Alarippu, Jatiswaram in Rupaka, one Shabdam; one Padavarnam, one Padam, one Kannada Javali, one Kriti, one Tillana — with lakshana, sollukattu, teermana, muktaya and meaning."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L3.T1",
+          "code": "DAN.L3.T1",
+          "data": {
+            "title": "Rasa, Bhava and Nayaka-Nayika Bhava",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Vidwat-Purva (Pre-Vidwat)",
+            "paper": "Theory 1",
+            "description": "Advanced terminology; the rasa-sutra and theories of rasa; sthayi, vibhava, anubhava, vyabhichari and satvika bhavas; performer qualities; nayaka-nayika classification per the Natyashastra and Dasharupaka."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L3.T2",
+          "code": "DAN.L3.T2",
+          "data": {
+            "title": "Dance Treatises and Dance-Drama Traditions",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Vidwat-Purva (Pre-Vidwat)",
+            "paper": "Theory 2",
+            "description": "Dance-drama traditions (Yakshagana, Bhagavata Mela and others); South Indian folk dances; five dance treatises; navagraha and bandhava hastas; the tala dasha pranas; writing adavu sollukattus in tala notation."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L3.P1",
+          "code": "DAN.L3.P1",
+          "data": {
+            "title": "Hastabhinaya and Sangeeta (oral)",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Vidwat-Purva (Pre-Vidwat)",
+            "paper": "Practical 1",
+            "description": "Navagraha and bandhava hastas with shloka; janaka-janya ragas; the Marga tradition; composing a jati with muktaya; nattuvangam for Alarippu and Jatiswaram; singing all pieces with shruti and tala."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L3.P2",
+          "code": "DAN.L3.P2",
+          "data": {
+            "title": "Narthana Marga",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Vidwat-Purva (Pre-Vidwat)",
+            "paper": "Practical 2",
+            "description": "Seven further adavu families in five jatis and three speeds; Mishra Alarippu, new Jatiswaram, Shabdam, nayaka-nayika Padavarnam, Kshetrajna Pada, Javali, Shringara Shloka, Vachana, Tillana."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L4.T1",
+          "code": "DAN.L4.T1",
+          "data": {
+            "title": "Shastra Prapoorna",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Theory 1",
+            "description": "Dance in classical literature; Shiva’s sapta tandavas; dashavatara and chaturvarna hastas; multimedia and classical dance; navavidha bhakti; pioneer biographies; guru-shishya parampara; complex muktayas in tala notation."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L4.T2",
+          "code": "DAN.L4.T2",
+          "data": {
+            "title": "Great Personalities and Contemporary Dance",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Theory 2",
+            "description": "Composer-saint lineages; the revivalists of Indian dance; contemporary dance techniques; Uday Shankar; Western ballet origins; stagecraft per the Natyashastra; performance requirements."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L4.P1",
+          "code": "DAN.L4.P1",
+          "data": {
+            "title": "Margam",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Practical 1",
+            "description": "Sankeerna Alarippu, Choornike, Daruvarnam, Padam, a full Ashtapadi, navarasabhinaya to an examiner-given scenario, Javali, Antahpuragite."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L4.P2",
+          "code": "DAN.L4.P2",
+          "data": {
+            "title": "Srujanashila Nritya Sanyojane (Creative Choreography)",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Practical 2",
+            "description": "Choreographing to an examiner-given jati; abhinaya composition for a devaranama or Kannada geya sahitya; nayaka-nayika bhava in sequence; singing and nattuvangam for a Padavarnam and Tillana."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:DAN.L4.P3",
+          "code": "DAN.L4.P3",
+          "data": {
+            "title": "Nritya Kacheri (Recital)",
+            "stream": "Dance (Bharatanatyam)",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Practical 3",
+            "description": "A full concert margam — Pushpanjali through Mangalam — performed with narration explaining the lakshana and meaning of every item."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L1.T1",
+          "code": "CAR.L1.T1",
+          "data": {
+            "title": "Indian Music Systems",
+            "stream": "Carnatic Music",
+            "level": "Prathamika (Primary)",
+            "paper": "Theory",
+            "description": "Carnatic vs Hindustani systems; the seven swaras; registers and shruti; janaka/janya ragas; raga lakshana of 18 ragas; tempo and tala basics; musical terms from sarale to kriti; eight composer biographies; instruments."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L1.P1",
+          "code": "CAR.L1.P1",
+          "data": {
+            "title": "Abhyasa Gana",
+            "stream": "Carnatic Music",
+            "level": "Prathamika (Primary)",
+            "paper": "Practical 1",
+            "description": "In Mayamalavagaula across three speeds: sarale, janti, datu, tarasthayi and mandrasthayi varases; the Suladi Sapta Tala alankaras; ten geetams and four jatiswaras."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L1.P2",
+          "code": "CAR.L1.P2",
+          "data": {
+            "title": "First Repertoire",
+            "stream": "Carnatic Music",
+            "level": "Prathamika (Primary)",
+            "paper": "Practical 2",
+            "description": "Four tanavarnas in one speed; ten madhyama-kala and five vilamba-kala kritis; two dasara kirtanas; two sharana vachanas."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L2.T1",
+          "code": "CAR.L2.T1",
+          "data": {
+            "title": "Raga and Tala Theory",
+            "stream": "Carnatic Music",
+            "level": "Madhyamika (Middle)",
+            "paper": "Theory 1",
+            "description": "Nada, graha, vadi/samvadi terms; the 35-tala scheme; chapu, deshadi and madhyadi talas; the 72 melakartas and katapayadi sutra; janya classification; notation; voice culture."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L2.T2",
+          "code": "CAR.L2.T2",
+          "data": {
+            "title": "Instruments, Forms and Composers",
+            "stream": "Carnatic Music",
+            "level": "Madhyamika (Middle)",
+            "paper": "Theory 2",
+            "description": "Instrument classes, construction and tuning; the compositional forms geeta to tillana; fifteen composer biographies; raga lakshana of 25 ragas."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L2.P1",
+          "code": "CAR.L2.P1",
+          "data": {
+            "title": "Alankaras and Lakshana Geetams",
+            "stream": "Carnatic Music",
+            "level": "Madhyamika (Middle)",
+            "paper": "Practical 1",
+            "description": "Alankaras in the 35 talas; four lakshana geetams; four swarajatis; two Nottuswara sahityas."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L2.P2",
+          "code": "CAR.L2.P2",
+          "data": {
+            "title": "Varnas and Pancharatna",
+            "stream": "Carnatic Music",
+            "level": "Madhyamika (Middle)",
+            "paper": "Practical 2",
+            "description": "Four Adi-tala varnas in two speeds; four Ata-tala varnas; a Navaraga Malika varna; two Ghanaraga Pancharatna kritis."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L2.P3",
+          "code": "CAR.L2.P3",
+          "data": {
+            "title": "Kriti Repertoire",
+            "stream": "Carnatic Music",
+            "level": "Madhyamika (Middle)",
+            "paper": "Practical 3",
+            "description": "Fifteen madhyama-kala and ten vilamba-kala kritis with brief alapana and swarakalpana for ten ragas; four dasara padas; four vachanas; two tillanas."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L3.T1",
+          "code": "CAR.L3.T1",
+          "data": {
+            "title": "Aesthetics and Raga Science",
+            "stream": "Carnatic Music",
+            "level": "Vidwat-Purva (Pre-Vidwat)",
+            "paper": "Theory 1",
+            "description": "Music among the arts; rasa; dhatu-matu and prabandha; the gamaka taxonomies; the thirteen raga lakshanas; raga lakshana of 30 ragas."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L3.T2",
+          "code": "CAR.L3.T2",
+          "data": {
+            "title": "Treatises and Collection Kritis",
+            "stream": "Carnatic Music",
+            "level": "Vidwat-Purva (Pre-Vidwat)",
+            "paper": "Theory 2",
+            "description": "Marga/deshi and the 108 talas; the musicological treatises from the Natyashastra to the Sangita Sampradaya Pradarshini; compositional forms; the great kriti collections; ten composer biographies."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L3.P1",
+          "code": "CAR.L3.P1",
+          "data": {
+            "title": "Advanced Varnas and Group Kritis",
+            "stream": "Carnatic Music",
+            "level": "Vidwat-Purva (Pre-Vidwat)",
+            "paper": "Practical 1",
+            "description": "The Bhairavi swarajati; earlier varnas in three speeds; jhampe/tripata varnas; three Ghanaraga Pancharatna kritis; Navaratri and Navaratna Malika kritis; divyanama and utsava sampradaya kirtanas."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L3.P2",
+          "code": "CAR.L3.P2",
+          "data": {
+            "title": "The Improvisation Ladder",
+            "stream": "Carnatic Music",
+            "level": "Vidwat-Purva (Pre-Vidwat)",
+            "paper": "Practical 2",
+            "description": "Thirty kritis graded from brief alapana, through alapana with swarakalpana, to mature alapana with neraval and swarakalpana across 54 ragas."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L4.T1",
+          "code": "CAR.L4.T1",
+          "data": {
+            "title": "Manodharma and Acoustics",
+            "stream": "Carnatic Music",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Theory 1",
+            "description": "Manodharma dissected — alapana, tana, neraval, swarakalpana; the pallavi tradition; murchhana; concert practice; sound and acoustics; music genres; raga lakshana of 30 ragas; the 22 shrutis; raga pairs compared; the Trinity’s styles compared."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L4.T2A",
+          "code": "CAR.L4.T2A",
+          "data": {
+            "title": "Geya Nataka",
+            "stream": "Carnatic Music",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Theory 2A",
+            "description": "Complete knowledge of one musical drama: Prahlada Bhakti Vijaya, Nauka Charitra, Pallaki Seva Prabandha, Krishna Leela Tarangini or Geeta Govinda."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L4.T2B",
+          "code": "CAR.L4.T2B",
+          "data": {
+            "title": "Tala and Percussion Scholarship",
+            "stream": "Carnatic Music",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Theory 2B",
+            "description": "Tala and laya; percussion terminology; the tani avartanam; auxiliary percussion in concert; fitting muktaya swaras; biographies of the great laya vidwans."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L4.P1",
+          "code": "CAR.L4.P1",
+          "data": {
+            "title": "Pallavi",
+            "stream": "Carnatic Music",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Practical 1",
+            "description": "Six pallavis across sixteen ragas in three graded tiers — four-kalai, two-kalai and one-kalai — with neraval and swarakalpana in anuloma-viloma-pratiloma modes."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L4.P2",
+          "code": "CAR.L4.P2",
+          "data": {
+            "title": "The Wider Repertoire",
+            "stream": "Carnatic Music",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Practical 2",
+            "description": "Kshetrajna padas, ashtapadis, Haridasa padas, tarangas, vachanas, and mela/chatur ragamalikas."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:CAR.L4.P3",
+          "code": "CAR.L4.P3",
+          "data": {
+            "title": "Sangeeta Kacheri",
+            "stream": "Carnatic Music",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Practical 3",
+            "description": "A half-hour concert with violin and mridangam accompaniment — varna, kritis with alapana, neraval and swaraprastara, a tani avartanam, and a closing piece."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L1.T1",
+          "code": "HIN.L1.T1",
+          "data": {
+            "title": "Fundamentals of Hindustani Music",
+            "stream": "Hindustani Music",
+            "level": "Prathamika (Primary)",
+            "paper": "Theory",
+            "description": "Core terminology from nada and thaat to khayal and taal; sixteen basic ragas; writing a chota khayal in Bhatkhande notation; seven taals; the Bhatkhande and Paluskar notation systems; seven biographies."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L1.P1",
+          "code": "HIN.L1.P1",
+          "data": {
+            "title": "Introductory Vocal Method 1",
+            "stream": "Hindustani Music",
+            "level": "Prathamika (Primary)",
+            "paper": "Practical 1",
+            "description": "Alankars in three layas; shuddha and vikrit swaras; swargeet, lakshan geet and chota khayal with aalap and taan in eight ragas; a dhrupad; a dasara pada; taal presentation; raga identification."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L1.P2",
+          "code": "HIN.L1.P2",
+          "data": {
+            "title": "Introductory Vocal Method 2",
+            "stream": "Hindustani Music",
+            "level": "Prathamika (Primary)",
+            "paper": "Practical 2",
+            "description": "Eight further ragas with sargam, lakshan geet and chota khayal; a bhajan; a vachana; more taals; raga identification. Instrumental students substitute gats and todas throughout."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L2.T1",
+          "code": "HIN.L2.T1",
+          "data": {
+            "title": "Bharatiya Sangeeta Shastra",
+            "stream": "Hindustani Music",
+            "level": "Madhyamika (Middle)",
+            "paper": "Theory 1",
+            "description": "Raga classification vocabulary; the ornaments (meend, gamak, khatka, murki); the taan taxonomy; Masidkhani and Razakhani gats; sound and nada; the 22 shrutis; ancient biographies; vilambit taals."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L2.T2",
+          "code": "HIN.L2.T2",
+          "data": {
+            "title": "Classical Introduction to Hindustani Vocal Music",
+            "stream": "Hindustani Music",
+            "level": "Madhyamika (Middle)",
+            "paper": "Theory 2",
+            "description": "Classical detail and notation for 26 ragas; a bada khayal in notation; the vocal forms khayal to bhajan; instrument classification; composer biographies; further taals."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L2.P1",
+          "code": "HIN.L2.P1",
+          "data": {
+            "title": "Khayal Prastuti 1",
+            "stream": "Hindustani Music",
+            "level": "Madhyamika (Middle)",
+            "paper": "Practical 1",
+            "description": "Bada and chota khayal with aalap-taan across fifteen ragas; vilambit taals demonstrated; tanpura tuning."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L2.P2",
+          "code": "HIN.L2.P2",
+          "data": {
+            "title": "Khayal Prastuti 2",
+            "stream": "Hindustani Music",
+            "level": "Madhyamika (Middle)",
+            "paper": "Practical 2",
+            "description": "Bada and chota khayal with aalap-taan across fifteen further ragas; vilambit Teentaal, Aada Chautaal, Tilwada."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L2.P3",
+          "code": "HIN.L2.P3",
+          "data": {
+            "title": "Hindustani Vocal Forms",
+            "stream": "Hindustani Music",
+            "level": "Madhyamika (Middle)",
+            "paper": "Practical 3",
+            "description": "Dhrupad and dhamar in laya tiers; tarana; chaturang; bhajan, vachana and dasara pada; the lighter taals presented."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L3.T1",
+          "code": "HIN.L3.T1",
+          "data": {
+            "title": "Values and Dimensions of Music",
+            "stream": "Hindustani Music",
+            "level": "Vidwat-Purva (Pre-Vidwat)",
+            "paper": "Theory 1",
+            "description": "Music among the arts and its values; the origin and evolution of khayal; ten gharana-founding biographies; sixteen heavier ragas."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L3.T2",
+          "code": "HIN.L3.T2",
+          "data": {
+            "title": "The Raga System",
+            "stream": "Hindustani Music",
+            "level": "Vidwat-Purva (Pre-Vidwat)",
+            "paper": "Theory 2",
+            "description": "Instruments’ characters; performers’ merits and faults; gharana history; anibaddha and nibaddha singing; how ragas unfold; allied-raga comparison; raga, rasa, samaya and laya."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L3.P1",
+          "code": "HIN.L3.P1",
+          "data": {
+            "title": "Raga Prastuti 1",
+            "stream": "Hindustani Music",
+            "level": "Vidwat-Purva (Pre-Vidwat)",
+            "paper": "Practical 1",
+            "description": "Thirty-to-forty-five-minute bada and chota khayal elaborations across eight ragas; dhrupad and dhamar in four laya tiers; two taranas."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L3.P2",
+          "code": "HIN.L3.P2",
+          "data": {
+            "title": "Raga Prastuti 2",
+            "stream": "Hindustani Music",
+            "level": "Vidwat-Purva (Pre-Vidwat)",
+            "paper": "Practical 2",
+            "description": "Elaborations across seven further ragas including Darbari Kanada; a thumri; a chaturang; a bhajan."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L4.T1",
+          "code": "HIN.L4.T1",
+          "data": {
+            "title": "Types and Dimensions of Music",
+            "stream": "Hindustani Music",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Theory 1",
+            "description": "History of Indian music from the Vedic period; media and music; the genres; a comparative study of Carnatic and Hindustani music; sixteen advanced ragas; artist versus teacher."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L4.T2",
+          "code": "HIN.L4.T2",
+          "data": {
+            "title": "Music Treatises and Essays",
+            "stream": "Hindustani Music",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Theory 2",
+            "description": "The treatises from the Natyashastra to Bhatkhande’s works; theories of the Hindustani system; new developments and challenges; accompaniment; the artist’s responsibility."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L4.P1",
+          "code": "HIN.L4.P1",
+          "data": {
+            "title": "Elaborate Raga Presentation 1",
+            "stream": "Hindustani Music",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Practical 1",
+            "description": "Full elaborations across eight advanced ragas; dhrupad and dhamar; tarana; an elaborate thumri."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L4.P2",
+          "code": "HIN.L4.P2",
+          "data": {
+            "title": "Elaborate Raga Presentation 2",
+            "stream": "Hindustani Music",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Practical 2",
+            "description": "Elaborations across nine further ragas; chaturang; bhajan; oral viva on vistaar method, tarana vocabulary and mishra raga."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:HIN.L4.P3",
+          "code": "HIN.L4.P3",
+          "data": {
+            "title": "Baithak",
+            "stream": "Hindustani Music",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Practical 3",
+            "description": "A formal recital — an elaborate bada and chota khayal with accompaniment, assessed on purity of swara and raga, development and imagination, layakari and taan, and overall impact."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:TAB.L1",
+          "code": "TAB.L1",
+          "data": {
+            "title": "Tabla: Primary",
+            "stream": "Hindustani Music",
+            "level": "Prathamika (Primary)",
+            "paper": "Tabla",
+            "description": "Tabla and dagga construction; the ten basic bols; thekas of the core taals with dugun and chougun; kaydas with paltas and tihai; mukhda, tukda and laggi; notation systems; accompaniment basics."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:TAB.L2",
+          "code": "TAB.L2",
+          "data": {
+            "title": "Tabla: Middle",
+            "stream": "Hindustani Music",
+            "level": "Madhyamika (Middle)",
+            "paper": "Tabla",
+            "description": "Tabla history and construction; peshkar to paran terminology; vilambit thekas; gharana-style kaydas; twenty-minute solo; accompanying khayal."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:TAB.L3",
+          "code": "TAB.L3",
+          "data": {
+            "title": "Tabla: Pre-Vidwat",
+            "stream": "Hindustani Music",
+            "level": "Vidwat-Purva (Pre-Vidwat)",
+            "paper": "Tabla",
+            "description": "Taal construction theory and the ten pranas; tabla gharanas surveyed; thirty-minute solos; rare taals; composing new mukhda, tukda and tihai; the Delhi, Purab and Punjab baaj compared."
+          }
+        },
+        {
+          "key": "ksgh-music-exams:TAB.L4",
+          "code": "TAB.L4",
+          "data": {
+            "title": "Tabla: Vidwat",
+            "stream": "Hindustani Music",
+            "level": "Vidwat Antima (Final)",
+            "paper": "Tabla",
+            "description": "The five jaatis of taal; the six gharanas’ playing styles; treatise references; forty-minute solo; accompanying thumri and vocal music; oral recitation and tabla tuning."
           }
         }
       ]
