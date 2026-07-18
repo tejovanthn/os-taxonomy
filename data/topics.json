@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2100,
+  "topicCount": 2236,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -42659,6 +42659,2728 @@
       "assessmentPrompt": "Ask {{name}} how a better road or a mobile network can change what a village is able to sell.",
       "standards": [
         "ncert-sec:GEO.C10.TRANS"
+      ]
+    },
+    {
+      "id": "mt_BYHEPQZS6E",
+      "type": "PROCEDURAL",
+      "subject": "Physics",
+      "domain": "Measurement & Method",
+      "name": "Units, Dimensions and Dimensional Analysis",
+      "description": "Understand that every physical quantity carries dimensions built from a few base quantities, and use those dimensions to check equations and convert between systems of units.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Expresses a derived quantity in terms of base dimensions",
+        "Checks an equation for dimensional consistency",
+        "Converts a quantity between two systems of units"
+      ],
+      "assessmentPrompt": "Ask {{name}} how they could tell an equation is wrong without knowing any of the numbers in it.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U1"
+      ]
+    },
+    {
+      "id": "mt_4YpQduN0f6",
+      "type": "PROCEDURAL",
+      "subject": "Physics",
+      "domain": "Measurement & Method",
+      "name": "Errors, Precision and Significant Figures",
+      "description": "Understand that every measurement carries uncertainty, distinguish accuracy from precision, and report a result to the number of digits the measurement actually supports.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes accuracy from precision with an example",
+        "Combines errors through a calculation",
+        "Reports a computed result to the correct number of significant figures"
+      ],
+      "assessmentPrompt": "Ask {{name}} why writing a measurement as 2.7314 metres can be wrong even if the arithmetic is right.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U1"
+      ]
+    },
+    {
+      "id": "mt_t3g9uQ1xav",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "name": "Motion in a Straight Line",
+      "description": "Describe straight-line motion using position, velocity and acceleration, reading each from the slope of the graph before it, and treating instantaneous rates as limits.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Reads velocity from the slope of a position-time graph",
+        "Reads displacement from the area under a velocity-time graph",
+        "Distinguishes average from instantaneous velocity"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the steepness of a distance-time graph tells them, and what the area under a speed-time graph tells them.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U2"
+      ]
+    },
+    {
+      "id": "mt_SVZ61nPdgi",
+      "type": "REPRESENTATIONAL",
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "name": "Vectors and Their Resolution",
+      "description": "Understand that quantities with direction add head-to-tail rather than numerically, and resolve any vector into perpendicular components that can be handled separately.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Adds two vectors graphically and by components",
+        "Resolves a vector into perpendicular components",
+        "Explains why perpendicular components can be treated independently"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a boat pointed straight across a river does not land straight across from where it started.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U2"
+      ]
+    },
+    {
+      "id": "mt_rfqKf4dDlt",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "name": "Projectile Motion",
+      "description": "Understand that a projectile’s horizontal and vertical motions are independent, so constant horizontal velocity combines with vertical free fall to give a parabolic path.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains why horizontal and vertical motion are independent",
+        "Computes range, maximum height or time of flight",
+        "Predicts how changing the launch angle changes the path"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a bullet fired horizontally and one dropped from the same height hit the ground together.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U2"
+      ]
+    },
+    {
+      "id": "mt_UOxhtisIUm",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "name": "Circular Motion and Centripetal Force",
+      "description": "Understand that moving in a circle at steady speed still means accelerating, because the direction changes, and that this requires a force directed towards the centre.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains why circular motion at constant speed is accelerated motion",
+        "Identifies what physically supplies the centripetal force in a situation",
+        "Explains why a road is banked at a bend"
+      ],
+      "assessmentPrompt": "Ask {{name}} what actually pushes a car around a bend, and why the road is tilted.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U2",
+        "ncert-hsec:PHY.C11.U3"
+      ]
+    },
+    {
+      "id": "mt_wkuoeBbgZx",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "name": "Impulse and Conservation of Linear Momentum",
+      "description": "Understand that force acting over time changes momentum, and that in the absence of external force the total momentum of a system stays constant however its parts interact.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Relates impulse to the change in momentum",
+        "Applies momentum conservation to a collision or explosion",
+        "Explains why a longer impact time reduces the peak force"
+      ],
+      "assessmentPrompt": "Ask {{name}} why cars are designed to crumple in a crash rather than stay rigid.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U3"
+      ]
+    },
+    {
+      "id": "mt_x0d1BB8kSk",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "name": "Friction",
+      "description": "Understand that friction opposes relative motion between surfaces, that it takes static, kinetic and rolling forms of differing size, and that it depends on the normal force rather than area.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes static, kinetic and rolling friction",
+        "Explains why friction depends on normal force and not contact area",
+        "Identifies where friction is useful and where it is a loss"
+      ],
+      "assessmentPrompt": "Ask {{name}} why it is harder to start a heavy box sliding than to keep it sliding.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U3"
+      ]
+    },
+    {
+      "id": "mt_VLhHmLpYE3",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "name": "The Work-Energy Theorem",
+      "description": "Understand that the net work done on a body equals the change in its kinetic energy, which turns force-and-distance problems into energy bookkeeping.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Computes work done by a constant force at an angle",
+        "Applies the work-energy theorem to find a final speed",
+        "Explains why a force perpendicular to motion does no work"
+      ],
+      "assessmentPrompt": "Ask {{name}} why carrying a heavy bag horizontally across a room does no work on it in the physics sense.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U4"
+      ]
+    },
+    {
+      "id": "mt_6pcaTflnnx",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "name": "Conservative Forces and Conservation of Mechanical Energy",
+      "description": "Understand that for conservative forces the sum of kinetic and potential energy stays constant, so motion can be predicted without tracking the forces at every instant.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a conservative from a non-conservative force",
+        "Uses energy conservation to find a speed or height",
+        "Accounts for where mechanical energy goes when friction acts"
+      ],
+      "assessmentPrompt": "Ask {{name}} how fast a ball will be moving at the bottom of a slide, without knowing the shape of the slide.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U4"
+      ]
+    },
+    {
+      "id": "mt_UgYIfSkfzy",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "name": "Elastic and Inelastic Collisions",
+      "description": "Understand that momentum is conserved in every collision but kinetic energy only in elastic ones, and use that difference to classify and solve collision problems.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes elastic from inelastic collisions by what is conserved",
+        "Solves a one-dimensional collision using momentum conservation",
+        "Explains where the lost kinetic energy goes in an inelastic collision"
+      ],
+      "assessmentPrompt": "Ask {{name}} what is conserved when two lumps of clay collide and stick together.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U4"
+      ]
+    },
+    {
+      "id": "mt_D4yJOQ2TNi",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "name": "Centre of Mass",
+      "description": "Understand that any extended body or system moves as though all its mass were concentrated at one point, which follows the same laws as a single particle.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Locates the centre of mass of a simple two-body system",
+        "Explains why the centre of mass of a system moves smoothly through an explosion",
+        "Identifies the centre of mass of a symmetric object"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a thrown spanner wobbles but one point of it still traces a smooth arc.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U5"
+      ]
+    },
+    {
+      "id": "mt_0QrCiQ6LVS",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "name": "Torque and Angular Momentum",
+      "description": "Understand that torque is the rotational counterpart of force and angular momentum of linear momentum, and that angular momentum is conserved without external torque.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Computes torque as force times perpendicular distance",
+        "Applies conservation of angular momentum to a spinning system",
+        "Maps each rotational quantity onto its linear counterpart"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a spinning skater speeds up when they pull their arms in.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U5"
+      ]
+    },
+    {
+      "id": "mt_aRnaa8ttKe",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "name": "Moment of Inertia and Rotational Motion",
+      "description": "Understand that a body’s resistance to being spun depends on how its mass is distributed about the axis, not just on how much mass it has.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains why mass distribution, not just mass, sets the moment of inertia",
+        "Uses the parallel or perpendicular axis theorem",
+        "Compares rotational and linear equations of motion"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a hollow pipe and a solid rod of the same mass roll down a slope at different rates.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U5"
+      ]
+    },
+    {
+      "id": "mt_aF7WMjev8J",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "name": "Kepler's Laws and Universal Gravitation",
+      "description": "Understand that one inverse-square law of gravitation between any two masses accounts for both falling bodies on Earth and the elliptical orbits Kepler described.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "States Kepler's three laws",
+        "Applies the inverse-square law to compute a gravitational force",
+        "Explains how Newton's law accounts for Kepler's third law"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a falling apple and an orbiting moon have in common.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U6"
+      ]
+    },
+    {
+      "id": "mt_hw0bYvM2zS",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "name": "Gravitational Potential, Escape Speed and Satellites",
+      "description": "Understand that escaping a gravitational field requires a definite minimum speed, and that a satellite in orbit is in continuous free fall at a speed set by its altitude.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains what escape speed means and what it depends on",
+        "Explains why an orbiting satellite is in free fall",
+        "Describes what makes an orbit geostationary"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a communications satellite appears to hang motionless above one spot on Earth.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U6"
+      ]
+    },
+    {
+      "id": "mt_U77mH9oAXL",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Properties of Matter & Heat",
+      "name": "Elasticity and the Elastic Moduli",
+      "description": "Understand that solids deform in proportion to applied stress up to a limit, and that the constant of proportionality — the modulus — measures a material’s stiffness.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes stress from strain",
+        "Reads the elastic limit from a stress-strain curve",
+        "Compares two materials by their Young’s modulus"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a steel cable stretches slightly under load but a rubber band stretches a great deal.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_IEPUqrJpmk",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Properties of Matter & Heat",
+      "name": "Fluid Pressure and Pascal's Law",
+      "description": "Understand that pressure in a fluid acts equally in all directions and is transmitted undiminished, which is what makes hydraulic lifts and brakes multiply force.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "States Pascal's law and its consequence for transmitted pressure",
+        "Explains how a hydraulic lift multiplies force",
+        "Relates fluid pressure to depth and density"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a small push on a car brake pedal can stop a whole car.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_4jBdH4Jdjt",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Properties of Matter & Heat",
+      "name": "Viscosity and Bernoulli's Theorem",
+      "description": "Understand that real fluids resist flow through viscosity, and that for steady flow a rise in speed comes with a fall in pressure.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "States Bernoulli's relation between speed and pressure",
+        "Explains terminal velocity in terms of viscous drag",
+        "Explains a real effect such as lift or a spinning ball curving"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a shower curtain gets pulled inward when the water is running.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_xhjf5488oe",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Properties of Matter & Heat",
+      "name": "Surface Tension and Capillarity",
+      "description": "Understand that a liquid surface behaves like a stretched skin because molecules there are pulled inward, which explains droplets, bubbles and capillary rise.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains surface tension in terms of molecular attraction",
+        "Explains why small drops are spherical",
+        "Explains capillary rise and the role of the contact angle"
+      ],
+      "assessmentPrompt": "Ask {{name}} why water climbs up a narrow tube on its own but mercury is pushed down.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_kFoccN6EE3",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Properties of Matter & Heat",
+      "name": "Calorimetry, Latent Heat and Heat Transfer",
+      "description": "Understand that heat changes either temperature or state but not both at once, and that it travels by conduction, convection and radiation.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Uses specific heat capacity to compute a temperature change",
+        "Explains why temperature holds steady during a change of state",
+        "Distinguishes conduction, convection and radiation with examples"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a pot of melting ice stays at zero degrees even while the flame is on.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_dtEKMxiQHK",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Properties of Matter & Heat",
+      "name": "The Laws of Thermodynamics",
+      "description": "Understand that energy is conserved when heat and work are counted together, and that the second law sets a direction for change that the first law alone does not.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "States the first law relating heat, work and internal energy",
+        "Explains what the second law forbids",
+        "Explains why no heat engine can be perfectly efficient"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a cup of tea never spontaneously reheats itself, even though energy would be conserved if it did.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U8"
+      ]
+    },
+    {
+      "id": "mt_7Z1yWAFCrL",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Properties of Matter & Heat",
+      "name": "Kinetic Theory of Gases",
+      "description": "Understand that gas pressure and temperature arise from the motion of enormous numbers of molecules, so a bulk property is really an average over that motion.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains pressure as the result of molecular collisions",
+        "Relates temperature to average molecular kinetic energy",
+        "States the assumptions the kinetic model rests on"
+      ],
+      "assessmentPrompt": "Ask {{name}} what is actually happening at the molecular level when a tyre gets hotter and its pressure rises.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U9"
+      ]
+    },
+    {
+      "id": "mt_rqzBHiLWPc",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Oscillations & Waves",
+      "name": "Simple Harmonic Motion",
+      "description": "Understand that when a restoring force is proportional to displacement the motion repeats sinusoidally, with a period set by the system rather than by how far it is displaced.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Identifies the condition that produces simple harmonic motion",
+        "Explains why the period of a pendulum is independent of amplitude",
+        "Describes how kinetic and potential energy interchange over a cycle"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a pendulum pulled further back takes longer to swing, and why.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U10"
+      ]
+    },
+    {
+      "id": "mt_RU4ERyXzz3",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Oscillations & Waves",
+      "name": "Wave Motion and Superposition",
+      "description": "Understand that waves transport energy without transporting matter, and that where two waves meet their displacements simply add.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes longitudinal from transverse waves",
+        "Applies the principle of superposition to overlapping waves",
+        "Relates speed, frequency and wavelength"
+      ],
+      "assessmentPrompt": "Ask {{name}} what actually travels across the sea when a wave moves, given the water stays put.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U10"
+      ]
+    },
+    {
+      "id": "mt_4JyerLxfJS",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Oscillations & Waves",
+      "name": "Standing Waves, Beats and the Doppler Effect",
+      "description": "Understand that confined waves settle into standing patterns with fixed frequencies, that nearby frequencies produce beats, and that relative motion shifts observed frequency.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains how a standing wave forms in a string or pipe",
+        "Explains beats as interference between close frequencies",
+        "Explains the Doppler shift for a moving source"
+      ],
+      "assessmentPrompt": "Ask {{name}} why an ambulance siren drops in pitch the moment it passes them.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U10"
+      ]
+    },
+    {
+      "id": "mt_Thvs20Cw9w",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Coulomb's Law and the Electric Field",
+      "description": "Understand that charges exert inverse-square forces on one another, and that the field describes the force a unit charge would feel at each point in space.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Applies Coulomb's law to find the force between charges",
+        "Uses superposition for several charges",
+        "Sketches field lines around a charge or dipole"
+      ],
+      "assessmentPrompt": "Ask {{name}} what is present in the space around a charge even when nothing else is there.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U1"
+      ]
+    },
+    {
+      "id": "mt_11kfdQV3Es",
+      "type": "PROCEDURAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Gauss's Theorem and Its Applications",
+      "description": "Understand that the electric flux through a closed surface depends only on the charge enclosed, which makes fields of symmetric charge distributions easy to find.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "States Gauss's theorem in terms of flux and enclosed charge",
+        "Chooses a Gaussian surface suited to a symmetry",
+        "Derives the field of a sheet, wire or shell"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the field inside a hollow charged sphere is zero.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U1"
+      ]
+    },
+    {
+      "id": "mt_lwnEn0hACe",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Electric Potential and Equipotential Surfaces",
+      "description": "Understand that electric potential is the energy per unit charge at a point, and that no work is done moving a charge along a surface of constant potential.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes electric potential from electric field",
+        "Computes potential due to a point charge or system",
+        "Explains why equipotential surfaces meet field lines at right angles"
+      ],
+      "assessmentPrompt": "Ask {{name}} why birds can sit safely on a single high-voltage wire.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U1"
+      ]
+    },
+    {
+      "id": "mt_8m75UPJdOG",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Capacitors and Dielectrics",
+      "description": "Understand that a capacitor stores energy in the field between separated conductors, and that inserting a dielectric raises the charge it holds at a given voltage.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Relates charge, capacitance and potential difference",
+        "Combines capacitors in series and parallel",
+        "Explains how a dielectric increases capacitance"
+      ],
+      "assessmentPrompt": "Ask {{name}} where the energy in a charged capacitor is actually stored.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U1"
+      ]
+    },
+    {
+      "id": "mt_vLOMfLHK7e",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Drift Velocity, Resistivity and Ohm's Law",
+      "description": "Understand that current is the slow net drift of charges through a conductor, and that resistivity is a property of the material while resistance also depends on shape.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Relates current to drift velocity and charge density",
+        "Distinguishes resistance from resistivity",
+        "Explains how resistance of a metal changes with temperature"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a light comes on instantly even though electrons drift through the wire very slowly.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U2"
+      ]
+    },
+    {
+      "id": "mt_PhsT13hNR7",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "EMF, Internal Resistance and Combinations of Cells",
+      "description": "Understand that a real cell has resistance of its own, so the voltage it delivers falls below its emf as soon as current is drawn.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes emf from terminal potential difference",
+        "Computes terminal voltage given internal resistance",
+        "Combines cells in series and in parallel"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a torch dims as its battery ages even though the battery still reads close to full voltage.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U2"
+      ]
+    },
+    {
+      "id": "mt_ef0TU0P8l5",
+      "type": "PROCEDURAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Kirchhoff's Laws, the Wheatstone Bridge and the Potentiometer",
+      "description": "Use conservation of charge and energy around circuit junctions and loops to solve networks that series-parallel reduction cannot handle, and to measure resistance and emf precisely.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Applies Kirchhoff's junction and loop rules to a network",
+        "Derives the balance condition of a Wheatstone bridge",
+        "Explains why a potentiometer measures emf without drawing current"
+      ],
+      "assessmentPrompt": "Ask {{name}} how you could measure a battery’s true emf without the measurement itself changing the answer.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U2"
+      ]
+    },
+    {
+      "id": "mt_fVaqWGwfp9",
+      "type": "PROCEDURAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Biot-Savart and Ampere's Laws",
+      "description": "Understand that moving charge produces a magnetic field, and compute that field for wires, loops and solenoids using the Biot-Savart and Ampere laws.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Finds the field of a long straight wire",
+        "Finds the field at the centre of a current loop",
+        "Applies Ampere's law to a solenoid"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a compass needle does when placed under a wire carrying current.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U3"
+      ]
+    },
+    {
+      "id": "mt_81hMdjmRZu",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Force on Moving Charges and Conductors",
+      "description": "Understand that magnetic fields exert force on moving charges and current-carrying wires, at right angles to both field and motion, which is what makes motors and cyclotrons work.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Predicts the direction of magnetic force on a moving charge",
+        "Computes force on a current-carrying conductor in a field",
+        "Explains the operating principle of a cyclotron or galvanometer"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a magnetic force can change a charged particle’s direction but never its speed.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U3"
+      ]
+    },
+    {
+      "id": "mt_JmiIqglyxj",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Magnetic Dipoles, Earth's Magnetism and Magnetic Materials",
+      "description": "Understand that a current loop behaves as a magnetic dipole, that Earth itself has such a field, and that materials respond to fields as para-, dia- or ferromagnetic.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains a current loop as a magnetic dipole",
+        "Describes Earth’s magnetic elements",
+        "Distinguishes para-, dia- and ferromagnetic behaviour"
+      ],
+      "assessmentPrompt": "Ask {{name}} why iron can be turned into a permanent magnet but copper cannot.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U3"
+      ]
+    },
+    {
+      "id": "mt_8sTAMpsOnw",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Faraday's and Lenz's Laws",
+      "description": "Understand that a changing magnetic flux induces an emf, and that the induced current always opposes the change producing it, which is conservation of energy in disguise.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "States Faraday's law relating induced emf to rate of change of flux",
+        "Uses Lenz's law to find the direction of induced current",
+        "Explains eddy currents and a use or drawback of them"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a magnet dropped down a copper pipe falls in slow motion.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U4"
+      ]
+    },
+    {
+      "id": "mt_3td5lJ0pR1",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Alternating Current, Impedance and Resonance",
+      "description": "Understand that in AC circuits capacitors and inductors oppose current in ways that depend on frequency, and that at resonance their effects cancel.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes peak from rms values",
+        "Explains how reactance varies with frequency",
+        "Explains the condition for resonance in an LCR circuit"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a radio picks out one station from all the signals reaching its aerial.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U4"
+      ]
+    },
+    {
+      "id": "mt_xAuR9mF16Q",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Electromagnetic Waves and the Spectrum",
+      "description": "Understand that changing electric and magnetic fields sustain one another as a transverse wave travelling at the speed of light, spanning radio waves through to gamma rays.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the transverse nature of electromagnetic waves",
+        "Orders the spectrum by wavelength or frequency",
+        "Matches a band of the spectrum to a use"
+      ],
+      "assessmentPrompt": "Ask {{name}} what radio waves, visible light and X-rays have in common.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U5"
+      ]
+    },
+    {
+      "id": "mt_sdHNUFpkPX",
+      "type": "PROCEDURAL",
+      "subject": "Physics",
+      "domain": "Optics",
+      "name": "Ray Optics: Mirrors, Lenses and Total Internal Reflection",
+      "description": "Locate images formed by spherical mirrors and thin lenses using the mirror and lens formulae, and explain total internal reflection and its use in optical fibres.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Applies the mirror or lens formula to locate an image",
+        "States the condition for total internal reflection",
+        "Explains how an optical fibre guides light"
+      ],
+      "assessmentPrompt": "Ask {{name}} how light can be made to travel around a bend without escaping the fibre.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U6"
+      ]
+    },
+    {
+      "id": "mt_G8TwCUQcuj",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Optics",
+      "name": "Optical Instruments and Defects of Vision",
+      "description": "Understand how the eye forms and focuses an image, why common defects arise, and how microscopes and telescopes combine lenses to magnify.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains accommodation in the human eye",
+        "Matches a vision defect to its corrective lens",
+        "Explains how a compound microscope or telescope magnifies"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a short-sighted person needs a different lens from a long-sighted one.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U6"
+      ]
+    },
+    {
+      "id": "mt_7k5YtzyXpR",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Optics",
+      "name": "Wave Optics: Huygens' Principle, Interference and Diffraction",
+      "description": "Understand that treating light as a wave explains reflection, refraction, the fringes of double-slit interference and the spreading of light at a narrow slit.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Uses Huygens' construction to explain reflection or refraction",
+        "Explains the fringe pattern in the double-slit experiment",
+        "Explains why diffraction limits resolving power"
+      ],
+      "assessmentPrompt": "Ask {{name}} why light passing through two narrow slits makes stripes rather than two bright lines.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U6"
+      ]
+    },
+    {
+      "id": "mt_7z3905ACr5",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Optics",
+      "name": "Polarisation of Light",
+      "description": "Understand that light waves vibrate in directions perpendicular to travel, that filters can select one direction, and that this proves light is transverse.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains what plane-polarised light is",
+        "States Brewster's law",
+        "Explains why polarisation shows light must be transverse"
+      ],
+      "assessmentPrompt": "Ask {{name}} why polaroid sunglasses cut glare from a wet road but ordinary tinted ones do not.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U6"
+      ]
+    },
+    {
+      "id": "mt_q8Lf0ddMQP",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Modern Physics",
+      "name": "The Photoelectric Effect and Matter Waves",
+      "description": "Understand that light ejects electrons only above a threshold frequency, forcing a particle picture of light, and that particles in turn show wave behaviour.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains why the photoelectric effect depends on frequency not intensity",
+        "States Einstein's photoelectric equation and what each term means",
+        "Relates the de Broglie wavelength to momentum"
+      ],
+      "assessmentPrompt": "Ask {{name}} why very bright red light ejects no electrons while faint blue light does.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U7"
+      ]
+    },
+    {
+      "id": "mt_6BEU0BGn8i",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Modern Physics",
+      "name": "Rutherford and Bohr Models of the Atom",
+      "description": "Understand how alpha-particle scattering revealed a tiny dense nucleus, and how Bohr’s quantised energy levels account for the sharp lines of the hydrogen spectrum.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains what alpha-particle scattering showed about atomic structure",
+        "Explains why the Bohr model needs quantised orbits",
+        "Links energy-level transitions to spectral lines"
+      ],
+      "assessmentPrompt": "Ask {{name}} why heated hydrogen gives out only a few sharp colours instead of a continuous rainbow.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U8"
+      ]
+    },
+    {
+      "id": "mt_4cc1RD9vYd",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Modern Physics",
+      "name": "Nuclear Structure, Radioactivity, Fission and Fusion",
+      "description": "Understand that mass lost in binding a nucleus appears as energy, and that this binding-energy curve explains why heavy nuclei release energy by splitting and light ones by fusing.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes alpha, beta and gamma radiation",
+        "Relates mass defect to binding energy",
+        "Explains from the binding-energy curve why both fission and fusion release energy"
+      ],
+      "assessmentPrompt": "Ask {{name}} how splitting a heavy atom and joining two light ones can both give out energy.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U8"
+      ]
+    },
+    {
+      "id": "mt_WR1hBi2yuS",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electronics & Communication",
+      "name": "Semiconductors, Diodes and Transistors",
+      "description": "Understand that doping silicon creates junctions that pass current one way, and that a transistor uses a small current to control a much larger one.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how doping produces n-type and p-type material",
+        "Explains why a diode conducts in only one direction",
+        "Explains transistor action as small current controlling large current"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a device with no moving parts can act as a one-way valve for electricity.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U9"
+      ]
+    },
+    {
+      "id": "mt_JDUB7RyyLd",
+      "type": "REPRESENTATIONAL",
+      "subject": "Physics",
+      "domain": "Electronics & Communication",
+      "name": "Logic Gates",
+      "description": "Understand that transistors switching between on and off implement logical operations, and that combining a few gate types builds any digital function.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "States the truth table of AND, OR and NOT gates",
+        "Traces the output of a small combination of gates",
+        "Explains how NAND or NOR can build the other gates"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a circuit that only knows on and off can make a decision.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U9"
+      ]
+    },
+    {
+      "id": "mt_ZP8lBMjXNt",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electronics & Communication",
+      "name": "Communication Systems and Modulation",
+      "description": "Understand that a message must be carried on a high-frequency wave to travel usefully, and that modulation is how information is impressed on that carrier.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Names the elements of a communication system",
+        "Explains why modulation is necessary",
+        "Describes how an amplitude-modulated wave carries a signal"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a radio station broadcasts at a frequency far above the sounds it is sending.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U10"
+      ]
+    },
+    {
+      "id": "mt_MPlojUG33N",
+      "type": "PROCEDURAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Stoichiometry and Reacting Masses",
+      "description": "Use the mole to convert between mass, particle number and volume, so that a balanced equation predicts exactly how much of each substance reacts and forms.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Converts between mass, moles and number of particles",
+        "Determines empirical and molecular formulae from composition",
+        "Calculates the limiting reagent and yield of a reaction"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a chemist knows how much of one reactant is needed to use up exactly all of another.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U1"
+      ]
+    },
+    {
+      "id": "mt_gdWHQduH6o",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "The Quantum Atom: Orbitals and Quantum Numbers",
+      "description": "Understand that electrons occupy orbitals described by quantum numbers rather than fixed orbits, and that an orbital gives the region where an electron is likely to be found.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains why the Bohr model had to be replaced",
+        "States what each quantum number specifies",
+        "Describes the shapes of s and p orbitals"
+      ],
+      "assessmentPrompt": "Ask {{name}} why we talk about where an electron probably is rather than exactly where it is.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U2"
+      ]
+    },
+    {
+      "id": "mt_JO7ZdwoJli",
+      "type": "PROCEDURAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Electronic Configuration and the Filling Rules",
+      "description": "Apply the Aufbau principle, Pauli exclusion and Hund’s rule to write the electron arrangement of an atom, and explain the stability of half-filled and filled subshells.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Writes the electronic configuration of a given element",
+        "Applies Hund’s rule to fill degenerate orbitals",
+        "Explains an anomalous configuration such as chromium or copper"
+      ],
+      "assessmentPrompt": "Ask {{name}} why copper does not fill its orbitals in the order the simple rule predicts.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U2"
+      ]
+    },
+    {
+      "id": "mt_JEYmJUXPn6",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Inorganic Chemistry",
+      "name": "Periodic Trends in Atomic Properties",
+      "description": "Explain how atomic and ionic radii, ionization enthalpy, electron gain enthalpy and electronegativity vary across periods and down groups, in terms of nuclear charge and shielding.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Predicts a trend across a period and explains it by nuclear charge",
+        "Explains why radii increase down a group",
+        "Accounts for an exception to a smooth trend"
+      ],
+      "assessmentPrompt": "Ask {{name}} why it gets harder to remove an electron as you move across a period.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U3"
+      ]
+    },
+    {
+      "id": "mt_TW7VUyCiBI",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Inorganic Chemistry",
+      "name": "Ionic and Covalent Bonding",
+      "description": "Understand that atoms bond by transferring or sharing electrons, that most real bonds sit between these extremes, and that Lewis structures record the electrons involved.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Draws Lewis structures for simple molecules and ions",
+        "Explains partial ionic character in a covalent bond",
+        "Relates bond length, bond angle and bond enthalpy to bond strength"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a bond is ever purely ionic or purely covalent, and what decides where it sits between them.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U4"
+      ]
+    },
+    {
+      "id": "mt_bH2dNb59ml",
+      "type": "PROCEDURAL",
+      "subject": "Chemistry",
+      "domain": "Inorganic Chemistry",
+      "name": "VSEPR Theory and Molecular Shape",
+      "description": "Predict the shape of a molecule by arranging its bonding and lone pairs as far apart as possible, and explain how lone pairs compress bond angles.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Predicts the shape of a molecule from its electron pairs",
+        "Explains why water is bent rather than linear",
+        "Ranks repulsion between lone pairs and bonding pairs"
+      ],
+      "assessmentPrompt": "Ask {{name}} why water molecules are bent when the two hydrogens could sit opposite each other.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U4"
+      ]
+    },
+    {
+      "id": "mt_j4aLtBDPiM",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Inorganic Chemistry",
+      "name": "Hybridisation and Valence Bond Theory",
+      "description": "Understand that atomic orbitals mix to form equivalent hybrid orbitals whose arrangement accounts for observed bond angles, and that resonance describes bonding no single structure captures.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Assigns the hybridisation of a central atom",
+        "Links a hybridisation to a molecular geometry",
+        "Explains resonance in a species such as carbonate or benzene"
+      ],
+      "assessmentPrompt": "Ask {{name}} why all four bonds in methane are identical when carbon’s orbitals are not.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U4"
+      ]
+    },
+    {
+      "id": "mt_KAenhScCp1",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Intermolecular Forces and Hydrogen Bonding",
+      "description": "Understand that forces between molecules, not within them, set melting and boiling points, and that hydrogen bonding explains water’s unusually high boiling point.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Ranks the strengths of dispersion, dipole-dipole and hydrogen bonding",
+        "Explains a boiling point trend using intermolecular forces",
+        "Explains an anomalous property of water by hydrogen bonding"
+      ],
+      "assessmentPrompt": "Ask {{name}} why water is a liquid at room temperature when similar-sized molecules are gases.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U5"
+      ]
+    },
+    {
+      "id": "mt_RMLacbaTPr",
+      "type": "PROCEDURAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "The Gas Laws and the Ideal Gas Equation",
+      "description": "Combine the relationships between pressure, volume, temperature and amount into a single equation of state, and use it to compute any one of these from the others.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "States Boyle’s, Charles’ and Avogadro’s laws",
+        "Applies the ideal gas equation to a calculation",
+        "Explains what each variable in the equation represents"
+      ],
+      "assessmentPrompt": "Ask {{name}} what happens to the pressure in a sealed container as it is heated, and why.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U5"
+      ]
+    },
+    {
+      "id": "mt_YE863C0gHZ",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Real Gases and Liquefaction",
+      "description": "Understand that real gases depart from ideal behaviour because molecules occupy volume and attract one another, and that above the critical temperature no pressure will liquefy a gas.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains why real gases deviate from ideal behaviour",
+        "Identifies the conditions under which deviation is greatest",
+        "Explains the meaning of critical temperature"
+      ],
+      "assessmentPrompt": "Ask {{name}} why some gases can be liquefied by pressure alone and others must first be cooled.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U5"
+      ]
+    },
+    {
+      "id": "mt_IRu53AItu4",
+      "type": "PROCEDURAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Enthalpy and Hess’s Law",
+      "description": "Understand that enthalpy is a state function, so the heat change of a reaction is the same by any route, allowing unknown enthalpies to be found by combining known ones.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a state function from a path function",
+        "Applies Hess’s law to compute an unknown enthalpy change",
+        "Uses enthalpies of formation to find a reaction enthalpy"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a chemist can find the heat of a reaction that is impossible to carry out directly.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U6"
+      ]
+    },
+    {
+      "id": "mt_tmdzqsU1WE",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Entropy, Free Energy and Spontaneity",
+      "description": "Understand that whether a change happens on its own depends on both energy and disorder, combined in the free energy change, which must be negative for a spontaneous process.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains entropy as a measure of dispersal or disorder",
+        "Uses the sign of free energy change to judge spontaneity",
+        "Explains how temperature can reverse spontaneity"
+      ],
+      "assessmentPrompt": "Ask {{name}} why ice melts on its own at room temperature even though it takes in energy to do so.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U6"
+      ]
+    },
+    {
+      "id": "mt_SDCd5grBpQ",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Chemical Equilibrium and Le Chatelier’s Principle",
+      "description": "Understand that equilibrium is dynamic rather than static, described by an equilibrium constant, and that a system disturbed from it shifts so as to oppose the disturbance.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains why equilibrium is dynamic",
+        "Writes the equilibrium constant expression for a reaction",
+        "Predicts the shift caused by a change in concentration, pressure or temperature"
+      ],
+      "assessmentPrompt": "Ask {{name}} what is still happening in a reaction that appears to have stopped.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_Nep5PcwnGk",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Ionic Equilibrium, pH and Buffers",
+      "description": "Understand that weak acids and bases ionise only partly, that pH measures hydrogen ion concentration logarithmically, and that buffers resist pH change by holding a conjugate pair.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes strong from weak electrolytes by degree of ionization",
+        "Calculates pH from hydrogen ion concentration",
+        "Explains how a buffer resists a change in pH"
+      ],
+      "assessmentPrompt": "Ask {{name}} why adding a little acid to blood barely changes its pH.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_jFeQ7T89LS",
+      "type": "PROCEDURAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Oxidation Number and Balancing Redox Reactions",
+      "description": "Assign oxidation numbers to track which species lose and gain electrons, and use them to balance redox equations that inspection cannot.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Assigns oxidation numbers in a compound or ion",
+        "Identifies the oxidising and reducing agents in a reaction",
+        "Balances a redox equation by the oxidation number or half-reaction method"
+      ],
+      "assessmentPrompt": "Ask {{name}} how to tell which substance was oxidised in a reaction where no oxygen appears at all.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U8"
+      ]
+    },
+    {
+      "id": "mt_paCmQCya6m",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Inorganic Chemistry",
+      "name": "Hydrogen and Its Compounds",
+      "description": "Understand why hydrogen resists placement in the periodic table, and survey its isotopes, its ionic, covalent and interstitial hydrides, water, heavy water and hydrogen peroxide.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains why hydrogen fits neither group 1 nor group 17 comfortably",
+        "Classifies a hydride as ionic, covalent or interstitial",
+        "Describes a property or use of hydrogen peroxide"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the periodic table struggles to find a home for the simplest element of all.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U9"
+      ]
+    },
+    {
+      "id": "mt_DAyAvIcrn1",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Inorganic Chemistry",
+      "name": "s-Block Elements",
+      "description": "Understand the alkali and alkaline earth metals as two groups whose reactivity rises down the group, and account for the anomalous first member and diagonal relationships.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the trend in reactivity down group 1 or 2",
+        "Explains why lithium and beryllium behave anomalously",
+        "Describes the preparation or use of an important sodium or calcium compound"
+      ],
+      "assessmentPrompt": "Ask {{name}} why sodium is stored under oil but magnesium is not.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U10"
+      ]
+    },
+    {
+      "id": "mt_b3XzejLzAW",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Inorganic Chemistry",
+      "name": "p-Block Elements: Groups 13 and 14",
+      "description": "Survey the boron and carbon groups, explaining the anomalous behaviour of the first element, the inert pair effect, and carbon’s unique capacity for catenation.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains catenation and why carbon shows it so strongly",
+        "Describes a use of an important boron, aluminium or silicon compound",
+        "Explains a trend in oxidation state down the group"
+      ],
+      "assessmentPrompt": "Ask {{name}} why carbon can form millions of compounds when silicon just below it cannot.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U11"
+      ]
+    },
+    {
+      "id": "mt_RTNQKgrFO5",
+      "type": "PROCEDURAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "IUPAC Nomenclature of Organic Compounds",
+      "description": "Name an organic compound systematically from its structure by identifying the parent chain, the functional group and the substituents, and draw a structure from its name.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Identifies the parent chain and principal functional group",
+        "Writes the IUPAC name of a branched or substituted compound",
+        "Draws a structure from a given IUPAC name"
+      ],
+      "assessmentPrompt": "Ask {{name}} to name a branched hydrocarbon and explain how they chose the main chain.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U12"
+      ]
+    },
+    {
+      "id": "mt_qR0V7rZq47",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Electronic Effects and Reaction Intermediates",
+      "description": "Understand that inductive, resonance and hyperconjugative effects redistribute electron density, and that bonds break to give free radicals, carbocations or carbanions attacked by electrophiles or nucleophiles.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes homolytic from heterolytic bond fission",
+        "Ranks the stability of carbocations or radicals and explains why",
+        "Classifies a reagent as electrophile or nucleophile"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a positive charge on a carbon is more stable when more carbon groups surround it.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U12"
+      ]
+    },
+    {
+      "id": "mt_n2sBudvjSK",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Alkanes and Free Radical Substitution",
+      "description": "Understand that saturated hydrocarbons are relatively unreactive but undergo substitution by a free radical chain of initiation, propagation and termination.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains conformations of ethane and why they interconvert",
+        "Outlines the three stages of a free radical chain",
+        "Explains why alkanes give a mixture of products on halogenation"
+      ],
+      "assessmentPrompt": "Ask {{name}} why chlorinating methane produces several different products rather than one.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U13"
+      ]
+    },
+    {
+      "id": "mt_UFUIAwwwEb",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Alkenes and Electrophilic Addition",
+      "description": "Understand that the electron-rich double bond attracts electrophiles and adds across them, and that Markovnikov’s rule predicts the orientation from carbocation stability.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains geometrical isomerism in alkenes",
+        "Predicts the major product using Markovnikov’s rule",
+        "Explains the peroxide effect as a change of mechanism"
+      ],
+      "assessmentPrompt": "Ask {{name}} why adding HBr to propene gives mainly one product and not an even mixture.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U13"
+      ]
+    },
+    {
+      "id": "mt_y8XEnbzNlH",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Alkynes",
+      "description": "Understand that the triple bond makes terminal alkynes weakly acidic and allows successive addition reactions across the two pi bonds.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains why a terminal alkyne is weakly acidic",
+        "Predicts the product of addition to an alkyne",
+        "Compares the reactivity of alkynes with alkenes"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the hydrogen on the end of an alkyne can be removed but one on an alkane cannot.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U13"
+      ]
+    },
+    {
+      "id": "mt_ZTEAKAuuO7",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Benzene, Aromaticity and Electrophilic Substitution",
+      "description": "Understand that delocalisation makes benzene unusually stable, so it substitutes rather than adds, and that existing groups direct where the next substituent goes.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains aromaticity and the stability it confers",
+        "Explains why benzene substitutes rather than adds",
+        "Predicts the directing influence of a substituent"
+      ],
+      "assessmentPrompt": "Ask {{name}} why benzene, with three double bonds, does not decolourise bromine water the way an alkene does.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U13"
+      ]
+    },
+    {
+      "id": "mt_aQJnEk0FVv",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Chemistry in Society",
+      "name": "Environmental Chemistry and Green Chemistry",
+      "description": "Understand the chemical basis of smog, acid rain, ozone depletion and the greenhouse effect, and the principle of designing processes that avoid producing pollutants at all.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the chemistry behind acid rain or ozone depletion",
+        "Distinguishes classical and photochemical smog",
+        "Explains what green chemistry sets out to change"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether it is better to clean up a pollutant or to design a process that never makes it.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U14"
+      ]
+    },
+    {
+      "id": "mt_98IA97d6yn",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "The Solid State and Unit Cells",
+      "description": "Understand that a crystal is a lattice repeating a unit cell, and that counting the atoms in that cell gives the density and packing efficiency of the whole solid.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes crystalline from amorphous solids",
+        "Counts atoms per unit cell in a cubic lattice",
+        "Relates packing and voids to density"
+      ],
+      "assessmentPrompt": "Ask {{name}} how knowing the size of one tiny repeating box tells you the density of a whole crystal.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U1"
+      ]
+    },
+    {
+      "id": "mt_q2kGHTJH5s",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Solutions and Colligative Properties",
+      "description": "Understand that some properties of a solution depend only on how many solute particles are present, not what they are, which allows molecular masses to be measured.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains why colligative properties depend on particle number",
+        "Relates freezing point depression or boiling point elevation to concentration",
+        "Explains abnormal molecular mass by association or dissociation"
+      ],
+      "assessmentPrompt": "Ask {{name}} why salt is spread on icy roads, and what that has to do with measuring molecular mass.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U2"
+      ]
+    },
+    {
+      "id": "mt_k24UxiIFWO",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Electrochemical Cells and the Nernst Equation",
+      "description": "Understand that a spontaneous redox reaction can be separated into half cells to drive current, and that cell potential depends on concentration through the Nernst equation.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a galvanic from an electrolytic cell",
+        "Computes standard cell emf from electrode potentials",
+        "Explains how concentration changes cell potential"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a battery turns a chemical reaction into a current, and why it eventually goes flat.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U3"
+      ]
+    },
+    {
+      "id": "mt_YHqOwdvJ4x",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Electrolysis, Conductance and Corrosion",
+      "description": "Understand how ionic solutions conduct, how the quantity of electricity passed determines the amount of substance deposited, and why corrosion is an electrochemical process.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Relates charge passed to mass deposited in electrolysis",
+        "Explains how molar conductivity varies with dilution",
+        "Explains rusting as an electrochemical process"
+      ],
+      "assessmentPrompt": "Ask {{name}} why iron rusts faster in salty water than in pure water.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U3"
+      ]
+    },
+    {
+      "id": "mt_X26ncid7bv",
+      "type": "PROCEDURAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Chemical Kinetics: Rate Laws and Order",
+      "description": "Understand that a rate law must be found experimentally rather than read off the equation, and use it to determine order, rate constant and half life.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes order from molecularity",
+        "Determines reaction order from experimental rate data",
+        "Uses the integrated rate equation for a first order reaction"
+      ],
+      "assessmentPrompt": "Ask {{name}} why you cannot tell how fast a reaction goes just by looking at its balanced equation.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U4"
+      ]
+    },
+    {
+      "id": "mt_2sqSvuu0Mn",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Collision Theory, Activation Energy and Catalysis",
+      "description": "Understand that reaction requires collisions with enough energy and the right orientation, and that a catalyst speeds reaction by offering a lower-energy path.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains why only some collisions lead to reaction",
+        "Explains the effect of temperature using activation energy",
+        "Explains how a catalyst changes the reaction pathway"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a small rise in temperature can double a reaction rate.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U4",
+        "ncert-hsec:CHE.C12.U5"
+      ]
+    },
+    {
+      "id": "mt_80Sb9JI1Es",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Adsorption and the Colloidal State",
+      "description": "Understand the difference between adsorption at a surface and absorption throughout, and recognise colloids as a distinct state between true solutions and suspensions.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes physisorption from chemisorption",
+        "Distinguishes a colloid from a true solution and a suspension",
+        "Explains the Tyndall effect or coagulation"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a beam of light is visible passing through milk but not through salt water.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U5"
+      ]
+    },
+    {
+      "id": "mt_64BcOrxkJT",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Inorganic Chemistry",
+      "name": "Principles of Metallurgy",
+      "description": "Understand that extracting a metal means reducing its ore, and that the method chosen — carbon reduction, electrolysis or otherwise — follows from the metal’s reactivity.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Outlines the stages from ore to pure metal",
+        "Explains why reactive metals require electrolytic extraction",
+        "Describes the extraction of aluminium or iron"
+      ],
+      "assessmentPrompt": "Ask {{name}} why aluminium was once more precious than gold despite being far more abundant.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U6"
+      ]
+    },
+    {
+      "id": "mt_Q0HIafyT5M",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Inorganic Chemistry",
+      "name": "p-Block Elements: Groups 15 to 18",
+      "description": "Survey the nitrogen, oxygen, halogen and noble gas groups, explaining trends in oxidation state and reactivity and the preparation of key industrial compounds.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains a trend in properties down group 15, 16 or 17",
+        "Describes the industrial manufacture of ammonia, nitric acid or sulphuric acid",
+        "Explains why noble gases are so unreactive"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the halogens get less reactive down the group while the alkali metals get more so.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U7"
+      ]
+    },
+    {
+      "id": "mt_mrAQiMCvDM",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Inorganic Chemistry",
+      "name": "d- and f-Block Elements",
+      "description": "Understand that partly filled d orbitals give transition metals variable oxidation states, colour, catalytic activity and magnetism, and that lanthanoid contraction shapes the f block.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains why transition metals show variable oxidation states",
+        "Explains the origin of colour in transition metal compounds",
+        "Explains lanthanoid contraction and one of its consequences"
+      ],
+      "assessmentPrompt": "Ask {{name}} why compounds of iron and copper are coloured but those of sodium and calcium are white.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U8"
+      ]
+    },
+    {
+      "id": "mt_AfPcEJE9Mx",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Inorganic Chemistry",
+      "name": "Coordination Compounds",
+      "description": "Understand that ligands donate electron pairs to a central metal ion to form a complex whose shape, colour and magnetism follow from that bonding.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Identifies ligands, coordination number and oxidation state in a complex",
+        "Names a mononuclear complex by IUPAC rules",
+        "Gives a biological or analytical use of a coordination compound"
+      ],
+      "assessmentPrompt": "Ask {{name}} what haemoglobin and a laboratory colour test have in common.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U9"
+      ]
+    },
+    {
+      "id": "mt_0xSs0MkMgO",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Haloalkanes and Nucleophilic Substitution",
+      "description": "Understand that the polar carbon-halogen bond invites attack by nucleophiles, and that substitution proceeds by one of two mechanisms depending on the substrate.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the polarity of the carbon-halogen bond",
+        "Distinguishes the two substitution mechanisms and when each dominates",
+        "Explains why haloarenes resist substitution"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a tertiary haloalkane and a primary one react by different routes.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U10"
+      ]
+    },
+    {
+      "id": "mt_Lq4yHFNmu8",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Alcohols, Phenols and Ethers",
+      "description": "Understand how the hydroxyl group behaves differently on a chain and on a ring, so that phenol is appreciably acidic while an alcohol is essentially neutral.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes primary, secondary and tertiary alcohols by test",
+        "Explains why phenol is more acidic than an alcohol",
+        "Outlines the mechanism of dehydration of an alcohol"
+      ],
+      "assessmentPrompt": "Ask {{name}} why phenol turns litmus red but ethanol does not, when both contain an OH group.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U11"
+      ]
+    },
+    {
+      "id": "mt_8unSEOrpKD",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Aldehydes, Ketones and Nucleophilic Addition",
+      "description": "Understand that the polarised carbonyl group attracts nucleophiles to its carbon, and that aldehydes are more reactive and more easily oxidised than ketones.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the polarity of the carbonyl group",
+        "Explains why aldehydes are more reactive than ketones",
+        "Describes a test distinguishing an aldehyde from a ketone"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a chemist could tell an aldehyde from a ketone in the laboratory.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U12"
+      ]
+    },
+    {
+      "id": "mt_o9ofT2PXze",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Carboxylic Acids",
+      "description": "Understand that the carboxyl group is acidic because the anion left after losing a proton is stabilised by delocalisation, and that substituents shift that acidity predictably.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the acidity of carboxylic acids by resonance stabilisation",
+        "Predicts how an electron-withdrawing group changes acidity",
+        "Describes a method of preparing a carboxylic acid"
+      ],
+      "assessmentPrompt": "Ask {{name}} why acetic acid gives up a proton readily but ethanol barely does.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U12"
+      ]
+    },
+    {
+      "id": "mt_QEOHAzSDBJ",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Amines and Diazonium Salts",
+      "description": "Understand that amines are basic because nitrogen’s lone pair accepts a proton, and that diazonium salts convert an amino group into a gateway to many aromatic compounds.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the basicity of amines and compares aliphatic with aromatic",
+        "Distinguishes primary, secondary and tertiary amines by test",
+        "Explains the synthetic importance of diazonium salts"
+      ],
+      "assessmentPrompt": "Ask {{name}} why aniline is a weaker base than an ordinary aliphatic amine.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U13"
+      ]
+    },
+    {
+      "id": "mt_7wcloflGqV",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Carbohydrates",
+      "description": "Understand that sugars are classified by how many units they contain and by their functional group, and that the same glucose units build starch, glycogen and cellulose.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Classifies a sugar as mono-, oligo- or polysaccharide",
+        "Distinguishes an aldose from a ketose",
+        "Explains why humans digest starch but not cellulose"
+      ],
+      "assessmentPrompt": "Ask {{name}} why we can digest potatoes but not paper when both are made of glucose units.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U14"
+      ]
+    },
+    {
+      "id": "mt_bmYWs89ulB",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Proteins and Enzymes",
+      "description": "Understand that amino acids link by peptide bonds into chains that fold into a specific shape, and that an enzyme’s catalytic power depends on keeping that shape.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Describes the peptide bond and the levels of protein structure",
+        "Explains what denaturation does and what causes it",
+        "Explains why enzyme action is specific"
+      ],
+      "assessmentPrompt": "Ask {{name}} why cooking an egg cannot be undone, and what that says about protein structure.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U14"
+      ]
+    },
+    {
+      "id": "mt_xVNifHi31g",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Nucleic Acids and Vitamins",
+      "description": "Understand that DNA and RNA store and carry genetic information through their sequence of bases, and that vitamins are small molecules required in trace amounts for metabolism.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Describes the components of a nucleotide",
+        "Distinguishes DNA from RNA in structure and role",
+        "Classifies vitamins as fat- or water-soluble and gives a function"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a molecule can store information, and what the information is written in.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U14"
+      ]
+    },
+    {
+      "id": "mt_BJnhjrrORk",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Polymers",
+      "description": "Understand that polymers are long chains built by repeating small units, joined either by addition across double bonds or by condensation with loss of a small molecule.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes addition from condensation polymerisation",
+        "Identifies the monomer of a common polymer",
+        "Relates a polymer’s structure to a property such as flexibility"
+      ],
+      "assessmentPrompt": "Ask {{name}} what polythene and nylon have in common, and how the way they are made differs.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U15"
+      ]
+    },
+    {
+      "id": "mt_bDFUpEwNnz",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Chemistry in Society",
+      "name": "Chemistry in Everyday Life",
+      "description": "Understand how medicines, food additives and cleansing agents are classified by what they do, and how soaps and detergents remove grease that water alone cannot.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Classifies a drug by its therapeutic action",
+        "Explains the cleansing action of soap in terms of molecular structure",
+        "Explains why detergents work in hard water where soaps fail"
+      ],
+      "assessmentPrompt": "Ask {{name}} how soap removes oil when oil and water do not mix.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U16"
+      ]
+    },
+    {
+      "id": "mt_vdLWeb4Jvk",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Diversity & Classification",
+      "name": "The Five Kingdom Classification",
+      "description": "Understand that all living things can be sorted into five kingdoms on the basis of cell type, body organisation and mode of nutrition, and why earlier two-kingdom schemes failed.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Names the five kingdoms and a criterion separating them",
+        "Explains why fungi were separated from plants",
+        "Places an unfamiliar organism in a kingdom using stated criteria"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a mushroom is not classed as a plant even though it does not move.",
+      "standards": [
+        "ncert-hsec:BIO.U1"
+      ]
+    },
+    {
+      "id": "mt_XsbZcdaI62",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Diversity & Classification",
+      "name": "Systematics and Binomial Nomenclature",
+      "description": "Understand that every species carries a two-part Latin name placing it in a nested hierarchy, so that one organism means the same thing to biologists anywhere in the world.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Writes a binomial name with correct conventions",
+        "Orders the taxonomic hierarchy from kingdom to species",
+        "Explains why common names are unreliable for scientific work"
+      ],
+      "assessmentPrompt": "Ask {{name}} why scientists insist on Latin names when everyone already has a word for a cat.",
+      "standards": [
+        "ncert-hsec:BIO.U1"
+      ]
+    },
+    {
+      "id": "mt_55LopQHLtf",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Diversity & Classification",
+      "name": "Major Groups of Plants and Animals",
+      "description": "Recognise the salient features that define the major plant groups and animal phyla, and use those features to place an organism in its group.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "States a defining feature of a major plant group",
+        "Distinguishes chordates from non-chordates",
+        "Assigns a specimen to a group and justifies the choice"
+      ],
+      "assessmentPrompt": "Ask {{name}} what single feature they would look for to tell a fern from a moss.",
+      "standards": [
+        "ncert-hsec:BIO.U1"
+      ]
+    },
+    {
+      "id": "mt_EQTcgpAVrm",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Structural Organisation",
+      "name": "Morphology of Flowering Plants",
+      "description": "Understand the external form of root, stem, leaf, flower, fruit and seed, and that floral characteristics form the basis on which flowering plants are identified and classified.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Labels the parts of a flower and states each function",
+        "Writes or reads a floral formula",
+        "Uses floral features to assign a plant to a family"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a botanist can identify a plant family just by dissecting one flower.",
+      "standards": [
+        "ncert-hsec:BIO.U2"
+      ]
+    },
+    {
+      "id": "mt_9KEs6JLlCs",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Structural Organisation",
+      "name": "Plant Tissues and Anatomy",
+      "description": "Understand that plants are built from meristematic and permanent tissues arranged in characteristic patterns, so a stem, root and leaf can be told apart in cross section.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes meristematic from permanent tissue",
+        "Identifies xylem and phloem and states their roles",
+        "Distinguishes a root from a stem in transverse section"
+      ],
+      "assessmentPrompt": "Ask {{name}} how they could tell a root from a stem by looking at a thin slice under a microscope.",
+      "standards": [
+        "ncert-hsec:BIO.U2"
+      ]
+    },
+    {
+      "id": "mt_C2HnTJ1FPM",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Structural Organisation",
+      "name": "Animal Tissues and Body Organisation",
+      "description": "Understand that animal bodies are built from four tissue types assembled into organs and systems, and that increasing complexity brings increasing division of labour.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Names the four animal tissue types and a location of each",
+        "Explains division of labour in a body plan",
+        "Compares organisation in an invertebrate and a vertebrate"
+      ],
+      "assessmentPrompt": "Ask {{name}} what advantage an animal gains by having specialised tissues rather than identical cells.",
+      "standards": [
+        "ncert-hsec:BIO.U2"
+      ]
+    },
+    {
+      "id": "mt_242QTzoZyx",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Cell & Biomolecules",
+      "name": "Cell Organelles and Their Functions",
+      "description": "Understand that a cell is a compartmentalised factory in which each organelle performs a distinct task in synthesis, breakdown, energy release or transport.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Matches each organelle to its function",
+        "Explains why compartmentalisation is an advantage",
+        "Distinguishes plant from animal cells by their organelles"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a cell keeps its digestive enzymes shut inside a sac rather than loose in the cytoplasm.",
+      "standards": [
+        "ncert-hsec:BIO.U3"
+      ]
+    },
+    {
+      "id": "mt_BTpZFiW5Ge",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Cell & Biomolecules",
+      "name": "The Cell Cycle, Mitosis and Meiosis",
+      "description": "Understand that mitosis produces two identical cells for growth and repair while meiosis halves the chromosome number and shuffles genes to make gametes.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Orders the stages of mitosis and describes each",
+        "States the key differences between mitosis and meiosis",
+        "Explains why meiosis is essential for sexual reproduction"
+      ],
+      "assessmentPrompt": "Ask {{name}} why chromosome number would double every generation if gametes were made by mitosis.",
+      "standards": [
+        "ncert-hsec:BIO.U3"
+      ]
+    },
+    {
+      "id": "mt_QvFbpwUEQ2",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Cell & Biomolecules",
+      "name": "Biomolecules of the Living Cell",
+      "description": "Understand that living bodies are built mainly from four classes of macromolecule — carbohydrates, proteins, lipids and nucleic acids — each suited to a distinct set of roles.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Matches each macromolecule class to its main biological roles",
+        "Explains why proteins are the most functionally varied",
+        "Relates the structure of a biomolecule to its function"
+      ],
+      "assessmentPrompt": "Ask {{name}} why proteins can do so many different jobs when carbohydrates mostly store energy.",
+      "standards": [
+        "ncert-hsec:BIO.U3"
+      ]
+    },
+    {
+      "id": "mt_LhRaUEB41L",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Cell & Biomolecules",
+      "name": "Enzymes: Properties and Action",
+      "description": "Understand that enzymes are protein catalysts that lower activation energy, act on specific substrates, and lose function if their shape is disturbed by heat or pH.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains enzyme specificity in terms of shape",
+        "Describes the effect of temperature and pH on enzyme activity",
+        "Explains how an enzyme speeds a reaction without being consumed"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a fever above a certain point becomes dangerous to the body’s chemistry.",
+      "standards": [
+        "ncert-hsec:BIO.U3"
+      ]
+    },
+    {
+      "id": "mt_IIdMDmzs7d",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Plant Physiology",
+      "name": "Transport of Water and Minerals in Plants",
+      "description": "Understand that water moves into roots by osmosis and up the plant in continuous columns, and that substances can also be moved against a gradient by active transport.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains osmosis and water potential in a plant context",
+        "Distinguishes passive from active transport",
+        "Explains how water rises to the top of a tall tree"
+      ],
+      "assessmentPrompt": "Ask {{name}} how water gets to the top of a tall tree when there is no pump anywhere in it.",
+      "standards": [
+        "ncert-hsec:BIO.U4"
+      ]
+    },
+    {
+      "id": "mt_IwqexNZegJ",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Plant Physiology",
+      "name": "Transpiration and Stomatal Regulation",
+      "description": "Understand that water lost through stomata creates the pull that draws the water column upward, and that the plant must balance that loss against the need for carbon dioxide.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the transpiration pull",
+        "Describes how guard cells open and close stomata",
+        "Explains the trade-off between water loss and gas exchange"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a plant cannot simply close its stomata to stop losing water.",
+      "standards": [
+        "ncert-hsec:BIO.U4"
+      ]
+    },
+    {
+      "id": "mt_YBYjtjQDNM",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Plant Physiology",
+      "name": "Mineral Nutrition and Nitrogen Fixation",
+      "description": "Understand that plants need specific mineral elements for growth, show characteristic deficiency symptoms without them, and that some can fix atmospheric nitrogen with bacterial partners.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Names a macronutrient and its role in the plant",
+        "Links a deficiency symptom to the missing element",
+        "Explains biological nitrogen fixation and its partners"
+      ],
+      "assessmentPrompt": "Ask {{name}} why farmers plant legumes between crops of wheat.",
+      "standards": [
+        "ncert-hsec:BIO.U4"
+      ]
+    },
+    {
+      "id": "mt_jNhqBvzwG6",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Plant Physiology",
+      "name": "Photosynthesis: The C3 and C4 Pathways",
+      "description": "Understand that light reactions capture energy and dark reactions fix carbon, and that the C4 pathway is an adaptation letting some plants fix carbon efficiently in hot, dry conditions.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes the light and dark reactions and where each occurs",
+        "Explains what limits the rate of photosynthesis",
+        "Explains the advantage of the C4 pathway"
+      ],
+      "assessmentPrompt": "Ask {{name}} why sugarcane and maize thrive in heat where wheat struggles.",
+      "standards": [
+        "ncert-hsec:BIO.U4"
+      ]
+    },
+    {
+      "id": "mt_dEUqJmV7Ov",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Plant Physiology",
+      "name": "Cellular Respiration and ATP",
+      "description": "Understand that glucose is oxidised in stages to release energy trapped as ATP, and that anaerobic pathways yield far less energy than aerobic ones.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Orders the stages of aerobic respiration and their locations",
+        "Explains the role of ATP as an energy currency",
+        "Compares the yield of aerobic and anaerobic respiration"
+      ],
+      "assessmentPrompt": "Ask {{name}} why muscles ache after sprinting but not after a slow walk.",
+      "standards": [
+        "ncert-hsec:BIO.U4"
+      ]
+    },
+    {
+      "id": "mt_9DBB49pBl5",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Plant Physiology",
+      "name": "Plant Growth and Growth Regulators",
+      "description": "Understand that plant growth is coordinated by a small set of chemical regulators controlling elongation, dormancy, ripening and shedding.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Matches a growth regulator to the response it controls",
+        "Explains apical dominance in terms of auxin",
+        "Describes a commercial use of a plant growth regulator"
+      ],
+      "assessmentPrompt": "Ask {{name}} why pinching out the tip of a plant makes it grow bushier.",
+      "standards": [
+        "ncert-hsec:BIO.U4"
+      ]
+    },
+    {
+      "id": "mt_4QhFwz3Ddm",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Human Physiology",
+      "name": "Digestion and Absorption",
+      "description": "Understand that food is broken down enzymatically in stages along the alimentary canal, and that the small intestine is structured to maximise the surface for absorption.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Matches each region of the gut to the enzymes acting there",
+        "Explains how villi increase absorptive surface",
+        "Traces a nutrient from mouth to bloodstream"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the small intestine is folded and covered in tiny projections.",
+      "standards": [
+        "ncert-hsec:BIO.U5"
+      ]
+    },
+    {
+      "id": "mt_RGOmcz7mx4",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Human Physiology",
+      "name": "Breathing and Gas Exchange",
+      "description": "Understand how ventilation moves air to the alveoli, how gases diffuse into and out of blood, and how oxygen and carbon dioxide are transported and their exchange regulated.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the mechanism of inspiration and expiration",
+        "Describes how oxygen and carbon dioxide are carried in blood",
+        "Explains how breathing rate is regulated"
+      ],
+      "assessmentPrompt": "Ask {{name}} what actually makes air move into the lungs, given the lungs have no muscles of their own.",
+      "standards": [
+        "ncert-hsec:BIO.U5"
+      ]
+    },
+    {
+      "id": "mt_KUDwWF9qwo",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Human Physiology",
+      "name": "Body Fluids and Circulation",
+      "description": "Understand the composition and functions of blood and lymph, and how the double circulation, cardiac cycle and its regulation keep tissues supplied.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Names the components of blood and a function of each",
+        "Describes the cardiac cycle",
+        "Explains the advantage of double circulation"
+      ],
+      "assessmentPrompt": "Ask {{name}} why blood passes through the heart twice on each full trip round the body.",
+      "standards": [
+        "ncert-hsec:BIO.U5"
+      ]
+    },
+    {
+      "id": "mt_iuLF7rbFYo",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Human Physiology",
+      "name": "Excretion and Osmoregulation",
+      "description": "Understand that the nephron filters blood and then selectively reabsorbs what the body needs, so the kidney regulates water and salt balance as well as removing waste.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Describes filtration and selective reabsorption in the nephron",
+        "Explains the kidney’s role in osmoregulation",
+        "Explains how urine concentration is adjusted"
+      ],
+      "assessmentPrompt": "Ask {{name}} why urine is darker on a hot day when little water has been drunk.",
+      "standards": [
+        "ncert-hsec:BIO.U5"
+      ]
+    },
+    {
+      "id": "mt_MbmNlfOv7P",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Human Physiology",
+      "name": "Locomotion and Movement",
+      "description": "Understand that movement results from muscles pulling on a skeleton across joints, and that muscle contraction itself is a sliding of protein filaments.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains how antagonistic muscle pairs produce movement",
+        "Outlines the sliding filament account of contraction",
+        "Matches a joint type to the movement it allows"
+      ],
+      "assessmentPrompt": "Ask {{name}} why muscles can only pull and never push, and how the body gets around that.",
+      "standards": [
+        "ncert-hsec:BIO.U5"
+      ]
+    },
+    {
+      "id": "mt_uYh7emXtEt",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Human Physiology",
+      "name": "Neural and Endocrine Coordination",
+      "description": "Understand that the body is coordinated by two systems working together — fast electrical signalling by nerves and slower, longer-lasting chemical signalling by hormones.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Contrasts neural and hormonal signalling by speed and duration",
+        "Traces a reflex arc",
+        "Explains how a hormone acts only on target cells with receptors"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the body needs both nerves and hormones rather than just one messaging system.",
+      "standards": [
+        "ncert-hsec:BIO.U5"
+      ]
+    },
+    {
+      "id": "mt_idsH0UOsAP",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Reproduction",
+      "name": "Pollination, Fertilisation and Seed Development",
+      "description": "Understand how pollen reaches the stigma, how double fertilisation forms both embryo and food store, and how the fertilised ovule and ovary become seed and fruit.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes self- from cross-pollination and states an advantage of each",
+        "Explains double fertilisation and its two products",
+        "Traces the development of ovule and ovary into seed and fruit"
+      ],
+      "assessmentPrompt": "Ask {{name}} why so many plants go to great lengths to avoid pollinating themselves.",
+      "standards": [
+        "ncert-hsec:BIO.U6"
+      ]
+    },
+    {
+      "id": "mt_VND4ucozJC",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Reproduction",
+      "name": "Human Reproduction and the Menstrual Cycle",
+      "description": "Understand the structure of the human reproductive systems, how gametes are produced, and how hormones drive the menstrual cycle and support pregnancy.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Describes gamete formation in male and female",
+        "Relates the phases of the menstrual cycle to their hormones",
+        "Outlines fertilisation, implantation and embryonic development"
+      ],
+      "assessmentPrompt": "Ask {{name}} what signals the body uses to prepare for a possible pregnancy each month.",
+      "standards": [
+        "ncert-hsec:BIO.U6"
+      ]
+    },
+    {
+      "id": "mt_qrBIiPo3Yc",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Reproduction",
+      "name": "Reproductive Health and Contraception",
+      "description": "Understand the methods available to control fertility and how they work, together with the transmission and prevention of sexually transmitted infections.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Classifies contraceptive methods by how they act",
+        "Names a sexually transmitted infection and how it is prevented",
+        "Explains why reproductive health includes information and access, not only method"
+      ],
+      "assessmentPrompt": "Ask {{name}} what makes one method of contraception more reliable than another.",
+      "standards": [
+        "ncert-hsec:BIO.U6"
+      ]
+    },
+    {
+      "id": "mt_EmDPs3ZBwY",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Genetics & Evolution",
+      "name": "Mendelian Inheritance",
+      "description": "Understand that traits are carried by paired factors that segregate into gametes and assort independently, producing the characteristic ratios Mendel observed.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "States the laws of segregation and independent assortment",
+        "Predicts offspring ratios using a Punnett square",
+        "Explains a monohybrid and a dihybrid cross"
+      ],
+      "assessmentPrompt": "Ask {{name}} why two brown-eyed parents can have a blue-eyed child.",
+      "standards": [
+        "ncert-hsec:BIO.U7"
+      ]
+    },
+    {
+      "id": "mt_s3SZjIqK9f",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Genetics & Evolution",
+      "name": "Deviations from Mendelian Ratios",
+      "description": "Understand that incomplete dominance, co-dominance, multiple alleles and gene interaction produce ratios Mendel’s simple model does not predict.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes incomplete dominance from co-dominance",
+        "Explains ABO blood groups as multiple alleles",
+        "Explains a modified ratio caused by gene interaction"
+      ],
+      "assessmentPrompt": "Ask {{name}} why crossing a red and a white flower sometimes gives pink and sometimes gives both colours together.",
+      "standards": [
+        "ncert-hsec:BIO.U7"
+      ]
+    },
+    {
+      "id": "mt_pJeCKdMSGq",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Genetics & Evolution",
+      "name": "Sex Determination, Linkage and Crossing Over",
+      "description": "Understand that sex is determined chromosomally, that genes on one chromosome tend to be inherited together, and that crossing over breaks that linkage in proportion to distance.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains XX–XY sex determination",
+        "Explains why linked genes do not assort independently",
+        "Explains the inheritance pattern of a sex-linked condition such as haemophilia"
+      ],
+      "assessmentPrompt": "Ask {{name}} why haemophilia and colour blindness appear far more often in males.",
+      "standards": [
+        "ncert-hsec:BIO.U7"
+      ]
+    },
+    {
+      "id": "mt_SCvKK1MHpx",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Genetics & Evolution",
+      "name": "DNA Replication, Transcription and Translation",
+      "description": "Understand that DNA copies itself semi-conservatively, is transcribed into RNA, and that the base sequence is read in triplets to assemble a specific protein.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains semi-conservative replication",
+        "Distinguishes transcription from translation",
+        "Uses the triplet code to read a sequence into amino acids"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a sequence of four repeating chemicals can specify a whole organism.",
+      "standards": [
+        "ncert-hsec:BIO.U7"
+      ]
+    },
+    {
+      "id": "mt_yhGLKMsh3d",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Genetics & Evolution",
+      "name": "Gene Expression and Regulation",
+      "description": "Understand that all cells of an organism carry the same genes but express different ones, and that operons such as the lac operon show how expression is switched on and off.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains why differentiated cells differ despite identical DNA",
+        "Describes how the lac operon is switched on and off",
+        "Explains the advantage of regulating gene expression"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a liver cell and a nerve cell behave so differently when they carry identical DNA.",
+      "standards": [
+        "ncert-hsec:BIO.U7"
+      ]
+    },
+    {
+      "id": "mt_kRqkOzREhy",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Genetics & Evolution",
+      "name": "The Human Genome Project and DNA Fingerprinting",
+      "description": "Understand that sequencing the human genome mapped our genetic information, and that variation between individuals allows identification by DNA fingerprinting.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "States the aims and outcomes of the Human Genome Project",
+        "Explains what makes DNA fingerprinting individually distinctive",
+        "Names an application and a privacy concern of genome data"
+      ],
+      "assessmentPrompt": "Ask {{name}} what makes their DNA identifiably theirs when almost all of it is the same as everyone else’s.",
+      "standards": [
+        "ncert-hsec:BIO.U7"
+      ]
+    },
+    {
+      "id": "mt_atK5D8zcdX",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Genetics & Evolution",
+      "name": "Theories and Evidence for Evolution",
+      "description": "Understand how Lamarckism, Darwinism and neo-Darwinism differ as explanations of change over time, and what fossil, anatomical and molecular evidence supports.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Contrasts Lamarck’s and Darwin’s explanations",
+        "Explains how mutation and variation feed natural selection",
+        "Cites evidence from fossils, homology or molecular comparison"
+      ],
+      "assessmentPrompt": "Ask {{name}} what would count as evidence that two species share an ancestor.",
+      "standards": [
+        "ncert-hsec:BIO.U7"
+      ]
+    },
+    {
+      "id": "mt_9S4hxDqOYT",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Biology & Human Welfare",
+      "name": "Immunity, Vaccines and Infectious Disease",
+      "description": "Understand that the body distinguishes self from non-self and mounts specific responses, and that vaccination produces that specific immunity in advance of infection.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes innate from acquired immunity",
+        "Explains how a vaccine produces immunity without disease",
+        "Matches a pathogen type to its characteristic disease and prevention"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a vaccine protects against a disease the body has never encountered.",
+      "standards": [
+        "ncert-hsec:BIO.U8"
+      ]
+    },
+    {
+      "id": "mt_r12sfmIoPz",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Biology & Human Welfare",
+      "name": "Animal Husbandry and Plant Breeding",
+      "description": "Understand that selective breeding and tissue culture raise yield and disease resistance in farm animals and crops, and that this underpinned the green revolution in India.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how selective breeding improves a desired trait",
+        "Describes tissue culture and its advantage for propagation",
+        "Explains what the green revolution achieved and what it cost"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a farmer today gets far more grain from the same field than a farmer a century ago.",
+      "standards": [
+        "ncert-hsec:BIO.U8"
+      ]
+    },
+    {
+      "id": "mt_ecWrNNlJeM",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Biology & Human Welfare",
+      "name": "Microbes in Human Welfare",
+      "description": "Understand that microbes are exploited deliberately in food processing, industrial production, sewage treatment and energy generation because of what they degrade and produce.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Names a microbe used in food production and what it does",
+        "Explains the role of microbes in sewage treatment",
+        "Describes microbial production of a drug or biogas"
+      ],
+      "assessmentPrompt": "Ask {{name}} what curd, antibiotics and clean sewage water all have in common.",
+      "standards": [
+        "ncert-hsec:BIO.U8"
+      ]
+    },
+    {
+      "id": "mt_GzpXuzjrKA",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Biology & Human Welfare",
+      "name": "Cancer, AIDS and Substance Abuse",
+      "description": "Understand cancer as uncontrolled cell division and AIDS as an attack on the immune system itself, and recognise the physiological toll of drug and alcohol dependence.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains cancer as a failure of the controls on cell division",
+        "Explains why HIV is particularly dangerous to the immune system",
+        "Describes the physiological effects of drug or alcohol dependence"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a disease that attacks the immune system is so much more dangerous than most infections.",
+      "standards": [
+        "ncert-hsec:BIO.U8"
+      ]
+    },
+    {
+      "id": "mt_3c7pkWp93Q",
+      "type": "PROCEDURAL",
+      "subject": "Biology",
+      "domain": "Biology & Human Welfare",
+      "name": "Recombinant DNA Technology",
+      "description": "Understand that DNA can be cut at defined sequences, joined to other DNA and carried into a host cell, so that organisms can be made to produce a chosen protein.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the roles of restriction enzymes, ligase and a vector",
+        "Outlines the steps of producing a recombinant organism",
+        "Explains how human insulin is produced by bacteria"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a bacterium can be made to manufacture a human protein.",
+      "standards": [
+        "ncert-hsec:BIO.U9"
+      ]
+    },
+    {
+      "id": "mt_MRselUe41W",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Biology & Human Welfare",
+      "name": "Genetically Modified Organisms and Biosafety",
+      "description": "Understand how genetic modification is applied to crops and medicine, and why its use raises safety, environmental and ethical questions that science alone does not settle.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how a crop such as Bt cotton is modified and why",
+        "States a biosafety or environmental concern about GM organisms",
+        "Distinguishes a scientific question from an ethical one in this debate"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether showing a GM crop is safe to eat settles the whole argument about growing it.",
+      "standards": [
+        "ncert-hsec:BIO.U9"
+      ]
+    },
+    {
+      "id": "mt_pT8cPGLRpq",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Ecology & Environment",
+      "name": "Ecosystems, Energy Flow and Ecological Pyramids",
+      "description": "Understand that energy enters an ecosystem through producers and is lost at each transfer, which is why food chains are short and pyramids of energy always taper upward.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Traces energy flow through trophic levels",
+        "Explains why energy pyramids are never inverted",
+        "Distinguishes energy flow from nutrient cycling"
+      ],
+      "assessmentPrompt": "Ask {{name}} why there are far fewer tigers than deer, and fewer deer than grass plants.",
+      "standards": [
+        "ncert-hsec:BIO.U10"
+      ]
+    },
+    {
+      "id": "mt_mxVwYQc2Ep",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Ecology & Environment",
+      "name": "Populations, Communities and Adaptation",
+      "description": "Understand that organisms exist as populations with measurable attributes and growth patterns, interacting in communities, and adapted to the conditions of their habitat.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Describes attributes of a population such as density and age structure",
+        "Distinguishes exponential from logistic growth",
+        "Explains an adaptation suiting an organism to a harsh habitat"
+      ],
+      "assessmentPrompt": "Ask {{name}} what stops a population from growing forever once conditions are good.",
+      "standards": [
+        "ncert-hsec:BIO.U10"
+      ]
+    },
+    {
+      "id": "mt_YKQXdSHU7f",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Ecology & Environment",
+      "name": "Biodiversity Conservation and Environmental Issues",
+      "description": "Understand why biodiversity matters, what threatens it, and how in situ and ex situ conservation differ in what they can and cannot preserve.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes in situ from ex situ conservation with examples",
+        "Names a major threat to biodiversity and its mechanism",
+        "Explains the role of community participation in a conservation success"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether saving a species in a zoo is the same as saving it in the wild.",
+      "standards": [
+        "ncert-hsec:BIO.U10"
       ]
     }
   ]

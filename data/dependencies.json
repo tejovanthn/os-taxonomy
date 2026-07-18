@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3847,
+  "edgeCount": 4022,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -23084,6 +23084,1056 @@
       "prerequisiteId": "mt_VFhHCU805T",
       "strength": "soft",
       "reason": "The economic role of transport builds on how transport has changed over time."
+    },
+    {
+      "topicId": "mt_t3g9uQ1xav",
+      "prerequisiteId": "mt_zqdALphaES",
+      "strength": "hard",
+      "reason": "Senior kinematics builds on describing motion at secondary level."
+    },
+    {
+      "topicId": "mt_rfqKf4dDlt",
+      "prerequisiteId": "mt_SVZ61nPdgi",
+      "strength": "hard",
+      "reason": "Projectile motion is handled by resolving velocity into components."
+    },
+    {
+      "topicId": "mt_rfqKf4dDlt",
+      "prerequisiteId": "mt_t3g9uQ1xav",
+      "strength": "hard",
+      "reason": "Projectile motion combines two straight-line motions."
+    },
+    {
+      "topicId": "mt_UOxhtisIUm",
+      "prerequisiteId": "mt_SVZ61nPdgi",
+      "strength": "hard",
+      "reason": "Centripetal acceleration is a directional argument about vectors."
+    },
+    {
+      "topicId": "mt_wkuoeBbgZx",
+      "prerequisiteId": "mt_qcDIPchMJt",
+      "strength": "hard",
+      "reason": "Momentum conservation follows from Newton's laws met at secondary level."
+    },
+    {
+      "topicId": "mt_x0d1BB8kSk",
+      "prerequisiteId": "mt_xkn2sf93WJ",
+      "strength": "soft",
+      "reason": "Friction extends earlier investigation of forces."
+    },
+    {
+      "topicId": "mt_VLhHmLpYE3",
+      "prerequisiteId": "mt_1WRBUMcXaO",
+      "strength": "hard",
+      "reason": "The work-energy theorem builds on work, energy and power at secondary level."
+    },
+    {
+      "topicId": "mt_6pcaTflnnx",
+      "prerequisiteId": "mt_VLhHmLpYE3",
+      "strength": "hard",
+      "reason": "Energy conservation is stated using the work-energy relation."
+    },
+    {
+      "topicId": "mt_UgYIfSkfzy",
+      "prerequisiteId": "mt_wkuoeBbgZx",
+      "strength": "hard",
+      "reason": "Collision analysis applies momentum conservation."
+    },
+    {
+      "topicId": "mt_UgYIfSkfzy",
+      "prerequisiteId": "mt_6pcaTflnnx",
+      "strength": "hard",
+      "reason": "Elastic collisions are defined by conservation of kinetic energy."
+    },
+    {
+      "topicId": "mt_0QrCiQ6LVS",
+      "prerequisiteId": "mt_D4yJOQ2TNi",
+      "strength": "soft",
+      "reason": "Rigid-body rotation is described about the centre of mass."
+    },
+    {
+      "topicId": "mt_aRnaa8ttKe",
+      "prerequisiteId": "mt_0QrCiQ6LVS",
+      "strength": "hard",
+      "reason": "Moment of inertia relates torque to angular acceleration."
+    },
+    {
+      "topicId": "mt_aF7WMjev8J",
+      "prerequisiteId": "mt_oLjz18CxDg",
+      "strength": "hard",
+      "reason": "Kepler and Newton build on universal gravitation met earlier."
+    },
+    {
+      "topicId": "mt_hw0bYvM2zS",
+      "prerequisiteId": "mt_aF7WMjev8J",
+      "strength": "hard",
+      "reason": "Escape speed and orbits follow from the law of gravitation."
+    },
+    {
+      "topicId": "mt_hw0bYvM2zS",
+      "prerequisiteId": "mt_6pcaTflnnx",
+      "strength": "hard",
+      "reason": "Escape speed is an energy-conservation argument."
+    },
+    {
+      "topicId": "mt_U77mH9oAXL",
+      "prerequisiteId": "mt_vuNjYx3qOy",
+      "strength": "hard",
+      "reason": "Elastic moduli formalise Hooke's law met at secondary level."
+    },
+    {
+      "topicId": "mt_IEPUqrJpmk",
+      "prerequisiteId": "mt_fkwcCB5px7",
+      "strength": "hard",
+      "reason": "Fluid statics builds on how fluid pressure acts and varies with depth."
+    },
+    {
+      "topicId": "mt_4jBdH4Jdjt",
+      "prerequisiteId": "mt_IEPUqrJpmk",
+      "strength": "hard",
+      "reason": "Bernoulli relates pressure, already defined, to flow speed."
+    },
+    {
+      "topicId": "mt_xhjf5488oe",
+      "prerequisiteId": "mt_IEPUqrJpmk",
+      "strength": "soft",
+      "reason": "Surface effects are studied alongside bulk fluid behaviour."
+    },
+    {
+      "topicId": "mt_kFoccN6EE3",
+      "prerequisiteId": "mt_DI1cyAyGyN",
+      "strength": "hard",
+      "reason": "Calorimetry builds on heating experiments and Q = mcΔT."
+    },
+    {
+      "topicId": "mt_dtEKMxiQHK",
+      "prerequisiteId": "mt_kFoccN6EE3",
+      "strength": "hard",
+      "reason": "The first law is stated in terms of heat and internal energy."
+    },
+    {
+      "topicId": "mt_dtEKMxiQHK",
+      "prerequisiteId": "mt_VLhHmLpYE3",
+      "strength": "soft",
+      "reason": "Thermodynamics extends the accounting of work and energy."
+    },
+    {
+      "topicId": "mt_7Z1yWAFCrL",
+      "prerequisiteId": "mt_dtEKMxiQHK",
+      "strength": "soft",
+      "reason": "Kinetic theory gives a molecular basis for thermodynamic quantities."
+    },
+    {
+      "topicId": "mt_7Z1yWAFCrL",
+      "prerequisiteId": "mt_b6kZgqolEd",
+      "strength": "hard",
+      "reason": "Kinetic theory develops the particle model of matter."
+    },
+    {
+      "topicId": "mt_rqzBHiLWPc",
+      "prerequisiteId": "mt_6pcaTflnnx",
+      "strength": "soft",
+      "reason": "Energy interchange in oscillation uses mechanical energy conservation."
+    },
+    {
+      "topicId": "mt_RU4ERyXzz3",
+      "prerequisiteId": "mt_LxK9OKZQZX",
+      "strength": "hard",
+      "reason": "Senior wave treatment builds on wave properties and types."
+    },
+    {
+      "topicId": "mt_RU4ERyXzz3",
+      "prerequisiteId": "mt_rqzBHiLWPc",
+      "strength": "hard",
+      "reason": "A progressive wave is built from simple harmonic oscillation."
+    },
+    {
+      "topicId": "mt_4JyerLxfJS",
+      "prerequisiteId": "mt_RU4ERyXzz3",
+      "strength": "hard",
+      "reason": "Standing waves and beats are superposition effects."
+    },
+    {
+      "topicId": "mt_Thvs20Cw9w",
+      "prerequisiteId": "mt_2_YoprauaJ",
+      "strength": "hard",
+      "reason": "Electrostatics builds on static electricity met at secondary level."
+    },
+    {
+      "topicId": "mt_11kfdQV3Es",
+      "prerequisiteId": "mt_Thvs20Cw9w",
+      "strength": "hard",
+      "reason": "Gauss's theorem is a restatement of the inverse-square field."
+    },
+    {
+      "topicId": "mt_lwnEn0hACe",
+      "prerequisiteId": "mt_Thvs20Cw9w",
+      "strength": "hard",
+      "reason": "Potential is defined from the work done in the electric field."
+    },
+    {
+      "topicId": "mt_8m75UPJdOG",
+      "prerequisiteId": "mt_lwnEn0hACe",
+      "strength": "hard",
+      "reason": "Capacitance relates stored charge to potential difference."
+    },
+    {
+      "topicId": "mt_vLOMfLHK7e",
+      "prerequisiteId": "mt_H3ZDK0EYNV",
+      "strength": "hard",
+      "reason": "Senior current electricity builds on Ohm's law."
+    },
+    {
+      "topicId": "mt_PhsT13hNR7",
+      "prerequisiteId": "mt_vLOMfLHK7e",
+      "strength": "hard",
+      "reason": "Terminal voltage is worked out from resistance in the circuit."
+    },
+    {
+      "topicId": "mt_ef0TU0P8l5",
+      "prerequisiteId": "mt_loEMaQ8kFA",
+      "strength": "hard",
+      "reason": "Kirchhoff's rules generalise series and parallel circuit reasoning."
+    },
+    {
+      "topicId": "mt_ef0TU0P8l5",
+      "prerequisiteId": "mt_PhsT13hNR7",
+      "strength": "hard",
+      "reason": "The potentiometer is used to measure emf against internal resistance."
+    },
+    {
+      "topicId": "mt_fVaqWGwfp9",
+      "prerequisiteId": "mt_2qkn8Lhc8e",
+      "strength": "hard",
+      "reason": "Field calculations build on electromagnets met at secondary level."
+    },
+    {
+      "topicId": "mt_81hMdjmRZu",
+      "prerequisiteId": "mt_fVaqWGwfp9",
+      "strength": "hard",
+      "reason": "Force on a charge is computed from the magnetic field."
+    },
+    {
+      "topicId": "mt_81hMdjmRZu",
+      "prerequisiteId": "mt__7BVYUN180",
+      "strength": "hard",
+      "reason": "The motor effect is the secondary-level form of this force."
+    },
+    {
+      "topicId": "mt_JmiIqglyxj",
+      "prerequisiteId": "mt_fVaqWGwfp9",
+      "strength": "soft",
+      "reason": "Magnetic dipoles are described using the field of a current loop."
+    },
+    {
+      "topicId": "mt_8sTAMpsOnw",
+      "prerequisiteId": "mt_fVaqWGwfp9",
+      "strength": "hard",
+      "reason": "Induction depends on changing magnetic flux."
+    },
+    {
+      "topicId": "mt_3td5lJ0pR1",
+      "prerequisiteId": "mt_8sTAMpsOnw",
+      "strength": "hard",
+      "reason": "Inductive behaviour in AC circuits follows from induction."
+    },
+    {
+      "topicId": "mt_3td5lJ0pR1",
+      "prerequisiteId": "mt_8m75UPJdOG",
+      "strength": "hard",
+      "reason": "Capacitive reactance follows from capacitance."
+    },
+    {
+      "topicId": "mt_xAuR9mF16Q",
+      "prerequisiteId": "mt_3td5lJ0pR1",
+      "strength": "soft",
+      "reason": "Electromagnetic waves arise from oscillating fields."
+    },
+    {
+      "topicId": "mt_xAuR9mF16Q",
+      "prerequisiteId": "mt_XSp-S0wter",
+      "strength": "hard",
+      "reason": "Builds on the electromagnetic spectrum met at secondary level."
+    },
+    {
+      "topicId": "mt_sdHNUFpkPX",
+      "prerequisiteId": "mt_FVERuBoCD1",
+      "strength": "hard",
+      "reason": "Senior ray optics builds on ray diagrams and image formation."
+    },
+    {
+      "topicId": "mt_G8TwCUQcuj",
+      "prerequisiteId": "mt_sdHNUFpkPX",
+      "strength": "hard",
+      "reason": "Instruments are analysed with the lens and mirror formulae."
+    },
+    {
+      "topicId": "mt_7k5YtzyXpR",
+      "prerequisiteId": "mt_RU4ERyXzz3",
+      "strength": "hard",
+      "reason": "Interference and diffraction are superposition applied to light."
+    },
+    {
+      "topicId": "mt_7k5YtzyXpR",
+      "prerequisiteId": "mt_sdHNUFpkPX",
+      "strength": "soft",
+      "reason": "Wave optics explains what the ray model can only assume."
+    },
+    {
+      "topicId": "mt_7z3905ACr5",
+      "prerequisiteId": "mt_7k5YtzyXpR",
+      "strength": "hard",
+      "reason": "Polarisation is a property of light treated as a wave."
+    },
+    {
+      "topicId": "mt_q8Lf0ddMQP",
+      "prerequisiteId": "mt_7k5YtzyXpR",
+      "strength": "hard",
+      "reason": "The particle picture is posed against the wave picture of light."
+    },
+    {
+      "topicId": "mt_6BEU0BGn8i",
+      "prerequisiteId": "mt_T7ICFeChaV",
+      "strength": "hard",
+      "reason": "Atomic models build on atomic structure met at secondary level."
+    },
+    {
+      "topicId": "mt_6BEU0BGn8i",
+      "prerequisiteId": "mt_q8Lf0ddMQP",
+      "strength": "hard",
+      "reason": "Bohr quantisation rests on the quantum nature of radiation."
+    },
+    {
+      "topicId": "mt_4cc1RD9vYd",
+      "prerequisiteId": "mt_6BEU0BGn8i",
+      "strength": "hard",
+      "reason": "Nuclear structure follows the nuclear model of the atom."
+    },
+    {
+      "topicId": "mt_WR1hBi2yuS",
+      "prerequisiteId": "mt_vLOMfLHK7e",
+      "strength": "hard",
+      "reason": "Conduction in semiconductors builds on conduction in metals."
+    },
+    {
+      "topicId": "mt_JDUB7RyyLd",
+      "prerequisiteId": "mt_WR1hBi2yuS",
+      "strength": "hard",
+      "reason": "Gates are built from transistors acting as switches."
+    },
+    {
+      "topicId": "mt_ZP8lBMjXNt",
+      "prerequisiteId": "mt_xAuR9mF16Q",
+      "strength": "hard",
+      "reason": "Communication uses electromagnetic waves as carriers."
+    },
+    {
+      "topicId": "mt_MPlojUG33N",
+      "prerequisiteId": "mt_ok9HgvTLM0",
+      "strength": "hard",
+      "reason": "Stoichiometry applies the mole concept met at secondary level."
+    },
+    {
+      "topicId": "mt_MPlojUG33N",
+      "prerequisiteId": "mt_Id4cr53vlQ",
+      "strength": "hard",
+      "reason": "Reacting-mass calculations depend on balanced equations."
+    },
+    {
+      "topicId": "mt_gdWHQduH6o",
+      "prerequisiteId": "mt_T7ICFeChaV",
+      "strength": "hard",
+      "reason": "The quantum model builds on atomic structure met at secondary level."
+    },
+    {
+      "topicId": "mt_JO7ZdwoJli",
+      "prerequisiteId": "mt_gdWHQduH6o",
+      "strength": "hard",
+      "reason": "Configurations are written by filling the orbitals just described."
+    },
+    {
+      "topicId": "mt_JEYmJUXPn6",
+      "prerequisiteId": "mt_ZUsklkTY8B",
+      "strength": "hard",
+      "reason": "Senior periodicity builds on periodic classification and trends."
+    },
+    {
+      "topicId": "mt_JEYmJUXPn6",
+      "prerequisiteId": "mt_JO7ZdwoJli",
+      "strength": "hard",
+      "reason": "Periodic trends are explained by electron configuration and shielding."
+    },
+    {
+      "topicId": "mt_TW7VUyCiBI",
+      "prerequisiteId": "mt_rswmjlVxDp",
+      "strength": "hard",
+      "reason": "Senior bonding builds on chemical bonding met at secondary level."
+    },
+    {
+      "topicId": "mt_TW7VUyCiBI",
+      "prerequisiteId": "mt_JO7ZdwoJli",
+      "strength": "hard",
+      "reason": "Bonding is explained in terms of valence electrons."
+    },
+    {
+      "topicId": "mt_bH2dNb59ml",
+      "prerequisiteId": "mt_TW7VUyCiBI",
+      "strength": "hard",
+      "reason": "Shape prediction starts from the Lewis structure."
+    },
+    {
+      "topicId": "mt_j4aLtBDPiM",
+      "prerequisiteId": "mt_bH2dNb59ml",
+      "strength": "hard",
+      "reason": "Hybridisation explains the geometries VSEPR predicts."
+    },
+    {
+      "topicId": "mt_KAenhScCp1",
+      "prerequisiteId": "mt_TW7VUyCiBI",
+      "strength": "hard",
+      "reason": "Intermolecular forces are contrasted with bonds within molecules."
+    },
+    {
+      "topicId": "mt_RMLacbaTPr",
+      "prerequisiteId": "mt_b6kZgqolEd",
+      "strength": "hard",
+      "reason": "The gas laws are interpreted through the particle model."
+    },
+    {
+      "topicId": "mt_YE863C0gHZ",
+      "prerequisiteId": "mt_RMLacbaTPr",
+      "strength": "hard",
+      "reason": "Deviation is defined against ideal gas behaviour."
+    },
+    {
+      "topicId": "mt_YE863C0gHZ",
+      "prerequisiteId": "mt_KAenhScCp1",
+      "strength": "hard",
+      "reason": "Deviation from ideality is caused by intermolecular attraction."
+    },
+    {
+      "topicId": "mt_IRu53AItu4",
+      "prerequisiteId": "mt_UoqUPI_uNz",
+      "strength": "hard",
+      "reason": "Enthalpy formalises reactions that release or absorb heat."
+    },
+    {
+      "topicId": "mt_tmdzqsU1WE",
+      "prerequisiteId": "mt_IRu53AItu4",
+      "strength": "hard",
+      "reason": "Free energy combines enthalpy with entropy."
+    },
+    {
+      "topicId": "mt_SDCd5grBpQ",
+      "prerequisiteId": "mt_tmdzqsU1WE",
+      "strength": "soft",
+      "reason": "Equilibrium is the state of minimum free energy."
+    },
+    {
+      "topicId": "mt_Nep5PcwnGk",
+      "prerequisiteId": "mt_SDCd5grBpQ",
+      "strength": "hard",
+      "reason": "Ionic equilibrium applies the equilibrium constant to ionisation."
+    },
+    {
+      "topicId": "mt_Nep5PcwnGk",
+      "prerequisiteId": "mt_AN2kJE6I0s",
+      "strength": "hard",
+      "reason": "Senior pH work builds on acids, alkalis and the pH scale."
+    },
+    {
+      "topicId": "mt_jFeQ7T89LS",
+      "prerequisiteId": "mt_v0K6GRi4ZL",
+      "strength": "hard",
+      "reason": "Oxidation number formalises the reaction types met earlier."
+    },
+    {
+      "topicId": "mt_paCmQCya6m",
+      "prerequisiteId": "mt_JEYmJUXPn6",
+      "strength": "soft",
+      "reason": "Hydrogen’s placement is argued from periodic properties."
+    },
+    {
+      "topicId": "mt_DAyAvIcrn1",
+      "prerequisiteId": "mt_JEYmJUXPn6",
+      "strength": "hard",
+      "reason": "Group trends are read from periodic properties."
+    },
+    {
+      "topicId": "mt_DAyAvIcrn1",
+      "prerequisiteId": "mt_zsYW61cn_q",
+      "strength": "soft",
+      "reason": "Group reactivity extends the reactivity series."
+    },
+    {
+      "topicId": "mt_b3XzejLzAW",
+      "prerequisiteId": "mt_JEYmJUXPn6",
+      "strength": "hard",
+      "reason": "p-Block trends follow from periodic properties."
+    },
+    {
+      "topicId": "mt_RTNQKgrFO5",
+      "prerequisiteId": "mt_QF7nm0CbQN",
+      "strength": "soft",
+      "reason": "Naming compounds builds on writing formulae from valency."
+    },
+    {
+      "topicId": "mt_qR0V7rZq47",
+      "prerequisiteId": "mt_TW7VUyCiBI",
+      "strength": "hard",
+      "reason": "Electronic effects describe redistribution within covalent bonds."
+    },
+    {
+      "topicId": "mt_n2sBudvjSK",
+      "prerequisiteId": "mt_RTNQKgrFO5",
+      "strength": "hard",
+      "reason": "Reaction study assumes the compounds can be named and drawn."
+    },
+    {
+      "topicId": "mt_n2sBudvjSK",
+      "prerequisiteId": "mt_qR0V7rZq47",
+      "strength": "hard",
+      "reason": "Free radical mechanisms use homolytic fission."
+    },
+    {
+      "topicId": "mt_UFUIAwwwEb",
+      "prerequisiteId": "mt_n2sBudvjSK",
+      "strength": "hard",
+      "reason": "Alkene chemistry is contrasted with saturated hydrocarbons."
+    },
+    {
+      "topicId": "mt_UFUIAwwwEb",
+      "prerequisiteId": "mt_qR0V7rZq47",
+      "strength": "hard",
+      "reason": "Markovnikov orientation follows from carbocation stability."
+    },
+    {
+      "topicId": "mt_y8XEnbzNlH",
+      "prerequisiteId": "mt_UFUIAwwwEb",
+      "strength": "hard",
+      "reason": "Alkyne addition extends addition across the double bond."
+    },
+    {
+      "topicId": "mt_ZTEAKAuuO7",
+      "prerequisiteId": "mt_j4aLtBDPiM",
+      "strength": "hard",
+      "reason": "Aromatic delocalisation is described using hybrid orbitals and resonance."
+    },
+    {
+      "topicId": "mt_ZTEAKAuuO7",
+      "prerequisiteId": "mt_UFUIAwwwEb",
+      "strength": "hard",
+      "reason": "Aromatic substitution is contrasted with alkene addition."
+    },
+    {
+      "topicId": "mt_aQJnEk0FVv",
+      "prerequisiteId": "mt_mTpV-0rtkO",
+      "strength": "hard",
+      "reason": "Atmospheric chemistry builds on the atmosphere and carbon dioxide."
+    },
+    {
+      "topicId": "mt_98IA97d6yn",
+      "prerequisiteId": "mt_KAenhScCp1",
+      "strength": "hard",
+      "reason": "Solids are classified by the forces binding their particles."
+    },
+    {
+      "topicId": "mt_q2kGHTJH5s",
+      "prerequisiteId": "mt_MPlojUG33N",
+      "strength": "hard",
+      "reason": "Colligative measurements are used to find molar mass."
+    },
+    {
+      "topicId": "mt_k24UxiIFWO",
+      "prerequisiteId": "mt_jFeQ7T89LS",
+      "strength": "hard",
+      "reason": "A cell separates the halves of a redox reaction."
+    },
+    {
+      "topicId": "mt_YHqOwdvJ4x",
+      "prerequisiteId": "mt_k24UxiIFWO",
+      "strength": "hard",
+      "reason": "Electrolysis is the driven counterpart of a galvanic cell."
+    },
+    {
+      "topicId": "mt_X26ncid7bv",
+      "prerequisiteId": "mt_SDCd5grBpQ",
+      "strength": "soft",
+      "reason": "Rate and equilibrium are the two questions asked of any reaction."
+    },
+    {
+      "topicId": "mt_2sqSvuu0Mn",
+      "prerequisiteId": "mt_X26ncid7bv",
+      "strength": "hard",
+      "reason": "Collision theory explains the rate law observed experimentally."
+    },
+    {
+      "topicId": "mt_80Sb9JI1Es",
+      "prerequisiteId": "mt_MBTVB-E-S7",
+      "strength": "soft",
+      "reason": "Colloids are distinguished from true solutions and mixtures."
+    },
+    {
+      "topicId": "mt_64BcOrxkJT",
+      "prerequisiteId": "mt_jFeQ7T89LS",
+      "strength": "hard",
+      "reason": "Extraction of a metal is the reduction of its ore."
+    },
+    {
+      "topicId": "mt_64BcOrxkJT",
+      "prerequisiteId": "mt_zsYW61cn_q",
+      "strength": "hard",
+      "reason": "The extraction method chosen follows from the reactivity series."
+    },
+    {
+      "topicId": "mt_Q0HIafyT5M",
+      "prerequisiteId": "mt_b3XzejLzAW",
+      "strength": "hard",
+      "reason": "The later p-block groups continue the same survey."
+    },
+    {
+      "topicId": "mt_mrAQiMCvDM",
+      "prerequisiteId": "mt_JO7ZdwoJli",
+      "strength": "hard",
+      "reason": "Transition metal behaviour follows from partly filled d orbitals."
+    },
+    {
+      "topicId": "mt_AfPcEJE9Mx",
+      "prerequisiteId": "mt_mrAQiMCvDM",
+      "strength": "hard",
+      "reason": "Complexes form around transition metal ions."
+    },
+    {
+      "topicId": "mt_0xSs0MkMgO",
+      "prerequisiteId": "mt_qR0V7rZq47",
+      "strength": "hard",
+      "reason": "Substitution mechanisms are described using intermediates."
+    },
+    {
+      "topicId": "mt_Lq4yHFNmu8",
+      "prerequisiteId": "mt_0xSs0MkMgO",
+      "strength": "hard",
+      "reason": "Alcohols are commonly prepared from haloalkanes by substitution."
+    },
+    {
+      "topicId": "mt_Lq4yHFNmu8",
+      "prerequisiteId": "mt_ZTEAKAuuO7",
+      "strength": "soft",
+      "reason": "Phenol chemistry depends on the aromatic ring."
+    },
+    {
+      "topicId": "mt_8unSEOrpKD",
+      "prerequisiteId": "mt_Lq4yHFNmu8",
+      "strength": "hard",
+      "reason": "Carbonyl compounds are obtained by oxidising alcohols."
+    },
+    {
+      "topicId": "mt_o9ofT2PXze",
+      "prerequisiteId": "mt_8unSEOrpKD",
+      "strength": "hard",
+      "reason": "Carboxylic acids are the further oxidation product of aldehydes."
+    },
+    {
+      "topicId": "mt_QEOHAzSDBJ",
+      "prerequisiteId": "mt_ZTEAKAuuO7",
+      "strength": "soft",
+      "reason": "Diazonium chemistry operates on the aromatic ring."
+    },
+    {
+      "topicId": "mt_7wcloflGqV",
+      "prerequisiteId": "mt_8unSEOrpKD",
+      "strength": "hard",
+      "reason": "Sugars are classified by their aldehyde or ketone group."
+    },
+    {
+      "topicId": "mt_bmYWs89ulB",
+      "prerequisiteId": "mt_o9ofT2PXze",
+      "strength": "hard",
+      "reason": "The peptide bond forms between a carboxyl and an amino group."
+    },
+    {
+      "topicId": "mt_bmYWs89ulB",
+      "prerequisiteId": "mt_QEOHAzSDBJ",
+      "strength": "soft",
+      "reason": "Amino acids combine amine and acid functionality."
+    },
+    {
+      "topicId": "mt_xVNifHi31g",
+      "prerequisiteId": "mt_0sELh0MYWb",
+      "strength": "hard",
+      "reason": "The chemistry of nucleic acids builds on DNA and genes."
+    },
+    {
+      "topicId": "mt_BJnhjrrORk",
+      "prerequisiteId": "mt_w83U-_noVR",
+      "strength": "hard",
+      "reason": "Polymer chemistry builds on polymers met as materials."
+    },
+    {
+      "topicId": "mt_BJnhjrrORk",
+      "prerequisiteId": "mt_UFUIAwwwEb",
+      "strength": "hard",
+      "reason": "Addition polymerisation proceeds across carbon-carbon double bonds."
+    },
+    {
+      "topicId": "mt_bDFUpEwNnz",
+      "prerequisiteId": "mt_o9ofT2PXze",
+      "strength": "soft",
+      "reason": "Soaps are salts of long-chain carboxylic acids."
+    },
+    {
+      "topicId": "mt_vdLWeb4Jvk",
+      "prerequisiteId": "mt_IY3KwGLZgk",
+      "strength": "hard",
+      "reason": "Five kingdom classification builds on classifying organisms."
+    },
+    {
+      "topicId": "mt_XsbZcdaI62",
+      "prerequisiteId": "mt_vdLWeb4Jvk",
+      "strength": "hard",
+      "reason": "Nomenclature sits within the classification hierarchy."
+    },
+    {
+      "topicId": "mt_55LopQHLtf",
+      "prerequisiteId": "mt_vdLWeb4Jvk",
+      "strength": "hard",
+      "reason": "Major groups are subdivisions of the kingdoms."
+    },
+    {
+      "topicId": "mt_55LopQHLtf",
+      "prerequisiteId": "mt_B8lX8OCzGu",
+      "strength": "soft",
+      "reason": "Group assignment relies on evidence-based classification."
+    },
+    {
+      "topicId": "mt_EQTcgpAVrm",
+      "prerequisiteId": "mt_55LopQHLtf",
+      "strength": "soft",
+      "reason": "Floral morphology is used to classify flowering plants."
+    },
+    {
+      "topicId": "mt_9KEs6JLlCs",
+      "prerequisiteId": "mt_7hB8s5eOP1",
+      "strength": "hard",
+      "reason": "Plant anatomy builds on the progression from cells to organ systems."
+    },
+    {
+      "topicId": "mt_C2HnTJ1FPM",
+      "prerequisiteId": "mt_7hB8s5eOP1",
+      "strength": "hard",
+      "reason": "Animal tissue organisation builds on cells to organ systems."
+    },
+    {
+      "topicId": "mt_242QTzoZyx",
+      "prerequisiteId": "mt_bABr-c2DfV",
+      "strength": "hard",
+      "reason": "Organelle function builds on the parts of plant and animal cells."
+    },
+    {
+      "topicId": "mt_BTpZFiW5Ge",
+      "prerequisiteId": "mt_6aJUzBYGNs",
+      "strength": "hard",
+      "reason": "Cell division is described in terms of chromosomes and genes."
+    },
+    {
+      "topicId": "mt_BTpZFiW5Ge",
+      "prerequisiteId": "mt_242QTzoZyx",
+      "strength": "soft",
+      "reason": "Division depends on organelles such as centrioles and spindle apparatus."
+    },
+    {
+      "topicId": "mt_QvFbpwUEQ2",
+      "prerequisiteId": "mt_242QTzoZyx",
+      "strength": "soft",
+      "reason": "Macromolecules are made and used within the organelles."
+    },
+    {
+      "topicId": "mt_LhRaUEB41L",
+      "prerequisiteId": "mt_QvFbpwUEQ2",
+      "strength": "hard",
+      "reason": "Enzymes are a functional class of proteins."
+    },
+    {
+      "topicId": "mt_LhRaUEB41L",
+      "prerequisiteId": "mt_0NlbulkB5P",
+      "strength": "hard",
+      "reason": "Senior enzyme study builds on digestion and enzymes."
+    },
+    {
+      "topicId": "mt_IIdMDmzs7d",
+      "prerequisiteId": "mt_i80I-1MLP2",
+      "strength": "hard",
+      "reason": "Transport in plants builds on how diffusion works."
+    },
+    {
+      "topicId": "mt_IwqexNZegJ",
+      "prerequisiteId": "mt_IIdMDmzs7d",
+      "strength": "hard",
+      "reason": "Transpiration pull drives the water transport just described."
+    },
+    {
+      "topicId": "mt_IwqexNZegJ",
+      "prerequisiteId": "mt_9KEs6JLlCs",
+      "strength": "soft",
+      "reason": "Stomata and xylem are anatomical structures."
+    },
+    {
+      "topicId": "mt_YBYjtjQDNM",
+      "prerequisiteId": "mt_IIdMDmzs7d",
+      "strength": "hard",
+      "reason": "Minerals are absorbed and carried with water."
+    },
+    {
+      "topicId": "mt_jNhqBvzwG6",
+      "prerequisiteId": "mt_zM5vu31jgl",
+      "strength": "hard",
+      "reason": "The C3 and C4 pathways build on photosynthesis."
+    },
+    {
+      "topicId": "mt_jNhqBvzwG6",
+      "prerequisiteId": "mt_LhRaUEB41L",
+      "strength": "soft",
+      "reason": "Carbon fixation is enzyme catalysed."
+    },
+    {
+      "topicId": "mt_dEUqJmV7Ov",
+      "prerequisiteId": "mt_mquPi2IP-J",
+      "strength": "hard",
+      "reason": "Senior respiration builds on aerobic respiration."
+    },
+    {
+      "topicId": "mt_dEUqJmV7Ov",
+      "prerequisiteId": "mt_TKZefYXaVS",
+      "strength": "hard",
+      "reason": "Anaerobic pathways are contrasted with aerobic ones."
+    },
+    {
+      "topicId": "mt_9DBB49pBl5",
+      "prerequisiteId": "mt_ngfFzPmRSF",
+      "strength": "hard",
+      "reason": "Growth regulators formalise plant hormones and tropic movements."
+    },
+    {
+      "topicId": "mt_4QhFwz3Ddm",
+      "prerequisiteId": "mt_0NlbulkB5P",
+      "strength": "hard",
+      "reason": "Senior digestion builds on digestion and enzymes."
+    },
+    {
+      "topicId": "mt_RGOmcz7mx4",
+      "prerequisiteId": "mt_V9SQS9gLFw",
+      "strength": "hard",
+      "reason": "Senior treatment builds on gas exchange and breathing."
+    },
+    {
+      "topicId": "mt_KUDwWF9qwo",
+      "prerequisiteId": "mt_TR2oTy9c2M",
+      "strength": "hard",
+      "reason": "Circulation builds on heart structure and double circulation."
+    },
+    {
+      "topicId": "mt_iuLF7rbFYo",
+      "prerequisiteId": "mt_bhhWfhDRQh",
+      "strength": "hard",
+      "reason": "Nephron function builds on kidneys and excretion."
+    },
+    {
+      "topicId": "mt_MbmNlfOv7P",
+      "prerequisiteId": "mt_Qkl46lyris",
+      "strength": "hard",
+      "reason": "Locomotion builds on the human skeleton."
+    },
+    {
+      "topicId": "mt_MbmNlfOv7P",
+      "prerequisiteId": "mt_lm0usBAF53",
+      "strength": "hard",
+      "reason": "Movement builds on muscles working in antagonistic pairs."
+    },
+    {
+      "topicId": "mt_uYh7emXtEt",
+      "prerequisiteId": "mt_okUMpHsV-P",
+      "strength": "hard",
+      "reason": "Neural coordination builds on neurons and brain structure."
+    },
+    {
+      "topicId": "mt_uYh7emXtEt",
+      "prerequisiteId": "mt_FQXGRdTDhp",
+      "strength": "hard",
+      "reason": "Endocrine coordination builds on hormones and the endocrine system."
+    },
+    {
+      "topicId": "mt_idsH0UOsAP",
+      "prerequisiteId": "mt_ck57CDFGet",
+      "strength": "hard",
+      "reason": "Senior plant reproduction builds on plant reproduction."
+    },
+    {
+      "topicId": "mt_idsH0UOsAP",
+      "prerequisiteId": "mt_EQTcgpAVrm",
+      "strength": "hard",
+      "reason": "Fertilisation is described in terms of floral structures."
+    },
+    {
+      "topicId": "mt_VND4ucozJC",
+      "prerequisiteId": "mt_tQkCzRcWG7",
+      "strength": "hard",
+      "reason": "Senior treatment builds on human reproduction."
+    },
+    {
+      "topicId": "mt_VND4ucozJC",
+      "prerequisiteId": "mt_BTpZFiW5Ge",
+      "strength": "hard",
+      "reason": "Gamete formation is meiosis."
+    },
+    {
+      "topicId": "mt_qrBIiPo3Yc",
+      "prerequisiteId": "mt_VND4ucozJC",
+      "strength": "hard",
+      "reason": "Contraception intervenes in the reproductive process."
+    },
+    {
+      "topicId": "mt_EmDPs3ZBwY",
+      "prerequisiteId": "mt_o7FJPDsHiW",
+      "strength": "hard",
+      "reason": "Mendelian genetics formalises predicting inherited traits."
+    },
+    {
+      "topicId": "mt_EmDPs3ZBwY",
+      "prerequisiteId": "mt_BTpZFiW5Ge",
+      "strength": "hard",
+      "reason": "Segregation is explained by meiosis."
+    },
+    {
+      "topicId": "mt_s3SZjIqK9f",
+      "prerequisiteId": "mt_EmDPs3ZBwY",
+      "strength": "hard",
+      "reason": "These are deviations from the Mendelian ratios."
+    },
+    {
+      "topicId": "mt_pJeCKdMSGq",
+      "prerequisiteId": "mt_EmDPs3ZBwY",
+      "strength": "hard",
+      "reason": "Linkage is a departure from independent assortment."
+    },
+    {
+      "topicId": "mt_SCvKK1MHpx",
+      "prerequisiteId": "mt_0sELh0MYWb",
+      "strength": "hard",
+      "reason": "Molecular genetics builds on DNA and genes."
+    },
+    {
+      "topicId": "mt_yhGLKMsh3d",
+      "prerequisiteId": "mt_SCvKK1MHpx",
+      "strength": "hard",
+      "reason": "Regulation controls transcription and translation."
+    },
+    {
+      "topicId": "mt_kRqkOzREhy",
+      "prerequisiteId": "mt_SCvKK1MHpx",
+      "strength": "hard",
+      "reason": "Sequencing and fingerprinting read the DNA molecule."
+    },
+    {
+      "topicId": "mt_atK5D8zcdX",
+      "prerequisiteId": "mt_FuVEZ1Ac9s",
+      "strength": "hard",
+      "reason": "Evolutionary theory builds on how natural selection works."
+    },
+    {
+      "topicId": "mt_atK5D8zcdX",
+      "prerequisiteId": "mt_ohUnzoI_nx",
+      "strength": "hard",
+      "reason": "The evidence strand builds on evidence for evolution."
+    },
+    {
+      "topicId": "mt_atK5D8zcdX",
+      "prerequisiteId": "mt_rOqo-8GeKt",
+      "strength": "hard",
+      "reason": "Mutation supplies the variation selection acts on."
+    },
+    {
+      "topicId": "mt_9S4hxDqOYT",
+      "prerequisiteId": "mt_1VIE8FlZvL",
+      "strength": "hard",
+      "reason": "Immunology builds on pathogens and the immune system."
+    },
+    {
+      "topicId": "mt_9S4hxDqOYT",
+      "prerequisiteId": "mt_LkOMijDvL7",
+      "strength": "hard",
+      "reason": "Vaccination builds on immunity and vaccines."
+    },
+    {
+      "topicId": "mt_r12sfmIoPz",
+      "prerequisiteId": "mt_r1fhdEvjzX",
+      "strength": "hard",
+      "reason": "Breeding programmes build on improvement in food resources."
+    },
+    {
+      "topicId": "mt_r12sfmIoPz",
+      "prerequisiteId": "mt_EmDPs3ZBwY",
+      "strength": "hard",
+      "reason": "Selective breeding applies inheritance of desired traits."
+    },
+    {
+      "topicId": "mt_ecWrNNlJeM",
+      "prerequisiteId": "mt_g9RcQOhU5d",
+      "strength": "hard",
+      "reason": "Uses of microbes build on single-celled organisms."
+    },
+    {
+      "topicId": "mt_GzpXuzjrKA",
+      "prerequisiteId": "mt_roinupb_7L",
+      "strength": "hard",
+      "reason": "Senior treatment builds on cancer and stem cells."
+    },
+    {
+      "topicId": "mt_GzpXuzjrKA",
+      "prerequisiteId": "mt_9S4hxDqOYT",
+      "strength": "hard",
+      "reason": "AIDS is understood as an attack on the immune system."
+    },
+    {
+      "topicId": "mt_3c7pkWp93Q",
+      "prerequisiteId": "mt_SCvKK1MHpx",
+      "strength": "hard",
+      "reason": "Genetic engineering manipulates replication and expression."
+    },
+    {
+      "topicId": "mt_MRselUe41W",
+      "prerequisiteId": "mt_3c7pkWp93Q",
+      "strength": "hard",
+      "reason": "GM organisms are produced by recombinant DNA technology."
+    },
+    {
+      "topicId": "mt_pT8cPGLRpq",
+      "prerequisiteId": "mt_BOG5zRYtQz",
+      "strength": "hard",
+      "reason": "Ecological pyramids build on energy loss between trophic levels."
+    },
+    {
+      "topicId": "mt_pT8cPGLRpq",
+      "prerequisiteId": "mt_URTJbS3hhs",
+      "strength": "hard",
+      "reason": "Energy flow builds on food webs and interdependence."
+    },
+    {
+      "topicId": "mt_mxVwYQc2Ep",
+      "prerequisiteId": "mt_pT8cPGLRpq",
+      "strength": "soft",
+      "reason": "Populations and communities are the units within an ecosystem."
+    },
+    {
+      "topicId": "mt_YKQXdSHU7f",
+      "prerequisiteId": "mt_xSs0xAd6i1",
+      "strength": "hard",
+      "reason": "Conservation builds on biodiversity and resilience."
+    },
+    {
+      "topicId": "mt_YKQXdSHU7f",
+      "prerequisiteId": "mt_mxVwYQc2Ep",
+      "strength": "soft",
+      "reason": "Conservation acts on populations and communities."
     }
   ]
 }

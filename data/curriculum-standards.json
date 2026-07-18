@@ -6,7 +6,7 @@
     "ngss-k5",
     "ngss-ms"
   ],
-  "curriculumCount": 14,
+  "curriculumCount": 15,
   "curricula": [
     {
       "slug": "uk-nc-2013",
@@ -46650,6 +46650,678 @@
             "class": "X",
             "strand": "Sanskrit — Composition",
             "description": "Translating Hindi and English passages into Sanskrit; answering questions on an unseen passage; picture-based sentences and paragraph writing; writing an informal letter."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ncert-hsec",
+      "country": "IN",
+      "name": "NCERT Syllabus for Higher Secondary Classes XI–XII (NCF 2005)",
+      "version": "2005",
+      "sourceUrl": "https://ncert.nic.in/syllabus.php",
+      "textIncluded": true,
+      "license": "NCERT permits no reproduction of its text; these records carry Marble-authored factual descriptions only (no NCERT text) — see PROVENANCE.md",
+      "topicCount": 60,
+      "topics": [
+        {
+          "key": "ncert-hsec:PHY.C11.U1",
+          "code": "PHY.C11.U1",
+          "data": {
+            "title": "Class XI Physical World and Measurement",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Physical World and Measurement",
+            "description": "Scope of physics and the nature of physical law; units and systems of units; accuracy, precision and errors in measurement; significant figures; dimensions and dimensional analysis."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C11.U2",
+          "code": "PHY.C11.U2",
+          "data": {
+            "title": "Class XI Kinematics",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Kinematics",
+            "description": "Frames of reference; motion in a straight line with position-time and velocity-time graphs; elementary differentiation and integration for motion; scalars and vectors, resolution of vectors; projectile and uniform circular motion."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C11.U3",
+          "code": "PHY.C11.U3",
+          "data": {
+            "title": "Class XI Laws of Motion",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Laws of Motion",
+            "description": "Inertia and Newton's three laws; momentum and impulse; conservation of linear momentum; equilibrium of concurrent forces; static, kinetic and rolling friction; dynamics of circular motion including banked roads."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C11.U4",
+          "code": "PHY.C11.U4",
+          "data": {
+            "title": "Class XI Work, Energy and Power",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Work, Energy and Power",
+            "description": "Scalar product; work by constant and variable forces; kinetic energy and the work-energy theorem; power; potential energy and conservative forces; conservation of mechanical energy; elastic and inelastic collisions."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C11.U5",
+          "code": "PHY.C11.U5",
+          "data": {
+            "title": "Class XI System of Particles and Rigid Body",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "System of Particles and Rigid Body",
+            "description": "Centre of mass of particle systems and rigid bodies; vector product, torque and angular momentum and their conservation; equilibrium and rotation of rigid bodies; moment of inertia, radius of gyration and the axis theorems."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C11.U6",
+          "code": "PHY.C11.U6",
+          "data": {
+            "title": "Class XI Gravitation",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Gravitation",
+            "description": "Kepler's laws; the universal law of gravitation; variation of g with altitude and depth; gravitational potential energy and potential; escape speed, orbital velocity and geostationary satellites."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C11.U7",
+          "code": "PHY.C11.U7",
+          "data": {
+            "title": "Class XI Properties of Bulk Matter",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Properties of Bulk Matter",
+            "description": "Elastic behaviour, stress-strain and the elastic moduli; fluid pressure and Pascal's law; viscosity, Stokes' law and terminal velocity; Bernoulli's theorem; surface tension and capillarity; calorimetry, latent heat and heat transfer."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C11.U8",
+          "code": "PHY.C11.U8",
+          "data": {
+            "title": "Class XI Thermodynamics",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Thermodynamics",
+            "description": "Thermal equilibrium and the zeroth law; heat, work and internal energy; the first law; the second law, reversible and irreversible processes, heat engines and refrigerators."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C11.U9",
+          "code": "PHY.C11.U9",
+          "data": {
+            "title": "Class XI Perfect Gas and Kinetic Theory",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Perfect Gas and Kinetic Theory",
+            "description": "Equation of state of a perfect gas; assumptions of kinetic theory; pressure and temperature from molecular motion; rms speed; degrees of freedom and equipartition; mean free path and Avogadro’s number."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C11.U10",
+          "code": "PHY.C11.U10",
+          "data": {
+            "title": "Class XI Oscillations and Waves",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Oscillations and Waves",
+            "description": "Periodic motion and simple harmonic motion, its equation, phase and energy; the simple pendulum; free, damped and forced oscillations and resonance; wave motion, superposition, standing waves, beats and the Doppler effect."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C12.U1",
+          "code": "PHY.C12.U1",
+          "data": {
+            "title": "Class XII Electrostatics",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Electrostatics",
+            "description": "Electric charge and Coulomb's law; the electric field and field lines; electric dipoles; electric flux and Gauss's theorem with applications; electric potential and equipotential surfaces; conductors and dielectrics; capacitors and energy stored."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C12.U2",
+          "code": "PHY.C12.U2",
+          "data": {
+            "title": "Class XII Current Electricity",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Current Electricity",
+            "description": "Electric current, drift velocity and mobility; Ohm's law, resistivity and conductivity; temperature dependence of resistance; emf and internal resistance; combinations of cells; Kirchhoff's laws, Wheatstone bridge and potentiometer."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C12.U3",
+          "code": "PHY.C12.U3",
+          "data": {
+            "title": "Class XII Magnetic Effects and Magnetism",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Magnetic Effects and Magnetism",
+            "description": "Biot-Savart and Ampere's laws with applications; force on a moving charge and on a current-carrying conductor; the cyclotron; torque on a current loop and the moving coil galvanometer; magnetic dipoles; Earth's magnetism; para-, dia- and ferromagnetism."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C12.U4",
+          "code": "PHY.C12.U4",
+          "data": {
+            "title": "Class XII Electromagnetic Induction and AC",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Electromagnetic Induction and AC",
+            "description": "Electromagnetic induction; Faraday's and Lenz's laws; eddy currents; self and mutual inductance; alternating current, peak and rms values; reactance, impedance and LCR resonance; power in AC circuits; the AC generator and transformer."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C12.U5",
+          "code": "PHY.C12.U5",
+          "data": {
+            "title": "Class XII Electromagnetic Waves",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Electromagnetic Waves",
+            "description": "Electromagnetic waves and their transverse nature; the electromagnetic spectrum from radio waves to gamma rays and elementary facts about their uses."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C12.U6",
+          "code": "PHY.C12.U6",
+          "data": {
+            "title": "Class XII Optics",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Optics",
+            "description": "Reflection at spherical mirrors and the mirror formula; refraction, total internal reflection and optical fibres; lenses, the thin lens and lens-maker's formulae; prisms and dispersion; scattering; optical instruments and eye defects; wave optics — Huygens' principle, interference, diffraction, resolving power and polarisation."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C12.U7",
+          "code": "PHY.C12.U7",
+          "data": {
+            "title": "Class XII Dual Nature of Matter and Radiation",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Dual Nature of Matter and Radiation",
+            "description": "The photoelectric effect and Einstein's photoelectric equation; the particle nature of light; matter waves and the de Broglie relation; the Davisson-Germer experiment."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C12.U8",
+          "code": "PHY.C12.U8",
+          "data": {
+            "title": "Class XII Atoms and Nuclei",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Atoms and Nuclei",
+            "description": "Alpha-particle scattering and Rutherford’s model; the Bohr model, energy levels and the hydrogen spectrum; composition and size of the nucleus; isotopes, isobars and isotones; radioactivity and the decay law; mass defect, binding energy, fission and fusion."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C12.U9",
+          "code": "PHY.C12.U9",
+          "data": {
+            "title": "Class XII Electronic Devices",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Electronic Devices",
+            "description": "Semiconductors; the semiconductor diode and its I-V characteristics; the diode as a rectifier; LED, photodiode, solar cell and Zener diode; the junction transistor as amplifier, oscillator and switch; logic gates."
+          }
+        },
+        {
+          "key": "ncert-hsec:PHY.C12.U10",
+          "code": "PHY.C12.U10",
+          "data": {
+            "title": "Class XII Communication Systems",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Communication Systems",
+            "description": "Elements of a communication system; bandwidth of signals and of transmission media; propagation of electromagnetic waves through the atmosphere; the need for modulation; amplitude modulation and its detection."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C11.U1",
+          "code": "CHE.C11.U1",
+          "data": {
+            "title": "Class XI Some Basic Concepts",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Some Basic Concepts",
+            "description": "Laws of chemical combination and Dalton’s atomic theory; atomic and molecular masses; the mole concept and molar mass; percentage composition, empirical and molecular formulae; stoichiometry and calculations based on it."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C11.U2",
+          "code": "CHE.C11.U2",
+          "data": {
+            "title": "Class XI Structure of Atom",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Structure of Atom",
+            "description": "Discovery of the subatomic particles; the Thomson, Rutherford and Bohr models and their limitations; dual nature of matter and light; the uncertainty principle; orbitals and quantum numbers; Aufbau, Pauli and Hund rules; electronic configuration."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C11.U3",
+          "code": "CHE.C11.U3",
+          "data": {
+            "title": "Class XI Periodicity in Properties",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Periodicity in Properties",
+            "description": "Significance of classification and the development of the periodic table; the modern periodic law; periodic trends in atomic and ionic radii, ionization enthalpy, electron gain enthalpy, electronegativity and valence."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C11.U4",
+          "code": "CHE.C11.U4",
+          "data": {
+            "title": "Class XI Chemical Bonding and Molecular Structure",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Chemical Bonding and Molecular Structure",
+            "description": "Ionic and covalent bonds and bond parameters; Lewis structures; polarity; valence bond theory and resonance; VSEPR theory and molecular geometry; hybridisation of s, p and d orbitals; molecular orbital theory qualitatively; hydrogen bonding."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C11.U5",
+          "code": "CHE.C11.U5",
+          "data": {
+            "title": "Class XI States of Matter",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "States of Matter",
+            "description": "Intermolecular interactions and their effect on melting and boiling points; Boyle’s, Charles’, Gay-Lussac’s and Avogadro’s laws; the ideal gas equation; deviation from ideal behaviour; liquefaction and critical temperature; vapour pressure, viscosity and surface tension."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C11.U6",
+          "code": "CHE.C11.U6",
+          "data": {
+            "title": "Class XI Thermodynamics",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Thermodynamics",
+            "description": "Systems and surroundings; state functions; the first law, internal energy and enthalpy; heat capacity; Hess’s law of constant heat summation; enthalpies of formation, combustion, bond dissociation and phase change; entropy and free energy as criteria for spontaneity."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C11.U7",
+          "code": "CHE.C11.U7",
+          "data": {
+            "title": "Class XI Equilibrium",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Equilibrium",
+            "description": "Dynamic equilibrium in physical and chemical processes; the law of mass action and the equilibrium constant; Le Chatelier’s principle; ionic equilibrium, strong and weak electrolytes, degree of ionization and pH; salt hydrolysis, buffers, solubility product and the common ion effect."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C11.U8",
+          "code": "CHE.C11.U8",
+          "data": {
+            "title": "Class XI Redox Reactions",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Redox Reactions",
+            "description": "Oxidation and reduction as electron transfer; oxidation number; balancing redox equations; applications of redox reactions."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C11.U9",
+          "code": "CHE.C11.U9",
+          "data": {
+            "title": "Class XI Hydrogen",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Hydrogen",
+            "description": "Position of hydrogen in the periodic table; isotopes, preparation, properties and uses; ionic, covalent and interstitial hydrides; properties of water and heavy water; hydrogen peroxide; hydrogen as a fuel."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C11.U10",
+          "code": "CHE.C11.U10",
+          "data": {
+            "title": "Class XI s-Block Elements",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "s-Block Elements",
+            "description": "Groups 1 and 2: electronic configuration and occurrence; anomalous properties of the first element and diagonal relationships; trends in ionization enthalpy and radii; reactivity with oxygen, water, hydrogen and halogens; important compounds of sodium and calcium and their biological importance."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C11.U11",
+          "code": "CHE.C11.U11",
+          "data": {
+            "title": "Class XI Some p-Block Elements",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Some p-Block Elements",
+            "description": "General introduction to the p-block; Group 13 including boron and aluminium; Group 14 including carbon catenation and allotropes; important compounds of silicon such as silicones, silicates and zeolites."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C11.U12",
+          "code": "CHE.C11.U12",
+          "data": {
+            "title": "Class XI Organic Chemistry — Basic Principles",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Organic Chemistry — Basic Principles",
+            "description": "Methods of purification and qualitative and quantitative analysis; classification and IUPAC nomenclature; electronic displacements — inductive, electromeric, resonance and hyperconjugation; homolytic and heterolytic fission; free radicals, carbocations, carbanions, electrophiles and nucleophiles."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C11.U13",
+          "code": "CHE.C11.U13",
+          "data": {
+            "title": "Class XI Hydrocarbons",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Hydrocarbons",
+            "description": "Alkanes — nomenclature, isomerism, conformations and free radical halogenation; alkenes — geometrical isomerism, preparation and electrophilic addition including Markovnikov’s rule; alkynes — acidic character and addition reactions; aromatic hydrocarbons — benzene, resonance, aromaticity and electrophilic substitution."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C11.U14",
+          "code": "CHE.C11.U14",
+          "data": {
+            "title": "Class XI Environmental Chemistry",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Environmental Chemistry",
+            "description": "Air, water and soil pollution; chemical reactions in the atmosphere; smog and major atmospheric pollutants; acid rain; ozone and its depletion; the greenhouse effect and global warming; industrial waste; green chemistry."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U1",
+          "code": "CHE.C12.U1",
+          "data": {
+            "title": "Class XII Solid State",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Solid State",
+            "description": "Classification of solids by binding force; amorphous and crystalline solids; unit cells in two and three dimensions; packing, voids and atoms per unit cell; density of a unit cell; point defects; electrical and magnetic properties."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U2",
+          "code": "CHE.C12.U2",
+          "data": {
+            "title": "Class XII Solutions",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Solutions",
+            "description": "Types of solution and expressions of concentration; solubility of gases in liquids; colligative properties — relative lowering of vapour pressure, boiling point elevation, freezing point depression and osmotic pressure; determination of molecular mass; abnormal molecular mass."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U3",
+          "code": "CHE.C12.U3",
+          "data": {
+            "title": "Class XII Electrochemistry",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Electrochemistry",
+            "description": "Conductance in electrolytic solutions; specific and molar conductivity and Kohlrausch’s law; electrolysis and its laws; galvanic and electrolytic cells; emf and standard electrode potential; the Nernst equation; dry cells, lead accumulator and fuel cells; corrosion."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U4",
+          "code": "CHE.C12.U4",
+          "data": {
+            "title": "Class XII Chemical Kinetics",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Chemical Kinetics",
+            "description": "Average and instantaneous rate of reaction; effect of concentration, temperature and catalyst; order and molecularity; rate law and rate constant; integrated rate equations and half life for zero and first order; collision theory qualitatively."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U5",
+          "code": "CHE.C12.U5",
+          "data": {
+            "title": "Class XII Surface Chemistry",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Surface Chemistry",
+            "description": "Physisorption and chemisorption and the factors affecting adsorption; homogeneous and heterogeneous catalysis, activity and selectivity, enzyme catalysis; the colloidal state, lyophilic and lyophobic colloids; Tyndall effect, Brownian movement, electrophoresis and coagulation; emulsions."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U6",
+          "code": "CHE.C12.U6",
+          "data": {
+            "title": "Class XII Isolation of Elements",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Isolation of Elements",
+            "description": "Principles and methods of extraction — concentration, oxidation, reduction and electrolytic methods and refining; occurrence and principles of the extraction of aluminium, copper, zinc and iron."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U7",
+          "code": "CHE.C12.U7",
+          "data": {
+            "title": "Class XII p-Block Elements",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "p-Block Elements",
+            "description": "Groups 15 to 18: electronic configuration, occurrence, oxidation states and trends in properties; nitrogen, ammonia and nitric acid; phosphorus and its compounds; dioxygen, ozone, sulphur and sulphuric acid; halogens, chlorine, hydrochloric acid and interhalogen compounds; the noble gases."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U8",
+          "code": "CHE.C12.U8",
+          "data": {
+            "title": "Class XII d- and f-Block Elements",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "d- and f-Block Elements",
+            "description": "Characteristics of transition metals and trends across the first row — metallic character, oxidation states, ionic radii, colour, catalytic and magnetic properties, interstitial compounds and alloys; potassium dichromate and permanganate; lanthanoids and lanthanoid contraction; actinoids."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U9",
+          "code": "CHE.C12.U9",
+          "data": {
+            "title": "Class XII Coordination Compounds",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Coordination Compounds",
+            "description": "Ligands, coordination number, colour, magnetic properties and shapes; IUPAC nomenclature of mononuclear complexes; bonding and isomerism; importance in qualitative analysis, extraction of metals and biological systems."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U10",
+          "code": "CHE.C12.U10",
+          "data": {
+            "title": "Class XII Haloalkanes and Haloarenes",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Haloalkanes and Haloarenes",
+            "description": "Nomenclature and the nature of the carbon-halogen bond; physical and chemical properties; mechanism of substitution reactions; directive influence of halogen in haloarenes; uses and environmental effects of chloromethanes, freons and DDT."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U11",
+          "code": "CHE.C12.U11",
+          "data": {
+            "title": "Class XII Alcohols, Phenols and Ethers",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Alcohols, Phenols and Ethers",
+            "description": "Nomenclature, preparation and properties of alcohols; identification of primary, secondary and tertiary alcohols; mechanism of dehydration; methanol and ethanol; the acidic nature of phenol and its electrophilic substitution; preparation and properties of ethers."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U12",
+          "code": "CHE.C12.U12",
+          "data": {
+            "title": "Class XII Aldehydes, Ketones and Carboxylic Acids",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Aldehydes, Ketones and Carboxylic Acids",
+            "description": "Nature of the carbonyl group; preparation and properties of aldehydes and ketones; mechanism of nucleophilic addition; reactivity of alpha hydrogen; nomenclature, acidic nature, preparation and properties of carboxylic acids."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U13",
+          "code": "CHE.C12.U13",
+          "data": {
+            "title": "Class XII Organic Compounds Containing Nitrogen",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Organic Compounds Containing Nitrogen",
+            "description": "Amines — classification, structure, preparation, properties and identification of primary, secondary and tertiary amines; cyanides and isocyanides; diazonium salts, their reactions and importance in synthesis."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U14",
+          "code": "CHE.C12.U14",
+          "data": {
+            "title": "Class XII Biomolecules",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Biomolecules",
+            "description": "Carbohydrates — monosaccharides, oligosaccharides and polysaccharides; proteins — amino acids, the peptide bond and primary to quaternary structure, denaturation and enzymes; vitamins and their functions; nucleic acids, DNA and RNA."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U15",
+          "code": "CHE.C12.U15",
+          "data": {
+            "title": "Class XII Polymers",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Polymers",
+            "description": "Natural and synthetic polymers; addition and condensation polymerisation; copolymerisation; important polymers including polythene, nylon, polyesters, bakelite and rubber."
+          }
+        },
+        {
+          "key": "ncert-hsec:CHE.C12.U16",
+          "code": "CHE.C12.U16",
+          "data": {
+            "title": "Class XII Chemistry in Everyday Life",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Chemistry in Everyday Life",
+            "description": "Chemicals in medicine — analgesics, tranquilizers, antiseptics, disinfectants, antimicrobials, antibiotics, antacids and antihistamines; chemicals in food — preservatives and artificial sweeteners; cleansing agents and the action of soaps and detergents."
+          }
+        },
+        {
+          "key": "ncert-hsec:BIO.U1",
+          "code": "BIO.U1",
+          "data": {
+            "title": "Class XI Diversity in the Living World",
+            "subject": "Biology (XI–XII)",
+            "class": "XI",
+            "strand": "Diversity in the Living World",
+            "description": "The meaning of being alive and the diversity of living organisms; five kingdom classification and the principles of classification within each kingdom; systematics and binomial nomenclature; salient features of animal and plant classification; botanical gardens, herbaria, zoological parks and museums as taxonomic aids."
+          }
+        },
+        {
+          "key": "ncert-hsec:BIO.U2",
+          "code": "BIO.U2",
+          "data": {
+            "title": "Class XI Structural Organisation in Animals and Plants",
+            "subject": "Biology (XI–XII)",
+            "class": "XI",
+            "strand": "Structural Organisation in Animals and Plants",
+            "description": "Tissues in animals and plants; morphology, anatomy and function of root, stem, leaf, inflorescence, flower, fruit and seed in flowering plants; morphology and anatomy of the systems of an annelid, an insect and an amphibian."
+          }
+        },
+        {
+          "key": "ncert-hsec:BIO.U3",
+          "code": "BIO.U3",
+          "data": {
+            "title": "Class XI Cell: Structure and Function",
+            "subject": "Biology (XI–XII)",
+            "class": "XI",
+            "strand": "Cell: Structure and Function",
+            "description": "Cell wall, membrane and organelles including plastids, mitochondria, endoplasmic reticulum, Golgi bodies, ribosomes, lysosomes, vacuoles and centrioles; nuclear organisation; the cell cycle, mitosis and meiosis; the chemical constituents of living bodies; carbohydrates, proteins, lipids and nucleic acids; types, properties and function of enzymes."
+          }
+        },
+        {
+          "key": "ncert-hsec:BIO.U4",
+          "code": "BIO.U4",
+          "data": {
+            "title": "Class XI Plant Physiology",
+            "subject": "Biology (XI–XII)",
+            "class": "XI",
+            "strand": "Plant Physiology",
+            "description": "Movement of water, food, nutrients and gases; plants and water; transpiration and root pressure; mineral nutrition and nitrogen fixation; respiration; photosynthesis including the C3 and C4 pathways; plant growth and development and the role of growth regulators."
+          }
+        },
+        {
+          "key": "ncert-hsec:BIO.U5",
+          "code": "BIO.U5",
+          "data": {
+            "title": "Class XI Human Physiology",
+            "subject": "Biology (XI–XII)",
+            "class": "XI",
+            "strand": "Human Physiology",
+            "description": "Digestion and absorption; breathing and respiration; body fluids and circulation; excretory products and their elimination and the role of the kidney in osmoregulation; locomotion and movement; control and coordination through the neural and endocrine systems; sense organs."
+          }
+        },
+        {
+          "key": "ncert-hsec:BIO.U6",
+          "code": "BIO.U6",
+          "data": {
+            "title": "Class XII Sexual Reproduction",
+            "subject": "Biology (XI–XII)",
+            "class": "XII",
+            "strand": "Sexual Reproduction",
+            "description": "Pollination and fertilisation in flowering plants; development of seeds and fruits; the human male and female reproductive systems and the menstrual cycle; gamete production, fertilisation, implantation, embryo development, pregnancy and parturition; reproductive health, birth control, contraception and sexually transmitted diseases."
+          }
+        },
+        {
+          "key": "ncert-hsec:BIO.U7",
+          "code": "BIO.U7",
+          "data": {
+            "title": "Class XII Genetics and Evolution",
+            "subject": "Biology (XI–XII)",
+            "class": "XII",
+            "strand": "Genetics and Evolution",
+            "description": "Mendelian inheritance and the chromosome theory; deviations from Mendelian ratios including incomplete dominance, co-dominance and multiple alleles; sex determination; linkage and crossing over; inheritance of haemophilia and blood groups; DNA replication, transcription and translation; gene expression and regulation; the Human Genome Project and DNA fingerprinting; theories of and evidence for evolution."
+          }
+        },
+        {
+          "key": "ncert-hsec:BIO.U8",
+          "code": "BIO.U8",
+          "data": {
+            "title": "Class XII Biology and Human Welfare",
+            "subject": "Biology (XI–XII)",
+            "class": "XII",
+            "strand": "Biology and Human Welfare",
+            "description": "Animal husbandry; basic immunology and vaccines; pathogens and parasites; plant breeding, tissue culture and food production; microbes in household food processing, industrial production, sewage treatment and energy generation; cancer and AIDS; adolescence and drug and alcohol abuse."
+          }
+        },
+        {
+          "key": "ncert-hsec:BIO.U9",
+          "code": "BIO.U9",
+          "data": {
+            "title": "Class XII Biotechnology and its Applications",
+            "subject": "Biology (XI–XII)",
+            "class": "XII",
+            "strand": "Biotechnology and its Applications",
+            "description": "Recombinant DNA technology and its applications in health, agriculture and industry; genetically modified organisms and biosafety issues; insulin and Bt cotton; bioreactors and gene therapy; ethical questions raised by cloning."
+          }
+        },
+        {
+          "key": "ncert-hsec:BIO.U10",
+          "code": "BIO.U10",
+          "data": {
+            "title": "Class XII Ecology and Environment",
+            "subject": "Biology (XI–XII)",
+            "class": "XII",
+            "strand": "Ecology and Environment",
+            "description": "Ecosystems — their components, types and energy flow, and ecological pyramids; species, population and community; ecological adaptations; centres of diversity, conservation of biodiversity, national parks and sanctuaries; in situ and ex situ conservation; environmental issues including pollution, deforestation, global warming and ozone depletion."
           }
         }
       ]

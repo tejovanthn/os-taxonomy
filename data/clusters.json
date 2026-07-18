@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 319,
+  "clusterCount": 328,
   "clusters": [
     {
       "subject": "English",
@@ -1917,6 +1917,69 @@
       "ageRangeStart": 14,
       "ageRangeEnd": 16,
       "summary": "Food is one of the themes NCF-2005 runs through school science, and at the secondary stage it becomes a question of how output is raised without wrecking what produces it. Learners look at how selecting and breeding crops and livestock changes what a field yields, why soil nutrients have to be put back once they are taken out, and what the trade-offs are between chemical fertilizers and organic methods. It is a good place to see science applied to a problem where the right answer depends on time horizon."
+    },
+    {
+      "subject": "Physics",
+      "domain": "Mechanics",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "summary": "Senior mechanics is where the rules of motion stop being descriptions and start being tools. Learners move from reading motion off graphs to handling it with vectors and calculus, then meet the three great conservation laws — momentum, energy and angular momentum — which let a problem be solved without tracking every force at every instant. The same inverse-square law that makes an apple fall is shown to hold planets in orbit. The recurring lesson is that finding the right quantity to conserve is usually easier than following the forces."
+    },
+    {
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "summary": "This is the strand where electricity and magnetism turn out to be one subject rather than two. Learners start from the force between charges, build the ideas of field and potential, and then find that moving charge makes magnetism and changing magnetism makes current. That last step — induction — is what generators, transformers and the whole electrical grid rest on. It ends with the realisation that oscillating fields sustain each other and travel as light."
+    },
+    {
+      "subject": "Physics",
+      "domain": "Modern Physics",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "summary": "Modern physics is where the classical picture breaks. Light that behaves as a wave in interference behaves as particles in the photoelectric effect; matter that behaves as particles turns out to have a wavelength. Learners see how alpha-particle scattering forced the nuclear atom, how quantised energy levels explain the sharp lines in a spectrum, and how the tiny mass missing from a nucleus accounts for the energy of both fission and fusion."
+    },
+    {
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "summary": "Physical chemistry is the strand that asks not what reacts but why, how far and how fast. Learners move from the quantum picture of the atom to the forces between molecules, then to three separate questions that a reaction raises: how much energy it exchanges, how far it proceeds before equilibrium, and how quickly it gets there. These turn out to be independent — a reaction can be strongly favoured and still be far too slow to observe, which is why catalysts matter so much."
+    },
+    {
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "summary": "Organic chemistry looks impossibly large until the organising idea lands: behaviour follows the functional group, not the size of the molecule. Learners learn to name and draw structures, then study how electron density shifts around a bond and how bonds break to give radicals, carbocations and carbanions. From there each family — alkanes, alkenes, aromatics, alcohols, carbonyls, acids, amines — behaves predictably, and the same reasoning carries all the way to the sugars, proteins and nucleic acids that living things are built from."
+    },
+    {
+      "subject": "Chemistry",
+      "domain": "Inorganic Chemistry",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "summary": "Inorganic chemistry is the periodic table taken seriously as a predictive tool. Once trends in size, ionization energy and electronegativity are understood in terms of nuclear charge and shielding, the behaviour of whole groups follows, and the anomalies — lithium, beryllium, boron, the inert pair effect — become interesting rather than arbitrary. The strand ends with transition metals, whose partly filled d orbitals account at once for their colours, their variable oxidation states, their magnetism and their use as catalysts."
+    },
+    {
+      "subject": "Biology",
+      "domain": "Genetics & Evolution",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "summary": "Genetics is where biology becomes predictive. Learners start from Mendel’s paired factors and the ratios they produce, then meet all the ways real inheritance departs from that clean model — incomplete dominance, multiple alleles, linkage, sex linkage. The molecular half explains why the rules work at all: DNA copies itself, is transcribed and translated in triplets, and is switched on and off cell by cell. Evolution then follows almost inevitably, since mutation supplies variation and selection acts on it."
+    },
+    {
+      "subject": "Biology",
+      "domain": "Cell & Biomolecules",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "summary": "This strand takes the cell apart and puts it back together as a working chemical system. Each organelle turns out to be specialised for one task, and keeping those tasks in separate compartments is what makes the whole thing viable. Learners then meet the four families of macromolecule the cell is built from, and enzymes — the protein catalysts whose specificity depends entirely on shape, which is why heat and pH can destroy them."
+    },
+    {
+      "subject": "Biology",
+      "domain": "Human Physiology",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "summary": "Human physiology is the study of how a large body keeps every cell supplied and in balance. Learners follow food through enzymatic breakdown and absorption, oxygen from air to alveolus to bloodstream, and waste out through the nephron. The recurring theme is surface area and gradient: villi, alveoli and nephrons are all solutions to the same problem of exchanging enough material fast enough. It ends with the two coordinating systems — nerves for speed, hormones for duration."
     }
   ]
 }
