@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3834,
+  "edgeCount": 3847,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -23006,6 +23006,84 @@
       "prerequisiteId": "mt_bcHw0Tefvk",
       "strength": "hard",
       "reason": "Media language is one of the roles Hindi plays in society."
+    },
+    {
+      "topicId": "mt_JjcduqBDXg",
+      "prerequisiteId": "mt_ML5t7n2-U8",
+      "strength": "hard",
+      "reason": "The equal-area theorem builds on computing areas of triangles and parallelograms."
+    },
+    {
+      "topicId": "mt_p81CubtbEo",
+      "prerequisiteId": "mt_JjcduqBDXg",
+      "strength": "soft",
+      "reason": "Both extend how the area of a triangle can be found."
+    },
+    {
+      "topicId": "mt_r1fhdEvjzX",
+      "prerequisiteId": "mt_zM5vu31jgl",
+      "strength": "soft",
+      "reason": "Raising crop yield builds on how plants make their food."
+    },
+    {
+      "topicId": "mt_r1fhdEvjzX",
+      "prerequisiteId": "mt_0ajzcoKAKw",
+      "strength": "soft",
+      "reason": "Fertilizer and manure use depends on how nutrients cycle through soil."
+    },
+    {
+      "topicId": "mt_ZUsklkTY8B",
+      "prerequisiteId": "mt_wfEfQuHOG-",
+      "strength": "hard",
+      "reason": "Periodic trends build on knowing the structure of the periodic table."
+    },
+    {
+      "topicId": "mt_ZUsklkTY8B",
+      "prerequisiteId": "mt_T7ICFeChaV",
+      "strength": "hard",
+      "reason": "Periodicity is explained by atomic structure."
+    },
+    {
+      "topicId": "mt_fD1VfjtgyP",
+      "prerequisiteId": "mt_zniDXv3Ko3",
+      "strength": "hard",
+      "reason": "The senior treatment of relief builds on India’s physical features."
+    },
+    {
+      "topicId": "mt_pR11CACjaq",
+      "prerequisiteId": "mt_UJqGKMoRvb",
+      "strength": "hard",
+      "reason": "Drainage systems build on knowing the Himalayas and India’s rivers."
+    },
+    {
+      "topicId": "mt_pR11CACjaq",
+      "prerequisiteId": "mt_fD1VfjtgyP",
+      "strength": "soft",
+      "reason": "River systems follow the relief of the land."
+    },
+    {
+      "topicId": "mt_tw2D2QDYvq",
+      "prerequisiteId": "mt_D3sDOaujQk",
+      "strength": "hard",
+      "reason": "Cropping patterns and reforms build on the basics of Indian agriculture."
+    },
+    {
+      "topicId": "mt_tw2D2QDYvq",
+      "prerequisiteId": "mt_0cDJP7Fwwm",
+      "strength": "soft",
+      "reason": "What can be grown depends on soil type and condition."
+    },
+    {
+      "topicId": "mt_WSbUSYwUen",
+      "prerequisiteId": "mt_QCQjNxURAP",
+      "strength": "hard",
+      "reason": "Industrial location builds on knowing India’s industries."
+    },
+    {
+      "topicId": "mt_TzdumFchh6",
+      "prerequisiteId": "mt_VFhHCU805T",
+      "strength": "soft",
+      "reason": "The economic role of transport builds on how transport has changed over time."
     }
   ]
 }

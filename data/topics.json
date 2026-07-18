@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2092,
+  "topicCount": 2100,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -21651,7 +21651,8 @@
       "assessmentPrompt": "Can {{name}} describe what happened to Yellowstone National Park after wolves were reintroduced — what unexpected changes rippled through the whole ecosystem, including effects on rivers, as a result of one predator coming back?",
       "standards": [
         "nios-obe-c:C105.L20",
-        "ncert-sec:SCI.C10.NR.CONSERVE"
+        "ncert-sec:SCI.C10.NR.CONSERVE",
+        "ncert-sec:GEO.C10.FOREST"
       ]
     },
     {
@@ -22962,7 +22963,8 @@
       "assessmentPrompt": "Can {{name}} describe real examples of how communities protect the environment — like using solar panels, creating nature reserves, or cleaning up rivers?",
       "standards": [
         "ngss-k5:5-ESS3-1",
-        "ncert-sec:SCI.C10.NR.CONSERVE"
+        "ncert-sec:SCI.C10.NR.CONSERVE",
+        "ncert-sec:GEO.C10.FOREST"
       ]
     },
     {
@@ -25688,7 +25690,8 @@
         "ngss-ms:MS-ESS3-4",
         "uk-nc-2013:KS3.Sci.Chem.EA.5",
         "ncert-sec:SCI.C10.LIV.ENV",
-        "ncert-sec:SCI.C10.NR.CONSERVE"
+        "ncert-sec:SCI.C10.NR.CONSERVE",
+        "ncert-sec:GEO.C10.MIN"
       ]
     },
     {
@@ -42110,7 +42113,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a country would need a plan for its resources rather than simply using what it finds.",
       "standards": [
-        "ncert-sec:GEO.C10.RES"
+        "ncert-sec:GEO.C10.RES",
+        "ncert-sec:GEO.C10.MIN"
       ]
     },
     {
@@ -42495,6 +42499,166 @@
       "assessmentPrompt": "Ask {{name}} to compare a news story in two Hindi papers and say what each chose to emphasise.",
       "standards": [
         "ncert-sec:HIN.C910.MEDIA"
+      ]
+    },
+    {
+      "id": "mt_JjcduqBDXg",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "Areas on the Same Base and Between the Same Parallels",
+      "description": "Understand that figures sharing a base and lying between the same two parallel lines have equal area, so area can be reasoned about without measuring either shape.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "States that parallelograms on the same base between the same parallels are equal in area",
+        "Deduces that a triangle has half the area of such a parallelogram",
+        "Uses the result to compare two areas without computing either"
+      ],
+      "assessmentPrompt": "Show {{name}} two very differently shaped parallelograms on one base between two parallel lines and ask which has the greater area.",
+      "standards": [
+        "ncert-sec:MA.C9.GEO.AREA"
+      ]
+    },
+    {
+      "id": "mt_r1fhdEvjzX",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Food & Agriculture",
+      "name": "Improvement in Food Resources",
+      "description": "Understand that food output is raised by selecting and breeding better crops and livestock, replacing lost soil nutrients, and protecting yields from pests and disease.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains how selection and breeding improve a crop or animal variety",
+        "Distinguishes a manure from a chemical fertilizer and states a trade-off",
+        "Describes how organic farming differs from intensive chemical farming"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a farmer could grow more grain on the same field, and what each method might cost in the long run.",
+      "standards": [
+        "ncert-sec:SCI.C9.FOOD"
+      ]
+    },
+    {
+      "id": "mt_ZUsklkTY8B",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Periodic Classification and Periodic Trends",
+      "description": "Understand that elements were ordered so that properties repeat at regular intervals, and that this pattern lets an element’s behaviour be predicted from its position alone.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains what made Mendeleev’s ordering predictive rather than merely descriptive",
+        "Describes how a property changes across a period or down a group",
+        "Predicts a property of an element from where it sits in the table"
+      ],
+      "assessmentPrompt": "Ask {{name}} how Mendeleev could describe elements nobody had discovered yet.",
+      "standards": [
+        "ncert-sec:SCI.C10.MAT.PERIOD"
+      ]
+    },
+    {
+      "id": "mt_fD1VfjtgyP",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "India’s Physiographic Divisions",
+      "description": "Understand that India divides into distinct physical regions — mountains, plains, plateau, desert, coasts and islands — each formed by a different geological history and supporting different ways of life.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names the major physiographic divisions and locates them",
+        "Links a division to the geological process that formed it",
+        "Explains how relief shapes settlement or livelihood in one region"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the Himalayas, the Gangetic plain and the Deccan plateau look so different from each other.",
+      "standards": [
+        "ncert-sec:GEO.C9.LOC"
+      ]
+    },
+    {
+      "id": "mt_pR11CACjaq",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "India’s Drainage Systems",
+      "description": "Understand that India’s rivers fall into Himalayan and peninsular systems that differ in flow and origin, and that rivers carry both economic value and a growing pollution problem.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Contrasts Himalayan and peninsular river systems",
+        "Explains the role rivers play in the economy",
+        "Describes a cause of river pollution and a measure against it"
+      ],
+      "assessmentPrompt": "Ask {{name}} why some Indian rivers flow all year while others nearly dry up between monsoons.",
+      "standards": [
+        "ncert-sec:GEO.C9.DRAIN"
+      ]
+    },
+    {
+      "id": "mt_tw2D2QDYvq",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "Indian Agriculture: Cropping Patterns and Reforms",
+      "description": "Understand that what is grown where follows rainfall, soil and season, and that technological and institutional reforms have reshaped Indian farming and its place in the national economy.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Links a cropping pattern to its rainfall and soil conditions",
+        "Describes a technological or institutional reform and its effect",
+        "Explains agriculture’s contribution to employment and output"
+      ],
+      "assessmentPrompt": "Ask {{name}} why rice and wheat are grown in different parts of India, and what changed farming after independence.",
+      "standards": [
+        "ncert-sec:GEO.C10.AGRI"
+      ]
+    },
+    {
+      "id": "mt_WSbUSYwUen",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "Industrial Location, Pollution and Sustainable Development",
+      "description": "Understand why industries cluster in particular places, how that concentration creates regional disparity, and why industrial growth is argued about in terms of pollution and sustainability.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains a reason industries concentrate in certain regions",
+        "Describes a form of industrial pollution and a control measure",
+        "Weighs an argument for and against planned industrial development"
+      ],
+      "assessmentPrompt": "Ask {{name}} why factories cluster in some states and not others, and who pays the cost of that.",
+      "standards": [
+        "ncert-sec:GEO.C10.IND"
+      ]
+    },
+    {
+      "id": "mt_TzdumFchh6",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "Transport, Communication and Trade in Development",
+      "description": "Understand that transport and communication networks shrink effective distance, and that trade — internal and international — is central to how a country develops economically.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains how transport networks affect economic development",
+        "Distinguishes internal from international trade",
+        "Describes how communication technology has changed the movement of goods and ideas"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a better road or a mobile network can change what a village is able to sell.",
+      "standards": [
+        "ncert-sec:GEO.C10.TRANS"
       ]
     }
   ]

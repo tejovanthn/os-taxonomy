@@ -54,6 +54,20 @@ Work-in-progress addition of Indian curricula, integrated one source at a time.
 - Hindi and Sanskrit syllabus pages use non-Unicode legacy Devanagari fonts and
   were recovered by OCR of 300 DPI renders (tesseract `hin`/`san`),
   cross-checked against the page images. Urdu is image-only and not integrated.
+- **Gap-fill after a verification pass (same day):** auditing every standard
+  against the age of its best-aligned topic exposed eight standards whose only
+  alignments were 3–7 years younger — i.e. a senior idea papered over by a
+  young topic. Added 8 topics: *Areas on the Same Base and Between the Same
+  Parallels*; *Improvement in Food Resources* (a new Science domain **Food &
+  Agriculture**, the NCF theme had no Science topic at all) and *Periodic
+  Classification and Periodic Trends*; and for geography *India's Physiographic
+  Divisions*, *India's Drainage Systems*, *Indian Agriculture: Cropping Patterns
+  and Reforms*, *Industrial Location, Pollution and Sustainable Development* and
+  *Transport, Communication and Trade in Development*. Final totals for
+  `ncert-sec`: 156 standards, **72 new topics**, 305 links. The only standards
+  still aligned solely to young topics are four Hindi/Sanskrit listening,
+  speaking and varnamala skills — correct by design, since those are learned
+  well before Class IX (typical learning age, not course-admission age).
 
 ### NCERT elementary syllabi — Mathematics I–V and VI–VIII (2026-07-17)
 - New source `ncert-elem` (NCERT Syllabus for Elementary Classes, NCF 2005).

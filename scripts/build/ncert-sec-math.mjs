@@ -155,6 +155,14 @@ const newTopics = [
     standards: ['ncert-sec:MA.C9.MODEL', 'ncert-sec:MA.C10.MODEL'],
   },
   {
+    _slug: 'areas-same-base-parallels', type: 'CONCEPTUAL', subject: 'Mathematics', domain: 'Geometry',
+    name: 'Areas on the Same Base and Between the Same Parallels', ageRangeStart: 14, ageRangeEnd: 15,
+    description: 'Understand that figures sharing a base and lying between the same two parallel lines have equal area, so area can be reasoned about without measuring either shape.',
+    evidence: EV('States that parallelograms on the same base between the same parallels are equal in area', 'Deduces that a triangle has half the area of such a parallelogram', 'Uses the result to compare two areas without computing either'),
+    assessmentPrompt: 'Show {{name}} two very differently shaped parallelograms on one base between two parallel lines and ask which has the greater area.',
+    standards: ['ncert-sec:MA.C9.GEO.AREA'],
+  },
+  {
     _slug: 'arithmetic-progressions', type: 'PROCEDURAL', subject: 'Mathematics', domain: 'Algebra',
     name: 'Arithmetic Progressions', ageRangeStart: 15, ageRangeEnd: 16,
     description: 'Recognise a sequence that grows by a constant difference, find any term of it directly, and add up the first several terms without listing them all.',
@@ -222,6 +230,8 @@ const newEdges = [
   { t: 'similar-triangles-proportionality', p: 'mt_1badik7iKJ', strength: 'soft', reason: 'Scale factors for similar shapes precede formal similarity criteria.' },
   { t: 'frustum-of-a-cone', p: 'mt_0MbPqx8PCp', strength: 'hard', reason: 'A frustum is measured by combining the standard solid formulae.' },
   { t: 'herons-formula', p: 'mt_svFa6_mjO_', strength: 'soft', reason: 'Area work on standard plane figures precedes Heron’s formula.' },
+  { t: 'areas-same-base-parallels', p: 'mt_ML5t7n2-U8', strength: 'hard', reason: 'The equal-area theorem builds on computing areas of triangles and parallelograms.' },
+  { t: 'herons-formula', p: 'areas-same-base-parallels', strength: 'soft', reason: 'Both extend how the area of a triangle can be found.' },
   { t: 'cumulative-frequency-ogive', p: 'mt_dbsLUDDBRW', strength: 'hard', reason: 'The ogive is a way of locating the median in grouped data.' },
   { t: 'mathematical-modelling', p: 'proof-conjecture-counterexample', strength: 'soft', reason: 'Both concern how mathematical claims are justified and tested.' },
   { t: 'euclid-axioms-postulates', p: 'mt_J03RFlVdas', strength: 'soft', reason: 'Angle results in triangles are among the first theorems proved from postulates.' },

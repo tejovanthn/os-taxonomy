@@ -10,7 +10,7 @@
  * are Marble-authored factual scope summaries (no NCERT text). Idempotent.
  */
 
-import { integrateNcertSec } from './ncert-sec.mjs';
+import { integrateNcertSec, mintId } from './ncert-sec.mjs';
 
 const s = (code, klass, strand, description) => ({ code, klass, strand, title: `Class ${klass} ${strand}`, description });
 
@@ -64,6 +64,11 @@ const alignments = {
   'mt__wWHVvqMWb': ['GEO.C9.CLIM'],                         // Hurricanes, Tornadoes & Monsoons
   'mt_iYOcfzFqMw': ['GEO.C9.CLIM'],                         // Global Wind Patterns
   'mt_RFilNlLL3T': ['GEO.C9.VEG', 'GEO.C9.WILD', 'GEO.C10.FOREST'], // India's Forests and Wildlife
+  'mt_44HkROUnzE': ['GEO.C10.FOREST'],                      // The Biodiversity Crisis
+  'mt_7e-lG7YOWa': ['GEO.C10.FOREST'],                      // Communities Protecting Resources
+  'mt_0e5rZxbAeR': ['GEO.C10.MIN'],                         // Finite Resources & Recycling
+  // senior resource topic minted below also carries the minerals standard
+  [mintId('resource-classification-planning')]: ['GEO.C10.MIN'],
   'mt_5S4byWDX6n': ['GEO.C9.WILD'],                         // Endangered & Extinct Species
   'mt_29aZtsWvgT': ['GEO.C9.POP'],                          // Population and Its Challenges
   'mt_kOFOr0gGSX': ['GEO.C9.POP'],                          // India's Growing Population
@@ -149,6 +154,31 @@ const newTopics = [
     EV('Reads an age-sex composition from a population pyramid', 'Explains how migration changes both origin and destination areas', 'Links occupational structure to a region’s level of development'),
     'Ask {{name}} what you learn about a place from knowing the ages of its people, not just how many there are.',
     ['ncert-sec:GEO.C9.POP']),
+  t('india-physiographic-divisions', 'India’s Physiographic Divisions', SS, GEO, 14, 15, 'CONCEPTUAL',
+    'Understand that India divides into distinct physical regions — mountains, plains, plateau, desert, coasts and islands — each formed by a different geological history and supporting different ways of life.',
+    EV('Names the major physiographic divisions and locates them', 'Links a division to the geological process that formed it', 'Explains how relief shapes settlement or livelihood in one region'),
+    'Ask {{name}} why the Himalayas, the Gangetic plain and the Deccan plateau look so different from each other.',
+    ['ncert-sec:GEO.C9.LOC']),
+  t('india-drainage-systems', 'India’s Drainage Systems', SS, GEO, 14, 15, 'CONCEPTUAL',
+    'Understand that India’s rivers fall into Himalayan and peninsular systems that differ in flow and origin, and that rivers carry both economic value and a growing pollution problem.',
+    EV('Contrasts Himalayan and peninsular river systems', 'Explains the role rivers play in the economy', 'Describes a cause of river pollution and a measure against it'),
+    'Ask {{name}} why some Indian rivers flow all year while others nearly dry up between monsoons.',
+    ['ncert-sec:GEO.C9.DRAIN']),
+  t('indian-agriculture-cropping-reforms', 'Indian Agriculture: Cropping Patterns and Reforms', SS, GEO, 15, 16, 'CONCEPTUAL',
+    'Understand that what is grown where follows rainfall, soil and season, and that technological and institutional reforms have reshaped Indian farming and its place in the national economy.',
+    EV('Links a cropping pattern to its rainfall and soil conditions', 'Describes a technological or institutional reform and its effect', 'Explains agriculture’s contribution to employment and output'),
+    'Ask {{name}} why rice and wheat are grown in different parts of India, and what changed farming after independence.',
+    ['ncert-sec:GEO.C10.AGRI']),
+  t('industrial-location-and-pollution', 'Industrial Location, Pollution and Sustainable Development', SS, GEO, 15, 16, 'CONCEPTUAL',
+    'Understand why industries cluster in particular places, how that concentration creates regional disparity, and why industrial growth is argued about in terms of pollution and sustainability.',
+    EV('Explains a reason industries concentrate in certain regions', 'Describes a form of industrial pollution and a control measure', 'Weighs an argument for and against planned industrial development'),
+    'Ask {{name}} why factories cluster in some states and not others, and who pays the cost of that.',
+    ['ncert-sec:GEO.C10.IND']),
+  t('transport-communication-trade', 'Transport, Communication and Trade in Development', SS, GEO, 15, 16, 'CONCEPTUAL',
+    'Understand that transport and communication networks shrink effective distance, and that trade — internal and international — is central to how a country develops economically.',
+    EV('Explains how transport networks affect economic development', 'Distinguishes internal from international trade', 'Describes how communication technology has changed the movement of goods and ideas'),
+    'Ask {{name}} how a better road or a mobile network can change what a village is able to sell.',
+    ['ncert-sec:GEO.C10.TRANS']),
   // --- Political science ---
   t('what-democracy-is-and-why', 'What Democracy Is and Why It Matters', SS, GOV, 14, 15, 'CONCEPTUAL',
     'Understand that democracy means rulers chosen by the people under rules that guarantee fair choice and rights, and be able to weigh it honestly against its alternatives.',
@@ -218,6 +248,13 @@ const newEdges = [
   { t: 'water-scarcity-rainwater-harvesting', p: 'resource-classification-planning', strength: 'soft', reason: 'Water scarcity is an instance of the resource planning problem.' },
   { t: 'resource-classification-planning', p: 'mt_Qx5riGaO8e', strength: 'hard', reason: 'Formal classification builds on knowing India’s natural resources.' },
   { t: 'population-composition-migration', p: 'mt_29aZtsWvgT', strength: 'hard', reason: 'Composition and migration refine the earlier treatment of population.' },
+  { t: 'india-physiographic-divisions', p: 'mt_zniDXv3Ko3', strength: 'hard', reason: 'The senior treatment of relief builds on India’s physical features.' },
+  { t: 'india-drainage-systems', p: 'mt_UJqGKMoRvb', strength: 'hard', reason: 'Drainage systems build on knowing the Himalayas and India’s rivers.' },
+  { t: 'india-drainage-systems', p: 'india-physiographic-divisions', strength: 'soft', reason: 'River systems follow the relief of the land.' },
+  { t: 'indian-agriculture-cropping-reforms', p: 'mt_D3sDOaujQk', strength: 'hard', reason: 'Cropping patterns and reforms build on the basics of Indian agriculture.' },
+  { t: 'indian-agriculture-cropping-reforms', p: 'soil-types-land-degradation', strength: 'soft', reason: 'What can be grown depends on soil type and condition.' },
+  { t: 'industrial-location-and-pollution', p: 'mt_QCQjNxURAP', strength: 'hard', reason: 'Industrial location builds on knowing India’s industries.' },
+  { t: 'transport-communication-trade', p: 'mt_VFhHCU805T', strength: 'soft', reason: 'The economic role of transport builds on how transport has changed over time.' },
   { t: 'making-of-the-indian-constitution', p: 'mt_zFL9HpDF22', strength: 'hard', reason: 'How the Constitution was made builds on knowing what it contains.' },
   { t: 'what-democracy-is-and-why', p: 'mt_7LYY3PybtA', strength: 'hard', reason: 'Defining democracy builds on comparing forms of government.' },
   { t: 'power-sharing-and-federalism', p: 'making-of-the-indian-constitution', strength: 'hard', reason: 'The federal division of power is set out in the Constitution.' },

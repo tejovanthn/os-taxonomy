@@ -15,21 +15,21 @@ Every dot is a micro-topic, colored by subject; height is age; each thread is a 
 
 Most curriculum data is either a flat list of standards or locked inside a product. This dataset is a **connected graph of learning**:
 
-- **2,092 micro-topics** — a single, teachable idea (e.g. *"Building sentences"*, *"Apparent brightness of stars"*), each with a plain-language description, mastery **evidence** criteria, a type (conceptual / procedural / representational / language / meta), a subject + domain, and an approximate age range.
-- **3,834 prerequisite dependencies** — a directed acyclic graph: *"topic X depends on prerequisite Y"*, each edge tagged `hard`/`soft` and carrying a one-line **reason**.
+- **2,100 micro-topics** — a single, teachable idea (e.g. *"Building sentences"*, *"Apparent brightness of stars"*), each with a plain-language description, mastery **evidence** criteria, a type (conceptual / procedural / representational / language / meta), a subject + domain, and an approximate age range.
+- **3,847 prerequisite dependencies** — a directed acyclic graph: *"topic X depends on prerequisite Y"*, each edge tagged `hard`/`soft` and carrying a one-line **reason**.
 - **Curriculum alignment** — each micro-topic links to the standards it was distilled from (NGSS, Common Core, the UK National Curriculum, India's NIOS Open Basic Education and Secondary curricula, the NCERT elementary and secondary syllabi, graded music & dance examinations, and more).
-- **Domain clusters** — 318 parent-friendly one-paragraph summaries per (subject, domain, age band).
+- **Domain clusters** — 319 parent-friendly one-paragraph summaries per (subject, domain, age band).
 
 ### Subjects
 
 | Subject | Topics |
 |---|---:|
-| Science | 574 |
-| Mathematics | 532 |
+| Science | 576 |
+| Mathematics | 533 |
 | English | 289 |
 | History | 168 |
 | Personal & Social Development | 88 |
-| Social Studies | 78 |
+| Social Studies | 83 |
 | Music | 49 |
 | Sanskrit | 40 |
 | Computing | 39 |

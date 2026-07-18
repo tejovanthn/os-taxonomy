@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 318,
+  "clusterCount": 319,
   "clusters": [
     {
       "subject": "English",
@@ -1910,6 +1910,13 @@
       "ageRangeStart": 14,
       "ageRangeEnd": 16,
       "summary": "At this stage mathematics stops being only about getting answers and starts being about justifying them. Learners meet the idea that geometry is built from a handful of assumed statements, that testing many cases is not the same as proving a rule, and that a single counterexample is enough to bring a claim down. Alongside this they learn to model real situations mathematically — making assumptions, solving, and then asking whether the answer makes sense back in the real world."
+    },
+    {
+      "subject": "Science",
+      "domain": "Food & Agriculture",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "summary": "Food is one of the themes NCF-2005 runs through school science, and at the secondary stage it becomes a question of how output is raised without wrecking what produces it. Learners look at how selecting and breeding crops and livestock changes what a field yields, why soil nutrients have to be put back once they are taken out, and what the trade-offs are between chemical fertilizers and organic methods. It is a good place to see science applied to a problem where the right answer depends on time horizon."
     }
   ]
 }

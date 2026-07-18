@@ -220,6 +220,22 @@ const newTopics = [
     standards: ['ncert-sec:SCI.C9.MOV.SOUND'],
   },
   {
+    _slug: 'improvement-in-food-resources', type: 'CONCEPTUAL', subject: 'Science', domain: 'Food & Agriculture',
+    name: 'Improvement in Food Resources', ageRangeStart: 14, ageRangeEnd: 15,
+    description: 'Understand that food output is raised by selecting and breeding better crops and livestock, replacing lost soil nutrients, and protecting yields from pests and disease.',
+    evidence: EV('Explains how selection and breeding improve a crop or animal variety', 'Distinguishes a manure from a chemical fertilizer and states a trade-off', 'Describes how organic farming differs from intensive chemical farming'),
+    assessmentPrompt: 'Ask {{name}} how a farmer could grow more grain on the same field, and what each method might cost in the long run.',
+    standards: ['ncert-sec:SCI.C9.FOOD'],
+  },
+  {
+    _slug: 'periodic-classification-trends', type: 'CONCEPTUAL', subject: 'Science', domain: 'Matter & Materials',
+    name: 'Periodic Classification and Periodic Trends', ageRangeStart: 15, ageRangeEnd: 16,
+    description: 'Understand that elements were ordered so that properties repeat at regular intervals, and that this pattern lets an element’s behaviour be predicted from its position alone.',
+    evidence: EV('Explains what made Mendeleev’s ordering predictive rather than merely descriptive', 'Describes how a property changes across a period or down a group', 'Predicts a property of an element from where it sits in the table'),
+    assessmentPrompt: 'Ask {{name}} how Mendeleev could describe elements nobody had discovered yet.',
+    standards: ['ncert-sec:SCI.C10.MAT.PERIOD'],
+  },
+  {
     _slug: 'tropic-movements-plant-hormones', type: 'CONCEPTUAL', subject: 'Science', domain: 'Organisms & Life Processes',
     name: 'Tropic Movements and Plant Hormones', ageRangeStart: 15, ageRangeEnd: 16,
     description: 'Understand that plants respond to light, gravity and water by growing towards or away from them, and that chemical messengers rather than nerves control this growth.',
@@ -237,6 +253,15 @@ const newEdges = [
   { t: 'echo-ultrasound-hearing', p: 'mt_DQk9oDE7gr', strength: 'hard', reason: 'Echoes and ultrasound depend on how sound waves travel and reflect.' },
   { t: 'tropic-movements-plant-hormones', p: 'mt_zM5vu31jgl', strength: 'soft', reason: 'Plant growth responses connect to how plants make and use food.' },
   { t: 'tropic-movements-plant-hormones', p: 'mt_FQXGRdTDhp', strength: 'soft', reason: 'Plant hormones parallel chemical coordination in animals.' },
+  { t: 'improvement-in-food-resources', p: 'mt_zM5vu31jgl', strength: 'soft', reason: 'Raising crop yield builds on how plants make their food.' },
+  { t: 'improvement-in-food-resources', p: 'mt_0ajzcoKAKw', strength: 'soft', reason: 'Fertilizer and manure use depends on how nutrients cycle through soil.' },
+  { t: 'periodic-classification-trends', p: 'mt_wfEfQuHOG-', strength: 'hard', reason: 'Periodic trends build on knowing the structure of the periodic table.' },
+  { t: 'periodic-classification-trends', p: 'mt_T7ICFeChaV', strength: 'hard', reason: 'Periodicity is explained by atomic structure.' },
 ];
 
-integrateNcertSec({ subjectDoc: 'Science (IX–X)', standards, newTopics, alignments, newEdges });
+const newClusters = [
+  { subject: 'Science', domain: 'Food & Agriculture', ageRangeStart: 14, ageRangeEnd: 16,
+    summary: 'Food is one of the themes NCF-2005 runs through school science, and at the secondary stage it becomes a question of how output is raised without wrecking what produces it. Learners look at how selecting and breeding crops and livestock changes what a field yields, why soil nutrients have to be put back once they are taken out, and what the trade-offs are between chemical fertilizers and organic methods. It is a good place to see science applied to a problem where the right answer depends on time horizon.' },
+];
+
+integrateNcertSec({ subjectDoc: 'Science (IX–X)', standards, newTopics, alignments, newEdges, newClusters });
