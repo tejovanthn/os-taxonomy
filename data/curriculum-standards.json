@@ -6,7 +6,7 @@
     "ngss-k5",
     "ngss-ms"
   ],
-  "curriculumCount": 13,
+  "curriculumCount": 14,
   "curricula": [
     {
       "slug": "uk-nc-2013",
@@ -44922,6 +44922,1734 @@
             "class": "VIII",
             "strand": "Social & Political Life",
             "description": "The Constitution; the parliamentary system; the judiciary; social justice and marginalisation."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ncert-sec",
+      "country": "IN",
+      "name": "NCERT Syllabus for Secondary Classes IX–X (NCF 2005)",
+      "version": "2005",
+      "sourceUrl": "https://ncert.nic.in/syllabus.php",
+      "textIncluded": true,
+      "license": "NCERT permits no reproduction of its text; these records carry Marble-authored factual descriptions only (no NCERT text) — see PROVENANCE.md",
+      "topicCount": 156,
+      "topics": [
+        {
+          "key": "ncert-sec:MA.C9.NS",
+          "code": "MA.C9.NS",
+          "data": {
+            "title": "Class IX Number Systems",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Number Systems",
+            "description": "Rational and irrational numbers on the number line; terminating and recurring decimal expansions; laws of exponents with rational powers; rationalisation of denominators."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.ALG.POLY",
+          "code": "MA.C9.ALG.POLY",
+          "data": {
+            "title": "Class IX Algebra — Polynomials",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Algebra — Polynomials",
+            "description": "Polynomials in one variable, degree and zeros; the remainder and factor theorems; factorisation of quadratic and cubic polynomials; algebraic identities."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.ALG.LIN",
+          "code": "MA.C9.ALG.LIN",
+          "data": {
+            "title": "Class IX Algebra — Linear Equations",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Algebra — Linear Equations",
+            "description": "Linear equations in two variables; infinitely many solutions written as ordered pairs; algebraic and graphical solution together."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.CG",
+          "code": "MA.C9.CG",
+          "data": {
+            "title": "Class IX Coordinate Geometry",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Coordinate Geometry",
+            "description": "The Cartesian plane and its terminology; plotting points; graphing linear equations of the form ax + by + c = 0."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.GEO.EUCLID",
+          "code": "MA.C9.GEO.EUCLID",
+          "data": {
+            "title": "Class IX Geometry — Euclid",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Geometry — Euclid",
+            "description": "Euclid's method of formalising observation into rigorous mathematics; definitions, axioms and postulates; the five postulates and the relationship between axiom and theorem."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.GEO.LINES",
+          "code": "MA.C9.GEO.LINES",
+          "data": {
+            "title": "Class IX Geometry — Lines and Angles",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Geometry — Lines and Angles",
+            "description": "Linear pairs and vertically opposite angles; corresponding, alternate and interior angles on a transversal; the angle sum and exterior angle of a triangle."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.GEO.TRI",
+          "code": "MA.C9.GEO.TRI",
+          "data": {
+            "title": "Class IX Geometry — Triangles",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Geometry — Triangles",
+            "description": "Congruence of triangles by SAS, ASA, SSS and RHS; properties of isosceles triangles; triangle inequalities relating angle and facing side."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.GEO.QUAD",
+          "code": "MA.C9.GEO.QUAD",
+          "data": {
+            "title": "Class IX Geometry — Quadrilaterals",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Geometry — Quadrilaterals",
+            "description": "Properties of parallelograms and their converses; diagonals bisecting each other; the midpoint theorem and its converse."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.GEO.AREA",
+          "code": "MA.C9.GEO.AREA",
+          "data": {
+            "title": "Class IX Geometry — Areas",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Geometry — Areas",
+            "description": "Parallelograms and triangles on the same base and between the same parallels have equal area."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.GEO.CIRCLE",
+          "code": "MA.C9.GEO.CIRCLE",
+          "data": {
+            "title": "Class IX Geometry — Circles",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Geometry — Circles",
+            "description": "Chords and the angles they subtend; perpendicular from centre bisects a chord; angle at the centre double the angle at the circumference; cyclic quadrilaterals."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.GEO.CONST",
+          "code": "MA.C9.GEO.CONST",
+          "data": {
+            "title": "Class IX Geometry — Constructions",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Geometry — Constructions",
+            "description": "Ruler-and-compass construction of bisectors and standard angles; triangles from base, base angles and the sum or difference of sides."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.MEN",
+          "code": "MA.C9.MEN",
+          "data": {
+            "title": "Class IX Mensuration",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Mensuration",
+            "description": "Area of a triangle by Heron's formula and its use for quadrilaterals; surface area and volume of cubes, cuboids, spheres, hemispheres, cylinders and cones."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.STAT",
+          "code": "MA.C9.STAT",
+          "data": {
+            "title": "Class IX Statistics",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Statistics",
+            "description": "Collection and tabular presentation of data; bar graphs, histograms with varying widths and frequency polygons; mean, median and mode of ungrouped data."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.PROB",
+          "code": "MA.C9.PROB",
+          "data": {
+            "title": "Class IX Probability",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Probability",
+            "description": "Empirical probability from repeated experiments and observed frequency, drawn from real-life situations."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.PROOF",
+          "code": "MA.C9.PROOF",
+          "data": {
+            "title": "Class IX Appendix — Proofs",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Appendix — Proofs",
+            "description": "What makes a statement mathematically valid; axiom, conjecture and theorem distinguished; the deductive nature of proof; disproof by counterexample."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C9.MODEL",
+          "code": "MA.C9.MODEL",
+          "data": {
+            "title": "Class IX Appendix — Modelling",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Appendix — Modelling",
+            "description": "The stages of mathematical modelling: hypothesis, choosing a model, solving the equivalent mathematical problem, interpreting and validating."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.NS",
+          "code": "MA.C10.NS",
+          "data": {
+            "title": "Class X Number Systems",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Number Systems",
+            "description": "Euclid's division lemma and the Fundamental Theorem of Arithmetic; proofs of irrationality; decimal expansions of rational numbers."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.ALG.POLY",
+          "code": "MA.C10.ALG.POLY",
+          "data": {
+            "title": "Class X Algebra — Polynomials",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Algebra — Polynomials",
+            "description": "Zeros of a polynomial and their relationship with coefficients, particularly for quadratics; the division algorithm for polynomials."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.ALG.PAIR",
+          "code": "MA.C10.ALG.PAIR",
+          "data": {
+            "title": "Class X Algebra — Pair of Linear Equations",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Algebra — Pair of Linear Equations",
+            "description": "Pairs of linear equations in two variables; geometric meaning of consistency; solution by substitution, elimination and cross multiplication."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.ALG.QUAD",
+          "code": "MA.C10.ALG.QUAD",
+          "data": {
+            "title": "Class X Algebra — Quadratic Equations",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Algebra — Quadratic Equations",
+            "description": "Standard form of a quadratic equation; solution by factorisation and by completing the square; the discriminant and the nature of roots."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.ALG.AP",
+          "code": "MA.C10.ALG.AP",
+          "data": {
+            "title": "Class X Algebra — Arithmetic Progressions",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Algebra — Arithmetic Progressions",
+            "description": "Arithmetic progressions; derivation and use of the nth term and the sum of the first n terms."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.TRIG",
+          "code": "MA.C10.TRIG",
+          "data": {
+            "title": "Class X Trigonometry",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Trigonometry",
+            "description": "Trigonometric ratios of an acute angle; values for 30°, 45° and 60°; the identity sin²A + cos²A = 1; ratios of complementary angles."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.TRIG.HD",
+          "code": "MA.C10.TRIG.HD",
+          "data": {
+            "title": "Class X Trigonometry — Heights and Distances",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Trigonometry — Heights and Distances",
+            "description": "Simple problems on heights and distances using angles of elevation and depression, restricted to two right triangles."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.CG",
+          "code": "MA.C10.CG",
+          "data": {
+            "title": "Class X Coordinate Geometry",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Coordinate Geometry",
+            "description": "Distance between two points; the internal section formula; area of a triangle from coordinates."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.GEO.SIM",
+          "code": "MA.C10.GEO.SIM",
+          "data": {
+            "title": "Class X Geometry — Similar Triangles",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Geometry — Similar Triangles",
+            "description": "Similarity of triangles; the basic proportionality theorem; AAA, SSS and SAS similarity; ratio of areas of similar triangles; Pythagoras theorem and its converse."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.GEO.CIRCLE",
+          "code": "MA.C10.GEO.CIRCLE",
+          "data": {
+            "title": "Class X Geometry — Circles",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Geometry — Circles",
+            "description": "Tangents to a circle; the tangent is perpendicular to the radius at the point of contact; equal tangents from an external point."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.GEO.CONST",
+          "code": "MA.C10.GEO.CONST",
+          "data": {
+            "title": "Class X Geometry — Constructions",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Geometry — Constructions",
+            "description": "Dividing a line segment in a given ratio; constructing tangents from an external point; constructing a triangle similar to a given triangle."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.MEN.CIRCLE",
+          "code": "MA.C10.MEN.CIRCLE",
+          "data": {
+            "title": "Class X Mensuration — Areas Related to Circles",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Mensuration — Areas Related to Circles",
+            "description": "Area of a circle, and of sectors and segments; perimeter and area problems combining triangles, quadrilaterals and circles."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.MEN.SOLID",
+          "code": "MA.C10.MEN.SOLID",
+          "data": {
+            "title": "Class X Mensuration — Surface Areas and Volumes",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Mensuration — Surface Areas and Volumes",
+            "description": "Surface area and volume of combinations of two solids; the frustum of a cone; problems converting one metallic solid into another."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.STAT",
+          "code": "MA.C10.STAT",
+          "data": {
+            "title": "Class X Statistics",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Statistics",
+            "description": "Mean, median and mode of grouped data; the cumulative frequency graph."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.PROB",
+          "code": "MA.C10.PROB",
+          "data": {
+            "title": "Class X Probability",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Probability",
+            "description": "The classical definition of probability and its connection with the empirical approach; simple problems on single events."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.PROOF",
+          "code": "MA.C10.PROOF",
+          "data": {
+            "title": "Class X Appendix — Proofs",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Appendix — Proofs",
+            "description": "Extended work on statement, argument and proof; using only given facts to reach a conclusion; constructing converses and negations."
+          }
+        },
+        {
+          "key": "ncert-sec:MA.C10.MODEL",
+          "code": "MA.C10.MODEL",
+          "data": {
+            "title": "Class X Appendix — Modelling",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Appendix — Modelling",
+            "description": "Modelling where some constraints are ignored; estimating probabilities and averages; modelling fair instalment payments."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.FOOD",
+          "code": "SCI.C9.FOOD",
+          "data": {
+            "title": "Class IX Food",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "Food",
+            "description": "Improvement in food resources: plant and animal breeding and selection, fertilizers and manures, protection from pests and diseases, organic farming."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.MAT.STATE",
+          "code": "SCI.C9.MAT.STATE",
+          "data": {
+            "title": "Class IX Materials — Matter",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "Materials — Matter",
+            "description": "Matter occupies space and has mass; solids, liquids and gases and their characteristics; change of state; cooling by evaporation."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.MAT.PURE",
+          "code": "SCI.C9.MAT.PURE",
+          "data": {
+            "title": "Class IX Materials — Pure Substances",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "Materials — Pure Substances",
+            "description": "Elements, compounds and mixtures; homogeneous and heterogeneous mixtures; colloids and suspensions; separation techniques."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.MAT.ATOM",
+          "code": "SCI.C9.MAT.ATOM",
+          "data": {
+            "title": "Class IX Materials — Atoms and Molecules",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "Materials — Atoms and Molecules",
+            "description": "Particle nature of matter; atoms and molecules as basic units; the law of constant proportions; atomic and molecular masses; the mole concept; valency and chemical formulae."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.MAT.STRUCT",
+          "code": "SCI.C9.MAT.STRUCT",
+          "data": {
+            "title": "Class IX Materials — Structure of the Atom",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "Materials — Structure of the Atom",
+            "description": "Atoms are made of electrons, protons and neutrons whose numbers vary between atoms; isotopes and isobars."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.LIV.DIV",
+          "code": "SCI.C9.LIV.DIV",
+          "data": {
+            "title": "Class IX The World of the Living — Diversity",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "The World of the Living — Diversity",
+            "description": "Diversity of plants and animals; the basis of classification and the hierarchy of groups; salient features of the major plant and animal groups."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.LIV.CELL",
+          "code": "SCI.C9.LIV.CELL",
+          "data": {
+            "title": "Class IX The World of the Living — Cell",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "The World of the Living — Cell",
+            "description": "The cell as the basic unit of life; prokaryotic and eukaryotic cells; cell membrane and wall; organelles; nucleus and chromosomes."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.LIV.TISS",
+          "code": "SCI.C9.LIV.TISS",
+          "data": {
+            "title": "Class IX The World of the Living — Tissues",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "The World of the Living — Tissues",
+            "description": "Structure and function of animal and plant tissues; the progression from tissues to organs, organ systems and organism."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.LIV.HEALTH",
+          "code": "SCI.C9.LIV.HEALTH",
+          "data": {
+            "title": "Class IX The World of the Living — Health",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "The World of the Living — Health",
+            "description": "Health and its failure; disease and its causes; diseases caused by microbes and their prevention."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.LIV.DIFF",
+          "code": "SCI.C9.LIV.DIFF",
+          "data": {
+            "title": "Class IX The World of the Living — Diffusion",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "The World of the Living — Diffusion",
+            "description": "Diffusion and exchange of substances between cells and their environment, and its role in nutrition, transport, excretion and gaseous exchange."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.MOV.MOTION",
+          "code": "SCI.C9.MOV.MOTION",
+          "data": {
+            "title": "Class IX Moving Things — Motion",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "Moving Things — Motion",
+            "description": "Displacement and velocity; uniform and non-uniform motion; acceleration; distance-time and velocity-time graphs; equations of motion; uniform circular motion."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.MOV.FORCE",
+          "code": "SCI.C9.MOV.FORCE",
+          "data": {
+            "title": "Class IX Moving Things — Force",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "Moving Things — Force",
+            "description": "Force and motion; Newton's laws; inertia and mass; momentum; conservation of momentum; action and reaction forces."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.MOV.GRAV",
+          "code": "SCI.C9.MOV.GRAV",
+          "data": {
+            "title": "Class IX Moving Things — Gravitation",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "Moving Things — Gravitation",
+            "description": "Universal law of gravitation; gravity and acceleration due to gravity; mass and weight distinguished; free fall."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.MOV.WEP",
+          "code": "SCI.C9.MOV.WEP",
+          "data": {
+            "title": "Class IX Moving Things — Work and Energy",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "Moving Things — Work and Energy",
+            "description": "Work done by a force; energy and power; kinetic and potential energy; the law of conservation of energy."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.MOV.FLOAT",
+          "code": "SCI.C9.MOV.FLOAT",
+          "data": {
+            "title": "Class IX Moving Things — Floating Bodies",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "Moving Things — Floating Bodies",
+            "description": "Thrust and pressure; Archimedes' principle; buoyancy; an elementary idea of relative density."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.MOV.SOUND",
+          "code": "SCI.C9.MOV.SOUND",
+          "data": {
+            "title": "Class IX Moving Things — Sound",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "Moving Things — Sound",
+            "description": "Nature and propagation of sound in different media; speed of sound; range of human hearing; ultrasound; reflection of sound, echo and sonar; the human ear."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C9.NR",
+          "code": "SCI.C9.NR",
+          "data": {
+            "title": "Class IX Natural Resources",
+            "subject": "Science (IX–X)",
+            "class": "IX",
+            "strand": "Natural Resources",
+            "description": "Air, water and soil as physical resources; the role of air in respiration, combustion and climate; pollution; the ozone layer; bio-geochemical cycles."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.MAT.ACID",
+          "code": "SCI.C10.MAT.ACID",
+          "data": {
+            "title": "Class X Materials — Acids, Bases and Salts",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "Materials — Acids, Bases and Salts",
+            "description": "General properties, examples and uses of acids, bases and salts; indicators; neutralisation."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.MAT.REACT",
+          "code": "SCI.C10.MAT.REACT",
+          "data": {
+            "title": "Class X Materials — Chemical Reactions",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "Materials — Chemical Reactions",
+            "description": "Types of chemical reaction: combination, decomposition, displacement, double displacement, precipitation, neutralisation, and oxidation and reduction."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.MAT.METAL",
+          "code": "SCI.C10.MAT.METAL",
+          "data": {
+            "title": "Class X Materials — Metals and Non-Metals",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "Materials — Metals and Non-Metals",
+            "description": "Properties of common metals; a brief discussion of basic metallurgical processes; an elementary idea of bonding."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.MAT.CARBON",
+          "code": "SCI.C10.MAT.CARBON",
+          "data": {
+            "title": "Class X Materials — Carbon Compounds",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "Materials — Carbon Compounds",
+            "description": "Carbon compounds and elementary bonding; saturated hydrocarbons, alcohols and carboxylic acids by properties; soap and its cleansing action."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.MAT.PERIOD",
+          "code": "SCI.C10.MAT.PERIOD",
+          "data": {
+            "title": "Class X Materials — Classification of Elements",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "Materials — Classification of Elements",
+            "description": "Gradation in properties across elements; Mendeleev's periodic table and predicting trends from it."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.LIV.ENV",
+          "code": "SCI.C10.LIV.ENV",
+          "data": {
+            "title": "Class X The World of the Living — Our Environment",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "The World of the Living — Our Environment",
+            "description": "Environmental problems and responses; biodegradable and non-biodegradable materials; ozone depletion; food webs."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.LIV.LIFE",
+          "code": "SCI.C10.LIV.LIFE",
+          "data": {
+            "title": "Class X The World of the Living — Life Processes",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "The World of the Living — Life Processes",
+            "description": "Defining 'living'; the basic concepts of nutrition, respiration, transport and excretion in plants and animals."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.LIV.CONTROL",
+          "code": "SCI.C10.LIV.CONTROL",
+          "data": {
+            "title": "Class X The World of the Living — Control and Coordination",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "The World of the Living — Control and Coordination",
+            "description": "Tropic movements in plants and an introduction to plant hormones; control and coordination in animals through voluntary, involuntary and reflex action; the nervous system and animal hormones."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.LIV.REPRO",
+          "code": "SCI.C10.LIV.REPRO",
+          "data": {
+            "title": "Class X The World of the Living — Reproduction",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "The World of the Living — Reproduction",
+            "description": "Reproduction in plants and animals; the need for and methods of family planning; safe sex and HIV/AIDS; childbearing and women's health."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.LIV.HERED",
+          "code": "SCI.C10.LIV.HERED",
+          "data": {
+            "title": "Class X The World of the Living — Heredity and Evolution",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "The World of the Living — Heredity and Evolution",
+            "description": "Heredity; a brief introduction to the origin of life; the basic concepts of evolution."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.HTW.CIRCUIT",
+          "code": "SCI.C10.HTW.CIRCUIT",
+          "data": {
+            "title": "Class X How Things Work — Electric Circuits",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "How Things Work — Electric Circuits",
+            "description": "Potential and potential difference; Ohm's law; series and parallel combinations of resistance; power dissipated and the relation between P, V, I and R."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.HTW.MAG",
+          "code": "SCI.C10.HTW.MAG",
+          "data": {
+            "title": "Class X How Things Work — Magnetic Effects",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "How Things Work — Magnetic Effects",
+            "description": "Magnetic field and field lines; field due to a current-carrying wire, coil and solenoid; force on a current-carrying conductor and Fleming's left-hand rule; the electric motor."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.HTW.INDUCT",
+          "code": "SCI.C10.HTW.INDUCT",
+          "data": {
+            "title": "Class X How Things Work — Induction",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "How Things Work — Induction",
+            "description": "Electromagnetic induction; induced potential difference and current; the electric generator; direct and alternating current; domestic electric circuits."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.NP.REFLECT",
+          "code": "SCI.C10.NP.REFLECT",
+          "data": {
+            "title": "Class X Natural Phenomena — Reflection",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "Natural Phenomena — Reflection",
+            "description": "Convergence and divergence of light; images formed by a concave mirror; centre of curvature, principal axis, optical centre, focus and focal length."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.NP.REFRACT",
+          "code": "SCI.C10.NP.REFRACT",
+          "data": {
+            "title": "Class X Natural Phenomena — Refraction",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "Natural Phenomena — Refraction",
+            "description": "Refraction and its laws; images formed by a convex lens; the lens of the human eye; defects of vision and their remedies."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.NP.DISPERSE",
+          "code": "SCI.C10.NP.DISPERSE",
+          "data": {
+            "title": "Class X Natural Phenomena — Dispersion",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "Natural Phenomena — Dispersion",
+            "description": "Velocity of light and refractive index; dispersion of light by a prism; scattering of light; twinkling of stars and the blue sky."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.NR.CONSERVE",
+          "code": "SCI.C10.NR.CONSERVE",
+          "data": {
+            "title": "Class X Natural Resources — Conservation",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "Natural Resources — Conservation",
+            "description": "Management and judicious use of natural resources; forest and wildlife conservation; people’s participation and the Chipko movement; big dams and their trade-offs; water harvesting."
+          }
+        },
+        {
+          "key": "ncert-sec:SCI.C10.NR.ENERGY",
+          "code": "SCI.C10.NR.ENERGY",
+          "data": {
+            "title": "Class X Natural Resources — Sources of Energy",
+            "subject": "Science (IX–X)",
+            "class": "X",
+            "strand": "Natural Resources — Sources of Energy",
+            "description": "Different forms of energy leading to different sources for human use: fossil fuels, solar, biogas, wind, water, tidal and nuclear energy; renewable versus non-renewable sources."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C9.FR",
+          "code": "HIS.C9.FR",
+          "data": {
+            "title": "Class IX Events and Processes",
+            "subject": "History (IX–X)",
+            "class": "IX",
+            "strand": "Events and Processes",
+            "description": "The French Revolution: the ancien régime and its crises, the social forces behind the revolution, the revolutionary groups and ideas, and the legacy."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C9.RR",
+          "code": "HIS.C9.RR",
+          "data": {
+            "title": "Class IX Events and Processes",
+            "subject": "History (IX–X)",
+            "class": "IX",
+            "strand": "Events and Processes",
+            "description": "The Russian Revolution: the crisis of Tsarism, social movements between 1905 and 1917, the First World War and the founding of the Soviet state, and the legacy."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C9.NAZI",
+          "code": "HIS.C9.NAZI",
+          "data": {
+            "title": "Class IX Events and Processes",
+            "subject": "History (IX–X)",
+            "class": "IX",
+            "strand": "Events and Processes",
+            "description": "The rise of Nazism: the growth of social democracy, the crisis in Germany, the basis of Hitler’s rise to power, the ideology of Nazism and its impact."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C9.PAST",
+          "code": "HIS.C9.PAST",
+          "data": {
+            "title": "Class IX Economies and Livelihoods",
+            "subject": "History (IX–X)",
+            "class": "IX",
+            "strand": "Economies and Livelihoods",
+            "description": "Pastoralists in the modern world: pastoralism as a way of life, its different forms, and what happens to it under colonialism and modern states."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C9.FOREST",
+          "code": "HIS.C9.FOREST",
+          "data": {
+            "title": "Class IX Economies and Livelihoods",
+            "subject": "History (IX–X)",
+            "class": "IX",
+            "strand": "Economies and Livelihoods",
+            "description": "Forest society and colonialism: the relationship between forests and livelihoods, and changes in forest societies under colonial scientific forestry."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C9.FARM",
+          "code": "HIS.C9.FARM",
+          "data": {
+            "title": "Class IX Economies and Livelihoods",
+            "subject": "History (IX–X)",
+            "class": "IX",
+            "strand": "Economies and Livelihoods",
+            "description": "Farmers and peasants: the emergence of different forms of farming and peasant society, and changes within rural economies in the modern world."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C9.CRICKET",
+          "code": "HIS.C9.CRICKET",
+          "data": {
+            "title": "Class IX Culture, Identity and Society",
+            "subject": "History (IX–X)",
+            "class": "IX",
+            "strand": "Culture, Identity and Society",
+            "description": "Sports and politics through the story of cricket: its emergence as an English sport, its spread under colonialism, and cricket, nationalism and decolonisation."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C9.CLOTH",
+          "code": "HIS.C9.CLOTH",
+          "data": {
+            "title": "Class IX Culture, Identity and Society",
+            "subject": "History (IX–X)",
+            "class": "IX",
+            "strand": "Culture, Identity and Society",
+            "description": "Clothes and cultures: a short history of changes in clothing, debates over clothing in colonial India, and Swadeshi and the movement for khadi."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C10.EURNAT",
+          "code": "HIS.C10.EURNAT",
+          "data": {
+            "title": "Class X Events and Processes",
+            "subject": "History (IX–X)",
+            "class": "X",
+            "strand": "Events and Processes",
+            "description": "Nationalism in Europe: the growth of nationalism after the 1830s, the ideas of Mazzini, and the general character of movements in Poland, Hungary, Italy, Germany and Greece."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C10.INDOCHINA",
+          "code": "HIS.C10.INDOCHINA",
+          "data": {
+            "title": "Class X Events and Processes",
+            "subject": "History (IX–X)",
+            "class": "X",
+            "strand": "Events and Processes",
+            "description": "The nationalist movement in Indo-China: French colonialism, the phases of struggle against the French, the second world war and the liberation struggle."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C10.INDNAT",
+          "code": "HIS.C10.INDNAT",
+          "data": {
+            "title": "Class X Events and Processes",
+            "subject": "History (IX–X)",
+            "class": "X",
+            "strand": "Events and Processes",
+            "description": "Nationalism in India: the First World War, Khilafat and Non-Cooperation; the Salt Satyagraha; movements of peasants, workers and tribals; the activities of different political groups."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C10.INDUS",
+          "code": "HIS.C10.INDUS",
+          "data": {
+            "title": "Class X Economies and Livelihoods",
+            "subject": "History (IX–X)",
+            "class": "X",
+            "strand": "Economies and Livelihoods",
+            "description": "Industrialisation from the 1850s to the 1950s: the contrast between industrialisation in Britain and in India, handicrafts and industrial production, and the livelihood of workers."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C10.URBAN",
+          "code": "HIS.C10.URBAN",
+          "data": {
+            "title": "Class X Economies and Livelihoods",
+            "subject": "History (IX–X)",
+            "class": "X",
+            "strand": "Economies and Livelihoods",
+            "description": "Urbanisation and urban lives: patterns of urbanisation, migration and the growth of towns, social change and urban life, studied through London and Bombay."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C10.GLOBAL",
+          "code": "HIS.C10.GLOBAL",
+          "data": {
+            "title": "Class X Economies and Livelihoods",
+            "subject": "History (IX–X)",
+            "class": "X",
+            "strand": "Economies and Livelihoods",
+            "description": "Trade and globalisation: expansion of the world market in the nineteenth century, trade between the wars, shifts after the 1950s, and the implications for livelihoods."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C10.PRINT",
+          "code": "HIS.C10.PRINT",
+          "data": {
+            "title": "Class X Culture, Identity and Society",
+            "subject": "History (IX–X)",
+            "class": "X",
+            "strand": "Culture, Identity and Society",
+            "description": "Print culture and nationalism: the history of print in Europe, the growth of the press in nineteenth-century India, and the link between print, public debate and politics."
+          }
+        },
+        {
+          "key": "ncert-sec:HIS.C10.NOVEL",
+          "code": "HIS.C10.NOVEL",
+          "data": {
+            "title": "Class X Culture, Identity and Society",
+            "subject": "History (IX–X)",
+            "class": "X",
+            "strand": "Culture, Identity and Society",
+            "description": "The history of the novel: its emergence as a genre in the west, its relationship with changes in modern society, and early novels in nineteenth-century India."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C9.LOC",
+          "code": "GEO.C9.LOC",
+          "data": {
+            "title": "Class IX Geography — India: Land",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Geography — India: Land",
+            "description": "India’s location, relief and structure; the major physiographic units and their underlying geology, rocks, minerals and soil types."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C9.CLIM",
+          "code": "GEO.C9.CLIM",
+          "data": {
+            "title": "Class IX Geography — Climate",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Geography — Climate",
+            "description": "Factors influencing India’s climate; the monsoon and its characteristics; distribution of rainfall and temperature; the seasons; climate and human life."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C9.DRAIN",
+          "code": "GEO.C9.DRAIN",
+          "data": {
+            "title": "Class IX Geography — Drainage",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Geography — Drainage",
+            "description": "Major rivers and tributaries, lakes and seas; the role of rivers in the economy; river pollution and measures to control it."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C9.VEG",
+          "code": "GEO.C9.VEG",
+          "data": {
+            "title": "Class IX Geography — Natural Vegetation",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Geography — Natural Vegetation",
+            "description": "Types of vegetation and their distribution, including altitudinal variation, and the need for conservation."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C9.WILD",
+          "code": "GEO.C9.WILD",
+          "data": {
+            "title": "Class IX Geography — Wildlife",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Geography — Wildlife",
+            "description": "Major wildlife species and their distribution; the need for conservation and the measures taken."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C9.POP",
+          "code": "GEO.C9.POP",
+          "data": {
+            "title": "Class IX Geography — Population",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Geography — Population",
+            "description": "Population size, distribution and age-sex composition; migration as a determinant of population change; literacy, health and occupational structure; national population policy."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C10.RES",
+          "code": "GEO.C10.RES",
+          "data": {
+            "title": "Class X Geography — Resources",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Geography — Resources",
+            "description": "Types of resource, natural and human; the need for resource planning and judicious utilisation."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C10.LAND",
+          "code": "GEO.C10.LAND",
+          "data": {
+            "title": "Class X Geography — Land and Soil",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Geography — Land and Soil",
+            "description": "Land as a resource; soil formation, types and distribution; changing land-use patterns; land degradation and conservation measures."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C10.FOREST",
+          "code": "GEO.C10.FOREST",
+          "data": {
+            "title": "Class X Geography — Forest and Wildlife Resources",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Geography — Forest and Wildlife Resources",
+            "description": "Types and distribution of forest and wildlife resources; depletion of flora and fauna; conservation and protection."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C10.AGRI",
+          "code": "GEO.C10.AGRI",
+          "data": {
+            "title": "Class X Geography — Agriculture",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Geography — Agriculture",
+            "description": "Types of farming, major crops and cropping patterns; technological and institutional reforms; agriculture’s contribution to employment, output and food security; the impact of globalisation."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C10.WATER",
+          "code": "GEO.C10.WATER",
+          "data": {
+            "title": "Class X Geography — Water Resources",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Geography — Water Resources",
+            "description": "Sources, distribution and utilisation of water; multi-purpose projects; water scarcity and the need for conservation, management and rainwater harvesting."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C10.MIN",
+          "code": "GEO.C10.MIN",
+          "data": {
+            "title": "Class X Geography — Mineral Resources",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Geography — Mineral Resources",
+            "description": "Types of minerals, their distribution, use and economic importance, and their conservation."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C10.POWER",
+          "code": "GEO.C10.POWER",
+          "data": {
+            "title": "Class X Geography — Power Resources",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Geography — Power Resources",
+            "description": "Conventional and non-conventional power resources, their distribution, utilisation and conservation."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C10.IND",
+          "code": "GEO.C10.IND",
+          "data": {
+            "title": "Class X Geography — Manufacturing Industries",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Geography — Manufacturing Industries",
+            "description": "Types and spatial distribution of industry; its contribution to the national economy; industrial pollution and measures to control environmental degradation."
+          }
+        },
+        {
+          "key": "ncert-sec:GEO.C10.TRANS",
+          "code": "GEO.C10.TRANS",
+          "data": {
+            "title": "Class X Geography — Transport and Trade",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Geography — Transport and Trade",
+            "description": "Transport and communication in a shrinking world, and the role of trade in a country’s economic development."
+          }
+        },
+        {
+          "key": "ncert-sec:POL.C9.SPREAD",
+          "code": "POL.C9.SPREAD",
+          "data": {
+            "title": "Class IX Democratic Politics — Spread",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Democratic Politics — Spread",
+            "description": "How democracy has expanded in the world in recent times, how that expansion has changed the world, and the functioning of global institutions."
+          }
+        },
+        {
+          "key": "ncert-sec:POL.C9.WHAT",
+          "code": "POL.C9.WHAT",
+          "data": {
+            "title": "Class IX Democratic Politics — What Is Democracy",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Democratic Politics — What Is Democracy",
+            "description": "Different ways of defining democracy; why it has become the most prevalent form of government; the alternatives to it and whether it is superior to them."
+          }
+        },
+        {
+          "key": "ncert-sec:POL.C9.DESIGN",
+          "code": "POL.C9.DESIGN",
+          "data": {
+            "title": "Class IX Democratic Politics — Designing Democracy in India",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Democratic Politics — Designing Democracy in India",
+            "description": "How and why India became a democracy; how the Constitution was framed; its salient features; the Constitution as a living document."
+          }
+        },
+        {
+          "key": "ncert-sec:POL.C9.ELECT",
+          "code": "POL.C9.ELECT",
+          "data": {
+            "title": "Class IX Democratic Politics — Electoral Politics",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Democratic Politics — Electoral Politics",
+            "description": "Why and how representatives are elected; competition among political parties; changing citizen participation; ensuring free and fair elections and the role of the Election Commission."
+          }
+        },
+        {
+          "key": "ncert-sec:POL.C9.INST",
+          "code": "POL.C9.INST",
+          "data": {
+            "title": "Class IX Democratic Politics — Institutions",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Democratic Politics — Institutions",
+            "description": "How the country is governed; the role of Parliament, the President, the Prime Minister and the Council of Ministers, and how these relate to one another."
+          }
+        },
+        {
+          "key": "ncert-sec:POL.C9.RIGHTS",
+          "code": "POL.C9.RIGHTS",
+          "data": {
+            "title": "Class IX Democratic Politics — Citizens’ Rights",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Democratic Politics — Citizens’ Rights",
+            "description": "Why rights are needed in a Constitution; the Fundamental Rights of citizens; how the judiciary protects them and how judicial independence is ensured."
+          }
+        },
+        {
+          "key": "ncert-sec:POL.C10.WORK",
+          "code": "POL.C10.WORK",
+          "data": {
+            "title": "Class X Democratic Politics — Working of Democracy",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Democratic Politics — Working of Democracy",
+            "description": "Whether divisions are inherent to democracy; the effect of caste, gender and communal division on politics and of politics on them."
+          }
+        },
+        {
+          "key": "ncert-sec:POL.C10.POWER",
+          "code": "POL.C10.POWER",
+          "data": {
+            "title": "Class X Democratic Politics — Power Sharing",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Democratic Politics — Power Sharing",
+            "description": "Why and how power is shared in democracies; how federal division of power has helped national unity; decentralisation and the accommodation of social groups."
+          }
+        },
+        {
+          "key": "ncert-sec:POL.C10.COMPET",
+          "code": "POL.C10.COMPET",
+          "data": {
+            "title": "Class X Democratic Politics — Competition and Contestation",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Democratic Politics — Competition and Contestation",
+            "description": "How struggles shape democracy in favour of ordinary people; the role of political parties; major national and regional parties; the growing role of social movements."
+          }
+        },
+        {
+          "key": "ncert-sec:POL.C10.OUTCOME",
+          "code": "POL.C10.OUTCOME",
+          "data": {
+            "title": "Class X Democratic Politics — Outcomes",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Democratic Politics — Outcomes",
+            "description": "Whether democracy should be judged by its outcomes; what can reasonably be expected of democracies; whether Indian democracy has delivered development, security and dignity."
+          }
+        },
+        {
+          "key": "ncert-sec:POL.C10.CHALLENGE",
+          "code": "POL.C10.CHALLENGE",
+          "data": {
+            "title": "Class X Democratic Politics — Challenges",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Democratic Politics — Challenges",
+            "description": "The major challenges facing democracy in India; how democracy can be reformed and deepened; the role an ordinary citizen can play."
+          }
+        },
+        {
+          "key": "ncert-sec:ECO.C9.PALAM",
+          "code": "ECO.C9.PALAM",
+          "data": {
+            "title": "Class IX Economics — Production",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Economics — Production",
+            "description": "The economic story of a village and its interaction with the wider world, introducing production and the three factors of production: land, labour and capital."
+          }
+        },
+        {
+          "key": "ncert-sec:ECO.C9.PEOPLE",
+          "code": "ECO.C9.PEOPLE",
+          "data": {
+            "title": "Class IX Economics — People as Resource",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Economics — People as Resource",
+            "description": "How people become an economic resource; economic activity by men and women; unpaid work; the role of health and education in the quality of human resource; unemployment."
+          }
+        },
+        {
+          "key": "ncert-sec:ECO.C9.POVERTY",
+          "code": "ECO.C9.POVERTY",
+          "data": {
+            "title": "Class IX Economics — Poverty",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Economics — Poverty",
+            "description": "Who is poor, through rural and urban case studies; poverty indicators; why people are poor and the unequal distribution of resources; government poverty alleviation measures."
+          }
+        },
+        {
+          "key": "ncert-sec:ECO.C9.FOOD",
+          "code": "ECO.C9.FOOD",
+          "data": {
+            "title": "Class IX Economics — Food Security",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "IX",
+            "strand": "Economics — Food Security",
+            "description": "Sources of foodgrains and the need for self-sufficiency; famines in the past; the government role in food security, procurement, the public distribution system and cooperatives."
+          }
+        },
+        {
+          "key": "ncert-sec:ECO.C10.DEV",
+          "code": "ECO.C10.DEV",
+          "data": {
+            "title": "Class X Economics — Development",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Economics — Development",
+            "description": "The traditional notion of development; national and per-capita income; a critical appraisal of existing development indicators; human development indicators as a holistic measure."
+          }
+        },
+        {
+          "key": "ncert-sec:ECO.C10.MONEY",
+          "code": "ECO.C10.MONEY",
+          "data": {
+            "title": "Class X Economics — Money and Credit",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Economics — Money and Credit",
+            "description": "The role and historical origin of money; formal and informal institutions for savings and credit, from nationalised banks to moneylenders, self-help groups and chit funds."
+          }
+        },
+        {
+          "key": "ncert-sec:ECO.C10.SERVICE",
+          "code": "ECO.C10.SERVICE",
+          "data": {
+            "title": "Class X Economics — Service Sector",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Economics — Service Sector",
+            "description": "What the service sector is; its importance in generating employment and income; its growth in India; India as a service provider to the world; the need for public investment in infrastructure."
+          }
+        },
+        {
+          "key": "ncert-sec:ECO.C10.GLOBAL",
+          "code": "ECO.C10.GLOBAL",
+          "data": {
+            "title": "Class X Economics — Globalisation",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Economics — Globalisation",
+            "description": "What globalisation is; how and why India has been globalised; development strategy before 1991 and the economic reforms of 1991; differing perspectives on globalisation and its impacts."
+          }
+        },
+        {
+          "key": "ncert-sec:ECO.C10.CONSUMER",
+          "code": "ECO.C10.CONSUMER",
+          "data": {
+            "title": "Class X Economics — Consumer Awareness",
+            "subject": "Geography, Political Science and Economics (IX–X)",
+            "class": "X",
+            "strand": "Economics — Consumer Awareness",
+            "description": "How consumers are exploited and the factors causing it; the rise of consumer awareness; how a consumer should act in a market; the government role in consumer protection."
+          }
+        },
+        {
+          "key": "ncert-sec:ENG.C910.LISTEN",
+          "code": "ENG.C910.LISTEN",
+          "data": {
+            "title": "Class IX–X English — Listening",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "English — Listening",
+            "description": "Retelling the content of authentic audio texts such as weather reports, public announcements, advertisements and short interviews."
+          }
+        },
+        {
+          "key": "ncert-sec:ENG.C910.SPEAK",
+          "code": "ENG.C910.SPEAK",
+          "data": {
+            "title": "Class IX–X English — Speaking",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "English — Speaking",
+            "description": "Giving brief oral descriptions of topical events; participating in conversations and discussions outside the classroom; narrating a story presented non-verbally."
+          }
+        },
+        {
+          "key": "ncert-sec:ENG.C910.READ",
+          "code": "ENG.C910.READ",
+          "data": {
+            "title": "Class IX–X English — Reading",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "English — Reading",
+            "description": "Identifying main points and significant details in scripts of interviews, discussions and debates; reading poems with proper rhythm and intonation and grasping their theme."
+          }
+        },
+        {
+          "key": "ncert-sec:ENG.C910.WRITE",
+          "code": "ENG.C910.WRITE",
+          "data": {
+            "title": "Class IX–X English — Writing",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "English — Writing",
+            "description": "Responding to business letters and official communications; writing without preparation on a given topic and defending the position taken; summarising short lectures by taking notes."
+          }
+        },
+        {
+          "key": "ncert-sec:ENG.C910.REF",
+          "code": "ENG.C910.REF",
+          "data": {
+            "title": "Class IX–X English — Reference Skills",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "English — Reference Skills",
+            "description": "Accessing knowledge and information through reference skills: consulting a dictionary or thesaurus, a library and the internet."
+          }
+        },
+        {
+          "key": "ncert-sec:ENG.C910.GRAM",
+          "code": "ENG.C910.GRAM",
+          "data": {
+            "title": "Class IX–X English — Language Items",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "English — Language Items",
+            "description": "Consolidating earlier grammar and reinforcing sequence of tenses, reported speech in extended texts, modal auxiliaries, non-finites, conditional clauses, and complex and compound sentences."
+          }
+        },
+        {
+          "key": "ncert-sec:ENG.C910.COHESION",
+          "code": "ENG.C910.COHESION",
+          "data": {
+            "title": "Class IX–X English — Cohesion and Punctuation",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "English — Cohesion and Punctuation",
+            "description": "Phrasal verbs and prepositional phrases; cohesive devices; punctuation including the semicolon, colon, dash, hyphen, parenthesis and exclamation mark."
+          }
+        },
+        {
+          "key": "ncert-sec:ENG.C910.REGISTER",
+          "code": "ENG.C910.REGISTER",
+          "data": {
+            "title": "Class IX–X English — Register and Variety",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "English — Register and Variety",
+            "description": "Building competence in different registers of English, and developing sensitivity to other varieties including Indian Englishes and the cultures they reflect."
+          }
+        },
+        {
+          "key": "ncert-sec:ENG.C910.TRANSCODE",
+          "code": "ENG.C910.TRANSCODE",
+          "data": {
+            "title": "Class IX–X English — Transcoding",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "English — Transcoding",
+            "description": "Transcoding information from a graph or chart into a description or report, and assessing different points of view expressed in a discussion or debate."
+          }
+        },
+        {
+          "key": "ncert-sec:HIN.C910.SKILLS",
+          "code": "HIN.C910.SKILLS",
+          "data": {
+            "title": "Class IX–X Hindi — Language Skills",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "Hindi — Language Skills",
+            "description": "Progressive development of the listening, speaking, reading, writing and thinking skills acquired up to Class VIII, towards independent oral and written expression."
+          }
+        },
+        {
+          "key": "ncert-sec:HIN.C910.LIT",
+          "code": "HIN.C910.LIT",
+          "data": {
+            "title": "Class IX–X Hindi — Literature",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "Hindi — Literature",
+            "description": "Reading poetry and prose across literary forms by major writers, developing the capacity for critical appreciation of creative literature."
+          }
+        },
+        {
+          "key": "ncert-sec:HIN.C910.PRACTICAL",
+          "code": "HIN.C910.PRACTICAL",
+          "data": {
+            "title": "Class IX–X Hindi — Practical Writing",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "Hindi — Practical Writing",
+            "description": "Everyday written competence: applications, letters of different kinds, telegrams and filing a report, together with book reviews, travelogues and interviews."
+          }
+        },
+        {
+          "key": "ncert-sec:HIN.C910.MEDIA",
+          "code": "HIN.C910.MEDIA",
+          "data": {
+            "title": "Class IX–X Hindi — Media and Registers",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "Hindi — Media and Registers",
+            "description": "Understanding the nature of Hindi as used in print and electronic media, and the language of different disciplines of knowledge."
+          }
+        },
+        {
+          "key": "ncert-sec:HIN.C9.GRAM",
+          "code": "HIN.C9.GRAM",
+          "data": {
+            "title": "Class IX Hindi — Grammar",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX",
+            "strand": "Hindi — Grammar",
+            "description": "Letter division and spelling, including the forms of र, anusvara and chandrabindu and the nukta; recognising prefixes, suffixes and compounds in context; synonyms, antonyms and polysemy at sentence level; idioms in use."
+          }
+        },
+        {
+          "key": "ncert-sec:HIN.C10.GRAM",
+          "code": "HIN.C10.GRAM",
+          "data": {
+            "title": "Class X Hindi — Grammar",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "X",
+            "strand": "Hindi — Grammar",
+            "description": "The difference between word, pada and phrase; the structure and meaning of complex and compound sentences and sentence transformation; recognising sandhi, further affixes and compounds; distinguishing idioms from proverbs."
+          }
+        },
+        {
+          "key": "ncert-sec:HIN.C910.GRAMPTS",
+          "code": "HIN.C910.GRAMPTS",
+          "data": {
+            "title": "Class IX–X Hindi — Grammatical Categories",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "Hindi — Grammatical Categories",
+            "description": "Noun, pronoun, adjective, verb and adverb; gender, number and tense; the effect of gender and number on adjective and verb; transitive, intransitive and causative verbs; active and passive voice."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C910.SHRAVANA",
+          "code": "SAN.C910.SHRAVANA",
+          "data": {
+            "title": "Class IX–X Sanskrit — Listening",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "Sanskrit — Listening",
+            "description": "Listening attentively to passages read or ideas spoken by teacher and classmates and grasping the substance; understanding Sanskrit programmes broadcast on radio and television."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C910.BHASHANA",
+          "code": "SAN.C910.BHASHANA",
+          "data": {
+            "title": "Class IX–X Sanskrit — Speaking",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "Sanskrit — Speaking",
+            "description": "Answering questions on material studied; expressing ideas with correct stress on words; conveying thoughts clearly and courteously, including question forms."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C910.PATHANA",
+          "code": "SAN.C910.PATHANA",
+          "data": {
+            "title": "Class IX–X Sanskrit — Reading",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "Sanskrit — Reading",
+            "description": "Reading prose, verse and dramatic passages clearly and correctly while grasping the sense; reading Sanskrit sentences fluently; reciting verses aloud according to their metre."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C910.LEKHANA",
+          "code": "SAN.C910.LEKHANA",
+          "data": {
+            "title": "Class IX–X Sanskrit — Writing",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX–X",
+            "strand": "Sanskrit — Writing",
+            "description": "Writing heard words and sentences in correct spelling; transcribing passages containing sandhi; summarising a story in about five Sanskrit sentences; suggesting a suitable title for a passage."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C9.VARNA",
+          "code": "SAN.C9.VARNA",
+          "data": {
+            "title": "Class IX Sanskrit — Sounds",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX",
+            "strand": "Sanskrit — Sounds",
+            "description": "Introduction to the varnas and their places of articulation."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C9.SANDHI",
+          "code": "SAN.C9.SANDHI",
+          "data": {
+            "title": "Class IX Sanskrit — Sandhi",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX",
+            "strand": "Sanskrit — Sandhi",
+            "description": "Introduction to sandhi and its kinds, covering vowel sandhi: dirgha, guna, yan and vriddhi."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C9.SHABDA",
+          "code": "SAN.C9.SHABDA",
+          "data": {
+            "title": "Class IX Sanskrit — Noun Forms",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX",
+            "strand": "Sanskrit — Noun Forms",
+            "description": "Declension of vowel-ending and consonant-ending nouns, pronouns in all genders including asmad and yushmad, and numerals from one to fifty."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C9.DHATU",
+          "code": "SAN.C9.DHATU",
+          "data": {
+            "title": "Class IX Sanskrit — Verb Forms",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX",
+            "strand": "Sanskrit — Verb Forms",
+            "description": "Verb conjugation in lat, lang, lrit, lot and vidhiling across the bhvadi, adadi, svadi, tudadi, kryadi and churadi classes."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C9.UPASARGA",
+          "code": "SAN.C9.UPASARGA",
+          "data": {
+            "title": "Class IX Sanskrit — Prefixes",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX",
+            "strand": "Sanskrit — Prefixes",
+            "description": "Introduction to the upasargas and their effect on verbal meaning."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C9.PRATYAYA",
+          "code": "SAN.C9.PRATYAYA",
+          "data": {
+            "title": "Class IX Sanskrit — Suffixes",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX",
+            "strand": "Sanskrit — Suffixes",
+            "description": "Feminine suffixes; krit suffixes including ktva, lyap, tumun, shatri and shanach; taddhita suffixes including matup, ini, tarap and tamap."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C9.KARAKA",
+          "code": "SAN.C9.KARAKA",
+          "data": {
+            "title": "Class IX Sanskrit — Karaka",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX",
+            "strand": "Sanskrit — Karaka",
+            "description": "General knowledge of the karakas and their case relations."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C9.SAMASA",
+          "code": "SAN.C9.SAMASA",
+          "data": {
+            "title": "Class IX Sanskrit — Compounds",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX",
+            "strand": "Sanskrit — Compounds",
+            "description": "General introduction to compounds: dvandva, tatpurusha and dvigu."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C9.RACHANA",
+          "code": "SAN.C9.RACHANA",
+          "data": {
+            "title": "Class IX Sanskrit — Composition",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "IX",
+            "strand": "Sanskrit — Composition",
+            "description": "Translating simple Hindi and English sentences into Sanskrit; answering questions in Sanskrit on an unseen passage; framing sentences from a picture; writing a formal request letter."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C10.SANDHI",
+          "code": "SAN.C10.SANDHI",
+          "data": {
+            "title": "Class X Sanskrit — Sandhi",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "X",
+            "strand": "Sanskrit — Sandhi",
+            "description": "Purvarupa, pararupa and prakritibhava; consonant sandhi including shchutva, shtutva, jashtva, chartva and anusvara; visarga sandhi."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C10.SHABDA",
+          "code": "SAN.C10.SHABDA",
+          "data": {
+            "title": "Class X Sanskrit — Noun Forms",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "X",
+            "strand": "Sanskrit — Noun Forms",
+            "description": "Further vowel-ending and consonant-ending declensions, additional pronouns, and ordinal numerals together with numbers from fifty to a hundred."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C10.DHATU",
+          "code": "SAN.C10.DHATU",
+          "data": {
+            "title": "Class X Sanskrit — Verb Forms",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "X",
+            "strand": "Sanskrit — Verb Forms",
+            "description": "Further verb conjugation across the bhvadi, adadi, juhotyadi, divadi, svadi, tudadi, tanadi, kryadi and churadi classes."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C10.AVYAYA",
+          "code": "SAN.C10.AVYAYA",
+          "data": {
+            "title": "Class X Sanskrit — Indeclinables",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "X",
+            "strand": "Sanskrit — Indeclinables",
+            "description": "The avyayas and their use in sentences."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C10.PRATYAYA",
+          "code": "SAN.C10.PRATYAYA",
+          "data": {
+            "title": "Class X Sanskrit — Suffixes",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "X",
+            "strand": "Sanskrit — Suffixes",
+            "description": "Further krit suffixes including kta, ktavatu, tavya, aniyar, yat and nvul; further taddhita suffixes including an, ini, thak, tva and tal."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C10.KARAKA",
+          "code": "SAN.C10.KARAKA",
+          "data": {
+            "title": "Class X Sanskrit — Karaka and Upapada",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "X",
+            "strand": "Sanskrit — Karaka and Upapada",
+            "description": "The karakas together with upapada vibhakti, the case endings governed by particular words."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C10.SAMASA",
+          "code": "SAN.C10.SAMASA",
+          "data": {
+            "title": "Class X Sanskrit — Compounds",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "X",
+            "strand": "Sanskrit — Compounds",
+            "description": "Avyayibhava, karmadharaya and bahuvrihi compounds."
+          }
+        },
+        {
+          "key": "ncert-sec:SAN.C10.RACHANA",
+          "code": "SAN.C10.RACHANA",
+          "data": {
+            "title": "Class X Sanskrit — Composition",
+            "subject": "English, Hindi and Sanskrit (IX–X)",
+            "class": "X",
+            "strand": "Sanskrit — Composition",
+            "description": "Translating Hindi and English passages into Sanskrit; answering questions on an unseen passage; picture-based sentences and paragraph writing; writing an informal letter."
           }
         }
       ]

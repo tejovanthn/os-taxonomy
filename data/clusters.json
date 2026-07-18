@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 317,
+  "clusterCount": 318,
   "clusters": [
     {
       "subject": "English",
@@ -1903,6 +1903,13 @@
       "domain": "Grammar",
       "ageRangeStart": 8,
       "summary": "Your child is meeting Hindi grammar in use — naming words, gender and number, action words and first punctuation."
+    },
+    {
+      "subject": "Mathematics",
+      "domain": "Mathematical Thinking",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "summary": "At this stage mathematics stops being only about getting answers and starts being about justifying them. Learners meet the idea that geometry is built from a handful of assumed statements, that testing many cases is not the same as proving a rule, and that a single counterexample is enough to bring a claim down. Alongside this they learn to model real situations mathematically — making assumptions, solving, and then asking whether the answer makes sense back in the real world."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2028,
+  "topicCount": 2092,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -1935,7 +1935,8 @@
       "standards": [
         "ccss-ela:L.6.2a",
         "ccss-ela:L.7.2a",
-        "uk-nc-2013:KS3-ENG-GV-1a"
+        "uk-nc-2013:KS3-ENG-GV-1a",
+        "ncert-sec:ENG.C910.COHESION"
       ]
     },
     {
@@ -1957,7 +1958,8 @@
       "standards": [
         "ccss-ela:RL.6.5",
         "ccss-ela:RL.7.5",
-        "uk-nc-2013:KS3-ENG-GV-1b"
+        "uk-nc-2013:KS3-ENG-GV-1b",
+        "ncert-sec:ENG.C910.GRAM"
       ]
     },
     {
@@ -1979,7 +1981,8 @@
       "standards": [
         "ccss-ela:L.6.3",
         "ccss-ela:L.7.3",
-        "uk-nc-2013:KS3-ENG-GV-1f"
+        "uk-nc-2013:KS3-ENG-GV-1f",
+        "ncert-sec:ENG.C910.GRAM"
       ]
     },
     {
@@ -2001,7 +2004,8 @@
       "standards": [
         "ccss-ela:L.7.1a",
         "ccss-ela:L.7.1c",
-        "uk-nc-2013:KS3-ENG-GV-1a"
+        "uk-nc-2013:KS3-ENG-GV-1a",
+        "ncert-sec:ENG.C910.GRAM"
       ]
     },
     {
@@ -2024,7 +2028,8 @@
         "ccss-ela:L.6.1e",
         "ccss-ela:L.6.3b",
         "uk-nc-2013:KS3-ENG-GV-1d",
-        "uk-nc-2013:KS3-ENG-GV-1e"
+        "uk-nc-2013:KS3-ENG-GV-1e",
+        "ncert-sec:ENG.C910.REGISTER"
       ]
     },
     {
@@ -2047,7 +2052,8 @@
         "ccss-ela:L.6.3a",
         "ccss-ela:L.7.1b",
         "uk-nc-2013:KS3-ENG-GV-1a",
-        "uk-nc-2013:KS3-ENG-GV-1b"
+        "uk-nc-2013:KS3-ENG-GV-1b",
+        "ncert-sec:ENG.C910.GRAM"
       ]
     },
     {
@@ -2071,7 +2077,8 @@
         "ccss-ela:L.8.1c",
         "ccss-ela:L.8.1d",
         "uk-nc-2013:KS3-ENG-GV-1a",
-        "uk-nc-2013:KS3-ENG-GV-1b"
+        "uk-nc-2013:KS3-ENG-GV-1b",
+        "ncert-sec:ENG.C910.GRAM"
       ]
     },
     {
@@ -4065,7 +4072,8 @@
         "ccss-ela:RL.6.5",
         "ccss-ela:RL.7.5",
         "ccss-ela:RL.8.5",
-        "uk-nc-2013:KS3-ENG-R-3a"
+        "uk-nc-2013:KS3-ENG-R-3a",
+        "ncert-sec:ENG.C910.READ"
       ]
     },
     {
@@ -4117,7 +4125,9 @@
         "uk-nc-2013:KS3-ENG-R-2b",
         "uk-nc-2013:KS3-ENG-R-3e",
         "nios-sec-2020:202.RDG",
-        "ncert-elem:ENG.C68.RDG"
+        "ncert-elem:ENG.C68.RDG",
+        "ncert-sec:ENG.C910.READ",
+        "ncert-sec:ENG.C910.TRANSCODE"
       ]
     },
     {
@@ -4216,7 +4226,8 @@
         "ccss-ela:RL.7.5",
         "uk-nc-2013:KS3-ENG-R-3b",
         "nios-sec-2020:202.LIT",
-        "ncert-elem:ENG.C68.RDG"
+        "ncert-elem:ENG.C68.RDG",
+        "ncert-sec:ENG.C910.READ"
       ]
     },
     {
@@ -4239,7 +4250,8 @@
         "ccss-ela:RI.6.6",
         "ccss-ela:RI.7.6",
         "ccss-ela:RI.8.6",
-        "uk-nc-2013:KS3-ENG-R-2c"
+        "uk-nc-2013:KS3-ENG-R-2c",
+        "ncert-sec:ENG.C910.REGISTER"
       ]
     },
     {
@@ -4265,7 +4277,8 @@
         "ccss-ela:RL.6.2",
         "ccss-ela:RL.7.2",
         "ccss-ela:RL.8.2",
-        "uk-nc-2013:KS3-ENG-R-2d"
+        "uk-nc-2013:KS3-ENG-R-2d",
+        "ncert-sec:ENG.C910.READ"
       ]
     },
     {
@@ -4341,7 +4354,8 @@
         "ccss-ela:RL.7.10",
         "ccss-ela:RL.8.10",
         "uk-nc-2013:KS3-ENG-R-1a",
-        "uk-nc-2013:KS3-ENG-R-1b"
+        "uk-nc-2013:KS3-ENG-R-1b",
+        "ncert-sec:ENG.C910.READ"
       ]
     },
     {
@@ -4767,7 +4781,8 @@
       ],
       "assessmentPrompt": "When {{name}} performs in a play or reads aloud from a script, do they use their voice — volume, pace, and expression — to bring the character or poem to life?",
       "standards": [
-        "uk-nc-2013:KS3-ENG-SE-1d"
+        "uk-nc-2013:KS3-ENG-SE-1d",
+        "ncert-sec:ENG.C910.READ"
       ]
     },
     {
@@ -4788,7 +4803,8 @@
       "assessmentPrompt": "Can {{name}} give a short prepared speech or presentation in Standard English — staying on point and adjusting their vocabulary to suit the audience?",
       "standards": [
         "uk-nc-2013:KS3-ENG-SE-1a",
-        "uk-nc-2013:KS3-ENG-SE-1b"
+        "uk-nc-2013:KS3-ENG-SE-1b",
+        "ncert-sec:ENG.C910.SPEAK"
       ]
     },
     {
@@ -4808,7 +4824,9 @@
       ],
       "assessmentPrompt": "Has {{name}} taken part in a school debate where they had to argue a position with evidence, respond to the other side's points, and keep to the rules of formal discussion?",
       "standards": [
-        "uk-nc-2013:KS3-ENG-SE-1c"
+        "uk-nc-2013:KS3-ENG-SE-1c",
+        "ncert-sec:ENG.C910.SPEAK",
+        "ncert-sec:ENG.C910.TRANSCODE"
       ]
     },
     {
@@ -5807,7 +5825,8 @@
         "ccss-ela:L.8.6",
         "uk-nc-2013:KS3-ENG-GV-1c",
         "nios-sec-2020:202.VOC",
-        "ncert-elem:ENG.C68.GRM"
+        "ncert-elem:ENG.C68.GRM",
+        "ncert-sec:ENG.C910.REGISTER"
       ]
     },
     {
@@ -5866,7 +5885,8 @@
         "ccss-ela:L.8.4",
         "ccss-ela:L.8.4a",
         "ccss-ela:L.8.4b",
-        "uk-nc-2013:KS3-ENG-R-2a"
+        "uk-nc-2013:KS3-ENG-R-2a",
+        "ncert-sec:ENG.C910.REF"
       ]
     },
     {
@@ -6576,7 +6596,8 @@
       "standards": [
         "ccss-ela:W.8.2.c",
         "ccss-ela:W.8.3.c",
-        "uk-nc-2013:KS3-ENG-W-1c"
+        "uk-nc-2013:KS3-ENG-W-1c",
+        "ncert-sec:ENG.C910.COHESION"
       ]
     },
     {
@@ -6604,7 +6625,9 @@
         "ccss-ela:W.8.2.d",
         "ccss-ela:W.8.2.f",
         "uk-nc-2013:KS3-ENG-W-1a",
-        "uk-nc-2013:KS3-ENG-W-1b"
+        "uk-nc-2013:KS3-ENG-W-1b",
+        "ncert-sec:ENG.C910.WRITE",
+        "ncert-sec:ENG.C910.TRANSCODE"
       ]
     },
     {
@@ -6632,7 +6655,8 @@
         "ccss-ela:W.8.1.c",
         "ccss-ela:W.8.1.d",
         "ccss-ela:W.8.1.e",
-        "uk-nc-2013:KS3-ENG-W-1a"
+        "uk-nc-2013:KS3-ENG-W-1a",
+        "ncert-sec:ENG.C910.WRITE"
       ]
     },
     {
@@ -6659,7 +6683,8 @@
         "uk-nc-2013:KS3-ENG-W-2b",
         "uk-nc-2013:KS3-ENG-W-2c",
         "nios-sec-2020:202.WRT",
-        "ncert-elem:ENG.C68.WRT"
+        "ncert-elem:ENG.C68.WRT",
+        "ncert-sec:ENG.C910.WRITE"
       ]
     },
     {
@@ -6685,7 +6710,8 @@
         "ccss-ela:W.7.8",
         "ccss-ela:W.8.7",
         "ccss-ela:W.8.8",
-        "uk-nc-2013:KS3-ENG-W-1b"
+        "uk-nc-2013:KS3-ENG-W-1b",
+        "ncert-sec:ENG.C910.REF"
       ]
     },
     {
@@ -6708,7 +6734,8 @@
         "ccss-ela:W.6.4",
         "ccss-ela:W.7.4",
         "ccss-ela:W.8.4",
-        "uk-nc-2013:KS3-ENG-W-1a"
+        "uk-nc-2013:KS3-ENG-W-1a",
+        "ncert-sec:ENG.C910.WRITE"
       ]
     },
     {
@@ -7826,7 +7853,9 @@
         "Initiating Historical Thinking in Elementary Schools"
       ],
       "assessmentPrompt": "If {{name}} heard two different versions of the same historical event, would they understand that both people might be telling the truth from their own point of view — and want to know why the versions differ?",
-      "standards": []
+      "standards": [
+        "ncert-sec:HIS.C9.NAZI"
+      ]
     },
     {
       "id": "mt_9REmUc8r4D",
@@ -7878,7 +7907,9 @@
         "Historical Thinking in the Elementary Years (ERIC)"
       ],
       "assessmentPrompt": "If {{name}} was trying to find out what really happened in a historical event, would they know to look at more than one source and compare what they say?",
-      "standards": []
+      "standards": [
+        "ncert-sec:HIS.C10.INDNAT"
+      ]
     },
     {
       "id": "mt_TTzJTF-OkG",
@@ -7929,7 +7960,10 @@
         "Ways of Seeing: Evidence and Learning in the History Classroom (RRCHNM)"
       ],
       "assessmentPrompt": "Does {{name}} understand that two historians can look at the same evidence and reach different conclusions — and that history involves argument and judgment, not just facts?",
-      "standards": []
+      "standards": [
+        "ncert-sec:HIS.C9.FR",
+        "ncert-sec:HIS.C10.PRINT"
+      ]
     },
     {
       "id": "mt_2DBPJ38iWl",
@@ -10668,7 +10702,8 @@
       "assessmentPrompt": "Can {{name}} plot a point like (−3, 4) correctly on a coordinate grid and read the coordinates of points in all four quadrants, including negative numbers?",
       "standards": [
         "ccss-math:6.NS.6c",
-        "uk-nc-2013:KS3.Maths.Alg.8"
+        "uk-nc-2013:KS3.Maths.Alg.8",
+        "ncert-sec:MA.C9.CG"
       ]
     },
     {
@@ -10693,7 +10728,8 @@
         "uk-nc-2013:KS3.Maths.Alg.4b",
         "nios-obe-c:C103.L5",
         "nios-sec-2020:211.M1.L4",
-        "ncert-elem:M.C8.ALG"
+        "ncert-elem:M.C8.ALG",
+        "ncert-sec:MA.C9.ALG.POLY"
       ]
     },
     {
@@ -10738,7 +10774,8 @@
         "ccss-math:8.F.1",
         "uk-nc-2013:KS3.Maths.Alg.14",
         "uk-nc-2013:KS3.Maths.Alg.16",
-        "nios-sec-2020:211.M1.L7"
+        "nios-sec-2020:211.M1.L7",
+        "ncert-sec:MA.C10.ALG.AP"
       ]
     },
     {
@@ -10790,7 +10827,8 @@
         "nios-obe-c:C103.L6",
         "nios-sec-2020:211.M1.L5",
         "ncert-elem:M.C7.ALG",
-        "ncert-elem:M.C8.ALG"
+        "ncert-elem:M.C8.ALG",
+        "ncert-sec:MA.C9.ALG.LIN"
       ]
     },
     {
@@ -10835,7 +10873,8 @@
         "uk-nc-2013:KS3.Maths.Alg.4c",
         "nios-obe-c:C103.L5",
         "nios-sec-2020:211.M1.L4",
-        "ncert-elem:M.C8.ALG"
+        "ncert-elem:M.C8.ALG",
+        "ncert-sec:MA.C9.ALG.POLY"
       ]
     },
     {
@@ -10859,7 +10898,9 @@
         "ccss-math:8.EE.6",
         "ccss-math:8.F.3",
         "uk-nc-2013:KS3.Maths.Alg.11",
-        "uk-nc-2013:KS3.Maths.Alg.9"
+        "uk-nc-2013:KS3.Maths.Alg.9",
+        "ncert-sec:MA.C9.ALG.LIN",
+        "ncert-sec:MA.C9.CG"
       ]
     },
     {
@@ -10881,7 +10922,8 @@
       "standards": [
         "ccss-math:8.F.4",
         "uk-nc-2013:KS3.Maths.Alg.15",
-        "nios-sec-2020:211.M1.L7"
+        "nios-sec-2020:211.M1.L7",
+        "ncert-sec:MA.C10.ALG.AP"
       ]
     },
     {
@@ -10905,7 +10947,9 @@
         "ccss-math:8.F.4",
         "uk-nc-2013:KS3.Maths.Alg.10",
         "uk-nc-2013:KS3.Maths.Alg.11",
-        "uk-nc-2013:KS3.Maths.Alg.9"
+        "uk-nc-2013:KS3.Maths.Alg.9",
+        "ncert-sec:MA.C9.ALG.LIN",
+        "ncert-sec:MA.C9.CG"
       ]
     },
     {
@@ -10967,7 +11011,8 @@
       ],
       "assessmentPrompt": "Can {{name}} multiply out two brackets like (x + 3)(x − 2) and collect the terms to get x² + x − 6?",
       "standards": [
-        "uk-nc-2013:KS3.Maths.Alg.4d"
+        "uk-nc-2013:KS3.Maths.Alg.4d",
+        "ncert-sec:MA.C9.ALG.POLY"
       ]
     },
     {
@@ -10991,7 +11036,8 @@
         "ccss-math:8.F.5",
         "uk-nc-2013:KS3.Maths.Alg.12",
         "uk-nc-2013:KS3.Maths.Alg.9",
-        "nios-sec-2020:211.M1.L6"
+        "nios-sec-2020:211.M1.L6",
+        "ncert-sec:MA.C10.ALG.QUAD"
       ]
     },
     {
@@ -11014,7 +11060,8 @@
         "ccss-math:8.EE.8a",
         "ccss-math:8.EE.8b",
         "uk-nc-2013:KS3.Maths.Alg.10",
-        "nios-sec-2020:211.M1.L5"
+        "nios-sec-2020:211.M1.L5",
+        "ncert-sec:MA.C10.ALG.PAIR"
       ]
     },
     {
@@ -11617,7 +11664,8 @@
       "standards": [
         "ccss-math:7.SP.3",
         "ccss-math:7.SP.4",
-        "uk-nc-2013:KS3.Maths.Stat.1"
+        "uk-nc-2013:KS3.Maths.Stat.1",
+        "ncert-sec:MA.C9.STAT"
       ]
     },
     {
@@ -14046,7 +14094,8 @@
       "assessmentPrompt": "If {{name}} slices a cylinder straight across the middle like cutting a tin of beans in half, can they describe the shape of the cut surface? What about slicing at an angle?",
       "standards": [
         "ccss-math:7.G.3",
-        "uk-nc-2013:KS3.Maths.Geo.15"
+        "uk-nc-2013:KS3.Maths.Geo.15",
+        "ncert-sec:MA.C9.MEN"
       ]
     },
     {
@@ -14091,7 +14140,8 @@
       "assessmentPrompt": "If {{name}} knows two angles of a triangle are 50° and 70°, can they work out the third? And can they figure out the angles inside a regular pentagon?",
       "standards": [
         "ccss-math:8.G.5",
-        "uk-nc-2013:KS3.Maths.Geo.12"
+        "uk-nc-2013:KS3.Maths.Geo.12",
+        "ncert-sec:MA.C9.GEO.LINES"
       ]
     },
     {
@@ -14165,7 +14215,8 @@
         "nios-obe-c:C103.L13",
         "nios-sec-2020:211.M3.L11",
         "nios-sec-2020:211.M3.L13",
-        "ncert-elem:M.C8.GEO"
+        "ncert-elem:M.C8.GEO",
+        "ncert-sec:MA.C9.GEO.QUAD"
       ]
     },
     {
@@ -14228,7 +14279,8 @@
       "assessmentPrompt": "If {{name}} is shown two triangles where all three sides of one match all three sides of the other, can they explain why those triangles must be identical in shape and size?",
       "standards": [
         "ccss-math:8.G.2",
-        "uk-nc-2013:KS3.Maths.Geo.6"
+        "uk-nc-2013:KS3.Maths.Geo.6",
+        "ncert-sec:MA.C9.GEO.LINES"
       ]
     },
     {
@@ -14249,7 +14301,8 @@
       "assessmentPrompt": "If {{name}} sees a Z-shape or F-shape formed by two parallel lines and a crossing line in a diagram, can they identify the equal angles and explain why they’re equal?",
       "standards": [
         "ccss-math:8.G.5",
-        "uk-nc-2013:KS3.Maths.Geo.11"
+        "uk-nc-2013:KS3.Maths.Geo.11",
+        "ncert-sec:MA.C9.GEO.LINES"
       ]
     },
     {
@@ -14274,7 +14327,8 @@
         "nios-obe-b:B103.L6",
         "nios-obe-c:C103.L16",
         "nios-sec-2020:211.M4.L20",
-        "ncert-elem:M.C7.MEN"
+        "ncert-elem:M.C7.MEN",
+        "ncert-sec:MA.C10.MEN.CIRCLE"
       ]
     },
     {
@@ -14295,7 +14349,8 @@
       "assessmentPrompt": "If {{name}} wants to enlarge a photo so it's three times bigger, can they work out the new dimensions — and explain that the shape stays the same but all lengths increase by the same factor?",
       "standards": [
         "ccss-math:8.G.4",
-        "uk-nc-2013:KS3.Maths.Geo.9"
+        "uk-nc-2013:KS3.Maths.Geo.9",
+        "ncert-sec:MA.C9.CG"
       ]
     },
     {
@@ -14336,7 +14391,9 @@
       ],
       "assessmentPrompt": "If {{name}} knows a ladder is 5 metres long and leans against a wall at 70° to the ground, can they use trigonometry to work out how high up the wall it reaches?",
       "standards": [
-        "uk-nc-2013:KS3.Maths.Geo.14"
+        "uk-nc-2013:KS3.Maths.Geo.14",
+        "ncert-sec:MA.C10.TRIG",
+        "ncert-sec:MA.C10.TRIG.HD"
       ]
     },
     {
@@ -14360,7 +14417,8 @@
         "ccss-math:8.G.7",
         "ccss-math:8.G.8",
         "uk-nc-2013:KS3.Maths.Geo.13",
-        "uk-nc-2013:KS3.Maths.Geo.14"
+        "uk-nc-2013:KS3.Maths.Geo.14",
+        "ncert-sec:MA.C10.GEO.SIM"
       ]
     },
     {
@@ -16432,7 +16490,8 @@
         "nios-obe-b:B103.L6",
         "nios-obe-c:C103.L16",
         "nios-sec-2020:211.M4.L20",
-        "ncert-elem:M.C7.MEN"
+        "ncert-elem:M.C7.MEN",
+        "ncert-sec:MA.C9.GEO.AREA"
       ]
     },
     {
@@ -17644,7 +17703,8 @@
       "standards": [
         "ccss-math:6.NS.4",
         "uk-nc-2013:KS3.Maths.Num.3",
-        "nios-obe-c:C103.L1"
+        "nios-obe-c:C103.L1",
+        "ncert-sec:MA.C10.NS"
       ]
     },
     {
@@ -18703,7 +18763,8 @@
         "uk-nc-2013:KS3.Maths.Num.7",
         "nios-obe-c:C103.L3",
         "nios-sec-2020:211.M1.L2",
-        "ncert-elem:M.C8.NS"
+        "ncert-elem:M.C8.NS",
+        "ncert-sec:MA.C9.NS"
       ]
     },
     {
@@ -18767,7 +18828,8 @@
       "standards": [
         "ccss-math:8.NS.1",
         "ccss-math:8.NS.2",
-        "uk-nc-2013:KS3.Maths.Num.16"
+        "uk-nc-2013:KS3.Maths.Num.16",
+        "ncert-sec:MA.C9.NS"
       ]
     },
     {
@@ -18956,7 +19018,8 @@
       "standards": [
         "ccss-math:7.SP.5",
         "ccss-math:7.SP.7a",
-        "uk-nc-2013:KS3.Maths.Prob.2"
+        "uk-nc-2013:KS3.Maths.Prob.2",
+        "ncert-sec:MA.C10.PROB"
       ]
     },
     {
@@ -18979,7 +19042,8 @@
         "ccss-math:7.SP.6",
         "ccss-math:7.SP.7b",
         "uk-nc-2013:KS3.Maths.Prob.1",
-        "ncert-elem:M.C7.DH"
+        "ncert-elem:M.C7.DH",
+        "ncert-sec:MA.C9.PROB"
       ]
     },
     {
@@ -19001,7 +19065,9 @@
       "standards": [
         "ccss-math:7.SP.5",
         "uk-nc-2013:KS3.Maths.Prob.1",
-        "nios-sec-2020:211.M6.L26"
+        "nios-sec-2020:211.M6.L26",
+        "ncert-sec:MA.C9.PROB",
+        "ncert-sec:MA.C10.PROB"
       ]
     },
     {
@@ -19045,7 +19111,8 @@
         "ccss-math:7.SP.8",
         "ccss-math:7.SP.8a",
         "ccss-math:7.SP.8b",
-        "uk-nc-2013:KS3.Maths.Prob.4"
+        "uk-nc-2013:KS3.Maths.Prob.4",
+        "ncert-sec:MA.C10.PROB"
       ]
     },
     {
@@ -19351,7 +19418,8 @@
       "standards": [
         "ccss-math:7.RP.2b",
         "uk-nc-2013:KS3.Maths.Ratio.2",
-        "nios-obe-c:C103.L15"
+        "nios-obe-c:C103.L15",
+        "ncert-sec:MA.C10.GEO.SIM"
       ]
     },
     {
@@ -21423,7 +21491,9 @@
         "Describes a trophic cascade or chain reaction from removing/adding a species"
       ],
       "assessmentPrompt": "If {{name}} learns about how wolves were brought back to Yellowstone and the whole ecosystem changed, can they explain what a 'keystone species' is and why having many different species in an area matters?",
-      "standards": []
+      "standards": [
+        "ncert-sec:SCI.C9.LIV.DIV"
+      ]
     },
     {
       "id": "mt_5S4byWDX6n",
@@ -21442,7 +21512,9 @@
         "Knows the IUCN Red List exists as a tracking system"
       ],
       "assessmentPrompt": "If {{name}} sees a news story about an endangered animal, can they explain what 'endangered' means and describe at least three reasons why some animals are at risk of disappearing forever?",
-      "standards": []
+      "standards": [
+        "ncert-sec:GEO.C9.WILD"
+      ]
     },
     {
       "id": "mt_CBxOcjh69x",
@@ -21482,7 +21554,8 @@
       "assessmentPrompt": "If {{name}} visits a zoo with a breeding programme, can they explain how zoos help save endangered species and describe at least two other ways people protect wildlife?",
       "standards": [
         "nios-obe-b:B102.L7.3",
-        "nios-obe-c:C105.L20"
+        "nios-obe-c:C105.L20",
+        "ncert-sec:SCI.C10.NR.CONSERVE"
       ]
     },
     {
@@ -21577,7 +21650,8 @@
       "evidence": [],
       "assessmentPrompt": "Can {{name}} describe what happened to Yellowstone National Park after wolves were reintroduced — what unexpected changes rippled through the whole ecosystem, including effects on rivers, as a result of one predator coming back?",
       "standards": [
-        "nios-obe-c:C105.L20"
+        "nios-obe-c:C105.L20",
+        "ncert-sec:SCI.C10.NR.CONSERVE"
       ]
     },
     {
@@ -21592,7 +21666,9 @@
       "centrality": 0.1778385772913817,
       "evidence": [],
       "assessmentPrompt": "Can {{name}} explain why biologists now say that birds ARE a type of dinosaur — not just their descendants but literally within the dinosaur family tree? What does that tell us about how scientists classify animals?",
-      "standards": []
+      "standards": [
+        "ncert-sec:SCI.C9.LIV.DIV"
+      ]
     },
     {
       "id": "mt_u0TeRwRII_",
@@ -22066,7 +22142,9 @@
         "Distinguishes carbon-14 (for recent organic material) from uranium-lead or potassium-argon (for deep geological time), explaining why carbon-14 cannot be used for dinosaur bones"
       ],
       "assessmentPrompt": "If {{name}} was told a dinosaur bone was dated using uranium-lead radiometric dating, could they explain what that means — what is decaying, why the rate of decay is useful, and roughly why scientists don't use carbon-14 for 70-million-year-old bones?",
-      "standards": []
+      "standards": [
+        "ncert-sec:SCI.C9.MAT.STRUCT"
+      ]
     },
     {
       "id": "mt_IP0PTVfTXp",
@@ -22443,7 +22521,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how rain (atmosphere) falls on mountains (geosphere), flows into rivers (hydrosphere), and provides water for plants and animals (biosphere)?",
       "standards": [
-        "ngss-k5:5-ESS2-1"
+        "ngss-k5:5-ESS2-1",
+        "ncert-sec:SCI.C9.NR"
       ]
     },
     {
@@ -22481,7 +22560,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that most of Earth's water is salty ocean water, and only a tiny fraction is the fresh water we drink, and show this on a graph?",
       "standards": [
-        "ngss-k5:5-ESS2-2"
+        "ngss-k5:5-ESS2-2",
+        "ncert-sec:SCI.C9.NR"
       ]
     },
     {
@@ -22778,7 +22858,9 @@
         "nios-obe-b:B102.L9.3",
         "nios-obe-c:C105.L19",
         "nios-sec-2020:213.M4.L26",
-        "nios-sec-2020:214.M8.L23"
+        "nios-sec-2020:214.M8.L23",
+        "ncert-sec:SCI.C9.NR",
+        "ncert-sec:SCI.C10.LIV.ENV"
       ]
     },
     {
@@ -22858,7 +22940,8 @@
       "standards": [
         "uk-nc-2013:Y6.Sci.LTH.1",
         "nios-obe-c:C105.L3",
-        "nios-sec-2020:212.M5.L19"
+        "nios-sec-2020:212.M5.L19",
+        "ncert-sec:SCI.C9.LIV.DIV"
       ]
     },
     {
@@ -22878,7 +22961,8 @@
       ],
       "assessmentPrompt": "Can {{name}} describe real examples of how communities protect the environment — like using solar panels, creating nature reserves, or cleaning up rivers?",
       "standards": [
-        "ngss-k5:5-ESS3-1"
+        "ngss-k5:5-ESS3-1",
+        "ncert-sec:SCI.C10.NR.CONSERVE"
       ]
     },
     {
@@ -22898,7 +22982,8 @@
       ],
       "assessmentPrompt": "If {{name}} finds an unusual creature, can they explain step by step how they'd work out what group it belongs to based on its features?",
       "standards": [
-        "uk-nc-2013:Y6.Sci.LTH.2"
+        "uk-nc-2013:Y6.Sci.LTH.2",
+        "ncert-sec:SCI.C9.LIV.DIV"
       ]
     },
     {
@@ -22918,7 +23003,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what happens to a fallen leaf on the forest floor — how tiny organisms break it down and the nutrients go back into the soil to help new plants grow?",
       "standards": [
-        "ngss-k5:5-LS2-1"
+        "ngss-k5:5-LS2-1",
+        "ncert-sec:SCI.C9.NR"
       ]
     },
     {
@@ -22941,7 +23027,8 @@
       "standards": [
         "ngss-ms:MS-LS2-1",
         "ngss-ms:MS-LS2-4",
-        "uk-nc-2013:KS3.Sci.Bio.Ecosystem.1"
+        "uk-nc-2013:KS3.Sci.Bio.Ecosystem.1",
+        "ncert-sec:SCI.C10.LIV.ENV"
       ]
     },
     {
@@ -22965,7 +23052,8 @@
         "ngss-ms:MS-LS2-1",
         "uk-nc-2013:KS3.Sci.Bio.Ecosystem.1",
         "nios-obe-b:B102.L7.2",
-        "nios-obe-c:C105.L20"
+        "nios-obe-c:C105.L20",
+        "ncert-sec:SCI.C10.LIV.ENV"
       ]
     },
     {
@@ -23010,7 +23098,8 @@
         "uk-nc-2013:KS3.Sci.Bio.Ecosystem.5",
         "nios-obe-c:C105.L19",
         "ncert-elem:EVS.WATER",
-        "ncert-elem:SCI.NAT"
+        "ncert-elem:SCI.NAT",
+        "ncert-sec:SCI.C9.NR"
       ]
     },
     {
@@ -23054,7 +23143,9 @@
       "assessmentPrompt": "If {{name}} was asked what DNA actually is and where it is in the body, could they explain the relationship between DNA, genes, and chromosomes — and say roughly how many chromosomes a human cell has?",
       "standards": [
         "ngss-ms:MS-LS3-1",
-        "uk-nc-2013:KS3.Sci.Bio.Adaptation.5"
+        "uk-nc-2013:KS3.Sci.Bio.Adaptation.5",
+        "ncert-sec:SCI.C9.LIV.CELL",
+        "ncert-sec:SCI.C10.LIV.HERED"
       ]
     },
     {
@@ -23078,7 +23169,8 @@
         "ngss-ms:MS-LS4-1",
         "ngss-ms:MS-LS4-2",
         "uk-nc-2013:KS3.Sci.Bio.Adaptation.1",
-        "uk-nc-2013:KS3.Sci.Bio.Adaptation.4"
+        "uk-nc-2013:KS3.Sci.Bio.Adaptation.4",
+        "ncert-sec:SCI.C10.LIV.HERED"
       ]
     },
     {
@@ -23121,7 +23213,8 @@
       ],
       "assessmentPrompt": "If {{name}} heard that DNA can get damaged or changed, could they explain what a mutation is, what might cause one, and why most mutations don’t actually cause problems — but occasionally one leads to something new?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Bio.Adaptation.4"
+        "uk-nc-2013:KS3.Sci.Bio.Adaptation.4",
+        "ncert-sec:SCI.C10.LIV.HERED"
       ]
     },
     {
@@ -23144,7 +23237,8 @@
       "standards": [
         "ngss-ms:MS-LS4-4",
         "uk-nc-2013:KS3.Sci.Bio.Adaptation.1",
-        "uk-nc-2013:KS3.Sci.Bio.Adaptation.4"
+        "uk-nc-2013:KS3.Sci.Bio.Adaptation.4",
+        "ncert-sec:SCI.C10.LIV.HERED"
       ]
     },
     {
@@ -23189,7 +23283,8 @@
       "standards": [
         "ngss-ms:MS-LS2-3",
         "uk-nc-2013:KS3.Sci.Bio.Ecosystem.4",
-        "uk-nc-2013:KS3.Sci.Chem.EA.1"
+        "uk-nc-2013:KS3.Sci.Chem.EA.1",
+        "ncert-sec:SCI.C9.NR"
       ]
     },
     {
@@ -23212,7 +23307,8 @@
       "standards": [
         "ngss-ms:MS-LS2-4",
         "ngss-ms:MS-LS2-5",
-        "uk-nc-2013:KS3.Sci.Bio.Ecosystem.3"
+        "uk-nc-2013:KS3.Sci.Bio.Ecosystem.3",
+        "ncert-sec:SCI.C10.LIV.ENV"
       ]
     },
     {
@@ -23234,7 +23330,8 @@
       "assessmentPrompt": "If {{name}} looked around a classroom and noticed that everyone has slightly different heights, hair colours, and eye colours, could they explain why these differences exist — and which ones are inherited, which are down to the environment, and which are both?",
       "standards": [
         "ngss-ms:MS-LS3-2",
-        "uk-nc-2013:KS3.Sci.Bio.Adaptation.1"
+        "uk-nc-2013:KS3.Sci.Bio.Adaptation.1",
+        "ncert-sec:SCI.C10.LIV.HERED"
       ]
     },
     {
@@ -23256,7 +23353,8 @@
       "assessmentPrompt": "If {{name}} was asked why two brown-eyed parents can have a blue-eyed child, could they explain what dominant and recessive alleles are and show how it works using a Punnett square?",
       "standards": [
         "ngss-ms:MS-LS3-2",
-        "uk-nc-2013:KS3.Sci.Bio.Adaptation.6"
+        "uk-nc-2013:KS3.Sci.Bio.Adaptation.6",
+        "ncert-sec:SCI.C10.LIV.HERED"
       ]
     },
     {
@@ -23555,7 +23653,8 @@
       ],
       "assessmentPrompt": "Can {{name}} draw a circuit diagram using the proper symbols for batteries, bulbs, switches, and wires instead of drawing pictures?",
       "standards": [
-        "uk-nc-2013:Y6.Sci.E.3"
+        "uk-nc-2013:Y6.Sci.E.3",
+        "ncert-sec:SCI.C10.HTW.CIRCUIT"
       ]
     },
     {
@@ -23595,7 +23694,8 @@
       ],
       "assessmentPrompt": "If {{name}} adds a second bulb to a series circuit and it gets dimmer, can they explain why the energy is being shared between the two bulbs?",
       "standards": [
-        "uk-nc-2013:Y6.Sci.E.2"
+        "uk-nc-2013:Y6.Sci.E.2",
+        "ncert-sec:SCI.C10.HTW.CIRCUIT"
       ]
     },
     {
@@ -23615,7 +23715,8 @@
       ],
       "assessmentPrompt": "If {{name}} sets up a circuit with an ammeter and a voltmeter, can they explain what each one is measuring and describe the difference between current and voltage?",
       "standards": [
-        "ngss-ms:MS-PS2-3"
+        "ngss-ms:MS-PS2-3",
+        "ncert-sec:SCI.C10.HTW.CIRCUIT"
       ]
     },
     {
@@ -23637,7 +23738,8 @@
       "assessmentPrompt": "If {{name}} charged their phone overnight and was asked where the electrical energy goes, could they explain what conservation of energy means — and why the charger gets warm even though that heat isn’t doing any useful work?",
       "standards": [
         "ngss-ms:MS-PS3-5",
-        "uk-nc-2013:KS3.Sci.Phys.Energy.2"
+        "uk-nc-2013:KS3.Sci.Phys.Energy.2",
+        "ncert-sec:SCI.C9.MOV.WEP"
       ]
     },
     {
@@ -23661,7 +23763,8 @@
         "ngss-ms:MS-PS3-1",
         "ngss-ms:MS-PS3-2",
         "uk-nc-2013:KS3.Sci.Phys.Energy.1",
-        "nios-sec-2020:212.M4.L13"
+        "nios-sec-2020:212.M4.L13",
+        "ncert-sec:SCI.C9.MOV.WEP"
       ]
     },
     {
@@ -23723,7 +23826,8 @@
       ],
       "assessmentPrompt": "If {{name}} heard that a light bulb is 10% efficient and uses 60 J of energy, could they work out how much of that energy actually becomes light — and where the rest goes?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Phys.Energy.3"
+        "uk-nc-2013:KS3.Sci.Phys.Energy.3",
+        "ncert-sec:SCI.C9.MOV.WEP"
       ]
     },
     {
@@ -23766,7 +23870,8 @@
       "assessmentPrompt": "If {{name}} doubles the resistance in a circuit while keeping the battery the same, can they predict what happens to the current and explain using the V = IR formula?",
       "standards": [
         "ngss-ms:MS-PS2-3",
-        "nios-sec-2020:212.M4.L16"
+        "nios-sec-2020:212.M4.L16",
+        "ncert-sec:SCI.C10.HTW.CIRCUIT"
       ]
     },
     {
@@ -23787,7 +23892,8 @@
       ],
       "assessmentPrompt": "If {{name}} was comparing a 100 W light bulb with a 10 W LED, could they explain what those numbers mean and calculate how much energy each uses in an hour?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Phys.Energy.4"
+        "uk-nc-2013:KS3.Sci.Phys.Energy.4",
+        "ncert-sec:SCI.C9.MOV.WEP"
       ]
     },
     {
@@ -23812,7 +23918,9 @@
         "uk-nc-2013:KS3.Sci.Phys.Energy.1",
         "nios-obe-b:B102.L10.2",
         "nios-obe-b:B102.L10.4",
-        "nios-sec-2020:212.M4.L12"
+        "nios-sec-2020:212.M4.L12",
+        "ncert-sec:SCI.C10.NR.ENERGY",
+        "ncert-sec:GEO.C10.POWER"
       ]
     },
     {
@@ -23833,7 +23941,8 @@
       "assessmentPrompt": "Can {{name}} explain why the lights in your home don't all switch off when you turn off one room's light, but a string of old-fashioned Christmas lights does go off if one bulb breaks?",
       "standards": [
         "ngss-ms:MS-PS2-3",
-        "nios-sec-2020:212.M4.L16"
+        "nios-sec-2020:212.M4.L16",
+        "ncert-sec:SCI.C10.HTW.CIRCUIT"
       ]
     },
     {
@@ -23932,7 +24041,9 @@
         "Add a resultant force arrow to a diagram and explain how they calculated it"
       ],
       "assessmentPrompt": "If {{name}} is asked to draw a diagram of all the forces acting on a stationary book on a table, can they draw two arrows — one pointing down for gravity and one pointing up from the table — and explain why, if they're balanced, the book doesn't move?",
-      "standards": []
+      "standards": [
+        "ncert-sec:SCI.C9.MOV.FORCE"
+      ]
     },
     {
       "id": "mt_-p_xp4hMvh",
@@ -24097,7 +24208,8 @@
       "assessmentPrompt": "Can {{name}} explain why everything falls downwards when you let go of it, and name the force that causes this?",
       "standards": [
         "ngss-k5:5-PS2-1",
-        "uk-nc-2013:Y5.Sci.F.1"
+        "uk-nc-2013:Y5.Sci.F.1",
+        "ncert-sec:SCI.C9.MOV.GRAV"
       ]
     },
     {
@@ -24136,7 +24248,9 @@
         "Sketch a distance-time graph from a written description of a journey with stops and speed changes"
       ],
       "assessmentPrompt": "If {{name}} sees a distance-time graph of a journey with a flat section in the middle, can they explain what was happening then — and point to which part of the graph shows the fastest speed?",
-      "standards": []
+      "standards": [
+        "ncert-sec:SCI.C9.MOV.MOTION"
+      ]
     },
     {
       "id": "mt_56aspHjU19",
@@ -24157,7 +24271,8 @@
       "assessmentPrompt": "If {{name}} used a compass and iron filings to map the magnetic field around a bar magnet, could they describe what pattern the field lines make and explain why a compass needle always points roughly north?",
       "standards": [
         "ngss-ms:MS-PS2-5",
-        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.8"
+        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.8",
+        "ncert-sec:SCI.C10.HTW.MAG"
       ]
     },
     {
@@ -24179,7 +24294,8 @@
       "assessmentPrompt": "If {{name}} weighed themselves on bathroom scales and was then asked what they would weigh on the Moon, could they explain the difference between mass and weight and work out a rough answer?",
       "standards": [
         "ngss-ms:MS-PS2-4",
-        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.10"
+        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.10",
+        "ncert-sec:SCI.C9.MOV.GRAV"
       ]
     },
     {
@@ -24199,7 +24315,8 @@
       ],
       "assessmentPrompt": "If {{name}} was on a train and another train passed going the same direction but faster, could they explain why it looks slow even if it's actually travelling at high speed?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.3"
+        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.3",
+        "ncert-sec:SCI.C9.MOV.MOTION"
       ]
     },
     {
@@ -24221,7 +24338,8 @@
       "assessmentPrompt": "If {{name}} was pushing a heavy box along the floor but it wasn't moving, could they explain all the forces acting on it and why it stays still even though you're pushing?",
       "standards": [
         "ngss-ms:MS-PS2-1",
-        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.4"
+        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.4",
+        "ncert-sec:SCI.C9.MOV.FORCE"
       ]
     },
     {
@@ -24244,7 +24362,8 @@
       "standards": [
         "ngss-ms:MS-PS2-2",
         "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.1",
-        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.2"
+        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.2",
+        "ncert-sec:SCI.C9.MOV.MOTION"
       ]
     },
     {
@@ -24266,7 +24385,8 @@
       "assessmentPrompt": "If {{name}} noticed the lid on a jar was very tight, could they explain why running it under hot water helps — and what's happening to the metal as it heats up?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.5",
-        "nios-obe-c:C105.L15"
+        "nios-obe-c:C105.L15",
+        "ncert-sec:SCI.C9.MOV.FLOAT"
       ]
     },
     {
@@ -24286,7 +24406,8 @@
       ],
       "assessmentPrompt": "If {{name}} built an electromagnet using a battery, wire, and iron nail, could they describe two ways to make it pick up more paperclips — and explain why it stops working when the circuit is switched off?",
       "standards": [
-        "ngss-ms:MS-PS2-3"
+        "ngss-ms:MS-PS2-3",
+        "ncert-sec:SCI.C10.HTW.MAG"
       ]
     },
     {
@@ -24332,7 +24453,8 @@
       "standards": [
         "ngss-ms:MS-PS2-2",
         "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.6",
-        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.9"
+        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.9",
+        "ncert-sec:SCI.C9.MOV.FLOAT"
       ]
     },
     {
@@ -24355,7 +24477,8 @@
       "standards": [
         "ngss-ms:MS-PS2-1",
         "ngss-ms:MS-PS2-2",
-        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.7"
+        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.7",
+        "ncert-sec:SCI.C9.MOV.FORCE"
       ]
     },
     {
@@ -24377,7 +24500,8 @@
       "assessmentPrompt": "If {{name}} saw a video of a rocket launching into space, could they explain what force is pushing the rocket upward and where that force comes from — and which law of motion that demonstrates?",
       "standards": [
         "ngss-ms:MS-PS2-1",
-        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.7"
+        "uk-nc-2013:KS3.Sci.Phys.MotionAndForces.7",
+        "ncert-sec:SCI.C9.MOV.FORCE"
       ]
     },
     {
@@ -24398,7 +24522,9 @@
       "assessmentPrompt": "If {{name}} looked inside an electric motor or the back of a loudspeaker, could they explain why the coil of wire moves — and what would happen to the movement if you reversed the direction of the current?",
       "standards": [
         "ngss-ms:MS-PS2-5",
-        "nios-sec-2020:212.M4.L17"
+        "nios-sec-2020:212.M4.L17",
+        "ncert-sec:SCI.C10.HTW.MAG",
+        "ncert-sec:SCI.C10.HTW.INDUCT"
       ]
     },
     {
@@ -24995,7 +25121,9 @@
         "Sketch what happens to particles during a change of state (e.g. melting) and explain the energy changes involved"
       ],
       "assessmentPrompt": "If {{name}}'s science teacher draws a diagram with dots packed tightly in rows versus dots spread far apart and moving around, can {{name}} tell you which represents a solid and which a gas — and explain why, using the particles?",
-      "standards": []
+      "standards": [
+        "ncert-sec:SCI.C9.MAT.STATE"
+      ]
     },
     {
       "id": "mt_Pl-nsjYGZ3",
@@ -25242,7 +25370,8 @@
       ],
       "assessmentPrompt": "If {{name}} dissolves sugar in water, can they explain why the total weight of the water and sugar stays the same even though the sugar seems to disappear?",
       "standards": [
-        "ngss-k5:5-PS1-2"
+        "ngss-k5:5-PS1-2",
+        "ncert-sec:SCI.C9.MAT.ATOM"
       ]
     },
     {
@@ -25262,7 +25391,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that everything is made of tiny particles we can't see, and that how tightly packed they are determines whether something is a solid, liquid, or gas?",
       "standards": [
-        "ngss-k5:5-PS1-1"
+        "ngss-k5:5-PS1-1",
+        "ncert-sec:SCI.C9.MAT.STATE"
       ]
     },
     {
@@ -25286,7 +25416,9 @@
         "ngss-ms:MS-PS1-1",
         "uk-nc-2013:KS3.Sci.Chem.AEC.1",
         "uk-nc-2013:KS3.Sci.Chem.AEC.2",
-        "uk-nc-2013:KS3.Sci.Chem.AEC.3"
+        "uk-nc-2013:KS3.Sci.Chem.AEC.3",
+        "ncert-sec:SCI.C9.MAT.PURE",
+        "ncert-sec:SCI.C9.MAT.ATOM"
       ]
     },
     {
@@ -25308,7 +25440,8 @@
       "assessmentPrompt": "If {{name}} was heating a block of ice in a pan and drew a graph of temperature over time, could they explain why the line goes flat at certain points — and what's happening to the particles when it does?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Chem.PNM.2",
-        "uk-nc-2013:KS3.Sci.Chem.PNM.4"
+        "uk-nc-2013:KS3.Sci.Chem.PNM.4",
+        "ncert-sec:SCI.C9.MAT.STATE"
       ]
     },
     {
@@ -25332,7 +25465,8 @@
         "uk-nc-2013:KS3.Sci.Chem.AEC.6",
         "uk-nc-2013:KS3.Sci.Chem.AEC.9",
         "uk-nc-2013:KS3.Sci.Chem.PT.5",
-        "nios-obe-c:C105.L7"
+        "nios-obe-c:C105.L7",
+        "ncert-sec:SCI.C10.MAT.METAL"
       ]
     },
     {
@@ -25357,7 +25491,8 @@
         "ngss-ms:MS-PS1-5",
         "uk-nc-2013:KS3.Sci.Chem.AEC.4",
         "uk-nc-2013:KS3.Sci.Chem.PIS.5",
-        "nios-obe-c:C105.L8"
+        "nios-obe-c:C105.L8",
+        "ncert-sec:SCI.C10.MAT.REACT"
       ]
     },
     {
@@ -25380,7 +25515,8 @@
       "standards": [
         "uk-nc-2013:KS3.Sci.Chem.PIS.1",
         "uk-nc-2013:KS3.Sci.Chem.PIS.3",
-        "uk-nc-2013:KS3.Sci.Chem.PIS.4"
+        "uk-nc-2013:KS3.Sci.Chem.PIS.4",
+        "ncert-sec:SCI.C9.MAT.PURE"
       ]
     },
     {
@@ -25402,7 +25538,8 @@
       "assessmentPrompt": "If {{name}} needed to separate salt from sand mixed together in water, could they describe two stages of separation, the equipment needed, and explain why each step works?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Chem.PIS.2",
-        "nios-obe-c:C105.L6"
+        "nios-obe-c:C105.L6",
+        "ncert-sec:SCI.C9.MAT.PURE"
       ]
     },
     {
@@ -25427,7 +25564,8 @@
         "uk-nc-2013:KS3.Sci.Chem.PNM.1",
         "uk-nc-2013:KS3.Sci.Chem.PNM.3",
         "uk-nc-2013:KS3.Sci.Chem.PNM.4",
-        "nios-sec-2020:212.M2.L2"
+        "nios-sec-2020:212.M2.L2",
+        "ncert-sec:SCI.C9.MAT.STATE"
       ]
     },
     {
@@ -25452,7 +25590,8 @@
         "uk-nc-2013:KS3.Sci.Chem.AEC.7",
         "uk-nc-2013:KS3.Sci.Chem.PT.2",
         "uk-nc-2013:KS3.Sci.Chem.PT.3",
-        "nios-sec-2020:212.M2.L6"
+        "nios-sec-2020:212.M2.L6",
+        "ncert-sec:SCI.C10.MAT.PERIOD"
       ]
     },
     {
@@ -25475,7 +25614,8 @@
       "standards": [
         "uk-nc-2013:KS3.Sci.Chem.CR.3",
         "uk-nc-2013:KS3.Sci.Chem.CR.4",
-        "uk-nc-2013:KS3.Sci.Chem.CR.5"
+        "uk-nc-2013:KS3.Sci.Chem.CR.5",
+        "ncert-sec:SCI.C10.MAT.ACID"
       ]
     },
     {
@@ -25498,7 +25638,8 @@
       "standards": [
         "uk-nc-2013:KS3.Sci.Chem.CR.2",
         "nios-obe-c:C105.L8",
-        "nios-sec-2020:212.M2.L8"
+        "nios-sec-2020:212.M2.L8",
+        "ncert-sec:SCI.C10.MAT.ACID"
       ]
     },
     {
@@ -25521,7 +25662,9 @@
       "standards": [
         "ngss-ms:MS-ESS3-5",
         "uk-nc-2013:KS3.Sci.Chem.EA.2",
-        "uk-nc-2013:KS3.Sci.Chem.EA.3"
+        "uk-nc-2013:KS3.Sci.Chem.EA.3",
+        "ncert-sec:SCI.C9.NR",
+        "ncert-sec:SCI.C10.LIV.ENV"
       ]
     },
     {
@@ -25543,7 +25686,9 @@
       "assessmentPrompt": "If {{name}} was deciding whether to recycle an aluminium drinks can or throw it away, could they explain what goes into making new aluminium from scratch — and why recycling it uses much less energy?",
       "standards": [
         "ngss-ms:MS-ESS3-4",
-        "uk-nc-2013:KS3.Sci.Chem.EA.5"
+        "uk-nc-2013:KS3.Sci.Chem.EA.5",
+        "ncert-sec:SCI.C10.LIV.ENV",
+        "ncert-sec:SCI.C10.NR.CONSERVE"
       ]
     },
     {
@@ -25566,7 +25711,8 @@
       "standards": [
         "ngss-ms:MS-PS1-4",
         "uk-nc-2013:KS3.Sci.Chem.ENG.1",
-        "uk-nc-2013:KS3.Sci.Chem.ENG.2"
+        "uk-nc-2013:KS3.Sci.Chem.ENG.2",
+        "ncert-sec:SCI.C10.MAT.REACT"
       ]
     },
     {
@@ -25589,7 +25735,8 @@
       "standards": [
         "uk-nc-2013:KS3.Sci.Chem.MAT.1",
         "uk-nc-2013:KS3.Sci.Chem.MAT.2",
-        "uk-nc-2013:KS3.Sci.Chem.PT.6"
+        "uk-nc-2013:KS3.Sci.Chem.PT.6",
+        "ncert-sec:SCI.C10.MAT.METAL"
       ]
     },
     {
@@ -25635,7 +25782,8 @@
         "ngss-ms:MS-PS1-2",
         "uk-nc-2013:KS3.Sci.Chem.CR.1",
         "nios-obe-c:C105.L8",
-        "nios-sec-2020:212.M2.L4"
+        "nios-sec-2020:212.M2.L4",
+        "ncert-sec:SCI.C10.MAT.REACT"
       ]
     },
     {
@@ -25658,7 +25806,8 @@
       "standards": [
         "ngss-ms:MS-PS1-3",
         "uk-nc-2013:KS3.Sci.Chem.CR.6",
-        "uk-nc-2013:KS3.Sci.Chem.MAT.3"
+        "uk-nc-2013:KS3.Sci.Chem.MAT.3",
+        "ncert-sec:SCI.C10.MAT.CARBON"
       ]
     },
     {
@@ -26125,7 +26274,9 @@
       "centrality": 0.04787961696306429,
       "evidence": [],
       "assessmentPrompt": "Can {{name}} explain why more of the Moon's surface has been mapped in detail than Earth's ocean floor — what makes deep ocean exploration so much harder than looking at the Moon?",
-      "standards": []
+      "standards": [
+        "ncert-sec:SCI.C9.MOV.SOUND"
+      ]
     },
     {
       "id": "mt_fDoE-pL6Jv",
@@ -26749,7 +26900,8 @@
       "assessmentPrompt": "Can {{name}} explain what the circulatory system does — not just 'the heart pumps blood', but using words like 'oxygen', 'artery', and 'blood vessel'?",
       "standards": [
         "nios-obe-b:B102.L13.1",
-        "nios-obe-c:C105.L3"
+        "nios-obe-c:C105.L3",
+        "ncert-sec:SCI.C9.LIV.TISS"
       ]
     },
     {
@@ -26867,7 +27019,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how the sandwich they ate at lunch actually gets to their muscles — from the stomach into the blood and then around the body?",
       "standards": [
-        "uk-nc-2013:Y6.Sci.A.3"
+        "uk-nc-2013:Y6.Sci.A.3",
+        "ncert-sec:SCI.C10.LIV.LIFE"
       ]
     },
     {
@@ -26948,7 +27101,8 @@
       "assessmentPrompt": "If {{name}} was asked to explain how the body is built up from the smallest parts to the whole, could they describe the levels from individual cells all the way up to organ systems — with a real example at each level?",
       "standards": [
         "ngss-ms:MS-LS1-2",
-        "uk-nc-2013:KS3.Sci.Bio.Cells.7"
+        "uk-nc-2013:KS3.Sci.Bio.Cells.7",
+        "ncert-sec:SCI.C9.LIV.TISS"
       ]
     },
     {
@@ -26972,7 +27126,8 @@
         "ngss-ms:MS-LS1-1",
         "uk-nc-2013:KS3.Sci.Bio.Cells.1",
         "nios-obe-c:C105.L2",
-        "nios-sec-2020:212.M5.L21"
+        "nios-sec-2020:212.M5.L21",
+        "ncert-sec:SCI.C9.LIV.CELL"
       ]
     },
     {
@@ -27014,7 +27169,8 @@
       "assessmentPrompt": "If {{name}} ate a meal with you, could they describe what happens to the food step by step as it travels through the body — naming the organs it passes through and what each one does?",
       "standards": [
         "ngss-ms:MS-LS1-7",
-        "uk-nc-2013:KS3.Sci.Bio.Nutrition.4"
+        "uk-nc-2013:KS3.Sci.Bio.Nutrition.4",
+        "ncert-sec:SCI.C10.LIV.LIFE"
       ]
     },
     {
@@ -27098,7 +27254,8 @@
       "assessmentPrompt": "If {{name}} was shown a diagram of a plant cell, could they point to parts like the nucleus, chloroplasts, and cell wall and explain in plain words what each one does?",
       "standards": [
         "ngss-ms:MS-LS1-2",
-        "uk-nc-2013:KS3.Sci.Bio.Cells.2"
+        "uk-nc-2013:KS3.Sci.Bio.Cells.2",
+        "ncert-sec:SCI.C9.LIV.CELL"
       ]
     },
     {
@@ -27122,7 +27279,8 @@
         "ngss-ms:MS-LS1-6",
         "uk-nc-2013:KS3.Sci.Bio.Nutrition.6",
         "nios-obe-c:C105.L11",
-        "nios-sec-2020:212.M5.L22"
+        "nios-sec-2020:212.M5.L22",
+        "ncert-sec:SCI.C10.LIV.LIFE"
       ]
     },
     {
@@ -27144,7 +27302,8 @@
       "standards": [
         "uk-nc-2013:KS3.Sci.Bio.Cells.3",
         "uk-nc-2013:KS3.Sci.Bio.Cells.4",
-        "nios-obe-c:C105.L2"
+        "nios-obe-c:C105.L2",
+        "ncert-sec:SCI.C9.LIV.CELL"
       ]
     },
     {
@@ -27166,7 +27325,8 @@
       "standards": [
         "uk-nc-2013:KS3.Sci.Bio.Cells.5",
         "uk-nc-2013:KS3.Sci.Bio.Cells.6",
-        "nios-obe-c:C105.L12"
+        "nios-obe-c:C105.L12",
+        "ncert-sec:SCI.C9.LIV.CELL"
       ]
     },
     {
@@ -27232,7 +27392,8 @@
       "standards": [
         "ngss-ms:MS-LS1-7",
         "uk-nc-2013:KS3.Sci.Bio.GasExchange.6",
-        "uk-nc-2013:KS3.Sci.Bio.GasExchange.7"
+        "uk-nc-2013:KS3.Sci.Bio.GasExchange.7",
+        "ncert-sec:SCI.C10.LIV.LIFE"
       ]
     },
     {
@@ -27253,7 +27414,8 @@
       ],
       "assessmentPrompt": "If {{name}} sprinted as fast as they could and their legs started to burn and ache afterwards, could they explain what's happening inside their muscles — why there isn't enough oxygen, and what the body produces instead?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Bio.GasExchange.6"
+        "uk-nc-2013:KS3.Sci.Bio.GasExchange.6",
+        "ncert-sec:SCI.C10.LIV.LIFE"
       ]
     },
     {
@@ -27294,7 +27456,8 @@
       "assessmentPrompt": "If {{name}} took a deep breath after running, could they explain what's happening in their lungs — how the air gets in, where the oxygen crosses into the blood, and how carbon dioxide leaves?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Bio.GasExchange.1",
-        "uk-nc-2013:KS3.Sci.Bio.GasExchange.2"
+        "uk-nc-2013:KS3.Sci.Bio.GasExchange.2",
+        "ncert-sec:SCI.C10.LIV.LIFE"
       ]
     },
     {
@@ -27336,7 +27499,8 @@
       "assessmentPrompt": "If {{name}} felt their heartbeat, could they describe what the heart is doing — explaining the two sides of the heart, where the blood goes from each side, and why we need a double loop?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Bio.GasExchange.4",
-        "uk-nc-2013:KS3.Sci.Bio.GasExchange.5"
+        "uk-nc-2013:KS3.Sci.Bio.GasExchange.5",
+        "ncert-sec:SCI.C10.LIV.LIFE"
       ]
     },
     {
@@ -27357,7 +27521,8 @@
       ],
       "assessmentPrompt": "If {{name}} was asked why oxygen moves from the lungs into the blood without the body needing to pump it, could they explain what diffusion is and why it always moves in one particular direction?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Bio.GasExchange.3"
+        "uk-nc-2013:KS3.Sci.Bio.GasExchange.3",
+        "ncert-sec:SCI.C9.LIV.DIFF"
       ]
     },
     {
@@ -27381,7 +27546,8 @@
         "uk-nc-2013:KS3.Sci.Bio.Reproduction.1",
         "nios-obe-b:B102.L13.8",
         "nios-obe-c:C105.L5",
-        "nios-sec-2020:212.M5.L24"
+        "nios-sec-2020:212.M5.L24",
+        "ncert-sec:SCI.C10.LIV.REPRO"
       ]
     },
     {
@@ -27405,7 +27571,8 @@
         "uk-nc-2013:KS3.Sci.Bio.Health.3",
         "uk-nc-2013:KS3.Sci.Bio.Health.4",
         "nios-obe-b:B102.L14.2",
-        "nios-obe-c:C105.L12"
+        "nios-obe-c:C105.L12",
+        "ncert-sec:SCI.C9.LIV.HEALTH"
       ]
     },
     {
@@ -27426,7 +27593,8 @@
       ],
       "assessmentPrompt": "If {{name}} watched bees visiting flowers in a garden, could they explain what role the bees are playing and trace the full journey from pollination through to seed dispersal?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Bio.Reproduction.2"
+        "uk-nc-2013:KS3.Sci.Bio.Reproduction.2",
+        "ncert-sec:SCI.C10.LIV.REPRO"
       ]
     },
     {
@@ -28275,7 +28443,9 @@
         "Describe what certification labels like Rainforest Alliance or FSC mean and how they help"
       ],
       "assessmentPrompt": "Can {{name}} describe what people are doing to save the rainforests — like creating nature reserves, planting new trees, supporting indigenous land rights, and buying certified sustainable products?",
-      "standards": []
+      "standards": [
+        "ncert-sec:SCI.C10.NR.CONSERVE"
+      ]
     },
     {
       "id": "mt_ZM7u9m-gS4",
@@ -28743,7 +28913,8 @@
       ],
       "assessmentPrompt": "Can {{name}} choose the right type of graph for their data — a bar chart for categories or a line graph for continuous data — and draw it accurately?",
       "standards": [
-        "uk-nc-2013:KS2U.Sci.WS.3"
+        "uk-nc-2013:KS2U.Sci.WS.3",
+        "ncert-sec:SCI.C9.LIV.DIV"
       ]
     },
     {
@@ -28925,7 +29096,9 @@
         "Draws a line of best fit for linear data and correctly calculates its gradient using two points"
       ],
       "assessmentPrompt": "If {{name}} collected data on how spring length changes with the weight added, could they put it in a correct table, plot it as a line graph with axes labelled in the right units, draw a line of best fit, and calculate the gradient?",
-      "standards": []
+      "standards": [
+        "ncert-sec:MA.C9.STAT"
+      ]
     },
     {
       "id": "mt_ThTbUuNb3p",
@@ -29627,7 +29800,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why the sun looks so much brighter than other stars, even though many stars are actually bigger — it's because the sun is much closer to us?",
       "standards": [
-        "ngss-k5:5-ESS1-1"
+        "ngss-k5:5-ESS1-1",
+        "ncert-sec:SCI.C10.NP.DISPERSE"
       ]
     },
     {
@@ -29735,7 +29909,8 @@
       "standards": [
         "ngss-ms:MS-ESS1-2",
         "uk-nc-2013:KS3.Sci.Phys.SpacePhysics.4",
-        "nios-sec-2020:212.M3.L11"
+        "nios-sec-2020:212.M3.L11",
+        "ncert-sec:SCI.C9.MOV.GRAV"
       ]
     },
     {
@@ -30055,7 +30230,8 @@
       "standards": [
         "nios-obe-b:B102.L13.8",
         "nios-obe-c:C105.L5",
-        "nios-sec-2020:222.M3.L11"
+        "nios-sec-2020:222.M3.L11",
+        "ncert-sec:SCI.C10.LIV.REPRO"
       ]
     },
     {
@@ -30157,7 +30333,8 @@
       "standards": [
         "nios-obe-b:B102.L13.7",
         "nios-obe-c:C105.L4",
-        "nios-sec-2020:212.M5.L23"
+        "nios-sec-2020:212.M5.L23",
+        "ncert-sec:SCI.C10.LIV.CONTROL"
       ]
     },
     {
@@ -30177,7 +30354,8 @@
       ],
       "assessmentPrompt": "If {{name}} was asked why they don't get chickenpox twice, could they explain the difference between just fighting off a germ and actually 'remembering' it — and describe how a vaccine trains the immune system without causing the disease?",
       "standards": [
-        "nios-obe-b:B102.L14.4"
+        "nios-obe-b:B102.L14.4",
+        "ncert-sec:SCI.C9.LIV.HEALTH"
       ]
     },
     {
@@ -30196,7 +30374,9 @@
         "Explains neuroplasticity: repeated neural pathways become stronger and faster — this is the biological mechanism of learning and skill development"
       ],
       "assessmentPrompt": "If {{name}} was asked why practising a skill like piano or football makes you better over time, could they explain what's actually happening physically in the brain — and describe what it means to say the brain 'rewires itself'?",
-      "standards": []
+      "standards": [
+        "ncert-sec:SCI.C10.LIV.CONTROL"
+      ]
     },
     {
       "id": "mt_0sELh0MYWb",
@@ -30215,7 +30395,8 @@
       ],
       "assessmentPrompt": "If {{name}} heard that scientists have edited a human gene to prevent a hereditary disease, could they explain what DNA actually is, how genes work, and why some people think editing human DNA raises serious ethical questions?",
       "standards": [
-        "nios-sec-2020:212.M5.L25"
+        "nios-sec-2020:212.M5.L25",
+        "ncert-sec:SCI.C10.LIV.HERED"
       ]
     },
     {
@@ -30234,7 +30415,9 @@
         "Compares the nervous system (fast, electrical, short-duration signals) with the endocrine system (slower, chemical, longer-duration signals) and gives an example where each is more appropriate"
       ],
       "assessmentPrompt": "If {{name}} ate a large meal of sugary food and was asked what their body does to keep blood sugar from getting dangerously high, could they explain the role of insulin and describe how the feedback system brings levels back to normal?",
-      "standards": []
+      "standards": [
+        "ncert-sec:SCI.C10.LIV.CONTROL"
+      ]
     },
     {
       "id": "mt_roinupb_7L",
@@ -31009,7 +31192,8 @@
         "ngss-k5:4-PS4-2",
         "uk-nc-2013:Y6.Sci.L.2",
         "uk-nc-2013:Y6.Sci.L.3",
-        "nios-obe-c:C105.L17"
+        "nios-obe-c:C105.L17",
+        "ncert-sec:SCI.C10.NP.REFRACT"
       ]
     },
     {
@@ -31088,7 +31272,8 @@
       "assessmentPrompt": "Can {{name}} explain why a shadow of a hand looks like a hand shape, using the idea that light travels in straight lines?",
       "standards": [
         "uk-nc-2013:Y6.Sci.L.1",
-        "uk-nc-2013:Y6.Sci.L.4"
+        "uk-nc-2013:Y6.Sci.L.4",
+        "ncert-sec:SCI.C10.NP.REFLECT"
       ]
     },
     {
@@ -31111,7 +31296,8 @@
       "standards": [
         "uk-nc-2013:KS3.Sci.Phys.Waves.3",
         "nios-obe-c:C105.L16",
-        "nios-sec-2020:212.M4.L18"
+        "nios-sec-2020:212.M4.L18",
+        "ncert-sec:SCI.C9.MOV.SOUND"
       ]
     },
     {
@@ -31134,7 +31320,9 @@
       "standards": [
         "uk-nc-2013:KS3.Sci.Phys.Waves.1",
         "uk-nc-2013:KS3.Sci.Phys.Waves.4",
-        "nios-sec-2020:212.M4.L15"
+        "nios-sec-2020:212.M4.L15",
+        "ncert-sec:SCI.C10.NP.REFLECT",
+        "ncert-sec:SCI.C10.NP.REFRACT"
       ]
     },
     {
@@ -31157,7 +31345,8 @@
       "standards": [
         "ngss-ms:MS-PS4-1",
         "uk-nc-2013:KS3.Sci.Phys.Waves.1",
-        "uk-nc-2013:KS3.Sci.Phys.Waves.2"
+        "uk-nc-2013:KS3.Sci.Phys.Waves.2",
+        "ncert-sec:SCI.C9.MOV.SOUND"
       ]
     },
     {
@@ -31178,7 +31367,8 @@
       ],
       "assessmentPrompt": "If {{name}} shone white light through a prism, could they explain why a rainbow of colours appears — and then predict what colour a blue jumper would look under red light and why?",
       "standards": [
-        "uk-nc-2013:KS3.Sci.Phys.Waves.5"
+        "uk-nc-2013:KS3.Sci.Phys.Waves.5",
+        "ncert-sec:SCI.C10.NP.DISPERSE"
       ]
     },
     {
@@ -31197,7 +31387,9 @@
         "Use a ray diagram to locate the image formed by a convex lens and describe whether it is real or virtual"
       ],
       "assessmentPrompt": "Can {{name}} draw a diagram showing how a ray of light bounces off a mirror or bends when it passes from air into glass — labelling the angles correctly?",
-      "standards": []
+      "standards": [
+        "ncert-sec:SCI.C10.NP.REFLECT"
+      ]
     },
     {
       "id": "mt_FVERuBoCD1",
@@ -31218,7 +31410,8 @@
       "assessmentPrompt": "If {{name}} was asked to show on a diagram where their reflection appears to be when they look in a mirror, could they draw the correct ray paths and explain whether the image is real or virtual — and where it actually appears to be located?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Phys.Waves.4",
-        "uk-nc-2013:KS3.Sci.Phys.Waves.5"
+        "uk-nc-2013:KS3.Sci.Phys.Waves.5",
+        "ncert-sec:SCI.C10.NP.REFLECT"
       ]
     },
     {
@@ -31240,7 +31433,8 @@
       "assessmentPrompt": "If {{name}} heard about microwaves, X-rays, and visible light all being part of the same family, could they explain what makes them different from each other and name one useful application and one risk for each?",
       "standards": [
         "ngss-ms:MS-PS4-2",
-        "uk-nc-2013:KS3.Sci.Phys.Waves.1"
+        "uk-nc-2013:KS3.Sci.Phys.Waves.1",
+        "ncert-sec:SCI.C10.NP.DISPERSE"
       ]
     },
     {
@@ -31262,7 +31456,8 @@
       "assessmentPrompt": "If {{name}} was wearing a black t-shirt on a sunny day and a friend was wearing white, could they explain using wave interactions why the black shirt gets hotter — and which properties of materials determine how they absorb or reflect radiation?",
       "standards": [
         "ngss-ms:MS-PS4-2",
-        "uk-nc-2013:KS3.Sci.Phys.Waves.4"
+        "uk-nc-2013:KS3.Sci.Phys.Waves.4",
+        "ncert-sec:SCI.C10.NP.REFRACT"
       ]
     },
     {
@@ -31712,7 +31907,9 @@
         "Explain that weather occurs in the troposphere, the lowest layer of the atmosphere"
       ],
       "assessmentPrompt": "Can {{name}} explain that we're surrounded by a blanket of air called the atmosphere, that this air actually has weight and pushes on everything, and that all our weather happens in the lowest layer?",
-      "standards": []
+      "standards": [
+        "ncert-sec:SCI.C9.NR"
+      ]
     },
     {
       "id": "mt_iiUdDUEEGY",
@@ -31744,7 +31941,9 @@
       "centrality": 0.04651162790697674,
       "evidence": [],
       "assessmentPrompt": "Can {{name}} explain why the UK tends to get wet weather arriving from the west — what global pattern of winds is steering weather systems, and how does Earth's rotation contribute to this?",
-      "standards": []
+      "standards": [
+        "ncert-sec:GEO.C9.CLIM"
+      ]
     },
     {
       "id": "mt_EQQWKz03P8",
@@ -31772,7 +31971,9 @@
       "centrality": 0.09712722298221614,
       "evidence": [],
       "assessmentPrompt": "When scientists say that climate change made a recent hurricane stronger, can {{name}} explain what they actually mean and how scientists figure that out — what kind of calculation lets them link a specific storm to climate change?",
-      "standards": []
+      "standards": [
+        "ncert-sec:GEO.C9.CLIM"
+      ]
     },
     {
       "id": "mt_olFzbawexJ",
@@ -31800,7 +32001,9 @@
       "centrality": 0.213406292749658,
       "evidence": [],
       "assessmentPrompt": "Has {{name}} heard of geoengineering? Can they describe one proposal for deliberately cooling the Earth and explain one potential risk of attempting it — and say whether they think individuals or governments bear more responsibility for tackling climate change?",
-      "standards": []
+      "standards": [
+        "ncert-sec:SCI.C10.NR.ENERGY"
+      ]
     },
     {
       "id": "mt_X0Kp51EEpr",
@@ -31964,7 +32167,8 @@
         "nios-obe-a:A102.L10.2",
         "nios-obe-a:A102.L10.3",
         "nios-sec-2020:213.M2.L13",
-        "ncert-elem:EVS.TRAVEL"
+        "ncert-elem:EVS.TRAVEL",
+        "ncert-sec:GEO.C10.TRANS"
       ]
     },
     {
@@ -31986,7 +32190,8 @@
       "standards": [
         "nios-obe-a:A102.L10.4",
         "nios-obe-c:C102.L13",
-        "ncert-elem:EVS.TRAVEL"
+        "ncert-elem:EVS.TRAVEL",
+        "ncert-sec:GEO.C10.TRANS"
       ]
     },
     {
@@ -32026,7 +32231,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why citizens being able to ask the government for information helps keep things fair and honest — and roughly how someone would go about requesting it?",
       "standards": [
-        "nios-obe-a:A102.L12.3"
+        "nios-obe-a:A102.L12.3",
+        "ncert-sec:POL.C10.OUTCOME"
       ]
     },
     {
@@ -32048,7 +32254,8 @@
       "standards": [
         "nios-obe-a:A102.L12.4",
         "nios-sec-2020:213.M3.L17",
-        "ncert-elem:SS.POL.C7"
+        "ncert-elem:SS.POL.C7",
+        "ncert-sec:POL.C10.OUTCOME"
       ]
     },
     {
@@ -32494,7 +32701,8 @@
         "nios-obe-b:B102.L4.1",
         "nios-obe-c:C102.L7",
         "nios-sec-2020:213.M1.L5",
-        "ncert-elem:SS.HIST.C8"
+        "ncert-elem:SS.HIST.C8",
+        "ncert-sec:HIS.C10.INDUS"
       ]
     },
     {
@@ -32518,7 +32726,8 @@
         "nios-obe-c:C102.L8",
         "nios-sec-2020:223.M2.L5",
         "nios-sec-2020:213.M1.L8",
-        "ncert-elem:SS.HIST.C8"
+        "ncert-elem:SS.HIST.C8",
+        "ncert-sec:HIS.C10.INDNAT"
       ]
     },
     {
@@ -32542,7 +32751,8 @@
         "nios-sec-2020:223.M2.L5",
         "nios-sec-2020:223.M4.L10",
         "nios-sec-2020:213.M1.L6",
-        "ncert-elem:SS.HIST.C8"
+        "ncert-elem:SS.HIST.C8",
+        "ncert-sec:HIS.C10.PRINT"
       ]
     },
     {
@@ -32562,7 +32772,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that India is made of many states and union territories, and point to India on a world map?",
       "standards": [
-        "nios-obe-b:B102.L5.1"
+        "nios-obe-b:B102.L5.1",
+        "ncert-sec:GEO.C9.LOC"
       ]
     },
     {
@@ -32587,7 +32798,9 @@
         "nios-sec-2020:213.M2.L9",
         "nios-sec-2020:213.M2.L10",
         "ncert-elem:SS.GEO.C6",
-        "ncert-elem:SS.GEO.C7"
+        "ncert-elem:SS.GEO.C7",
+        "ncert-sec:GEO.C9.LOC",
+        "ncert-sec:GEO.C9.CLIM"
       ]
     },
     {
@@ -32609,7 +32822,8 @@
       "standards": [
         "nios-obe-b:B102.L1.3",
         "nios-obe-c:C102.L10",
-        "ncert-elem:SS.GEO.C8"
+        "ncert-elem:SS.GEO.C8",
+        "ncert-sec:GEO.C10.RES"
       ]
     },
     {
@@ -32638,7 +32852,9 @@
         "nios-sec-2020:213.M2.L12",
         "ncert-elem:EVS.FOOD",
         "ncert-elem:SCI.FOOD",
-        "ncert-elem:SS.GEO.C8"
+        "ncert-elem:SS.GEO.C8",
+        "ncert-sec:SCI.C9.FOOD",
+        "ncert-sec:GEO.C10.AGRI"
       ]
     },
     {
@@ -32659,7 +32875,8 @@
       "assessmentPrompt": "Can {{name}} explain what industries are, give different types, and describe how they turn raw materials into useful goods?",
       "standards": [
         "nios-obe-c:C102.L12",
-        "ncert-elem:SS.GEO.C8"
+        "ncert-elem:SS.GEO.C8",
+        "ncert-sec:GEO.C10.IND"
       ]
     },
     {
@@ -32683,7 +32900,9 @@
         "nios-obe-c:C102.L16",
         "nios-obe-c:C102.L17",
         "nios-obe-c:C102.L18",
-        "ncert-elem:SS.POL.C6"
+        "ncert-elem:SS.POL.C6",
+        "ncert-sec:POL.C9.WHAT",
+        "ncert-sec:POL.C9.DESIGN"
       ]
     },
     {
@@ -32705,7 +32924,9 @@
       "standards": [
         "nios-obe-c:C102.L17",
         "nios-sec-2020:213.M3.L15",
-        "ncert-elem:SS.POL.C8"
+        "ncert-elem:SS.POL.C8",
+        "ncert-sec:POL.C9.DESIGN",
+        "ncert-sec:POL.C9.RIGHTS"
       ]
     },
     {
@@ -32729,7 +32950,8 @@
         "nios-obe-b:B102.L6.3",
         "nios-obe-c:C102.L19",
         "nios-sec-2020:213.M3.L18",
-        "ncert-elem:SS.POL.C6"
+        "ncert-elem:SS.POL.C6",
+        "ncert-sec:POL.C10.POWER"
       ]
     },
     {
@@ -32750,7 +32972,8 @@
       "assessmentPrompt": "Can {{name}} explain how elections let people choose their government, and why every adult’s single vote matters?",
       "standards": [
         "nios-obe-c:C102.L19",
-        "nios-sec-2020:213.M3.L22"
+        "nios-sec-2020:213.M3.L22",
+        "ncert-sec:POL.C9.ELECT"
       ]
     },
     {
@@ -32776,7 +32999,8 @@
         "nios-obe-b:B102.L2.3",
         "nios-obe-b:B102.L2.4",
         "nios-sec-2020:213.M4.L24",
-        "ncert-elem:SS.POL.C6"
+        "ncert-elem:SS.POL.C6",
+        "ncert-sec:POL.C10.WORK"
       ]
     },
     {
@@ -32800,7 +33024,8 @@
         "nios-obe-b:B102.L3.2",
         "nios-obe-b:B102.L3.3",
         "nios-obe-b:B102.L3.4",
-        "ncert-elem:SS.POL.C7"
+        "ncert-elem:SS.POL.C7",
+        "ncert-sec:POL.C10.WORK"
       ]
     },
     {
@@ -32821,7 +33046,8 @@
       "assessmentPrompt": "Can {{name}} explain why a country’s population size matters — how fast growth can strain resources like schools, water and jobs?",
       "standards": [
         "nios-obe-c:C102.L14",
-        "nios-sec-2020:213.M2.L14"
+        "nios-sec-2020:213.M2.L14",
+        "ncert-sec:GEO.C9.POP"
       ]
     },
     {
@@ -32842,7 +33068,8 @@
       "assessmentPrompt": "Can {{name}} name a national scheme like Swachh Bharat or Digital India, explain its goal, and say how an ordinary person can help?",
       "standards": [
         "nios-obe-c:C102.L20",
-        "nios-sec-2020:213.M4.L25"
+        "nios-sec-2020:213.M4.L25",
+        "ncert-sec:POL.C10.OUTCOME"
       ]
     },
     {
@@ -32863,7 +33090,8 @@
       "assessmentPrompt": "Can {{name}} explain what the kidneys do — cleaning the blood and removing waste as urine — and why that matters?",
       "standards": [
         "nios-obe-b:B102.L13.6",
-        "nios-obe-c:C105.L4"
+        "nios-obe-c:C105.L4",
+        "ncert-sec:SCI.C10.LIV.LIFE"
       ]
     },
     {
@@ -32887,7 +33115,8 @@
         "nios-obe-b:B102.L14.1",
         "nios-obe-b:B102.L14.2",
         "nios-obe-b:B102.L14.3",
-        "nios-obe-b:B102.L14.4"
+        "nios-obe-b:B102.L14.4",
+        "ncert-sec:SCI.C9.LIV.HEALTH"
       ]
     },
     {
@@ -32973,7 +33202,8 @@
       "assessmentPrompt": "Can {{name}} explain what a square root is and find the square root of a perfect square like 144?",
       "standards": [
         "nios-obe-c:C103.L3",
-        "ncert-elem:M.C8.NS"
+        "ncert-elem:M.C8.NS",
+        "ncert-sec:MA.C9.NS"
       ]
     },
     {
@@ -33824,7 +34054,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how British rule changed India’s economy, and why it often made life harder for Indian farmers and crafters?",
       "standards": [
-        "nios-obe-c:C102.L7"
+        "nios-obe-c:C102.L7",
+        "ncert-sec:HIS.C10.INDUS"
       ]
     },
     {
@@ -33866,7 +34097,8 @@
       "assessmentPrompt": "Can {{name}} explain how Indians came together — through groups like the Congress — to demand a say in how their country was run?",
       "standards": [
         "nios-obe-c:C102.L8",
-        "nios-sec-2020:213.M1.L8"
+        "nios-sec-2020:213.M1.L8",
+        "ncert-sec:HIS.C10.INDNAT"
       ]
     },
     {
@@ -33886,7 +34118,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how Gandhi fought for freedom without violence — by peacefully refusing to obey unfair rules?",
       "standards": [
-        "nios-obe-c:C102.L8"
+        "nios-obe-c:C102.L8",
+        "ncert-sec:HIS.C10.INDNAT"
       ]
     },
     {
@@ -33906,7 +34139,8 @@
       ],
       "assessmentPrompt": "Can {{name}} name a freedom movement like the Salt March and explain how ordinary people took part in the struggle for independence?",
       "standards": [
-        "nios-obe-c:C102.L8"
+        "nios-obe-c:C102.L8",
+        "ncert-sec:HIS.C10.INDNAT"
       ]
     },
     {
@@ -33927,7 +34161,8 @@
       "assessmentPrompt": "Can {{name}} explain that the fight for freedom had different paths — some peaceful, some through revolution?",
       "standards": [
         "nios-obe-b:B102.L4.2",
-        "nios-obe-c:C102.L8"
+        "nios-obe-c:C102.L8",
+        "ncert-sec:HIS.C10.INDNAT"
       ]
     },
     {
@@ -33967,7 +34202,8 @@
       ],
       "assessmentPrompt": "Can {{name}} give an example of a reformer who worked to make Indian society fairer, and explain what they fought for?",
       "standards": [
-        "nios-obe-c:C102.L7"
+        "nios-obe-c:C102.L7",
+        "ncert-sec:HIS.C10.PRINT"
       ]
     },
     {
@@ -33988,7 +34224,9 @@
       "assessmentPrompt": "Can {{name}} name the Himalayas and a great Indian river, and explain why those rivers are so important for the land and its people?",
       "standards": [
         "nios-obe-b:B102.L5.2",
-        "nios-obe-c:C102.L9"
+        "nios-obe-c:C102.L9",
+        "ncert-sec:GEO.C9.LOC",
+        "ncert-sec:GEO.C9.DRAIN"
       ]
     },
     {
@@ -34008,7 +34246,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what the monsoon is and why the yearly rains matter so much for farming and life in India?",
       "standards": [
-        "nios-obe-c:C102.L9"
+        "nios-obe-c:C102.L9",
+        "ncert-sec:GEO.C9.CLIM"
       ]
     },
     {
@@ -34030,7 +34269,11 @@
       "standards": [
         "nios-obe-b:B102.L1.3",
         "nios-obe-c:C102.L9",
-        "nios-sec-2020:213.M2.L11"
+        "nios-sec-2020:213.M2.L11",
+        "ncert-sec:SCI.C10.NR.CONSERVE",
+        "ncert-sec:GEO.C9.VEG",
+        "ncert-sec:GEO.C9.WILD",
+        "ncert-sec:GEO.C10.FOREST"
       ]
     },
     {
@@ -34050,7 +34293,9 @@
       ],
       "assessmentPrompt": "Can {{name}} name some of India’s energy sources — like coal, and cleaner ones like solar and wind — and explain why using them wisely matters?",
       "standards": [
-        "nios-obe-c:C102.L10"
+        "nios-obe-c:C102.L10",
+        "ncert-sec:GEO.C10.MIN",
+        "ncert-sec:GEO.C10.POWER"
       ]
     },
     {
@@ -34070,7 +34315,9 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that countries can be run in different ways — and what makes a democracy special?",
       "standards": [
-        "nios-obe-c:C102.L16"
+        "nios-obe-c:C102.L16",
+        "ncert-sec:POL.C9.WHAT",
+        "ncert-sec:POL.C9.SPREAD"
       ]
     },
     {
@@ -34093,7 +34340,8 @@
         "nios-obe-b:B102.L6.1",
         "nios-obe-c:C102.L17",
         "nios-sec-2020:213.M3.L20",
-        "ncert-elem:SS.POL.C8"
+        "ncert-elem:SS.POL.C8",
+        "ncert-sec:POL.C9.INST"
       ]
     },
     {
@@ -34115,7 +34363,8 @@
       "standards": [
         "nios-obe-b:B102.L6.1",
         "nios-obe-c:C102.L17",
-        "nios-sec-2020:213.M3.L20"
+        "nios-sec-2020:213.M3.L20",
+        "ncert-sec:POL.C9.INST"
       ]
     },
     {
@@ -34137,7 +34386,8 @@
       "standards": [
         "nios-obe-b:B102.L6.1",
         "nios-obe-c:C102.L17",
-        "ncert-elem:SS.POL.C8"
+        "ncert-elem:SS.POL.C8",
+        "ncert-sec:POL.C9.RIGHTS"
       ]
     },
     {
@@ -34158,7 +34408,8 @@
       "assessmentPrompt": "Can {{name}} explain that each state has its own government — with an assembly and a chief minister — as well as the national one?",
       "standards": [
         "nios-obe-c:C102.L18",
-        "nios-sec-2020:213.M3.L19"
+        "nios-sec-2020:213.M3.L19",
+        "ncert-sec:POL.C10.POWER"
       ]
     },
     {
@@ -34180,7 +34431,8 @@
       "standards": [
         "nios-obe-c:C102.L17",
         "nios-sec-2020:213.M3.L16",
-        "ncert-elem:SS.POL.C8"
+        "ncert-elem:SS.POL.C8",
+        "ncert-sec:POL.C9.RIGHTS"
       ]
     },
     {
@@ -34200,7 +34452,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that being a citizen means having duties too — like caring for the environment and respecting others — not only rights?",
       "standards": [
-        "nios-obe-c:C102.L17"
+        "nios-obe-c:C102.L17",
+        "ncert-sec:POL.C9.RIGHTS"
       ]
     },
     {
@@ -34220,7 +34473,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how a village runs its own affairs through an elected gram panchayat?",
       "standards": [
-        "nios-obe-b:B102.L6.2"
+        "nios-obe-b:B102.L6.2",
+        "ncert-sec:POL.C10.POWER"
       ]
     },
     {
@@ -34240,7 +34494,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain the three levels of village government — from the gram panchayat up to the district?",
       "standards": [
-        "nios-obe-b:B102.L6.2"
+        "nios-obe-b:B102.L6.2",
+        "ncert-sec:POL.C10.POWER"
       ]
     },
     {
@@ -34260,7 +34515,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how a town or city looks after services like water and rubbish through its own local government?",
       "standards": [
-        "nios-obe-b:B102.L6.3"
+        "nios-obe-b:B102.L6.3",
+        "ncert-sec:POL.C10.POWER"
       ]
     },
     {
@@ -34280,7 +34536,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that in a democracy every adult gets one equal vote, no matter who they are?",
       "standards": [
-        "nios-obe-c:C102.L19"
+        "nios-obe-c:C102.L19",
+        "ncert-sec:POL.C9.ELECT"
       ]
     },
     {
@@ -34301,7 +34558,9 @@
       "assessmentPrompt": "Can {{name}} explain what political parties are and how they take part in elections?",
       "standards": [
         "nios-obe-c:C102.L19",
-        "nios-sec-2020:213.M3.L21"
+        "nios-sec-2020:213.M3.L21",
+        "ncert-sec:POL.C9.ELECT",
+        "ncert-sec:POL.C10.COMPET"
       ]
     },
     {
@@ -34321,7 +34580,8 @@
       ],
       "assessmentPrompt": "Can {{name}} describe how an election works — from casting a secret vote to counting the votes to find the winner?",
       "standards": [
-        "nios-obe-c:C102.L19"
+        "nios-obe-c:C102.L19",
+        "ncert-sec:POL.C9.ELECT"
       ]
     },
     {
@@ -34402,7 +34662,8 @@
       "assessmentPrompt": "Can {{name}} explain why it is important for different communities to live together peacefully, and that it is everyone’s job?",
       "standards": [
         "nios-obe-b:B102.L2.3",
-        "nios-obe-b:B102.L2.4"
+        "nios-obe-b:B102.L2.4",
+        "ncert-sec:POL.C10.WORK"
       ]
     },
     {
@@ -34442,7 +34703,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why it is so important that girls go to school, just like boys?",
       "standards": [
-        "nios-obe-b:B102.L3.2"
+        "nios-obe-b:B102.L3.2",
+        "ncert-sec:ECO.C9.PEOPLE"
       ]
     },
     {
@@ -34502,7 +34764,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why India’s fast-growing population puts pressure on things everyone shares, like water, schools and jobs?",
       "standards": [
-        "nios-obe-c:C102.L14"
+        "nios-obe-c:C102.L14",
+        "ncert-sec:GEO.C9.POP"
       ]
     },
     {
@@ -34522,7 +34785,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what birth rate, death rate and sex ratio mean — and why it matters that girls and boys are born in balance?",
       "standards": [
-        "nios-obe-c:C102.L14"
+        "nios-obe-c:C102.L14",
+        "ncert-sec:GEO.C9.POP"
       ]
     },
     {
@@ -34582,7 +34846,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how a mission like Skill India helps people learn skills to get jobs, and why that helps the country?",
       "standards": [
-        "nios-obe-c:C102.L20"
+        "nios-obe-c:C102.L20",
+        "ncert-sec:ECO.C9.PEOPLE"
       ]
     },
     {
@@ -34623,7 +34888,8 @@
       "assessmentPrompt": "Can {{name}} name some of India’s main crops and explain the difference between food crops and cash crops?",
       "standards": [
         "nios-obe-b:B102.L5.3",
-        "nios-obe-c:C102.L11"
+        "nios-obe-c:C102.L11",
+        "ncert-sec:GEO.C10.AGRI"
       ]
     },
     {
@@ -34644,7 +34910,8 @@
       "assessmentPrompt": "Can {{name}} explain the Rabi, Kharif and Zaid farming seasons and how they follow the monsoon?",
       "standards": [
         "nios-obe-b:B102.L8.3",
-        "nios-obe-c:C102.L11"
+        "nios-obe-c:C102.L11",
+        "ncert-sec:GEO.C10.AGRI"
       ]
     },
     {
@@ -34665,7 +34932,9 @@
       "assessmentPrompt": "Can {{name}} describe the steps a farmer follows to grow a crop, from preparing the soil to the harvest?",
       "standards": [
         "nios-obe-b:B102.L8.2",
-        "nios-obe-c:C105.L13"
+        "nios-obe-c:C105.L13",
+        "ncert-sec:SCI.C9.FOOD",
+        "ncert-sec:GEO.C10.AGRI"
       ]
     },
     {
@@ -34685,7 +34954,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain the different kinds of industry — from small home crafts to big factories — and what they make?",
       "standards": [
-        "nios-obe-c:C102.L12"
+        "nios-obe-c:C102.L12",
+        "ncert-sec:GEO.C10.IND"
       ]
     },
     {
@@ -34805,7 +35075,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how the way people travel has changed over time, from walking and animals to trains and planes?",
       "standards": [
-        "nios-obe-a:A102.L10.1"
+        "nios-obe-a:A102.L10.1",
+        "ncert-sec:GEO.C10.TRANS"
       ]
     },
     {
@@ -34825,7 +35096,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how catching diseases work — that they spread through things like air, water, or mosquito bites?",
       "standards": [
-        "nios-obe-b:B102.L14.2"
+        "nios-obe-b:B102.L14.2",
+        "ncert-sec:SCI.C9.LIV.HEALTH"
       ]
     },
     {
@@ -34865,7 +35137,8 @@
       ],
       "assessmentPrompt": "Can {{name}} name ways to stay healthy and avoid disease — like hygiene, clean water, and vaccination?",
       "standards": [
-        "nios-obe-b:B102.L14.4"
+        "nios-obe-b:B102.L14.4",
+        "ncert-sec:SCI.C9.LIV.HEALTH"
       ]
     },
     {
@@ -35755,7 +36028,9 @@
       ],
       "assessmentPrompt": "Can {{name}} explain the difference between rational numbers (which can be written as fractions) and irrational numbers like √2 or π?",
       "standards": [
-        "nios-sec-2020:211.M1.L1"
+        "nios-sec-2020:211.M1.L1",
+        "ncert-sec:MA.C9.NS",
+        "ncert-sec:MA.C10.NS"
       ]
     },
     {
@@ -35775,7 +36050,8 @@
       ],
       "assessmentPrompt": "Can {{name}} solve a quadratic equation — one with an x² term — by factorising or using the formula?",
       "standards": [
-        "nios-sec-2020:211.M1.L6"
+        "nios-sec-2020:211.M1.L6",
+        "ncert-sec:MA.C10.ALG.QUAD"
       ]
     },
     {
@@ -35797,7 +36073,8 @@
       "standards": [
         "nios-sec-2020:211.M3.L11",
         "nios-sec-2020:211.M3.L12",
-        "ncert-elem:M.C7.GEO"
+        "ncert-elem:M.C7.GEO",
+        "ncert-sec:MA.C9.GEO.TRI"
       ]
     },
     {
@@ -35817,7 +36094,8 @@
       ],
       "assessmentPrompt": "Can {{name}} use the angle rules of circles — like the angle at the centre being twice the angle at the edge — to find missing angles?",
       "standards": [
-        "nios-sec-2020:211.M3.L16"
+        "nios-sec-2020:211.M3.L16",
+        "ncert-sec:MA.C9.GEO.CIRCLE"
       ]
     },
     {
@@ -35837,7 +36115,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what a tangent to a circle is and that it meets the radius at a right angle?",
       "standards": [
-        "nios-sec-2020:211.M3.L17"
+        "nios-sec-2020:211.M3.L17",
+        "ncert-sec:MA.C10.GEO.CIRCLE"
       ]
     },
     {
@@ -35857,7 +36136,9 @@
       ],
       "assessmentPrompt": "Can {{name}} use a compass and ruler to accurately bisect an angle or construct a triangle?",
       "standards": [
-        "nios-sec-2020:211.M3.L18"
+        "nios-sec-2020:211.M3.L18",
+        "ncert-sec:MA.C9.GEO.CONST",
+        "ncert-sec:MA.C10.GEO.CONST"
       ]
     },
     {
@@ -35878,7 +36159,9 @@
       "assessmentPrompt": "Can {{name}} work out the surface area and volume of solids like a cylinder or cone using the right formulae?",
       "standards": [
         "nios-sec-2020:211.M4.L21",
-        "ncert-elem:M.C8.MEN"
+        "ncert-elem:M.C8.MEN",
+        "ncert-sec:MA.C9.MEN",
+        "ncert-sec:MA.C10.MEN.SOLID"
       ]
     },
     {
@@ -35898,7 +36181,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what trigonometry is about — the link between the sides and angles of a right-angled triangle?",
       "standards": [
-        "nios-sec-2020:211.M5.L22"
+        "nios-sec-2020:211.M5.L22",
+        "ncert-sec:MA.C10.TRIG"
       ]
     },
     {
@@ -35918,7 +36202,8 @@
       ],
       "assessmentPrompt": "Can {{name}} use sine, cosine and tangent to find a missing side of a right-angled triangle?",
       "standards": [
-        "nios-sec-2020:211.M5.L23"
+        "nios-sec-2020:211.M5.L23",
+        "ncert-sec:MA.C10.TRIG"
       ]
     },
     {
@@ -35938,7 +36223,9 @@
       ],
       "assessmentPrompt": "Can {{name}} find the median and mode of a set of numbers, and explain how they differ from the mean?",
       "standards": [
-        "nios-sec-2020:211.M6.L25"
+        "nios-sec-2020:211.M6.L25",
+        "ncert-sec:MA.C9.STAT",
+        "ncert-sec:MA.C10.STAT"
       ]
     },
     {
@@ -35959,7 +36246,8 @@
       "assessmentPrompt": "Can {{name}} explain that everything is made of atoms, and the difference between an element and a compound?",
       "standards": [
         "nios-sec-2020:212.M2.L3",
-        "ncert-elem:SCI.MAT"
+        "ncert-elem:SCI.MAT",
+        "ncert-sec:SCI.C9.MAT.ATOM"
       ]
     },
     {
@@ -35979,7 +36267,8 @@
       ],
       "assessmentPrompt": "Can {{name}} describe what an atom is made of — protons, neutrons and electrons — and how they are arranged?",
       "standards": [
-        "nios-sec-2020:212.M2.L5"
+        "nios-sec-2020:212.M2.L5",
+        "ncert-sec:SCI.C9.MAT.STRUCT"
       ]
     },
     {
@@ -35999,7 +36288,8 @@
       ],
       "assessmentPrompt": "Can {{name}} balance a simple chemical equation, and explain why the atoms must match on both sides?",
       "standards": [
-        "nios-sec-2020:212.M2.L4"
+        "nios-sec-2020:212.M2.L4",
+        "ncert-sec:SCI.C9.MAT.ATOM"
       ]
     },
     {
@@ -36020,7 +36310,9 @@
       "assessmentPrompt": "Can {{name}} explain how atoms bond — by sharing or transferring electrons — to make compounds?",
       "standards": [
         "nios-sec-2020:212.M2.L7",
-        "ncert-elem:SCI.MAT"
+        "ncert-elem:SCI.MAT",
+        "ncert-sec:SCI.C10.MAT.METAL",
+        "ncert-sec:SCI.C10.MAT.CARBON"
       ]
     },
     {
@@ -36041,7 +36333,8 @@
       "assessmentPrompt": "Can {{name}} describe how fast something moves — using speed and velocity — and read a distance-time graph?",
       "standards": [
         "nios-sec-2020:212.M3.L9",
-        "ncert-elem:SCI.MOV"
+        "ncert-elem:SCI.MOV",
+        "ncert-sec:SCI.C9.MOV.MOTION"
       ]
     },
     {
@@ -36062,7 +36355,8 @@
       "assessmentPrompt": "Can {{name}} explain Newton’s laws of motion — including that force equals mass times acceleration?",
       "standards": [
         "nios-sec-2020:212.M3.L10",
-        "ncert-elem:SCI.MOV"
+        "ncert-elem:SCI.MOV",
+        "ncert-sec:SCI.C9.MOV.FORCE"
       ]
     },
     {
@@ -36083,7 +36377,8 @@
       "assessmentPrompt": "Can {{name}} explain what \"work\" means in science, and how it relates to energy and power?",
       "standards": [
         "nios-sec-2020:212.M4.L13",
-        "ncert-elem:SCI.WORK"
+        "ncert-elem:SCI.WORK",
+        "ncert-sec:SCI.C9.MOV.WEP"
       ]
     },
     {
@@ -36104,7 +36399,8 @@
       "assessmentPrompt": "Can {{name}} explain how hormones act as chemical messengers to control things like growth, working alongside the nervous system?",
       "standards": [
         "nios-sec-2020:212.M5.L23",
-        "ncert-elem:SCI.LIV"
+        "ncert-elem:SCI.LIV",
+        "ncert-sec:SCI.C10.LIV.CONTROL"
       ]
     },
     {
@@ -36125,7 +36421,10 @@
       "assessmentPrompt": "Can {{name}} explain some of the big changes that made the modern world — revolutions, industrialisation, the world wars, and nations winning independence?",
       "standards": [
         "nios-sec-2020:213.M1.L3",
-        "nios-sec-2020:213.M1.L4"
+        "nios-sec-2020:213.M1.L4",
+        "ncert-sec:HIS.C9.FR",
+        "ncert-sec:HIS.C10.EURNAT",
+        "ncert-sec:HIS.C10.INDUS"
       ]
     },
     {
@@ -36145,7 +36444,8 @@
       ],
       "assessmentPrompt": "Can {{name}} describe a challenge facing India’s democracy and explain how citizens can help address it?",
       "standards": [
-        "nios-sec-2020:213.M4.L23"
+        "nios-sec-2020:213.M4.L23",
+        "ncert-sec:POL.C10.CHALLENGE"
       ]
     },
     {
@@ -36186,7 +36486,8 @@
       "assessmentPrompt": "Can {{name}} explain what economics studies — how people make choices because resources are limited but wants are not?",
       "standards": [
         "nios-sec-2020:214.M1.L1",
-        "nios-sec-2020:214.M2.L4"
+        "nios-sec-2020:214.M2.L4",
+        "ncert-sec:ECO.C9.PALAM"
       ]
     },
     {
@@ -36207,7 +36508,9 @@
       "assessmentPrompt": "Can {{name}} explain the three big questions every economy must answer — what, how and for whom to produce?",
       "standards": [
         "nios-sec-2020:214.M2.L5",
-        "nios-sec-2020:214.M2.L6"
+        "nios-sec-2020:214.M2.L6",
+        "ncert-sec:ECO.C9.PALAM",
+        "ncert-sec:ECO.C10.DEV"
       ]
     },
     {
@@ -36227,7 +36530,8 @@
       ],
       "assessmentPrompt": "Can {{name}} name the four things needed to produce anything — land, labour, capital and enterprise — and what each does?",
       "standards": [
-        "nios-sec-2020:214.M3.L7"
+        "nios-sec-2020:214.M3.L7",
+        "ncert-sec:ECO.C9.PALAM"
       ]
     },
     {
@@ -36247,7 +36551,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what \"demand\" means and why people usually buy more of something when its price falls?",
       "standards": [
-        "nios-sec-2020:214.M4.L9"
+        "nios-sec-2020:214.M4.L9",
+        "ncert-sec:ECO.C10.CONSUMER"
       ]
     },
     {
@@ -36287,7 +36592,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how the price of something is set by demand and supply meeting in a market?",
       "standards": [
-        "nios-sec-2020:214.M4.L11"
+        "nios-sec-2020:214.M4.L11",
+        "ncert-sec:ECO.C10.CONSUMER"
       ]
     },
     {
@@ -36329,7 +36635,8 @@
       "standards": [
         "nios-sec-2020:214.M7.L19",
         "nios-sec-2020:214.M7.L21",
-        "nios-sec-2020:214.M7.L22"
+        "nios-sec-2020:214.M7.L22",
+        "ncert-sec:ECO.C10.DEV"
       ]
     },
     {
@@ -36349,7 +36656,8 @@
       ],
       "assessmentPrompt": "Can {{name}} sort economic activities into the primary, secondary and tertiary sectors, and explain what each is?",
       "standards": [
-        "nios-sec-2020:214.M7.L20"
+        "nios-sec-2020:214.M7.L20",
+        "ncert-sec:ECO.C10.SERVICE"
       ]
     },
     {
@@ -36370,7 +36678,8 @@
       "assessmentPrompt": "Can {{name}} write a formal letter, application or notice in the right format for its purpose?",
       "standards": [
         "nios-sec-2020:202.WRT",
-        "ncert-elem:ENG.C68.WRT"
+        "ncert-elem:ENG.C68.WRT",
+        "ncert-sec:ENG.C910.WRITE"
       ]
     },
     {
@@ -36391,7 +36700,8 @@
       "assessmentPrompt": "Can {{name}} read a passage and make clear notes on its main points, and write a short summary in their own words?",
       "standards": [
         "nios-sec-2020:202.STU",
-        "ncert-elem:ENG.C68.RDG"
+        "ncert-elem:ENG.C68.RDG",
+        "ncert-sec:ENG.C910.WRITE"
       ]
     },
     {
@@ -36412,7 +36722,9 @@
       "assessmentPrompt": "Can {{name}} take part in a discussion or give a short prepared talk, using language suited to a formal setting?",
       "standards": [
         "nios-sec-2020:202.SPK",
-        "ncert-elem:ENG.C68.LSN"
+        "ncert-elem:ENG.C68.LSN",
+        "ncert-sec:ENG.C910.SPEAK",
+        "ncert-sec:ENG.C910.LISTEN"
       ]
     },
     {
@@ -37415,7 +37727,9 @@
       ],
       "assessmentPrompt": "Can {{name}} explain some of the revolutions — scientific, political and industrial — that made the modern world?",
       "standards": [
-        "nios-sec-2020:213.M1.L3"
+        "nios-sec-2020:213.M1.L3",
+        "ncert-sec:HIS.C9.FR",
+        "ncert-sec:HIS.C9.RR"
       ]
     },
     {
@@ -37435,7 +37749,9 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how the world wars and the freeing of colonised nations reshaped the twentieth-century world?",
       "standards": [
-        "nios-sec-2020:213.M1.L4"
+        "nios-sec-2020:213.M1.L4",
+        "ncert-sec:HIS.C9.NAZI",
+        "ncert-sec:HIS.C10.INDOCHINA"
       ]
     },
     {
@@ -37455,7 +37771,9 @@
       ],
       "assessmentPrompt": "Can {{name}} name and explain a major challenge the Indian economy faces, like poverty or unemployment?",
       "standards": [
-        "nios-sec-2020:214.M7.L21"
+        "nios-sec-2020:214.M7.L21",
+        "ncert-sec:ECO.C10.DEV",
+        "ncert-sec:ECO.C9.POVERTY"
       ]
     },
     {
@@ -37475,7 +37793,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how India trades with the rest of the world, and the opportunities and risks that brings?",
       "standards": [
-        "nios-sec-2020:214.M7.L22"
+        "nios-sec-2020:214.M7.L22",
+        "ncert-sec:ECO.C10.GLOBAL"
       ]
     },
     {
@@ -37698,7 +38017,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that the medians (or altitudes) of a triangle all meet at a single point?",
       "standards": [
-        "nios-sec-2020:211.M3.L12"
+        "nios-sec-2020:211.M3.L12",
+        "ncert-sec:MA.C9.GEO.TRI"
       ]
     },
     {
@@ -37720,7 +38040,8 @@
       "standards": [
         "nios-sec-2020:201.LSN",
         "ncert-elem:HIN.C12.ORAL",
-        "ncert-elem:HIN.C35.ORAL"
+        "ncert-elem:HIN.C35.ORAL",
+        "ncert-sec:HIN.C910.SKILLS"
       ]
     },
     {
@@ -37742,7 +38063,8 @@
       "standards": [
         "nios-sec-2020:201.SPK",
         "ncert-elem:HIN.C12.ORAL",
-        "ncert-elem:HIN.C35.ORAL"
+        "ncert-elem:HIN.C35.ORAL",
+        "ncert-sec:HIN.C910.SKILLS"
       ]
     },
     {
@@ -37763,7 +38085,9 @@
       "assessmentPrompt": "Can {{name}} read a Hindi story or essay with understanding — including a passage they have never seen before?",
       "standards": [
         "nios-sec-2020:201.RDG.G",
-        "ncert-elem:HIN.C35.RDG"
+        "ncert-elem:HIN.C35.RDG",
+        "ncert-sec:HIN.C910.SKILLS",
+        "ncert-sec:HIN.C910.LIT"
       ]
     },
     {
@@ -37784,7 +38108,8 @@
       "assessmentPrompt": "Can {{name}} read a Hindi poem — old or modern — and explain its central feeling and what the poet is expressing?",
       "standards": [
         "nios-sec-2020:201.RDG.K",
-        "ncert-elem:HIN.C35.RDG"
+        "ncert-elem:HIN.C35.RDG",
+        "ncert-sec:HIN.C910.LIT"
       ]
     },
     {
@@ -37805,7 +38130,8 @@
       "assessmentPrompt": "Can {{name}} write a proper formal letter or short news report in Hindi, using the right format and tone?",
       "standards": [
         "nios-sec-2020:201.WRT.P",
-        "ncert-elem:HIN.C35.WRT"
+        "ncert-elem:HIN.C35.WRT",
+        "ncert-sec:HIN.C910.PRACTICAL"
       ]
     },
     {
@@ -37826,7 +38152,8 @@
       "assessmentPrompt": "Can {{name}} summarise a Hindi passage in their own words, and write an organised essay giving their own thoughts?",
       "standards": [
         "nios-sec-2020:201.WRT.E",
-        "ncert-elem:HIN.C35.WRT"
+        "ncert-elem:HIN.C35.WRT",
+        "ncert-sec:HIN.C910.PRACTICAL"
       ]
     },
     {
@@ -37847,7 +38174,9 @@
       "assessmentPrompt": "Can {{name}} break a Hindi word into its parts — prefix, root, suffix — and work with sandhi and samas?",
       "standards": [
         "nios-sec-2020:201.GRM",
-        "ncert-elem:HIN.C5.GRM"
+        "ncert-elem:HIN.C5.GRM",
+        "ncert-sec:HIN.C9.GRAM",
+        "ncert-sec:HIN.C10.GRAM"
       ]
     },
     {
@@ -37868,7 +38197,9 @@
       "assessmentPrompt": "Can {{name}} tell where Hindi words come from — Sanskrit, evolved, local or borrowed — and use synonyms, antonyms and one-word substitutions?",
       "standards": [
         "nios-sec-2020:201.GRM",
-        "ncert-elem:HIN.C5.GRM"
+        "ncert-elem:HIN.C5.GRM",
+        "ncert-sec:HIN.C910.GRAMPTS",
+        "ncert-sec:HIN.C9.GRAM"
       ]
     },
     {
@@ -37890,7 +38221,9 @@
       "standards": [
         "nios-sec-2020:201.GRM",
         "ncert-elem:HIN.C4.GRM",
-        "ncert-elem:HIN.C5.GRM"
+        "ncert-elem:HIN.C5.GRM",
+        "ncert-sec:HIN.C10.GRAM",
+        "ncert-sec:HIN.C910.GRAMPTS"
       ]
     },
     {
@@ -37911,7 +38244,9 @@
       "assessmentPrompt": "Can {{name}} explain and correctly use common Hindi idioms and proverbs?",
       "standards": [
         "nios-sec-2020:201.GRM",
-        "ncert-elem:HIN.C5.GRM"
+        "ncert-elem:HIN.C5.GRM",
+        "ncert-sec:HIN.C9.GRAM",
+        "ncert-sec:HIN.C10.GRAM"
       ]
     },
     {
@@ -37932,7 +38267,8 @@
       "assessmentPrompt": "Can {{name}} recognise the common Hindi verse forms — like the doha — and tell metrical poetry from free verse?",
       "standards": [
         "nios-sec-2020:201.GRM",
-        "nios-sec-2020:201.RDG.K"
+        "nios-sec-2020:201.RDG.K",
+        "ncert-sec:HIN.C910.LIT"
       ]
     },
     {
@@ -37953,7 +38289,8 @@
       "assessmentPrompt": "Can {{name}} spot figures of speech in Hindi poetry — telling a simile from a metaphor — and explain their effect?",
       "standards": [
         "nios-sec-2020:201.GRM",
-        "nios-sec-2020:201.RDG.K"
+        "nios-sec-2020:201.RDG.K",
+        "ncert-sec:HIN.C910.LIT"
       ]
     },
     {
@@ -37973,7 +38310,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain the different public roles Hindi plays in India — official, national and link language?",
       "standards": [
-        "nios-sec-2020:201.GRM"
+        "nios-sec-2020:201.GRM",
+        "ncert-sec:HIN.C910.MEDIA"
       ]
     },
     {
@@ -37994,7 +38332,8 @@
       "assessmentPrompt": "Can {{name}} follow simple spoken Sanskrit — hearing the special sounds correctly — and respond to it?",
       "standards": [
         "nios-sec-2020:209.LSN",
-        "ncert-elem:SKT.C6.SKL"
+        "ncert-elem:SKT.C6.SKL",
+        "ncert-sec:SAN.C910.SHRAVANA"
       ]
     },
     {
@@ -38016,7 +38355,10 @@
       "standards": [
         "nios-sec-2020:209.VAC",
         "ncert-elem:SKT.C6.SKL",
-        "ncert-elem:SKT.C7.SKL"
+        "ncert-elem:SKT.C7.SKL",
+        "ncert-sec:SAN.C910.BHASHANA",
+        "ncert-sec:SAN.C910.PATHANA",
+        "ncert-sec:SAN.C9.VARNA"
       ]
     },
     {
@@ -38039,7 +38381,8 @@
         "nios-sec-2020:209.RDG",
         "nios-sec-2020:209.CMP",
         "ncert-elem:SKT.C7.SKL",
-        "ncert-elem:SKT.C8.SKL"
+        "ncert-elem:SKT.C8.SKL",
+        "ncert-sec:SAN.C910.PATHANA"
       ]
     },
     {
@@ -38059,7 +38402,9 @@
       ],
       "assessmentPrompt": "Can {{name}} talk about the Sanskrit texts they have studied — the work, its author, its gist and its characters?",
       "standards": [
-        "nios-sec-2020:209.TXT"
+        "nios-sec-2020:209.TXT",
+        "ncert-sec:SAN.C910.PATHANA",
+        "ncert-sec:SAN.C910.LEKHANA"
       ]
     },
     {
@@ -38082,7 +38427,9 @@
         "nios-sec-2020:209.WRT",
         "nios-sec-2020:209.CMP",
         "ncert-elem:SKT.C7.SKL",
-        "ncert-elem:SKT.C8.SKL"
+        "ncert-elem:SKT.C8.SKL",
+        "ncert-sec:SAN.C910.LEKHANA",
+        "ncert-sec:SAN.C9.RACHANA"
       ]
     },
     {
@@ -38103,7 +38450,9 @@
       "assessmentPrompt": "Can {{name}} join and split Sanskrit words using sandhi — vowel, consonant and visarga?",
       "standards": [
         "nios-sec-2020:209.GRM.1",
-        "ncert-elem:SKT.C8.GRM"
+        "ncert-elem:SKT.C8.GRM",
+        "ncert-sec:SAN.C9.SANDHI",
+        "ncert-sec:SAN.C10.SANDHI"
       ]
     },
     {
@@ -38126,7 +38475,9 @@
         "nios-sec-2020:209.GRM.2",
         "ncert-elem:SKT.C6.GRM",
         "ncert-elem:SKT.C7.GRM",
-        "ncert-elem:SKT.C8.GRM"
+        "ncert-elem:SKT.C8.GRM",
+        "ncert-sec:SAN.C9.SHABDA",
+        "ncert-sec:SAN.C10.SHABDA"
       ]
     },
     {
@@ -38149,7 +38500,9 @@
         "nios-sec-2020:209.GRM.3",
         "ncert-elem:SKT.C6.GRM",
         "ncert-elem:SKT.C7.GRM",
-        "ncert-elem:SKT.C8.GRM"
+        "ncert-elem:SKT.C8.GRM",
+        "ncert-sec:SAN.C9.DHATU",
+        "ncert-sec:SAN.C10.DHATU"
       ]
     },
     {
@@ -38169,7 +38522,9 @@
       ],
       "assessmentPrompt": "Can {{name}} recognise the kinds of Sanskrit compounds and split one apart to show its meaning?",
       "standards": [
-        "nios-sec-2020:209.GRM.4"
+        "nios-sec-2020:209.GRM.4",
+        "ncert-sec:SAN.C9.SAMASA",
+        "ncert-sec:SAN.C10.SAMASA"
       ]
     },
     {
@@ -38191,7 +38546,9 @@
       "standards": [
         "nios-sec-2020:209.GRM.5",
         "ncert-elem:SKT.C7.GRM",
-        "ncert-elem:SKT.C8.GRM"
+        "ncert-elem:SKT.C8.GRM",
+        "ncert-sec:SAN.C9.PRATYAYA",
+        "ncert-sec:SAN.C10.PRATYAYA"
       ]
     },
     {
@@ -38213,7 +38570,9 @@
       "standards": [
         "nios-sec-2020:209.GRM.6",
         "ncert-elem:SKT.C7.GRM",
-        "ncert-elem:SKT.C8.GRM"
+        "ncert-elem:SKT.C8.GRM",
+        "ncert-sec:SAN.C9.KARAKA",
+        "ncert-sec:SAN.C10.KARAKA"
       ]
     },
     {
@@ -38236,7 +38595,9 @@
         "nios-sec-2020:209.GRM.7",
         "ncert-elem:SKT.C6.GRM",
         "ncert-elem:SKT.C7.GRM",
-        "ncert-elem:SKT.C8.GRM"
+        "ncert-elem:SKT.C8.GRM",
+        "ncert-sec:SAN.C9.UPASARGA",
+        "ncert-sec:SAN.C10.AVYAYA"
       ]
     },
     {
@@ -38496,7 +38857,8 @@
       ],
       "assessmentPrompt": "Can {{name}} not just apply vowel sandhi but explain which rule produces the change?",
       "standards": [
-        "nios-sec-2020:246.C2"
+        "nios-sec-2020:246.C2",
+        "ncert-sec:SAN.C9.SANDHI"
       ]
     },
     {
@@ -38516,7 +38878,8 @@
       ],
       "assessmentPrompt": "Can {{name}} derive consonant and visarga sandhi changes from the rules that govern them?",
       "standards": [
-        "nios-sec-2020:246.C2"
+        "nios-sec-2020:246.C2",
+        "ncert-sec:SAN.C10.SANDHI"
       ]
     },
     {
@@ -38536,7 +38899,8 @@
       ],
       "assessmentPrompt": "Can {{name}} derive the case forms of words like राम and नदी from the rules, step by step?",
       "standards": [
-        "nios-sec-2020:246.C3"
+        "nios-sec-2020:246.C3",
+        "ncert-sec:SAN.C9.SHABDA"
       ]
     },
     {
@@ -38556,7 +38920,8 @@
       ],
       "assessmentPrompt": "Can {{name}} work out the trickier declensions — words like राजन् and the pronouns — by rule?",
       "standards": [
-        "nios-sec-2020:246.C3"
+        "nios-sec-2020:246.C3",
+        "ncert-sec:SAN.C10.SHABDA"
       ]
     },
     {
@@ -38576,7 +38941,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how Panini defines the roles in a sentence, and pick cases by those definitions?",
       "standards": [
-        "nios-sec-2020:246.C4"
+        "nios-sec-2020:246.C4",
+        "ncert-sec:SAN.C10.KARAKA"
       ]
     },
     {
@@ -38596,7 +38962,8 @@
       ],
       "assessmentPrompt": "Can {{name}} spot the words that force a particular case ending, and use those rules correctly?",
       "standards": [
-        "nios-sec-2020:246.C4"
+        "nios-sec-2020:246.C4",
+        "ncert-sec:SAN.C10.KARAKA"
       ]
     },
     {
@@ -38616,7 +38983,8 @@
       ],
       "assessmentPrompt": "Can {{name}} derive words like कर्तव्य and गत्वा from their roots using the krt suffix rules?",
       "standards": [
-        "nios-sec-2020:246.C5"
+        "nios-sec-2020:246.C5",
+        "ncert-sec:SAN.C10.PRATYAYA"
       ]
     },
     {
@@ -39261,7 +39629,8 @@
       ],
       "assessmentPrompt": "Can {{name}} unpack a Sanskrit wisdom-verse — rearrange it into prose order and explain what it teaches?",
       "standards": [
-        "nios-sec-2020:248.S1"
+        "nios-sec-2020:248.S1",
+        "ncert-sec:SAN.C910.PATHANA"
       ]
     },
     {
@@ -40835,7 +41204,1297 @@
       "assessmentPrompt": "Can {{name}} spot naming words and action words in Hindi, and match gender and number correctly?",
       "standards": [
         "ncert-elem:HIN.C3.GRM",
-        "ncert-elem:HIN.C4.GRM"
+        "ncert-elem:HIN.C4.GRM",
+        "ncert-sec:HIN.C910.GRAMPTS"
+      ]
+    },
+    {
+      "id": "mt_Bu7762uwDJ",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Polynomials and Their Zeros",
+      "description": "Understand that a polynomial is built from powers of a variable, that its degree names its highest power, and that its zeros are the values making it equal nothing.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names a polynomial as linear, quadratic or cubic from its degree",
+        "Finds the zeros of a simple polynomial by substitution or factorisation",
+        "Explains why a zero of a polynomial is a root of the matching equation"
+      ],
+      "assessmentPrompt": "Give {{name}} the expression x² − 5x + 6 and ask what its degree is and which values of x make it zero.",
+      "standards": [
+        "ncert-sec:MA.C9.ALG.POLY",
+        "ncert-sec:MA.C10.ALG.POLY"
+      ]
+    },
+    {
+      "id": "mt_8v9Csv9GEq",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "The Remainder and Factor Theorems",
+      "description": "Use the remainder theorem to find what is left when a polynomial is divided by a linear factor, and the factor theorem to test whether that factor divides it exactly.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Finds the remainder on dividing a polynomial by (x − a) by evaluating at a",
+        "Tests whether a given linear expression is a factor of a polynomial",
+        "Factorises a cubic polynomial by first finding one zero"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether (x − 2) is a factor of x³ − 3x² + 4, and how they can tell without doing the whole division.",
+      "standards": [
+        "ncert-sec:MA.C9.ALG.POLY",
+        "ncert-sec:MA.C10.ALG.POLY"
+      ]
+    },
+    {
+      "id": "mt_P1k8AQPBWP",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Mathematical Thinking",
+      "name": "Euclid's Axioms and Postulates",
+      "description": "Understand that geometry can be built up from a small set of assumed statements, and that everything else follows from them by reasoning rather than by measurement.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "States the difference between an axiom or postulate and a theorem",
+        "Gives an example of a result proved from stated assumptions",
+        "Explains why assumptions must be listed before anything can be proved"
+      ],
+      "assessmentPrompt": "Ask {{name}} why mathematicians start with statements they simply assume to be true, and what they do with them afterwards.",
+      "standards": [
+        "ncert-sec:MA.C9.GEO.EUCLID"
+      ]
+    },
+    {
+      "id": "mt_p81CubtbEo",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Measurement",
+      "name": "Heron's Formula",
+      "description": "Find the area of a triangle from the lengths of its three sides alone, without knowing the height, and extend this to split quadrilaterals into triangles.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Computes the semi-perimeter and applies the formula correctly",
+        "Finds the area of a triangle given only three side lengths",
+        "Finds the area of a quadrilateral by dividing it into two triangles"
+      ],
+      "assessmentPrompt": "Give {{name}} a triangle with sides 13, 14 and 15 and ask for its area without measuring any height.",
+      "standards": [
+        "ncert-sec:MA.C9.MEN"
+      ]
+    },
+    {
+      "id": "mt_evxFOvZkHE",
+      "type": "META",
+      "subject": "Mathematics",
+      "domain": "Mathematical Thinking",
+      "name": "Proof, Conjecture and Counterexample",
+      "description": "Understand that checking many cases is not proof, that one counterexample disproves a claim, and that a proof argues deductively from what is already accepted.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a conjecture that is merely tested from one that is proved",
+        "Disproves a false general claim by producing a single counterexample",
+        "Writes a short deductive argument with its assumptions stated"
+      ],
+      "assessmentPrompt": "Tell {{name}} that every odd number above one is prime, and ask how they would settle whether that is true.",
+      "standards": [
+        "ncert-sec:MA.C9.PROOF",
+        "ncert-sec:MA.C10.PROOF"
+      ]
+    },
+    {
+      "id": "mt_eBpdA81Td1",
+      "type": "META",
+      "subject": "Mathematics",
+      "domain": "Mathematical Thinking",
+      "name": "Mathematical Modelling",
+      "description": "Turn a real situation into a mathematical problem by making simplifying assumptions, solve it, then check whether the answer makes sense back in the real situation.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "States the simplifying assumptions a model depends on",
+        "Solves the mathematical problem the model produces",
+        "Judges whether the result is reasonable in the original situation"
+      ],
+      "assessmentPrompt": "Ask {{name}} how they would work out how much water their household uses in a year, and what they would have to assume.",
+      "standards": [
+        "ncert-sec:MA.C9.MODEL",
+        "ncert-sec:MA.C10.MODEL"
+      ]
+    },
+    {
+      "id": "mt_zImUoeskII",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Arithmetic Progressions",
+      "description": "Recognise a sequence that grows by a constant difference, find any term of it directly, and add up the first several terms without listing them all.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Identifies the first term and common difference of a progression",
+        "Finds a distant term using the nth-term formula",
+        "Sums the first n terms using the sum formula"
+      ],
+      "assessmentPrompt": "Ask {{name}} for the fiftieth term of 7, 11, 15, 19, … and then for the total of the first fifty terms.",
+      "standards": [
+        "ncert-sec:MA.C10.ALG.AP"
+      ]
+    },
+    {
+      "id": "mt_KcWEqUJyOK",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "The Distance Formula",
+      "description": "Find the straight-line distance between two points from their coordinates, recognising the formula as Pythagoras applied to the horizontal and vertical gaps.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Computes the distance between two points from coordinates",
+        "Explains the formula as Pythagoras on a right triangle",
+        "Uses distances to test whether three points form a particular triangle"
+      ],
+      "assessmentPrompt": "Ask {{name}} how far apart the points (1, 2) and (4, 6) are, and why the method is really Pythagoras.",
+      "standards": [
+        "ncert-sec:MA.C10.CG"
+      ]
+    },
+    {
+      "id": "mt_ZLeDlsxbyZ",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "The Section Formula",
+      "description": "Find the coordinates of the point dividing a line segment in a given ratio, and recognise the midpoint as the special case where that ratio is one to one.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Finds the point dividing a segment in a stated internal ratio",
+        "Derives the midpoint as the equal-ratio case",
+        "Finds the area of a triangle from the coordinates of its vertices"
+      ],
+      "assessmentPrompt": "Ask {{name}} to find the point one third of the way from (0, 0) to (6, 9), and then the midpoint.",
+      "standards": [
+        "ncert-sec:MA.C10.CG"
+      ]
+    },
+    {
+      "id": "mt_VR6AXSjoMQ",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "Similar Triangles and Proportionality",
+      "description": "Understand that similar triangles have equal angles and proportional sides, that a line parallel to one side divides the other two in the same ratio, and that areas scale as the square.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Tests two triangles for similarity using AAA, SSS or SAS",
+        "Applies the basic proportionality theorem to find an unknown length",
+        "Explains why the areas of similar triangles are in the ratio of squared sides"
+      ],
+      "assessmentPrompt": "Show {{name}} a triangle with a line drawn parallel to one side and ask what that line does to the other two sides.",
+      "standards": [
+        "ncert-sec:MA.C10.GEO.SIM"
+      ]
+    },
+    {
+      "id": "mt_JpMHcAdfDF",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Trigonometry",
+      "name": "Heights and Distances",
+      "description": "Use angles of elevation and depression with trigonometric ratios to find heights and distances that cannot be measured directly, such as the height of a tower.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Draws a labelled right triangle from a described situation",
+        "Chooses the correct ratio for the sides involved",
+        "Finds an unmeasurable height from an angle of elevation and a known distance"
+      ],
+      "assessmentPrompt": "Ask {{name}} how they could find the height of a tall building using only a protractor and a tape measure.",
+      "standards": [
+        "ncert-sec:MA.C10.TRIG.HD"
+      ]
+    },
+    {
+      "id": "mt_T74nggt6JZ",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Measurement",
+      "name": "Frustum of a Cone",
+      "description": "Find the surface area and volume of a frustum, the shape left when the top of a cone is sliced off parallel to its base, as in a bucket or a lampshade.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Identifies a frustum and its two radii and slant height",
+        "Computes the volume of a frustum",
+        "Solves a problem combining a frustum with another solid"
+      ],
+      "assessmentPrompt": "Show {{name}} a bucket that is wider at the top than the bottom and ask how they would work out how much it holds.",
+      "standards": [
+        "ncert-sec:MA.C10.MEN.SOLID"
+      ]
+    },
+    {
+      "id": "mt_l9QXa5DYit",
+      "type": "REPRESENTATIONAL",
+      "subject": "Mathematics",
+      "domain": "Data & Statistics",
+      "name": "Cumulative Frequency and the Ogive",
+      "description": "Build a running total of frequencies across grouped data and plot it as a curve, then read the median and other positions directly off that curve.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Builds a cumulative frequency column from a grouped table",
+        "Plots a cumulative frequency curve with correct axes",
+        "Reads the median from the curve and explains why it works"
+      ],
+      "assessmentPrompt": "Give {{name}} a grouped frequency table and ask them to find the median without listing every value.",
+      "standards": [
+        "ncert-sec:MA.C10.STAT"
+      ]
+    },
+    {
+      "id": "mt_GUrpl1wyPZ",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Forces & Motion",
+      "name": "Buoyancy and Archimedes' Principle",
+      "description": "Understand that a fluid pushes up on anything placed in it with a force equal to the weight of fluid displaced, which decides whether an object floats or sinks.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "States that the upward force equals the weight of fluid displaced",
+        "Predicts floating or sinking by comparing densities",
+        "Explains why an object feels lighter when submerged"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a heavy steel ship floats while a small steel nail sinks.",
+      "standards": [
+        "ncert-sec:SCI.C9.MOV.FLOAT"
+      ]
+    },
+    {
+      "id": "mt_ok9HgvTLM0",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "The Mole Concept",
+      "description": "Understand that chemists count particles by weighing, using the mole as a fixed, very large number of particles that links mass to how many atoms are present.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains why chemists need a counting unit for particles",
+        "Converts between mass and number of moles for a given substance",
+        "Relates moles to the number of particles present"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a chemist could work out the number of atoms in a spoonful of sugar without counting them.",
+      "standards": [
+        "ncert-sec:SCI.C9.MAT.ATOM"
+      ]
+    },
+    {
+      "id": "mt_QF7nm0CbQN",
+      "type": "PROCEDURAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Valency and Chemical Formulae",
+      "description": "Understand that each element has a combining capacity called its valency, and use it to work out the formula of a compound formed between two elements.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "States the valency of common elements and radicals",
+        "Writes the formula of a compound from the valencies of its parts",
+        "Explains why elements combine in fixed proportions rather than any ratio"
+      ],
+      "assessmentPrompt": "Ask {{name}} why water is always H₂O and never HO or H₃O.",
+      "standards": [
+        "ncert-sec:SCI.C9.MAT.ATOM"
+      ]
+    },
+    {
+      "id": "mt_90lfoEG1D3",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Waves, Light & Sound",
+      "name": "Echo, Ultrasound and the Range of Hearing",
+      "description": "Understand that sound reflects to produce echoes, that human hearing covers only a limited range of frequencies, and that sound above that range has practical uses.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains an echo as reflected sound arriving later",
+        "States the approximate range of frequencies humans can hear",
+        "Describes a use of ultrasound in medicine or navigation"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a shout in a large empty hall comes back to them, and why a dog whistle sounds silent.",
+      "standards": [
+        "ncert-sec:SCI.C9.MOV.SOUND"
+      ]
+    },
+    {
+      "id": "mt_ngfFzPmRSF",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Organisms & Life Processes",
+      "name": "Tropic Movements and Plant Hormones",
+      "description": "Understand that plants respond to light, gravity and water by growing towards or away from them, and that chemical messengers rather than nerves control this growth.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Names the stimulus behind phototropism, geotropism and hydrotropism",
+        "Predicts which way a root or shoot will bend in a described setup",
+        "Explains that plant responses are controlled by hormones, not nerves"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a plant on a windowsill leans towards the glass, and why its roots still grow downwards.",
+      "standards": [
+        "ncert-sec:SCI.C10.LIV.CONTROL"
+      ]
+    },
+    {
+      "id": "mt_1neoheA9rz",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "The Ancien Régime and Its Crisis",
+      "description": "Understand how French society was divided into privileged and taxed orders, and how debt, food shortage and resentment at privilege combined into a crisis the monarchy could not settle.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Describes how French society was divided before 1789",
+        "Names economic pressures that deepened the crisis",
+        "Explains why the tax burden fell on those least able to bear it"
+      ],
+      "assessmentPrompt": "Ask {{name}} who paid the taxes in France before the revolution and who did not, and why that caused anger.",
+      "standards": [
+        "ncert-sec:HIS.C9.FR"
+      ]
+    },
+    {
+      "id": "mt_BHQQCqiFEN",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "The French Revolution and Its Ideas",
+      "description": "Understand that the revolution was driven by competing groups rather than one united movement, and that it put liberty, equality and citizenship at the centre of political argument.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names the main revolutionary groups and how their aims differed",
+        "Explains what liberty and equality meant to revolutionaries",
+        "Describes how the revolution changed who counted as a citizen"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the revolutionaries in France meant by liberty and equality, and whether everyone got them.",
+      "standards": [
+        "ncert-sec:HIS.C9.FR"
+      ]
+    },
+    {
+      "id": "mt_UQ7fgh94i2",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "The Legacy of the French Revolution",
+      "description": "Understand that the revolution spread ideas of rights, nationhood and popular sovereignty far beyond France, including into colonies where they were used against European rule.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Traces one revolutionary idea into a later movement",
+        "Explains why colonised people found these ideas useful",
+        "Judges what the revolution did and did not change"
+      ],
+      "assessmentPrompt": "Ask {{name}} why ideas from a revolution in France mattered to people living far away from it.",
+      "standards": [
+        "ncert-sec:HIS.C9.FR"
+      ]
+    },
+    {
+      "id": "mt_ANNEemZejo",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "The Crisis of Tsarist Russia",
+      "description": "Understand the conditions of peasants and workers under autocratic Tsarist rule, and how repression and war turned economic hardship into political crisis.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Describes conditions for workers and peasants before 1917",
+        "Explains why 1905 did not end the crisis",
+        "Links the First World War to the collapse of Tsarist authority"
+      ],
+      "assessmentPrompt": "Ask {{name}} why people in Russia turned against the Tsar, and what part the war played.",
+      "standards": [
+        "ncert-sec:HIS.C9.RR"
+      ]
+    },
+    {
+      "id": "mt_yqvNuyxBPS",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "The Russian Revolution of 1917",
+      "description": "Understand that 1917 saw two distinct upheavals — the fall of the monarchy and the Bolshevik seizure of power — driven by demands for bread, land and peace.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes the February and October events of 1917",
+        "States the main demands the revolution rallied around",
+        "Explains how the Bolsheviks came to hold power"
+      ],
+      "assessmentPrompt": "Ask {{name}} what people in Russia were demanding in 1917 and who ended up in charge.",
+      "standards": [
+        "ncert-sec:HIS.C9.RR"
+      ]
+    },
+    {
+      "id": "mt_mfMY8JCDeD",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "The Making of the Soviet State",
+      "description": "Understand how the new Soviet state reorganised land, industry and society along socialist lines, and why the revolution became a model and a warning elsewhere in the world.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Describes changes to land and industry after the revolution",
+        "Explains why socialism attracted support in other countries",
+        "Identifies costs and criticisms of the new state"
+      ],
+      "assessmentPrompt": "Ask {{name}} what changed in Russia after the revolution, and why people elsewhere argued about it.",
+      "standards": [
+        "ncert-sec:HIS.C9.RR"
+      ]
+    },
+    {
+      "id": "mt_83jsEcFp7v",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "The Crisis of Weimar Germany",
+      "description": "Understand how defeat in war, a punishing peace settlement, economic collapse and political instability discredited Germany’s new democracy in the eyes of many of its citizens.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains why the peace settlement was resented in Germany",
+        "Describes the economic crises the Weimar republic faced",
+        "Links these pressures to falling support for democracy"
+      ],
+      "assessmentPrompt": "Ask {{name}} why many Germans lost faith in their democratic government in the 1920s and 1930s.",
+      "standards": [
+        "ncert-sec:HIS.C9.NAZI"
+      ]
+    },
+    {
+      "id": "mt_5ktQETuHGh",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "Hitler’s Rise to Power",
+      "description": "Understand that the Nazis came to power through a mix of electoral politics, promises to a desperate population, propaganda and the dismantling of democratic safeguards.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Describes how the Nazis used elections and propaganda",
+        "Explains what the Nazis promised different groups",
+        "Identifies the steps by which democratic checks were removed"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a party could take power legally and then end the very system that let it in.",
+      "standards": [
+        "ncert-sec:HIS.C9.NAZI"
+      ]
+    },
+    {
+      "id": "mt_jLjr9TOFxf",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "The Ideology and Impact of Nazism",
+      "description": "Understand that Nazi ideology ranked human beings by supposed race, and that this belief led directly to persecution, war and the systematic murder of millions.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains the racial ranking at the heart of Nazi ideology",
+        "Describes how that ideology shaped policy towards targeted groups",
+        "Uses evidence to explain how ordinary life enabled persecution"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the Nazis believed about people they considered different, and where that belief led.",
+      "standards": [
+        "ncert-sec:HIS.C9.NAZI"
+      ]
+    },
+    {
+      "id": "mt_lzYEu83lEc",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "Pastoralism as a Way of Life",
+      "description": "Understand that pastoral communities move their herds with the seasons to use scattered grazing, and that this mobility is a skilled response to a difficult environment.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains why pastoralists move seasonally",
+        "Describes how pastoralists use land that farmers cannot",
+        "Compares two pastoral communities in different regions"
+      ],
+      "assessmentPrompt": "Ask {{name}} why some communities keep moving with their animals instead of settling in one place.",
+      "standards": [
+        "ncert-sec:HIS.C9.PAST"
+      ]
+    },
+    {
+      "id": "mt_h6fWxal2a9",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "Pastoralists under Colonial Rule",
+      "description": "Understand how colonial land laws, fixed borders, forest reservation and expanding cultivation shrank grazing land and made pastoral life far harder to sustain.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names colonial measures that restricted grazing land",
+        "Explains how borders disrupted seasonal movement",
+        "Describes how pastoralists adapted or were forced to change"
+      ],
+      "assessmentPrompt": "Ask {{name}} what happens to herders when the open land they depend on is fenced, taxed or reserved.",
+      "standards": [
+        "ncert-sec:HIS.C9.PAST"
+      ]
+    },
+    {
+      "id": "mt_vbQKjtvNn8",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "Forest Societies under Colonial Rule",
+      "description": "Understand that colonial scientific forestry reclassified forests as timber resources, criminalising the shifting cultivation, grazing and gathering that forest communities lived by.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains what colonial scientific forestry set out to do",
+        "Describes how forest laws changed daily life for forest communities",
+        "Uses a specific revolt to show how communities resisted"
+      ],
+      "assessmentPrompt": "Ask {{name}} what changed for people living in a forest when the government decided the trees were its property.",
+      "standards": [
+        "ncert-sec:HIS.C9.FOREST"
+      ]
+    },
+    {
+      "id": "mt_k3G4HvA0Gu",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "Peasants, Farmers and Agrarian Change",
+      "description": "Understand that farming took very different forms across the modern world, and that large-scale commercial agriculture, small peasant holdings and shifting cultivation followed different logics.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Contrasts large-scale commercial farming with peasant farming",
+        "Explains why colonial demand reshaped what farmers grew",
+        "Describes a consequence of agrarian change for rural people"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a farmer might be made to grow a crop they cannot eat.",
+      "standards": [
+        "ncert-sec:HIS.C9.FARM"
+      ]
+    },
+    {
+      "id": "mt_dBWSFQysss",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "Sport, Colonialism and Nationalism",
+      "description": "Understand that a sport carries a history of power, and that cricket spread through the empire as a marker of status before being reclaimed as a vehicle for national pride.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains how cricket spread through colonial rule",
+        "Describes how the game reflected social hierarchy",
+        "Explains how sporting success became a nationalist claim"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a game brought by rulers could end up being a source of pride against them.",
+      "standards": [
+        "ncert-sec:HIS.C9.CRICKET"
+      ]
+    },
+    {
+      "id": "mt_IgoyHitw8p",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "Clothing and Cultural Identity",
+      "description": "Understand that what people wear has been regulated, contested and politicised, and that in colonial India cloth became a deliberate statement of self-reliance and resistance.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Gives an example of clothing being regulated or contested",
+        "Explains why khadi carried political meaning",
+        "Links a change in dress to a wider social change"
+      ],
+      "assessmentPrompt": "Ask {{name}} why choosing what cloth to wear could count as a political act in colonial India.",
+      "standards": [
+        "ncert-sec:HIS.C9.CLOTH"
+      ]
+    },
+    {
+      "id": "mt_VfEzd2k0qm",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "Nationalism in Nineteenth-Century Europe",
+      "description": "Understand how the idea that a people sharing language and culture should form one state reorganised Europe into nation states, and how that idea was spread and resisted.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains what made a group think of itself as a nation",
+        "Describes how nation states were formed in Italy or Germany",
+        "Identifies who was excluded by nationalist definitions"
+      ],
+      "assessmentPrompt": "Ask {{name}} what makes a group of people decide they are one nation that deserves its own country.",
+      "standards": [
+        "ncert-sec:HIS.C10.EURNAT"
+      ]
+    },
+    {
+      "id": "mt_MZLPNK1gYd",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "Anti-Colonial Nationalism Compared",
+      "description": "Understand that nationalism in colonised countries was directed against foreign rule rather than towards unifying a state, and that Indo-China and India took different paths to it.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes European nationalism from anti-colonial nationalism",
+        "Outlines the phases of the struggle in Indo-China",
+        "Compares that struggle with the Indian movement"
+      ],
+      "assessmentPrompt": "Ask {{name}} how wanting independence from a foreign ruler differs from wanting to unite scattered states.",
+      "standards": [
+        "ncert-sec:HIS.C10.INDOCHINA",
+        "ncert-sec:HIS.C10.EURNAT"
+      ]
+    },
+    {
+      "id": "mt_TgwyJZNdub",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern India",
+      "name": "Non-Cooperation and the Khilafat Movement",
+      "description": "Understand how the years after the First World War brought a mass movement that withdrew cooperation from colonial institutions and briefly joined Hindu and Muslim political causes.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains what non-cooperation asked ordinary people to do",
+        "Describes how the Khilafat issue broadened the movement",
+        "Identifies why the movement was called off"
+      ],
+      "assessmentPrompt": "Ask {{name}} how refusing to attend a school or court could put pressure on a government.",
+      "standards": [
+        "ncert-sec:HIS.C10.INDNAT"
+      ]
+    },
+    {
+      "id": "mt_fdcwmJM9aA",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern India",
+      "name": "Civil Disobedience and the Salt Satyagraha",
+      "description": "Understand that breaking an unjust law deliberately and publicly, as with the salt tax, turned a everyday necessity into a symbol that drew millions into the freedom movement.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains why salt was chosen as the target",
+        "Describes how civil disobedience differed from non-cooperation",
+        "Names groups whose participation widened the movement"
+      ],
+      "assessmentPrompt": "Ask {{name}} why making salt from seawater was treated as a crime, and why that made it powerful.",
+      "standards": [
+        "ncert-sec:HIS.C10.INDNAT"
+      ]
+    },
+    {
+      "id": "mt_l5qTBqqvyr",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern India",
+      "name": "Peasants, Workers and Tribals in the Freedom Movement",
+      "description": "Understand that different groups joined the national movement for their own reasons — rent, wages, forest rights — so the movement was never a single unified programme.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Names grievances that drew peasants or workers in",
+        "Explains why participants interpreted the movement differently",
+        "Gives an example of tension within the movement"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a farmer and a factory worker might both join the freedom movement but want different things.",
+      "standards": [
+        "ncert-sec:HIS.C10.INDNAT"
+      ]
+    },
+    {
+      "id": "mt_Hgvfb0bikp",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "Industrialisation in Britain and India",
+      "description": "Understand that industrialisation followed opposite paths in the imperial centre and the colony: factory growth in Britain alongside the decline of Indian handicrafts.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Contrasts industrial growth in Britain with its effect in India",
+        "Explains what happened to Indian handloom weavers",
+        "Describes the relationship between handicraft and factory production"
+      ],
+      "assessmentPrompt": "Ask {{name}} why factories growing in one country could put weavers out of work in another.",
+      "standards": [
+        "ncert-sec:HIS.C10.INDUS"
+      ]
+    },
+    {
+      "id": "mt_94XOuqrnfz",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "The Livelihoods of Industrial Workers",
+      "description": "Understand that industrial work brought long hours, insecure employment and crowded living conditions, and that formal and informal sectors offered very different protections.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describes working conditions in early industry",
+        "Distinguishes formal from informal sector work",
+        "Explains how workers organised to improve conditions"
+      ],
+      "assessmentPrompt": "Ask {{name}} what life was like for someone who left a village to work in an early factory.",
+      "standards": [
+        "ncert-sec:HIS.C10.INDUS"
+      ]
+    },
+    {
+      "id": "mt_avqNv6KioH",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "Urbanisation and Urban Life",
+      "description": "Understand that industrial cities grew through migration, producing new social classes, new problems of housing and sanitation, and new forms of city life.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains what drew migrants to growing cities",
+        "Describes social divisions within an industrial city",
+        "Compares urban growth in two different cities"
+      ],
+      "assessmentPrompt": "Ask {{name}} why cities grew so fast when factories arrived, and what problems that created.",
+      "standards": [
+        "ncert-sec:HIS.C10.URBAN"
+      ]
+    },
+    {
+      "id": "mt_SKpZLnpmbe",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "Trade, Globalisation and the World Economy",
+      "description": "Understand that the world market was integrated long before the present day, that the wars and depression interrupted it, and that globalisation affects different groups very unequally.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains how the world market integrated in the nineteenth century",
+        "Describes how the wars and depression disrupted trade",
+        "Identifies who gains and who loses from globalisation"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether the world becoming more connected has been good for everybody equally.",
+      "standards": [
+        "ncert-sec:HIS.C10.GLOBAL"
+      ]
+    },
+    {
+      "id": "mt_8MN7mTlTg3",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "Print Culture and the Nation",
+      "description": "Understand that cheap printing let ideas circulate beyond the powerful, creating a reading public, public debate and a press that both colonial rulers and nationalists tried to control.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains how print changed who could access ideas",
+        "Describes the growth of the press in colonial India",
+        "Explains why governments tried to censor print"
+      ],
+      "assessmentPrompt": "Ask {{name}} why rulers have so often been nervous about cheap printing presses.",
+      "standards": [
+        "ncert-sec:HIS.C10.PRINT"
+      ]
+    },
+    {
+      "id": "mt_eOm8V5MUM5",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern World",
+      "name": "The Novel and Modern Society",
+      "description": "Understand that the novel emerged with print and a reading middle class, and that it gave ordinary lives, social reform and national imagination a new kind of public voice.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains what social conditions the novel emerged from",
+        "Describes what early Indian novels wrote about",
+        "Explains how fiction can carry social or political argument"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a made-up story can tell us about the real society that produced it.",
+      "standards": [
+        "ncert-sec:HIS.C10.NOVEL"
+      ]
+    },
+    {
+      "id": "mt_GJIjtgZSZP",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "Resource Classification and Planning",
+      "description": "Understand that resources are classified by origin, ownership and how quickly they renew, and that planning matters because they are unevenly spread and can be used up.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Classifies a given resource by origin and by renewability",
+        "Explains why resources are distributed unevenly across India",
+        "Argues why resource planning is necessary rather than optional"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a country would need a plan for its resources rather than simply using what it finds.",
+      "standards": [
+        "ncert-sec:GEO.C10.RES"
+      ]
+    },
+    {
+      "id": "mt_0cDJP7Fwwm",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "Soil Types and Land Degradation",
+      "description": "Understand that soil forms slowly from rock, climate and living things, that India has distinct soil types, and that careless land use degrades soil far faster than it can rebuild.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Names major Indian soil types and where they occur",
+        "Explains one human cause of land degradation",
+        "Describes a conservation measure and why it works"
+      ],
+      "assessmentPrompt": "Ask {{name}} how long soil takes to form compared with how quickly it can be washed away.",
+      "standards": [
+        "ncert-sec:GEO.C10.LAND"
+      ]
+    },
+    {
+      "id": "mt_60NMkDEKSh",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "Water Scarcity and Rainwater Harvesting",
+      "description": "Understand that water scarcity can arise even where rainfall is high, because of demand, pollution and uneven access, and that harvesting rainwater is a long-standing local response.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains how scarcity can occur despite plentiful rainfall",
+        "Describes a traditional or modern rainwater harvesting method",
+        "Weighs an argument for and against a large multi-purpose dam"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a place that gets heavy monsoon rain can still run short of water.",
+      "standards": [
+        "ncert-sec:GEO.C10.WATER"
+      ]
+    },
+    {
+      "id": "mt_B6Ji0Zf2J4",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "Population Composition and Migration",
+      "description": "Understand that a population is described not just by its size but by its age and sex composition, literacy and occupations, and that migration reshapes all of these.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Reads an age-sex composition from a population pyramid",
+        "Explains how migration changes both origin and destination areas",
+        "Links occupational structure to a region’s level of development"
+      ],
+      "assessmentPrompt": "Ask {{name}} what you learn about a place from knowing the ages of its people, not just how many there are.",
+      "standards": [
+        "ncert-sec:GEO.C9.POP"
+      ]
+    },
+    {
+      "id": "mt_t1uBA7rr5T",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "What Democracy Is and Why It Matters",
+      "description": "Understand that democracy means rulers chosen by the people under rules that guarantee fair choice and rights, and be able to weigh it honestly against its alternatives.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Gives a working definition of democracy and its essential features",
+        "Names an alternative form of government and a claimed advantage of it",
+        "Defends democracy against a common criticism using reasons"
+      ],
+      "assessmentPrompt": "Ask {{name}} what would have to be true of a country before they would call it a democracy.",
+      "standards": [
+        "ncert-sec:POL.C9.WHAT",
+        "ncert-sec:POL.C9.SPREAD"
+      ]
+    },
+    {
+      "id": "mt_DLCwoOPIc8",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "The Making of the Indian Constitution",
+      "description": "Understand that the Constitution was written by an elected assembly after long debate, that its values were deliberately chosen, and that it can be amended as society changes.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Describes who framed the Constitution and how",
+        "Names core values the Constitution commits India to",
+        "Explains what it means to call the Constitution a living document"
+      ],
+      "assessmentPrompt": "Ask {{name}} who decided what would be in India’s Constitution, and whether it can ever be changed.",
+      "standards": [
+        "ncert-sec:POL.C9.DESIGN"
+      ]
+    },
+    {
+      "id": "mt_hBf4f826BU",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Power Sharing and Federalism",
+      "description": "Understand that dividing power between levels of government and among social groups reduces conflict, and that Indian federalism shares power between the union, states and local bodies.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains why power sharing reduces conflict in a diverse society",
+        "Describes how powers are divided between union and states",
+        "Explains what decentralisation to local bodies was meant to achieve"
+      ],
+      "assessmentPrompt": "Ask {{name}} why it might be safer for a large, diverse country not to keep all power in one place.",
+      "standards": [
+        "ncert-sec:POL.C10.POWER"
+      ]
+    },
+    {
+      "id": "mt_OlqoeqrPis",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Democracy and Social Divisions",
+      "description": "Understand that social differences of caste, religion and gender enter politics, and that democracy can either accommodate them peacefully or be strained by them.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains how a social division can become a political division",
+        "Distinguishes accommodating a difference from exploiting it",
+        "Gives an example of politics changing a social hierarchy"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether it is a problem for democracy when people vote according to their community.",
+      "standards": [
+        "ncert-sec:POL.C10.WORK"
+      ]
+    },
+    {
+      "id": "mt_Ta8uFk10YT",
+      "type": "META",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Outcomes of Democracy",
+      "description": "Understand that democracies can be judged by what they deliver — accountable government, development, dignity and security — while recognising that such judgements need fair standards.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "States what can reasonably be expected of a democracy",
+        "Uses evidence to assess one outcome of Indian democracy",
+        "Explains why democracies may be slower but more accountable"
+      ],
+      "assessmentPrompt": "Ask {{name}} how they would decide whether a democracy is working well or badly.",
+      "standards": [
+        "ncert-sec:POL.C10.OUTCOME",
+        "ncert-sec:POL.C10.CHALLENGE"
+      ]
+    },
+    {
+      "id": "mt_VrT09BUGOv",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Social Movements and Democratic Struggle",
+      "description": "Understand that democracy has been widened by pressure from below — movements, protests and campaigns — as much as by parties competing in elections.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains how a movement can change policy without winning an election",
+        "Distinguishes a political party from a social movement",
+        "Gives an example of a right won through sustained struggle"
+      ],
+      "assessmentPrompt": "Ask {{name}} how ordinary people can change a government’s mind between one election and the next.",
+      "standards": [
+        "ncert-sec:POL.C10.COMPET"
+      ]
+    },
+    {
+      "id": "mt_JmGiTiHHC9",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Production",
+      "name": "People as a Resource: Human Capital",
+      "description": "Understand that a population becomes a productive asset through health, education and skills, and that investing in people raises what an economy can produce.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains how education and health turn population into human capital",
+        "Distinguishes paid work from unpaid work that is still economic activity",
+        "Describes a form of unemployment and its cost to the economy"
+      ],
+      "assessmentPrompt": "Ask {{name}} why two countries with the same number of people can produce very different amounts.",
+      "standards": [
+        "ncert-sec:ECO.C9.PEOPLE"
+      ]
+    },
+    {
+      "id": "mt_64hj8wqjvs",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Poverty and Its Measurement",
+      "description": "Understand that poverty is measured against a defined line of minimum needs, that the measure itself is contested, and that its causes lie largely in unequal access to resources.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains what a poverty line is and how it is set",
+        "Names social groups more likely to be poor and suggests why",
+        "Describes a government measure aimed at reducing poverty"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a government decides who counts as poor, and why that decision matters.",
+      "standards": [
+        "ncert-sec:ECO.C9.POVERTY"
+      ]
+    },
+    {
+      "id": "mt_MaWJ5xmudK",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Food Security and the Public Distribution System",
+      "description": "Understand that food security means everyone having reliable access to enough food, and that buffer stocks and the public distribution system exist to provide it when markets do not.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "States the conditions under which a household is food secure",
+        "Explains the purpose of buffer stocks and the ration system",
+        "Explains how granaries can overflow while people go hungry"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a country can have full grain stores and still have hungry people in it.",
+      "standards": [
+        "ncert-sec:ECO.C9.FOOD"
+      ]
+    },
+    {
+      "id": "mt_gLvCERWvVL",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Measuring Development: Income and Human Development",
+      "description": "Understand that average income alone is a poor measure of how well people live, and that health, education and life expectancy give a fuller picture of development.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains a limitation of per-capita income as a measure",
+        "Names indicators used in human development measures",
+        "Compares two regions using more than one indicator"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether the richest country is automatically the best place to live, and how they would check.",
+      "standards": [
+        "ncert-sec:ECO.C10.DEV"
+      ]
+    },
+    {
+      "id": "mt_kECFYQuuDI",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Money, Banking and Credit",
+      "description": "Understand that money removes the need for a double coincidence of wants, and that credit from formal institutions differs sharply in cost and risk from informal moneylending.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains why money replaced barter",
+        "Contrasts formal and informal sources of credit",
+        "Explains how a debt trap can arise from informal borrowing"
+      ],
+      "assessmentPrompt": "Ask {{name}} why borrowing from a bank and borrowing from a moneylender are not the same thing.",
+      "standards": [
+        "ncert-sec:ECO.C10.MONEY"
+      ]
+    },
+    {
+      "id": "mt_a3SPFBAkKh",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Markets",
+      "name": "Consumer Rights and Protection",
+      "description": "Understand that consumers can be exploited through false information, unfair weights or unsafe goods, and that law, standards marks and redress bodies exist to protect them.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Names ways a consumer can be exploited in a market",
+        "Identifies what a standards mark on a product certifies",
+        "Describes what a consumer can do when sold a faulty product"
+      ],
+      "assessmentPrompt": "Ask {{name}} what they could do if a shop sold them something that turned out to be faulty.",
+      "standards": [
+        "ncert-sec:ECO.C10.CONSUMER"
+      ]
+    },
+    {
+      "id": "mt_kkrSHcMSoU",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Writing",
+      "name": "Sanskrit Composition and Translation",
+      "description": "Compose connected Sanskrit on a given topic and translate passages from another language into it, choosing case endings and verb forms that carry the intended sense.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Translates a short Hindi or English passage into correct Sanskrit",
+        "Writes a connected paragraph in Sanskrit on a familiar topic",
+        "Writes a formal or informal Sanskrit letter in the expected form"
+      ],
+      "assessmentPrompt": "Ask {{name}} to write a short letter in Sanskrit inviting a friend to a festival.",
+      "standards": [
+        "ncert-sec:SAN.C9.RACHANA",
+        "ncert-sec:SAN.C10.RACHANA"
+      ]
+    },
+    {
+      "id": "mt_dpcRWCsrxz",
+      "type": "LANGUAGE",
+      "subject": "Hindi",
+      "domain": "Grammar",
+      "name": "Sentence Transformation in Hindi",
+      "description": "Rewrite a Hindi sentence from simple to compound or complex form, and between active and passive voice, without changing what it means.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Classifies a Hindi sentence as saral, sanyukt or mishra",
+        "Rewrites a sentence into another type keeping the meaning",
+        "Converts a sentence between active and passive voice"
+      ],
+      "assessmentPrompt": "Ask {{name}} to join two short Hindi sentences into one, and then say what type the result is.",
+      "standards": [
+        "ncert-sec:HIN.C10.GRAM",
+        "ncert-sec:HIN.C910.GRAMPTS"
+      ]
+    },
+    {
+      "id": "mt_USxqI9i68V",
+      "type": "LANGUAGE",
+      "subject": "Hindi",
+      "domain": "Writing",
+      "name": "Practical Writing in Hindi",
+      "description": "Write the everyday documents adult life requires in Hindi — applications, formal and informal letters, reports and reviews — choosing the register each one calls for.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Writes a formal application in the expected format",
+        "Adjusts tone between a formal and an informal letter",
+        "Writes a short report or review of something read or seen"
+      ],
+      "assessmentPrompt": "Ask {{name}} to write a short application to their principal, then the same request as a note to a friend.",
+      "standards": [
+        "ncert-sec:HIN.C910.PRACTICAL"
+      ]
+    },
+    {
+      "id": "mt_5uTLMkwNi6",
+      "type": "META",
+      "subject": "Hindi",
+      "domain": "Language & Society",
+      "name": "The Language of Hindi Media",
+      "description": "Understand that Hindi takes different forms in newspapers, broadcast and digital media, and read such language critically rather than accepting its framing as neutral.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Compares how two sources report the same event",
+        "Identifies loaded or persuasive wording in a report",
+        "Explains how the medium shapes the language chosen"
+      ],
+      "assessmentPrompt": "Ask {{name}} to compare a news story in two Hindi papers and say what each chose to emphasise.",
+      "standards": [
+        "ncert-sec:HIN.C910.MEDIA"
       ]
     }
   ]

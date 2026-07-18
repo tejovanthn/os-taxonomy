@@ -8,6 +8,53 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### NCERT secondary syllabi — Classes IX–X, all subjects (2026-07-18)
+- New source `ncert-sec` (NCERT Syllabus for Secondary Classes IX–X, NCF 2005),
+  from Volume II of the syllabus (`vol2_hsl.zip`). Same red-tier rights posture
+  as `ncert-elem`: minted class×unit codes plus Marble-authored factual
+  descriptions only; **no NCERT text**. See PROVENANCE.
+- **Scope decision:** Classes IX–X only. The same volume carries Classes XI–XII
+  (Physics, Chemistry, Biology, Sociology, Psychology, Business Studies,
+  Accountancy and the elective languages), which sit above the dataset's age
+  ceiling of 16 and would require extending it to 18. That is a deliberate
+  follow-up, planned in `STATE.md`, not an oversight.
+- **156 standards** across Science, Mathematics, History, Geography, Political
+  Science, Economics, English, Hindi and Sanskrit; **64 new topics** and 297
+  topic→standard links. No standard is left unlinked.
+- **Science IX–X: 121 existing topics aligned, only 5 new** — the strongest
+  alignment result yet. NCERT's seven NCF themes map almost entirely onto the
+  existing science ladder. The five mints are the genuine holes: *Buoyancy and
+  Archimedes' Principle*, *The Mole Concept*, *Valency and Chemical Formulae*,
+  *Echo, Ultrasound and the Range of Hearing*, and *Tropic Movements and Plant
+  Hormones*.
+- **Mathematics IX–X: 43 topics aligned, 13 new** — filling real gaps rather
+  than duplicating: polynomials and the remainder/factor theorems, Euclid's
+  axioms, Heron's formula, arithmetic progressions, the distance and section
+  formulae, similar triangles and proportionality, heights and distances, the
+  frustum, the ogive, and the two appendices on proof and modelling.
+- **History IX–X: 26 new topics** — the one genuinely content-adding subject.
+  The graph previously carried just three broad *Modern World* bundlers at this
+  age. Each NCERT theme is decomposed into distinct teachable ideas (the French
+  and Russian revolutions and Nazism each split into three), avoiding the
+  history under-decomposition of earlier passes.
+- **Geography, Political Science and Economics: 58 aligned, 16 new** — existing
+  civics and Indian-geography coverage sits at ages 9–13, so the senior
+  treatments were missing: resource planning, soil and land degradation, water
+  scarcity and rainwater harvesting, population composition; what democracy is,
+  the making of the Constitution, power sharing and federalism, social
+  divisions, outcomes of democracy, social movements; and human capital,
+  poverty, food security, measuring development, credit, and consumer rights.
+- **English, Hindi and Sanskrit: 61 aligned, 4 new** — near-pure alignment.
+  Checked before minting, **Sanskrit already carried the entire prescribed
+  grammar ladder** (sandhi, shabdarupa, dhaturupa, upasarga/avyaya, pratyaya,
+  karaka, samasa) in both the Grammar and Paninian Grammar domains, so the
+  known "thin Sanskrit" gap turned out to be thinner than recorded; only senior
+  composition was missing. Hindi gained sentence transformation, practical
+  writing and media language.
+- Hindi and Sanskrit syllabus pages use non-Unicode legacy Devanagari fonts and
+  were recovered by OCR of 300 DPI renders (tesseract `hin`/`san`),
+  cross-checked against the page images. Urdu is image-only and not integrated.
+
 ### NCERT elementary syllabi — Mathematics I–V and VI–VIII (2026-07-17)
 - New source `ncert-elem` (NCERT Syllabus for Elementary Classes, NCF 2005).
   NCERT's rights are the strictest yet (no reproduction; no summarisation of

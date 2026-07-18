@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3769,
+  "edgeCount": 3834,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -22616,6 +22616,396 @@
       "prerequisiteId": "mt_5QO72Xkw6u",
       "strength": "soft",
       "reason": "Purposeful writing builds on the mechanics of writing"
+    },
+    {
+      "topicId": "mt_Bu7762uwDJ",
+      "prerequisiteId": "mt_uESbzWCZIq",
+      "strength": "soft",
+      "reason": "Factorising expressions is the algebraic manipulation polynomials build on."
+    },
+    {
+      "topicId": "mt_zImUoeskII",
+      "prerequisiteId": "mt_HRKzwEQJgO",
+      "strength": "soft",
+      "reason": "Nth-term rules for sequences generalise into arithmetic progressions."
+    },
+    {
+      "topicId": "mt_ZLeDlsxbyZ",
+      "prerequisiteId": "mt_KcWEqUJyOK",
+      "strength": "soft",
+      "reason": "Both work on segments described by coordinates."
+    },
+    {
+      "topicId": "mt_VR6AXSjoMQ",
+      "prerequisiteId": "mt_1badik7iKJ",
+      "strength": "soft",
+      "reason": "Scale factors for similar shapes precede formal similarity criteria."
+    },
+    {
+      "topicId": "mt_p81CubtbEo",
+      "prerequisiteId": "mt_svFa6_mjO_",
+      "strength": "soft",
+      "reason": "Area work on standard plane figures precedes Heron’s formula."
+    },
+    {
+      "topicId": "mt_eBpdA81Td1",
+      "prerequisiteId": "mt_evxFOvZkHE",
+      "strength": "soft",
+      "reason": "Both concern how mathematical claims are justified and tested."
+    },
+    {
+      "topicId": "mt_P1k8AQPBWP",
+      "prerequisiteId": "mt_J03RFlVdas",
+      "strength": "soft",
+      "reason": "Angle results in triangles are among the first theorems proved from postulates."
+    },
+    {
+      "topicId": "mt_QF7nm0CbQN",
+      "prerequisiteId": "mt_Id4cr53vlQ",
+      "strength": "soft",
+      "reason": "Writing formulae underpins balancing equations."
+    },
+    {
+      "topicId": "mt_ngfFzPmRSF",
+      "prerequisiteId": "mt_zM5vu31jgl",
+      "strength": "soft",
+      "reason": "Plant growth responses connect to how plants make and use food."
+    },
+    {
+      "topicId": "mt_ngfFzPmRSF",
+      "prerequisiteId": "mt_FQXGRdTDhp",
+      "strength": "soft",
+      "reason": "Plant hormones parallel chemical coordination in animals."
+    },
+    {
+      "topicId": "mt_ANNEemZejo",
+      "prerequisiteId": "mt_UQ7fgh94i2",
+      "strength": "soft",
+      "reason": "Revolutionary ideas from France circulated into later movements."
+    },
+    {
+      "topicId": "mt_83jsEcFp7v",
+      "prerequisiteId": "mt_mUDHsziRvs",
+      "strength": "soft",
+      "reason": "The Weimar crisis follows from the First World War settlement."
+    },
+    {
+      "topicId": "mt_vbQKjtvNn8",
+      "prerequisiteId": "mt_gM1adZDGIy",
+      "strength": "soft",
+      "reason": "Forest policy was one arm of colonial administration in India."
+    },
+    {
+      "topicId": "mt_k3G4HvA0Gu",
+      "prerequisiteId": "mt_ZCwHKy4rEZ",
+      "strength": "soft",
+      "reason": "Agrarian change is part of how colonial rule reshaped India’s economy."
+    },
+    {
+      "topicId": "mt_l5qTBqqvyr",
+      "prerequisiteId": "mt_fdcwmJM9aA",
+      "strength": "soft",
+      "reason": "Mass participation widened during the civil disobedience years."
+    },
+    {
+      "topicId": "mt_SKpZLnpmbe",
+      "prerequisiteId": "mt_Hgvfb0bikp",
+      "strength": "soft",
+      "reason": "The integrated world market grew alongside industrial production."
+    },
+    {
+      "topicId": "mt_8MN7mTlTg3",
+      "prerequisiteId": "mt_t6BQm5x5Su",
+      "strength": "soft",
+      "reason": "Reform movements in India worked through the printed word."
+    },
+    {
+      "topicId": "mt_0cDJP7Fwwm",
+      "prerequisiteId": "mt_GJIjtgZSZP",
+      "strength": "soft",
+      "reason": "Soil is treated as one resource within the wider classification."
+    },
+    {
+      "topicId": "mt_60NMkDEKSh",
+      "prerequisiteId": "mt_GJIjtgZSZP",
+      "strength": "soft",
+      "reason": "Water scarcity is an instance of the resource planning problem."
+    },
+    {
+      "topicId": "mt_hBf4f826BU",
+      "prerequisiteId": "mt_FJZZUv2ewS",
+      "strength": "soft",
+      "reason": "Panchayati Raj is the local tier of the power-sharing arrangement."
+    },
+    {
+      "topicId": "mt_VrT09BUGOv",
+      "prerequisiteId": "mt_ZfqyrBYcTZ",
+      "strength": "soft",
+      "reason": "Movements are contrasted with parties as routes to political change."
+    },
+    {
+      "topicId": "mt_Ta8uFk10YT",
+      "prerequisiteId": "mt_OlqoeqrPis",
+      "strength": "soft",
+      "reason": "Assessing outcomes includes how well divisions are accommodated."
+    },
+    {
+      "topicId": "mt_Ta8uFk10YT",
+      "prerequisiteId": "mt_hBf4f826BU",
+      "strength": "soft",
+      "reason": "Power sharing is one of the arrangements whose outcomes are judged."
+    },
+    {
+      "topicId": "mt_64hj8wqjvs",
+      "prerequisiteId": "mt_JmGiTiHHC9",
+      "strength": "soft",
+      "reason": "Human capital and poverty are two views of the same population."
+    },
+    {
+      "topicId": "mt_kECFYQuuDI",
+      "prerequisiteId": "mt_MOhhQz1xTG",
+      "strength": "soft",
+      "reason": "Credit institutions are part of the wider Indian economy."
+    },
+    {
+      "topicId": "mt_a3SPFBAkKh",
+      "prerequisiteId": "mt_yWJTq3Oc3r",
+      "strength": "soft",
+      "reason": "Consumer protection concerns how markets set prices and terms."
+    },
+    {
+      "topicId": "mt_USxqI9i68V",
+      "prerequisiteId": "mt_dpcRWCsrxz",
+      "strength": "soft",
+      "reason": "Practical writing draws on control of sentence structure."
+    },
+    {
+      "topicId": "mt_8v9Csv9GEq",
+      "prerequisiteId": "mt_Bu7762uwDJ",
+      "strength": "hard",
+      "reason": "The theorems are stated in terms of the zeros and degree of a polynomial."
+    },
+    {
+      "topicId": "mt_KcWEqUJyOK",
+      "prerequisiteId": "mt_1VmTUxBrNd",
+      "strength": "hard",
+      "reason": "The distance formula is Pythagoras applied to coordinate differences."
+    },
+    {
+      "topicId": "mt_JpMHcAdfDF",
+      "prerequisiteId": "mt_M2nFDa7tax",
+      "strength": "hard",
+      "reason": "Heights and distances apply the trigonometric ratios to real situations."
+    },
+    {
+      "topicId": "mt_T74nggt6JZ",
+      "prerequisiteId": "mt_0MbPqx8PCp",
+      "strength": "hard",
+      "reason": "A frustum is measured by combining the standard solid formulae."
+    },
+    {
+      "topicId": "mt_l9QXa5DYit",
+      "prerequisiteId": "mt_dbsLUDDBRW",
+      "strength": "hard",
+      "reason": "The ogive is a way of locating the median in grouped data."
+    },
+    {
+      "topicId": "mt_GUrpl1wyPZ",
+      "prerequisiteId": "mt_fkwcCB5px7",
+      "strength": "hard",
+      "reason": "Buoyancy builds on how fluid pressure increases with depth."
+    },
+    {
+      "topicId": "mt_ok9HgvTLM0",
+      "prerequisiteId": "mt_WRmH6pd30u",
+      "strength": "hard",
+      "reason": "The mole counts the atoms and molecules introduced earlier."
+    },
+    {
+      "topicId": "mt_QF7nm0CbQN",
+      "prerequisiteId": "mt_Z_Wu_77ybI",
+      "strength": "hard",
+      "reason": "Formulae describe how elements combine into compounds."
+    },
+    {
+      "topicId": "mt_90lfoEG1D3",
+      "prerequisiteId": "mt_DQk9oDE7gr",
+      "strength": "hard",
+      "reason": "Echoes and ultrasound depend on how sound waves travel and reflect."
+    },
+    {
+      "topicId": "mt_BHQQCqiFEN",
+      "prerequisiteId": "mt_1neoheA9rz",
+      "strength": "hard",
+      "reason": "The revolution is understood as a response to the crisis of the old order."
+    },
+    {
+      "topicId": "mt_UQ7fgh94i2",
+      "prerequisiteId": "mt_BHQQCqiFEN",
+      "strength": "hard",
+      "reason": "The legacy is the spread of the revolution’s own ideas."
+    },
+    {
+      "topicId": "mt_yqvNuyxBPS",
+      "prerequisiteId": "mt_ANNEemZejo",
+      "strength": "hard",
+      "reason": "The revolution follows from the breakdown of Tsarist rule."
+    },
+    {
+      "topicId": "mt_mfMY8JCDeD",
+      "prerequisiteId": "mt_yqvNuyxBPS",
+      "strength": "hard",
+      "reason": "The Soviet state is what the revolution built."
+    },
+    {
+      "topicId": "mt_5ktQETuHGh",
+      "prerequisiteId": "mt_83jsEcFp7v",
+      "strength": "hard",
+      "reason": "The Nazi rise depended on the discrediting of Weimar democracy."
+    },
+    {
+      "topicId": "mt_jLjr9TOFxf",
+      "prerequisiteId": "mt_5ktQETuHGh",
+      "strength": "hard",
+      "reason": "Nazi ideology could be enacted only once the party held power."
+    },
+    {
+      "topicId": "mt_h6fWxal2a9",
+      "prerequisiteId": "mt_lzYEu83lEc",
+      "strength": "hard",
+      "reason": "The colonial disruption is understood against pastoral life as it was."
+    },
+    {
+      "topicId": "mt_VfEzd2k0qm",
+      "prerequisiteId": "mt_UQ7fgh94i2",
+      "strength": "hard",
+      "reason": "European nationalism drew on revolutionary ideas of popular sovereignty."
+    },
+    {
+      "topicId": "mt_MZLPNK1gYd",
+      "prerequisiteId": "mt_VfEzd2k0qm",
+      "strength": "hard",
+      "reason": "Anti-colonial nationalism is defined by contrast with the European form."
+    },
+    {
+      "topicId": "mt_fdcwmJM9aA",
+      "prerequisiteId": "mt_TgwyJZNdub",
+      "strength": "hard",
+      "reason": "Civil disobedience followed and built on the non-cooperation phase."
+    },
+    {
+      "topicId": "mt_TgwyJZNdub",
+      "prerequisiteId": "mt_ijRSgBBd0W",
+      "strength": "hard",
+      "reason": "Non-cooperation applied Gandhi’s method of non-violent resistance."
+    },
+    {
+      "topicId": "mt_94XOuqrnfz",
+      "prerequisiteId": "mt_Hgvfb0bikp",
+      "strength": "hard",
+      "reason": "Worker livelihoods follow from how industrialisation was organised."
+    },
+    {
+      "topicId": "mt_avqNv6KioH",
+      "prerequisiteId": "mt_Hgvfb0bikp",
+      "strength": "hard",
+      "reason": "Industrial cities grew out of industrialisation."
+    },
+    {
+      "topicId": "mt_eOm8V5MUM5",
+      "prerequisiteId": "mt_8MN7mTlTg3",
+      "strength": "hard",
+      "reason": "The novel depended on print and a reading public."
+    },
+    {
+      "topicId": "mt_GJIjtgZSZP",
+      "prerequisiteId": "mt_Qx5riGaO8e",
+      "strength": "hard",
+      "reason": "Formal classification builds on knowing India’s natural resources."
+    },
+    {
+      "topicId": "mt_B6Ji0Zf2J4",
+      "prerequisiteId": "mt_29aZtsWvgT",
+      "strength": "hard",
+      "reason": "Composition and migration refine the earlier treatment of population."
+    },
+    {
+      "topicId": "mt_DLCwoOPIc8",
+      "prerequisiteId": "mt_zFL9HpDF22",
+      "strength": "hard",
+      "reason": "How the Constitution was made builds on knowing what it contains."
+    },
+    {
+      "topicId": "mt_t1uBA7rr5T",
+      "prerequisiteId": "mt_7LYY3PybtA",
+      "strength": "hard",
+      "reason": "Defining democracy builds on comparing forms of government."
+    },
+    {
+      "topicId": "mt_hBf4f826BU",
+      "prerequisiteId": "mt_DLCwoOPIc8",
+      "strength": "hard",
+      "reason": "The federal division of power is set out in the Constitution."
+    },
+    {
+      "topicId": "mt_OlqoeqrPis",
+      "prerequisiteId": "mt_t1uBA7rr5T",
+      "strength": "hard",
+      "reason": "Judging how divisions affect democracy needs a definition of it first."
+    },
+    {
+      "topicId": "mt_MaWJ5xmudK",
+      "prerequisiteId": "mt_64hj8wqjvs",
+      "strength": "hard",
+      "reason": "Food insecurity is understood as a dimension of poverty."
+    },
+    {
+      "topicId": "mt_gLvCERWvVL",
+      "prerequisiteId": "mt_64hj8wqjvs",
+      "strength": "hard",
+      "reason": "Development measures extend the problem of measuring deprivation."
+    },
+    {
+      "topicId": "mt_JmGiTiHHC9",
+      "prerequisiteId": "mt_yGbS9NpIU8",
+      "strength": "hard",
+      "reason": "Human capital refines labour as a factor of production."
+    },
+    {
+      "topicId": "mt_kkrSHcMSoU",
+      "prerequisiteId": "mt_YN9NNO8nCZ",
+      "strength": "hard",
+      "reason": "Senior composition builds directly on writing simple Sanskrit."
+    },
+    {
+      "topicId": "mt_kkrSHcMSoU",
+      "prerequisiteId": "mt_VDcBe3oTmz",
+      "strength": "hard",
+      "reason": "Composing correct sentences requires control of karaka and case."
+    },
+    {
+      "topicId": "mt_kkrSHcMSoU",
+      "prerequisiteId": "mt_mrLZFWQnrE",
+      "strength": "hard",
+      "reason": "Composition requires correctly conjugated verbs."
+    },
+    {
+      "topicId": "mt_dpcRWCsrxz",
+      "prerequisiteId": "mt_GcCnPyG5hg",
+      "strength": "hard",
+      "reason": "Transformation builds on knowing Hindi sentence structure."
+    },
+    {
+      "topicId": "mt_USxqI9i68V",
+      "prerequisiteId": "mt_3HVK8ZcBIU",
+      "strength": "hard",
+      "reason": "Practical writing extends purposeful writing in Hindi."
+    },
+    {
+      "topicId": "mt_5uTLMkwNi6",
+      "prerequisiteId": "mt_bcHw0Tefvk",
+      "strength": "hard",
+      "reason": "Media language is one of the roles Hindi plays in society."
     }
   ]
 }
