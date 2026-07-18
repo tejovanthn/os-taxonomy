@@ -39,8 +39,8 @@ Most curriculum data is either a flat list of standards or locked inside a produ
 | Psychology | 21 |
 | Learning to Learn | 18 |
 | Business Studies | 17 |
-| Accountancy | 14 |
 | Hindi | 17 |
+| Accountancy | 14 |
 | Economics | 11 |
 | Home Science | 9 |
 | Tamil | 8 |

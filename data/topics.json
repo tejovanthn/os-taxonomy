@@ -523,7 +523,9 @@
       "assessmentPrompt": "If {{name}} says something like \"The dog\", can they tell you that's not a complete sentence — and add words to make it say something like \"The dog ran fast\"?",
       "standards": [
         "ccss-ela:L.K.1f",
-        "uk-nc-2013:Eng.App2.Y1.Sent.1"
+        "uk-nc-2013:Eng.App2.Y1.Sent.1",
+        "ncert-elem:ENG.C12.WRT",
+        "ncert-elem:ENG.C35.WRT"
       ]
     },
     {
@@ -545,7 +547,8 @@
       "standards": [
         "ccss-ela:L.K.2",
         "uk-nc-2013:Eng.App2.Y1.Punc.1",
-        "uk-nc-2013:Eng_Y1_WVGP_01"
+        "uk-nc-2013:Eng_Y1_WVGP_01",
+        "ncert-elem:ENG.C12.WRT"
       ]
     },
     {
@@ -1141,7 +1144,8 @@
       ],
       "assessmentPrompt": "Can {{name}} write a sentence using an abstract word like \"kindness\", \"freedom\", or \"happiness\" — knowing these are nouns even though you can't touch or see them?",
       "standards": [
-        "nios-sec-2020:202.GRM"
+        "nios-sec-2020:202.GRM",
+        "ncert-elem:ENG.C68.GRM"
       ]
     },
     {
@@ -1602,7 +1606,8 @@
       "standards": [
         "uk-nc-2013:Eng.App2.Y6.Sent.1",
         "uk-nc-2013:Eng.UKS2.Write.VGP.1b",
-        "nios-sec-2020:202.GRM"
+        "nios-sec-2020:202.GRM",
+        "ncert-elem:ENG.C68.GRM"
       ]
     },
     {
@@ -2201,7 +2206,8 @@
         "ccss-ela:RF.K.3.d",
         "uk-nc-2013:Eng_App1_Y1_06",
         "uk-nc-2013:Eng_Y1_RWR_01",
-        "uk-nc-2013:Eng_Y1_RWR_03"
+        "uk-nc-2013:Eng_Y1_RWR_03",
+        "ncert-elem:ENG.C12.RDG"
       ]
     },
     {
@@ -2317,7 +2323,8 @@
         "uk-nc-2013:Eng_App1_Y1_01",
         "uk-nc-2013:Eng_App1_Y1_07",
         "uk-nc-2013:Eng_App1_Y1_08",
-        "uk-nc-2013:Eng_Y1_RWR_02"
+        "uk-nc-2013:Eng_Y1_RWR_02",
+        "ncert-elem:ENG.C12.RDG"
       ]
     },
     {
@@ -3530,7 +3537,8 @@
       "assessmentPrompt": "After reading a persuasive article — like one arguing for or against something — can {{name}} identify the reasons the author gives and say whether each one is convincing and well-supported?",
       "standards": [
         "ccss-ela:RI.4.8",
-        "nios-sec-2020:202.RDG"
+        "nios-sec-2020:202.RDG",
+        "ncert-elem:ENG.C35.RDG"
       ]
     },
     {
@@ -4108,7 +4116,8 @@
         "ccss-ela:RI.8.8",
         "uk-nc-2013:KS3-ENG-R-2b",
         "uk-nc-2013:KS3-ENG-R-3e",
-        "nios-sec-2020:202.RDG"
+        "nios-sec-2020:202.RDG",
+        "ncert-elem:ENG.C68.RDG"
       ]
     },
     {
@@ -4206,7 +4215,8 @@
         "ccss-ela:RL.6.5",
         "ccss-ela:RL.7.5",
         "uk-nc-2013:KS3-ENG-R-3b",
-        "nios-sec-2020:202.LIT"
+        "nios-sec-2020:202.LIT",
+        "ncert-elem:ENG.C68.RDG"
       ]
     },
     {
@@ -4386,7 +4396,8 @@
         "ccss-ela:SL.K.4",
         "ccss-ela:SL.K.6",
         "uk-nc-2013:Eng.SL.5",
-        "uk-nc-2013:Eng.SL.8"
+        "uk-nc-2013:Eng.SL.8",
+        "ncert-elem:ENG.C12.LSN"
       ]
     },
     {
@@ -4407,7 +4418,8 @@
       "assessmentPrompt": "When {{name}} is trying to figure something out — like why something happened in a story or how something works — do they talk through their ideas out loud and explore possibilities before settling on an answer?",
       "standards": [
         "uk-nc-2013:Eng.SL.3",
-        "uk-nc-2013:Eng.SL.7"
+        "uk-nc-2013:Eng.SL.7",
+        "ncert-elem:ENG.C12.LSN"
       ]
     },
     {
@@ -4468,7 +4480,9 @@
       ],
       "assessmentPrompt": "When {{name}} is in a group conversation at school or at the dinner table, do they listen while others are talking and wait for their turn before speaking?",
       "standards": [
-        "uk-nc-2013:Eng.SL.1"
+        "uk-nc-2013:Eng.SL.1",
+        "ncert-elem:ENG.C12.LSN",
+        "ncert-elem:ENG.C35.LSN"
       ]
     },
     {
@@ -4627,7 +4641,9 @@
       "assessmentPrompt": "Does {{name}} naturally speak differently depending on who they're talking to — for example, more formally with a teacher than with a friend at the playground?",
       "standards": [
         "ccss-ela:SL.5.6",
-        "nios-sec-2020:202.SPK"
+        "nios-sec-2020:202.SPK",
+        "ncert-elem:ENG.C35.LSN",
+        "ncert-elem:ENG.C68.LSN"
       ]
     },
     {
@@ -4649,7 +4665,9 @@
       "standards": [
         "ccss-ela:SL.5.1.c",
         "nios-sec-2020:202.SPK",
-        "nios-sec-2020:202.LSC"
+        "nios-sec-2020:202.LSC",
+        "ncert-elem:ENG.C35.LSN",
+        "ncert-elem:ENG.C68.LSN"
       ]
     },
     {
@@ -4834,7 +4852,8 @@
         "ccss-ela:L.K.2d",
         "uk-nc-2013:Eng_App1_Y1_04",
         "uk-nc-2013:Eng_App1_Y2_01",
-        "uk-nc-2013:Eng_Y1_WT_01"
+        "uk-nc-2013:Eng_Y1_WT_01",
+        "ncert-elem:ENG.C12.WRT"
       ]
     },
     {
@@ -5787,7 +5806,8 @@
         "ccss-ela:L.7.6",
         "ccss-ela:L.8.6",
         "uk-nc-2013:KS3-ENG-GV-1c",
-        "nios-sec-2020:202.VOC"
+        "nios-sec-2020:202.VOC",
+        "ncert-elem:ENG.C68.GRM"
       ]
     },
     {
@@ -5870,7 +5890,8 @@
         "ccss-ela:W.K.5",
         "uk-nc-2013:Eng/KS1/Y2/WC/3a",
         "uk-nc-2013:Eng_Y1_WC_04",
-        "uk-nc-2013:Eng_Y1_WC_05"
+        "uk-nc-2013:Eng_Y1_WC_05",
+        "ncert-elem:ENG.C35.WRT"
       ]
     },
     {
@@ -6406,7 +6427,8 @@
       "standards": [
         "ccss-ela:W.4.9b",
         "ccss-ela:W.5.9b",
-        "nios-sec-2020:202.WRT"
+        "nios-sec-2020:202.WRT",
+        "ncert-elem:ENG.C35.WRT"
       ]
     },
     {
@@ -6636,7 +6658,8 @@
         "uk-nc-2013:KS3-ENG-W-2a",
         "uk-nc-2013:KS3-ENG-W-2b",
         "uk-nc-2013:KS3-ENG-W-2c",
-        "nios-sec-2020:202.WRT"
+        "nios-sec-2020:202.WRT",
+        "ncert-elem:ENG.C68.WRT"
       ]
     },
     {
@@ -22523,7 +22546,9 @@
         "ngss-k5:2-LS4-1",
         "uk-nc-2013:Y2.Sci.LTH.2",
         "nios-obe-a:A102.L4.1",
-        "nios-obe-c:C105.L2"
+        "nios-obe-c:C105.L2",
+        "ncert-elem:EVS.FAM",
+        "ncert-elem:SCI.LIV"
       ]
     },
     {
@@ -22983,7 +23008,9 @@
       "assessmentPrompt": "If {{name}} watched rain falling outside and was asked where that water had been before it fell, could they trace its journey through the water cycle from the sea to the clouds to the rain and back?",
       "standards": [
         "uk-nc-2013:KS3.Sci.Bio.Ecosystem.5",
-        "nios-obe-c:C105.L19"
+        "nios-obe-c:C105.L19",
+        "ncert-elem:EVS.WATER",
+        "ncert-elem:SCI.NAT"
       ]
     },
     {
@@ -24807,7 +24834,8 @@
       ],
       "assessmentPrompt": "Can {{name}} sort a pile of objects into groups based on their properties, like all the waterproof ones together or all the transparent ones?",
       "standards": [
-        "uk-nc-2013:Y1.Sci.EM.4"
+        "uk-nc-2013:Y1.Sci.EM.4",
+        "ncert-elem:EVS.MAKE"
       ]
     },
     {
@@ -24827,7 +24855,10 @@
       ],
       "assessmentPrompt": "Can {{name}} look around a room and correctly name the materials things are made of — like glass in the window, metal in the radiator, and plastic in a pen?",
       "standards": [
-        "uk-nc-2013:Y1.Sci.EM.2"
+        "uk-nc-2013:Y1.Sci.EM.2",
+        "ncert-elem:EVS.SHELTER",
+        "ncert-elem:EVS.MAKE",
+        "ncert-elem:SCI.MAT"
       ]
     },
     {
@@ -25068,7 +25099,8 @@
       "standards": [
         "uk-nc-2013:Y4.Sci.SM.1",
         "nios-obe-c:C105.L6",
-        "nios-sec-2020:212.M2.L2"
+        "nios-sec-2020:212.M2.L2",
+        "ncert-elem:SCI.MAT"
       ]
     },
     {
@@ -26135,7 +26167,8 @@
       "assessmentPrompt": "Can {{name}} point to their eyes, ears, nose, tongue, and skin and tell you which sense each one is used for?",
       "standards": [
         "uk-nc-2013:Y1.Sci.A.4",
-        "nios-obe-a:A102.L9.1"
+        "nios-obe-a:A102.L9.1",
+        "ncert-elem:SCI.LIV"
       ]
     },
     {
@@ -26177,7 +26210,9 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why a cat is a carnivore, a rabbit is a herbivore, and a bear is an omnivore?",
       "standards": [
-        "uk-nc-2013:Y1.Sci.A.2"
+        "uk-nc-2013:Y1.Sci.A.2",
+        "ncert-elem:EVS.FAM",
+        "ncert-elem:SCI.FOOD"
       ]
     },
     {
@@ -26242,7 +26277,9 @@
         "uk-nc-2013:Y1.Sci.P.2",
         "nios-obe-a:A102.L4.4",
         "nios-obe-a:A102.L5.2",
-        "nios-obe-c:C105.L3"
+        "nios-obe-c:C105.L3",
+        "ncert-elem:EVS.FAM",
+        "ncert-elem:SCI.LIV"
       ]
     },
     {
@@ -26265,7 +26302,8 @@
         "ngss-k5:K-LS1-1",
         "uk-nc-2013:Y2.Sci.A.2",
         "uk-nc-2013:Y2.Sci.P.2",
-        "nios-obe-a:A102.L7.1"
+        "nios-obe-a:A102.L7.1",
+        "ncert-elem:EVS.FAM"
       ]
     },
     {
@@ -29853,7 +29891,9 @@
         "nios-obe-a:A102.L8.2",
         "nios-obe-a:A102.L8.3",
         "nios-sec-2020:216.M2.L2",
-        "nios-sec-2020:216.M2.L3"
+        "nios-sec-2020:216.M2.L3",
+        "ncert-elem:EVS.FOOD",
+        "ncert-elem:SCI.FOOD"
       ]
     },
     {
@@ -31279,7 +31319,9 @@
         "State that the seasonal pattern repeats every year"
       ],
       "assessmentPrompt": "Can {{name}} tell you what kind of weather to expect in each season and explain that summer has the longest days while winter has the shortest?",
-      "standards": []
+      "standards": [
+        "ncert-elem:SCI.PHEN"
+      ]
     },
     {
       "id": "mt_4pLvMN8uzL",
@@ -31427,7 +31469,10 @@
         "Describe the water cycle as a continuous loop with no beginning or end"
       ],
       "assessmentPrompt": "Can {{name}} trace the journey of a raindrop — from the ocean being heated by the Sun, rising as invisible vapour, forming a cloud, and falling back down as rain — and explain it keeps going round and round?",
-      "standards": []
+      "standards": [
+        "ncert-elem:EVS.WATER",
+        "ncert-elem:SCI.NAT"
+      ]
     },
     {
       "id": "mt_BO_AHGLCk0",
@@ -31918,7 +31963,8 @@
         "nios-obe-a:A102.L10.1",
         "nios-obe-a:A102.L10.2",
         "nios-obe-a:A102.L10.3",
-        "nios-sec-2020:213.M2.L13"
+        "nios-sec-2020:213.M2.L13",
+        "ncert-elem:EVS.TRAVEL"
       ]
     },
     {
@@ -31939,7 +31985,8 @@
       "assessmentPrompt": "Can {{name}} describe different ways people send messages to each other — talking, writing, phones — and give an example of a sign or signal that carries a message without words?",
       "standards": [
         "nios-obe-a:A102.L10.4",
-        "nios-obe-c:C102.L13"
+        "nios-obe-c:C102.L13",
+        "ncert-elem:EVS.TRAVEL"
       ]
     },
     {
@@ -32000,7 +32047,8 @@
       "assessmentPrompt": "Can {{name}} explain that the government runs schemes — paid for by taxes — to help people who need work, food or support, and give an example of who such a scheme is meant to help?",
       "standards": [
         "nios-obe-a:A102.L12.4",
-        "nios-sec-2020:213.M3.L17"
+        "nios-sec-2020:213.M3.L17",
+        "ncert-elem:SS.POL.C7"
       ]
     },
     {
@@ -32040,7 +32088,8 @@
       ],
       "assessmentPrompt": "Can {{name}} name some animals that help people — for milk, eggs, wool, carrying loads, or company — and explain that these animals need to be looked after in return?",
       "standards": [
-        "nios-obe-a:A102.L5.1"
+        "nios-obe-a:A102.L5.1",
+        "ncert-elem:EVS.FAM"
       ]
     },
     {
@@ -32060,7 +32109,8 @@
       ],
       "assessmentPrompt": "Can {{name}} give examples of how plants are useful — foods we eat and things like wood or cloth — and explain why that means we should look after them?",
       "standards": [
-        "nios-obe-a:A102.L5.2"
+        "nios-obe-a:A102.L5.2",
+        "ncert-elem:EVS.MAKE"
       ]
     },
     {
@@ -32081,7 +32131,8 @@
       "assessmentPrompt": "Does {{name}} know the everyday ways to keep their body clean — washing hands before eating, brushing teeth, bathing — and understand that this helps keep germs and illness away?",
       "standards": [
         "nios-obe-a:A102.L9.2",
-        "nios-sec-2020:216.M6.L11"
+        "nios-sec-2020:216.M6.L11",
+        "ncert-elem:EVS.WATER"
       ]
     },
     {
@@ -32104,7 +32155,9 @@
         "nios-obe-a:A102.L8.4",
         "nios-obe-a:A102.L8.5",
         "nios-obe-b:B102.L12.3",
-        "nios-sec-2020:216.M2.L4"
+        "nios-sec-2020:216.M2.L4",
+        "ncert-elem:EVS.FOOD",
+        "ncert-elem:EVS.WATER"
       ]
     },
     {
@@ -32266,7 +32319,8 @@
       ],
       "assessmentPrompt": "Can {{name}} describe the Indus Valley cities — their planned streets and drains — and explain how we know about a civilisation with no readable writing?",
       "standards": [
-        "nios-obe-c:C102.L1"
+        "nios-obe-c:C102.L1",
+        "ncert-elem:SS.HIST.C6"
       ]
     },
     {
@@ -32287,7 +32341,8 @@
       "assessmentPrompt": "Can {{name}} explain what the Vedas are and describe what life was like in the Vedic age?",
       "standards": [
         "nios-obe-c:C102.L2",
-        "nios-sec-2020:223.M2.L3"
+        "nios-sec-2020:223.M2.L3",
+        "ncert-elem:SS.HIST.C6"
       ]
     },
     {
@@ -32307,7 +32362,8 @@
       ],
       "assessmentPrompt": "Can {{name}} tell the story of Ashoka — how a powerful emperor turned to peace after a terrible war — and why the Maurya Empire mattered?",
       "standards": [
-        "nios-obe-c:C102.L3"
+        "nios-obe-c:C102.L3",
+        "ncert-elem:SS.HIST.C6"
       ]
     },
     {
@@ -32328,7 +32384,8 @@
       "assessmentPrompt": "Can {{name}} explain why the Gupta age is remembered as a golden age and give an example of what was achieved then?",
       "standards": [
         "nios-obe-c:C102.L4",
-        "nios-sec-2020:223.M2.L3"
+        "nios-sec-2020:223.M2.L3",
+        "ncert-elem:SS.HIST.C6"
       ]
     },
     {
@@ -32370,7 +32427,8 @@
       "standards": [
         "nios-obe-c:C102.L5",
         "nios-sec-2020:223.M2.L4",
-        "nios-sec-2020:213.M1.L2"
+        "nios-sec-2020:213.M1.L2",
+        "ncert-elem:SS.HIST.C7"
       ]
     },
     {
@@ -32391,7 +32449,8 @@
       "assessmentPrompt": "Can {{name}} describe the Mughal Empire — a famous building it left behind, and why a ruler like Akbar is remembered?",
       "standards": [
         "nios-obe-c:C102.L6",
-        "nios-sec-2020:223.M2.L4"
+        "nios-sec-2020:223.M2.L4",
+        "ncert-elem:SS.HIST.C7"
       ]
     },
     {
@@ -32411,7 +32470,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain who the Marathas and Rajputs were and how they related to the Mughals — sometimes fighting, sometimes allying?",
       "standards": [
-        "nios-obe-c:C102.L6"
+        "nios-obe-c:C102.L6",
+        "ncert-elem:SS.HIST.C7"
       ]
     },
     {
@@ -32433,7 +32493,8 @@
       "standards": [
         "nios-obe-b:B102.L4.1",
         "nios-obe-c:C102.L7",
-        "nios-sec-2020:213.M1.L5"
+        "nios-sec-2020:213.M1.L5",
+        "ncert-elem:SS.HIST.C8"
       ]
     },
     {
@@ -32456,7 +32517,8 @@
         "nios-obe-b:B102.L4.2",
         "nios-obe-c:C102.L8",
         "nios-sec-2020:223.M2.L5",
-        "nios-sec-2020:213.M1.L8"
+        "nios-sec-2020:213.M1.L8",
+        "ncert-elem:SS.HIST.C8"
       ]
     },
     {
@@ -32479,7 +32541,8 @@
         "nios-obe-c:C102.L7",
         "nios-sec-2020:223.M2.L5",
         "nios-sec-2020:223.M4.L10",
-        "nios-sec-2020:213.M1.L6"
+        "nios-sec-2020:213.M1.L6",
+        "ncert-elem:SS.HIST.C8"
       ]
     },
     {
@@ -32522,7 +32585,9 @@
         "nios-obe-b:B102.L5.2",
         "nios-obe-c:C102.L9",
         "nios-sec-2020:213.M2.L9",
-        "nios-sec-2020:213.M2.L10"
+        "nios-sec-2020:213.M2.L10",
+        "ncert-elem:SS.GEO.C6",
+        "ncert-elem:SS.GEO.C7"
       ]
     },
     {
@@ -32543,7 +32608,8 @@
       "assessmentPrompt": "Can {{name}} name some of India’s natural resources and explain why they need to be used carefully and conserved?",
       "standards": [
         "nios-obe-b:B102.L1.3",
-        "nios-obe-c:C102.L10"
+        "nios-obe-c:C102.L10",
+        "ncert-elem:SS.GEO.C8"
       ]
     },
     {
@@ -32569,7 +32635,10 @@
         "nios-obe-b:B102.L8.3",
         "nios-obe-c:C102.L11",
         "nios-obe-c:C105.L13",
-        "nios-sec-2020:213.M2.L12"
+        "nios-sec-2020:213.M2.L12",
+        "ncert-elem:EVS.FOOD",
+        "ncert-elem:SCI.FOOD",
+        "ncert-elem:SS.GEO.C8"
       ]
     },
     {
@@ -32589,7 +32658,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what industries are, give different types, and describe how they turn raw materials into useful goods?",
       "standards": [
-        "nios-obe-c:C102.L12"
+        "nios-obe-c:C102.L12",
+        "ncert-elem:SS.GEO.C8"
       ]
     },
     {
@@ -32612,7 +32682,8 @@
         "nios-obe-b:B102.L6.1",
         "nios-obe-c:C102.L16",
         "nios-obe-c:C102.L17",
-        "nios-obe-c:C102.L18"
+        "nios-obe-c:C102.L18",
+        "ncert-elem:SS.POL.C6"
       ]
     },
     {
@@ -32633,7 +32704,8 @@
       "assessmentPrompt": "Can {{name}} explain what the Constitution is, and name a right it gives citizens and a duty it asks of them?",
       "standards": [
         "nios-obe-c:C102.L17",
-        "nios-sec-2020:213.M3.L15"
+        "nios-sec-2020:213.M3.L15",
+        "ncert-elem:SS.POL.C8"
       ]
     },
     {
@@ -32656,7 +32728,8 @@
         "nios-obe-b:B102.L6.2",
         "nios-obe-b:B102.L6.3",
         "nios-obe-c:C102.L19",
-        "nios-sec-2020:213.M3.L18"
+        "nios-sec-2020:213.M3.L18",
+        "ncert-elem:SS.POL.C6"
       ]
     },
     {
@@ -32702,7 +32775,8 @@
         "nios-obe-b:B102.L2.2",
         "nios-obe-b:B102.L2.3",
         "nios-obe-b:B102.L2.4",
-        "nios-sec-2020:213.M4.L24"
+        "nios-sec-2020:213.M4.L24",
+        "ncert-elem:SS.POL.C6"
       ]
     },
     {
@@ -32725,7 +32799,8 @@
         "nios-obe-b:B102.L3.1",
         "nios-obe-b:B102.L3.2",
         "nios-obe-b:B102.L3.3",
-        "nios-obe-b:B102.L3.4"
+        "nios-obe-b:B102.L3.4",
+        "ncert-elem:SS.POL.C7"
       ]
     },
     {
@@ -32856,7 +32931,8 @@
         "nios-obe-b:B102.L15.1",
         "nios-obe-b:B102.L15.2",
         "nios-obe-b:B102.L15.3",
-        "nios-obe-c:C105.L21"
+        "nios-obe-c:C105.L21",
+        "ncert-elem:SCI.NAT"
       ]
     },
     {
@@ -34016,7 +34092,8 @@
       "standards": [
         "nios-obe-b:B102.L6.1",
         "nios-obe-c:C102.L17",
-        "nios-sec-2020:213.M3.L20"
+        "nios-sec-2020:213.M3.L20",
+        "ncert-elem:SS.POL.C8"
       ]
     },
     {
@@ -34059,7 +34136,8 @@
       "assessmentPrompt": "Can {{name}} explain what the courts (the judiciary) do — settling disputes and making sure the law is followed fairly?",
       "standards": [
         "nios-obe-b:B102.L6.1",
-        "nios-obe-c:C102.L17"
+        "nios-obe-c:C102.L17",
+        "ncert-elem:SS.POL.C8"
       ]
     },
     {
@@ -34101,7 +34179,8 @@
       "assessmentPrompt": "Can {{name}} name a few fundamental rights — like equality and freedom of speech — and explain what they protect?",
       "standards": [
         "nios-obe-c:C102.L17",
-        "nios-sec-2020:213.M3.L16"
+        "nios-sec-2020:213.M3.L16",
+        "ncert-elem:SS.POL.C8"
       ]
     },
     {
@@ -35879,7 +35958,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that everything is made of atoms, and the difference between an element and a compound?",
       "standards": [
-        "nios-sec-2020:212.M2.L3"
+        "nios-sec-2020:212.M2.L3",
+        "ncert-elem:SCI.MAT"
       ]
     },
     {
@@ -35939,7 +36019,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how atoms bond — by sharing or transferring electrons — to make compounds?",
       "standards": [
-        "nios-sec-2020:212.M2.L7"
+        "nios-sec-2020:212.M2.L7",
+        "ncert-elem:SCI.MAT"
       ]
     },
     {
@@ -35959,7 +36040,8 @@
       ],
       "assessmentPrompt": "Can {{name}} describe how fast something moves — using speed and velocity — and read a distance-time graph?",
       "standards": [
-        "nios-sec-2020:212.M3.L9"
+        "nios-sec-2020:212.M3.L9",
+        "ncert-elem:SCI.MOV"
       ]
     },
     {
@@ -35979,7 +36061,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain Newton’s laws of motion — including that force equals mass times acceleration?",
       "standards": [
-        "nios-sec-2020:212.M3.L10"
+        "nios-sec-2020:212.M3.L10",
+        "ncert-elem:SCI.MOV"
       ]
     },
     {
@@ -35999,7 +36082,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what \"work\" means in science, and how it relates to energy and power?",
       "standards": [
-        "nios-sec-2020:212.M4.L13"
+        "nios-sec-2020:212.M4.L13",
+        "ncert-elem:SCI.WORK"
       ]
     },
     {
@@ -36019,7 +36103,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how hormones act as chemical messengers to control things like growth, working alongside the nervous system?",
       "standards": [
-        "nios-sec-2020:212.M5.L23"
+        "nios-sec-2020:212.M5.L23",
+        "ncert-elem:SCI.LIV"
       ]
     },
     {
@@ -36284,7 +36369,8 @@
       ],
       "assessmentPrompt": "Can {{name}} write a formal letter, application or notice in the right format for its purpose?",
       "standards": [
-        "nios-sec-2020:202.WRT"
+        "nios-sec-2020:202.WRT",
+        "ncert-elem:ENG.C68.WRT"
       ]
     },
     {
@@ -36304,7 +36390,8 @@
       ],
       "assessmentPrompt": "Can {{name}} read a passage and make clear notes on its main points, and write a short summary in their own words?",
       "standards": [
-        "nios-sec-2020:202.STU"
+        "nios-sec-2020:202.STU",
+        "ncert-elem:ENG.C68.RDG"
       ]
     },
     {
@@ -36324,7 +36411,8 @@
       ],
       "assessmentPrompt": "Can {{name}} take part in a discussion or give a short prepared talk, using language suited to a formal setting?",
       "standards": [
-        "nios-sec-2020:202.SPK"
+        "nios-sec-2020:202.SPK",
+        "ncert-elem:ENG.C68.LSN"
       ]
     },
     {

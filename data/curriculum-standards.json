@@ -43877,7 +43877,7 @@
       "sourceUrl": "https://ncert.nic.in/syllabus.php",
       "textIncluded": true,
       "license": "NCERT permits no reproduction of its text; these records carry Marble-authored factual descriptions only (no NCERT text) — see PROVENANCE.md",
-      "topicCount": 63,
+      "topicCount": 95,
       "topics": [
         {
           "key": "ncert-elem:M.C1.NUM",
@@ -44570,6 +44570,358 @@
             "class": "V",
             "strand": "Grammar",
             "description": "Word formation; synonyms, antonyms and multiple meanings; idiomatic expressions; fuller sentence grammar."
+          }
+        },
+        {
+          "key": "ncert-elem:ENG.C12.LSN",
+          "code": "ENG.C12.LSN",
+          "data": {
+            "title": "English Listening & Speaking (Classes I–II)",
+            "subject": "English (I–VIII)",
+            "class": "I–II",
+            "strand": "Listening & Speaking",
+            "description": "Listening to and joining in rhymes, songs and stories; talking about oneself and one’s world."
+          }
+        },
+        {
+          "key": "ncert-elem:ENG.C12.RDG",
+          "code": "ENG.C12.RDG",
+          "data": {
+            "title": "English Reading (Classes I–II)",
+            "subject": "English (I–VIII)",
+            "class": "I–II",
+            "strand": "Reading",
+            "description": "Recognising letters and sounds; reading simple words and sentences with picture support."
+          }
+        },
+        {
+          "key": "ncert-elem:ENG.C12.WRT",
+          "code": "ENG.C12.WRT",
+          "data": {
+            "title": "English Writing (Classes I–II)",
+            "subject": "English (I–VIII)",
+            "class": "I–II",
+            "strand": "Writing",
+            "description": "Forming letters; writing words and simple sentences."
+          }
+        },
+        {
+          "key": "ncert-elem:ENG.C35.LSN",
+          "code": "ENG.C35.LSN",
+          "data": {
+            "title": "English Listening & Speaking (Classes III–V)",
+            "subject": "English (I–VIII)",
+            "class": "III–V",
+            "strand": "Listening & Speaking",
+            "description": "Conversing, describing and narrating; following and giving simple instructions."
+          }
+        },
+        {
+          "key": "ncert-elem:ENG.C35.RDG",
+          "code": "ENG.C35.RDG",
+          "data": {
+            "title": "English Reading (Classes III–V)",
+            "subject": "English (I–VIII)",
+            "class": "III–V",
+            "strand": "Reading",
+            "description": "Reading stories, poems and simple information with comprehension; using a dictionary."
+          }
+        },
+        {
+          "key": "ncert-elem:ENG.C35.WRT",
+          "code": "ENG.C35.WRT",
+          "data": {
+            "title": "English Writing (Classes III–V)",
+            "subject": "English (I–VIII)",
+            "class": "III–V",
+            "strand": "Writing",
+            "description": "Writing paragraphs, messages and short descriptions with basic grammar and punctuation."
+          }
+        },
+        {
+          "key": "ncert-elem:ENG.C68.LSN",
+          "code": "ENG.C68.LSN",
+          "data": {
+            "title": "English Listening & Speaking (Classes VI–VIII)",
+            "subject": "English (I–VIII)",
+            "class": "VI–VIII",
+            "strand": "Listening & Speaking",
+            "description": "Discussing, presenting and role-playing; listening for gist and detail."
+          }
+        },
+        {
+          "key": "ncert-elem:ENG.C68.RDG",
+          "code": "ENG.C68.RDG",
+          "data": {
+            "title": "English Reading (Classes VI–VIII)",
+            "subject": "English (I–VIII)",
+            "class": "VI–VIII",
+            "strand": "Reading",
+            "description": "Reading longer literary and non-fiction texts; inferring meaning and evaluating."
+          }
+        },
+        {
+          "key": "ncert-elem:ENG.C68.WRT",
+          "code": "ENG.C68.WRT",
+          "data": {
+            "title": "English Writing (Classes VI–VIII)",
+            "subject": "English (I–VIII)",
+            "class": "VI–VIII",
+            "strand": "Writing",
+            "description": "Writing for varied purposes — letters, reports, narratives — with editing and revision."
+          }
+        },
+        {
+          "key": "ncert-elem:ENG.C68.GRM",
+          "code": "ENG.C68.GRM",
+          "data": {
+            "title": "English Grammar & Vocabulary (Classes VI–VIII)",
+            "subject": "English (I–VIII)",
+            "class": "VI–VIII",
+            "strand": "Grammar & Vocabulary",
+            "description": "Using grammar accurately and building a rich vocabulary in context."
+          }
+        },
+        {
+          "key": "ncert-elem:EVS.FAM",
+          "code": "EVS.FAM",
+          "data": {
+            "title": "EVS: Family and Friends",
+            "subject": "Environmental Studies (III–V)",
+            "class": "III–V",
+            "strand": "Family and Friends",
+            "description": "The child’s widening world — family and relationships, work and play, plants and animals around us."
+          }
+        },
+        {
+          "key": "ncert-elem:EVS.FOOD",
+          "code": "EVS.FOOD",
+          "data": {
+            "title": "EVS: Food",
+            "subject": "Environmental Studies (III–V)",
+            "class": "III–V",
+            "strand": "Food",
+            "description": "Where food comes from, what the body needs, and food across regions."
+          }
+        },
+        {
+          "key": "ncert-elem:EVS.SHELTER",
+          "code": "EVS.SHELTER",
+          "data": {
+            "title": "EVS: Shelter",
+            "subject": "Environmental Studies (III–V)",
+            "class": "III–V",
+            "strand": "Shelter",
+            "description": "Homes and shelters — kinds, materials, and shelter for people and animals."
+          }
+        },
+        {
+          "key": "ncert-elem:EVS.WATER",
+          "code": "EVS.WATER",
+          "data": {
+            "title": "EVS: Water",
+            "subject": "Environmental Studies (III–V)",
+            "class": "III–V",
+            "strand": "Water",
+            "description": "Sources and uses of water, keeping it clean, and using it wisely."
+          }
+        },
+        {
+          "key": "ncert-elem:EVS.TRAVEL",
+          "code": "EVS.TRAVEL",
+          "data": {
+            "title": "EVS: Travel",
+            "subject": "Environmental Studies (III–V)",
+            "class": "III–V",
+            "strand": "Travel",
+            "description": "How people and things move from place to place, and communication."
+          }
+        },
+        {
+          "key": "ncert-elem:EVS.MAKE",
+          "code": "EVS.MAKE",
+          "data": {
+            "title": "EVS: Things We Make and Do",
+            "subject": "Environmental Studies (III–V)",
+            "class": "III–V",
+            "strand": "Things We Make and Do",
+            "description": "Materials and their uses; the things people make and the work they do."
+          }
+        },
+        {
+          "key": "ncert-elem:SCI.FOOD",
+          "code": "SCI.FOOD",
+          "data": {
+            "title": "Science: Food",
+            "subject": "Science (VI–VIII)",
+            "class": "VI–VIII",
+            "strand": "Food",
+            "description": "Food sources and components; nutrition in plants and animals; crops and their production."
+          }
+        },
+        {
+          "key": "ncert-elem:SCI.MAT",
+          "code": "SCI.MAT",
+          "data": {
+            "title": "Science: Materials",
+            "subject": "Science (VI–VIII)",
+            "class": "VI–VIII",
+            "strand": "Materials",
+            "description": "Materials and their properties; separation of substances; metals and non-metals; changes and reactions."
+          }
+        },
+        {
+          "key": "ncert-elem:SCI.LIV",
+          "code": "SCI.LIV",
+          "data": {
+            "title": "Science: The World of the Living",
+            "subject": "Science (VI–VIII)",
+            "class": "VI–VIII",
+            "strand": "The World of the Living",
+            "description": "Living things and their surroundings; cells; body systems; reproduction; classification."
+          }
+        },
+        {
+          "key": "ncert-elem:SCI.MOV",
+          "code": "SCI.MOV",
+          "data": {
+            "title": "Science: Moving Things, People and Ideas",
+            "subject": "Science (VI–VIII)",
+            "class": "VI–VIII",
+            "strand": "Moving Things, People and Ideas",
+            "description": "Motion and measurement; force, friction and pressure."
+          }
+        },
+        {
+          "key": "ncert-elem:SCI.WORK",
+          "code": "SCI.WORK",
+          "data": {
+            "title": "Science: How Things Work",
+            "subject": "Science (VI–VIII)",
+            "class": "VI–VIII",
+            "strand": "How Things Work",
+            "description": "Electric current and circuits; magnetism."
+          }
+        },
+        {
+          "key": "ncert-elem:SCI.PHEN",
+          "code": "SCI.PHEN",
+          "data": {
+            "title": "Science: Natural Phenomena",
+            "subject": "Science (VI–VIII)",
+            "class": "VI–VIII",
+            "strand": "Natural Phenomena",
+            "description": "Light and reflection; sound; weather and climate; natural events."
+          }
+        },
+        {
+          "key": "ncert-elem:SCI.NAT",
+          "code": "SCI.NAT",
+          "data": {
+            "title": "Science: Natural Resources",
+            "subject": "Science (VI–VIII)",
+            "class": "VI–VIII",
+            "strand": "Natural Resources",
+            "description": "Air, water and soil; conservation; pollution and its control."
+          }
+        },
+        {
+          "key": "ncert-elem:SS.HIST.C6",
+          "code": "SS.HIST.C6",
+          "data": {
+            "title": "Social Science History — Our Pasts I (Class VI)",
+            "subject": "Social Science (VI–VIII)",
+            "class": "VI",
+            "strand": "History — Our Pasts I",
+            "description": "From the earliest societies and the Indus Valley through the Vedic age and early empires to the Guptas."
+          }
+        },
+        {
+          "key": "ncert-elem:SS.HIST.C7",
+          "code": "SS.HIST.C7",
+          "data": {
+            "title": "Social Science History — Our Pasts II (Class VII)",
+            "subject": "Social Science (VI–VIII)",
+            "class": "VII",
+            "strand": "History — Our Pasts II",
+            "description": "Medieval India — the Delhi Sultanate, the Mughals and regional kingdoms, their society and culture."
+          }
+        },
+        {
+          "key": "ncert-elem:SS.HIST.C8",
+          "code": "SS.HIST.C8",
+          "data": {
+            "title": "Social Science History — Our Pasts III (Class VIII)",
+            "subject": "Social Science (VI–VIII)",
+            "class": "VIII",
+            "strand": "History — Our Pasts III",
+            "description": "Modern India — colonial rule, its impact, reform, and the national movement to independence."
+          }
+        },
+        {
+          "key": "ncert-elem:SS.GEO.C6",
+          "code": "SS.GEO.C6",
+          "data": {
+            "title": "Social Science Geography (Class VI)",
+            "subject": "Social Science (VI–VIII)",
+            "class": "VI",
+            "strand": "Geography",
+            "description": "The Earth in the solar system; globe and maps; the domains of the Earth."
+          }
+        },
+        {
+          "key": "ncert-elem:SS.GEO.C7",
+          "code": "SS.GEO.C7",
+          "data": {
+            "title": "Social Science Geography (Class VII)",
+            "subject": "Social Science (VI–VIII)",
+            "class": "VII",
+            "strand": "Geography",
+            "description": "Environment; the interior of the Earth and landforms; air, water and natural vegetation."
+          }
+        },
+        {
+          "key": "ncert-elem:SS.GEO.C8",
+          "code": "SS.GEO.C8",
+          "data": {
+            "title": "Social Science Geography (Class VIII)",
+            "subject": "Social Science (VI–VIII)",
+            "class": "VIII",
+            "strand": "Geography",
+            "description": "Resources; agriculture, industries and human resources."
+          }
+        },
+        {
+          "key": "ncert-elem:SS.POL.C6",
+          "code": "SS.POL.C6",
+          "data": {
+            "title": "Social Science Social & Political Life (Class VI)",
+            "subject": "Social Science (VI–VIII)",
+            "class": "VI",
+            "strand": "Social & Political Life",
+            "description": "Diversity; government; local government and administration in village and town."
+          }
+        },
+        {
+          "key": "ncert-elem:SS.POL.C7",
+          "code": "SS.POL.C7",
+          "data": {
+            "title": "Social Science Social & Political Life (Class VII)",
+            "subject": "Social Science (VI–VIII)",
+            "class": "VII",
+            "strand": "Social & Political Life",
+            "description": "Equality in democracy; the role of government in health and markets; media and advertising."
+          }
+        },
+        {
+          "key": "ncert-elem:SS.POL.C8",
+          "code": "SS.POL.C8",
+          "data": {
+            "title": "Social Science Social & Political Life (Class VIII)",
+            "subject": "Social Science (VI–VIII)",
+            "class": "VIII",
+            "strand": "Social & Political Life",
+            "description": "The Constitution; the parliamentary system; the judiciary; social justice and marginalisation."
           }
         }
       ]

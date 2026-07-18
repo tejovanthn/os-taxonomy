@@ -28,8 +28,16 @@ Work-in-progress addition of Indian curricula, integrated one source at a time.
   grammar progression (declensions by stem class; lakaras growing 2→3→5;
   sandhi/upasarga/pratyaya staged at Class VIII); pure alignment — 10 existing
   Sanskrit topics linked, zero new topics.
-- Still to integrate: English I–VIII, EVS III–V, Science VI–VIII, Social
-  Science VI–VIII (clean-text PDFs).
+- **English I–VIII, EVS III–V, Science VI–VIII, Social Science VI–VIII**
+  (clean-text PDFs): 32 further class/theme standards, **all pure alignment —
+  zero new topics** (67 existing topics linked). NCERT's integrated
+  environmental studies, upper-primary science, and Class VI–VIII Indian
+  history/geography/civics all map onto topics already built from the UK NC,
+  Common Core and NIOS. Every one of the 95 `ncert-elem` standards is now
+  linked to at least one topic.
+- Net for NCERT elementary across all six documents: 95 standards, 4 new
+  primary-Hindi topics, ~230 topic→standard links — India's national
+  elementary curriculum is now cross-referenced throughout the graph.
 
 ### KSGH graded music & dance examinations — the performing-arts ladders (2026-07-17)
 
