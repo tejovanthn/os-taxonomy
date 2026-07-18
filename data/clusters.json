@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 328,
+  "clusterCount": 336,
   "clusters": [
     {
       "subject": "English",
@@ -1980,6 +1980,62 @@
       "ageRangeStart": 16,
       "ageRangeEnd": 17,
       "summary": "Human physiology is the study of how a large body keeps every cell supplied and in balance. Learners follow food through enzymatic breakdown and absorption, oxygen from air to alveolus to bloodstream, and waste out through the nephron. The recurring theme is surface area and gradient: villi, alveoli and nephrons are all solutions to the same problem of exchanging enough material fast enough. It ends with the two coordinating systems — nerves for speed, hormones for duration."
+    },
+    {
+      "subject": "Mathematics",
+      "domain": "Calculus",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "summary": "Calculus is the point at which mathematics gains a language for change. The derivative answers how fast something is changing at a single instant — a question that looks impossible until limits make it precise — and the integral accumulates a quantity over an interval. The striking result is that these two turn out to be inverse operations, which is what the Fundamental Theorem says. Once that is in place, questions about optimisation, areas under curves and equations whose unknown is a function all become tractable."
+    },
+    {
+      "subject": "Mathematics",
+      "domain": "Sets, Relations & Functions",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "summary": "This strand supplies the vocabulary the rest of senior mathematics is written in. A set is any well-defined collection, a relation is a set of ordered pairs, and a function is the special relation that assigns exactly one output to each input. Getting these definitions precise pays off immediately: probability becomes the study of subsets of a sample space, and questions about whether a function can be inverted turn into questions about whether it is one-to-one and onto."
+    },
+    {
+      "subject": "Mathematics",
+      "domain": "Vectors & 3-D Geometry",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "summary": "Here geometry moves off the page into space. Learners first locate points with three coordinates, then meet vectors as objects carrying both magnitude and direction. Two ways of multiplying them turn out to be useful in different ways: the dot product measures how much two directions agree and returns a number, while the cross product returns a vector perpendicular to both. With these, lines and planes in space can be described compactly and the angles and distances between them computed."
+    },
+    {
+      "subject": "Sociology",
+      "domain": "Foundations of Sociology",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "summary": "Sociology begins with a shift in attention: from why this person did that, to why people in this position tend to do that. Learners meet the discipline’s working vocabulary — group, status, role, norm, culture, socialisation — and the central claim that much of what feels like personal choice is shaped by where one stands in a social structure. The most useful habit it builds is recognising that a private difficulty shared by millions of people is not really private at all."
+    },
+    {
+      "subject": "Sociology",
+      "domain": "Stratification & Inequality",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "summary": "Every known society ranks its members, but the basis of the ranking varies: class turns on wealth and occupation, caste on birth and ritual status, and gender and race on ascribed characteristics. This strand examines how those systems differ in how open they are to movement, how they intersect so that disadvantage compounds, and how exclusion operates through ordinary institutional practice rather than only through open prejudice. It is the part of the subject where description most obviously turns into argument about policy."
+    },
+    {
+      "subject": "Sociology",
+      "domain": "Indian Society",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "summary": "The Class XII material turns the tools of the subject on India itself. Colonialism is treated not as background but as the force that reorganised land, law and identity, leaving structures still visible today. Learners study India’s demographic profile, the transformation rather than disappearance of caste, the position of tribal communities, and the tension a plural society lives with between celebrating difference and being divided by it."
+    },
+    {
+      "subject": "Psychology",
+      "domain": "Cognition & Learning",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "summary": "This strand covers how people take in, hold and use information. Learning is treated in three ways — association, consequence and imitation — and memory as a system of encoding, storage and retrieval rather than a recording device. The most useful idea here is that recall is reconstructive: memories are rebuilt each time, which is why two honest witnesses can remember the same event differently. Thinking then adds problem solving, reasoning and the biases that make familiar shortcuts sometimes go wrong."
+    },
+    {
+      "subject": "Psychology",
+      "domain": "Personality & Individual Differences",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "summary": "Here psychology addresses what makes people different from one another. Learners meet competing theories of intelligence and the difficulty of summarising it in a single score, particularly across cultures. Personality is approached through five quite different traditions — type, trait, psychodynamic, behavioural and humanistic — each implying its own assessment method. The recurring caution is that measurement in this area is easier to do than to do fairly."
     }
   ]
 }

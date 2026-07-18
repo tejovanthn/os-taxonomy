@@ -46662,7 +46662,7 @@
       "sourceUrl": "https://ncert.nic.in/syllabus.php",
       "textIncluded": true,
       "license": "NCERT permits no reproduction of its text; these records carry Marble-authored factual descriptions only (no NCERT text) — see PROVENANCE.md",
-      "topicCount": 60,
+      "topicCount": 126,
       "topics": [
         {
           "key": "ncert-hsec:PHY.C11.U1",
@@ -47322,6 +47322,732 @@
             "class": "XII",
             "strand": "Ecology and Environment",
             "description": "Ecosystems — their components, types and energy flow, and ecological pyramids; species, population and community; ecological adaptations; centres of diversity, conservation of biodiversity, national parks and sanctuaries; in situ and ex situ conservation; environmental issues including pollution, deforestation, global warming and ozone depletion."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.SET",
+          "code": "MAT.C11.SET",
+          "data": {
+            "title": "Class XI Sets",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Sets",
+            "description": "Sets and their representation; empty, finite and infinite and equal sets; subsets and intervals of the reals; power set and universal set; Venn diagrams; union, intersection, difference and complement."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.REL",
+          "code": "MAT.C11.REL",
+          "data": {
+            "title": "Class XI Relations and Functions",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Relations and Functions",
+            "description": "Ordered pairs and Cartesian products; relations with domain, co-domain and range; functions as a special kind of relation; constant, identity, polynomial, rational, modulus, signum and greatest integer functions and their graphs; algebra of real functions."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.TRIG",
+          "code": "MAT.C11.TRIG",
+          "data": {
+            "title": "Class XI Trigonometric Functions",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Trigonometric Functions",
+            "description": "Positive and negative angles and measurement in degrees and radians; trigonometric functions defined on the unit circle and their graphs; compound and multiple angle identities; general solution of trigonometric equations; sine and cosine formulae."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.IND",
+          "code": "MAT.C11.IND",
+          "data": {
+            "title": "Class XI Mathematical Induction",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Mathematical Induction",
+            "description": "The natural numbers as the least inductive subset of the reals; the principle of mathematical induction and its use in proving statements about all natural numbers."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.COMPLEX",
+          "code": "MAT.C11.COMPLEX",
+          "data": {
+            "title": "Class XI Complex Numbers",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Complex Numbers",
+            "description": "The need for complex numbers arising from unsolvable quadratics; algebraic properties; the Argand plane and polar representation; the Fundamental Theorem of Algebra; solving quadratic equations over the complex numbers."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.INEQ",
+          "code": "MAT.C11.INEQ",
+          "data": {
+            "title": "Class XI Linear Inequalities",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Linear Inequalities",
+            "description": "Algebraic solution of linear inequalities in one variable and representation on the number line; graphical solution of linear inequalities in two variables and of systems of such inequalities."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.PERM",
+          "code": "MAT.C11.PERM",
+          "data": {
+            "title": "Class XI Permutations and Combinations",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Permutations and Combinations",
+            "description": "The fundamental principle of counting; factorial notation; permutations and combinations, the derivation of their formulae and the connection between them; simple applications."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.BINOM",
+          "code": "MAT.C11.BINOM",
+          "data": {
+            "title": "Class XI Binomial Theorem",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Binomial Theorem",
+            "description": "Statement and proof of the binomial theorem for positive integral indices; Pascal’s triangle; general and middle terms of an expansion; simple applications."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.SEQ",
+          "code": "MAT.C11.SEQ",
+          "data": {
+            "title": "Class XI Sequence and Series",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Sequence and Series",
+            "description": "Arithmetic progression and arithmetic mean; geometric progression, its general term and sum to n terms; geometric mean and the relation between arithmetic and geometric means; sums of special series."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.LINE",
+          "code": "MAT.C11.LINE",
+          "data": {
+            "title": "Class XI Straight Lines",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Straight Lines",
+            "description": "Slope of a line and the angle between two lines; the point-slope, slope-intercept, two-point, intercept and normal forms; the general equation of a line; distance of a point from a line."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.CONIC",
+          "code": "MAT.C11.CONIC",
+          "data": {
+            "title": "Class XI Conic Sections",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Conic Sections",
+            "description": "Sections of a cone giving circles, ellipses, parabolas and hyperbolas, with degenerate cases; standard equations and simple properties of the parabola, ellipse and hyperbola; the standard equation of a circle."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.3D",
+          "code": "MAT.C11.3D",
+          "data": {
+            "title": "Class XI Three-Dimensional Geometry",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Three-Dimensional Geometry",
+            "description": "Coordinate axes and planes in three dimensions; coordinates of a point; distance between two points and the section formula in three dimensions."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.CALC",
+          "code": "MAT.C11.CALC",
+          "data": {
+            "title": "Class XI Limits and Derivatives",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Limits and Derivatives",
+            "description": "The derivative introduced as a rate of change and geometrically; the intuitive idea of a limit; definition of the derivative and its relation to the slope of a tangent; derivatives of sums, differences, products and quotients, and of polynomial and trigonometric functions."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.REASON",
+          "code": "MAT.C11.REASON",
+          "data": {
+            "title": "Class XI Mathematical Reasoning",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Mathematical Reasoning",
+            "description": "Mathematically acceptable statements; the connecting words implies, if and only if, and, or, and there exists; validating statements; the difference between contradiction, converse and contrapositive."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.STAT",
+          "code": "MAT.C11.STAT",
+          "data": {
+            "title": "Class XI Statistics",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Statistics",
+            "description": "Measures of dispersion — mean deviation, variance and standard deviation for grouped and ungrouped data; analysis of frequency distributions with equal means but different variances."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C11.PROB",
+          "code": "MAT.C11.PROB",
+          "data": {
+            "title": "Class XI Probability",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Probability",
+            "description": "Random experiments, outcomes and sample spaces in set notation; events and their occurrence; not, and and or events; exhaustive and mutually exclusive events; axiomatic probability and its connection with earlier approaches."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C12.REL",
+          "code": "MAT.C12.REL",
+          "data": {
+            "title": "Class XII Relations and Functions",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Relations and Functions",
+            "description": "Reflexive, symmetric, transitive and equivalence relations; one-to-one and onto functions; composite functions and the inverse of a function; binary operations."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C12.INVTRIG",
+          "code": "MAT.C12.INVTRIG",
+          "data": {
+            "title": "Class XII Inverse Trigonometric Functions",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Inverse Trigonometric Functions",
+            "description": "Definition, range, domain and principal value branches of the inverse trigonometric functions; their graphs; elementary properties."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C12.MATRIX",
+          "code": "MAT.C12.MATRIX",
+          "data": {
+            "title": "Class XII Matrices",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Matrices",
+            "description": "Order, equality and types of matrices; transpose; symmetric and skew symmetric matrices; addition, scalar multiplication and multiplication of matrices and their properties; non-commutativity of matrix multiplication; elementary row and column operations; invertible matrices and uniqueness of the inverse."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C12.DET",
+          "code": "MAT.C12.DET",
+          "data": {
+            "title": "Class XII Determinants",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Determinants",
+            "description": "Determinant of a square matrix up to order three and its properties; minors and cofactors; area of a triangle; adjoint and inverse of a matrix; consistency of systems of linear equations; solving systems in two or three variables using the inverse of a matrix."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C12.CONT",
+          "code": "MAT.C12.CONT",
+          "data": {
+            "title": "Class XII Continuity and Differentiability",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Continuity and Differentiability",
+            "description": "Continuity and differentiability; derivatives of composite functions and the chain rule; derivatives of inverse trigonometric and implicit functions; exponential and logarithmic functions and their derivatives; logarithmic differentiation; parametric forms; second order derivatives; Rolle’s and Lagrange’s mean value theorems."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C12.APPDER",
+          "code": "MAT.C12.APPDER",
+          "data": {
+            "title": "Class XII Applications of Derivatives",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Applications of Derivatives",
+            "description": "Rate of change; increasing and decreasing functions; tangents and normals; approximation; maxima and minima using the first and second derivative tests; simple applied problems."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C12.INT",
+          "code": "MAT.C12.INT",
+          "data": {
+            "title": "Class XII Integrals",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Integrals",
+            "description": "Integration as the inverse of differentiation; integration by substitution, by partial fractions and by parts; standard integral forms; definite integrals as the limit of a sum; the Fundamental Theorem of Calculus; properties and evaluation of definite integrals."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C12.APPINT",
+          "code": "MAT.C12.APPINT",
+          "data": {
+            "title": "Class XII Applications of the Integrals",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Applications of the Integrals",
+            "description": "Finding the area under simple curves including lines, arcs of circles, parabolas and ellipses in standard form, and the area between two such curves."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C12.DIFFEQ",
+          "code": "MAT.C12.DIFFEQ",
+          "data": {
+            "title": "Class XII Differential Equations",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Differential Equations",
+            "description": "Definition, order and degree; general and particular solutions; formation of a differential equation from its general solution; solution by separation of variables; homogeneous equations of first order and first degree; linear differential equations."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C12.VEC",
+          "code": "MAT.C12.VEC",
+          "data": {
+            "title": "Class XII Vectors",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Vectors",
+            "description": "Magnitude and direction of a vector; direction cosines and ratios; equal, unit, zero, parallel and collinear vectors; position vectors and components; addition and scalar multiplication; the section formula; scalar (dot) and vector (cross) products and projection."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C12.3D",
+          "code": "MAT.C12.3D",
+          "data": {
+            "title": "Class XII Three-Dimensional Geometry",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Three-Dimensional Geometry",
+            "description": "Direction cosines and ratios of a line; Cartesian and vector equations of a line; coplanar and skew lines and the shortest distance between two lines; Cartesian and vector equations of a plane; angles between lines and planes; distance of a point from a plane."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C12.LP",
+          "code": "MAT.C12.LP",
+          "data": {
+            "title": "Class XII Linear Programming",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Linear Programming",
+            "description": "Constraints, objective function and optimisation; types of linear programming problem and their mathematical formulation; graphical solution in two variables; feasible and infeasible regions and solutions; optimal feasible solutions."
+          }
+        },
+        {
+          "key": "ncert-hsec:MAT.C12.PROB",
+          "code": "MAT.C12.PROB",
+          "data": {
+            "title": "Class XII Probability",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Probability",
+            "description": "The multiplication theorem; conditional probability and independent events; total probability and Bayes’ theorem; random variables and their probability distributions; mean and variance; repeated independent Bernoulli trials and the binomial distribution."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C11.A1",
+          "code": "SOC.C11.A1",
+          "data": {
+            "title": "Class XI Society and Sociology",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Society and Sociology",
+            "description": "Introducing society as individuals and collectivities and the plural perspectives on it; the emergence, nature and scope of sociology and its relationship with other disciplines."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C11.A2",
+          "code": "SOC.C11.A2",
+          "data": {
+            "title": "Class XI Basic Concepts",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Basic Concepts",
+            "description": "Social groups; status and role; social stratification; social control."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C11.A3",
+          "code": "SOC.C11.A3",
+          "data": {
+            "title": "Class XI Social Institutions",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Social Institutions",
+            "description": "Family and kinship; political and economic institutions; religion as a social institution; education as a social institution."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C11.A4",
+          "code": "SOC.C11.A4",
+          "data": {
+            "title": "Class XI Culture and Society",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Culture and Society",
+            "description": "Culture, values and norms as shared, plural and contested; socialisation, conformity, conflict and the shaping of personality."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C11.A5",
+          "code": "SOC.C11.A5",
+          "data": {
+            "title": "Class XI Doing Sociology",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Doing Sociology",
+            "description": "Tools and techniques of sociological enquiry — observation, survey and interview; the significance of field work in sociology."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C11.B1",
+          "code": "SOC.C11.B1",
+          "data": {
+            "title": "Class XI Structure, Process and Stratification",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Structure, Process and Stratification",
+            "description": "Social structure; social processes of cooperation, competition and conflict; social stratification by class, caste, race and gender."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C11.B2",
+          "code": "SOC.C11.B2",
+          "data": {
+            "title": "Class XI Social Change and Order",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Social Change and Order",
+            "description": "Types, dimensions, causes and consequences of social change; social order through domination, authority and law; contestation, crime and violence; changes in rural and urban society."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C11.B3",
+          "code": "SOC.C11.B3",
+          "data": {
+            "title": "Class XI Environment and Society",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Environment and Society",
+            "description": "Ecology and society; environmental crises and the social responses to them."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C11.B4",
+          "code": "SOC.C11.B4",
+          "data": {
+            "title": "Class XI Western Social Thinkers",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Western Social Thinkers",
+            "description": "Karl Marx on class conflict; Emile Durkheim on the division of labour; Max Weber on bureaucracy."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C11.B5",
+          "code": "SOC.C11.B5",
+          "data": {
+            "title": "Class XI Indian Sociologists",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Indian Sociologists",
+            "description": "G.S. Ghurye on race and caste; D.P. Mukerji on tradition and change; A.R. Desai on the state; M.N. Srinivas on the village."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C12.A1",
+          "code": "SOC.C12.A1",
+          "data": {
+            "title": "Class XII Structure of Indian Society",
+            "subject": "Sociology (XI–XII)",
+            "class": "XII",
+            "strand": "Structure of Indian Society",
+            "description": "Introducing Indian society through colonialism, nationalism, class and community; demographic structure; rural-urban linkages and divisions."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C12.A2",
+          "code": "SOC.C12.A2",
+          "data": {
+            "title": "Class XII Social Institutions: Continuity and Change",
+            "subject": "Sociology (XI–XII)",
+            "class": "XII",
+            "strand": "Social Institutions: Continuity and Change",
+            "description": "Family and kinship; the caste system; tribal society; the market as a social institution."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C12.A3",
+          "code": "SOC.C12.A3",
+          "data": {
+            "title": "Class XII Social Inequality and Exclusion",
+            "subject": "Sociology (XI–XII)",
+            "class": "XII",
+            "strand": "Social Inequality and Exclusion",
+            "description": "Caste prejudice, Scheduled Castes and Other Backward Classes; marginalisation of tribal communities; the struggle for women’s equality; protection of religious minorities; caring for the differently abled."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C12.A4",
+          "code": "SOC.C12.A4",
+          "data": {
+            "title": "Class XII Challenges of Unity in Diversity",
+            "subject": "Sociology (XI–XII)",
+            "class": "XII",
+            "strand": "Challenges of Unity in Diversity",
+            "description": "Problems of communalism, regionalism, casteism and patriarchy; the role of the state in a plural and unequal society; what we share."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C12.B1",
+          "code": "SOC.C12.B1",
+          "data": {
+            "title": "Class XII Process of Social Change in India",
+            "subject": "Sociology (XI–XII)",
+            "class": "XII",
+            "strand": "Process of Social Change in India",
+            "description": "Structural change through colonialism, industrialisation and urbanisation; cultural change through modernisation, westernisation, sanskritisation and secularisation; social reform movements and laws."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C12.B2",
+          "code": "SOC.C12.B2",
+          "data": {
+            "title": "Class XII Social Change and the Polity",
+            "subject": "Sociology (XI–XII)",
+            "class": "XII",
+            "strand": "Social Change and the Polity",
+            "description": "The Constitution as an instrument of social change; parties, pressure groups and democratic politics; Panchayati Raj and the challenges of social transformation."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C12.B3",
+          "code": "SOC.C12.B3",
+          "data": {
+            "title": "Class XII Social Change and the Economy",
+            "subject": "Sociology (XI–XII)",
+            "class": "XII",
+            "strand": "Social Change and the Economy",
+            "description": "Land reforms, the green revolution and agrarian society; from planned industrialisation to liberalisation; changes in the class structure."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C12.B4",
+          "code": "SOC.C12.B4",
+          "data": {
+            "title": "Class XII New Arenas of Social Change",
+            "subject": "Sociology (XI–XII)",
+            "class": "XII",
+            "strand": "New Arenas of Social Change",
+            "description": "Media and social change; globalisation and social change."
+          }
+        },
+        {
+          "key": "ncert-hsec:SOC.C12.B5",
+          "code": "SOC.C12.B5",
+          "data": {
+            "title": "Class XII Social Movements",
+            "subject": "Sociology (XI–XII)",
+            "class": "XII",
+            "strand": "Social Movements",
+            "description": "Class-based movements of workers and peasants; caste-based movements including the Dalit movement and backward castes, and trends in upper caste responses."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C11.U1",
+          "code": "PSY.C11.U1",
+          "data": {
+            "title": "Class XI What is Psychology?",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "What is Psychology?",
+            "description": "Psychology as a discipline and as a natural and social science; understanding mind and behaviour; popular notions about the discipline; the evolution of psychology; branches, themes of research and application, and psychology in everyday life."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C11.U2",
+          "code": "PSY.C11.U2",
+          "data": {
+            "title": "Class XI Methods of Enquiry",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "Methods of Enquiry",
+            "description": "Goals of psychological enquiry; the nature of psychological data; observational, experimental, correlational, survey, psychological testing and case study methods; analysis and interpretation of data; limitations and ethical issues."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C11.U3",
+          "code": "PSY.C11.U3",
+          "data": {
+            "title": "Class XI The Bases of Human Behaviour",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "The Bases of Human Behaviour",
+            "description": "Evolutionary perspective; biological and cultural roots of behaviour; the nervous and endocrine systems and their relation to behaviour; the brain and behaviour; culture and socialisation; enculturation and acculturation."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C11.U4",
+          "code": "PSY.C11.U4",
+          "data": {
+            "title": "Class XI Human Development",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "Human Development",
+            "description": "The meaning of development and the life-span perspective; factors influencing development; the stages from prenatal through adolescence to adulthood and old age; the challenges of adolescence."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C11.U5",
+          "code": "PSY.C11.U5",
+          "data": {
+            "title": "Class XI Sensory, Attentional and Perceptual Processes",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "Sensory, Attentional and Perceptual Processes",
+            "description": "Sense modalities and their functional limits; attention — selective and sustained, and factors affecting it; perception, perceptual organisation and constancies; depth and space perception; illusions; socio-cultural influences on perception."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C11.U6",
+          "code": "PSY.C11.U6",
+          "data": {
+            "title": "Class XI Learning",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "Learning",
+            "description": "The nature of learning; classical and operant conditioning; observational, cognitive and verbal learning; skill learning; factors facilitating learning; transfer of learning; learning disabilities."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C11.U7",
+          "code": "PSY.C11.U7",
+          "data": {
+            "title": "Class XI Human Memory",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "Human Memory",
+            "description": "The nature of memory; information processing and the stages of memory; levels of processing; types of long-term memory; memory as a constructive process; forgetting and its causes; enhancing memory."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C11.U8",
+          "code": "PSY.C11.U8",
+          "data": {
+            "title": "Class XI Thinking",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "Thinking",
+            "description": "The nature of thinking; the building blocks of thought; problem solving and reasoning; decision making; the nature and process of creative thinking; developing creative thinking; thought and language; the development of language and language use."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C11.U9",
+          "code": "PSY.C11.U9",
+          "data": {
+            "title": "Class XI Motivation and Emotion",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "Motivation and Emotion",
+            "description": "The nature of motivation; biological and psychosocial motives; the nature of emotions; physiological, cognitive and cultural bases of emotion; expression of emotions; managing negative emotions and enhancing positive emotions."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C12.U1",
+          "code": "PSY.C12.U1",
+          "data": {
+            "title": "Class XII Variations in Psychological Attributes",
+            "subject": "Psychology (XI–XII)",
+            "class": "XII",
+            "strand": "Variations in Psychological Attributes",
+            "description": "Individual differences in human functioning; assessment of psychological attributes; intelligence and its theories; individual differences in and culture and intelligence; special abilities, creativity and aptitude."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C12.U2",
+          "code": "PSY.C12.U2",
+          "data": {
+            "title": "Class XII Self and Personality",
+            "subject": "Psychology (XI–XII)",
+            "class": "XII",
+            "strand": "Self and Personality",
+            "description": "Concept of self and its cognitive and behavioural aspects; culture and self; concept of personality; type, trait, psychodynamic, behavioural, cultural and humanistic approaches; assessment of personality."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C12.U3",
+          "code": "PSY.C12.U3",
+          "data": {
+            "title": "Class XII Meeting Life Challenges",
+            "subject": "Psychology (XI–XII)",
+            "class": "XII",
+            "strand": "Meeting Life Challenges",
+            "description": "The nature, types and sources of stress; effects of stress on psychological functioning and health; coping with stress; promoting positive health and well-being."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C12.U4",
+          "code": "PSY.C12.U4",
+          "data": {
+            "title": "Class XII Psychological Disorders",
+            "subject": "Psychology (XI–XII)",
+            "class": "XII",
+            "strand": "Psychological Disorders",
+            "description": "Concepts of abnormality and psychological disorders; classification of disorders; factors underlying abnormal behaviour; major psychological disorders including anxiety, mood, schizophrenic, developmental and behavioural disorders and substance use disorders."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C12.U5",
+          "code": "PSY.C12.U5",
+          "data": {
+            "title": "Class XII Therapeutic Approaches",
+            "subject": "Psychology (XI–XII)",
+            "class": "XII",
+            "strand": "Therapeutic Approaches",
+            "description": "The nature and process of therapy; the therapeutic relationship; types of therapy — psychodynamic, behaviour, cognitive, humanistic-existential, biomedical and alternative; rehabilitation of the mentally ill."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C12.U6",
+          "code": "PSY.C12.U6",
+          "data": {
+            "title": "Class XII Attitude and Social Cognition",
+            "subject": "Psychology (XI–XII)",
+            "class": "XII",
+            "strand": "Attitude and Social Cognition",
+            "description": "Explaining social behaviour; nature and components of attitudes; attitude formation and change; prejudice and discrimination; strategies for handling prejudice; social cognition, schemas and stereotypes; impression formation and attribution; pro-social behaviour."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C12.U7",
+          "code": "PSY.C12.U7",
+          "data": {
+            "title": "Class XII Social Influence and Group Processes",
+            "subject": "Psychology (XI–XII)",
+            "class": "XII",
+            "strand": "Social Influence and Group Processes",
+            "description": "Nature and formation of groups; types of groups; influence of group on individual behaviour; conformity, compliance and obedience; cooperation and competition; social identity; intergroup conflict and conflict resolution."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C12.U8",
+          "code": "PSY.C12.U8",
+          "data": {
+            "title": "Class XII Psychology and Life",
+            "subject": "Psychology (XI–XII)",
+            "class": "XII",
+            "strand": "Psychology and Life",
+            "description": "Human-environment relationship; environmental effects on human behaviour; promoting pro-environmental behaviour; psychology and social concerns including poverty, aggression, violence, health and the impact of television."
+          }
+        },
+        {
+          "key": "ncert-hsec:PSY.C12.U9",
+          "code": "PSY.C12.U9",
+          "data": {
+            "title": "Class XII Developing Psychological Skills",
+            "subject": "Psychology (XI–XII)",
+            "class": "XII",
+            "strand": "Developing Psychological Skills",
+            "description": "Effective psychological skills; observational, communication and counselling skills; empathy and active listening; the skills required of a psychologist."
           }
         }
       ]

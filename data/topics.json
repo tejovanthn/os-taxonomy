@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2236,
+  "topicCount": 2330,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -45381,6 +45381,1891 @@
       "assessmentPrompt": "Ask {{name}} whether saving a species in a zoo is the same as saving it in the wild.",
       "standards": [
         "ncert-hsec:BIO.U10"
+      ]
+    },
+    {
+      "id": "mt_CXqMHB45fB",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Sets, Relations & Functions",
+      "name": "Sets, Subsets and Set Operations",
+      "description": "Understand a set as a well-defined collection, and combine sets by union, intersection, difference and complement, using Venn diagrams to reason about the results.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Uses correct set notation for subsets, power sets and intervals",
+        "Computes unions, intersections and complements",
+        "Represents a relationship between sets on a Venn diagram"
+      ],
+      "assessmentPrompt": "Ask {{name}} how many subsets a set of three things has, and why.",
+      "standards": [
+        "ncert-hsec:MAT.C11.SET"
+      ]
+    },
+    {
+      "id": "mt_9rE4aUZ2rI",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Sets, Relations & Functions",
+      "name": "Relations, Functions and Their Graphs",
+      "description": "Understand a relation as a set of ordered pairs and a function as the special case pairing each input with exactly one output, with a domain and range that can be read off a graph.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a relation from a function",
+        "States the domain and range of a given function",
+        "Sketches and recognises the standard function graphs"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a vertical line crossing a graph twice means it is not a function.",
+      "standards": [
+        "ncert-hsec:MAT.C11.REL"
+      ]
+    },
+    {
+      "id": "mt_1bYQBWlJUc",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Trigonometry",
+      "name": "Trigonometric Functions and the Unit Circle",
+      "description": "Understand that defining sine and cosine by position on the unit circle extends them beyond acute angles to all real numbers, giving periodic functions with characteristic graphs.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Converts between degrees and radians",
+        "Determines the sign of a function in each quadrant",
+        "Sketches the graph of a trigonometric function and states its period"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the sine of an angle bigger than a right angle could possibly mean.",
+      "standards": [
+        "ncert-hsec:MAT.C11.TRIG"
+      ]
+    },
+    {
+      "id": "mt_V0XjyCDO1f",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Trigonometry",
+      "name": "Trigonometric Identities and Equations",
+      "description": "Use compound and multiple angle identities to rewrite trigonometric expressions, and find the general solution of a trigonometric equation rather than a single value.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Applies a compound or double angle identity to simplify an expression",
+        "Solves a trigonometric equation and writes the general solution",
+        "Applies the sine or cosine rule to a triangle"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a trigonometric equation has infinitely many solutions and how to describe them all at once.",
+      "standards": [
+        "ncert-hsec:MAT.C11.TRIG"
+      ]
+    },
+    {
+      "id": "mt_HKCYY309r6",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Mathematical Thinking",
+      "name": "The Principle of Mathematical Induction",
+      "description": "Prove a statement for every natural number by establishing a base case and showing that truth at one number forces truth at the next.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Identifies and verifies the base case",
+        "Carries out the inductive step correctly",
+        "Explains why both steps are necessary for the proof to hold"
+      ],
+      "assessmentPrompt": "Ask {{name}} how you could prove something is true for every whole number when there are infinitely many of them.",
+      "standards": [
+        "ncert-hsec:MAT.C11.IND"
+      ]
+    },
+    {
+      "id": "mt_iwsSy40Cz7",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Complex Numbers and the Argand Plane",
+      "description": "Understand that extending the number system with a square root of minus one makes every polynomial equation solvable, and that such numbers can be plotted as points in a plane.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Performs arithmetic with complex numbers",
+        "Plots a complex number on the Argand plane and finds its modulus and argument",
+        "Solves a quadratic with no real roots over the complex numbers"
+      ],
+      "assessmentPrompt": "Ask {{name}} why mathematicians invented a number whose square is negative.",
+      "standards": [
+        "ncert-hsec:MAT.C11.COMPLEX"
+      ]
+    },
+    {
+      "id": "mt_CbQHt4sEUv",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Linear Inequalities and Their Graphical Solution",
+      "description": "Solve inequalities algebraically, remembering that multiplying by a negative reverses them, and represent the solution of a system in two variables as a region of the plane.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Solves a linear inequality and represents it on a number line",
+        "Shades the region satisfying an inequality in two variables",
+        "Finds the region satisfying a system of inequalities"
+      ],
+      "assessmentPrompt": "Ask {{name}} what happens to an inequality when both sides are multiplied by a negative number.",
+      "standards": [
+        "ncert-hsec:MAT.C11.INEQ"
+      ]
+    },
+    {
+      "id": "mt_fcUmPgxPAw",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Permutations and Combinations",
+      "description": "Count arrangements and selections systematically, distinguishing cases where order matters from those where it does not.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Applies the fundamental principle of counting",
+        "Chooses correctly between a permutation and a combination",
+        "Solves a counting problem with a restriction"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether choosing a team of three from a class is the same problem as choosing a captain, vice-captain and secretary.",
+      "standards": [
+        "ncert-hsec:MAT.C11.PERM"
+      ]
+    },
+    {
+      "id": "mt_3sZRS9ghqF",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "The Binomial Theorem",
+      "description": "Expand a power of a binomial without multiplying it out, using coefficients that are exactly the combinations counted in Pascal’s triangle.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Expands a binomial power using the theorem",
+        "Finds a specified general or middle term",
+        "Relates binomial coefficients to combinations"
+      ],
+      "assessmentPrompt": "Ask {{name}} how to find just the coefficient of one term in an expansion without writing out the whole thing.",
+      "standards": [
+        "ncert-hsec:MAT.C11.BINOM"
+      ]
+    },
+    {
+      "id": "mt_UlEOUiLIt1",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Geometric Progressions and Series",
+      "description": "Work with sequences that grow by a constant ratio, sum them, and understand the relationship between the arithmetic and geometric means.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Finds the nth term and sum of a geometric progression",
+        "Distinguishes an arithmetic from a geometric progression",
+        "Compares the arithmetic and geometric means of two numbers"
+      ],
+      "assessmentPrompt": "Ask {{name}} what happens to the sum of a geometric series when each term is smaller than the last.",
+      "standards": [
+        "ncert-hsec:MAT.C11.SEQ"
+      ]
+    },
+    {
+      "id": "mt_AYsuzJr4Fq",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "Straight Lines: Slope and Equations",
+      "description": "Move between the several standard forms of the equation of a line, and use slope to find angles between lines and the distance from a point to a line.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Writes the equation of a line in a suitable standard form",
+        "Finds the angle between two lines from their slopes",
+        "Computes the distance of a point from a line"
+      ],
+      "assessmentPrompt": "Ask {{name}} how many different-looking equations can describe the very same straight line.",
+      "standards": [
+        "ncert-hsec:MAT.C11.LINE"
+      ]
+    },
+    {
+      "id": "mt_lOMVBkRwas",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "Conic Sections",
+      "description": "Understand that circle, ellipse, parabola and hyperbola all arise as slices of a cone, and recognise each from its standard equation and defining property.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Identifies a conic from its standard equation",
+        "Relates a conic to the plane section producing it",
+        "States a defining focus-directrix property of a conic"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a planet’s orbit, a thrown ball’s path and a torch beam on a wall have in common.",
+      "standards": [
+        "ncert-hsec:MAT.C11.CONIC"
+      ]
+    },
+    {
+      "id": "mt_07GDWGBJ85",
+      "type": "REPRESENTATIONAL",
+      "subject": "Mathematics",
+      "domain": "Vectors & 3-D Geometry",
+      "name": "Introduction to Three-Dimensional Coordinates",
+      "description": "Locate points in space using three coordinates, and extend the distance and section formulae from the plane into three dimensions.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Locates a point given three coordinates and names its octant",
+        "Computes the distance between two points in space",
+        "Applies the section formula in three dimensions"
+      ],
+      "assessmentPrompt": "Ask {{name}} how many numbers you need to describe exactly where something is in a room.",
+      "standards": [
+        "ncert-hsec:MAT.C11.3D"
+      ]
+    },
+    {
+      "id": "mt_VHfWpad8qo",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Calculus",
+      "name": "Limits and the Idea of a Derivative",
+      "description": "Understand a limit as the value a function approaches, and the derivative as both an instantaneous rate of change and the slope of the tangent to a curve.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Evaluates a simple limit",
+        "Explains the derivative as the limit of a difference quotient",
+        "Differentiates a polynomial or trigonometric function using the rules"
+      ],
+      "assessmentPrompt": "Ask {{name}} what it means to talk about speed at a single instant when speed is distance over time.",
+      "standards": [
+        "ncert-hsec:MAT.C11.CALC"
+      ]
+    },
+    {
+      "id": "mt_KuDXGCrPzb",
+      "type": "META",
+      "subject": "Mathematics",
+      "domain": "Mathematical Thinking",
+      "name": "Mathematical Reasoning and Logical Connectives",
+      "description": "Understand how statements combine with and, or, implies and if and only if, and distinguish a statement from its converse, contrapositive and negation.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Writes the negation of a compound statement",
+        "Distinguishes the converse from the contrapositive of an implication",
+        "Judges whether a given argument validates a statement"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether \"if it rains the ground is wet\" means the same as \"if the ground is wet it rained\".",
+      "standards": [
+        "ncert-hsec:MAT.C11.REASON"
+      ]
+    },
+    {
+      "id": "mt_idU3JPaQaN",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Data & Statistics",
+      "name": "Measures of Dispersion: Variance and Standard Deviation",
+      "description": "Understand that two data sets can share a mean yet differ greatly in spread, and quantify that spread using mean deviation, variance and standard deviation.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Computes the variance and standard deviation of a data set",
+        "Compares two distributions with equal means but different variances",
+        "Explains why deviations are squared rather than simply added"
+      ],
+      "assessmentPrompt": "Ask {{name}} why two classes with the same average mark might still be very different classes.",
+      "standards": [
+        "ncert-hsec:MAT.C11.STAT"
+      ]
+    },
+    {
+      "id": "mt_6th44RdI9b",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Probability",
+      "name": "Sample Spaces and Axiomatic Probability",
+      "description": "Understand probability set-theoretically: outcomes form a sample space, events are subsets of it, and the axioms fix how probabilities of combined events behave.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Writes the sample space of a random experiment in set notation",
+        "Distinguishes mutually exclusive from exhaustive events",
+        "Computes the probability of not, and, or or events"
+      ],
+      "assessmentPrompt": "Ask {{name}} how listing every possible outcome first makes a probability question easier.",
+      "standards": [
+        "ncert-hsec:MAT.C11.PROB"
+      ]
+    },
+    {
+      "id": "mt_bngCO6T8R9",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Sets, Relations & Functions",
+      "name": "Types of Relations and Inverse Functions",
+      "description": "Classify relations as reflexive, symmetric, transitive or equivalence, and understand that only a one-to-one and onto function can be inverted.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Tests a relation for the reflexive, symmetric and transitive properties",
+        "Determines whether a function is one-to-one and onto",
+        "Finds the inverse of an invertible function"
+      ],
+      "assessmentPrompt": "Ask {{name}} why some functions can be undone and others cannot.",
+      "standards": [
+        "ncert-hsec:MAT.C12.REL"
+      ]
+    },
+    {
+      "id": "mt_H1B9ZNQlUn",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Trigonometry",
+      "name": "Inverse Trigonometric Functions",
+      "description": "Understand that trigonometric functions must be restricted to a principal branch before they can be inverted, and work with the resulting domains and ranges.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "States the principal value branch of an inverse trigonometric function",
+        "Evaluates an inverse trigonometric expression",
+        "Applies an elementary property to simplify an expression"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the inverse sine of a number has to be given only one answer when sine takes that value infinitely often.",
+      "standards": [
+        "ncert-hsec:MAT.C12.INVTRIG"
+      ]
+    },
+    {
+      "id": "mt_yCrineYUH8",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Matrices and Matrix Operations",
+      "description": "Represent data and transformations as arrays, and add, scale and multiply them, noting that matrix multiplication is not commutative.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Adds, scales and multiplies matrices of compatible orders",
+        "Gives an example showing multiplication is not commutative",
+        "Identifies symmetric and skew symmetric matrices"
+      ],
+      "assessmentPrompt": "Ask {{name}} why AB and BA can be completely different for matrices when they never are for numbers.",
+      "standards": [
+        "ncert-hsec:MAT.C12.MATRIX"
+      ]
+    },
+    {
+      "id": "mt_gRAOMFvl7D",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Determinants, Adjoint and Inverse",
+      "description": "Compute determinants using minors and cofactors, and use the adjoint to invert a matrix, recognising that a zero determinant means no inverse exists.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Evaluates a determinant of order three",
+        "Finds the adjoint and inverse of a matrix",
+        "Uses a determinant to find the area of a triangle"
+      ],
+      "assessmentPrompt": "Ask {{name}} what it means when a matrix has determinant zero.",
+      "standards": [
+        "ncert-hsec:MAT.C12.DET"
+      ]
+    },
+    {
+      "id": "mt_GP5yAS9SAn",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Solving Linear Systems with Matrices",
+      "description": "Write a system of linear equations in matrix form and solve it using the inverse, and use the determinant to decide whether a unique solution exists at all.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Expresses a linear system in matrix form",
+        "Solves a consistent system using the matrix inverse",
+        "Determines whether a system is consistent and how many solutions it has"
+      ],
+      "assessmentPrompt": "Ask {{name}} how you could tell three equations in three unknowns have no solution before trying to solve them.",
+      "standards": [
+        "ncert-hsec:MAT.C12.DET"
+      ]
+    },
+    {
+      "id": "mt_LHazmL09hq",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Calculus",
+      "name": "Continuity and Differentiability",
+      "description": "Understand continuity as the absence of breaks, that differentiability is a stronger condition than continuity, and what the mean value theorems guarantee.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Tests a function for continuity at a point",
+        "Gives an example of a function continuous but not differentiable",
+        "States the geometric meaning of a mean value theorem"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a graph you can draw without lifting your pen must also have a well-defined slope everywhere.",
+      "standards": [
+        "ncert-hsec:MAT.C12.CONT"
+      ]
+    },
+    {
+      "id": "mt_JOw8z6Cap0",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Calculus",
+      "name": "The Chain Rule and Implicit Differentiation",
+      "description": "Differentiate composite, implicit, parametric, exponential and logarithmic functions, choosing the technique the form of the function calls for.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Differentiates a composite function using the chain rule",
+        "Differentiates an implicitly defined relation",
+        "Uses logarithmic differentiation where appropriate"
+      ],
+      "assessmentPrompt": "Ask {{name}} how to find the slope of a circle at a point when y is not written as a function of x.",
+      "standards": [
+        "ncert-hsec:MAT.C12.CONT"
+      ]
+    },
+    {
+      "id": "mt_9WLPabHUrv",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Calculus",
+      "name": "Applications of Derivatives",
+      "description": "Use the derivative to find rates of change, tangents and normals, intervals where a function rises or falls, and the values maximising or minimising a quantity.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Finds where a function is increasing or decreasing",
+        "Finds a maximum or minimum using a derivative test",
+        "Solves an applied optimisation problem"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a manufacturer could work out the box shape that uses the least cardboard.",
+      "standards": [
+        "ncert-hsec:MAT.C12.APPDER"
+      ]
+    },
+    {
+      "id": "mt_fzvhHzjGLI",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Calculus",
+      "name": "Integration and Its Techniques",
+      "description": "Understand integration as the reverse of differentiation, and evaluate integrals by substitution, partial fractions and parts according to the form of the integrand.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Integrates a function by substitution",
+        "Integrates a rational function using partial fractions",
+        "Applies integration by parts to a product"
+      ],
+      "assessmentPrompt": "Ask {{name}} how they would decide which method to try first on an unfamiliar integral.",
+      "standards": [
+        "ncert-hsec:MAT.C12.INT"
+      ]
+    },
+    {
+      "id": "mt_FyAANENFTb",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Calculus",
+      "name": "Definite Integrals and the Fundamental Theorem",
+      "description": "Understand the definite integral as a limit of a sum, and the Fundamental Theorem as the statement that differentiation and integration undo one another.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Interprets a definite integral as a limit of a sum",
+        "Evaluates a definite integral using the Fundamental Theorem",
+        "Applies a property of definite integrals to simplify evaluation"
+      ],
+      "assessmentPrompt": "Ask {{name}} why finding an area and finding a slope turn out to be opposite operations.",
+      "standards": [
+        "ncert-hsec:MAT.C12.INT"
+      ]
+    },
+    {
+      "id": "mt_rrHVj55hTE",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Calculus",
+      "name": "Areas Under and Between Curves",
+      "description": "Use definite integration to find the area bounded by a curve and the axes, or enclosed between two curves, after identifying the region and its limits.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Sets up the correct limits for a bounded region",
+        "Finds the area under a simple curve",
+        "Finds the area between two intersecting curves"
+      ],
+      "assessmentPrompt": "Ask {{name}} how to find the area of a shape whose boundary is a curve rather than straight lines.",
+      "standards": [
+        "ncert-hsec:MAT.C12.APPINT"
+      ]
+    },
+    {
+      "id": "mt_xADrLjP7xB",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Calculus",
+      "name": "Differential Equations",
+      "description": "Recognise an equation relating a function to its derivatives, classify it by order and degree, and solve separable, homogeneous and linear first-order equations.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "States the order and degree of a differential equation",
+        "Solves an equation by separating variables",
+        "Solves a linear first-order equation using an integrating factor"
+      ],
+      "assessmentPrompt": "Ask {{name}} what kind of question is being asked when the unknown in an equation is a whole function.",
+      "standards": [
+        "ncert-hsec:MAT.C12.DIFFEQ"
+      ]
+    },
+    {
+      "id": "mt_tjPZDhac6f",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Vectors & 3-D Geometry",
+      "name": "Vectors: Dot and Cross Products",
+      "description": "Work with vectors in three dimensions, and understand that the dot product measures alignment and yields a scalar while the cross product yields a perpendicular vector.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Computes the dot product and uses it to find an angle",
+        "Computes the cross product and states the direction of the result",
+        "Finds the projection of one vector on another"
+      ],
+      "assessmentPrompt": "Ask {{name}} why multiplying two vectors can give either a number or another vector.",
+      "standards": [
+        "ncert-hsec:MAT.C12.VEC"
+      ]
+    },
+    {
+      "id": "mt_9y1fpkAnNQ",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Vectors & 3-D Geometry",
+      "name": "Three-Dimensional Geometry: Lines and Planes",
+      "description": "Write the equations of lines and planes in space in Cartesian and vector form, and compute angles, shortest distances and points of intersection between them.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Writes the equation of a line or plane in vector and Cartesian form",
+        "Finds the angle between two lines, two planes or a line and a plane",
+        "Finds the shortest distance between two skew lines"
+      ],
+      "assessmentPrompt": "Ask {{name}} how two lines in space can fail to meet without being parallel.",
+      "standards": [
+        "ncert-hsec:MAT.C12.3D"
+      ]
+    },
+    {
+      "id": "mt_XjNwXYy1xA",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Linear Programming",
+      "name": "Linear Programming",
+      "description": "Translate a resource allocation problem into an objective function subject to linear constraints, and find the optimum at a corner of the feasible region.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Formulates a real problem as a linear programming problem",
+        "Identifies the feasible region graphically",
+        "Finds the optimal solution and explains why it occurs at a corner"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a factory decides how much of each product to make when machines and materials are limited.",
+      "standards": [
+        "ncert-hsec:MAT.C12.LP"
+      ]
+    },
+    {
+      "id": "mt_ygWtTuCRWo",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Probability",
+      "name": "Conditional Probability and Bayes’ Theorem",
+      "description": "Understand how learning that one event occurred changes the probability of another, and use Bayes’ theorem to reverse the direction of a conditional probability.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Computes a conditional probability",
+        "Tests whether two events are independent",
+        "Applies Bayes’ theorem to update a probability given evidence"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a positive result from a very accurate medical test can still often be a false alarm.",
+      "standards": [
+        "ncert-hsec:MAT.C12.PROB"
+      ]
+    },
+    {
+      "id": "mt_WXBy9Q0sEW",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Probability",
+      "name": "Random Variables and the Binomial Distribution",
+      "description": "Understand a random variable as a numerical outcome with a probability distribution, and model repeated independent trials with the binomial distribution.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Writes the probability distribution of a random variable",
+        "Computes the mean and variance of a distribution",
+        "Applies the binomial distribution to repeated independent trials"
+      ],
+      "assessmentPrompt": "Ask {{name}} how to find the chance of getting exactly seven heads in ten coin tosses.",
+      "standards": [
+        "ncert-hsec:MAT.C12.PROB"
+      ]
+    },
+    {
+      "id": "mt_XkVGpY4xSd",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Foundations of Sociology",
+      "name": "What Sociology Studies",
+      "description": "Understand that sociology studies people as members of groups rather than as individuals, looking for patterns that hold across many lives rather than explanations of any single one.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a sociological from a psychological or individual explanation",
+        "Explains what is meant by a social pattern",
+        "Names a discipline sociology overlaps with and how they differ"
+      ],
+      "assessmentPrompt": "Ask {{name}} why more people in some communities go to university than in others, and whether that is about individuals at all.",
+      "standards": [
+        "ncert-hsec:SOC.C11.A1"
+      ]
+    },
+    {
+      "id": "mt_OL72TaSPnb",
+      "type": "META",
+      "subject": "Sociology",
+      "domain": "Foundations of Sociology",
+      "name": "Seeing Personal Troubles as Public Issues",
+      "description": "Understand that what feels like a private difficulty is often the local expression of a wider social arrangement, and that spotting this shift is the core sociological skill.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Reframes an apparently personal problem as a social pattern",
+        "Distinguishes a private trouble from a public issue",
+        "Explains why the distinction changes what solutions look like"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether one person losing a job and a million people losing jobs are the same kind of problem.",
+      "standards": [
+        "ncert-hsec:SOC.C11.A1"
+      ]
+    },
+    {
+      "id": "mt_cYvwc8SLXA",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Foundations of Sociology",
+      "name": "Social Groups and Collectivities",
+      "description": "Understand how sociologists classify groups — primary and secondary, in-group and out-group, reference groups — and why the type of group shapes the behaviour within it.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a primary from a secondary group",
+        "Explains what a reference group does to behaviour",
+        "Explains in-group and out-group boundaries"
+      ],
+      "assessmentPrompt": "Ask {{name}} how the way they behave with family differs from the way they behave in a classroom, and why.",
+      "standards": [
+        "ncert-hsec:SOC.C11.A2"
+      ]
+    },
+    {
+      "id": "mt_NEsZ73N545",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Foundations of Sociology",
+      "name": "Status and Role",
+      "description": "Understand that a status is a position in society and a role is the behaviour expected of it, and that people hold several at once, sometimes in conflict.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes ascribed from achieved status",
+        "Explains role conflict with an example",
+        "Explains how role expectations are learned rather than natural"
+      ],
+      "assessmentPrompt": "Ask {{name}} how many different roles they play in a single day, and whether any of them pull against each other.",
+      "standards": [
+        "ncert-hsec:SOC.C11.A2"
+      ]
+    },
+    {
+      "id": "mt_JCj1HVxjHe",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Foundations of Sociology",
+      "name": "Social Control and Deviance",
+      "description": "Understand that societies secure conformity through formal and informal sanctions, and that what counts as deviance is defined by the group rather than fixed for all time.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes formal from informal social control",
+        "Explains why deviance is socially defined",
+        "Gives an example of behaviour deviant in one setting and normal in another"
+      ],
+      "assessmentPrompt": "Ask {{name}} who decides what counts as bad behaviour, and whether that has always been the same.",
+      "standards": [
+        "ncert-hsec:SOC.C11.A2"
+      ]
+    },
+    {
+      "id": "mt_XPAbBUa7SX",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Institutions",
+      "name": "Family and Kinship",
+      "description": "Understand that family takes many forms across societies, that kinship organises descent and residence, and that these arrangements shape inheritance, authority and obligation.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes nuclear, joint and extended family forms",
+        "Explains a rule of descent or residence",
+        "Links family form to economic or social conditions"
+      ],
+      "assessmentPrompt": "Ask {{name}} why joint families were more common when most people farmed than they are in cities today.",
+      "standards": [
+        "ncert-hsec:SOC.C11.A3",
+        "ncert-hsec:SOC.C12.A2"
+      ]
+    },
+    {
+      "id": "mt_GSjZBiGcXm",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Institutions",
+      "name": "Religion as a Social Institution",
+      "description": "Understand that sociology studies religion by what it does socially — binding groups, legitimating authority, marking identity — rather than by whether its claims are true.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the sociological approach to studying religion",
+        "Describes a social function religion performs",
+        "Explains how religion can both unify and divide"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a sociologist would ask about a festival that a believer would not.",
+      "standards": [
+        "ncert-hsec:SOC.C11.A3"
+      ]
+    },
+    {
+      "id": "mt_iEGOBz4m7g",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Institutions",
+      "name": "Education as a Social Institution",
+      "description": "Understand that education transmits knowledge and values but also sorts people into positions, so it can widen opportunity and reproduce inequality at the same time.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Describes a manifest and a latent function of education",
+        "Explains how schooling can reproduce existing inequality",
+        "Explains the idea of education as a route to mobility"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether schools mainly give everyone the same chance or mainly pass on the advantages people already had.",
+      "standards": [
+        "ncert-hsec:SOC.C11.A3"
+      ]
+    },
+    {
+      "id": "mt_C7TmnFPBLy",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Institutions",
+      "name": "Political and Economic Institutions",
+      "description": "Understand that the ways a society organises power and production are institutions with rules and roles, and that changes in one tend to reshape the other.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains what makes an arrangement an institution",
+        "Links a form of economic organisation to a form of authority",
+        "Gives an example of political and economic change occurring together"
+      ],
+      "assessmentPrompt": "Ask {{name}} how the way people earn a living might change who holds power in a village.",
+      "standards": [
+        "ncert-hsec:SOC.C11.A3"
+      ]
+    },
+    {
+      "id": "mt_6nZPDaYcRw",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Foundations of Sociology",
+      "name": "Culture, Values and Norms",
+      "description": "Understand culture as the shared and contested body of meanings, values and norms a group lives by, and that it is plural and changing rather than fixed and uniform.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes values from norms",
+        "Explains why culture is described as contested rather than simply shared",
+        "Explains cultural relativism and one difficulty with it"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether everyone in their community really shares the same values, and who decides what counts as the culture.",
+      "standards": [
+        "ncert-hsec:SOC.C11.A4"
+      ]
+    },
+    {
+      "id": "mt_hPlJ4FMZnf",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Foundations of Sociology",
+      "name": "Socialisation and the Shaping of Personality",
+      "description": "Understand that people become members of society by learning its expectations through family, school, peers and media, and that this shaping continues throughout life.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Names agencies of socialisation and what each transmits",
+        "Distinguishes primary from secondary socialisation",
+        "Explains how socialisation can produce conflict as well as conformity"
+      ],
+      "assessmentPrompt": "Ask {{name}} where they learned the things they have never been explicitly taught but always knew to do.",
+      "standards": [
+        "ncert-hsec:SOC.C11.A4"
+      ]
+    },
+    {
+      "id": "mt_4rLC670Xsy",
+      "type": "PROCEDURAL",
+      "subject": "Sociology",
+      "domain": "Research Methods",
+      "name": "Sociological Research Methods",
+      "description": "Choose between observation, survey and interview according to the question asked, and understand what field work gives that other methods cannot.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Matches a research question to an appropriate method",
+        "Explains a strength and a limitation of the survey method",
+        "Explains why field work requires sustained presence"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a questionnaire could tell you what life in a village is really like, and what it might miss.",
+      "standards": [
+        "ncert-hsec:SOC.C11.A5"
+      ]
+    },
+    {
+      "id": "mt_nJhd3cF5Q5",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Foundations of Sociology",
+      "name": "Social Structure and Social Processes",
+      "description": "Understand that society has durable patterns constraining what people can do, while cooperation, competition and conflict are the processes through which those patterns are maintained or changed.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains what is meant by social structure",
+        "Distinguishes cooperation, competition and conflict as processes",
+        "Explains how structure both constrains and is produced by action"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether people are free to do as they like, or whether society sets the range of what is even possible.",
+      "standards": [
+        "ncert-hsec:SOC.C11.B1"
+      ]
+    },
+    {
+      "id": "mt_wI1bqEs1aZ",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Stratification & Inequality",
+      "name": "Social Stratification: Class, Caste, Race and Gender",
+      "description": "Understand that societies rank people into layers with unequal access to resources and respect, and that class, caste, race and gender are different bases on which that ranking is built.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes class from caste as systems of stratification",
+        "Explains the difference between open and closed systems of mobility",
+        "Explains how two bases of stratification can intersect"
+      ],
+      "assessmentPrompt": "Ask {{name}} what makes caste different from class, given both sort people into levels.",
+      "standards": [
+        "ncert-hsec:SOC.C11.A2",
+        "ncert-hsec:SOC.C11.B1"
+      ]
+    },
+    {
+      "id": "mt_KEE3xOZmbs",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Change & Development",
+      "name": "Social Change: Types, Causes and Consequences",
+      "description": "Understand that societies change through technological, economic, political and cultural forces, at speeds ranging from gradual evolution to abrupt revolution.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes evolutionary from revolutionary change",
+        "Names a driver of social change and traces its effects",
+        "Explains why change in one institution forces change in others"
+      ],
+      "assessmentPrompt": "Ask {{name}} how the arrival of the mobile phone changed things it was never meant to touch.",
+      "standards": [
+        "ncert-hsec:SOC.C11.B2"
+      ]
+    },
+    {
+      "id": "mt_zxNUl0OAZB",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Change & Development",
+      "name": "Social Order, Authority and Law",
+      "description": "Understand how order is maintained through domination, legitimate authority and law, and that contestation, crime and violence are part of how societies work rather than simply failures of order.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes power from legitimate authority",
+        "Explains the role of law in maintaining social order",
+        "Explains why contestation is normal rather than exceptional"
+      ],
+      "assessmentPrompt": "Ask {{name}} why people obey rules even when nobody is watching them.",
+      "standards": [
+        "ncert-hsec:SOC.C11.B2"
+      ]
+    },
+    {
+      "id": "mt_cfZAQONCFJ",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Change & Development",
+      "name": "Village, Town and City",
+      "description": "Understand how rural and urban life differ in density, occupation, and the kind of social ties that hold them together, and how migration links rather than separates the two.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Contrasts social relationships in rural and urban settings",
+        "Explains how migration links village and city",
+        "Explains a consequence of rapid urban growth"
+      ],
+      "assessmentPrompt": "Ask {{name}} how knowing everyone in a village changes life compared with knowing almost nobody in a city.",
+      "standards": [
+        "ncert-hsec:SOC.C11.B2",
+        "ncert-hsec:SOC.C12.A1"
+      ]
+    },
+    {
+      "id": "mt_XewXurwsAx",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Change & Development",
+      "name": "Ecology and Society",
+      "description": "Understand that environmental problems are social as well as physical, since their causes lie in how societies produce and consume and their costs fall unequally.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains why an environmental crisis is also a social problem",
+        "Explains how environmental costs are distributed unequally",
+        "Describes a social movement responding to an environmental crisis"
+      ],
+      "assessmentPrompt": "Ask {{name}} who suffers first when a river is polluted, and whether it is the same people who polluted it.",
+      "standards": [
+        "ncert-hsec:SOC.C11.B3"
+      ]
+    },
+    {
+      "id": "mt_tWrPcEaddI",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Sociological Thought",
+      "name": "Marx, Durkheim and Weber",
+      "description": "Understand three founding accounts of modern society: Marx on class conflict, Durkheim on the division of labour and social solidarity, and Weber on bureaucracy and rationalisation.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "States Marx’s account of class conflict",
+        "Explains Durkheim’s distinction between forms of solidarity",
+        "Explains Weber’s account of bureaucracy and its consequences"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether modern society holds together because people need each other or because some people hold power over others.",
+      "standards": [
+        "ncert-hsec:SOC.C11.B4"
+      ]
+    },
+    {
+      "id": "mt_FeWuS5wQRR",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Sociological Thought",
+      "name": "Indian Sociologists",
+      "description": "Understand how Indian sociologists analysed their own society: Ghurye on race and caste, Mukerji on tradition and change, Desai on the state, and Srinivas on the village.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Summarises the contribution of one Indian sociologist",
+        "Explains why studying one’s own society raises particular difficulties",
+        "Contrasts an Indian and a western analysis of the same phenomenon"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether it is easier or harder to study a society you have grown up inside.",
+      "standards": [
+        "ncert-hsec:SOC.C11.B5"
+      ]
+    },
+    {
+      "id": "mt_JezGcH7nV2",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Indian Society",
+      "name": "Colonialism, Nationalism and Indian Society",
+      "description": "Understand how colonial rule reorganised Indian land, law, administration and identity, and how the nationalist response shaped the society that became independent India.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains a lasting structural change colonialism produced",
+        "Explains how nationalism drew together diverse communities",
+        "Links a colonial policy to a present-day social pattern"
+      ],
+      "assessmentPrompt": "Ask {{name}} which features of Indian society today were created by colonial rule rather than inherited from before it.",
+      "standards": [
+        "ncert-hsec:SOC.C12.A1"
+      ]
+    },
+    {
+      "id": "mt_r6FnJ3PIbX",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Indian Society",
+      "name": "Demographic Structure of Indian Society",
+      "description": "Understand how birth rate, death rate, sex ratio and age structure describe a population, and what the demographic dividend and a declining sex ratio each imply.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Reads an age-sex structure and states its implications",
+        "Explains the demographic transition",
+        "Explains why a declining sex ratio is treated as a social problem"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a country gains and what it risks from having a very young population.",
+      "standards": [
+        "ncert-hsec:SOC.C12.A1"
+      ]
+    },
+    {
+      "id": "mt_N6Bq2bSGVA",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Stratification & Inequality",
+      "name": "The Caste System and Its Transformation",
+      "description": "Understand caste as a system of ranked, hereditary groups tied historically to occupation and purity, and how urbanisation, law and politics have altered without abolishing it.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Describes the features that define caste as a system",
+        "Explains how caste has changed in urban and political life",
+        "Distinguishes caste as ritual hierarchy from caste as political identity"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether caste matters less today than it used to, or simply differently.",
+      "standards": [
+        "ncert-hsec:SOC.C12.A2",
+        "ncert-hsec:SOC.C12.A3"
+      ]
+    },
+    {
+      "id": "mt_UdGGr4oUhS",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Stratification & Inequality",
+      "name": "Tribal Society and Marginalisation",
+      "description": "Understand who is classified as tribal in India, how land alienation and development projects have displaced tribal communities, and what constitutional protections exist.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the basis on which communities are classified as tribal",
+        "Explains how development projects have produced displacement",
+        "Names a constitutional safeguard for tribal communities"
+      ],
+      "assessmentPrompt": "Ask {{name}} who pays the price when a dam benefits a whole region.",
+      "standards": [
+        "ncert-hsec:SOC.C12.A2",
+        "ncert-hsec:SOC.C12.A3"
+      ]
+    },
+    {
+      "id": "mt_moLWCF06Oz",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Institutions",
+      "name": "The Market as a Social Institution",
+      "description": "Understand that markets are not purely economic mechanisms but social arrangements shaped by trust, caste and kin networks, status and regulation.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains why a market is treated as a social institution",
+        "Gives an example of social ties shaping economic exchange",
+        "Explains how status is signalled through consumption"
+      ],
+      "assessmentPrompt": "Ask {{name}} why traders often prefer to deal with people from their own community.",
+      "standards": [
+        "ncert-hsec:SOC.C12.A2"
+      ]
+    },
+    {
+      "id": "mt_3bSwu2z1zM",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Stratification & Inequality",
+      "name": "Social Inequality and Exclusion",
+      "description": "Understand that exclusion is systematic rather than accidental, operating through prejudice and institutional practice, and that policies of protection and reservation respond to it.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes inequality from exclusion",
+        "Explains how prejudice becomes institutionalised",
+        "Explains the rationale for a policy of protective discrimination"
+      ],
+      "assessmentPrompt": "Ask {{name}} why treating everyone identically might not produce equal outcomes.",
+      "standards": [
+        "ncert-hsec:SOC.C12.A3"
+      ]
+    },
+    {
+      "id": "mt_vVPEodQG45",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Stratification & Inequality",
+      "name": "The Struggle for Women’s Equality",
+      "description": "Understand patriarchy as a structure rather than a set of attitudes, and trace how reform movements, law and women’s own organising have contested it in India.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains patriarchy as a structural arrangement",
+        "Names a legal or reform milestone and what it changed",
+        "Explains why legal change alone does not end inequality"
+      ],
+      "assessmentPrompt": "Ask {{name}} why laws guaranteeing equality have not by themselves produced it.",
+      "standards": [
+        "ncert-hsec:SOC.C12.A3"
+      ]
+    },
+    {
+      "id": "mt_TSI1SYkpxd",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Indian Society",
+      "name": "Communalism, Regionalism and the Challenges of Diversity",
+      "description": "Understand how communalism, regionalism and casteism turn difference into political division, and what role the state plays in a plural and unequal society.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes religious diversity from communalism",
+        "Explains how regional identity becomes a political demand",
+        "Explains the state’s role in managing a plural society"
+      ],
+      "assessmentPrompt": "Ask {{name}} why having many communities is a strength in some countries and a source of conflict in others.",
+      "standards": [
+        "ncert-hsec:SOC.C12.A4"
+      ]
+    },
+    {
+      "id": "mt_1Vjk9nQkMH",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Change & Development",
+      "name": "Structural Change: Industrialisation and Urbanisation",
+      "description": "Understand how colonialism, industrialisation and urbanisation restructured where Indians lived, what work they did and how they related to one another.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Traces the movement of people from agriculture to other sectors",
+        "Explains how industrial work changed social relationships",
+        "Links urbanisation to a change in family or community form"
+      ],
+      "assessmentPrompt": "Ask {{name}} what happens to village ties when most young people leave for city work.",
+      "standards": [
+        "ncert-hsec:SOC.C12.B1"
+      ]
+    },
+    {
+      "id": "mt_3FY2watbhU",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Change & Development",
+      "name": "Cultural Change: Sanskritisation, Westernisation and Secularisation",
+      "description": "Understand the distinct processes by which Indian cultural life has changed — groups emulating higher-caste practice, adoption of western forms, and the changing place of religion in public life.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Defines sanskritisation and gives an example",
+        "Distinguishes westernisation from modernisation",
+        "Explains what secularisation means in the Indian context"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a community might change its diet or rituals to raise its standing.",
+      "standards": [
+        "ncert-hsec:SOC.C12.B1"
+      ]
+    },
+    {
+      "id": "mt_gbzJ8ArJ8W",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Change & Development",
+      "name": "The Constitution as an Instrument of Social Change",
+      "description": "Understand that the Indian Constitution was written not only to govern but to transform an unequal society, and that this creates tension between existing custom and constitutional principle.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how a constitutional provision was intended to change society",
+        "Explains the tension between custom and constitutional principle",
+        "Assesses how far a constitutional goal has been realised"
+      ],
+      "assessmentPrompt": "Ask {{name}} what happens when the law says one thing and long-standing custom says another.",
+      "standards": [
+        "ncert-hsec:SOC.C12.B2"
+      ]
+    },
+    {
+      "id": "mt_8o3KqapEPz",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Change & Development",
+      "name": "Land Reforms, the Green Revolution and Agrarian Change",
+      "description": "Understand how land reform and the green revolution changed who owned land, what was grown and who gained, producing higher output alongside new inequalities.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the intent and the limits of land reform",
+        "Explains how the green revolution changed agrarian class structure",
+        "Identifies who gained and who did not from agricultural change"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a policy that grew far more food could still leave some farmers worse off.",
+      "standards": [
+        "ncert-hsec:SOC.C12.B3"
+      ]
+    },
+    {
+      "id": "mt_K7EgaRL4Fl",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Change & Development",
+      "name": "Liberalisation and Changes in Class Structure",
+      "description": "Understand the shift from planned industrialisation to liberalisation after 1991 and how it reshaped employment, the middle class and the security of work.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Contrasts the planned and liberalised phases of the Indian economy",
+        "Explains a change in class structure following liberalisation",
+        "Explains the growth of informal or contract employment"
+      ],
+      "assessmentPrompt": "Ask {{name}} how opening the economy in 1991 changed what kind of jobs Indians do.",
+      "standards": [
+        "ncert-hsec:SOC.C12.B3"
+      ]
+    },
+    {
+      "id": "mt_JBTqxKB1FM",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Change & Development",
+      "name": "Media, Globalisation and Social Change",
+      "description": "Understand how mass and digital media reshape what people know, want and identify with, and how globalisation carries cultural forms as well as goods and capital.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how media shape public opinion or aspiration",
+        "Distinguishes cultural from economic globalisation",
+        "Explains a local response or resistance to a global cultural form"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether the world is becoming more similar or whether local cultures push back.",
+      "standards": [
+        "ncert-hsec:SOC.C12.B4"
+      ]
+    },
+    {
+      "id": "mt_BKcTBFbZbB",
+      "type": "CONCEPTUAL",
+      "subject": "Sociology",
+      "domain": "Social Change & Development",
+      "name": "Social Movements",
+      "description": "Understand that organised collective action by workers, peasants, Dalits, women and environmentalists has been a major engine of change, working outside as well as through formal politics.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a social movement from a political party",
+        "Describes the aims and methods of a class- or caste-based movement",
+        "Explains how a movement achieved a change in law or practice"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a group with no seats in parliament can still change the law.",
+      "standards": [
+        "ncert-hsec:SOC.C12.B5"
+      ]
+    },
+    {
+      "id": "mt_wmnNEDR2L3",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Foundations of Psychology",
+      "name": "Psychology as a Discipline",
+      "description": "Understand that psychology studies mind and behaviour by systematic evidence rather than intuition, and that it straddles the natural and social sciences.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a psychological claim from a popular belief about behaviour",
+        "Names branches of psychology and what each studies",
+        "Explains why psychology counts as both a natural and a social science"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a psychologist would check a common saying like \"opposites attract\".",
+      "standards": [
+        "ncert-hsec:PSY.C11.U1"
+      ]
+    },
+    {
+      "id": "mt_UUC1B6rv5W",
+      "type": "PROCEDURAL",
+      "subject": "Psychology",
+      "domain": "Foundations of Psychology",
+      "name": "Methods of Psychological Enquiry",
+      "description": "Choose between observation, experiment, correlation, survey, testing and case study according to the question, and recognise what each can and cannot establish.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Matches a research question to an appropriate method",
+        "Explains why correlation does not establish causation",
+        "Identifies an ethical issue in a described study"
+      ],
+      "assessmentPrompt": "Ask {{name}} why finding that ice cream sales and drownings rise together does not mean one causes the other.",
+      "standards": [
+        "ncert-hsec:PSY.C11.U2"
+      ]
+    },
+    {
+      "id": "mt_8s0eGdc0oQ",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Foundations of Psychology",
+      "name": "Biological Bases of Behaviour",
+      "description": "Understand how the nervous and endocrine systems underpin behaviour, and how damage or change to particular brain structures alters what a person can do.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Links a brain region to the function it supports",
+        "Explains how the endocrine system influences behaviour",
+        "Explains the evolutionary perspective on a behaviour"
+      ],
+      "assessmentPrompt": "Ask {{name}} what it tells us about the brain that damage to one small area can remove the ability to speak.",
+      "standards": [
+        "ncert-hsec:PSY.C11.U3"
+      ]
+    },
+    {
+      "id": "mt_vT0njZ0z9y",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Foundations of Psychology",
+      "name": "Culture, Socialisation and Behaviour",
+      "description": "Understand that behaviour has cultural as well as biological roots, and distinguish enculturation into one’s own culture from acculturation on contact with another.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes enculturation from acculturation",
+        "Gives an example of a behaviour that varies across cultures",
+        "Explains why psychological findings may not generalise across cultures"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a psychology experiment run only on students in one country tells us about people everywhere.",
+      "standards": [
+        "ncert-hsec:PSY.C11.U3"
+      ]
+    },
+    {
+      "id": "mt_ntST0A5T4f",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Human Development",
+      "name": "Development Across the Life Span",
+      "description": "Understand development as lifelong change shaped by both heredity and environment, proceeding through stages each with characteristic tasks and challenges.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the life-span perspective on development",
+        "Describes a developmental task of a given stage",
+        "Explains how heredity and environment interact rather than compete"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether people stop developing once they finish growing.",
+      "standards": [
+        "ncert-hsec:PSY.C11.U4"
+      ]
+    },
+    {
+      "id": "mt_X56AyLU5J5",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Human Development",
+      "name": "The Challenges of Adolescence",
+      "description": "Understand adolescence as a period of rapid physical, cognitive and social change in which identity is negotiated and risk-taking and peer influence peak.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Describes the physical and cognitive changes of adolescence",
+        "Explains the process of identity formation",
+        "Explains why peer influence is strongest at this stage"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the opinion of friends can matter more than that of family during these years.",
+      "standards": [
+        "ncert-hsec:PSY.C11.U4"
+      ]
+    },
+    {
+      "id": "mt_c3ARSwTYib",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Basic Psychological Processes",
+      "name": "Sensation, Attention and Perception",
+      "description": "Understand that the senses collect raw data while perception organises and interprets it, so what is experienced is constructed rather than simply received.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes sensation from perception",
+        "Explains a principle of perceptual organisation or constancy",
+        "Explains what an illusion reveals about perception"
+      ],
+      "assessmentPrompt": "Ask {{name}} why two people can look at the same picture and honestly see different things.",
+      "standards": [
+        "ncert-hsec:PSY.C11.U5"
+      ]
+    },
+    {
+      "id": "mt_PZWQJWJpGD",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Cognition & Learning",
+      "name": "Learning and Conditioning",
+      "description": "Understand that behaviour changes through association in classical conditioning, through consequences in operant conditioning, and through watching others in observational learning.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes classical from operant conditioning with examples",
+        "Explains how reinforcement and punishment differ in effect",
+        "Explains observational learning and when it occurs"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a dog can start drooling at the sound of a tin opener.",
+      "standards": [
+        "ncert-hsec:PSY.C11.U6"
+      ]
+    },
+    {
+      "id": "mt_35hrRlgjSd",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Cognition & Learning",
+      "name": "Human Memory and Forgetting",
+      "description": "Understand memory as encoding, storage and retrieval across stores of differing capacity, and that recall is reconstructive rather than a replay of what happened.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Describes the stages and stores of the memory system",
+        "Explains why memory is described as constructive",
+        "Names a cause of forgetting and a strategy that improves recall"
+      ],
+      "assessmentPrompt": "Ask {{name}} why two people remember the same event differently and both are certain they are right.",
+      "standards": [
+        "ncert-hsec:PSY.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_GCT1wHTTxa",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Cognition & Learning",
+      "name": "Thinking, Problem Solving and Creativity",
+      "description": "Understand how concepts, reasoning and decision strategies operate, why mental shortcuts sometimes mislead, and how creative thinking can be deliberately developed.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Describes a strategy for solving a problem",
+        "Explains how a mental set or bias can block a solution",
+        "Explains what distinguishes creative thinking and how it can be fostered"
+      ],
+      "assessmentPrompt": "Ask {{name}} why they sometimes solve a stuck problem the moment they stop trying.",
+      "standards": [
+        "ncert-hsec:PSY.C11.U8"
+      ]
+    },
+    {
+      "id": "mt_0j1sBb1Lvm",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Cognition & Learning",
+      "name": "Language and Thought",
+      "description": "Understand how language develops and is used, and consider the argument that the language available shapes what and how easily a person can think.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Describes stages in the development of language",
+        "Explains the claimed relationship between language and thought",
+        "Gives evidence for or against language shaping thought"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether it is possible to think about something they have no word for.",
+      "standards": [
+        "ncert-hsec:PSY.C11.U8"
+      ]
+    },
+    {
+      "id": "mt_tIn5s9aMbZ",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Basic Psychological Processes",
+      "name": "Motivation and Emotion",
+      "description": "Understand what drives behaviour, from biological needs to psychosocial motives, and that emotion has physiological, cognitive and cultural components.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes biological from psychosocial motives",
+        "Explains the components of an emotional response",
+        "Describes a strategy for managing a negative emotion"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether the racing heart causes the fear or the fear causes the racing heart.",
+      "standards": [
+        "ncert-hsec:PSY.C11.U9"
+      ]
+    },
+    {
+      "id": "mt_hyJ37Ly0MM",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Personality & Individual Differences",
+      "name": "Intelligence and Its Assessment",
+      "description": "Understand competing accounts of what intelligence is, how it is measured, and why test scores must be interpreted with care across cultures.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Contrasts two theories of intelligence",
+        "Explains how an intelligence quotient is derived and what it does not capture",
+        "Explains why intelligence testing raises cultural fairness concerns"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a single number could fairly summarise how clever someone is.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U1"
+      ]
+    },
+    {
+      "id": "mt_UWAM23lVXu",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Personality & Individual Differences",
+      "name": "Special Abilities, Aptitude and Creativity",
+      "description": "Distinguish aptitude as potential from achievement as attainment, and understand creativity as a distinct capacity not captured by conventional intelligence tests.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes aptitude from interest and achievement",
+        "Explains why creativity is not the same as intelligence",
+        "Explains a use of aptitude testing in guidance"
+      ],
+      "assessmentPrompt": "Ask {{name}} how you could tell whether someone would be good at something they have never tried.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U1"
+      ]
+    },
+    {
+      "id": "mt_jRMLYs1dQ3",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Personality & Individual Differences",
+      "name": "The Self and Its Cultural Shaping",
+      "description": "Understand the self as having cognitive and behavioural aspects including self-concept, self-esteem and self-regulation, and that cultures differ in how independently the self is construed.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes self-concept from self-esteem",
+        "Explains self-regulation and self-efficacy",
+        "Contrasts individualist and collectivist construals of the self"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether they would describe themselves by their own qualities or by their relationships, and why that might vary by culture.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U2"
+      ]
+    },
+    {
+      "id": "mt_tSN54DFdbx",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Personality & Individual Differences",
+      "name": "Theories of Personality",
+      "description": "Compare type, trait, psychodynamic, behavioural and humanistic accounts of personality, and understand how each implies a different way of assessing it.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Contrasts a trait with a psychodynamic account of personality",
+        "Explains what a trait approach assumes about consistency of behaviour",
+        "Matches an assessment technique to its underlying theory"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether people really have a fixed personality, or just behave consistently in familiar situations.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U2"
+      ]
+    },
+    {
+      "id": "mt_9gHf2Eh3aq",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Mental Health & Well-Being",
+      "name": "Stress, Coping and Well-Being",
+      "description": "Understand stress as arising from the appraisal of demand against resources, how prolonged stress harms health, and which coping strategies help.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Names types and sources of stress",
+        "Explains how prolonged stress affects physical and psychological health",
+        "Distinguishes problem-focused from emotion-focused coping"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the same exam can be exciting for one person and overwhelming for another.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U3"
+      ]
+    },
+    {
+      "id": "mt_egPukwV209",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Mental Health & Well-Being",
+      "name": "Understanding Psychological Disorders",
+      "description": "Understand how abnormality is defined and classified, that disorders arise from interacting biological, psychological and social factors, and why stigma compounds the difficulty.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the criteria by which behaviour is judged abnormal",
+        "Describes the features of a major category of disorder",
+        "Explains a diathesis-stress or interacting-causes account"
+      ],
+      "assessmentPrompt": "Ask {{name}} what makes a pattern of behaviour a disorder rather than just unusual.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U4"
+      ]
+    },
+    {
+      "id": "mt_MxnPJi8Gzk",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Mental Health & Well-Being",
+      "name": "Therapeutic Approaches",
+      "description": "Understand what the different families of therapy assume about the cause of distress, how the therapeutic relationship works, and what rehabilitation involves.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Matches a therapy to its assumption about the cause of distress",
+        "Explains the importance of the therapeutic relationship",
+        "Explains the aims of rehabilitation for severe mental illness"
+      ],
+      "assessmentPrompt": "Ask {{name}} why talking to a trained stranger can help in a way that talking to friends sometimes cannot.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U5"
+      ]
+    },
+    {
+      "id": "mt_x7sgXfvwpQ",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Social Psychology",
+      "name": "Attitudes, Prejudice and Discrimination",
+      "description": "Understand attitudes as having thought, feeling and action components, how they form and change, and how prejudice becomes discrimination.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Names the components of an attitude",
+        "Explains a route by which attitudes change",
+        "Distinguishes prejudice from discrimination and names a strategy for reducing it"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether changing what people believe is enough to change how they behave.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U6"
+      ]
+    },
+    {
+      "id": "mt_cU4PxHUXuq",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Social Psychology",
+      "name": "Social Cognition and Attribution",
+      "description": "Understand that people use schemas and stereotypes to interpret others quickly, and that explanations of behaviour are systematically biased toward disposition over situation.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how schemas and stereotypes shape impression formation",
+        "Explains the tendency to over-attribute behaviour to personality",
+        "Explains how attribution differs for one’s own and others’ behaviour"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a stranger who cuts in front of them is rude, but they themselves were just in a hurry.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U6"
+      ]
+    },
+    {
+      "id": "mt_sCb1GHCPDk",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Social Psychology",
+      "name": "Conformity, Compliance and Obedience",
+      "description": "Understand how groups shape individual behaviour through conformity to norms, compliance with requests and obedience to authority, and what conditions strengthen each.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes conformity, compliance and obedience",
+        "Names a factor that increases conformity or obedience",
+        "Explains what classic obedience research demonstrated"
+      ],
+      "assessmentPrompt": "Ask {{name}} why people go along with a group answer they can see is wrong.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U7"
+      ]
+    },
+    {
+      "id": "mt_HsVCCet8lx",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Social Psychology",
+      "name": "Group Processes and Intergroup Conflict",
+      "description": "Understand how groups form and develop identity, how membership shapes cooperation and competition, and what makes intergroup conflict escalate or resolve.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how social identity shapes intergroup behaviour",
+        "Explains a cause of intergroup conflict",
+        "Describes a strategy for resolving conflict between groups"
+      ],
+      "assessmentPrompt": "Ask {{name}} how quickly people start favouring their own side once they are put into teams at random.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U7"
+      ]
+    },
+    {
+      "id": "mt_8TKaIliclO",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Work & Vocation",
+      "name": "Psychology, Environment and Social Concerns",
+      "description": "Understand how physical and social environments affect behaviour, and how psychology is applied to poverty, aggression, violence, health and media influence.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how an environmental factor such as crowding or noise affects behaviour",
+        "Explains a psychological approach to reducing aggression or promoting health",
+        "Explains a strategy for encouraging pro-environmental behaviour"
+      ],
+      "assessmentPrompt": "Ask {{name}} why telling people that recycling matters often changes less than making the bin easier to reach.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U8"
+      ]
+    },
+    {
+      "id": "mt_zb0DiAhZVr",
+      "type": "PROCEDURAL",
+      "subject": "Psychology",
+      "domain": "Work & Vocation",
+      "name": "Developing Psychological Skills",
+      "description": "Develop the practical skills psychological work depends on — careful observation, clear communication, empathy and active listening — and understand their ethical boundaries.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Demonstrates active listening in a described exchange",
+        "Distinguishes empathy from sympathy",
+        "Explains an ethical limit on offering psychological help"
+      ],
+      "assessmentPrompt": "Ask {{name}} what makes someone feel genuinely listened to rather than just heard.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U9"
       ]
     }
   ]

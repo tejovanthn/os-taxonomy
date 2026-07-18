@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4022,
+  "edgeCount": 4139,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -24134,6 +24134,708 @@
       "prerequisiteId": "mt_mxVwYQc2Ep",
       "strength": "soft",
       "reason": "Conservation acts on populations and communities."
+    },
+    {
+      "topicId": "mt_CXqMHB45fB",
+      "prerequisiteId": "mt_1YwOCMMwD8",
+      "strength": "hard",
+      "reason": "Formal set theory builds on sets and Venn diagrams met earlier."
+    },
+    {
+      "topicId": "mt_9rE4aUZ2rI",
+      "prerequisiteId": "mt_CXqMHB45fB",
+      "strength": "hard",
+      "reason": "A relation is defined as a subset of a Cartesian product."
+    },
+    {
+      "topicId": "mt_9rE4aUZ2rI",
+      "prerequisiteId": "mt_WBdHkc2HTf",
+      "strength": "hard",
+      "reason": "Function graphs build on linear function graphs."
+    },
+    {
+      "topicId": "mt_1bYQBWlJUc",
+      "prerequisiteId": "mt_M2nFDa7tax",
+      "strength": "hard",
+      "reason": "The unit circle definition extends trigonometry of right triangles."
+    },
+    {
+      "topicId": "mt_1bYQBWlJUc",
+      "prerequisiteId": "mt_9rE4aUZ2rI",
+      "strength": "soft",
+      "reason": "Trigonometric functions are studied as functions with domain and range."
+    },
+    {
+      "topicId": "mt_V0XjyCDO1f",
+      "prerequisiteId": "mt_1bYQBWlJUc",
+      "strength": "hard",
+      "reason": "Identities and general solutions rest on the unit circle definition."
+    },
+    {
+      "topicId": "mt_HKCYY309r6",
+      "prerequisiteId": "mt_evxFOvZkHE",
+      "strength": "hard",
+      "reason": "Induction is a specific proof technique building on what proof means."
+    },
+    {
+      "topicId": "mt_iwsSy40Cz7",
+      "prerequisiteId": "mt_cyTv9Ajw49",
+      "strength": "hard",
+      "reason": "Complex numbers are motivated by quadratics with no real roots."
+    },
+    {
+      "topicId": "mt_iwsSy40Cz7",
+      "prerequisiteId": "mt_sORtAFxvlB",
+      "strength": "soft",
+      "reason": "The complex numbers extend the real number system."
+    },
+    {
+      "topicId": "mt_CbQHt4sEUv",
+      "prerequisiteId": "mt_QhFEDyIwSO",
+      "strength": "hard",
+      "reason": "Solving inequalities builds on solving linear equations."
+    },
+    {
+      "topicId": "mt_3sZRS9ghqF",
+      "prerequisiteId": "mt_fcUmPgxPAw",
+      "strength": "hard",
+      "reason": "Binomial coefficients are combinations."
+    },
+    {
+      "topicId": "mt_UlEOUiLIt1",
+      "prerequisiteId": "mt_zImUoeskII",
+      "strength": "hard",
+      "reason": "Geometric progressions are developed alongside arithmetic ones."
+    },
+    {
+      "topicId": "mt_AYsuzJr4Fq",
+      "prerequisiteId": "mt_KcWEqUJyOK",
+      "strength": "hard",
+      "reason": "Coordinate treatment of lines builds on the distance formula."
+    },
+    {
+      "topicId": "mt_lOMVBkRwas",
+      "prerequisiteId": "mt_AYsuzJr4Fq",
+      "strength": "hard",
+      "reason": "Conics extend coordinate geometry from lines to curves."
+    },
+    {
+      "topicId": "mt_lOMVBkRwas",
+      "prerequisiteId": "mt_svFa6_mjO_",
+      "strength": "soft",
+      "reason": "The circle is the first and simplest conic section."
+    },
+    {
+      "topicId": "mt_07GDWGBJ85",
+      "prerequisiteId": "mt_ZLeDlsxbyZ",
+      "strength": "hard",
+      "reason": "The three-dimensional section formula extends the planar one."
+    },
+    {
+      "topicId": "mt_VHfWpad8qo",
+      "prerequisiteId": "mt_9rE4aUZ2rI",
+      "strength": "hard",
+      "reason": "Limits and derivatives are properties of functions."
+    },
+    {
+      "topicId": "mt_VHfWpad8qo",
+      "prerequisiteId": "mt_AYsuzJr4Fq",
+      "strength": "hard",
+      "reason": "The derivative is interpreted as the slope of a tangent line."
+    },
+    {
+      "topicId": "mt_KuDXGCrPzb",
+      "prerequisiteId": "mt_evxFOvZkHE",
+      "strength": "hard",
+      "reason": "Logical connectives formalise how proofs are stated."
+    },
+    {
+      "topicId": "mt_idU3JPaQaN",
+      "prerequisiteId": "mt_dbsLUDDBRW",
+      "strength": "hard",
+      "reason": "Dispersion is studied after measures of central tendency."
+    },
+    {
+      "topicId": "mt_idU3JPaQaN",
+      "prerequisiteId": "mt_l9QXa5DYit",
+      "strength": "soft",
+      "reason": "Both analyse grouped frequency distributions."
+    },
+    {
+      "topicId": "mt_6th44RdI9b",
+      "prerequisiteId": "mt_vmQJAtAFuy",
+      "strength": "hard",
+      "reason": "Axiomatic probability formalises the probability scale."
+    },
+    {
+      "topicId": "mt_6th44RdI9b",
+      "prerequisiteId": "mt_CXqMHB45fB",
+      "strength": "hard",
+      "reason": "Events are treated as subsets of a sample space."
+    },
+    {
+      "topicId": "mt_bngCO6T8R9",
+      "prerequisiteId": "mt_9rE4aUZ2rI",
+      "strength": "hard",
+      "reason": "Classifying relations builds on the definition of a relation."
+    },
+    {
+      "topicId": "mt_H1B9ZNQlUn",
+      "prerequisiteId": "mt_bngCO6T8R9",
+      "strength": "hard",
+      "reason": "Inverting a trigonometric function requires it to be one-to-one."
+    },
+    {
+      "topicId": "mt_H1B9ZNQlUn",
+      "prerequisiteId": "mt_1bYQBWlJUc",
+      "strength": "hard",
+      "reason": "The inverse functions invert the circular functions."
+    },
+    {
+      "topicId": "mt_gRAOMFvl7D",
+      "prerequisiteId": "mt_yCrineYUH8",
+      "strength": "hard",
+      "reason": "The determinant is a property of a square matrix."
+    },
+    {
+      "topicId": "mt_GP5yAS9SAn",
+      "prerequisiteId": "mt_gRAOMFvl7D",
+      "strength": "hard",
+      "reason": "Solving by inverse requires the determinant to be non-zero."
+    },
+    {
+      "topicId": "mt_GP5yAS9SAn",
+      "prerequisiteId": "mt_mqgu72aCMz",
+      "strength": "hard",
+      "reason": "Matrix methods generalise solving simultaneous equations."
+    },
+    {
+      "topicId": "mt_LHazmL09hq",
+      "prerequisiteId": "mt_VHfWpad8qo",
+      "strength": "hard",
+      "reason": "Continuity and differentiability are defined using limits."
+    },
+    {
+      "topicId": "mt_JOw8z6Cap0",
+      "prerequisiteId": "mt_LHazmL09hq",
+      "strength": "hard",
+      "reason": "Advanced differentiation techniques assume differentiability."
+    },
+    {
+      "topicId": "mt_9WLPabHUrv",
+      "prerequisiteId": "mt_JOw8z6Cap0",
+      "strength": "hard",
+      "reason": "Applications require fluency in differentiating."
+    },
+    {
+      "topicId": "mt_fzvhHzjGLI",
+      "prerequisiteId": "mt_JOw8z6Cap0",
+      "strength": "hard",
+      "reason": "Integration by substitution reverses the chain rule."
+    },
+    {
+      "topicId": "mt_FyAANENFTb",
+      "prerequisiteId": "mt_fzvhHzjGLI",
+      "strength": "hard",
+      "reason": "Definite integrals are evaluated using antiderivatives."
+    },
+    {
+      "topicId": "mt_rrHVj55hTE",
+      "prerequisiteId": "mt_FyAANENFTb",
+      "strength": "hard",
+      "reason": "Areas are computed as definite integrals."
+    },
+    {
+      "topicId": "mt_rrHVj55hTE",
+      "prerequisiteId": "mt_lOMVBkRwas",
+      "strength": "soft",
+      "reason": "The bounding curves are often conics in standard form."
+    },
+    {
+      "topicId": "mt_xADrLjP7xB",
+      "prerequisiteId": "mt_fzvhHzjGLI",
+      "strength": "hard",
+      "reason": "Solving differential equations requires integration."
+    },
+    {
+      "topicId": "mt_tjPZDhac6f",
+      "prerequisiteId": "mt_07GDWGBJ85",
+      "strength": "hard",
+      "reason": "Vectors are described using three-dimensional coordinates."
+    },
+    {
+      "topicId": "mt_9y1fpkAnNQ",
+      "prerequisiteId": "mt_tjPZDhac6f",
+      "strength": "hard",
+      "reason": "Equations of lines and planes are written in vector form."
+    },
+    {
+      "topicId": "mt_XjNwXYy1xA",
+      "prerequisiteId": "mt_CbQHt4sEUv",
+      "strength": "hard",
+      "reason": "The feasible region is the solution of a system of inequalities."
+    },
+    {
+      "topicId": "mt_ygWtTuCRWo",
+      "prerequisiteId": "mt_6th44RdI9b",
+      "strength": "hard",
+      "reason": "Conditional probability is defined within the axiomatic framework."
+    },
+    {
+      "topicId": "mt_ygWtTuCRWo",
+      "prerequisiteId": "mt_GDtFU5fyUv",
+      "strength": "soft",
+      "reason": "Tree diagrams represent successive conditional probabilities."
+    },
+    {
+      "topicId": "mt_WXBy9Q0sEW",
+      "prerequisiteId": "mt_ygWtTuCRWo",
+      "strength": "hard",
+      "reason": "The binomial model assumes independent trials."
+    },
+    {
+      "topicId": "mt_WXBy9Q0sEW",
+      "prerequisiteId": "mt_3sZRS9ghqF",
+      "strength": "hard",
+      "reason": "Binomial probabilities use binomial coefficients."
+    },
+    {
+      "topicId": "mt_WXBy9Q0sEW",
+      "prerequisiteId": "mt_idU3JPaQaN",
+      "strength": "soft",
+      "reason": "A distribution is summarised by its mean and variance."
+    },
+    {
+      "topicId": "mt_OL72TaSPnb",
+      "prerequisiteId": "mt_XkVGpY4xSd",
+      "strength": "hard",
+      "reason": "The shift from trouble to issue is the discipline’s founding move."
+    },
+    {
+      "topicId": "mt_cYvwc8SLXA",
+      "prerequisiteId": "mt_XkVGpY4xSd",
+      "strength": "hard",
+      "reason": "Groups are the basic unit sociology studies."
+    },
+    {
+      "topicId": "mt_NEsZ73N545",
+      "prerequisiteId": "mt_cYvwc8SLXA",
+      "strength": "hard",
+      "reason": "Status and role are positions within groups."
+    },
+    {
+      "topicId": "mt_JCj1HVxjHe",
+      "prerequisiteId": "mt_NEsZ73N545",
+      "strength": "hard",
+      "reason": "Control enforces the expectations attached to roles."
+    },
+    {
+      "topicId": "mt_XPAbBUa7SX",
+      "prerequisiteId": "mt_cYvwc8SLXA",
+      "strength": "hard",
+      "reason": "The family is the primary group par excellence."
+    },
+    {
+      "topicId": "mt_XPAbBUa7SX",
+      "prerequisiteId": "mt_Lkc7l7OvTP",
+      "strength": "hard",
+      "reason": "Kinship analysis builds on kinship and relatives met at primary level."
+    },
+    {
+      "topicId": "mt_GSjZBiGcXm",
+      "prerequisiteId": "mt_C7TmnFPBLy",
+      "strength": "soft",
+      "reason": "Religion is analysed alongside other institutions."
+    },
+    {
+      "topicId": "mt_iEGOBz4m7g",
+      "prerequisiteId": "mt_wI1bqEs1aZ",
+      "strength": "hard",
+      "reason": "Education is examined for how it reproduces or reduces inequality."
+    },
+    {
+      "topicId": "mt_6nZPDaYcRw",
+      "prerequisiteId": "mt_XkVGpY4xSd",
+      "strength": "hard",
+      "reason": "Culture is a core sociological concept."
+    },
+    {
+      "topicId": "mt_hPlJ4FMZnf",
+      "prerequisiteId": "mt_6nZPDaYcRw",
+      "strength": "hard",
+      "reason": "Socialisation is how culture is transmitted."
+    },
+    {
+      "topicId": "mt_hPlJ4FMZnf",
+      "prerequisiteId": "mt_XPAbBUa7SX",
+      "strength": "hard",
+      "reason": "The family is the primary agency of socialisation."
+    },
+    {
+      "topicId": "mt_4rLC670Xsy",
+      "prerequisiteId": "mt_XkVGpY4xSd",
+      "strength": "hard",
+      "reason": "Methods follow from what the discipline sets out to study."
+    },
+    {
+      "topicId": "mt_nJhd3cF5Q5",
+      "prerequisiteId": "mt_NEsZ73N545",
+      "strength": "hard",
+      "reason": "Structure is the patterned arrangement of statuses and roles."
+    },
+    {
+      "topicId": "mt_wI1bqEs1aZ",
+      "prerequisiteId": "mt_nJhd3cF5Q5",
+      "strength": "hard",
+      "reason": "Stratification is a feature of social structure."
+    },
+    {
+      "topicId": "mt_KEE3xOZmbs",
+      "prerequisiteId": "mt_nJhd3cF5Q5",
+      "strength": "hard",
+      "reason": "Change is change in social structure."
+    },
+    {
+      "topicId": "mt_zxNUl0OAZB",
+      "prerequisiteId": "mt_JCj1HVxjHe",
+      "strength": "hard",
+      "reason": "Authority and law are formal means of social control."
+    },
+    {
+      "topicId": "mt_cfZAQONCFJ",
+      "prerequisiteId": "mt_KEE3xOZmbs",
+      "strength": "hard",
+      "reason": "Urbanisation is a major form of social change."
+    },
+    {
+      "topicId": "mt_XewXurwsAx",
+      "prerequisiteId": "mt_KEE3xOZmbs",
+      "strength": "soft",
+      "reason": "Environmental crisis is analysed as a driver and product of change."
+    },
+    {
+      "topicId": "mt_tWrPcEaddI",
+      "prerequisiteId": "mt_nJhd3cF5Q5",
+      "strength": "hard",
+      "reason": "The classical thinkers each offer an account of social structure."
+    },
+    {
+      "topicId": "mt_tWrPcEaddI",
+      "prerequisiteId": "mt_wI1bqEs1aZ",
+      "strength": "hard",
+      "reason": "Marx’s account of class is foundational to stratification theory."
+    },
+    {
+      "topicId": "mt_FeWuS5wQRR",
+      "prerequisiteId": "mt_tWrPcEaddI",
+      "strength": "soft",
+      "reason": "Indian sociologists wrote in dialogue with the western tradition."
+    },
+    {
+      "topicId": "mt_JezGcH7nV2",
+      "prerequisiteId": "mt_Jd2NQIbpjV",
+      "strength": "hard",
+      "reason": "Sociological analysis builds on the history of the freedom struggle."
+    },
+    {
+      "topicId": "mt_r6FnJ3PIbX",
+      "prerequisiteId": "mt_29aZtsWvgT",
+      "strength": "hard",
+      "reason": "Demographic analysis builds on population and its challenges."
+    },
+    {
+      "topicId": "mt_r6FnJ3PIbX",
+      "prerequisiteId": "mt_B6Ji0Zf2J4",
+      "strength": "hard",
+      "reason": "Demographic structure extends population composition and migration."
+    },
+    {
+      "topicId": "mt_N6Bq2bSGVA",
+      "prerequisiteId": "mt_wI1bqEs1aZ",
+      "strength": "hard",
+      "reason": "Caste is analysed as a system of stratification."
+    },
+    {
+      "topicId": "mt_UdGGr4oUhS",
+      "prerequisiteId": "mt_3bSwu2z1zM",
+      "strength": "hard",
+      "reason": "Tribal marginalisation is a case of structured exclusion."
+    },
+    {
+      "topicId": "mt_moLWCF06Oz",
+      "prerequisiteId": "mt_C7TmnFPBLy",
+      "strength": "hard",
+      "reason": "The market is treated as one economic institution among others."
+    },
+    {
+      "topicId": "mt_3bSwu2z1zM",
+      "prerequisiteId": "mt_wI1bqEs1aZ",
+      "strength": "hard",
+      "reason": "Exclusion is the sharp end of stratification."
+    },
+    {
+      "topicId": "mt_vVPEodQG45",
+      "prerequisiteId": "mt_3bSwu2z1zM",
+      "strength": "hard",
+      "reason": "Gender inequality is analysed as structured exclusion."
+    },
+    {
+      "topicId": "mt_vVPEodQG45",
+      "prerequisiteId": "mt_BlcpwdLsRX",
+      "strength": "hard",
+      "reason": "Builds on gender equality and social reform."
+    },
+    {
+      "topicId": "mt_TSI1SYkpxd",
+      "prerequisiteId": "mt_sfHoytwSwm",
+      "strength": "hard",
+      "reason": "Builds on unity in diversity met at middle school."
+    },
+    {
+      "topicId": "mt_TSI1SYkpxd",
+      "prerequisiteId": "mt_OlqoeqrPis",
+      "strength": "hard",
+      "reason": "Extends how social divisions enter democratic politics."
+    },
+    {
+      "topicId": "mt_1Vjk9nQkMH",
+      "prerequisiteId": "mt_JezGcH7nV2",
+      "strength": "hard",
+      "reason": "Structural change begins with the colonial reorganisation."
+    },
+    {
+      "topicId": "mt_1Vjk9nQkMH",
+      "prerequisiteId": "mt_cfZAQONCFJ",
+      "strength": "hard",
+      "reason": "Urbanisation is central to structural change in India."
+    },
+    {
+      "topicId": "mt_3FY2watbhU",
+      "prerequisiteId": "mt_6nZPDaYcRw",
+      "strength": "hard",
+      "reason": "Cultural change presupposes an account of culture."
+    },
+    {
+      "topicId": "mt_3FY2watbhU",
+      "prerequisiteId": "mt_N6Bq2bSGVA",
+      "strength": "hard",
+      "reason": "Sanskritisation is defined in relation to caste hierarchy."
+    },
+    {
+      "topicId": "mt_gbzJ8ArJ8W",
+      "prerequisiteId": "mt_zFL9HpDF22",
+      "strength": "hard",
+      "reason": "Builds on the Constitution of India and its rights and duties."
+    },
+    {
+      "topicId": "mt_gbzJ8ArJ8W",
+      "prerequisiteId": "mt_3bSwu2z1zM",
+      "strength": "hard",
+      "reason": "The Constitution’s transformative aim targets structured inequality."
+    },
+    {
+      "topicId": "mt_8o3KqapEPz",
+      "prerequisiteId": "mt_1Vjk9nQkMH",
+      "strength": "hard",
+      "reason": "Agrarian change is one strand of structural change."
+    },
+    {
+      "topicId": "mt_K7EgaRL4Fl",
+      "prerequisiteId": "mt_1Vjk9nQkMH",
+      "strength": "hard",
+      "reason": "Liberalisation continues the story of industrial change."
+    },
+    {
+      "topicId": "mt_K7EgaRL4Fl",
+      "prerequisiteId": "mt_wI1bqEs1aZ",
+      "strength": "hard",
+      "reason": "The topic tracks change in the class structure."
+    },
+    {
+      "topicId": "mt_JBTqxKB1FM",
+      "prerequisiteId": "mt_3FY2watbhU",
+      "strength": "hard",
+      "reason": "Media and globalisation are engines of cultural change."
+    },
+    {
+      "topicId": "mt_BKcTBFbZbB",
+      "prerequisiteId": "mt_KEE3xOZmbs",
+      "strength": "hard",
+      "reason": "Movements are a principal mechanism of social change."
+    },
+    {
+      "topicId": "mt_BKcTBFbZbB",
+      "prerequisiteId": "mt_VrT09BUGOv",
+      "strength": "hard",
+      "reason": "Extends how movements widen democracy."
+    },
+    {
+      "topicId": "mt_UUC1B6rv5W",
+      "prerequisiteId": "mt_wmnNEDR2L3",
+      "strength": "hard",
+      "reason": "Methods follow from what the discipline studies."
+    },
+    {
+      "topicId": "mt_8s0eGdc0oQ",
+      "prerequisiteId": "mt_okUMpHsV-P",
+      "strength": "hard",
+      "reason": "Biological psychology builds on neurons and brain structure."
+    },
+    {
+      "topicId": "mt_8s0eGdc0oQ",
+      "prerequisiteId": "mt_FQXGRdTDhp",
+      "strength": "hard",
+      "reason": "The endocrine basis of behaviour builds on hormones."
+    },
+    {
+      "topicId": "mt_vT0njZ0z9y",
+      "prerequisiteId": "mt_8s0eGdc0oQ",
+      "strength": "soft",
+      "reason": "Cultural roots of behaviour are set against biological ones."
+    },
+    {
+      "topicId": "mt_X56AyLU5J5",
+      "prerequisiteId": "mt_ntST0A5T4f",
+      "strength": "hard",
+      "reason": "Adolescence is one stage within the life span."
+    },
+    {
+      "topicId": "mt_X56AyLU5J5",
+      "prerequisiteId": "mt_pu2mmK27UA",
+      "strength": "hard",
+      "reason": "Builds on growing up and puberty."
+    },
+    {
+      "topicId": "mt_c3ARSwTYib",
+      "prerequisiteId": "mt_8s0eGdc0oQ",
+      "strength": "hard",
+      "reason": "Perception rests on the functioning of the sensory nervous system."
+    },
+    {
+      "topicId": "mt_PZWQJWJpGD",
+      "prerequisiteId": "mt_UUC1B6rv5W",
+      "strength": "soft",
+      "reason": "Conditioning findings come from controlled experimentation."
+    },
+    {
+      "topicId": "mt_35hrRlgjSd",
+      "prerequisiteId": "mt_PZWQJWJpGD",
+      "strength": "hard",
+      "reason": "Memory is what learning leaves behind."
+    },
+    {
+      "topicId": "mt_GCT1wHTTxa",
+      "prerequisiteId": "mt_35hrRlgjSd",
+      "strength": "hard",
+      "reason": "Thinking operates on information held in memory."
+    },
+    {
+      "topicId": "mt_0j1sBb1Lvm",
+      "prerequisiteId": "mt_GCT1wHTTxa",
+      "strength": "hard",
+      "reason": "The question is how language relates to thought."
+    },
+    {
+      "topicId": "mt_tIn5s9aMbZ",
+      "prerequisiteId": "mt_8s0eGdc0oQ",
+      "strength": "hard",
+      "reason": "Motives and emotions have physiological bases."
+    },
+    {
+      "topicId": "mt_hyJ37Ly0MM",
+      "prerequisiteId": "mt_UUC1B6rv5W",
+      "strength": "hard",
+      "reason": "Intelligence is studied through psychological testing."
+    },
+    {
+      "topicId": "mt_UWAM23lVXu",
+      "prerequisiteId": "mt_hyJ37Ly0MM",
+      "strength": "hard",
+      "reason": "Aptitude and creativity are contrasted with measured intelligence."
+    },
+    {
+      "topicId": "mt_UWAM23lVXu",
+      "prerequisiteId": "mt_GCT1wHTTxa",
+      "strength": "hard",
+      "reason": "Creativity is a mode of thinking."
+    },
+    {
+      "topicId": "mt_jRMLYs1dQ3",
+      "prerequisiteId": "mt_X56AyLU5J5",
+      "strength": "hard",
+      "reason": "Identity formation is the adolescent developmental task."
+    },
+    {
+      "topicId": "mt_tSN54DFdbx",
+      "prerequisiteId": "mt_jRMLYs1dQ3",
+      "strength": "hard",
+      "reason": "Personality theories account for the consistent self."
+    },
+    {
+      "topicId": "mt_9gHf2Eh3aq",
+      "prerequisiteId": "mt_tIn5s9aMbZ",
+      "strength": "hard",
+      "reason": "Stress responses are emotional and physiological."
+    },
+    {
+      "topicId": "mt_egPukwV209",
+      "prerequisiteId": "mt_9gHf2Eh3aq",
+      "strength": "hard",
+      "reason": "Stress is one factor in the onset of disorder."
+    },
+    {
+      "topicId": "mt_egPukwV209",
+      "prerequisiteId": "mt_tSN54DFdbx",
+      "strength": "soft",
+      "reason": "Accounts of disorder draw on accounts of personality."
+    },
+    {
+      "topicId": "mt_MxnPJi8Gzk",
+      "prerequisiteId": "mt_egPukwV209",
+      "strength": "hard",
+      "reason": "Therapy responds to the disorders just described."
+    },
+    {
+      "topicId": "mt_x7sgXfvwpQ",
+      "prerequisiteId": "mt_vT0njZ0z9y",
+      "strength": "hard",
+      "reason": "Attitudes are acquired through socialisation."
+    },
+    {
+      "topicId": "mt_cU4PxHUXuq",
+      "prerequisiteId": "mt_x7sgXfvwpQ",
+      "strength": "hard",
+      "reason": "Stereotypes are the cognitive component of prejudice."
+    },
+    {
+      "topicId": "mt_cU4PxHUXuq",
+      "prerequisiteId": "mt_GCT1wHTTxa",
+      "strength": "soft",
+      "reason": "Attribution biases are cognitive shortcuts."
+    },
+    {
+      "topicId": "mt_sCb1GHCPDk",
+      "prerequisiteId": "mt_cU4PxHUXuq",
+      "strength": "hard",
+      "reason": "Influence operates through how situations are interpreted."
+    },
+    {
+      "topicId": "mt_HsVCCet8lx",
+      "prerequisiteId": "mt_sCb1GHCPDk",
+      "strength": "hard",
+      "reason": "Group processes extend individual social influence."
+    },
+    {
+      "topicId": "mt_8TKaIliclO",
+      "prerequisiteId": "mt_HsVCCet8lx",
+      "strength": "soft",
+      "reason": "Social concerns such as violence are group-level phenomena."
+    },
+    {
+      "topicId": "mt_zb0DiAhZVr",
+      "prerequisiteId": "mt_MxnPJi8Gzk",
+      "strength": "hard",
+      "reason": "Counselling skills underpin therapeutic practice."
     }
   ]
 }
