@@ -292,6 +292,9 @@ const newTopics = [
 
 // Cross-subject edges anchoring the Physics ladder to the Class X Science ladder.
 const newEdges = [
+  { t: 'phy-units-dimensions', p: 'mt_Psun-u_lPf', strength: 'hard', reason: 'Units and dimensions formalise accurate measurement met earlier.' },
+  { t: 'phy-errors-significant-figures', p: 'phy-units-dimensions', strength: 'hard', reason: 'Reporting a measurement presupposes its units and dimensions.' },
+  { t: 'phy-motion-straight-line', p: 'phy-errors-significant-figures', strength: 'soft', reason: 'Quantitative motion work depends on measuring and reporting properly.' },
   { t: 'phy-motion-straight-line', p: 'mt_zqdALphaES', strength: 'hard', reason: 'Senior kinematics builds on describing motion at secondary level.' },
   { t: 'phy-projectile-motion', p: 'phy-vectors-resolution', strength: 'hard', reason: 'Projectile motion is handled by resolving velocity into components.' },
   { t: 'phy-projectile-motion', p: 'phy-motion-straight-line', strength: 'hard', reason: 'Projectile motion combines two straight-line motions.' },

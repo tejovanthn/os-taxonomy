@@ -8,6 +8,44 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### NCERT higher secondary — Classes XI–XII, all subjects (2026-07-18)
+- New source `ncert-hsec` (NCERT Syllabus for Higher Secondary Classes XI–XII,
+  NCF 2005), from the same Volume II zip as `ncert-sec`. Same red-tier rights
+  posture: minted class×unit codes plus Marble-authored factual descriptions
+  only; **no NCERT text**. See PROVENANCE.
+- **This raises the dataset's age ceiling from 16 to 18.** Every subject
+  previously topped out at 16; senior-secondary specialist content now extends
+  the graph to the end of school.
+- **225 standards, 344 new topics, 350 new edges, 23 new clusters.** Unlike the
+  IX–X pass this is overwhelmingly minting rather than aligning — probes had
+  confirmed calculus, thermodynamics, organic chemistry, electrostatics,
+  coordination compounds, molecular genetics and sociology were all absent.
+  Every one of the 225 standards is linked to at least one topic.
+- **Four new subjects (23 → 27).** Physics (49 topics), Chemistry (46) and
+  Biology (41) become subjects in their own right rather than domains under
+  Science, matching how they are elected at this stage and following the
+  precedent of Economics, Business Studies and Accountancy, which already
+  occupied only the senior band. Science therefore tops out at 16 and the three
+  senior ladders hang off it by cross-subject prerequisite edges (69 of them).
+  Sociology (35 topics) is added as a subject parallel to the existing
+  Psychology.
+- **Existing subjects extended to 18:** Mathematics (+34, with new Calculus,
+  Sets/Relations & Functions, Vectors & 3-D Geometry and Linear Programming
+  domains), Psychology (+25), Business Studies (+22), Social Studies (+30 across
+  new Physical Geography, Human Geography, Political Theory and World Politics
+  domains), History (+24), Accountancy (+17), Economics (+13), English (+5),
+  Sanskrit (+3).
+- History XII is organised by **source type rather than chronology**, so its
+  topics are framed around reading a class of evidence — inscriptions, an epic,
+  a stupa, a revenue compilation, court chronicles, ruins, travellers' accounts,
+  official reports, photographs, oral testimony, assembly debates.
+- **Known inconsistency:** Geography and Political Science are arguably the same
+  case as the three sciences — separate elective disciplines at this stage — but
+  the subject split authorised only Physics, Chemistry, Biology and Sociology, so
+  they remain domains under Social Studies. Flagged in STATE.md for a decision.
+- Sanskrit XI–XII recovered by OCR of 300 DPI renders (tesseract `san`/`hin`)
+  cross-checked against page images. Urdu remains image-only and un-integrated.
+
 ### NCERT secondary syllabi — Classes IX–X, all subjects (2026-07-18)
 - New source `ncert-sec` (NCERT Syllabus for Secondary Classes IX–X, NCF 2005),
   from Volume II of the syllabus (`vol2_hsl.zip`). Same red-tier rights posture

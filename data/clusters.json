@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 336,
+  "clusterCount": 342,
   "clusters": [
     {
       "subject": "English",
@@ -2036,6 +2036,48 @@
       "ageRangeStart": 17,
       "ageRangeEnd": 18,
       "summary": "Here psychology addresses what makes people different from one another. Learners meet competing theories of intelligence and the difficulty of summarising it in a single score, particularly across cultures. Personality is approached through five quite different traditions — type, trait, psychodynamic, behavioural and humanistic — each implying its own assessment method. The recurring caution is that measurement in this area is easier to do than to do fairly."
+    },
+    {
+      "subject": "Business Studies",
+      "domain": "Management",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "summary": "The Class XII course treats management as a process with five linked functions rather than a job title. Planning decides what to do, organising builds the structure, staffing fills it, directing gets people to act and controlling checks whether any of it worked. The connection that matters most is between the first and the last: control is meaningless without a plan to measure against, which is why the two are usually taught as a pair."
+    },
+    {
+      "subject": "Economics",
+      "domain": "Macroeconomics",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "summary": "Macroeconomics steps back from single markets to the economy as a whole. Learners first meet the national accounts and the three equivalent ways of measuring output, then the idea that total demand determines how much gets produced and how many people work. From there the pieces connect: banks create the money that finances spending, government budgets add or withdraw demand, and the balance of payments records what crosses the border. The multiplier is the idea that ties it together — spending becomes someone’s income, which becomes further spending."
+    },
+    {
+      "subject": "Accountancy",
+      "domain": "Partnership Accounts",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "summary": "Partnership accounting is where the mechanics learned in Class XI meet the awkward realities of shared ownership. Profits have to be divided according to an agreement — or according to default legal provisions when partners never wrote one down. When someone joins, leaves or dies, the firm has to value what it has built up that does not appear on the balance sheet, which is what goodwill represents, and revalue assets that have drifted from their recorded amounts."
+    },
+    {
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "summary": "The Class XII course is organised by source rather than by century, and that is its point. Each theme pairs a period of Indian history with a class of evidence — inscriptions, an epic, a stupa, a revenue compilation, a court chronicle, ruins, travellers’ accounts, official reports, photographs, oral testimony, assembly debates — and asks what that kind of source can and cannot tell us. Learners come out knowing less about dates and more about how historical knowledge is actually produced, and whose voices tend to go missing from it."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Political Theory",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "summary": "Political theory steps back from how institutions work to ask what they are for. Freedom turns out to mean two different things — being left alone, and being able to act — and equality likewise splits into treating people identically and giving them genuinely equal standing. The interesting part is that these values conflict: policies that increase one often reduce another. Learners practise arguing about that trade-off rather than looking up the answer."
+    },
+    {
+      "subject": "Social Studies",
+      "domain": "Physical Geography",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "summary": "Physical geography explains the earth as a set of interacting systems. Learners work from the inside outward: the layered interior revealed by seismic waves, plates whose slow movement accounts for where mountains, earthquakes and volcanoes occur, and then the processes of weathering and erosion that wear those features down again. The atmosphere and oceans are treated as the machinery that redistributes the sun’s uneven heating, which is what ultimately produces climate."
     }
   ]
 }

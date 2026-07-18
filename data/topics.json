@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2330,
+  "topicCount": 2444,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -1959,7 +1959,8 @@
         "ccss-ela:RL.6.5",
         "ccss-ela:RL.7.5",
         "uk-nc-2013:KS3-ENG-GV-1b",
-        "ncert-sec:ENG.C910.GRAM"
+        "ncert-sec:ENG.C910.GRAM",
+        "ncert-hsec:ENG.C1112.GRAM"
       ]
     },
     {
@@ -1982,7 +1983,8 @@
         "ccss-ela:L.6.3",
         "ccss-ela:L.7.3",
         "uk-nc-2013:KS3-ENG-GV-1f",
-        "ncert-sec:ENG.C910.GRAM"
+        "ncert-sec:ENG.C910.GRAM",
+        "ncert-hsec:ENG.C1112.GRAM"
       ]
     },
     {
@@ -2029,7 +2031,8 @@
         "ccss-ela:L.6.3b",
         "uk-nc-2013:KS3-ENG-GV-1d",
         "uk-nc-2013:KS3-ENG-GV-1e",
-        "ncert-sec:ENG.C910.REGISTER"
+        "ncert-sec:ENG.C910.REGISTER",
+        "ncert-hsec:ENG.C1112.GRAM"
       ]
     },
     {
@@ -4127,7 +4130,8 @@
         "nios-sec-2020:202.RDG",
         "ncert-elem:ENG.C68.RDG",
         "ncert-sec:ENG.C910.READ",
-        "ncert-sec:ENG.C910.TRANSCODE"
+        "ncert-sec:ENG.C910.TRANSCODE",
+        "ncert-hsec:ENG.C1112.LIT"
       ]
     },
     {
@@ -4153,7 +4157,8 @@
         "ccss-ela:RL.6.4",
         "ccss-ela:RL.7.4",
         "ccss-ela:RL.8.4",
-        "uk-nc-2013:KS3-ENG-R-3a"
+        "uk-nc-2013:KS3-ENG-R-3a",
+        "ncert-hsec:ENG.C1112.LIT"
       ]
     },
     {
@@ -4179,7 +4184,8 @@
         "ccss-ela:RL.6.6",
         "ccss-ela:RL.7.6",
         "ccss-ela:RL.8.6",
-        "uk-nc-2013:KS3-ENG-R-3c"
+        "uk-nc-2013:KS3-ENG-R-3c",
+        "ncert-hsec:ENG.C1112.EL1"
       ]
     },
     {
@@ -4227,7 +4233,8 @@
         "uk-nc-2013:KS3-ENG-R-3b",
         "nios-sec-2020:202.LIT",
         "ncert-elem:ENG.C68.RDG",
-        "ncert-sec:ENG.C910.READ"
+        "ncert-sec:ENG.C910.READ",
+        "ncert-hsec:ENG.C1112.LIT"
       ]
     },
     {
@@ -4301,7 +4308,8 @@
         "ccss-ela:RL.6.7",
         "ccss-ela:RL.7.7",
         "ccss-ela:RL.8.7",
-        "uk-nc-2013:KS3-ENG-R-3d"
+        "uk-nc-2013:KS3-ENG-R-3d",
+        "ncert-hsec:ENG.C1112.EL1"
       ]
     },
     {
@@ -6711,7 +6719,8 @@
         "ccss-ela:W.8.7",
         "ccss-ela:W.8.8",
         "uk-nc-2013:KS3-ENG-W-1b",
-        "ncert-sec:ENG.C910.REF"
+        "ncert-sec:ENG.C910.REF",
+        "ncert-hsec:ENG.C1112.CORE"
       ]
     },
     {
@@ -36682,7 +36691,8 @@
       "standards": [
         "nios-sec-2020:202.WRT",
         "ncert-elem:ENG.C68.WRT",
-        "ncert-sec:ENG.C910.WRITE"
+        "ncert-sec:ENG.C910.WRITE",
+        "ncert-hsec:ENG.C1112.CORE"
       ]
     },
     {
@@ -36704,7 +36714,8 @@
       "standards": [
         "nios-sec-2020:202.STU",
         "ncert-elem:ENG.C68.RDG",
-        "ncert-sec:ENG.C910.WRITE"
+        "ncert-sec:ENG.C910.WRITE",
+        "ncert-hsec:ENG.C1112.CORE"
       ]
     },
     {
@@ -36727,7 +36738,8 @@
         "nios-sec-2020:202.SPK",
         "ncert-elem:ENG.C68.LSN",
         "ncert-sec:ENG.C910.SPEAK",
-        "ncert-sec:ENG.C910.LISTEN"
+        "ncert-sec:ENG.C910.LISTEN",
+        "ncert-hsec:ENG.C1112.CORE"
       ]
     },
     {
@@ -38407,7 +38419,8 @@
       "standards": [
         "nios-sec-2020:209.TXT",
         "ncert-sec:SAN.C910.PATHANA",
-        "ncert-sec:SAN.C910.LEKHANA"
+        "ncert-sec:SAN.C910.LEKHANA",
+        "ncert-hsec:SAN.C1112.PATH"
       ]
     },
     {
@@ -38455,7 +38468,8 @@
         "nios-sec-2020:209.GRM.1",
         "ncert-elem:SKT.C8.GRM",
         "ncert-sec:SAN.C9.SANDHI",
-        "ncert-sec:SAN.C10.SANDHI"
+        "ncert-sec:SAN.C10.SANDHI",
+        "ncert-hsec:SAN.C1112.VYAK"
       ]
     },
     {
@@ -38480,7 +38494,8 @@
         "ncert-elem:SKT.C7.GRM",
         "ncert-elem:SKT.C8.GRM",
         "ncert-sec:SAN.C9.SHABDA",
-        "ncert-sec:SAN.C10.SHABDA"
+        "ncert-sec:SAN.C10.SHABDA",
+        "ncert-hsec:SAN.C1112.VYAK"
       ]
     },
     {
@@ -38505,7 +38520,8 @@
         "ncert-elem:SKT.C7.GRM",
         "ncert-elem:SKT.C8.GRM",
         "ncert-sec:SAN.C9.DHATU",
-        "ncert-sec:SAN.C10.DHATU"
+        "ncert-sec:SAN.C10.DHATU",
+        "ncert-hsec:SAN.C1112.VYAK"
       ]
     },
     {
@@ -38551,7 +38567,8 @@
         "ncert-elem:SKT.C7.GRM",
         "ncert-elem:SKT.C8.GRM",
         "ncert-sec:SAN.C9.PRATYAYA",
-        "ncert-sec:SAN.C10.PRATYAYA"
+        "ncert-sec:SAN.C10.PRATYAYA",
+        "ncert-hsec:SAN.C1112.VYAK"
       ]
     },
     {
@@ -38575,7 +38592,8 @@
         "ncert-elem:SKT.C7.GRM",
         "ncert-elem:SKT.C8.GRM",
         "ncert-sec:SAN.C9.KARAKA",
-        "ncert-sec:SAN.C10.KARAKA"
+        "ncert-sec:SAN.C10.KARAKA",
+        "ncert-hsec:SAN.C1112.RACH"
       ]
     },
     {
@@ -38600,7 +38618,8 @@
         "ncert-elem:SKT.C7.GRM",
         "ncert-elem:SKT.C8.GRM",
         "ncert-sec:SAN.C9.UPASARGA",
-        "ncert-sec:SAN.C10.AVYAYA"
+        "ncert-sec:SAN.C10.AVYAYA",
+        "ncert-hsec:SAN.C1112.VYAK"
       ]
     },
     {
@@ -38924,7 +38943,8 @@
       "assessmentPrompt": "Can {{name}} work out the trickier declensions — words like राजन् and the pronouns — by rule?",
       "standards": [
         "nios-sec-2020:246.C3",
-        "ncert-sec:SAN.C10.SHABDA"
+        "ncert-sec:SAN.C10.SHABDA",
+        "ncert-hsec:SAN.C1112.VYAK"
       ]
     },
     {
@@ -38987,7 +39007,8 @@
       "assessmentPrompt": "Can {{name}} derive words like कर्तव्य and गत्वा from their roots using the krt suffix rules?",
       "standards": [
         "nios-sec-2020:246.C5",
-        "ncert-sec:SAN.C10.PRATYAYA"
+        "ncert-sec:SAN.C10.PRATYAYA",
+        "ncert-hsec:SAN.C1112.VYAK"
       ]
     },
     {
@@ -39693,7 +39714,9 @@
       ],
       "assessmentPrompt": "Can {{name}} explain the classical view of poetry — the poet’s genius, the feeling reader, and what literature is for?",
       "standards": [
-        "nios-sec-2020:248.S2"
+        "nios-sec-2020:248.S2",
+        "ncert-hsec:SAN.C1112.PATH",
+        "ncert-hsec:SAN.C1112.ITIHASA"
       ]
     },
     {
@@ -39713,7 +39736,8 @@
       ],
       "assessmentPrompt": "Can {{name}} name the kinds of Sanskrit literature — plays, heard poetry, prose, champu, epic — and give an example?",
       "standards": [
-        "nios-sec-2020:248.S2"
+        "nios-sec-2020:248.S2",
+        "ncert-hsec:SAN.C1112.ITIHASA"
       ]
     },
     {
@@ -39753,7 +39777,8 @@
       ],
       "assessmentPrompt": "Can {{name}} tell the story of Bhasa’s play about Karna — his anguish and his great gift — from the text?",
       "standards": [
-        "nios-sec-2020:248.S4"
+        "nios-sec-2020:248.S4",
+        "ncert-hsec:SAN.C1112.PATH"
       ]
     },
     {
@@ -39773,7 +39798,8 @@
       ],
       "assessmentPrompt": "Can {{name}} read the opening of the Kiratarjuniyam — the spy’s report and the counsel it provokes — and explain it?",
       "standards": [
-        "nios-sec-2020:248.S4"
+        "nios-sec-2020:248.S4",
+        "ncert-hsec:SAN.C1112.PATH"
       ]
     },
     {
@@ -47266,6 +47292,2294 @@
       "assessmentPrompt": "Ask {{name}} what makes someone feel genuinely listened to rather than just heard.",
       "standards": [
         "ncert-hsec:PSY.C12.U9"
+      ]
+    },
+    {
+      "id": "mt_yhwJMiGuyG",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Foundations",
+      "name": "The Nature and Purpose of Business",
+      "description": "Understand what distinguishes business from profession and employment, that it exists to create value while bearing risk, and how industry and commerce divide its activities.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes business, profession and employment",
+        "Classifies an activity as industry or commerce",
+        "Explains why business risk cannot be eliminated"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a shopkeeper risks that a salaried employee does not.",
+      "standards": [
+        "ncert-hsec:BST.C11.U1"
+      ]
+    },
+    {
+      "id": "mt_xhrQCpOD1s",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Foundations",
+      "name": "Forms of Business Organisation",
+      "description": "Compare sole proprietorship, partnership, cooperative and company forms on liability, continuity, control and access to capital, and choose the form a situation calls for.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Compares two forms on liability and continuity",
+        "Explains limited liability and why it matters",
+        "Recommends a form of organisation for a described venture"
+      ],
+      "assessmentPrompt": "Ask {{name}} why someone starting a small tea stall would organise differently from someone starting a factory.",
+      "standards": [
+        "ncert-hsec:BST.C11.U2",
+        "ncert-hsec:BST.C11.U3"
+      ]
+    },
+    {
+      "id": "mt_ETIV7J0mYZ",
+      "type": "PROCEDURAL",
+      "subject": "Business Studies",
+      "domain": "Business Foundations",
+      "name": "Formation of a Company",
+      "description": "Understand the stages by which a company comes into legal existence — promotion, incorporation and commencement — and the documents each stage requires.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Orders the stages in forming a company",
+        "Names the key documents and their purpose",
+        "Explains what incorporation legally achieves"
+      ],
+      "assessmentPrompt": "Ask {{name}} what has to happen before a company legally exists as separate from its owners.",
+      "standards": [
+        "ncert-hsec:BST.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_K6HNJ5Ru7s",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Finance",
+      "name": "Sources of Business Finance",
+      "description": "Distinguish owners’ funds from borrowed funds, and weigh sources of finance by cost, control, risk and the period for which the money is needed.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes owned from borrowed capital",
+        "Matches a source of finance to a business need",
+        "Explains a factor affecting the choice of source"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a business might prefer a loan to bringing in a new part-owner.",
+      "standards": [
+        "ncert-hsec:BST.C11.U8"
+      ]
+    },
+    {
+      "id": "mt_OCNhs90RTz",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Foundations",
+      "name": "Business Services and Emerging Modes",
+      "description": "Understand how banking, insurance, transport, warehousing and communication support trade, and how electronic business and outsourcing have changed how firms operate.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains how one business service supports trade",
+        "Explains the scope and benefits of e-business",
+        "Explains what business process outsourcing involves and why firms use it"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a shop in one town can sell to a customer in another country without ever meeting them.",
+      "standards": [
+        "ncert-hsec:BST.C11.U4",
+        "ncert-hsec:BST.C11.U5"
+      ]
+    },
+    {
+      "id": "mt_F6e464lhkJ",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business & Society",
+      "name": "Social Responsibility and Business Ethics",
+      "description": "Understand that firms have obligations to owners, workers, consumers and the community beyond profit, and that ethics concerns what a business ought to do, not only what is legal.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Identifies a firm’s responsibility to a named interest group",
+        "Distinguishes what is legal from what is ethical",
+        "Explains a business case for environmental responsibility"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a company doing nothing illegal is automatically doing nothing wrong.",
+      "standards": [
+        "ncert-hsec:BST.C11.U6"
+      ]
+    },
+    {
+      "id": "mt_arGfAOoTeI",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Management",
+      "name": "The Nature and Functions of Management",
+      "description": "Understand management as the process of getting things done through others, operating at several levels through the functions of planning, organising, staffing, directing and controlling.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Names the functions of management and what each achieves",
+        "Distinguishes the three levels of management",
+        "Explains why coordination is called the essence of management"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a manager actually does all day, if not the work itself.",
+      "standards": [
+        "ncert-hsec:BST.C12.U1"
+      ]
+    },
+    {
+      "id": "mt_UvxJZFhBOx",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Management",
+      "name": "Principles of Management: Fayol and Taylor",
+      "description": "Understand Fayol’s general principles of administration and Taylor’s scientific management, and how the two approaches differ in what they set out to improve.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "States two of Fayol’s principles and their purpose",
+        "Explains a technique of scientific management",
+        "Contrasts Fayol’s and Taylor’s focus"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether the best way to improve a factory is to reorganise the managers or to study how the work is done.",
+      "standards": [
+        "ncert-hsec:BST.C12.U2"
+      ]
+    },
+    {
+      "id": "mt_awciBXTf0b",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Management",
+      "name": "The Business Environment",
+      "description": "Understand that firms operate within economic, social, technological, political and legal forces they do not control, and that liberalisation reshaped that environment in India.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Identifies the dimension of the environment a given change belongs to",
+        "Explains why environmental scanning matters to a firm",
+        "Explains an effect of liberalisation on Indian business"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a change in government policy could matter more to a company than anything its managers decide.",
+      "standards": [
+        "ncert-hsec:BST.C12.U3"
+      ]
+    },
+    {
+      "id": "mt_I3GuVtgCjp",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Management",
+      "name": "Planning",
+      "description": "Understand planning as deciding in advance what to do and how, following a defined process, and recognise both its importance and its limits in an uncertain environment.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Orders the steps of the planning process",
+        "Distinguishes types of plan such as policy, procedure and budget",
+        "Explains a limitation of planning"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the point of a plan is if things rarely go according to it.",
+      "standards": [
+        "ncert-hsec:BST.C12.U4"
+      ]
+    },
+    {
+      "id": "mt_nuofz6eTWq",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Management",
+      "name": "Organising, Delegation and Decentralisation",
+      "description": "Understand how work is grouped into a structure, and distinguish delegating a task to a subordinate from systematically dispersing authority through the organisation.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Contrasts functional and divisional structures",
+        "Explains the elements of delegation",
+        "Distinguishes delegation from decentralisation"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a manager who refuses to hand over any work eventually becomes the bottleneck.",
+      "standards": [
+        "ncert-hsec:BST.C12.U5"
+      ]
+    },
+    {
+      "id": "mt_WJEYebqvSi",
+      "type": "PROCEDURAL",
+      "subject": "Business Studies",
+      "domain": "Management",
+      "name": "Staffing and Human Resource Management",
+      "description": "Understand staffing as the process of putting the right people in the right roles, through recruitment, selection, training and development.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Orders the steps of the staffing process",
+        "Distinguishes internal from external sources of recruitment",
+        "Explains the purpose of training and development"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether it is better to promote from within or hire from outside, and what each costs.",
+      "standards": [
+        "ncert-hsec:BST.C12.U6"
+      ]
+    },
+    {
+      "id": "mt_BaERlZTotg",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Management",
+      "name": "Directing: Motivation, Leadership and Communication",
+      "description": "Understand how managers influence people through supervision, motivation and leadership, and why communication barriers undermine all three.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains a theory of motivation and its managerial implication",
+        "Distinguishes leadership styles and when each suits",
+        "Identifies a barrier to communication and a way to overcome it"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether more pay is always the best way to make someone work harder.",
+      "standards": [
+        "ncert-hsec:BST.C12.U7"
+      ]
+    },
+    {
+      "id": "mt_4xC8IQQYNo",
+      "type": "PROCEDURAL",
+      "subject": "Business Studies",
+      "domain": "Management",
+      "name": "Controlling",
+      "description": "Understand controlling as comparing actual performance against planned standards and correcting deviations, which is why planning and controlling are inseparable.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Orders the steps of the controlling process",
+        "Explains why planning without controlling is incomplete",
+        "Explains management by exception"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a manager knows whether a plan is actually working.",
+      "standards": [
+        "ncert-hsec:BST.C12.U8"
+      ]
+    },
+    {
+      "id": "mt_RpqPtmY7dX",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Finance",
+      "name": "Financial Management and Capital Structure",
+      "description": "Understand the three core financial decisions — investment, financing and dividend — and how capital structure balances the cheapness of debt against its risk.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Names the three financial decisions and what each concerns",
+        "Explains how capital structure affects risk and return",
+        "Distinguishes fixed from working capital requirements"
+      ],
+      "assessmentPrompt": "Ask {{name}} why borrowing makes good years better and bad years much worse.",
+      "standards": [
+        "ncert-hsec:BST.C12.U9"
+      ]
+    },
+    {
+      "id": "mt_TtkpxsWy0R",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Finance",
+      "name": "Financial Markets and the Stock Exchange",
+      "description": "Understand how financial markets channel savings to firms that need capital, the distinction between money and capital markets, and the regulatory role of SEBI.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes the money market from the capital market",
+        "Explains the functions of a stock exchange",
+        "Explains why the market requires a regulator"
+      ],
+      "assessmentPrompt": "Ask {{name}} how money sitting in a saver’s account ends up funding a new factory.",
+      "standards": [
+        "ncert-hsec:BST.C12.U10"
+      ]
+    },
+    {
+      "id": "mt_TjESAIII6g",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Marketing",
+      "name": "Marketing and the Marketing Mix",
+      "description": "Understand marketing as identifying and satisfying customer needs profitably, coordinated through decisions about product, price, place and promotion.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Names the elements of the marketing mix",
+        "Explains a factor determining the price of a product",
+        "Explains the role of branding, labelling or packaging"
+      ],
+      "assessmentPrompt": "Ask {{name}} why two nearly identical products can sell at very different prices.",
+      "standards": [
+        "ncert-hsec:BST.C12.U11"
+      ]
+    },
+    {
+      "id": "mt_xinSEhDpkF",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business & Society",
+      "name": "Consumer Protection and Redressal",
+      "description": "Understand the rights and responsibilities of consumers, the machinery available for redressal, and the role of consumer organisations in enforcing them.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Names consumer rights and a corresponding responsibility",
+        "Describes the redressal machinery available to a consumer",
+        "Explains the role of consumer organisations and NGOs"
+      ],
+      "assessmentPrompt": "Ask {{name}} what they would actually do if a shop refused to replace a faulty product.",
+      "standards": [
+        "ncert-hsec:BST.C12.U12"
+      ]
+    },
+    {
+      "id": "mt_7R3VtB3air",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business & Society",
+      "name": "Entrepreneurship Development",
+      "description": "Understand entrepreneurship as identifying an opportunity and organising resources to pursue it under uncertainty, and that the underlying competencies can be developed.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the functions an entrepreneur performs",
+        "Names an entrepreneurial competency and how it is developed",
+        "Distinguishes an entrepreneur from a manager"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether entrepreneurs are born or made, and what evidence would settle it.",
+      "standards": [
+        "ncert-hsec:BST.C12.U13"
+      ]
+    },
+    {
+      "id": "mt_L0Msh4ITcW",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Accounting Foundations",
+      "name": "The Purpose and Users of Accounting",
+      "description": "Understand that accounting records, classifies and summarises financial transactions so that different users can make decisions, and learn the basic vocabulary it uses.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Names users of accounting information and what each needs",
+        "Defines asset, liability, capital, revenue and expense",
+        "Explains why a business keeps records separate from its owner’s"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a shop owner needs written accounts when they already know how the shop is doing.",
+      "standards": [
+        "ncert-hsec:ACC.C11.U1"
+      ]
+    },
+    {
+      "id": "mt_6zH1lZNUsU",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Accounting Foundations",
+      "name": "Accounting Principles and Standards",
+      "description": "Understand that accounts rest on agreed assumptions and principles, and that standards exist so that statements from different firms can be compared and trusted.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains an accounting assumption such as going concern or accrual",
+        "Explains why accounting standards are necessary",
+        "Distinguishes the cash from the accrual basis of accounting"
+      ],
+      "assessmentPrompt": "Ask {{name}} why every business has to follow the same rules when writing its accounts.",
+      "standards": [
+        "ncert-hsec:ACC.C11.U2"
+      ]
+    },
+    {
+      "id": "mt_K1NOQxyzTt",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Recording Transactions",
+      "name": "Double Entry, Journal and Ledger",
+      "description": "Apply the accounting equation and the rules of debit and credit to record each transaction twice, journalising it and posting it to the ledger.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "States the accounting equation and keeps it balanced",
+        "Journalises a transaction with correct debit and credit",
+        "Posts journal entries to the appropriate ledger accounts"
+      ],
+      "assessmentPrompt": "Ask {{name}} why every business transaction has to be recorded in two places.",
+      "standards": [
+        "ncert-hsec:ACC.C11.U3"
+      ]
+    },
+    {
+      "id": "mt_5hImFLHfn7",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Recording Transactions",
+      "name": "Subsidiary Books and Bank Reconciliation",
+      "description": "Use the cash book and other subsidiary books to record repetitive transactions efficiently, and reconcile the cash book with the bank statement.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Records entries in a cash book with discount and bank columns",
+        "Explains why the cash book and bank statement differ",
+        "Prepares a bank reconciliation statement"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a business’s own record of its bank balance rarely matches the bank’s.",
+      "standards": [
+        "ncert-hsec:ACC.C11.U3"
+      ]
+    },
+    {
+      "id": "mt_1qwgFzvjDO",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Recording Transactions",
+      "name": "Trial Balance and Rectification of Errors",
+      "description": "Prepare a trial balance to test arithmetical accuracy, and understand which errors it detects, which it hides, and how each is rectified.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Prepares a trial balance from ledger balances",
+        "Names a type of error a trial balance cannot reveal",
+        "Rectifies an error using a suspense account where required"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a trial balance that agrees proves the accounts are correct.",
+      "standards": [
+        "ncert-hsec:ACC.C11.U4"
+      ]
+    },
+    {
+      "id": "mt_Az7kEVzroL",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Financial Statements",
+      "name": "Depreciation, Provisions and Reserves",
+      "description": "Understand depreciation as spreading an asset’s cost over its useful life, compute it by the standard methods, and distinguish a provision from a reserve.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Computes depreciation by the straight line and written down value methods",
+        "Explains why depreciation is charged even in a loss-making year",
+        "Distinguishes a provision from a reserve"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a machine bought once is treated as a cost in every year that follows.",
+      "standards": [
+        "ncert-hsec:ACC.C11.U5"
+      ]
+    },
+    {
+      "id": "mt_jPiOF7NcVH",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Recording Transactions",
+      "name": "Bills of Exchange",
+      "description": "Understand bills of exchange and promissory notes as instruments of credit, and record their discounting, endorsement, dishonour and renewal.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the parties to a bill of exchange",
+        "Records the discounting of a bill",
+        "Records the dishonour and renewal of a bill"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a business can get cash today for a payment due in three months.",
+      "standards": [
+        "ncert-hsec:ACC.C11.U6"
+      ]
+    },
+    {
+      "id": "mt_p0RjkyWdSQ",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Financial Statements",
+      "name": "Financial Statements of a Sole Proprietorship",
+      "description": "Prepare a trading and profit and loss account and a balance sheet from a trial balance, incorporating the usual year-end adjustments.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Prepares a trading and profit and loss account",
+        "Prepares a balance sheet that balances",
+        "Incorporates adjustments such as outstanding expenses and closing stock"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the difference is between how much a business earned and what it is worth.",
+      "standards": [
+        "ncert-hsec:ACC.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_tOhx5EDZXF",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Financial Statements",
+      "name": "Accounts from Incomplete Records",
+      "description": "Ascertain profit or loss where only partial records exist, using the statement of affairs method, and understand the limitations of such records.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Computes profit using the statement of affairs method",
+        "Explains the limitations of single entry records",
+        "Converts incomplete records towards double entry"
+      ],
+      "assessmentPrompt": "Ask {{name}} how you could work out whether a shop made a profit if it only kept a cash diary.",
+      "standards": [
+        "ncert-hsec:ACC.C11.U8"
+      ]
+    },
+    {
+      "id": "mt_VBV1VhhJHW",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Accounting Foundations",
+      "name": "Computerised Accounting Systems",
+      "description": "Understand the components of a computerised accounting system, how it differs from manual accounting, and the role of the underlying database.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Names the components of a computerised accounting system",
+        "Compares computerised with manual accounting",
+        "Explains the role of a database in accounting software"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a computer changes about accounting and what it leaves exactly the same.",
+      "standards": [
+        "ncert-hsec:ACC.C11.U9"
+      ]
+    },
+    {
+      "id": "mt_aGNfVfsfPt",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Specialised Accounting",
+      "name": "Accounting for Not-for-Profit Organisations",
+      "description": "Prepare receipts and payments, income and expenditure accounts and a balance sheet for a body whose purpose is service rather than profit.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes receipts and payments from income and expenditure",
+        "Treats subscriptions, donations and legacies correctly",
+        "Prepares the balance sheet of a not-for-profit body"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a sports club shows whether it is doing well when it is not trying to make a profit.",
+      "standards": [
+        "ncert-hsec:ACC.C12.U1"
+      ]
+    },
+    {
+      "id": "mt_VXOFBCSSej",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Partnership Accounts",
+      "name": "Accounting for Partnership",
+      "description": "Apply the partnership deed — or the default provisions where none exists — to maintain capital accounts and appropriate profit between partners.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes fixed from fluctuating capital accounts",
+        "Prepares a profit and loss appropriation account",
+        "Applies the default rules where a deed is silent"
+      ],
+      "assessmentPrompt": "Ask {{name}} how partners should divide profits when they never agreed a ratio.",
+      "standards": [
+        "ncert-hsec:ACC.C12.U2"
+      ]
+    },
+    {
+      "id": "mt_J0GkRxLDu3",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Partnership Accounts",
+      "name": "Reconstitution of a Partnership",
+      "description": "Account for a change in the firm — admission, retirement or death of a partner — by valuing goodwill and revaluing assets and liabilities.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Values goodwill by a standard method",
+        "Computes the new and sacrificing or gaining ratios",
+        "Prepares a revaluation account on reconstitution"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a new partner joining a successful firm has to pay something beyond their share of the assets.",
+      "standards": [
+        "ncert-hsec:ACC.C12.U3"
+      ]
+    },
+    {
+      "id": "mt_UuSGUtjhMN",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Partnership Accounts",
+      "name": "Dissolution of a Partnership Firm",
+      "description": "Close the books when a firm ends, realising assets, settling liabilities in the required order and distributing what remains among the partners.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Prepares a realisation account",
+        "Applies the correct order of settlement of claims",
+        "Distributes the final balance among partners"
+      ],
+      "assessmentPrompt": "Ask {{name}} who gets paid first when a business closes down and there is not enough to go round.",
+      "standards": [
+        "ncert-hsec:ACC.C12.U4"
+      ]
+    },
+    {
+      "id": "mt_oEs8CRB1hh",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Company Accounts",
+      "name": "Accounting for Share and Debenture Capital",
+      "description": "Record the issue of shares and debentures including premium, calls in arrears, forfeiture and reissue, and the redemption of debentures.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Records the issue and allotment of shares at par and at premium",
+        "Records forfeiture and reissue of shares",
+        "Distinguishes shares from debentures in accounting treatment"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the difference is between someone who buys a share and someone who buys a debenture.",
+      "standards": [
+        "ncert-hsec:ACC.C12.U5"
+      ]
+    },
+    {
+      "id": "mt_Fl59DPGF7r",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Company Accounts",
+      "name": "Analysis of Financial Statements and Ratios",
+      "description": "Interpret financial statements using comparative and common size statements and ratios covering liquidity, solvency, activity and profitability.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Computes and interprets a liquidity or profitability ratio",
+        "Prepares a comparative or common size statement",
+        "Explains a limitation of ratio analysis"
+      ],
+      "assessmentPrompt": "Ask {{name}} how you could tell whether a company is in trouble from its accounts alone.",
+      "standards": [
+        "ncert-hsec:ACC.C12.U6"
+      ]
+    },
+    {
+      "id": "mt_Zqat28kFZR",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Company Accounts",
+      "name": "The Cash Flow Statement",
+      "description": "Prepare a cash flow statement classifying movements into operating, investing and financing activities, and explain why a profitable firm can still run out of cash.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Classifies a transaction into operating, investing or financing activity",
+        "Prepares a cash flow statement",
+        "Explains why profit and cash flow differ"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a company can report a healthy profit and still be unable to pay its bills.",
+      "standards": [
+        "ncert-hsec:ACC.C12.U7"
+      ]
+    },
+    {
+      "id": "mt_VJBHmAh9Ui",
+      "type": "PROCEDURAL",
+      "subject": "Economics",
+      "domain": "Economic Statistics",
+      "name": "Collecting and Organising Economic Data",
+      "description": "Understand how economic data are gathered by census or sample, why sampling and non-sampling errors arise, and how raw data are organised into frequency distributions.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a census from a sample survey",
+        "Explains a source of sampling or non-sampling error",
+        "Organises raw data into a frequency distribution"
+      ],
+      "assessmentPrompt": "Ask {{name}} how anyone can know the unemployment rate without asking every single person.",
+      "standards": [
+        "ncert-hsec:ECO.C11.S1",
+        "ncert-hsec:ECO.C11.S2"
+      ]
+    },
+    {
+      "id": "mt_pqYxbsoH6e",
+      "type": "PROCEDURAL",
+      "subject": "Economics",
+      "domain": "Economic Statistics",
+      "name": "Statistical Tools for Economics",
+      "description": "Summarise economic data using measures of central tendency and dispersion, describe association using correlation, and track change over time using index numbers.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Computes and interprets a measure of central tendency and dispersion",
+        "Interprets a correlation coefficient without inferring cause",
+        "Explains how a consumer price index is constructed and used"
+      ],
+      "assessmentPrompt": "Ask {{name}} how the government works out whether prices have risen this year.",
+      "standards": [
+        "ncert-hsec:ECO.C11.S3"
+      ]
+    },
+    {
+      "id": "mt_l6XJxwdZ4x",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Indian Development Under Planning, 1947–1990",
+      "description": "Understand the condition of the economy at independence, the goals the five year plans pursued, and how agriculture, industry and trade policy performed under planning.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Describes the state of the economy on the eve of independence",
+        "Names the common goals of the five year plans",
+        "Appraises a policy of the planned period on its own terms"
+      ],
+      "assessmentPrompt": "Ask {{name}} why newly independent India chose to plan its economy centrally rather than leave it to markets.",
+      "standards": [
+        "ncert-hsec:ECO.C11.D1"
+      ]
+    },
+    {
+      "id": "mt_rqYeEbHAHW",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Economic Reforms Since 1991",
+      "description": "Understand what prompted the 1991 reforms and how liberalisation, privatisation and globalisation changed the rules under which Indian firms operate.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the crisis that prompted the reforms",
+        "Distinguishes liberalisation, privatisation and globalisation",
+        "Appraises an effect of the reforms on a sector"
+      ],
+      "assessmentPrompt": "Ask {{name}} what changed for an Indian business in 1991 and who gained most from it.",
+      "standards": [
+        "ncert-hsec:ECO.C11.D2"
+      ]
+    },
+    {
+      "id": "mt_cICVdWiasF",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Current Challenges Facing the Indian Economy",
+      "description": "Understand poverty, employment, human capital formation, rural development, infrastructure and sustainability as the persistent challenges, and how they interlock.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains why human capital formation matters for growth",
+        "Explains the nature of the employment challenge in India",
+        "Explains a trade-off between growth and sustainability"
+      ],
+      "assessmentPrompt": "Ask {{name}} why an economy can grow quickly and still leave a lot of people behind.",
+      "standards": [
+        "ncert-hsec:ECO.C11.D3",
+        "ncert-hsec:ECO.C11.D4"
+      ]
+    },
+    {
+      "id": "mt_OE2VGKifuo",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Microeconomics",
+      "name": "Consumer Behaviour and Demand",
+      "description": "Understand how a consumer allocates a limited budget to maximise satisfaction, and how that yields a demand curve sloping downward with a measurable elasticity.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the condition for consumer equilibrium",
+        "Distinguishes a movement along from a shift of the demand curve",
+        "Computes and interprets price elasticity of demand"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a rise in the price of salt changes how much people buy far less than a rise in the price of a particular brand of biscuit.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MI1",
+        "ncert-hsec:ECO.C12.MI2"
+      ]
+    },
+    {
+      "id": "mt_9yQTwqweRB",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Microeconomics",
+      "name": "Producer Behaviour, Costs and Supply",
+      "description": "Understand how output responds to varying inputs, how short and long run costs behave, and how the producer’s equilibrium generates the supply curve.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains returns to a factor and the law of variable proportions",
+        "Distinguishes fixed from variable cost and short from long run",
+        "Explains the condition for producer equilibrium"
+      ],
+      "assessmentPrompt": "Ask {{name}} why adding more and more workers to the same small field eventually stops helping.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MI3"
+      ]
+    },
+    {
+      "id": "mt_PNxkRBuPDD",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Microeconomics",
+      "name": "Market Forms and Price Determination",
+      "description": "Understand how the number of sellers and the nature of the product define market forms, and how equilibrium price is set and shifted by changes in demand and supply.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Contrasts perfect competition with monopoly on price-setting power",
+        "Determines equilibrium price and quantity from demand and supply",
+        "Predicts the effect of a shift in demand or supply on equilibrium"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a farmer cannot set the price of their wheat but a mobile network can set its tariff.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MI4"
+      ]
+    },
+    {
+      "id": "mt_RrfCpvr8HO",
+      "type": "PROCEDURAL",
+      "subject": "Economics",
+      "domain": "Macroeconomics",
+      "name": "National Income and Its Measurement",
+      "description": "Understand the circular flow of income and the three equivalent ways of measuring national output, and distinguish gross from net, domestic from national, and nominal from real.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the circular flow of income",
+        "Distinguishes GDP from GNP and market price from factor cost",
+        "Explains why real income is used to compare across years"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a country’s income can rise on paper while people are no better off.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MA1"
+      ]
+    },
+    {
+      "id": "mt_Y6NdO8BCnB",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Macroeconomics",
+      "name": "Determination of Income and Employment",
+      "description": "Understand how aggregate demand and supply determine equilibrium output, how the propensity to consume drives the multiplier, and what excess or deficient demand implies.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the components of aggregate demand",
+        "Computes the investment multiplier from the propensity to consume",
+        "Explains the problem of deficient demand and a corrective measure"
+      ],
+      "assessmentPrompt": "Ask {{name}} why one rupee of new government spending can raise total income by more than a rupee.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MA2"
+      ]
+    },
+    {
+      "id": "mt_fROJBHSXYP",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Macroeconomics",
+      "name": "Money, Banking and Credit Creation",
+      "description": "Understand what money is and how it evolved, how commercial banks create credit from deposits, and how the central bank controls the money supply.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how commercial banks create credit",
+        "Names an instrument of monetary control and its effect",
+        "Explains the functions of a central bank"
+      ],
+      "assessmentPrompt": "Ask {{name}} how banks can lend far more money than has ever been deposited with them.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MA3"
+      ]
+    },
+    {
+      "id": "mt_D0HPNFQBEO",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Macroeconomics",
+      "name": "The Government Budget and Fiscal Policy",
+      "description": "Understand the budget as a statement of expected receipts and expenditure, how deficits are measured, and how fiscal policy is used to steer the economy.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Classifies a receipt or expenditure as revenue or capital",
+        "Explains what the fiscal deficit measures",
+        "Explains how fiscal policy is used to correct excess or deficient demand"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a government running a deficit is necessarily managing money badly.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MA4"
+      ]
+    },
+    {
+      "id": "mt_H5PHAD5O0f",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Macroeconomics",
+      "name": "Balance of Payments and Exchange Rates",
+      "description": "Understand how a country records its transactions with the rest of the world, what a deficit on the current account means, and how exchange rates are determined.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes the current from the capital account",
+        "Explains what a balance of payments deficit means",
+        "Contrasts fixed and flexible exchange rate systems"
+      ],
+      "assessmentPrompt": "Ask {{name}} what decides how many rupees a dollar is worth today.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MA5"
+      ]
+    },
+    {
+      "id": "mt_EZoPzA2L0d",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "World History",
+      "name": "Early Humans and the First Cities",
+      "description": "Understand how humans evolved and spread, and how the shift to settled agriculture made possible the first cities with their specialised crafts, writing and social hierarchy.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Outlines the evidence for human evolution and migration",
+        "Explains why agriculture preceded urban life",
+        "Links early writing to the administrative needs of a city"
+      ],
+      "assessmentPrompt": "Ask {{name}} why writing was invented by people keeping accounts rather than by people telling stories.",
+      "standards": [
+        "ncert-hsec:HIS.C11.T1"
+      ]
+    },
+    {
+      "id": "mt_DfGngupvn5",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "World History",
+      "name": "An Empire Across Three Continents",
+      "description": "Understand how the Roman empire held together territory across Europe, Asia and Africa through army, law, citizenship and trade, and what strained it.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains how Rome administered a vast and diverse territory",
+        "Describes the role of slavery in the Roman economy",
+        "Identifies a pressure that contributed to imperial decline"
+      ],
+      "assessmentPrompt": "Ask {{name}} how one city could govern lands stretching from Britain to Egypt without modern communication.",
+      "standards": [
+        "ncert-hsec:HIS.C11.T2"
+      ]
+    },
+    {
+      "id": "mt_zbTG43f25w",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "World History",
+      "name": "The Central Islamic Lands",
+      "description": "Understand the rise of Islam and the political and cultural order that grew across the central Islamic lands, including its trade networks and intellectual achievements.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Outlines the expansion of the early Islamic state",
+        "Describes the economic role of long-distance trade",
+        "Names a contribution of Islamic scholarship"
+      ],
+      "assessmentPrompt": "Ask {{name}} how ideas and goods travelled between Europe, Africa and Asia before European sea routes.",
+      "standards": [
+        "ncert-hsec:HIS.C11.T2"
+      ]
+    },
+    {
+      "id": "mt_ncpg6CaeRt",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "World History",
+      "name": "Nomadic Empires",
+      "description": "Understand how the Mongols built the largest contiguous land empire from a pastoral nomadic base, and why settled societies recorded them so differently from how they saw themselves.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the military advantages of a nomadic society",
+        "Explains how the Mongols administered settled populations",
+        "Explains why sources on the Mongols are hostile and what that implies"
+      ],
+      "assessmentPrompt": "Ask {{name}} why almost everything written about the Mongols was written by the people they conquered.",
+      "standards": [
+        "ncert-hsec:HIS.C11.T2"
+      ]
+    },
+    {
+      "id": "mt_b2x5PAwpWM",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "World History",
+      "name": "The Three Orders of Medieval Europe",
+      "description": "Understand the medieval European division into those who prayed, those who fought and those who worked, and how manorial and feudal arrangements bound them together.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Describes the three orders and the obligations between them",
+        "Explains how a manor operated economically",
+        "Explains a factor that weakened the feudal order"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a peasant received in return for working land they did not own.",
+      "standards": [
+        "ncert-hsec:HIS.C11.T3"
+      ]
+    },
+    {
+      "id": "mt_qDcAB4TCW3",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "World History",
+      "name": "Changing Cultural Traditions",
+      "description": "Understand the shift in European thought and art from roughly the fourteenth century, including humanism, the recovery of classical learning and the effect of printing.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains what humanism placed at the centre of enquiry",
+        "Explains the effect of printing on the circulation of ideas",
+        "Explains why historians question the label Renaissance"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a period can really be called a rebirth, and what that phrasing hides.",
+      "standards": [
+        "ncert-hsec:HIS.C11.T3"
+      ]
+    },
+    {
+      "id": "mt_GUxjGXkxDe",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "World History",
+      "name": "Confrontation of Cultures",
+      "description": "Understand what followed European arrival in the Americas — conquest, disease, forced labour and the destruction of existing societies — and how it was justified at the time.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the role of disease in the collapse of American populations",
+        "Describes how conquest was justified by contemporaries",
+        "Explains the consequences for indigenous societies"
+      ],
+      "assessmentPrompt": "Ask {{name}} why disease did more to end the American empires than weapons did.",
+      "standards": [
+        "ncert-hsec:HIS.C11.T3"
+      ]
+    },
+    {
+      "id": "mt_QWi0Eub64r",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "World History",
+      "name": "Displacing Indigenous Peoples",
+      "description": "Understand how settler expansion in North America and Australia dispossessed indigenous peoples through treaty, law and force, and how those societies later reckoned with it.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the mechanisms by which land was taken",
+        "Explains how legal doctrine was used to justify dispossession",
+        "Describes a later movement for recognition or redress"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a legal system can be used to take land rather than to protect its owners.",
+      "standards": [
+        "ncert-hsec:HIS.C11.T4"
+      ]
+    },
+    {
+      "id": "mt_W5wwu4bqK0",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "World History",
+      "name": "The Industrial Revolution",
+      "description": "Understand how mechanised production, coal power and the factory system transformed Britain’s economy and society, and the debate over what it cost those who worked in it.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the conditions that made industrialisation possible in Britain",
+        "Describes the social consequences for workers",
+        "Explains why historians disagree about living standards"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether the Industrial Revolution made ordinary people better or worse off, and how you would settle it.",
+      "standards": [
+        "ncert-hsec:HIS.C11.T4"
+      ]
+    },
+    {
+      "id": "mt_Byn9hO7iKi",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "World History",
+      "name": "Paths to Modernisation in East Asia",
+      "description": "Compare how Japan and China responded to western pressure — one through rapid state-led industrialisation, the other through upheaval and revolution — and what explains the divergence.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Contrasts the Japanese and Chinese responses to western pressure",
+        "Explains the role of the state in Japanese modernisation",
+        "Explains a consequence of the divergent paths"
+      ],
+      "assessmentPrompt": "Ask {{name}} why two countries facing the same pressure took such different routes out of it.",
+      "standards": [
+        "ncert-hsec:HIS.C11.T4"
+      ]
+    },
+    {
+      "id": "mt_dfxFv6seqo",
+      "type": "PROCEDURAL",
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "name": "Reading Inscriptions as Historical Evidence",
+      "description": "Understand how inscriptions are deciphered and what they reveal about political and economic life from the Mauryan to the Gupta period, as well as what they systematically leave out.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how a script is deciphered",
+        "Draws an inference about administration from an inscription",
+        "Explains the limits of inscriptions as evidence"
+      ],
+      "assessmentPrompt": "Ask {{name}} whose voices are missing from a record carved on royal orders.",
+      "standards": [
+        "ncert-hsec:HIS.C12.T1"
+      ]
+    },
+    {
+      "id": "mt_EZjJYc19rf",
+      "type": "PROCEDURAL",
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "name": "Using the Mahabharata for Social History",
+      "description": "Understand how a text transmitted and altered over centuries can still be used to study kinship, caste, class and gender, provided its layers are read critically.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how the text was transmitted and changed",
+        "Draws an inference about kinship or gender from the text",
+        "Explains the difficulty of dating evidence within a composite text"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a story rewritten over a thousand years can still tell us about real societies.",
+      "standards": [
+        "ncert-hsec:HIS.C12.T1"
+      ]
+    },
+    {
+      "id": "mt_lHjjHdGaJZ",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "name": "A History of Buddhism through Sanchi",
+      "description": "Understand the development of Buddhism alongside Vedic religion, Jainism, Vaishnavism and Shaivism, and how the sculpture and structure of a stupa are read as historical evidence.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Places Buddhism among the religious traditions of early India",
+        "Interprets a feature of stupa architecture or sculpture",
+        "Explains how art history contributes to religious history"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a carved stone gateway can tell us that a written text cannot.",
+      "standards": [
+        "ncert-hsec:HIS.C12.T1"
+      ]
+    },
+    {
+      "id": "mt_qsHSV8rdwD",
+      "type": "PROCEDURAL",
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "name": "Agrarian Relations through the Ain-i-Akbari",
+      "description": "Understand Mughal agrarian society — peasants, zamindars, revenue and village community — through an official compilation, and why an administrative source needs supplementing.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Describes the position of peasants and zamindars in Mughal agrarian society",
+        "Explains how revenue was assessed and collected",
+        "Explains why an official source gives a partial picture"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a government revenue record would and would not record about village life.",
+      "standards": [
+        "ncert-hsec:HIS.C12.T2"
+      ]
+    },
+    {
+      "id": "mt_vd9itHhZ82",
+      "type": "PROCEDURAL",
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "name": "The Mughal Court through Its Chronicles",
+      "description": "Understand how court chronicles present imperial authority, ritual and succession, and how historians read such commissioned works against their own purposes.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Describes how imperial authority was presented in court chronicles",
+        "Explains the purpose for which a chronicle was commissioned",
+        "Reads a chronicle critically against its intent"
+      ],
+      "assessmentPrompt": "Ask {{name}} how much to trust a history written for the ruler it describes.",
+      "standards": [
+        "ncert-hsec:HIS.C12.T2"
+      ]
+    },
+    {
+      "id": "mt_PM0KCYxrLV",
+      "type": "PROCEDURAL",
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "name": "Reconstructing History from Architecture: Hampi",
+      "description": "Understand how the ruins of Vijayanagara are read to reconstruct kingship, water management, urban form and the fortunes of a state that left few written records.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Draws an inference about political power from a built structure",
+        "Explains what the layout of a city reveals about its priorities",
+        "Explains the limits of archaeological inference"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the ruins of a city can say about who held power in it.",
+      "standards": [
+        "ncert-hsec:HIS.C12.T2"
+      ]
+    },
+    {
+      "id": "mt_FWz7QDywm4",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "name": "Bhakti and Sufi Traditions",
+      "description": "Understand the devotional movements that emphasised direct personal relationship with the divine, often in vernacular languages, and how they related to established religious authority.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains what bhakti and sufi traditions had in common",
+        "Explains the significance of composing in vernacular languages",
+        "Explains how devotional literature is used as a historical source"
+      ],
+      "assessmentPrompt": "Ask {{name}} why singing about god in everyday language could be a challenge to authority.",
+      "standards": [
+        "ncert-hsec:HIS.C12.T2"
+      ]
+    },
+    {
+      "id": "mt_QyNBjSUmHn",
+      "type": "PROCEDURAL",
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "name": "Medieval Society through Travellers’ Accounts",
+      "description": "Understand what Alberuni, Ibn Battuta and Bernier recorded of Indian society, and how an outsider’s account is shaped by who they were and whom they wrote for.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Compares what two travellers noticed and why they differed",
+        "Explains how an author’s background shapes their account",
+        "Draws an inference about medieval society from a travel account"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a visitor notices things that people living somewhere never think to mention.",
+      "standards": [
+        "ncert-hsec:HIS.C12.T2"
+      ]
+    },
+    {
+      "id": "mt_rnZlSxOxfd",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "name": "Colonialism and Rural Society",
+      "description": "Understand how Company revenue settlements and surveys reshaped the position of zamindars, peasants and artisans, and how official reports record that change.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how a revenue settlement changed rights in land",
+        "Describes the consequences for peasants and artisans",
+        "Explains how official surveys are used and questioned as sources"
+      ],
+      "assessmentPrompt": "Ask {{name}} what happens to a village when a distant government decides who owns the land.",
+      "standards": [
+        "ncert-hsec:HIS.C12.T3"
+      ]
+    },
+    {
+      "id": "mt_6paN3TBEao",
+      "type": "PROCEDURAL",
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "name": "The Revolt of 1857 and Its Representations",
+      "description": "Understand the causes and course of the 1857 revolt, and how contemporary British images and accounts constructed a version of events that shaped opinion for decades.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Outlines the causes and spread of the revolt",
+        "Explains how contemporary images shaped British opinion",
+        "Contrasts colonial and nationalist interpretations of 1857"
+      ],
+      "assessmentPrompt": "Ask {{name}} how the pictures painted of an event can matter as much as the event itself.",
+      "standards": [
+        "ncert-hsec:HIS.C12.T3"
+      ]
+    },
+    {
+      "id": "mt_0DULw9ivxF",
+      "type": "PROCEDURAL",
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "name": "Colonial Towns and Town Plans",
+      "description": "Understand how Mumbai, Chennai, Kolkata, hill stations and cantonments grew under colonial rule, and how town plans and municipal reports reveal the segregation built into them.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how colonial urban space was segregated",
+        "Draws an inference from a town plan or municipal report",
+        "Explains what such sources do not reveal"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a map of a colonial city shows about who was meant to live where.",
+      "standards": [
+        "ncert-hsec:HIS.C12.T3"
+      ]
+    },
+    {
+      "id": "mt_9G6qAKdLsL",
+      "type": "PROCEDURAL",
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "name": "Mahatma Gandhi through Contemporary Eyes",
+      "description": "Understand the nationalist movement from 1918 to 1948 and the nature of Gandhian politics, read through newspapers and contemporary writing rather than later hagiography.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Describes the character of Gandhian political method",
+        "Explains how contemporary reporting portrayed Gandhi differently",
+        "Distinguishes a contemporary source from a later account"
+      ],
+      "assessmentPrompt": "Ask {{name}} how people writing at the time saw Gandhi differently from how he is remembered.",
+      "standards": [
+        "ncert-hsec:HIS.C12.T4"
+      ]
+    },
+    {
+      "id": "mt_vqYJIj5UUr",
+      "type": "PROCEDURAL",
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "name": "Partition through Oral Sources",
+      "description": "Understand Partition as experienced rather than only as negotiated, and what oral testimony captures about displacement and violence that official records cannot.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains what oral history recovers that documents omit",
+        "Explains the limitations and biases of memory as evidence",
+        "Describes the human experience of displacement in 1947"
+      ],
+      "assessmentPrompt": "Ask {{name}} why historians go and talk to people when the documents already exist.",
+      "standards": [
+        "ncert-hsec:HIS.C12.T4"
+      ]
+    },
+    {
+      "id": "mt_c6KzmRPkbX",
+      "type": "PROCEDURAL",
+      "subject": "History",
+      "domain": "Themes in Indian History",
+      "name": "The Making of the Constitution",
+      "description": "Understand how the Constituent Assembly debated and settled the founding commitments of the new nation state, and what the record of those debates reveals about the disagreements.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains a major question debated in the Constituent Assembly",
+        "Explains what the debates reveal about competing visions",
+        "Explains how a debate record is read as a historical source"
+      ],
+      "assessmentPrompt": "Ask {{name}} what we learn from the arguments people lost, not just the ones they won.",
+      "standards": [
+        "ncert-hsec:HIS.C12.T4"
+      ]
+    },
+    {
+      "id": "mt_NeX8lPumh2",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Geographical Skills",
+      "name": "Geography as a Discipline",
+      "description": "Understand geography as the study of spatial variation and the relationship between people and environment, drawing on both natural and social sciences.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains what makes a question geographical",
+        "Names branches of geography and what each studies",
+        "Explains why geography bridges natural and social science"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a geographer would ask about a city that a historian would not.",
+      "standards": [
+        "ncert-hsec:GEO.C11.P1"
+      ]
+    },
+    {
+      "id": "mt_BLJpYabVQz",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Physical Geography",
+      "name": "The Earth’s Interior and Plate Tectonics",
+      "description": "Understand the layered interior of the earth, how seismic waves reveal it, and how plate movement accounts for the distribution of continents, earthquakes and mountain ranges.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Describes the layers of the earth’s interior and the evidence for them",
+        "Explains how plate movement produces a landform or hazard",
+        "Explains the distribution of earthquakes and volcanoes by plate boundary"
+      ],
+      "assessmentPrompt": "Ask {{name}} how we know what is inside the earth when nobody has ever been down there.",
+      "standards": [
+        "ncert-hsec:GEO.C11.P2"
+      ]
+    },
+    {
+      "id": "mt_UL3yliEpnY",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Physical Geography",
+      "name": "Geomorphic Processes and Landforms",
+      "description": "Understand how weathering, mass wasting, erosion and deposition by running water, wind, ice and waves shape and reshape landforms over time.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes weathering from erosion",
+        "Links a landform to the process that produced it",
+        "Explains how a landform evolves over time"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a river can carve a gorge through solid rock.",
+      "standards": [
+        "ncert-hsec:GEO.C11.P3"
+      ]
+    },
+    {
+      "id": "mt_telkpAwPmM",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Physical Geography",
+      "name": "Atmosphere, Insolation and Climate",
+      "description": "Understand the structure of the atmosphere, how the heat budget and pressure differences drive winds and weather systems, and how climatic types are classified.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the earth’s heat budget",
+        "Explains how pressure differences produce wind",
+        "Relates a climatic type to its controlling factors"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the equator receives more heat than the poles but does not keep getting hotter.",
+      "standards": [
+        "ncert-hsec:GEO.C11.P4"
+      ]
+    },
+    {
+      "id": "mt_fMuHAbo1RH",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Physical Geography",
+      "name": "Oceans and the Biosphere",
+      "description": "Understand the relief of the ocean floor, how temperature, salinity and currents vary, and how the biosphere and its ecosystems are distributed.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Describes the major relief features of the ocean floor",
+        "Explains what drives ocean currents and their climatic effect",
+        "Explains the distribution of a major biome"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a current in the ocean can change the weather of a country thousands of miles away.",
+      "standards": [
+        "ncert-hsec:GEO.C11.P5"
+      ]
+    },
+    {
+      "id": "mt_2DtF3iPHDh",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "India: Structure, Drainage and Hazards",
+      "description": "Understand India’s geological structure and physiography, its drainage systems, and the natural hazards its geography exposes it to and how they are managed.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Relates India’s physiographic divisions to their geological origin",
+        "Contrasts Himalayan and peninsular drainage",
+        "Explains the management of a natural hazard affecting India"
+      ],
+      "assessmentPrompt": "Ask {{name}} why some parts of India flood almost every year and others face drought.",
+      "standards": [
+        "ncert-hsec:GEO.C11.I1"
+      ]
+    },
+    {
+      "id": "mt_98maGySwL4",
+      "type": "PROCEDURAL",
+      "subject": "Social Studies",
+      "domain": "Geographical Skills",
+      "name": "Maps, Scale and Projections",
+      "description": "Understand that every map projection distorts something, choose a scale and projection suited to the purpose, and interpret topographic and weather maps.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains why a flat map must distort a spherical earth",
+        "Converts between scale statements and ground distance",
+        "Interprets relief and features on a topographic map"
+      ],
+      "assessmentPrompt": "Ask {{name}} why Greenland looks bigger than India on many world maps when it is not.",
+      "standards": [
+        "ncert-hsec:GEO.C11.M1"
+      ]
+    },
+    {
+      "id": "mt_Aq9deJzI4a",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Human Geography",
+      "name": "The Nature of Human Geography",
+      "description": "Understand human geography as the study of the relationship between people and their environment, and how thinking has moved from determinism to possibilism.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the scope of human geography",
+        "Contrasts environmental determinism with possibilism",
+        "Explains the relationship between human geography and other social sciences"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether geography decides how people live or merely sets the options.",
+      "standards": [
+        "ncert-hsec:GEO.C12.H1"
+      ]
+    },
+    {
+      "id": "mt_R2HFh2XirG",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Human Geography",
+      "name": "Population, Change and Human Development",
+      "description": "Understand the distribution, density and growth of world population, the components of population change, the demographic transition, and how human development is measured.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the stages of the demographic transition",
+        "Distinguishes population density from distribution",
+        "Explains what a human development index captures beyond income"
+      ],
+      "assessmentPrompt": "Ask {{name}} why population growth slows as countries get richer.",
+      "standards": [
+        "ncert-hsec:GEO.C12.H2"
+      ]
+    },
+    {
+      "id": "mt_Yol9DGVCer",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Human Geography",
+      "name": "Primary, Secondary and Tertiary Activities",
+      "description": "Understand how economic activities are classified from extraction through manufacturing to services and knowledge work, and how the balance shifts as economies develop.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Classifies an occupation into the correct sector",
+        "Explains the shift in sectoral balance as economies develop",
+        "Explains a factor influencing the location of an industry"
+      ],
+      "assessmentPrompt": "Ask {{name}} why most people in a rich country work in services rather than on farms.",
+      "standards": [
+        "ncert-hsec:GEO.C12.H3"
+      ]
+    },
+    {
+      "id": "mt_R7VcTRMpDW",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Human Geography",
+      "name": "Transport, Communication and International Trade",
+      "description": "Understand the major transport networks and communication technologies linking the world, and the basis, patterns and institutions of international trade.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the basis on which countries trade with one another",
+        "Describes the role of ports or pipelines in global movement",
+        "Explains how satellite and cyber communication changed distance"
+      ],
+      "assessmentPrompt": "Ask {{name}} why countries trade at all instead of making everything themselves.",
+      "standards": [
+        "ncert-hsec:GEO.C12.H4"
+      ]
+    },
+    {
+      "id": "mt_B6GdIp18Qa",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Human Geography",
+      "name": "Rural and Urban Settlements",
+      "description": "Understand how settlements are classified by size, function and pattern, and the problems of rapid urban growth in developing countries.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Classifies settlements by pattern or function",
+        "Explains a factor determining settlement location",
+        "Explains a problem of urbanisation in a developing country"
+      ],
+      "assessmentPrompt": "Ask {{name}} why villages tend to grow along rivers and roads rather than at random.",
+      "standards": [
+        "ncert-hsec:GEO.C12.H5"
+      ]
+    },
+    {
+      "id": "mt_DqVWlnOD0E",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Indian Geography",
+      "name": "India: People, Resources and Development",
+      "description": "Understand India’s population distribution and migration, its resource base, agriculture and industry, and the planning approaches used to pursue sustainable development.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains a pattern of internal migration in India",
+        "Links a resource endowment to an industrial location",
+        "Explains a planning approach to regional development"
+      ],
+      "assessmentPrompt": "Ask {{name}} why people move from one part of India to another, and what that does to both places.",
+      "standards": [
+        "ncert-hsec:GEO.C12.I1"
+      ]
+    },
+    {
+      "id": "mt_q0O0KOH3zX",
+      "type": "PROCEDURAL",
+      "subject": "Social Studies",
+      "domain": "Geographical Skills",
+      "name": "Thematic Mapping and Spatial Technology",
+      "description": "Process data into thematic maps, and understand how remote sensing and geographic information systems capture and analyse spatial information.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Chooses an appropriate thematic map type for given data",
+        "Explains what remote sensing measures",
+        "Explains how a geographic information system layers spatial data"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a satellite can tell how much forest a country has lost.",
+      "standards": [
+        "ncert-hsec:GEO.C12.M1"
+      ]
+    },
+    {
+      "id": "mt_ZuJdtA1EKn",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Why a Constitution and How It Was Made",
+      "description": "Understand what a constitution does — establishing authority, limiting it and expressing shared aspirations — and how the Indian Constitution was drafted and given authority.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the functions a constitution performs",
+        "Explains how the Constituent Assembly derived its authority",
+        "Explains why a constitution needs to be difficult to amend"
+      ],
+      "assessmentPrompt": "Ask {{name}} what stops a government from simply rewriting the rules that limit it.",
+      "standards": [
+        "ncert-hsec:POL.C11.C1"
+      ]
+    },
+    {
+      "id": "mt_J6da2ZapXO",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Rights in a Constitution",
+      "description": "Understand why rights are entrenched in a constitution, what the Indian Fundamental Rights protect, and how rights are limited and balanced against one another.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains why a bill of rights is placed beyond ordinary legislation",
+        "Explains a reasonable restriction on a right",
+        "Explains how the judiciary enforces fundamental rights"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether any right can be absolute, and what happens when two rights collide.",
+      "standards": [
+        "ncert-hsec:POL.C11.C1",
+        "ncert-hsec:POL.C11.T2"
+      ]
+    },
+    {
+      "id": "mt_pYVpmVkNQE",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Representation and Electoral Systems",
+      "description": "Understand different methods of election and how the choice of electoral system shapes representation, party competition and the inclusion of minorities.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Contrasts first-past-the-post with proportional representation",
+        "Explains a consequence of the electoral system for party competition",
+        "Explains the rationale for reserved constituencies"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a party can win most of the seats without winning most of the votes.",
+      "standards": [
+        "ncert-hsec:POL.C11.C1"
+      ]
+    },
+    {
+      "id": "mt_mbdVjWWkKD",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "The Executive and the Legislature",
+      "description": "Understand why India chose a parliamentary rather than presidential system, how the executive is accountable to the legislature, and why Parliament has two Houses.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes the parliamentary from the presidential system",
+        "Explains how executive accountability to the legislature works",
+        "Explains the function of the second chamber"
+      ],
+      "assessmentPrompt": "Ask {{name}} what happens to a prime minister who loses the confidence of Parliament, and why that matters.",
+      "standards": [
+        "ncert-hsec:POL.C11.C2"
+      ]
+    },
+    {
+      "id": "mt_bOFA6RKIkA",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "The Judiciary and the Rule of Law",
+      "description": "Understand what the rule of law requires, why judicial independence is protected, and how judicial review lets courts test laws against the Constitution.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains what the rule of law requires of a government",
+        "Explains how judicial independence is secured",
+        "Explains the power of judicial review and a debate about it"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether unelected judges should be able to strike down laws made by elected representatives.",
+      "standards": [
+        "ncert-hsec:POL.C11.C2"
+      ]
+    },
+    {
+      "id": "mt_Px207pEzXC",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Federalism and Local Government",
+      "description": "Understand how federalism divides power between levels of government to accommodate diversity, and why power was further decentralised to local bodies.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains how the division of powers accommodates diversity",
+        "Explains a source of tension between union and states",
+        "Explains the purpose of constitutional local government"
+      ],
+      "assessmentPrompt": "Ask {{name}} why decisions about a village school might be made better locally than in Delhi.",
+      "standards": [
+        "ncert-hsec:POL.C11.C3"
+      ]
+    },
+    {
+      "id": "mt_ShckiEBhhI",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "The Constitution as a Living Document",
+      "description": "Understand the political philosophy underlying the Constitution, how amendment and judicial interpretation have changed it, and what the basic structure doctrine protects.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the core commitments of the constitutional philosophy",
+        "Explains how the Constitution has changed since 1950",
+        "Explains what the basic structure doctrine limits"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether there should be any part of a constitution that even a large majority cannot change.",
+      "standards": [
+        "ncert-hsec:POL.C11.C4"
+      ]
+    },
+    {
+      "id": "mt_lH9rSugxUF",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Political Theory",
+      "name": "Freedom and Equality as Political Values",
+      "description": "Understand freedom as the absence of constraint and the presence of capacity, equality in its formal and substantive senses, and why the two values can pull against each other.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes negative from positive liberty",
+        "Distinguishes formal from substantive equality",
+        "Explains a tension between liberty and equality"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether treating everyone exactly the same always produces a fair result.",
+      "standards": [
+        "ncert-hsec:POL.C11.T1"
+      ]
+    },
+    {
+      "id": "mt_9ETtHXiv6E",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Political Theory",
+      "name": "Social Justice, Rights and Citizenship",
+      "description": "Understand competing principles for distributing benefits and burdens fairly, how rights are justified, and what full membership of a political community involves.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains a principle of just distribution",
+        "Explains a justification offered for rights",
+        "Explains what citizenship confers beyond legal status"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a society should decide who gets what, when there is not enough for everyone.",
+      "standards": [
+        "ncert-hsec:POL.C11.T1",
+        "ncert-hsec:POL.C11.T2"
+      ]
+    },
+    {
+      "id": "mt_Y6nfYkDI9L",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Political Theory",
+      "name": "Nationalism, Secularism and Peace",
+      "description": "Understand what binds a nation together and what nationalist claims demand, how secularism regulates the relationship between state and religion, and how peace is more than the absence of war.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains what makes a group claim to be a nation",
+        "Explains the Indian conception of secularism",
+        "Explains why peace requires more than an absence of violence"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a secular state should ignore religion entirely or treat all religions even-handedly.",
+      "standards": [
+        "ncert-hsec:POL.C11.T2"
+      ]
+    },
+    {
+      "id": "mt_JOcTqdHOi5",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "The Nehru Era: One-Party Dominance and Nation-Building",
+      "description": "Understand the first phase of independent India — Congress dominance, the challenges of integrating a divided country, planned development and a non-aligned foreign policy.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the nature of Congress dominance in the early elections",
+        "Describes a nation-building challenge and the response to it",
+        "Explains the logic of non-alignment"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a country holds together when it has just been divided by partition.",
+      "standards": [
+        "ncert-hsec:POL.C12.I1"
+      ]
+    },
+    {
+      "id": "mt_p6w2yuyZdS",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "Crisis and Restoration of the Constitutional Order",
+      "description": "Understand the breakdown of Congress dominance, the Emergency and what it revealed about constitutional safeguards, and the regional conflicts that followed.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the circumstances leading to the Emergency",
+        "Explains what the Emergency revealed about institutional safeguards",
+        "Explains the basis of a regional aspiration or conflict"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the Emergency showed about how much a constitution can protect on its own.",
+      "standards": [
+        "ncert-hsec:POL.C12.I2"
+      ]
+    },
+    {
+      "id": "mt_ehFgYgVyXm",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "Governance & Constitution",
+      "name": "New Social Movements and Coalition Politics",
+      "description": "Understand the rise of farmers’, women’s, environmental and Dalit movements, the participatory upsurge of the 1990s, and the era of coalition government it produced.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains why new social movements arose outside party politics",
+        "Explains the democratic upsurge of the 1990s",
+        "Explains how coalition politics changes governing"
+      ],
+      "assessmentPrompt": "Ask {{name}} what changes about governing when no single party can win a majority.",
+      "standards": [
+        "ncert-hsec:POL.C12.I3"
+      ]
+    },
+    {
+      "id": "mt_FroXZca3Qp",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "World Politics",
+      "name": "The Cold War and the End of Bipolarity",
+      "description": "Understand how the world divided into two blocs after the Second World War, how non-alignment offered a third path, and what followed the Soviet collapse.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how the two blocs formed and competed",
+        "Explains the purpose of the non-aligned movement",
+        "Explains the consequences of the collapse of bipolarity"
+      ],
+      "assessmentPrompt": "Ask {{name}} what choices a newly independent country had when the world split into two camps.",
+      "standards": [
+        "ncert-hsec:POL.C12.W1"
+      ]
+    },
+    {
+      "id": "mt_Rb1GeLKNDg",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "World Politics",
+      "name": "US Dominance and Alternative Centres of Power",
+      "description": "Understand the period of American predominance and unilateral action, and the rise of alternative centres including China, the European Union and regional groupings.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains what unipolarity meant in practice",
+        "Explains the rise of an alternative centre of power",
+        "Explains a constraint on the dominant power"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether one country being far stronger than the rest makes the world safer or less safe.",
+      "standards": [
+        "ncert-hsec:POL.C12.W1"
+      ]
+    },
+    {
+      "id": "mt_xYCpkfK1Eu",
+      "type": "CONCEPTUAL",
+      "subject": "Social Studies",
+      "domain": "World Politics",
+      "name": "Global Issues: Security, Environment and Globalisation",
+      "description": "Understand how security has broadened beyond military threat, how environment and resources became global political issues, and what critics of globalisation argue.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes traditional from non-traditional security concerns",
+        "Explains how environmental issues entered global politics",
+        "Explains an argument made by critics of globalisation"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether climate change is an environmental problem or a political one.",
+      "standards": [
+        "ncert-hsec:POL.C12.W2"
+      ]
+    },
+    {
+      "id": "mt_BAZzcDukTZ",
+      "type": "CONCEPTUAL",
+      "subject": "English",
+      "domain": "Reading Comprehension",
+      "name": "Critical Appreciation of Literary Texts",
+      "description": "Read a literary text closely enough to say how it achieves its effect, supporting an interpretation with evidence from the text rather than asserting a personal reaction.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Identifies how a writer’s choices create a particular effect",
+        "Supports an interpretation with quoted evidence",
+        "Distinguishes an argued reading from an unsupported opinion"
+      ],
+      "assessmentPrompt": "Ask {{name}} not whether they liked a poem but how it made them feel that way.",
+      "standards": [
+        "ncert-hsec:ENG.C1112.LIT"
+      ]
+    },
+    {
+      "id": "mt_FGvziGUANc",
+      "type": "CONCEPTUAL",
+      "subject": "English",
+      "domain": "Reading Comprehension",
+      "name": "Reading the Novel and Drama Critically",
+      "description": "Follow structure, characterisation and voice across a long work, and understand how the demands of drama — performance, staging, dialogue alone — differ from those of prose fiction.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Traces the development of a character across a whole work",
+        "Explains how a dramatist conveys what a novelist could narrate",
+        "Relates a work’s structure to its effect on the reader or audience"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a playwright shows what a character is thinking when there is no narrator to say it.",
+      "standards": [
+        "ncert-hsec:ENG.C1112.EL1"
+      ]
+    },
+    {
+      "id": "mt_9qlNt1mKl7",
+      "type": "PROCEDURAL",
+      "subject": "English",
+      "domain": "Writing Composition",
+      "name": "Extended Argumentative and Analytical Writing",
+      "description": "Sustain an argument across a long piece of writing, organising evidence, anticipating objections and maintaining a consistent register throughout.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Structures an extended argument with a clear line of reasoning",
+        "Anticipates and answers a counter-argument",
+        "Sustains an appropriate register across a long piece"
+      ],
+      "assessmentPrompt": "Ask {{name}} to argue a case they disagree with, and to answer the strongest objection to it.",
+      "standards": [
+        "ncert-hsec:ENG.C1112.CORE",
+        "ncert-hsec:ENG.C1112.GRAM"
+      ]
+    },
+    {
+      "id": "mt_JrjlqetaRr",
+      "type": "LANGUAGE",
+      "subject": "English",
+      "domain": "Speaking & Listening",
+      "name": "English Phonology, Stress and Intonation",
+      "description": "Understand the sound system of English, how stress and intonation carry meaning beyond the words, and why the same sentence can mean different things when said differently.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Identifies the stressed syllable in a word and its effect on meaning",
+        "Explains how intonation changes the force of an utterance",
+        "Recognises that spelling and pronunciation diverge systematically in English"
+      ],
+      "assessmentPrompt": "Ask {{name}} to say \"I never said she took it\" stressing a different word each time, and note how the meaning shifts.",
+      "standards": [
+        "ncert-hsec:ENG.C1112.EL2"
+      ]
+    },
+    {
+      "id": "mt_l5tFDkePm6",
+      "type": "PROCEDURAL",
+      "subject": "English",
+      "domain": "Writing Composition",
+      "name": "Academic and Professional Communication",
+      "description": "Produce the written and spoken forms adult and academic life demands — reports, proposals, applications and presentations — matching form and register to purpose and audience.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Selects the appropriate form and register for a stated audience",
+        "Writes a structured report or proposal",
+        "Delivers a prepared presentation with appropriate signposting"
+      ],
+      "assessmentPrompt": "Ask {{name}} to write the same request as an email to a friend and as a formal application, and to say what changed.",
+      "standards": [
+        "ncert-hsec:ENG.C1112.CORE"
+      ]
+    },
+    {
+      "id": "mt_REzBTIzMQK",
+      "type": "CONCEPTUAL",
+      "subject": "Sanskrit",
+      "domain": "Literature",
+      "name": "The History of Sanskrit Literature",
+      "description": "Understand the sweep of Sanskrit literature across its genres and periods, and be able to place a major author or work in its tradition and approximate time.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Names the principal genres of Sanskrit literature and a work in each",
+        "Places a major author in period and tradition",
+        "Explains how one genre developed out of or against another"
+      ],
+      "assessmentPrompt": "Ask {{name}} which came first, the epics or the classical plays, and how the later writers used the earlier stories.",
+      "standards": [
+        "ncert-hsec:SAN.C1112.ITIHASA"
+      ]
+    },
+    {
+      "id": "mt_5GNdpf0UfG",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Literature",
+      "name": "Chandas: Sanskrit Metre",
+      "description": "Understand that Sanskrit verse is composed in metres defined by patterns of light and heavy syllables, and scan a verse to identify the metre it is written in.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Marks the light and heavy syllables of a line",
+        "Identifies a common metre such as anushtubh from its pattern",
+        "Explains why metre aids memorisation and oral transmission"
+      ],
+      "assessmentPrompt": "Ask {{name}} to clap the rhythm of a shloka and work out how many syllables each line holds.",
+      "standards": [
+        "ncert-hsec:SAN.C1112.CHAND"
+      ]
+    },
+    {
+      "id": "mt_ETYnhPX4di",
+      "type": "LANGUAGE",
+      "subject": "Sanskrit",
+      "domain": "Literature",
+      "name": "Alankara: Sanskrit Figures of Speech",
+      "description": "Understand the figures of speech Sanskrit poetics names and classifies, distinguishing those working through sound from those working through meaning, and identify them in verse.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a sound-based from a meaning-based figure",
+        "Identifies a common alankara such as upama or rupaka in a verse",
+        "Explains what a figure adds to the plain sense of a line"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a poet gains by saying a face *is* the moon rather than that it is *like* the moon.",
+      "standards": [
+        "ncert-hsec:SAN.C1112.CHAND"
+      ]
+    },
+    {
+      "id": "mt_l2oleqVhFm",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business & Society",
+      "name": "Small Business and Its Role",
+      "description": "Understand the contribution small scale industry makes to employment and rural development, the particular problems it faces, and why governments support it deliberately.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the role of small business in the national economy",
+        "Names a problem specific to small enterprise",
+        "Explains the rationale for government assistance schemes"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a government would give special help to small firms rather than large efficient ones.",
+      "standards": [
+        "ncert-hsec:BST.C11.U9"
+      ]
+    },
+    {
+      "id": "mt_6kGqqDk0LX",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business & Society",
+      "name": "Internal Trade",
+      "description": "Understand how goods reach consumers through wholesale and retail channels, what services each intermediary performs, and why removing them does not simply cut cost.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes the services of a wholesaler from a retailer",
+        "Describes a type of retail trade and whom it serves",
+        "Explains the role of chambers of commerce"
+      ],
+      "assessmentPrompt": "Ask {{name}} why goods usually pass through a wholesaler rather than going straight from factory to shop.",
+      "standards": [
+        "ncert-hsec:BST.C11.U10"
+      ]
+    },
+    {
+      "id": "mt_tsXSrLXJ5S",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business & Society",
+      "name": "International Business",
+      "description": "Understand why firms trade across borders, the modes by which they enter foreign markets, and the documentation and institutions that international trade depends on.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Names a mode of entering international business and its trade-off",
+        "Outlines the steps of an export or import transaction",
+        "Names an international trade institution and its function"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a firm has to arrange to sell abroad that it never needs when selling at home.",
+      "standards": [
+        "ncert-hsec:BST.C11.U11"
       ]
     }
   ]

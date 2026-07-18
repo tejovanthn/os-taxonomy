@@ -46662,7 +46662,7 @@
       "sourceUrl": "https://ncert.nic.in/syllabus.php",
       "textIncluded": true,
       "license": "NCERT permits no reproduction of its text; these records carry Marble-authored factual descriptions only (no NCERT text) — see PROVENANCE.md",
-      "topicCount": 126,
+      "topicCount": 225,
       "topics": [
         {
           "key": "ncert-hsec:PHY.C11.U1",
@@ -48048,6 +48048,1095 @@
             "class": "XII",
             "strand": "Developing Psychological Skills",
             "description": "Effective psychological skills; observational, communication and counselling skills; empathy and active listening; the skills required of a psychologist."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C11.U1",
+          "code": "BST.C11.U1",
+          "data": {
+            "title": "Class XI Nature and Purpose of Business",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Nature and Purpose of Business",
+            "description": "Business, profession and employment distinguished; business objectives; classification of business activities into industry and commerce; business risk."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C11.U2",
+          "code": "BST.C11.U2",
+          "data": {
+            "title": "Class XI Forms of Business Organisation",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Forms of Business Organisation",
+            "description": "Sole proprietorship, joint Hindu family business, partnership, cooperative societies and joint stock companies; their merits and limitations; choice of an appropriate form."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C11.U3",
+          "code": "BST.C11.U3",
+          "data": {
+            "title": "Class XI Private, Public and Global Enterprises",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Private, Public and Global Enterprises",
+            "description": "Forms of public sector enterprise; changing role of the public sector; global enterprises and joint ventures."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C11.U4",
+          "code": "BST.C11.U4",
+          "data": {
+            "title": "Class XI Business Services",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Business Services",
+            "description": "Banking, insurance, transport, warehousing and communication services and their role in business."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C11.U5",
+          "code": "BST.C11.U5",
+          "data": {
+            "title": "Class XI Emerging Modes of Business",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Emerging Modes of Business",
+            "description": "Electronic business and its scope and benefits; online transactions; business process outsourcing and its need and scope."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C11.U6",
+          "code": "BST.C11.U6",
+          "data": {
+            "title": "Class XI Social Responsibility and Business Ethics",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Social Responsibility and Business Ethics",
+            "description": "Social responsibility of business, its need and the responsibility towards different interest groups; business and environmental protection; business ethics and their elements."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C11.U7",
+          "code": "BST.C11.U7",
+          "data": {
+            "title": "Class XI Formation of a Company",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Formation of a Company",
+            "description": "Stages in the formation of a company — promotion, incorporation and commencement of business; the documents required at each stage."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C11.U8",
+          "code": "BST.C11.U8",
+          "data": {
+            "title": "Class XI Sources of Business Finance",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Sources of Business Finance",
+            "description": "Nature and significance of business finance; owners’ funds and borrowed funds; sources of raising finance and factors affecting the choice."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C11.U9",
+          "code": "BST.C11.U9",
+          "data": {
+            "title": "Class XI Small Business",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Small Business",
+            "description": "Small scale industry and its role in rural and national development; problems faced by small business; government assistance and special schemes."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C11.U10",
+          "code": "BST.C11.U10",
+          "data": {
+            "title": "Class XI Internal Trade",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Internal Trade",
+            "description": "Services of a wholesaler and retailer; types of retail trade; chambers of commerce and their role; the GST regime as it affects internal trade."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C11.U11",
+          "code": "BST.C11.U11",
+          "data": {
+            "title": "Class XI International Business",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "International Business",
+            "description": "The scope and benefits of international business; modes of entry; export-import procedures and documentation; international trade institutions and agreements."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C12.U1",
+          "code": "BST.C12.U1",
+          "data": {
+            "title": "Class XII Nature and Significance of Management",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Nature and Significance of Management",
+            "description": "Concept, objectives and importance of management; management as science, art and profession; levels of management; the functions of planning, organising, staffing, directing and controlling; coordination."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C12.U2",
+          "code": "BST.C12.U2",
+          "data": {
+            "title": "Class XII Principles of Management",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Principles of Management",
+            "description": "The meaning, nature and significance of management principles; Fayol’s principles of management; Taylor’s scientific management, its principles and techniques."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C12.U3",
+          "code": "BST.C12.U3",
+          "data": {
+            "title": "Class XII Business Environment",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Business Environment",
+            "description": "Meaning and importance of the business environment; its economic, social, technological, political and legal dimensions; the impact of liberalisation, privatisation and globalisation on Indian business."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C12.U4",
+          "code": "BST.C12.U4",
+          "data": {
+            "title": "Class XII Planning",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Planning",
+            "description": "Meaning, features, importance and limitations of planning; the planning process; types of plan including objectives, strategy, policy, procedure, method, rule, budget and programme."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C12.U5",
+          "code": "BST.C12.U5",
+          "data": {
+            "title": "Class XII Organising",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Organising",
+            "description": "Meaning and importance of organising and the steps in the process; functional and divisional structures; formal and informal organisation; delegation and decentralisation and the difference between them."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C12.U6",
+          "code": "BST.C12.U6",
+          "data": {
+            "title": "Class XII Staffing",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Staffing",
+            "description": "Meaning, need and importance of staffing as part of human resource management; the staffing process; recruitment and its sources; selection, training and development."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C12.U7",
+          "code": "BST.C12.U7",
+          "data": {
+            "title": "Class XII Directing",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Directing",
+            "description": "Meaning and importance of directing; supervision; motivation and theories of motivation; leadership and leadership styles; communication, its formal and informal channels and the barriers to it."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C12.U8",
+          "code": "BST.C12.U8",
+          "data": {
+            "title": "Class XII Controlling",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Controlling",
+            "description": "Meaning and importance of controlling; the relationship between planning and controlling; the steps in the controlling process."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C12.U9",
+          "code": "BST.C12.U9",
+          "data": {
+            "title": "Class XII Business Finance",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Business Finance",
+            "description": "Meaning, role and objectives of financial management; financial planning; capital structure; fixed and working capital and the factors affecting their requirements."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C12.U10",
+          "code": "BST.C12.U10",
+          "data": {
+            "title": "Class XII Financial Markets",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Financial Markets",
+            "description": "Concept and functions of financial markets; money market and its instruments; capital market; the stock exchange and its functions; trading procedure; SEBI and its objectives."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C12.U11",
+          "code": "BST.C12.U11",
+          "data": {
+            "title": "Class XII Marketing",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Marketing",
+            "description": "Concept of marketing and the marketing mix; functions of marketing; product, branding, labelling and packaging; pricing and the factors determining it; physical distribution and channels; promotion and the promotion mix."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C12.U12",
+          "code": "BST.C12.U12",
+          "data": {
+            "title": "Class XII Consumer Protection",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Consumer Protection",
+            "description": "Importance of consumer protection; consumer rights and responsibilities; ways and means of consumer protection; the redressal machinery and the role of consumer organisations and NGOs."
+          }
+        },
+        {
+          "key": "ncert-hsec:BST.C12.U13",
+          "code": "BST.C12.U13",
+          "data": {
+            "title": "Class XII Entrepreneurship Development",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Entrepreneurship Development",
+            "description": "Concept, functions and need for entrepreneurship; entrepreneurial competencies and their development; the process of entrepreneurship development."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C11.U1",
+          "code": "ACC.C11.U1",
+          "data": {
+            "title": "Class XI Introduction to Accounting",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Introduction to Accounting",
+            "description": "Meaning, objectives and advantages of accounting; users of accounting information; basic accounting terms including asset, liability, capital, revenue, expense, income, drawings, debtor and creditor."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C11.U2",
+          "code": "ACC.C11.U2",
+          "data": {
+            "title": "Class XI Theory Base of Accounting",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Theory Base of Accounting",
+            "description": "Fundamental accounting assumptions and principles; the basis of accounting; accounting standards; the double entry system."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C11.U3",
+          "code": "ACC.C11.U3",
+          "data": {
+            "title": "Class XI Recording of Business Transactions",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Recording of Business Transactions",
+            "description": "The accounting equation; rules of debit and credit; the journal, ledger and posting; the cash book and other subsidiary books; bank reconciliation statement."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C11.U4",
+          "code": "ACC.C11.U4",
+          "data": {
+            "title": "Class XI Trial Balance and Rectification of Errors",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Trial Balance and Rectification of Errors",
+            "description": "Meaning and objectives of the trial balance; classification of errors; locating errors and their rectification; the suspense account."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C11.U5",
+          "code": "ACC.C11.U5",
+          "data": {
+            "title": "Class XI Depreciation, Provisions and Reserves",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Depreciation, Provisions and Reserves",
+            "description": "Meaning and causes of depreciation and the factors affecting it; methods of computing depreciation; accounting treatment; provisions and reserves and the difference between them."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C11.U6",
+          "code": "ACC.C11.U6",
+          "data": {
+            "title": "Class XI Bills of Exchange",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Bills of Exchange",
+            "description": "Nature and use of bills of exchange and promissory notes; accounting treatment of bills including discounting, endorsement, dishonour and renewal."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C11.U7",
+          "code": "ACC.C11.U7",
+          "data": {
+            "title": "Class XI Financial Statements",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Financial Statements",
+            "description": "Trading and profit and loss account and the balance sheet of a sole proprietorship; adjustments in the preparation of financial statements."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C11.U8",
+          "code": "ACC.C11.U8",
+          "data": {
+            "title": "Class XI Accounts from Incomplete Records",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Accounts from Incomplete Records",
+            "description": "Features and limitations of incomplete records; ascertainment of profit or loss by the statement of affairs method; conversion into double entry."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C11.U9",
+          "code": "ACC.C11.U9",
+          "data": {
+            "title": "Class XI Computers in Accounting",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Computers in Accounting",
+            "description": "Introduction to computerised accounting; the components of a computerised accounting system; comparison with the manual system; accounting and database systems."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C12.U1",
+          "code": "ACC.C12.U1",
+          "data": {
+            "title": "Class XII Accounting for Not-for-Profit Organisations",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Accounting for Not-for-Profit Organisations",
+            "description": "Receipts and payments account; income and expenditure account and balance sheet of a not-for-profit organisation; treatment of specific items such as subscriptions, donations and legacies."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C12.U2",
+          "code": "ACC.C12.U2",
+          "data": {
+            "title": "Class XII Accounting for Partnership",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Accounting for Partnership",
+            "description": "The partnership deed and the provisions applying in its absence; fixed and fluctuating capital accounts; profit and loss appropriation account; interest on capital and drawings."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C12.U3",
+          "code": "ACC.C12.U3",
+          "data": {
+            "title": "Class XII Reconstitution of Partnership",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Reconstitution of Partnership",
+            "description": "Change in the profit sharing ratio; goodwill, its nature, factors and methods of valuation; admission, retirement and death of a partner; revaluation of assets and liabilities."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C12.U4",
+          "code": "ACC.C12.U4",
+          "data": {
+            "title": "Class XII Dissolution of a Partnership Firm",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Dissolution of a Partnership Firm",
+            "description": "Meaning and modes of dissolution; settlement of accounts and the realisation account; preparation of the accounts on dissolution."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C12.U5",
+          "code": "ACC.C12.U5",
+          "data": {
+            "title": "Class XII Accounting for Share and Debenture Capital",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Accounting for Share and Debenture Capital",
+            "description": "Issue and allotment of shares; calls in arrears and in advance; forfeiture and reissue; issue of shares at par and at premium; issue and redemption of debentures."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C12.U6",
+          "code": "ACC.C12.U6",
+          "data": {
+            "title": "Class XII Analysis of Financial Statements",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Analysis of Financial Statements",
+            "description": "Meaning and purpose of financial statement analysis; comparative and common size statements; accounting ratios covering liquidity, solvency, activity and profitability."
+          }
+        },
+        {
+          "key": "ncert-hsec:ACC.C12.U7",
+          "code": "ACC.C12.U7",
+          "data": {
+            "title": "Class XII Statement of Changes in Financial Position",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Statement of Changes in Financial Position",
+            "description": "Cash flow statement — meaning and objectives; classification of activities into operating, investing and financing; preparation of the statement."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C11.S1",
+          "code": "ECO.C11.S1",
+          "data": {
+            "title": "Class XI Statistics for Economics — Introduction",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Statistics for Economics — Introduction",
+            "description": "What economics is about and why statistics is used in economics; the collection, organisation and presentation of data."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C11.S2",
+          "code": "ECO.C11.S2",
+          "data": {
+            "title": "Class XI Statistics for Economics — Collection and Organisation",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Statistics for Economics — Collection and Organisation",
+            "description": "Sources of data and methods of collecting it; census and sample surveys; sampling and non-sampling errors; organisation of data into frequency distributions; tabular and diagrammatic presentation."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C11.S3",
+          "code": "ECO.C11.S3",
+          "data": {
+            "title": "Class XI Statistics for Economics — Statistical Tools",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Statistics for Economics — Statistical Tools",
+            "description": "Measures of central tendency; measures of dispersion; correlation and its measurement; index numbers and their construction and use, including the consumer price index."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C11.D1",
+          "code": "ECO.C11.D1",
+          "data": {
+            "title": "Class XI Indian Economic Development — 1947 to 1990",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Indian Economic Development — 1947 to 1990",
+            "description": "The state of the Indian economy on the eve of independence; common goals of the five year plans; agriculture, industry and trade policy in the planned period and their appraisal."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C11.D2",
+          "code": "ECO.C11.D2",
+          "data": {
+            "title": "Class XI Indian Economic Development — Reforms since 1991",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Indian Economic Development — Reforms since 1991",
+            "description": "The need for economic reform; liberalisation, privatisation and globalisation; an appraisal of the reforms and their effects on different sectors."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C11.D3",
+          "code": "ECO.C11.D3",
+          "data": {
+            "title": "Class XI Indian Economic Development — Current Challenges",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Indian Economic Development — Current Challenges",
+            "description": "Poverty, rural development, human capital formation, employment, infrastructure and sustainable economic development as challenges facing the Indian economy."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C11.D4",
+          "code": "ECO.C11.D4",
+          "data": {
+            "title": "Class XI Indian Economic Development — Comparison with Neighbours",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Indian Economic Development — Comparison with Neighbours",
+            "description": "Development experience of India compared with that of Pakistan and China across growth, structure and human development indicators."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C12.MI1",
+          "code": "ECO.C12.MI1",
+          "data": {
+            "title": "Class XII Microeconomics — Introduction",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Microeconomics — Introduction",
+            "description": "What microeconomics studies; the central problems of an economy; the production possibility frontier and opportunity cost."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C12.MI2",
+          "code": "ECO.C12.MI2",
+          "data": {
+            "title": "Class XII Microeconomics — Consumer Behaviour and Demand",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Microeconomics — Consumer Behaviour and Demand",
+            "description": "Utility and the conditions of consumer equilibrium; indifference curves and the budget line; demand and the law of demand; determinants of demand; elasticity of demand and its measurement."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C12.MI3",
+          "code": "ECO.C12.MI3",
+          "data": {
+            "title": "Class XII Microeconomics — Producer Behaviour and Supply",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Microeconomics — Producer Behaviour and Supply",
+            "description": "Production function and returns to a factor; costs in the short and long run; revenue; producer equilibrium; supply and the law of supply; elasticity of supply."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C12.MI4",
+          "code": "ECO.C12.MI4",
+          "data": {
+            "title": "Class XII Microeconomics — Market Forms and Price Determination",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Microeconomics — Market Forms and Price Determination",
+            "description": "Perfect competition and its features; other market forms including monopoly, monopolistic competition and oligopoly; determination of equilibrium price and the effects of shifts in demand and supply."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C12.MA1",
+          "code": "ECO.C12.MA1",
+          "data": {
+            "title": "Class XII Macroeconomics — National Income",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Macroeconomics — National Income",
+            "description": "Basic concepts of macroeconomics; circular flow of income; gross and net, domestic and national, at market price and factor cost; methods of measuring national income; nominal and real income."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C12.MA2",
+          "code": "ECO.C12.MA2",
+          "data": {
+            "title": "Class XII Macroeconomics — Income and Employment",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Macroeconomics — Income and Employment",
+            "description": "Aggregate demand and supply and their components; propensity to consume and to save; the investment multiplier; problems of excess and deficient demand and the measures to correct them."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C12.MA3",
+          "code": "ECO.C12.MA3",
+          "data": {
+            "title": "Class XII Macroeconomics — Money and Banking",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Macroeconomics — Money and Banking",
+            "description": "Money — its meaning, evolution and supply; commercial banks and credit creation; the central bank and its functions and instruments of monetary control."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C12.MA4",
+          "code": "ECO.C12.MA4",
+          "data": {
+            "title": "Class XII Macroeconomics — Government Budget",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Macroeconomics — Government Budget",
+            "description": "Government budget and its objectives and components; classification of receipts and expenditure; measures of government deficit; fiscal policy."
+          }
+        },
+        {
+          "key": "ncert-hsec:ECO.C12.MA5",
+          "code": "ECO.C12.MA5",
+          "data": {
+            "title": "Class XII Macroeconomics — Balance of Payments",
+            "subject": "Business Studies, Accountancy and Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Macroeconomics — Balance of Payments",
+            "description": "Balance of payments account and its current and capital accounts; balance of payments deficit and surplus; foreign exchange rate and its determination; fixed and flexible rates."
+          }
+        },
+        {
+          "key": "ncert-hsec:HIS.C11.T1",
+          "code": "HIS.C11.T1",
+          "data": {
+            "title": "Class XI Early Societies",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Early Societies",
+            "description": "From the beginning of time — human evolution and early societies; early cities and the emergence of urban life in Mesopotamia."
+          }
+        },
+        {
+          "key": "ncert-hsec:HIS.C11.T2",
+          "code": "HIS.C11.T2",
+          "data": {
+            "title": "Class XI Empires",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Empires",
+            "description": "An empire across three continents — the Roman empire; the central Islamic lands; nomadic empires and the Mongols."
+          }
+        },
+        {
+          "key": "ncert-hsec:HIS.C11.T3",
+          "code": "HIS.C11.T3",
+          "data": {
+            "title": "Class XI Changing Traditions",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Changing Traditions",
+            "description": "The three orders of medieval European society; changing cultural traditions from the Renaissance; the confrontation of cultures in the age of European expansion."
+          }
+        },
+        {
+          "key": "ncert-hsec:HIS.C11.T4",
+          "code": "HIS.C11.T4",
+          "data": {
+            "title": "Class XI Paths to Modernisation",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Paths to Modernisation",
+            "description": "Displacing indigenous peoples in the Americas and Australia; the Industrial Revolution; paths to modernisation in East Asia."
+          }
+        },
+        {
+          "key": "ncert-hsec:HIS.C12.T1",
+          "code": "HIS.C12.T1",
+          "data": {
+            "title": "Class XII Reconstructing Early India",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Reconstructing Early India",
+            "description": "Political and economic history from the Mauryan to the Gupta period read through inscriptions; social history read through the Mahabharata; the history of Buddhism read through the Sanchi stupa."
+          }
+        },
+        {
+          "key": "ncert-hsec:HIS.C12.T2",
+          "code": "HIS.C12.T2",
+          "data": {
+            "title": "Class XII Medieval Society and Culture",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Medieval Society and Culture",
+            "description": "Agrarian relations through the Ain-i-Akbari; the Mughal court and its chronicles; architecture at Hampi and Vijayanagara; Bhakti and Sufi traditions through devotional literature; medieval society through travellers’ accounts."
+          }
+        },
+        {
+          "key": "ncert-hsec:HIS.C12.T3",
+          "code": "HIS.C12.T3",
+          "data": {
+            "title": "Class XII Colonialism and Its Records",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Colonialism and Its Records",
+            "description": "Colonialism and rural society through official reports; the revolt of 1857 through contemporary accounts and images; colonial towns through town plans and municipal reports."
+          }
+        },
+        {
+          "key": "ncert-hsec:HIS.C12.T4",
+          "code": "HIS.C12.T4",
+          "data": {
+            "title": "Class XII Nationalism and the New Nation",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Nationalism and the New Nation",
+            "description": "The nationalist movement from 1918 to 1948 and Gandhian politics through contemporary eyes; Partition through oral sources; the making of the Constitution through the Constituent Assembly debates."
+          }
+        },
+        {
+          "key": "ncert-hsec:GEO.C11.P1",
+          "code": "GEO.C11.P1",
+          "data": {
+            "title": "Class XI Geography as a Discipline",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Geography as a Discipline",
+            "description": "Geography as an integrating discipline and as a science of spatial attributes; branches of geography; its scope and relationship with the natural and social sciences."
+          }
+        },
+        {
+          "key": "ncert-hsec:GEO.C11.P2",
+          "code": "GEO.C11.P2",
+          "data": {
+            "title": "Class XI The Earth",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "The Earth",
+            "description": "Origin and evolution of the earth; interior of the earth; wave motion and earthquakes; distribution of oceans and continents and the theory of plate tectonics."
+          }
+        },
+        {
+          "key": "ncert-hsec:GEO.C11.P3",
+          "code": "GEO.C11.P3",
+          "data": {
+            "title": "Class XI Landforms",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Landforms",
+            "description": "Rocks and the rock cycle; geomorphic processes of weathering, mass wasting, erosion and deposition; landforms and their evolution."
+          }
+        },
+        {
+          "key": "ncert-hsec:GEO.C11.P4",
+          "code": "GEO.C11.P4",
+          "data": {
+            "title": "Class XI Climate",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Climate",
+            "description": "Composition and structure of the atmosphere; insolation, heat budget and temperature; pressure and winds; atmospheric circulation and weather systems; water in the atmosphere; world climatic types and climate change."
+          }
+        },
+        {
+          "key": "ncert-hsec:GEO.C11.P5",
+          "code": "GEO.C11.P5",
+          "data": {
+            "title": "Class XI Water and Life on the Earth",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Water and Life on the Earth",
+            "description": "Hydrological cycle; relief of the ocean floor; temperature and salinity of ocean waters; movements of ocean water including waves, tides and currents; biosphere, ecosystems and biodiversity."
+          }
+        },
+        {
+          "key": "ncert-hsec:GEO.C11.I1",
+          "code": "GEO.C11.I1",
+          "data": {
+            "title": "Class XI India: Physical Environment",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "India: Physical Environment",
+            "description": "India’s location and space relations; structure and physiography; drainage systems; climate, natural vegetation and soils; natural hazards and disasters and their management."
+          }
+        },
+        {
+          "key": "ncert-hsec:GEO.C11.M1",
+          "code": "GEO.C11.M1",
+          "data": {
+            "title": "Class XI Practical Work: Maps",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Practical Work: Maps",
+            "description": "Fundamentals of maps — scale, projections and map making; topographic and weather maps and their interpretation."
+          }
+        },
+        {
+          "key": "ncert-hsec:GEO.C12.H1",
+          "code": "GEO.C12.H1",
+          "data": {
+            "title": "Class XII Human Geography: Nature and Scope",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Human Geography: Nature and Scope",
+            "description": "The nature of human geography, its fields and sub-fields, and its relationship with the social sciences."
+          }
+        },
+        {
+          "key": "ncert-hsec:GEO.C12.H2",
+          "code": "GEO.C12.H2",
+          "data": {
+            "title": "Class XII People",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "People",
+            "description": "Population — distribution, density and growth; population change and its components; demographic transition; population composition; human development."
+          }
+        },
+        {
+          "key": "ncert-hsec:GEO.C12.H3",
+          "code": "GEO.C12.H3",
+          "data": {
+            "title": "Class XII Human Activities",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Human Activities",
+            "description": "Primary activities including gathering, pastoralism, mining and agriculture; secondary activities and manufacturing; tertiary activities and services; quaternary and quinary activities."
+          }
+        },
+        {
+          "key": "ncert-hsec:GEO.C12.H4",
+          "code": "GEO.C12.H4",
+          "data": {
+            "title": "Class XII Transport, Communication and Trade",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Transport, Communication and Trade",
+            "description": "Land, water and air transport and major routes; oil and gas pipelines; satellite and cyber communication; international trade, its basis and changing patterns; ports as gateways."
+          }
+        },
+        {
+          "key": "ncert-hsec:GEO.C12.H5",
+          "code": "GEO.C12.H5",
+          "data": {
+            "title": "Class XII Human Settlements",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Human Settlements",
+            "description": "Rural and urban settlements; types and patterns of rural settlement; classification of urban settlements; problems of human settlements in developing countries."
+          }
+        },
+        {
+          "key": "ncert-hsec:GEO.C12.I1",
+          "code": "GEO.C12.I1",
+          "data": {
+            "title": "Class XII India: People and Economy",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "India: People and Economy",
+            "description": "Population distribution, density, growth and composition; migration; human settlements; land, water, mineral and energy resources; agriculture; manufacturing industries; planning and sustainable development; transport, communication and international trade; selected issues and problems."
+          }
+        },
+        {
+          "key": "ncert-hsec:GEO.C12.M1",
+          "code": "GEO.C12.M1",
+          "data": {
+            "title": "Class XII Practical Work: Data and Mapping",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Practical Work: Data and Mapping",
+            "description": "Processing of data and thematic mapping; field study and the use of spatial information technology including remote sensing and geographic information systems."
+          }
+        },
+        {
+          "key": "ncert-hsec:POL.C11.C1",
+          "code": "POL.C11.C1",
+          "data": {
+            "title": "Class XI The Constitution at Work",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "The Constitution at Work",
+            "description": "Why a constitution is needed and what it does; making of the Indian Constitution; Fundamental Rights and the bill of rights; the system of representational democracy and methods of election."
+          }
+        },
+        {
+          "key": "ncert-hsec:POL.C11.C2",
+          "code": "POL.C11.C2",
+          "data": {
+            "title": "Class XI Institutions of Government",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Institutions of Government",
+            "description": "The executive in a parliamentary system; the legislature at central and state level and why Parliament has two Houses; the judiciary, rule of law and judicial independence."
+          }
+        },
+        {
+          "key": "ncert-hsec:POL.C11.C3",
+          "code": "POL.C11.C3",
+          "data": {
+            "title": "Class XI Federalism and Local Government",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Federalism and Local Government",
+            "description": "What federalism is and how it accommodates diversity; the status and working of local government; decentralisation of power."
+          }
+        },
+        {
+          "key": "ncert-hsec:POL.C11.C4",
+          "code": "POL.C11.C4",
+          "data": {
+            "title": "Class XI The Constitution as a Living Document",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "The Constitution as a Living Document",
+            "description": "The political philosophy underlying the Constitution; how the Constitution has changed since its inception and what further changes are debated."
+          }
+        },
+        {
+          "key": "ncert-hsec:POL.C11.T1",
+          "code": "POL.C11.T1",
+          "data": {
+            "title": "Class XI Political Theory: Freedom and Equality",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Political Theory: Freedom and Equality",
+            "description": "Introduction to political theory; freedom and the limits on it; equality and its dimensions; social justice and its principles."
+          }
+        },
+        {
+          "key": "ncert-hsec:POL.C11.T2",
+          "code": "POL.C11.T2",
+          "data": {
+            "title": "Class XI Political Theory: Rights and Citizenship",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Political Theory: Rights and Citizenship",
+            "description": "Rights and their justification; citizenship and its scope; nationalism and its claims; secularism; peace and development as political values."
+          }
+        },
+        {
+          "key": "ncert-hsec:POL.C12.I1",
+          "code": "POL.C12.I1",
+          "data": {
+            "title": "Class XII Politics in India: The Nehru Era",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Politics in India: The Nehru Era",
+            "description": "The era of one-party dominance and the first three general elections; nation-building and its problems including the legacy of Partition; the politics of planned development; India’s external relations under Nehru."
+          }
+        },
+        {
+          "key": "ncert-hsec:POL.C12.I2",
+          "code": "POL.C12.I2",
+          "data": {
+            "title": "Class XII Politics in India: Crisis and Change",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Politics in India: Crisis and Change",
+            "description": "Challenge to and restoration of the Congress system; the crisis of the constitutional order and the Emergency; regional aspirations and conflicts including Punjab, Kashmir and the North East."
+          }
+        },
+        {
+          "key": "ncert-hsec:POL.C12.I3",
+          "code": "POL.C12.I3",
+          "data": {
+            "title": "Class XII Politics in India: New Forces",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Politics in India: New Forces",
+            "description": "The rise of new social movements including farmers’, women’s and environmental movements; the democratic upsurge and coalition politics of the 1990s; recent issues and challenges including globalisation."
+          }
+        },
+        {
+          "key": "ncert-hsec:POL.C12.W1",
+          "code": "POL.C12.W1",
+          "data": {
+            "title": "Class XII Contemporary World Politics: Bipolarity and After",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Contemporary World Politics: Bipolarity and After",
+            "description": "The Cold War era and the emergence of two power blocs; the disintegration of the Second World and the collapse of bipolarity; US dominance and the growth of unilateralism; alternative centres of economic and political power."
+          }
+        },
+        {
+          "key": "ncert-hsec:POL.C12.W2",
+          "code": "POL.C12.W2",
+          "data": {
+            "title": "Class XII Contemporary World Politics: Global Issues",
+            "subject": "History, Geography and Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Contemporary World Politics: Global Issues",
+            "description": "South Asia in the post-Cold War era; international organisations in a unipolar world and the future of the UN; security in the contemporary world; environment and natural resources in global politics; globalisation and its critics."
+          }
+        },
+        {
+          "key": "ncert-hsec:ENG.C1112.CORE",
+          "code": "ENG.C1112.CORE",
+          "data": {
+            "title": "Class XI–XII English Core — Skills",
+            "subject": "English and Sanskrit (XI–XII)",
+            "class": "XI–XII",
+            "strand": "English Core — Skills",
+            "description": "Promoting higher-order language skills: listening to and comprehending extended discourse; speaking with fluency and appropriateness in formal and informal settings; reading with comprehension and inference; writing with organisation, coherence and control of register."
+          }
+        },
+        {
+          "key": "ncert-hsec:ENG.C1112.LIT",
+          "code": "ENG.C1112.LIT",
+          "data": {
+            "title": "Class XI–XII English Core — Literary Appreciation",
+            "subject": "English and Sanskrit (XI–XII)",
+            "class": "XI–XII",
+            "strand": "English Core — Literary Appreciation",
+            "description": "Reading and responding to prose, poetry and drama; appreciating theme, style and the creative use of language; forming and defending a personal response to a text."
+          }
+        },
+        {
+          "key": "ncert-hsec:ENG.C1112.GRAM",
+          "code": "ENG.C1112.GRAM",
+          "data": {
+            "title": "Class XI–XII English Core — Grammar and Usage",
+            "subject": "English and Sanskrit (XI–XII)",
+            "class": "XI–XII",
+            "strand": "English Core — Grammar and Usage",
+            "description": "Consolidation of grammar in use rather than in isolation; accuracy in extended writing; appropriate register and the conventions of formal written English."
+          }
+        },
+        {
+          "key": "ncert-hsec:ENG.C1112.EL1",
+          "code": "ENG.C1112.EL1",
+          "data": {
+            "title": "Class XI–XII English Elective — Literature",
+            "subject": "English and Sanskrit (XI–XII)",
+            "class": "XI–XII",
+            "strand": "English Elective — Literature",
+            "description": "An anthology of short stories; a short novel in Indian writing in English; a selection of one-act plays; sustained critical engagement with each genre."
+          }
+        },
+        {
+          "key": "ncert-hsec:ENG.C1112.EL2",
+          "code": "ENG.C1112.EL2",
+          "data": {
+            "title": "Class XI–XII English Elective — Grammar and Phonology",
+            "subject": "English and Sanskrit (XI–XII)",
+            "class": "XI–XII",
+            "strand": "English Elective — Grammar and Phonology",
+            "description": "A book of grammar and phonology: the sound system of English, stress and intonation, and the systematic description of English structure."
+          }
+        },
+        {
+          "key": "ncert-hsec:SAN.C1112.PATH",
+          "code": "SAN.C1112.PATH",
+          "data": {
+            "title": "Class XI–XII Sanskrit — Prescribed Text",
+            "subject": "English and Sanskrit (XI–XII)",
+            "class": "XI–XII",
+            "strand": "Sanskrit — Prescribed Text",
+            "description": "One prescribed textbook for each class of about ten lessons, representing the major genres of Sanskrit literature — prose, verse and drama; explanation, contextual interpretation, summary and comprehension of the prescribed passages."
+          }
+        },
+        {
+          "key": "ncert-hsec:SAN.C1112.ITIHASA",
+          "code": "SAN.C1112.ITIHASA",
+          "data": {
+            "title": "Class XI–XII Sanskrit — History of Literature",
+            "subject": "English and Sanskrit (XI–XII)",
+            "class": "XI–XII",
+            "strand": "Sanskrit — History of Literature",
+            "description": "A separate volume on the history of Sanskrit literature covering the various genres of Sanskrit vangmaya together with their principal authors and works, and brief introductions to the authors of the prescribed lessons."
+          }
+        },
+        {
+          "key": "ncert-hsec:SAN.C1112.VYAK",
+          "code": "SAN.C1112.VYAK",
+          "data": {
+            "title": "Class XI–XII Sanskrit — Grammar",
+            "subject": "English and Sanskrit (XI–XII)",
+            "class": "XI–XII",
+            "strand": "Sanskrit — Grammar",
+            "description": "Shabdarupa for vowel-ending nouns in all three genders, pronouns and numerals; dhaturupa for parasmaipada and atmanepada roots across the five lakaras; krit and taddhita suffixes; avyayas; vowel, consonant and visarga sandhi."
+          }
+        },
+        {
+          "key": "ncert-hsec:SAN.C1112.CHAND",
+          "code": "SAN.C1112.CHAND",
+          "data": {
+            "title": "Class XI–XII Sanskrit — Metre and Figures of Speech",
+            "subject": "English and Sanskrit (XI–XII)",
+            "class": "XI–XII",
+            "strand": "Sanskrit — Metre and Figures of Speech",
+            "description": "Chandas — the principal Sanskrit metres and how a verse is scanned; alankara — the figures of speech of Sanskrit poetics and their identification in verse."
+          }
+        },
+        {
+          "key": "ncert-hsec:SAN.C1112.RACH",
+          "code": "SAN.C1112.RACH",
+          "data": {
+            "title": "Class XI–XII Sanskrit — Composition",
+            "subject": "English and Sanskrit (XI–XII)",
+            "class": "XI–XII",
+            "strand": "Sanskrit — Composition",
+            "description": "Translation into Sanskrit with attention to karaka and agreement; letters including applications and letters of greeting; unseen passage comprehension; paragraph writing and picture description on contemporary themes."
           }
         }
       ]

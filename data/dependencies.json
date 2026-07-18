@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4139,
+  "edgeCount": 4269,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -24836,6 +24836,786 @@
       "prerequisiteId": "mt_MxnPJi8Gzk",
       "strength": "hard",
       "reason": "Counselling skills underpin therapeutic practice."
+    },
+    {
+      "topicId": "mt_xhrQCpOD1s",
+      "prerequisiteId": "mt_yhwJMiGuyG",
+      "strength": "hard",
+      "reason": "Choosing a form presupposes knowing what a business is and risks."
+    },
+    {
+      "topicId": "mt_ETIV7J0mYZ",
+      "prerequisiteId": "mt_xhrQCpOD1s",
+      "strength": "hard",
+      "reason": "Company formation is the procedure for one of the forms."
+    },
+    {
+      "topicId": "mt_K6HNJ5Ru7s",
+      "prerequisiteId": "mt_xhrQCpOD1s",
+      "strength": "hard",
+      "reason": "Available sources of finance depend on the form of organisation."
+    },
+    {
+      "topicId": "mt_yhwJMiGuyG",
+      "prerequisiteId": "mt_0CmQMjd6dQ",
+      "strength": "hard",
+      "reason": "Industry and commerce build on sectors of the economy."
+    },
+    {
+      "topicId": "mt_F6e464lhkJ",
+      "prerequisiteId": "mt_yhwJMiGuyG",
+      "strength": "hard",
+      "reason": "Responsibility is argued against the profit objective of business."
+    },
+    {
+      "topicId": "mt_UvxJZFhBOx",
+      "prerequisiteId": "mt_arGfAOoTeI",
+      "strength": "hard",
+      "reason": "Principles presuppose an account of what management is."
+    },
+    {
+      "topicId": "mt_I3GuVtgCjp",
+      "prerequisiteId": "mt_arGfAOoTeI",
+      "strength": "hard",
+      "reason": "Planning is the first function of management."
+    },
+    {
+      "topicId": "mt_nuofz6eTWq",
+      "prerequisiteId": "mt_I3GuVtgCjp",
+      "strength": "hard",
+      "reason": "Organising implements what planning has decided."
+    },
+    {
+      "topicId": "mt_WJEYebqvSi",
+      "prerequisiteId": "mt_nuofz6eTWq",
+      "strength": "hard",
+      "reason": "Staffing fills the structure organising has created."
+    },
+    {
+      "topicId": "mt_BaERlZTotg",
+      "prerequisiteId": "mt_WJEYebqvSi",
+      "strength": "hard",
+      "reason": "Directing works with the people staffing has appointed."
+    },
+    {
+      "topicId": "mt_4xC8IQQYNo",
+      "prerequisiteId": "mt_I3GuVtgCjp",
+      "strength": "hard",
+      "reason": "Control compares performance against the standards set in planning."
+    },
+    {
+      "topicId": "mt_awciBXTf0b",
+      "prerequisiteId": "mt_arGfAOoTeI",
+      "strength": "soft",
+      "reason": "The environment is the context management operates within."
+    },
+    {
+      "topicId": "mt_awciBXTf0b",
+      "prerequisiteId": "mt_gLvCERWvVL",
+      "strength": "soft",
+      "reason": "The economic dimension draws on measures of development."
+    },
+    {
+      "topicId": "mt_RpqPtmY7dX",
+      "prerequisiteId": "mt_K6HNJ5Ru7s",
+      "strength": "hard",
+      "reason": "Capital structure decisions build on the sources of finance."
+    },
+    {
+      "topicId": "mt_TtkpxsWy0R",
+      "prerequisiteId": "mt_RpqPtmY7dX",
+      "strength": "hard",
+      "reason": "Markets are where the financing decision is executed."
+    },
+    {
+      "topicId": "mt_xinSEhDpkF",
+      "prerequisiteId": "mt_a3SPFBAkKh",
+      "strength": "hard",
+      "reason": "Extends consumer rights and protection met at secondary level."
+    },
+    {
+      "topicId": "mt_TjESAIII6g",
+      "prerequisiteId": "mt_jeTXkpY2IU",
+      "strength": "soft",
+      "reason": "Pricing decisions rest on an understanding of demand."
+    },
+    {
+      "topicId": "mt_7R3VtB3air",
+      "prerequisiteId": "mt_yhwJMiGuyG",
+      "strength": "hard",
+      "reason": "Entrepreneurship is the act of starting the business."
+    },
+    {
+      "topicId": "mt_6zH1lZNUsU",
+      "prerequisiteId": "mt_L0Msh4ITcW",
+      "strength": "hard",
+      "reason": "Principles serve the purposes accounting is put to."
+    },
+    {
+      "topicId": "mt_K1NOQxyzTt",
+      "prerequisiteId": "mt_6zH1lZNUsU",
+      "strength": "hard",
+      "reason": "Double entry implements the accounting principles."
+    },
+    {
+      "topicId": "mt_5hImFLHfn7",
+      "prerequisiteId": "mt_K1NOQxyzTt",
+      "strength": "hard",
+      "reason": "Subsidiary books are a refinement of journal and ledger."
+    },
+    {
+      "topicId": "mt_1qwgFzvjDO",
+      "prerequisiteId": "mt_K1NOQxyzTt",
+      "strength": "hard",
+      "reason": "The trial balance is drawn from the ledger."
+    },
+    {
+      "topicId": "mt_p0RjkyWdSQ",
+      "prerequisiteId": "mt_1qwgFzvjDO",
+      "strength": "hard",
+      "reason": "Financial statements are prepared from the trial balance."
+    },
+    {
+      "topicId": "mt_Az7kEVzroL",
+      "prerequisiteId": "mt_p0RjkyWdSQ",
+      "strength": "hard",
+      "reason": "Depreciation is a year-end adjustment in the statements."
+    },
+    {
+      "topicId": "mt_jPiOF7NcVH",
+      "prerequisiteId": "mt_K1NOQxyzTt",
+      "strength": "hard",
+      "reason": "Bill transactions are recorded by double entry."
+    },
+    {
+      "topicId": "mt_tOhx5EDZXF",
+      "prerequisiteId": "mt_p0RjkyWdSQ",
+      "strength": "hard",
+      "reason": "Incomplete records are converted towards proper statements."
+    },
+    {
+      "topicId": "mt_VBV1VhhJHW",
+      "prerequisiteId": "mt_K1NOQxyzTt",
+      "strength": "soft",
+      "reason": "Software automates the same double entry logic."
+    },
+    {
+      "topicId": "mt_aGNfVfsfPt",
+      "prerequisiteId": "mt_p0RjkyWdSQ",
+      "strength": "hard",
+      "reason": "Not-for-profit statements adapt the standard formats."
+    },
+    {
+      "topicId": "mt_VXOFBCSSej",
+      "prerequisiteId": "mt_p0RjkyWdSQ",
+      "strength": "hard",
+      "reason": "Partnership accounts extend proprietorship accounting."
+    },
+    {
+      "topicId": "mt_VXOFBCSSej",
+      "prerequisiteId": "mt_xhrQCpOD1s",
+      "strength": "soft",
+      "reason": "Partnership accounting follows from the partnership form."
+    },
+    {
+      "topicId": "mt_J0GkRxLDu3",
+      "prerequisiteId": "mt_VXOFBCSSej",
+      "strength": "hard",
+      "reason": "Reconstitution changes the arrangement just established."
+    },
+    {
+      "topicId": "mt_UuSGUtjhMN",
+      "prerequisiteId": "mt_J0GkRxLDu3",
+      "strength": "hard",
+      "reason": "Dissolution is the final change to the firm."
+    },
+    {
+      "topicId": "mt_oEs8CRB1hh",
+      "prerequisiteId": "mt_ETIV7J0mYZ",
+      "strength": "hard",
+      "reason": "Share capital accounting follows company formation."
+    },
+    {
+      "topicId": "mt_Fl59DPGF7r",
+      "prerequisiteId": "mt_p0RjkyWdSQ",
+      "strength": "hard",
+      "reason": "Analysis operates on prepared financial statements."
+    },
+    {
+      "topicId": "mt_Zqat28kFZR",
+      "prerequisiteId": "mt_Fl59DPGF7r",
+      "strength": "hard",
+      "reason": "Cash flow completes the analysis of financial position."
+    },
+    {
+      "topicId": "mt_pqYxbsoH6e",
+      "prerequisiteId": "mt_VJBHmAh9Ui",
+      "strength": "hard",
+      "reason": "Tools are applied to data once collected and organised."
+    },
+    {
+      "topicId": "mt_pqYxbsoH6e",
+      "prerequisiteId": "mt_gLvCERWvVL",
+      "strength": "soft",
+      "reason": "Index numbers and averages underpin development indicators."
+    },
+    {
+      "topicId": "mt_l6XJxwdZ4x",
+      "prerequisiteId": "mt_MOhhQz1xTG",
+      "strength": "hard",
+      "reason": "Builds on the Indian economy met at secondary level."
+    },
+    {
+      "topicId": "mt_rqYeEbHAHW",
+      "prerequisiteId": "mt_l6XJxwdZ4x",
+      "strength": "hard",
+      "reason": "The reforms are a response to the planned period."
+    },
+    {
+      "topicId": "mt_rqYeEbHAHW",
+      "prerequisiteId": "mt_LEtOXY2B5P",
+      "strength": "hard",
+      "reason": "Builds on India in the global economy."
+    },
+    {
+      "topicId": "mt_cICVdWiasF",
+      "prerequisiteId": "mt_rqYeEbHAHW",
+      "strength": "hard",
+      "reason": "Current challenges are assessed after the reform period."
+    },
+    {
+      "topicId": "mt_cICVdWiasF",
+      "prerequisiteId": "mt_64hj8wqjvs",
+      "strength": "hard",
+      "reason": "Poverty is one of the persistent challenges analysed."
+    },
+    {
+      "topicId": "mt_OE2VGKifuo",
+      "prerequisiteId": "mt_jeTXkpY2IU",
+      "strength": "hard",
+      "reason": "Formal demand theory builds on demand met at secondary level."
+    },
+    {
+      "topicId": "mt_9yQTwqweRB",
+      "prerequisiteId": "mt_0AwWXAesqm",
+      "strength": "hard",
+      "reason": "Supply theory builds on supply met at secondary level."
+    },
+    {
+      "topicId": "mt_9yQTwqweRB",
+      "prerequisiteId": "mt_yGbS9NpIU8",
+      "strength": "hard",
+      "reason": "The production function formalises the factors of production."
+    },
+    {
+      "topicId": "mt_PNxkRBuPDD",
+      "prerequisiteId": "mt_yWJTq3Oc3r",
+      "strength": "hard",
+      "reason": "Price determination builds on how prices are determined."
+    },
+    {
+      "topicId": "mt_PNxkRBuPDD",
+      "prerequisiteId": "mt_OE2VGKifuo",
+      "strength": "hard",
+      "reason": "Equilibrium requires both demand and supply sides."
+    },
+    {
+      "topicId": "mt_PNxkRBuPDD",
+      "prerequisiteId": "mt_9yQTwqweRB",
+      "strength": "hard",
+      "reason": "Market form is analysed through the producer’s cost conditions."
+    },
+    {
+      "topicId": "mt_RrfCpvr8HO",
+      "prerequisiteId": "mt_0CmQMjd6dQ",
+      "strength": "hard",
+      "reason": "National accounting builds on sectors of the economy."
+    },
+    {
+      "topicId": "mt_Y6NdO8BCnB",
+      "prerequisiteId": "mt_RrfCpvr8HO",
+      "strength": "hard",
+      "reason": "Income determination is expressed in national income terms."
+    },
+    {
+      "topicId": "mt_fROJBHSXYP",
+      "prerequisiteId": "mt_kECFYQuuDI",
+      "strength": "hard",
+      "reason": "Extends money, banking and credit met at secondary level."
+    },
+    {
+      "topicId": "mt_D0HPNFQBEO",
+      "prerequisiteId": "mt_Y6NdO8BCnB",
+      "strength": "hard",
+      "reason": "Fiscal policy acts on aggregate demand."
+    },
+    {
+      "topicId": "mt_H5PHAD5O0f",
+      "prerequisiteId": "mt_RrfCpvr8HO",
+      "strength": "hard",
+      "reason": "External transactions are part of the national accounts."
+    },
+    {
+      "topicId": "mt_H5PHAD5O0f",
+      "prerequisiteId": "mt_fROJBHSXYP",
+      "strength": "soft",
+      "reason": "Exchange rates connect domestic money to foreign currency."
+    },
+    {
+      "topicId": "mt_DfGngupvn5",
+      "prerequisiteId": "mt_EZoPzA2L0d",
+      "strength": "soft",
+      "reason": "Empires build on the emergence of urban and state societies."
+    },
+    {
+      "topicId": "mt_ncpg6CaeRt",
+      "prerequisiteId": "mt_zbTG43f25w",
+      "strength": "soft",
+      "reason": "The Mongol expansion reshaped the central Islamic lands."
+    },
+    {
+      "topicId": "mt_qDcAB4TCW3",
+      "prerequisiteId": "mt_b2x5PAwpWM",
+      "strength": "hard",
+      "reason": "Cultural change is set against the medieval social order."
+    },
+    {
+      "topicId": "mt_GUxjGXkxDe",
+      "prerequisiteId": "mt_qDcAB4TCW3",
+      "strength": "hard",
+      "reason": "European expansion follows the intellectual and technical changes of the period."
+    },
+    {
+      "topicId": "mt_QWi0Eub64r",
+      "prerequisiteId": "mt_GUxjGXkxDe",
+      "strength": "hard",
+      "reason": "Settler dispossession continues the pattern begun with conquest."
+    },
+    {
+      "topicId": "mt_W5wwu4bqK0",
+      "prerequisiteId": "mt_Hgvfb0bikp",
+      "strength": "hard",
+      "reason": "The senior treatment builds on industrialisation in Britain and India."
+    },
+    {
+      "topicId": "mt_Byn9hO7iKi",
+      "prerequisiteId": "mt_W5wwu4bqK0",
+      "strength": "hard",
+      "reason": "East Asian modernisation responds to industrial western power."
+    },
+    {
+      "topicId": "mt_EZjJYc19rf",
+      "prerequisiteId": "mt_dfxFv6seqo",
+      "strength": "soft",
+      "reason": "Both develop the practice of reading a source type critically."
+    },
+    {
+      "topicId": "mt_dfxFv6seqo",
+      "prerequisiteId": "mt_SBHKtfCzu3",
+      "strength": "hard",
+      "reason": "Inscriptions are read against the Maurya empire and Ashoka."
+    },
+    {
+      "topicId": "mt_lHjjHdGaJZ",
+      "prerequisiteId": "mt_jgJMDA0GTY",
+      "strength": "hard",
+      "reason": "Buddhism is placed against the Vedic age."
+    },
+    {
+      "topicId": "mt_qsHSV8rdwD",
+      "prerequisiteId": "mt_fvAz0QwV5b",
+      "strength": "hard",
+      "reason": "Agrarian relations are studied within the Mughal empire."
+    },
+    {
+      "topicId": "mt_vd9itHhZ82",
+      "prerequisiteId": "mt_fvAz0QwV5b",
+      "strength": "hard",
+      "reason": "Court chronicles document the Mughal empire."
+    },
+    {
+      "topicId": "mt_PM0KCYxrLV",
+      "prerequisiteId": "mt_XHIhoA2kfj",
+      "strength": "soft",
+      "reason": "Vijayanagara follows the south Indian kingdoms."
+    },
+    {
+      "topicId": "mt_QyNBjSUmHn",
+      "prerequisiteId": "mt_vd9itHhZ82",
+      "strength": "soft",
+      "reason": "Outsider accounts are contrasted with court chronicles."
+    },
+    {
+      "topicId": "mt_rnZlSxOxfd",
+      "prerequisiteId": "mt_EDtuNRjNdi",
+      "strength": "hard",
+      "reason": "Revenue settlements were made by the East India Company."
+    },
+    {
+      "topicId": "mt_6paN3TBEao",
+      "prerequisiteId": "mt_urJm0eW3GK",
+      "strength": "hard",
+      "reason": "The senior treatment builds on the revolt of 1857."
+    },
+    {
+      "topicId": "mt_0DULw9ivxF",
+      "prerequisiteId": "mt_avqNv6KioH",
+      "strength": "hard",
+      "reason": "Colonial towns extend the study of urbanisation."
+    },
+    {
+      "topicId": "mt_9G6qAKdLsL",
+      "prerequisiteId": "mt_fdcwmJM9aA",
+      "strength": "hard",
+      "reason": "Gandhian politics builds on the civil disobedience movement."
+    },
+    {
+      "topicId": "mt_vqYJIj5UUr",
+      "prerequisiteId": "mt_lJfcDibOG1",
+      "strength": "hard",
+      "reason": "The senior treatment builds on partition and independence."
+    },
+    {
+      "topicId": "mt_c6KzmRPkbX",
+      "prerequisiteId": "mt_vqYJIj5UUr",
+      "strength": "soft",
+      "reason": "The Constitution was framed in the aftermath of partition."
+    },
+    {
+      "topicId": "mt_BLJpYabVQz",
+      "prerequisiteId": "mt_gv_uoHkdjR",
+      "strength": "hard",
+      "reason": "Plate tectonics builds on how tectonic plates move."
+    },
+    {
+      "topicId": "mt_UL3yliEpnY",
+      "prerequisiteId": "mt_NckKLZ3uCE",
+      "strength": "hard",
+      "reason": "Geomorphic processes build on the rock cycle."
+    },
+    {
+      "topicId": "mt_telkpAwPmM",
+      "prerequisiteId": "mt_iYOcfzFqMw",
+      "strength": "hard",
+      "reason": "Atmospheric circulation builds on global wind patterns."
+    },
+    {
+      "topicId": "mt_fMuHAbo1RH",
+      "prerequisiteId": "mt_Mp_CpVK6e-",
+      "strength": "hard",
+      "reason": "Ocean circulation builds on currents and global heat."
+    },
+    {
+      "topicId": "mt_2DtF3iPHDh",
+      "prerequisiteId": "mt_fD1VfjtgyP",
+      "strength": "hard",
+      "reason": "Senior physical geography of India builds on its physiographic divisions."
+    },
+    {
+      "topicId": "mt_2DtF3iPHDh",
+      "prerequisiteId": "mt_pR11CACjaq",
+      "strength": "hard",
+      "reason": "Drainage is treated in more depth at this stage."
+    },
+    {
+      "topicId": "mt_98maGySwL4",
+      "prerequisiteId": "mt_NeX8lPumh2",
+      "strength": "soft",
+      "reason": "Mapping is the discipline’s characteristic technique."
+    },
+    {
+      "topicId": "mt_R2HFh2XirG",
+      "prerequisiteId": "mt_B6Ji0Zf2J4",
+      "strength": "hard",
+      "reason": "World population study builds on composition and migration."
+    },
+    {
+      "topicId": "mt_Yol9DGVCer",
+      "prerequisiteId": "mt_0CmQMjd6dQ",
+      "strength": "hard",
+      "reason": "Classification of activities builds on sectors of the economy."
+    },
+    {
+      "topicId": "mt_R7VcTRMpDW",
+      "prerequisiteId": "mt_TzdumFchh6",
+      "strength": "hard",
+      "reason": "Global trade builds on transport, communication and trade in development."
+    },
+    {
+      "topicId": "mt_B6GdIp18Qa",
+      "prerequisiteId": "mt_R2HFh2XirG",
+      "strength": "hard",
+      "reason": "Settlement patterns follow from population distribution."
+    },
+    {
+      "topicId": "mt_DqVWlnOD0E",
+      "prerequisiteId": "mt_tw2D2QDYvq",
+      "strength": "hard",
+      "reason": "India’s economy builds on its agriculture and cropping patterns."
+    },
+    {
+      "topicId": "mt_DqVWlnOD0E",
+      "prerequisiteId": "mt_GJIjtgZSZP",
+      "strength": "hard",
+      "reason": "Resource development builds on resource classification and planning."
+    },
+    {
+      "topicId": "mt_q0O0KOH3zX",
+      "prerequisiteId": "mt_98maGySwL4",
+      "strength": "hard",
+      "reason": "Thematic mapping builds on map fundamentals."
+    },
+    {
+      "topicId": "mt_ZuJdtA1EKn",
+      "prerequisiteId": "mt_DLCwoOPIc8",
+      "strength": "hard",
+      "reason": "Senior constitutional study builds on the making of the Constitution."
+    },
+    {
+      "topicId": "mt_J6da2ZapXO",
+      "prerequisiteId": "mt_WaAVnaJ3Ne",
+      "strength": "hard",
+      "reason": "Builds on the fundamental rights of citizens."
+    },
+    {
+      "topicId": "mt_pYVpmVkNQE",
+      "prerequisiteId": "mt_i749YJfKX2",
+      "strength": "hard",
+      "reason": "Electoral systems build on how elections are held."
+    },
+    {
+      "topicId": "mt_mbdVjWWkKD",
+      "prerequisiteId": "mt_Pzr7io8maf",
+      "strength": "hard",
+      "reason": "Builds on the legislature and law-making."
+    },
+    {
+      "topicId": "mt_mbdVjWWkKD",
+      "prerequisiteId": "mt_yG7RDMJU9b",
+      "strength": "hard",
+      "reason": "Builds on the executive and running the country."
+    },
+    {
+      "topicId": "mt_bOFA6RKIkA",
+      "prerequisiteId": "mt_g76LnkOJeD",
+      "strength": "hard",
+      "reason": "Builds on the judiciary and the courts."
+    },
+    {
+      "topicId": "mt_Px207pEzXC",
+      "prerequisiteId": "mt_hBf4f826BU",
+      "strength": "hard",
+      "reason": "Senior federalism builds on power sharing and federalism."
+    },
+    {
+      "topicId": "mt_ShckiEBhhI",
+      "prerequisiteId": "mt_ZuJdtA1EKn",
+      "strength": "hard",
+      "reason": "Constitutional change presupposes what a constitution is for."
+    },
+    {
+      "topicId": "mt_lH9rSugxUF",
+      "prerequisiteId": "mt_t1uBA7rr5T",
+      "strength": "hard",
+      "reason": "Political theory builds on the account of democracy."
+    },
+    {
+      "topicId": "mt_9ETtHXiv6E",
+      "prerequisiteId": "mt_lH9rSugxUF",
+      "strength": "hard",
+      "reason": "Justice is argued in terms of liberty and equality."
+    },
+    {
+      "topicId": "mt_Y6nfYkDI9L",
+      "prerequisiteId": "mt_9ETtHXiv6E",
+      "strength": "soft",
+      "reason": "Secularism and nationalism are further political values in the same series."
+    },
+    {
+      "topicId": "mt_JOcTqdHOi5",
+      "prerequisiteId": "mt_lJfcDibOG1",
+      "strength": "hard",
+      "reason": "Nation-building follows partition and independence."
+    },
+    {
+      "topicId": "mt_p6w2yuyZdS",
+      "prerequisiteId": "mt_JOcTqdHOi5",
+      "strength": "hard",
+      "reason": "The crisis follows the era of Congress dominance."
+    },
+    {
+      "topicId": "mt_ehFgYgVyXm",
+      "prerequisiteId": "mt_p6w2yuyZdS",
+      "strength": "hard",
+      "reason": "New forces emerge after the breakdown of the old system."
+    },
+    {
+      "topicId": "mt_ehFgYgVyXm",
+      "prerequisiteId": "mt_VrT09BUGOv",
+      "strength": "hard",
+      "reason": "Builds on social movements and democratic struggle."
+    },
+    {
+      "topicId": "mt_Rb1GeLKNDg",
+      "prerequisiteId": "mt_FroXZca3Qp",
+      "strength": "hard",
+      "reason": "Unipolarity follows the collapse of bipolarity."
+    },
+    {
+      "topicId": "mt_xYCpkfK1Eu",
+      "prerequisiteId": "mt_Rb1GeLKNDg",
+      "strength": "hard",
+      "reason": "Global issues are contested within the post-Cold War order."
+    },
+    {
+      "topicId": "mt_FroXZca3Qp",
+      "prerequisiteId": "mt_mUDHsziRvs",
+      "strength": "hard",
+      "reason": "The Cold War follows the world wars and decolonisation."
+    },
+    {
+      "topicId": "mt_BAZzcDukTZ",
+      "prerequisiteId": "mt_DVSHx3YMkN",
+      "strength": "hard",
+      "reason": "Critical appreciation builds on recognising literary devices."
+    },
+    {
+      "topicId": "mt_BAZzcDukTZ",
+      "prerequisiteId": "mt_dmFnJzxKwz",
+      "strength": "hard",
+      "reason": "An argued reading depends on using textual evidence."
+    },
+    {
+      "topicId": "mt_FGvziGUANc",
+      "prerequisiteId": "mt_tIi6L1n7kF",
+      "strength": "hard",
+      "reason": "Builds on understanding drama and performance."
+    },
+    {
+      "topicId": "mt_FGvziGUANc",
+      "prerequisiteId": "mt_BAZzcDukTZ",
+      "strength": "hard",
+      "reason": "Sustained reading of a long work applies critical appreciation."
+    },
+    {
+      "topicId": "mt_9qlNt1mKl7",
+      "prerequisiteId": "mt_Qxyikkkzam",
+      "strength": "hard",
+      "reason": "Extended argument builds on persuasive writing."
+    },
+    {
+      "topicId": "mt_9qlNt1mKl7",
+      "prerequisiteId": "mt_tn1rY9GbEZ",
+      "strength": "hard",
+      "reason": "A long piece depends on cohesion across paragraphs."
+    },
+    {
+      "topicId": "mt_JrjlqetaRr",
+      "prerequisiteId": "mt_ctlZpQx3Wd",
+      "strength": "soft",
+      "reason": "Phonological control supports speaking in formal settings."
+    },
+    {
+      "topicId": "mt_l5tFDkePm6",
+      "prerequisiteId": "mt_IGrGGt7lKf",
+      "strength": "hard",
+      "reason": "Professional forms build on functional writing."
+    },
+    {
+      "topicId": "mt_l5tFDkePm6",
+      "prerequisiteId": "mt_9qlNt1mKl7",
+      "strength": "soft",
+      "reason": "Reports and proposals sustain argument at length."
+    },
+    {
+      "topicId": "mt_REzBTIzMQK",
+      "prerequisiteId": "mt_FfhuGCif9n",
+      "strength": "hard",
+      "reason": "Literary history builds on the genres of kavya."
+    },
+    {
+      "topicId": "mt_REzBTIzMQK",
+      "prerequisiteId": "mt_gv6rIiSwds",
+      "strength": "hard",
+      "reason": "Placing works in tradition builds on what kavya is."
+    },
+    {
+      "topicId": "mt_5GNdpf0UfG",
+      "prerequisiteId": "mt_GHG799MyNB",
+      "strength": "hard",
+      "reason": "Scanning a verse builds on reciting Sanskrit correctly."
+    },
+    {
+      "topicId": "mt_ETYnhPX4di",
+      "prerequisiteId": "mt_gv6rIiSwds",
+      "strength": "hard",
+      "reason": "Figures of speech are the ornaments kavya is defined by."
+    },
+    {
+      "topicId": "mt_ETYnhPX4di",
+      "prerequisiteId": "mt_5GNdpf0UfG",
+      "strength": "soft",
+      "reason": "Metre and figure are the two formal systems of Sanskrit poetics."
+    },
+    {
+      "topicId": "mt_BYHEPQZS6E",
+      "prerequisiteId": "mt_Psun-u_lPf",
+      "strength": "hard",
+      "reason": "Units and dimensions formalise accurate measurement met earlier."
+    },
+    {
+      "topicId": "mt_4YpQduN0f6",
+      "prerequisiteId": "mt_BYHEPQZS6E",
+      "strength": "hard",
+      "reason": "Reporting a measurement presupposes its units and dimensions."
+    },
+    {
+      "topicId": "mt_t3g9uQ1xav",
+      "prerequisiteId": "mt_4YpQduN0f6",
+      "strength": "soft",
+      "reason": "Quantitative motion work depends on measuring and reporting properly."
+    },
+    {
+      "topicId": "mt_OCNhs90RTz",
+      "prerequisiteId": "mt_yhwJMiGuyG",
+      "strength": "hard",
+      "reason": "Business services are defined by the trade they support."
+    },
+    {
+      "topicId": "mt_l2oleqVhFm",
+      "prerequisiteId": "mt_xhrQCpOD1s",
+      "strength": "hard",
+      "reason": "Small enterprise is usually organised in the simpler forms."
+    },
+    {
+      "topicId": "mt_6kGqqDk0LX",
+      "prerequisiteId": "mt_yhwJMiGuyG",
+      "strength": "hard",
+      "reason": "Internal trade is the commerce half of business activity."
+    },
+    {
+      "topicId": "mt_tsXSrLXJ5S",
+      "prerequisiteId": "mt_6kGqqDk0LX",
+      "strength": "hard",
+      "reason": "Trading abroad extends the machinery of domestic trade."
+    },
+    {
+      "topicId": "mt_tsXSrLXJ5S",
+      "prerequisiteId": "mt_LEtOXY2B5P",
+      "strength": "soft",
+      "reason": "International business operates within India in the global economy."
+    },
+    {
+      "topicId": "mt_FWz7QDywm4",
+      "prerequisiteId": "mt_bb0jFtGNVG",
+      "strength": "hard",
+      "reason": "Devotional movements are studied within medieval Indian society."
+    },
+    {
+      "topicId": "mt_Aq9deJzI4a",
+      "prerequisiteId": "mt_NeX8lPumh2",
+      "strength": "hard",
+      "reason": "Human geography is one branch of the wider discipline."
     }
   ]
 }

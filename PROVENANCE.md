@@ -41,6 +41,14 @@ For encumbered sources we ship only the **standard code** (e.g. `1-ESS1-1`) and 
 - **OCR:** the Hindi and Sanskrit documents use non-Unicode legacy Devanagari fonts, so their content was recovered by OCR of pages rendered at 300 DPI (tesseract `hin`/`san`) and cross-checked against the page images. The Urdu document is image-only and was not integrated.
 - These summary records are Marble-authored (CC BY-SA 4.0); the NCERT syllabus itself remains © NCERT. Obtain NCERT permission before shipping any verbatim syllabus text.
 
+### 🔴 `ncert-hsec` — NCERT Syllabus for Higher Secondary Classes XI–XII, NCF 2005 (India) — **Marble summaries only, no NCERT text**
+- **Publisher / rights:** National Council of Educational Research and Training (NCERT), India — the same rights posture as `ncert-elem` and `ncert-sec`: NCERT's [copyright policy](https://osre.ncert.gov.in/copyright-policy) prohibits reproduction of its content without permission, and its [e-content license](https://epathshala.nic.in/pages.php?id=license&ln=en) bars adaptation or summarisation of NCERT text without written permission.
+- **What we ship:** minted codes (class × unit) plus **Marble-authored one-line factual descriptions** of what each unit covers — facts about the curriculum, not NCERT's expression. No NCERT text is reproduced.
+- **Source:** Volume II of the syllabus at [ncert.nic.in/syllabus.php](https://ncert.nic.in/syllabus.php), distributed as `vol2_hsl.zip`, the same volume as `ncert-sec`.
+- **Scope:** Classes XI–XII, covering Physics, Chemistry, Biology, Mathematics, Sociology, Psychology, Business Studies, Accountancy, Economics, History, Geography, Political Science, English and Sanskrit. This is the pass that raised the dataset's age ceiling from 16 to 18.
+- **OCR:** the Sanskrit XI–XII document uses non-Unicode legacy Devanagari fonts and was recovered by OCR of pages rendered at 300 DPI (tesseract `san`/`hin`), cross-checked against the page images. The Urdu document is image-only and remains un-integrated.
+- These summary records are Marble-authored (CC BY-SA 4.0); the NCERT syllabus itself remains © NCERT. Obtain NCERT permission before shipping any verbatim syllabus text.
+
 ### 🟡 `ccss-ela`, `ccss-math` — Common Core State Standards — **full text**
 - **Publisher / rights:** © 2010 National Governors Association Center for Best Practices (NGA Center) and Council of Chief State School Officers (CCSSO).
 - **License:** the CCSS Public License grants *"a limited, non-exclusive, royalty-free license to copy, publish, distribute, and display the Common Core State Standards **for purposes that support the Common Core State Standards Initiative**."* This is **purpose-limited**, and it does **not** clearly grant derivative-work or sublicensing rights — so the CCSS-derived records remain under the CCSS Public License, **not** ODbL.

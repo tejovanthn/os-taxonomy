@@ -15,33 +15,37 @@ Every dot is a micro-topic, colored by subject; height is age; each thread is a 
 
 Most curriculum data is either a flat list of standards or locked inside a product. This dataset is a **connected graph of learning**:
 
-- **2,100 micro-topics** — a single, teachable idea (e.g. *"Building sentences"*, *"Apparent brightness of stars"*), each with a plain-language description, mastery **evidence** criteria, a type (conceptual / procedural / representational / language / meta), a subject + domain, and an approximate age range.
-- **3,847 prerequisite dependencies** — a directed acyclic graph: *"topic X depends on prerequisite Y"*, each edge tagged `hard`/`soft` and carrying a one-line **reason**.
-- **Curriculum alignment** — each micro-topic links to the standards it was distilled from (NGSS, Common Core, the UK National Curriculum, India's NIOS Open Basic Education and Secondary curricula, the NCERT elementary and secondary syllabi, graded music & dance examinations, and more).
-- **Domain clusters** — 319 parent-friendly one-paragraph summaries per (subject, domain, age band).
+- **2,444 micro-topics** — a single, teachable idea (e.g. *"Building sentences"*, *"Apparent brightness of stars"*), each with a plain-language description, mastery **evidence** criteria, a type (conceptual / procedural / representational / language / meta), a subject + domain, and an approximate age range.
+- **4,269 prerequisite dependencies** — a directed acyclic graph: *"topic X depends on prerequisite Y"*, each edge tagged `hard`/`soft` and carrying a one-line **reason**.
+- **Curriculum alignment** — each micro-topic links to the standards it was distilled from (NGSS, Common Core, the UK National Curriculum, India's NIOS Open Basic Education and Secondary curricula, the NCERT elementary, secondary and higher-secondary syllabi, graded music & dance examinations, and more).
+- **Domain clusters** — 342 parent-friendly one-paragraph summaries per (subject, domain, age band).
 
 ### Subjects
 
 | Subject | Topics |
 |---|---:|
 | Science | 576 |
-| Mathematics | 533 |
-| English | 289 |
-| History | 168 |
+| Mathematics | 567 |
+| English | 294 |
+| History | 192 |
+| Social Studies | 113 |
 | Personal & Social Development | 88 |
-| Social Studies | 83 |
 | Music | 49 |
-| Sanskrit | 40 |
+| Physics | 49 |
+| Chemistry | 46 |
+| Psychology | 46 |
+| Sanskrit | 43 |
+| Biology | 41 |
+| Business Studies | 39 |
 | Computing | 39 |
 | Life Skills | 37 |
+| Sociology | 35 |
+| Accountancy | 31 |
+| Economics | 30 |
 | Indian Culture & Heritage | 29 |
 | Dance | 26 |
-| Psychology | 21 |
 | Hindi | 20 |
 | Learning to Learn | 18 |
-| Business Studies | 17 |
-| Economics | 17 |
-| Accountancy | 14 |
 | Home Science | 9 |
 | Tamil | 8 |
 | Visual Arts | 8 |

@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-07-18T17:17:00.193Z",
+  "generatedAt": "2026-07-18T17:31:47.992Z",
   "codesOnlySources": [
     "c3-social-studies",
     "ib-pyp-pspe",
@@ -9,18 +9,18 @@
     "ngss-ms"
   ],
   "counts": {
-    "topics": 2330,
+    "topics": 2444,
     "topicsBySubject": {
-      "Accountancy": 14,
+      "Accountancy": 31,
       "Biology": 41,
-      "Business Studies": 17,
+      "Business Studies": 39,
       "Chemistry": 46,
       "Computing": 39,
       "Dance": 26,
-      "Economics": 17,
-      "English": 289,
+      "Economics": 30,
+      "English": 294,
       "Hindi": 20,
-      "History": 168,
+      "History": 192,
       "Home Science": 9,
       "Indian Culture & Heritage": 29,
       "Kannada": 6,
@@ -31,36 +31,36 @@
       "Personal & Social Development": 88,
       "Physics": 49,
       "Psychology": 46,
-      "Sanskrit": 40,
+      "Sanskrit": 43,
       "Science": 576,
-      "Social Studies": 83,
+      "Social Studies": 113,
       "Sociology": 35,
       "Tamil": 8,
       "Telugu": 5,
       "Visual Arts": 8
     },
-    "dependencies": 4139,
+    "dependencies": 4269,
     "curricula": 15,
-    "curriculumStandards": 4154,
-    "topicStandardLinks": 3714,
-    "clusters": 336
+    "curriculumStandards": 4253,
+    "topicStandardLinks": 3862,
+    "clusters": 342
   },
   "files": {
     "topics.json": {
-      "bytes": 2350201,
-      "sha256": "3dbd2b7dcbde0f565f9fede46da8137186d21b60de9affdb16f77ec3c7b8f8eb"
+      "bytes": 2449870,
+      "sha256": "bd3dd8ac731b97796d7c1acd15cd0287ebbed9a5963601c7551e85c7d1d6b2c2"
     },
     "dependencies.json": {
-      "bytes": 869573,
-      "sha256": "de9f97edb64ff8394e6124452383bf87b76d79d623609bb614578714525186dc"
+      "bytes": 894063,
+      "sha256": "4ab16bb009288c048269d75c142e31edb442d80396c6e03f2efa4be648dd7b61"
     },
     "curriculum-standards.json": {
-      "bytes": 2069420,
-      "sha256": "20a08373df00b6b83b49255de32f813e7f723485e1ed1efa74693b7e376d56c5"
+      "bytes": 2123936,
+      "sha256": "f691f7a558581b0ce7e8335d41c5d947ac0e46cc9a3e47af7b4fdf141d252cf5"
     },
     "clusters.json": {
-      "bytes": 110632,
-      "sha256": "c3cf1da0c1adbe14b0aef49a310a90a1b3bd1c56e0f79d7abd0298fcf3af8c33"
+      "bytes": 114515,
+      "sha256": "f208f80c414871750fc33d134a083143de9e193e9187af0275b495aaa7231ef5"
     }
   },
   "excluded": [
