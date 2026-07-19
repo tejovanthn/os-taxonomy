@@ -47777,26 +47777,6 @@
       ]
     },
     {
-      "id": "mt_Az7kEVzroL",
-      "type": "PROCEDURAL",
-      "subject": "Accountancy",
-      "domain": "Financial Statements",
-      "name": "Depreciation, Provisions and Reserves",
-      "description": "Understand depreciation as spreading an asset’s cost over its useful life, compute it by the standard methods, and distinguish a provision from a reserve.",
-      "ageRangeStart": 16,
-      "ageRangeEnd": 17,
-      "centrality": null,
-      "evidence": [
-        "Computes depreciation by the straight line and written down value methods",
-        "Explains why depreciation is charged even in a loss-making year",
-        "Distinguishes a provision from a reserve"
-      ],
-      "assessmentPrompt": "Ask {{name}} why a machine bought once is treated as a cost in every year that follows.",
-      "standards": [
-        "ncert-hsec:ACC.C11.U5"
-      ]
-    },
-    {
       "id": "mt_jPiOF7NcVH",
       "type": "PROCEDURAL",
       "subject": "Accountancy",
@@ -49580,6 +49560,26 @@
       "assessmentPrompt": "Ask {{name}} what a firm has to arrange to sell abroad that it never needs when selling at home.",
       "standards": [
         "ncert-hsec:BST.C11.U11"
+      ]
+    },
+    {
+      "id": "mt_Az7kEVzroL",
+      "type": "PROCEDURAL",
+      "subject": "Accountancy",
+      "domain": "Financial Statements",
+      "name": "Depreciation Methods, Provisions and Reserves",
+      "description": "Understand depreciation as spreading an asset’s cost over its useful life, compute it by the standard methods, and distinguish a provision from a reserve.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Computes depreciation by the straight line and written down value methods",
+        "Explains why depreciation is charged even in a loss-making year",
+        "Distinguishes a provision from a reserve"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a machine bought once is treated as a cost in every year that follows.",
+      "standards": [
+        "ncert-hsec:ACC.C11.U5"
       ]
     }
   ]

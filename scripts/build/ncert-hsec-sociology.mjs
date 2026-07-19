@@ -226,6 +226,7 @@ const newEdges = [
   { t: 'soc-social-control', p: 'soc-status-role', strength: 'hard', reason: 'Control enforces the expectations attached to roles.' },
   { t: 'soc-family-kinship', p: 'soc-social-groups', strength: 'hard', reason: 'The family is the primary group par excellence.' },
   { t: 'soc-family-kinship', p: 'mt_Lkc7l7OvTP', strength: 'hard', reason: 'Kinship analysis builds on kinship and relatives met at primary level.' },
+  { t: 'soc-political-economic-institutions', p: 'soc-social-groups', strength: 'hard', reason: 'Institutions are the durable arrangements groups organise into.' },
   { t: 'soc-religion-institution', p: 'soc-political-economic-institutions', strength: 'soft', reason: 'Religion is analysed alongside other institutions.' },
   { t: 'soc-education-institution', p: 'soc-stratification', strength: 'hard', reason: 'Education is examined for how it reproduces or reduces inequality.' },
   { t: 'soc-culture-values-norms', p: 'soc-what-sociology-studies', strength: 'hard', reason: 'Culture is a core sociological concept.' },

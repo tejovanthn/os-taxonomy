@@ -233,6 +233,8 @@ const newEdges = [
   { t: 'areas-same-base-parallels', p: 'mt_ML5t7n2-U8', strength: 'hard', reason: 'The equal-area theorem builds on computing areas of triangles and parallelograms.' },
   { t: 'herons-formula', p: 'areas-same-base-parallels', strength: 'soft', reason: 'Both extend how the area of a triangle can be found.' },
   { t: 'cumulative-frequency-ogive', p: 'mt_dbsLUDDBRW', strength: 'hard', reason: 'The ogive is a way of locating the median in grouped data.' },
+  { t: 'proof-conjecture-counterexample', p: 'mt_j5YqQnN6xe', strength: 'hard', reason: 'Formal proof builds on constructing mathematical arguments.' },
+  { t: 'mathematical-modelling', p: 'mt_yqZiX6vS7D', strength: 'hard', reason: 'Builds on real-world mathematical modelling met earlier.' },
   { t: 'mathematical-modelling', p: 'proof-conjecture-counterexample', strength: 'soft', reason: 'Both concern how mathematical claims are justified and tested.' },
   { t: 'euclid-axioms-postulates', p: 'mt_J03RFlVdas', strength: 'soft', reason: 'Angle results in triangles are among the first theorems proved from postulates.' },
 ];

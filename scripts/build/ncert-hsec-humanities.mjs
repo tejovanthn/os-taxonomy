@@ -344,6 +344,15 @@ const newTopics = [
 ];
 
 const newEdges = [
+  // Anchors into the pre-existing ladders, so the XI–XII chains are reachable.
+  { t: 'his-early-humans-cities', p: 'mt_9UT0aF8Fmn', strength: 'soft', reason: 'Early urban life is compared with the Indus Valley civilisation.' },
+  { t: 'his-three-orders', p: 'mt_bjlY5TE1y-', strength: 'hard', reason: 'The three orders formalise the medieval pyramid of power.' },
+  { t: 'his-changing-cultural-traditions', p: 'mt_rf23aL6KwH', strength: 'hard', reason: 'Builds on the printing press and the Renaissance.' },
+  { t: 'his-central-islamic-lands', p: 'mt_Zy-CKUkq34', strength: 'soft', reason: 'The Crusades are the point of contact met earlier.' },
+  { t: 'his-industrial-revolution', p: 'mt_UMOjbmLcbM', strength: 'soft', reason: 'Industrial growth builds on medieval towns and trade.' },
+  { t: 'geo-discipline-scope', p: 'mt_zniDXv3Ko3', strength: 'soft', reason: 'The discipline is introduced through India’s physical features and climate.' },
+  { t: 'geo-maps-projections', p: 'mt_1badik7iKJ', strength: 'hard', reason: 'Map scale builds on scale and similar shapes in mathematics.' },
+  { t: 'geo-maps-projections', p: 'mt_1zM5tBMqRF', strength: 'soft', reason: 'Map reading builds on locating states and union territories.' },
   { t: 'his-bhakti-sufi-traditions', p: 'mt_bb0jFtGNVG', strength: 'hard', reason: 'Devotional movements are studied within medieval Indian society.' },
   { t: 'geo-human-geography-scope', p: 'geo-discipline-scope', strength: 'hard', reason: 'Human geography is one branch of the wider discipline.' },
   { t: 'his-roman-empire', p: 'his-early-humans-cities', strength: 'soft', reason: 'Empires build on the emergence of urban and state societies.' },

@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4269,
+  "edgeCount": 4330,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -25616,6 +25616,372 @@
       "prerequisiteId": "mt_NeX8lPumh2",
       "strength": "hard",
       "reason": "Human geography is one branch of the wider discipline."
+    },
+    {
+      "topicId": "mt_wmnNEDR2L3",
+      "prerequisiteId": "mt_eb0LkMn5pS",
+      "strength": "hard",
+      "reason": "The senior account of the discipline builds on what psychology is."
+    },
+    {
+      "topicId": "mt_UUC1B6rv5W",
+      "prerequisiteId": "mt_wtGQ9BAl7b",
+      "strength": "hard",
+      "reason": "Formal methods build on how psychologists study behaviour."
+    },
+    {
+      "topicId": "mt_ntST0A5T4f",
+      "prerequisiteId": "mt_8AjBHDBMFM",
+      "strength": "hard",
+      "reason": "The life-span view extends development in childhood."
+    },
+    {
+      "topicId": "mt_c3ARSwTYib",
+      "prerequisiteId": "mt_OZqdlmbiFe",
+      "strength": "hard",
+      "reason": "Builds on attention and perception met earlier."
+    },
+    {
+      "topicId": "mt_PZWQJWJpGD",
+      "prerequisiteId": "mt_8bRzLS9tVP",
+      "strength": "hard",
+      "reason": "Builds on conditioning met at secondary level."
+    },
+    {
+      "topicId": "mt_35hrRlgjSd",
+      "prerequisiteId": "mt_0QQhTHgVc5",
+      "strength": "hard",
+      "reason": "Builds on memory and forgetting met earlier."
+    },
+    {
+      "topicId": "mt_GCT1wHTTxa",
+      "prerequisiteId": "mt_VrnFD18Is4",
+      "strength": "hard",
+      "reason": "Builds on thinking and problem solving met earlier."
+    },
+    {
+      "topicId": "mt_tIn5s9aMbZ",
+      "prerequisiteId": "mt_nNepUo1rKW",
+      "strength": "hard",
+      "reason": "Builds on what drives behaviour met earlier."
+    },
+    {
+      "topicId": "mt_hyJ37Ly0MM",
+      "prerequisiteId": "mt_Hhu37V8kMQ",
+      "strength": "hard",
+      "reason": "Theories of intelligence formalise individual differences."
+    },
+    {
+      "topicId": "mt_UWAM23lVXu",
+      "prerequisiteId": "mt_dQu4pnFou2",
+      "strength": "hard",
+      "reason": "Builds on aptitude and interests met earlier."
+    },
+    {
+      "topicId": "mt_9gHf2Eh3aq",
+      "prerequisiteId": "mt_zfBltmjNYW",
+      "strength": "hard",
+      "reason": "Coping and well-being build on happiness and well-being."
+    },
+    {
+      "topicId": "mt_egPukwV209",
+      "prerequisiteId": "mt_eelhTx8MYA",
+      "strength": "hard",
+      "reason": "Builds on mental disorders and their treatment."
+    },
+    {
+      "topicId": "mt_MxnPJi8Gzk",
+      "prerequisiteId": "mt_eelhTx8MYA",
+      "strength": "hard",
+      "reason": "Therapy is treated in more depth than at secondary level."
+    },
+    {
+      "topicId": "mt_x7sgXfvwpQ",
+      "prerequisiteId": "mt_QVye0kDXCQ",
+      "strength": "hard",
+      "reason": "Builds on attitudes and social cognition met earlier."
+    },
+    {
+      "topicId": "mt_cU4PxHUXuq",
+      "prerequisiteId": "mt_QVye0kDXCQ",
+      "strength": "hard",
+      "reason": "Attribution extends social cognition met earlier."
+    },
+    {
+      "topicId": "mt_8TKaIliclO",
+      "prerequisiteId": "mt_eeWI9vjrHu",
+      "strength": "hard",
+      "reason": "Builds on the psychology of social problems."
+    },
+    {
+      "topicId": "mt_zb0DiAhZVr",
+      "prerequisiteId": "mt_vAz3nalEus",
+      "strength": "hard",
+      "reason": "Practical skills build on psychology at work."
+    },
+    {
+      "topicId": "mt_yhwJMiGuyG",
+      "prerequisiteId": "mt_3owJnUWaIX",
+      "strength": "hard",
+      "reason": "Builds on the nature and scope of business met at secondary level."
+    },
+    {
+      "topicId": "mt_yhwJMiGuyG",
+      "prerequisiteId": "mt_eYQngys1jt",
+      "strength": "hard",
+      "reason": "The industry/commerce split is met at secondary level."
+    },
+    {
+      "topicId": "mt_xhrQCpOD1s",
+      "prerequisiteId": "mt_8sHypB46Dk",
+      "strength": "hard",
+      "reason": "Builds on sole proprietorship and partnership."
+    },
+    {
+      "topicId": "mt_xhrQCpOD1s",
+      "prerequisiteId": "mt_aCpvoRDicq",
+      "strength": "hard",
+      "reason": "Builds on companies and cooperative societies."
+    },
+    {
+      "topicId": "mt_OCNhs90RTz",
+      "prerequisiteId": "mt_eVmoQ0ehxD",
+      "strength": "hard",
+      "reason": "Builds on banking and insurance services."
+    },
+    {
+      "topicId": "mt_OCNhs90RTz",
+      "prerequisiteId": "mt_wEUSyJgmpN",
+      "strength": "hard",
+      "reason": "Emerging modes build on outsourcing met earlier."
+    },
+    {
+      "topicId": "mt_6kGqqDk0LX",
+      "prerequisiteId": "mt_rrIgP4C7CL",
+      "strength": "hard",
+      "reason": "Builds on trade and channels of distribution."
+    },
+    {
+      "topicId": "mt_6kGqqDk0LX",
+      "prerequisiteId": "mt_B6PvJm1RfI",
+      "strength": "hard",
+      "reason": "Builds on retail trade met at secondary level."
+    },
+    {
+      "topicId": "mt_TjESAIII6g",
+      "prerequisiteId": "mt_zktxQfAlGz",
+      "strength": "hard",
+      "reason": "The promotion element builds on advertising and sales promotion."
+    },
+    {
+      "topicId": "mt_xinSEhDpkF",
+      "prerequisiteId": "mt_EfWu4E0RSk",
+      "strength": "hard",
+      "reason": "Builds on consumer rights and protection met earlier."
+    },
+    {
+      "topicId": "mt_L0Msh4ITcW",
+      "prerequisiteId": "mt_QdbA9aVFHY",
+      "strength": "hard",
+      "reason": "Builds on the introduction to accounting met at secondary level."
+    },
+    {
+      "topicId": "mt_6zH1lZNUsU",
+      "prerequisiteId": "mt_tSUsQ5vBWy",
+      "strength": "hard",
+      "reason": "Builds on accounting concepts and conventions."
+    },
+    {
+      "topicId": "mt_K1NOQxyzTt",
+      "prerequisiteId": "mt_rY0Mmwc33D",
+      "strength": "hard",
+      "reason": "Builds on double-entry and the journal."
+    },
+    {
+      "topicId": "mt_K1NOQxyzTt",
+      "prerequisiteId": "mt_bftlNTHBaU",
+      "strength": "hard",
+      "reason": "Builds on the ledger met at secondary level."
+    },
+    {
+      "topicId": "mt_5hImFLHfn7",
+      "prerequisiteId": "mt_RWyadkjKwT",
+      "strength": "hard",
+      "reason": "Builds on the cash book and subsidiary books."
+    },
+    {
+      "topicId": "mt_1qwgFzvjDO",
+      "prerequisiteId": "mt_j6XjDjtXwP",
+      "strength": "hard",
+      "reason": "Builds on the trial balance and errors met earlier."
+    },
+    {
+      "topicId": "mt_Az7kEVzroL",
+      "prerequisiteId": "mt_XGxXu2w2Xr",
+      "strength": "hard",
+      "reason": "Computing depreciation builds on knowing what it is."
+    },
+    {
+      "topicId": "mt_p0RjkyWdSQ",
+      "prerequisiteId": "mt_bcFSGgBMN4",
+      "strength": "hard",
+      "reason": "Builds on financial statements met at secondary level."
+    },
+    {
+      "topicId": "mt_VBV1VhhJHW",
+      "prerequisiteId": "mt_yzsAqUCSMO",
+      "strength": "hard",
+      "reason": "Builds on computerised accounting met at secondary level."
+    },
+    {
+      "topicId": "mt_VJBHmAh9Ui",
+      "prerequisiteId": "mt_zrGl2FRuhh",
+      "strength": "hard",
+      "reason": "Statistics for economics presupposes what economics studies."
+    },
+    {
+      "topicId": "mt_H5PHAD5O0f",
+      "prerequisiteId": "mt_LEtOXY2B5P",
+      "strength": "hard",
+      "reason": "External accounts build on India in the global economy."
+    },
+    {
+      "topicId": "mt_1neoheA9rz",
+      "prerequisiteId": "mt_bjlY5TE1y-",
+      "strength": "hard",
+      "reason": "The estates of the ancien régime descend from the medieval pyramid of power."
+    },
+    {
+      "topicId": "mt_ANNEemZejo",
+      "prerequisiteId": "mt_7P4EsEbQpI",
+      "strength": "soft",
+      "reason": "Sits within the broad account of revolutions and the modern age."
+    },
+    {
+      "topicId": "mt_lzYEu83lEc",
+      "prerequisiteId": "mt_eosO26KE-Z",
+      "strength": "soft",
+      "reason": "Pastoral societies are among the medieval worlds beyond Europe."
+    },
+    {
+      "topicId": "mt_dBWSFQysss",
+      "prerequisiteId": "mt_gM1adZDGIy",
+      "strength": "hard",
+      "reason": "Cricket spread through British rule in India."
+    },
+    {
+      "topicId": "mt_IgoyHitw8p",
+      "prerequisiteId": "mt_gM1adZDGIy",
+      "strength": "hard",
+      "reason": "Debates over dress arose under British rule in India."
+    },
+    {
+      "topicId": "mt_IgoyHitw8p",
+      "prerequisiteId": "mt_R1xLS1c2Pg",
+      "strength": "soft",
+      "reason": "Builds on the idea that clothing has a history."
+    },
+    {
+      "topicId": "mt_Hgvfb0bikp",
+      "prerequisiteId": "mt_ZCwHKy4rEZ",
+      "strength": "hard",
+      "reason": "Industrialisation is studied against British rule and India’s economy."
+    },
+    {
+      "topicId": "mt_8MN7mTlTg3",
+      "prerequisiteId": "mt_rf23aL6KwH",
+      "strength": "hard",
+      "reason": "Print culture builds on the printing press and the Renaissance."
+    },
+    {
+      "topicId": "mt_evxFOvZkHE",
+      "prerequisiteId": "mt_j5YqQnN6xe",
+      "strength": "hard",
+      "reason": "Formal proof builds on constructing mathematical arguments."
+    },
+    {
+      "topicId": "mt_eBpdA81Td1",
+      "prerequisiteId": "mt_yqZiX6vS7D",
+      "strength": "hard",
+      "reason": "Builds on real-world mathematical modelling met earlier."
+    },
+    {
+      "topicId": "mt_EZoPzA2L0d",
+      "prerequisiteId": "mt_9UT0aF8Fmn",
+      "strength": "soft",
+      "reason": "Early urban life is compared with the Indus Valley civilisation."
+    },
+    {
+      "topicId": "mt_b2x5PAwpWM",
+      "prerequisiteId": "mt_bjlY5TE1y-",
+      "strength": "hard",
+      "reason": "The three orders formalise the medieval pyramid of power."
+    },
+    {
+      "topicId": "mt_qDcAB4TCW3",
+      "prerequisiteId": "mt_rf23aL6KwH",
+      "strength": "hard",
+      "reason": "Builds on the printing press and the Renaissance."
+    },
+    {
+      "topicId": "mt_zbTG43f25w",
+      "prerequisiteId": "mt_Zy-CKUkq34",
+      "strength": "soft",
+      "reason": "The Crusades are the point of contact met earlier."
+    },
+    {
+      "topicId": "mt_W5wwu4bqK0",
+      "prerequisiteId": "mt_UMOjbmLcbM",
+      "strength": "soft",
+      "reason": "Industrial growth builds on medieval towns and trade."
+    },
+    {
+      "topicId": "mt_NeX8lPumh2",
+      "prerequisiteId": "mt_zniDXv3Ko3",
+      "strength": "soft",
+      "reason": "The discipline is introduced through India’s physical features and climate."
+    },
+    {
+      "topicId": "mt_98maGySwL4",
+      "prerequisiteId": "mt_1badik7iKJ",
+      "strength": "hard",
+      "reason": "Map scale builds on scale and similar shapes in mathematics."
+    },
+    {
+      "topicId": "mt_98maGySwL4",
+      "prerequisiteId": "mt_1zM5tBMqRF",
+      "strength": "soft",
+      "reason": "Map reading builds on locating states and union territories."
+    },
+    {
+      "topicId": "mt_D4yJOQ2TNi",
+      "prerequisiteId": "mt_wkuoeBbgZx",
+      "strength": "hard",
+      "reason": "Centre-of-mass motion is derived from conservation of momentum."
+    },
+    {
+      "topicId": "mt_C7TmnFPBLy",
+      "prerequisiteId": "mt_cYvwc8SLXA",
+      "strength": "hard",
+      "reason": "Institutions are the durable arrangements groups organise into."
+    },
+    {
+      "topicId": "mt_eAR1bCJrgZ",
+      "prerequisiteId": "mt_tnTFGNc7K0",
+      "strength": "soft",
+      "reason": "Reading comprehension builds on listening with understanding."
+    },
+    {
+      "topicId": "mt_GCzEZC1EPI",
+      "prerequisiteId": "mt_DeKlOUf7Hi",
+      "strength": "hard",
+      "reason": "Word formation builds on first Hindi grammar."
+    },
+    {
+      "topicId": "mt_dpcRWCsrxz",
+      "prerequisiteId": "mt_nCnfO9cPdJ",
+      "strength": "hard",
+      "reason": "Sentence transformation builds on Hindi word types and vocabulary."
     }
   ]
 }

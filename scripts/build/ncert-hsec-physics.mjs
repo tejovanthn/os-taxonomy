@@ -305,6 +305,7 @@ const newEdges = [
   { t: 'phy-mechanical-energy-conservation', p: 'phy-work-energy-theorem', strength: 'hard', reason: 'Energy conservation is stated using the work-energy relation.' },
   { t: 'phy-collisions', p: 'phy-impulse-momentum-conservation', strength: 'hard', reason: 'Collision analysis applies momentum conservation.' },
   { t: 'phy-collisions', p: 'phy-mechanical-energy-conservation', strength: 'hard', reason: 'Elastic collisions are defined by conservation of kinetic energy.' },
+  { t: 'phy-centre-of-mass', p: 'phy-impulse-momentum-conservation', strength: 'hard', reason: 'Centre-of-mass motion is derived from conservation of momentum.' },
   { t: 'phy-torque-angular-momentum', p: 'phy-centre-of-mass', strength: 'soft', reason: 'Rigid-body rotation is described about the centre of mass.' },
   { t: 'phy-moment-of-inertia', p: 'phy-torque-angular-momentum', strength: 'hard', reason: 'Moment of inertia relates torque to angular acceleration.' },
   { t: 'phy-kepler-universal-gravitation', p: 'mt_oLjz18CxDg', strength: 'hard', reason: 'Kepler and Newton build on universal gravitation met earlier.' },

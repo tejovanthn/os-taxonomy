@@ -168,6 +168,25 @@ const newTopics = [
 ];
 
 const newEdges = [
+  // Anchor the senior ladder to the pre-existing 14–16 Psychology ladder, so the
+  // subject reads as one progression rather than two disconnected halves.
+  { t: 'psy-discipline-nature', p: 'mt_eb0LkMn5pS', strength: 'hard', reason: 'The senior account of the discipline builds on what psychology is.' },
+  { t: 'psy-methods-enquiry', p: 'mt_wtGQ9BAl7b', strength: 'hard', reason: 'Formal methods build on how psychologists study behaviour.' },
+  { t: 'psy-lifespan-development', p: 'mt_8AjBHDBMFM', strength: 'hard', reason: 'The life-span view extends development in childhood.' },
+  { t: 'psy-sensation-perception', p: 'mt_OZqdlmbiFe', strength: 'hard', reason: 'Builds on attention and perception met earlier.' },
+  { t: 'psy-learning-conditioning', p: 'mt_8bRzLS9tVP', strength: 'hard', reason: 'Builds on conditioning met at secondary level.' },
+  { t: 'psy-memory', p: 'mt_0QQhTHgVc5', strength: 'hard', reason: 'Builds on memory and forgetting met earlier.' },
+  { t: 'psy-thinking-problem-solving', p: 'mt_VrnFD18Is4', strength: 'hard', reason: 'Builds on thinking and problem solving met earlier.' },
+  { t: 'psy-motivation-emotion', p: 'mt_nNepUo1rKW', strength: 'hard', reason: 'Builds on what drives behaviour met earlier.' },
+  { t: 'psy-intelligence', p: 'mt_Hhu37V8kMQ', strength: 'hard', reason: 'Theories of intelligence formalise individual differences.' },
+  { t: 'psy-aptitude-creativity', p: 'mt_dQu4pnFou2', strength: 'hard', reason: 'Builds on aptitude and interests met earlier.' },
+  { t: 'psy-stress-coping', p: 'mt_zfBltmjNYW', strength: 'hard', reason: 'Coping and well-being build on happiness and well-being.' },
+  { t: 'psy-psychological-disorders', p: 'mt_eelhTx8MYA', strength: 'hard', reason: 'Builds on mental disorders and their treatment.' },
+  { t: 'psy-therapeutic-approaches', p: 'mt_eelhTx8MYA', strength: 'hard', reason: 'Therapy is treated in more depth than at secondary level.' },
+  { t: 'psy-attitudes-prejudice', p: 'mt_QVye0kDXCQ', strength: 'hard', reason: 'Builds on attitudes and social cognition met earlier.' },
+  { t: 'psy-social-cognition-attribution', p: 'mt_QVye0kDXCQ', strength: 'hard', reason: 'Attribution extends social cognition met earlier.' },
+  { t: 'psy-environment-social-concerns', p: 'mt_eeWI9vjrHu', strength: 'hard', reason: 'Builds on the psychology of social problems.' },
+  { t: 'psy-psychological-skills', p: 'mt_vAz3nalEus', strength: 'hard', reason: 'Practical skills build on psychology at work.' },
   { t: 'psy-methods-enquiry', p: 'psy-discipline-nature', strength: 'hard', reason: 'Methods follow from what the discipline studies.' },
   { t: 'psy-biological-bases', p: 'mt_okUMpHsV-P', strength: 'hard', reason: 'Biological psychology builds on neurons and brain structure.' },
   { t: 'psy-biological-bases', p: 'mt_FQXGRdTDhp', strength: 'hard', reason: 'The endocrine basis of behaviour builds on hormones.' },

@@ -163,6 +163,12 @@ const newTopics = [
 ];
 
 const newEdges = [
+  // Connect two pre-existing Hindi pairs that sat isolated in the graph.
+  { t: 'mt_eAR1bCJrgZ', p: 'mt_tnTFGNc7K0', strength: 'soft', reason: 'Reading comprehension builds on listening with understanding.' },
+  { t: 'mt_wByO4SRJSD', p: 'mt_tnTFGNc7K0', strength: 'hard', reason: 'Speaking effectively builds on listening with understanding.' },
+  { t: 'mt_GCzEZC1EPI', p: 'mt_DeKlOUf7Hi', strength: 'hard', reason: 'Word formation builds on first Hindi grammar.' },
+  { t: 'mt_nCnfO9cPdJ', p: 'mt_GCzEZC1EPI', strength: 'hard', reason: 'Word types build on how Hindi words are formed.' },
+  { t: 'hindi-vakya-rupantaran', p: 'mt_nCnfO9cPdJ', strength: 'hard', reason: 'Sentence transformation builds on Hindi word types and vocabulary.' },
   { t: 'sanskrit-composition-translation', p: 'mt_YN9NNO8nCZ', strength: 'hard', reason: 'Senior composition builds directly on writing simple Sanskrit.' },
   { t: 'sanskrit-composition-translation', p: 'mt_VDcBe3oTmz', strength: 'hard', reason: 'Composing correct sentences requires control of karaka and case.' },
   { t: 'sanskrit-composition-translation', p: 'mt_mrLZFWQnrE', strength: 'hard', reason: 'Composition requires correctly conjugated verbs.' },

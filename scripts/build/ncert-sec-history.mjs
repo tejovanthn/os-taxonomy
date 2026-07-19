@@ -199,6 +199,16 @@ const newTopics = [
 ];
 
 const newEdges = [
+  // Anchors into the pre-existing History ladder. Without these the Class IX–X
+  // world-history themes form chains that never connect to the rest of the graph.
+  { t: 'ancien-regime-crisis', p: 'mt_bjlY5TE1y-', strength: 'hard', reason: 'The estates of the ancien régime descend from the medieval pyramid of power.' },
+  { t: 'crisis-of-tsarist-russia', p: 'mt_7P4EsEbQpI', strength: 'soft', reason: 'Sits within the broad account of revolutions and the modern age.' },
+  { t: 'pastoralism-way-of-life', p: 'mt_eosO26KE-Z', strength: 'soft', reason: 'Pastoral societies are among the medieval worlds beyond Europe.' },
+  { t: 'sport-colonialism-nationalism', p: 'mt_gM1adZDGIy', strength: 'hard', reason: 'Cricket spread through British rule in India.' },
+  { t: 'clothing-cultural-identity', p: 'mt_gM1adZDGIy', strength: 'hard', reason: 'Debates over dress arose under British rule in India.' },
+  { t: 'clothing-cultural-identity', p: 'mt_R1xLS1c2Pg', strength: 'soft', reason: 'Builds on the idea that clothing has a history.' },
+  { t: 'industrialisation-britain-india', p: 'mt_ZCwHKy4rEZ', strength: 'hard', reason: 'Industrialisation is studied against British rule and India’s economy.' },
+  { t: 'print-culture-and-the-nation', p: 'mt_rf23aL6KwH', strength: 'hard', reason: 'Print culture builds on the printing press and the Renaissance.' },
   { t: 'french-revolution-ideas', p: 'ancien-regime-crisis', strength: 'hard', reason: 'The revolution is understood as a response to the crisis of the old order.' },
   { t: 'french-revolution-legacy', p: 'french-revolution-ideas', strength: 'hard', reason: 'The legacy is the spread of the revolution’s own ideas.' },
   { t: 'russian-revolution-1917', p: 'crisis-of-tsarist-russia', strength: 'hard', reason: 'The revolution follows from the breakdown of Tsarist rule.' },

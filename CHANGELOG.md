@@ -8,6 +8,30 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### Verification pass: graph connectivity and senior-ladder anchoring (2026-07-19)
+- A full re-audit of the three NCERT passes found the data valid and idempotent
+  but the **graph badly under-connected**, which validation cannot detect.
+- **Undirected connectivity check: 19 components, 48 NCERT topics stranded.**
+  Whole chains had been built internally but never anchored to the existing
+  ladder — the French Revolution and Russian Revolution sequence, the
+  industrialisation sequence, the medieval-world sequence, the Class XI–XII
+  geography-skills and Physics rotational-mechanics chains, and several more.
+  Now **5 components**, and the four non-main ones contain no NCERT topic at all
+  (Visual Arts, Home Science, Kannada, Dance — pre-existing gaps, left alone).
+- **Psychology, Business Studies and Accountancy had zero edges** joining their
+  new 16–18 ladder to their existing 14–16 ladder, so each subject read as two
+  disconnected halves. NIOS secondary already teaches much of Class XI commerce
+  and psychology descriptively; the XI–XII topics are the deeper treatment and
+  the graph now shows that progression (38 anchor edges added) instead of
+  silently restating it.
+- **61 prerequisite edges added in total**; no topics added or removed beyond one
+  rename. `Depreciation, Provisions and Reserves` existed twice in Accountancy
+  with identical names at 14–16 and 16–17; the senior one is now
+  *Depreciation Methods, Provisions and Reserves*.
+- Corrected four documented counts that had drifted from the data: ncert-sec
+  links (297 → 423 at that commit, 435 now), ncert-hsec edges (350 → 422),
+  ncert-sec total links (305 → 435) and the Science-anchor edge count (69 → 70).
+
 ### Geography and Political Science split out as subjects, from age 14 (2026-07-18)
 - Resolves the inconsistency left by the XI–XII pass, where Physics, Chemistry
   and Biology were promoted out of Science but the equivalent Social Science
@@ -48,7 +72,7 @@ Work-in-progress addition of Indian curricula, integrated one source at a time.
 - **This raises the dataset's age ceiling from 16 to 18.** Every subject
   previously topped out at 16; senior-secondary specialist content now extends
   the graph to the end of school.
-- **225 standards, 344 new topics, 350 new edges, 23 new clusters.** Unlike the
+- **225 standards, 344 new topics, 422 new edges, 23 new clusters.** Unlike the
   IX–X pass this is overwhelmingly minting rather than aligning — probes had
   confirmed calculus, thermodynamics, organic chemistry, electrostatics,
   coordination compounds, molecular genetics and sociology were all absent.
@@ -58,7 +82,7 @@ Work-in-progress addition of Indian curricula, integrated one source at a time.
   Science, matching how they are elected at this stage and following the
   precedent of Economics, Business Studies and Accountancy, which already
   occupied only the senior band. Science therefore tops out at 16 and the three
-  senior ladders hang off it by cross-subject prerequisite edges (69 of them).
+  senior ladders hang off it by cross-subject prerequisite edges (70 of them).
   Sociology (35 topics) is added as a subject parallel to the existing
   Psychology.
 - **Existing subjects extended to 18:** Mathematics (+34, with new Calculus,
@@ -71,10 +95,10 @@ Work-in-progress addition of Indian curricula, integrated one source at a time.
   topics are framed around reading a class of evidence — inscriptions, an epic,
   a stupa, a revenue compilation, court chronicles, ruins, travellers' accounts,
   official reports, photographs, oral testimony, assembly debates.
-- **Known inconsistency:** Geography and Political Science are arguably the same
-  case as the three sciences — separate elective disciplines at this stage — but
-  the subject split authorised only Physics, Chemistry, Biology and Sociology, so
-  they remain domains under Social Studies. Flagged in STATE.md for a decision.
+- At the time of this pass Geography and Political Science were left as senior
+  domains under Social Studies; the entry above promoted them to subjects
+  shortly afterwards. The Social Studies (+30) figure therefore counts topics
+  that have since moved into those two subjects.
 - Sanskrit XI–XII recovered by OCR of 300 DPI renders (tesseract `san`/`hin`)
   cross-checked against page images. Urdu remains image-only and un-integrated.
 
@@ -89,7 +113,7 @@ Work-in-progress addition of Indian curricula, integrated one source at a time.
   ceiling of 16 and would require extending it to 18. That is a deliberate
   follow-up, planned in `STATE.md`, not an oversight.
 - **156 standards** across Science, Mathematics, History, Geography, Political
-  Science, Economics, English, Hindi and Sanskrit; **64 new topics** and 297
+  Science, Economics, English, Hindi and Sanskrit; **64 new topics** and 423
   topic→standard links. No standard is left unlinked.
 - **Science IX–X: 121 existing topics aligned, only 5 new** — the strongest
   alignment result yet. NCERT's seven NCF themes map almost entirely onto the
@@ -134,7 +158,7 @@ Work-in-progress addition of Indian curricula, integrated one source at a time.
   Divisions*, *India's Drainage Systems*, *Indian Agriculture: Cropping Patterns
   and Reforms*, *Industrial Location, Pollution and Sustainable Development* and
   *Transport, Communication and Trade in Development*. Final totals for
-  `ncert-sec`: 156 standards, **72 new topics**, 305 links. The only standards
+  `ncert-sec`: 156 standards, **72 new topics**, 435 links. The only standards
   still aligned solely to young topics are four Hindi/Sanskrit listening,
   speaking and varnamala skills — correct by design, since those are learned
   well before Class IX (typical learning age, not course-admission age).

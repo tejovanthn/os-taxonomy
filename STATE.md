@@ -5,7 +5,7 @@ Last updated 2026-07-18.
 
 ## Where things stand
 
-2,444 topics · 4,269 edges · 4,253 standards · 342 clusters · 15 curriculum
+2,444 topics · 4,330 edges · 4,253 standards · 342 clusters · 15 curriculum
 sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
 All fifteen build scripts idempotent (re-run adds zero).
 
@@ -46,6 +46,10 @@ Devanagari and tesseract has `tel`, `kan` and `tam` packs installed.
   `Syllabus_for_CCT_Higher_Secondary_1.pdf`) and have never been looked at.
   Visual Arts currently has only 8 topics, so the art-education document is the
   obvious cheap win there.
+- **Four pre-existing graph islands remain**, none touched by the NCERT work:
+  Visual Arts (6 topics), Home Science (2), Kannada (1), Dance (1) sit
+  disconnected from the main graph. They predate this effort and were left
+  alone deliberately, but they are cheap to wire in.
 - Branch has no upstream PR — push or open one when the Indian-curriculum work
   reaches a natural release point.
 
@@ -63,3 +67,14 @@ Devanagari and tesseract has `tel`, `kan` and `tam` packs installed.
   against the age of its best-aligned topic exposed eight cases where a senior
   idea had been papered over by a much younger topic. That check is worth
   repeating on any future alignment-heavy source.
+- **Run an undirected connectivity check after every pass.** `validate.mjs`
+  checks referential integrity and acyclicity but says nothing about whether new
+  topics are *reachable*. The XI–XII work passed validation while leaving 48
+  topics in 14 stranded islands. Build the adjacency list, flood-fill, and
+  require that every new topic joins the main component.
+- **When extending a subject that already exists, anchor the new ladder to the
+  old one explicitly.** Psychology, Business Studies and Accountancy each ended
+  up as two disconnected halves because the senior topics only referenced each
+  other. Prefer an edge from the senior topic to its 14–16 predecessor over
+  minting in isolation — and check first whether the predecessor makes the new
+  topic a duplicate rather than a deeper treatment.
