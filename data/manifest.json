@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-07-18T17:31:47.992Z",
+  "generatedAt": "2026-07-18T17:57:11.915Z",
   "codesOnlySources": [
     "c3-social-studies",
     "ib-pyp-pspe",
@@ -19,6 +19,7 @@
       "Dance": 26,
       "Economics": 30,
       "English": 294,
+      "Geography": 23,
       "Hindi": 20,
       "History": 192,
       "Home Science": 9,
@@ -30,10 +31,11 @@
       "Music": 49,
       "Personal & Social Development": 88,
       "Physics": 49,
+      "Political Science": 23,
       "Psychology": 46,
       "Sanskrit": 43,
       "Science": 576,
-      "Social Studies": 113,
+      "Social Studies": 67,
       "Sociology": 35,
       "Tamil": 8,
       "Telugu": 5,
@@ -47,8 +49,8 @@
   },
   "files": {
     "topics.json": {
-      "bytes": 2449870,
-      "sha256": "bd3dd8ac731b97796d7c1acd15cd0287ebbed9a5963601c7551e85c7d1d6b2c2"
+      "bytes": 2449713,
+      "sha256": "0dda6eac090828ff62f92fb29a5606aa125088aaffb87cd9cf3a6a25215c9247"
     },
     "dependencies.json": {
       "bytes": 894063,
@@ -59,8 +61,8 @@
       "sha256": "f691f7a558581b0ce7e8335d41c5d947ac0e46cc9a3e47af7b4fdf141d252cf5"
     },
     "clusters.json": {
-      "bytes": 114515,
-      "sha256": "f208f80c414871750fc33d134a083143de9e193e9187af0275b495aaa7231ef5"
+      "bytes": 114506,
+      "sha256": "2a46e625aad9ae31cf58e85569b14907a0886be3be61de764d4d498b27463a06"
     }
   },
   "excluded": [

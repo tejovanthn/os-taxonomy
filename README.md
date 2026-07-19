@@ -28,8 +28,8 @@ Most curriculum data is either a flat list of standards or locked inside a produ
 | Mathematics | 567 |
 | English | 294 |
 | History | 192 |
-| Social Studies | 113 |
 | Personal & Social Development | 88 |
+| Social Studies | 67 |
 | Music | 49 |
 | Physics | 49 |
 | Chemistry | 46 |
@@ -44,6 +44,8 @@ Most curriculum data is either a flat list of standards or locked inside a produ
 | Economics | 30 |
 | Indian Culture & Heritage | 29 |
 | Dance | 26 |
+| Geography | 23 |
+| Political Science | 23 |
 | Hindi | 20 |
 | Learning to Learn | 18 |
 | Home Science | 9 |

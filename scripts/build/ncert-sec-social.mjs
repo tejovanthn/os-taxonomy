@@ -1,9 +1,11 @@
 #!/usr/bin/env node
 /**
  * build/ncert-sec-social.mjs — NCERT Geography, Political Science and Economics,
- * Classes IX–X, at theme grain. All three sit under the Social Studies and
- * Economics subjects. Existing coverage of Indian geography and civics is
- * pitched at ages 9–13, so this pass aligns where the idea already exists and
+ * Classes IX–X, at theme grain. Class IX is where NCERT stops teaching a single
+ * composite Social Science, so from age 14 these are three separate subjects;
+ * below that their content remains under Social Studies. Existing coverage of
+ * Indian geography and civics is pitched at ages 9–13, so this pass aligns
+ * where the idea already exists and
  * mints the senior treatments that were missing (resource planning, soil and
  * water, population composition; democracy, federalism and its outcomes; human
  * capital, poverty, food security, credit and consumer rights). Descriptions
@@ -128,9 +130,11 @@ const EV = (a, b, c) => [a, b, c];
 const t = (slug, name, subject, domain, ageStart, ageEnd, type, description, evidence, prompt, standards) =>
   ({ _slug: slug, name, subject, domain, ageRangeStart: ageStart, ageRangeEnd: ageEnd, type, description, evidence, assessmentPrompt: prompt, standards });
 
-const GEO = 'Indian Geography';
-const GOV = 'Governance & Constitution';
-const SS = 'Social Studies';
+const GEO = 'Geography of India';
+const GOV = 'Indian Constitution';
+const POLI = 'Indian Politics';
+const SS = 'Geography';        // senior geography is its own subject from age 14
+const PS = 'Political Science';
 
 const newTopics = [
   // --- Geography ---
@@ -180,32 +184,32 @@ const newTopics = [
     'Ask {{name}} how a better road or a mobile network can change what a village is able to sell.',
     ['ncert-sec:GEO.C10.TRANS']),
   // --- Political science ---
-  t('what-democracy-is-and-why', 'What Democracy Is and Why It Matters', SS, GOV, 14, 15, 'CONCEPTUAL',
+  t('what-democracy-is-and-why', 'What Democracy Is and Why It Matters', PS, 'Political Theory', 14, 15, 'CONCEPTUAL',
     'Understand that democracy means rulers chosen by the people under rules that guarantee fair choice and rights, and be able to weigh it honestly against its alternatives.',
     EV('Gives a working definition of democracy and its essential features', 'Names an alternative form of government and a claimed advantage of it', 'Defends democracy against a common criticism using reasons'),
     'Ask {{name}} what would have to be true of a country before they would call it a democracy.',
     ['ncert-sec:POL.C9.WHAT', 'ncert-sec:POL.C9.SPREAD']),
-  t('making-of-the-indian-constitution', 'The Making of the Indian Constitution', SS, GOV, 14, 15, 'CONCEPTUAL',
+  t('making-of-the-indian-constitution', 'The Making of the Indian Constitution', PS, GOV, 14, 15, 'CONCEPTUAL',
     'Understand that the Constitution was written by an elected assembly after long debate, that its values were deliberately chosen, and that it can be amended as society changes.',
     EV('Describes who framed the Constitution and how', 'Names core values the Constitution commits India to', 'Explains what it means to call the Constitution a living document'),
     'Ask {{name}} who decided what would be in India’s Constitution, and whether it can ever be changed.',
     ['ncert-sec:POL.C9.DESIGN']),
-  t('power-sharing-and-federalism', 'Power Sharing and Federalism', SS, GOV, 15, 16, 'CONCEPTUAL',
+  t('power-sharing-and-federalism', 'Power Sharing and Federalism', PS, GOV, 15, 16, 'CONCEPTUAL',
     'Understand that dividing power between levels of government and among social groups reduces conflict, and that Indian federalism shares power between the union, states and local bodies.',
     EV('Explains why power sharing reduces conflict in a diverse society', 'Describes how powers are divided between union and states', 'Explains what decentralisation to local bodies was meant to achieve'),
     'Ask {{name}} why it might be safer for a large, diverse country not to keep all power in one place.',
     ['ncert-sec:POL.C10.POWER']),
-  t('democracy-and-social-divisions', 'Democracy and Social Divisions', SS, GOV, 15, 16, 'CONCEPTUAL',
+  t('democracy-and-social-divisions', 'Democracy and Social Divisions', PS, POLI, 15, 16, 'CONCEPTUAL',
     'Understand that social differences of caste, religion and gender enter politics, and that democracy can either accommodate them peacefully or be strained by them.',
     EV('Explains how a social division can become a political division', 'Distinguishes accommodating a difference from exploiting it', 'Gives an example of politics changing a social hierarchy'),
     'Ask {{name}} whether it is a problem for democracy when people vote according to their community.',
     ['ncert-sec:POL.C10.WORK']),
-  t('outcomes-of-democracy', 'Outcomes of Democracy', SS, GOV, 15, 16, 'META',
+  t('outcomes-of-democracy', 'Outcomes of Democracy', PS, POLI, 15, 16, 'META',
     'Understand that democracies can be judged by what they deliver — accountable government, development, dignity and security — while recognising that such judgements need fair standards.',
     EV('States what can reasonably be expected of a democracy', 'Uses evidence to assess one outcome of Indian democracy', 'Explains why democracies may be slower but more accountable'),
     'Ask {{name}} how they would decide whether a democracy is working well or badly.',
     ['ncert-sec:POL.C10.OUTCOME', 'ncert-sec:POL.C10.CHALLENGE']),
-  t('social-movements-and-democracy', 'Social Movements and Democratic Struggle', SS, GOV, 15, 16, 'CONCEPTUAL',
+  t('social-movements-and-democracy', 'Social Movements and Democratic Struggle', PS, POLI, 15, 16, 'CONCEPTUAL',
     'Understand that democracy has been widened by pressure from below — movements, protests and campaigns — as much as by parties competing in elections.',
     EV('Explains how a movement can change policy without winning an election', 'Distinguishes a political party from a social movement', 'Gives an example of a right won through sustained struggle'),
     'Ask {{name}} how ordinary people can change a government’s mind between one election and the next.',

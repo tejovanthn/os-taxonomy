@@ -1431,8 +1431,8 @@
       "summary": "Your teenager is learning how the modern world was made — the Renaissance and revolutions, industrialisation, the world wars, and how colonised nations like India won their freedom."
     },
     {
-      "subject": "Social Studies",
-      "domain": "Governance & Constitution",
+      "subject": "Political Science",
+      "domain": "Indian Politics",
       "ageRangeStart": 14,
       "summary": "Your teenager is thinking about the challenges a large democracy faces — inequality, corruption and communalism — and how active, informed citizens help meet them."
     },
@@ -2066,14 +2066,14 @@
       "summary": "The Class XII course is organised by source rather than by century, and that is its point. Each theme pairs a period of Indian history with a class of evidence — inscriptions, an epic, a stupa, a revenue compilation, a court chronicle, ruins, travellers’ accounts, official reports, photographs, oral testimony, assembly debates — and asks what that kind of source can and cannot tell us. Learners come out knowing less about dates and more about how historical knowledge is actually produced, and whose voices tend to go missing from it."
     },
     {
-      "subject": "Social Studies",
+      "subject": "Political Science",
       "domain": "Political Theory",
       "ageRangeStart": 16,
       "ageRangeEnd": 17,
       "summary": "Political theory steps back from how institutions work to ask what they are for. Freedom turns out to mean two different things — being left alone, and being able to act — and equality likewise splits into treating people identically and giving them genuinely equal standing. The interesting part is that these values conflict: policies that increase one often reduce another. Learners practise arguing about that trade-off rather than looking up the answer."
     },
     {
-      "subject": "Social Studies",
+      "subject": "Geography",
       "domain": "Physical Geography",
       "ageRangeStart": 16,
       "ageRangeEnd": 17,

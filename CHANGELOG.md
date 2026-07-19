@@ -8,6 +8,38 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### Geography and Political Science split out as subjects, from age 14 (2026-07-18)
+- Resolves the inconsistency left by the XI–XII pass, where Physics, Chemistry
+  and Biology were promoted out of Science but the equivalent Social Science
+  components were not. **Subjects 27 → 29.**
+- **The split is at age 14 (Class IX)**, which is where NCERT itself stops
+  issuing a single composite Social Science syllabus and publishes separate
+  documents for History, Geography, Political Science and Economics. The
+  existing data agreed independently: no Social Studies topic in the affected
+  domains started at 13, so the ladder already had a clean break there. Below 14
+  the umbrella is the right unit — a nine-year-old learning about their
+  neighbourhood is not doing geography as a discipline.
+- **Geography (23 topics, ages 14–18)** — domains Geography of India (11),
+  Human Geography (5), Physical Geography (4), Geographical Skills (3).
+- **Political Science (23 topics, ages 14–18)** — domains Indian Constitution
+  (9), Indian Politics (7), Political Theory (4), World Politics (3). The
+  Governance & Constitution material was separated by what each topic is
+  actually about: the constitutional framework, or the practice of Indian
+  politics.
+- **Social Studies keeps 67 topics at ages 5–16** — Society & Development,
+  the pre-14 Governance & Constitution and Indian Geography ladders, Culture &
+  Nation, Transport & Communication, Family & Community and Civic Life & Rights.
+- With this, all five components of NCERT's Social Science — History, Geography,
+  Political Science, Economics and (at XI–XII) Sociology — exist as subjects in
+  their own right at the senior level.
+- Applied by `scripts/build/subject-split-geography-polsci.mjs`, which is
+  rule-based rather than a hard-coded id list, so it is idempotent and will also
+  catch any topic added to these domains later. The source build scripts were
+  updated to emit the new subjects directly, and verified against the data — a
+  rebuild from scratch produces the same assignment. The migration is still
+  required for topics no build script owns (e.g. *Challenges to Indian
+  Democracy*, which came from NIOS).
+
 ### NCERT higher secondary — Classes XI–XII, all subjects (2026-07-18)
 - New source `ncert-hsec` (NCERT Syllabus for Higher Secondary Classes XI–XII,
   NCF 2005), from the same Volume II zip as `ncert-sec`. Same red-tier rights

@@ -6,53 +6,39 @@ Last updated 2026-07-18.
 ## Where things stand
 
 2,444 topics · 4,269 edges · 4,253 standards · 342 clusters · 15 curriculum
-sources · **27 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
-All fourteen build scripts idempotent (re-run adds zero).
+sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
+All fifteen build scripts idempotent (re-run adds zero).
 
-The NCERT ladder is now complete end to end: `ncert-elem` (Classes I–VIII),
+The NCERT ladder is complete end to end: `ncert-elem` (Classes I–VIII),
 `ncert-sec` (IX–X) and `ncert-hsec` (XI–XII). The XI–XII pass raised the age
-ceiling from 16 to 18 and added four subjects — Physics, Chemistry, Biology and
-Sociology. See CHANGELOG for the per-subject breakdown.
+ceiling from 16 to 18 and added Physics, Chemistry, Biology and Sociology as
+subjects; Geography and Political Science were then split out of Social Studies
+from age 14, so all five components of NCERT's Social Science now exist as
+subjects at the senior level. See CHANGELOG for the per-subject breakdown.
 
 ## Single next step
 
-**Decide whether Geography and Political Science should become subjects in their
-own right, matching the treatment given to Physics, Chemistry and Biology.**
+**Fill the Telugu, Kannada and Tamil language ladders from state-board syllabi.**
 
-This is the one known inconsistency in the dataset. The XI–XII subject split was
-authorised for the three sciences and Sociology only, so Geography and Political
-Science stayed as domains under **Social Studies**, which now carries 113 topics
-across seven domains spanning ages 5–18:
+These are now the largest genuine content gap: Telugu has 5 topics, Kannada 6
+and Tamil 8, all derived from NIOS secondary rather than from a primary-language
+curriculum. NCERT does not publish syllabi for them, so this needs SCERT /
+state-board sources — Telangana or AP SCERT for Telugu, Karnataka DSERT for
+Kannada, Tamil Nadu SCERT for Tamil.
 
-| Social Studies domain | Roughly |
-|---|---|
-| Family & Community, Culture & Nation, Transport & Communication | primary |
-| Indian Geography, Society & Development, Civic Life & Rights | middle |
-| Governance & Constitution | 10–18 |
-| Physical Geography, Human Geography, Geographical Skills | 16–18 (new) |
-| Political Theory, World Politics | 16–18 (new) |
-
-The argument for splitting them is exactly the argument that was accepted for the
-sciences: at XI–XII these are separate elective disciplines with their own
-methods, and a learner elects Geography rather than "Social Studies". The
-argument against is that Social Studies has no younger sibling problem — unlike
-Science, it was always an umbrella — and that 27 subjects is already a lot.
-
-If the answer is yes, the change is mechanical: the topics are already tagged
-with the right domains, so it is a `subject` field rewrite in
-`scripts/build/ncert-hsec-humanities.mjs` plus a rebuild. Doing it later costs
-more only in that the README subject table and any downstream consumer would
-change again.
+Method is unchanged and is well proven by now: rights first (these are state
+government publications, so the licence needs checking per state and will not
+necessarily match NCERT's red tier), then align before minting — the Hindi and
+Sanskrit ladders show what the shape of a full language subject looks like, and
+much of the early literacy progression will already exist there and in English.
+Expect OCR to be needed; all three scripts have the same legacy-font problem as
+Devanagari and tesseract has `tel`, `kan` and `tam` packs installed.
 
 ## Other open gaps (unchanged, lower priority)
 
-- **Telugu (5), Kannada (6), Tamil (8) remain thin** — secondary-derived only.
-  NCERT does not publish these; fixing it needs SCERT / state-board syllabi
-  (Telangana or AP SCERT, Karnataka DSERT, Tamil Nadu SCERT). This is now the
-  largest genuine content gap in the dataset.
 - **Urdu is not integrated.** `16Urdu.pdf` in `vol2_hsl.zip` is image-only
   (323 characters of extractable text across 18 pages) and would need full OCR
-  with `tesseract -l urd`. It would add a 28th subject with no existing topics
+  with `tesseract -l urd`. It would add a 30th subject with no existing topics
   to align against.
 - **NCERT vocational and art-education syllabi** are separate PDFs on
   ncert.nic.in/syllabus.php (`Art_Educationfinal_syllabus.pdf`,
