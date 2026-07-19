@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2444,
+  "topicCount": 2460,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -43089,26 +43089,6 @@
       ]
     },
     {
-      "id": "mt_kFoccN6EE3",
-      "type": "CONCEPTUAL",
-      "subject": "Physics",
-      "domain": "Properties of Matter & Heat",
-      "name": "Calorimetry, Latent Heat and Heat Transfer",
-      "description": "Understand that heat changes either temperature or state but not both at once, and that it travels by conduction, convection and radiation.",
-      "ageRangeStart": 16,
-      "ageRangeEnd": 17,
-      "centrality": null,
-      "evidence": [
-        "Uses specific heat capacity to compute a temperature change",
-        "Explains why temperature holds steady during a change of state",
-        "Distinguishes conduction, convection and radiation with examples"
-      ],
-      "assessmentPrompt": "Ask {{name}} why a pot of melting ice stays at zero degrees even while the flame is on.",
-      "standards": [
-        "ncert-hsec:PHY.C11.U7"
-      ]
-    },
-    {
       "id": "mt_dtEKMxiQHK",
       "type": "CONCEPTUAL",
       "subject": "Physics",
@@ -43184,26 +43164,6 @@
         "Relates speed, frequency and wavelength"
       ],
       "assessmentPrompt": "Ask {{name}} what actually travels across the sea when a wave moves, given the water stays put.",
-      "standards": [
-        "ncert-hsec:PHY.C11.U10"
-      ]
-    },
-    {
-      "id": "mt_4JyerLxfJS",
-      "type": "CONCEPTUAL",
-      "subject": "Physics",
-      "domain": "Oscillations & Waves",
-      "name": "Standing Waves, Beats and the Doppler Effect",
-      "description": "Understand that confined waves settle into standing patterns with fixed frequencies, that nearby frequencies produce beats, and that relative motion shifts observed frequency.",
-      "ageRangeStart": 16,
-      "ageRangeEnd": 17,
-      "centrality": null,
-      "evidence": [
-        "Explains how a standing wave forms in a string or pipe",
-        "Explains beats as interference between close frequencies",
-        "Explains the Doppler shift for a moving source"
-      ],
-      "assessmentPrompt": "Ask {{name}} why an ambulance siren drops in pitch the moment it passes them.",
       "standards": [
         "ncert-hsec:PHY.C11.U10"
       ]
@@ -43289,26 +43249,6 @@
       ]
     },
     {
-      "id": "mt_vLOMfLHK7e",
-      "type": "CONCEPTUAL",
-      "subject": "Physics",
-      "domain": "Electricity & Magnetism",
-      "name": "Drift Velocity, Resistivity and Ohm's Law",
-      "description": "Understand that current is the slow net drift of charges through a conductor, and that resistivity is a property of the material while resistance also depends on shape.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Relates current to drift velocity and charge density",
-        "Distinguishes resistance from resistivity",
-        "Explains how resistance of a metal changes with temperature"
-      ],
-      "assessmentPrompt": "Ask {{name}} why a light comes on instantly even though electrons drift through the wire very slowly.",
-      "standards": [
-        "ncert-hsec:PHY.C12.U2"
-      ]
-    },
-    {
       "id": "mt_PhsT13hNR7",
       "type": "CONCEPTUAL",
       "subject": "Physics",
@@ -43324,26 +43264,6 @@
         "Combines cells in series and in parallel"
       ],
       "assessmentPrompt": "Ask {{name}} why a torch dims as its battery ages even though the battery still reads close to full voltage.",
-      "standards": [
-        "ncert-hsec:PHY.C12.U2"
-      ]
-    },
-    {
-      "id": "mt_ef0TU0P8l5",
-      "type": "PROCEDURAL",
-      "subject": "Physics",
-      "domain": "Electricity & Magnetism",
-      "name": "Kirchhoff's Laws, the Wheatstone Bridge and the Potentiometer",
-      "description": "Use conservation of charge and energy around circuit junctions and loops to solve networks that series-parallel reduction cannot handle, and to measure resistance and emf precisely.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Applies Kirchhoff's junction and loop rules to a network",
-        "Derives the balance condition of a Wheatstone bridge",
-        "Explains why a potentiometer measures emf without drawing current"
-      ],
-      "assessmentPrompt": "Ask {{name}} how you could measure a battery’s true emf without the measurement itself changing the answer.",
       "standards": [
         "ncert-hsec:PHY.C12.U2"
       ]
@@ -43384,26 +43304,6 @@
         "Explains the operating principle of a cyclotron or galvanometer"
       ],
       "assessmentPrompt": "Ask {{name}} why a magnetic force can change a charged particle’s direction but never its speed.",
-      "standards": [
-        "ncert-hsec:PHY.C12.U3"
-      ]
-    },
-    {
-      "id": "mt_JmiIqglyxj",
-      "type": "CONCEPTUAL",
-      "subject": "Physics",
-      "domain": "Electricity & Magnetism",
-      "name": "Magnetic Dipoles, Earth's Magnetism and Magnetic Materials",
-      "description": "Understand that a current loop behaves as a magnetic dipole, that Earth itself has such a field, and that materials respond to fields as para-, dia- or ferromagnetic.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Explains a current loop as a magnetic dipole",
-        "Describes Earth’s magnetic elements",
-        "Distinguishes para-, dia- and ferromagnetic behaviour"
-      ],
-      "assessmentPrompt": "Ask {{name}} why iron can be turned into a permanent magnet but copper cannot.",
       "standards": [
         "ncert-hsec:PHY.C12.U3"
       ]
@@ -43466,26 +43366,6 @@
       "assessmentPrompt": "Ask {{name}} what radio waves, visible light and X-rays have in common.",
       "standards": [
         "ncert-hsec:PHY.C12.U5"
-      ]
-    },
-    {
-      "id": "mt_sdHNUFpkPX",
-      "type": "PROCEDURAL",
-      "subject": "Physics",
-      "domain": "Optics",
-      "name": "Ray Optics: Mirrors, Lenses and Total Internal Reflection",
-      "description": "Locate images formed by spherical mirrors and thin lenses using the mirror and lens formulae, and explain total internal reflection and its use in optical fibres.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Applies the mirror or lens formula to locate an image",
-        "States the condition for total internal reflection",
-        "Explains how an optical fibre guides light"
-      ],
-      "assessmentPrompt": "Ask {{name}} how light can be made to travel around a bend without escaping the fibre.",
-      "standards": [
-        "ncert-hsec:PHY.C12.U6"
       ]
     },
     {
@@ -43586,46 +43466,6 @@
       "assessmentPrompt": "Ask {{name}} why heated hydrogen gives out only a few sharp colours instead of a continuous rainbow.",
       "standards": [
         "ncert-hsec:PHY.C12.U8"
-      ]
-    },
-    {
-      "id": "mt_4cc1RD9vYd",
-      "type": "CONCEPTUAL",
-      "subject": "Physics",
-      "domain": "Modern Physics",
-      "name": "Nuclear Structure, Radioactivity, Fission and Fusion",
-      "description": "Understand that mass lost in binding a nucleus appears as energy, and that this binding-energy curve explains why heavy nuclei release energy by splitting and light ones by fusing.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Distinguishes alpha, beta and gamma radiation",
-        "Relates mass defect to binding energy",
-        "Explains from the binding-energy curve why both fission and fusion release energy"
-      ],
-      "assessmentPrompt": "Ask {{name}} how splitting a heavy atom and joining two light ones can both give out energy.",
-      "standards": [
-        "ncert-hsec:PHY.C12.U8"
-      ]
-    },
-    {
-      "id": "mt_WR1hBi2yuS",
-      "type": "CONCEPTUAL",
-      "subject": "Physics",
-      "domain": "Electronics & Communication",
-      "name": "Semiconductors, Diodes and Transistors",
-      "description": "Understand that doping silicon creates junctions that pass current one way, and that a transistor uses a small current to control a much larger one.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Explains how doping produces n-type and p-type material",
-        "Explains why a diode conducts in only one direction",
-        "Explains transistor action as small current controlling large current"
-      ],
-      "assessmentPrompt": "Ask {{name}} how a device with no moving parts can act as a one-way valve for electricity.",
-      "standards": [
-        "ncert-hsec:PHY.C12.U9"
       ]
     },
     {
@@ -43929,26 +43769,6 @@
       ]
     },
     {
-      "id": "mt_Nep5PcwnGk",
-      "type": "CONCEPTUAL",
-      "subject": "Chemistry",
-      "domain": "Physical Chemistry",
-      "name": "Ionic Equilibrium, pH and Buffers",
-      "description": "Understand that weak acids and bases ionise only partly, that pH measures hydrogen ion concentration logarithmically, and that buffers resist pH change by holding a conjugate pair.",
-      "ageRangeStart": 16,
-      "ageRangeEnd": 17,
-      "centrality": null,
-      "evidence": [
-        "Distinguishes strong from weak electrolytes by degree of ionization",
-        "Calculates pH from hydrogen ion concentration",
-        "Explains how a buffer resists a change in pH"
-      ],
-      "assessmentPrompt": "Ask {{name}} why adding a little acid to blood barely changes its pH.",
-      "standards": [
-        "ncert-hsec:CHE.C11.U7"
-      ]
-    },
-    {
       "id": "mt_jFeQ7T89LS",
       "type": "PROCEDURAL",
       "subject": "Chemistry",
@@ -44229,26 +44049,6 @@
       ]
     },
     {
-      "id": "mt_YHqOwdvJ4x",
-      "type": "CONCEPTUAL",
-      "subject": "Chemistry",
-      "domain": "Physical Chemistry",
-      "name": "Electrolysis, Conductance and Corrosion",
-      "description": "Understand how ionic solutions conduct, how the quantity of electricity passed determines the amount of substance deposited, and why corrosion is an electrochemical process.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Relates charge passed to mass deposited in electrolysis",
-        "Explains how molar conductivity varies with dilution",
-        "Explains rusting as an electrochemical process"
-      ],
-      "assessmentPrompt": "Ask {{name}} why iron rusts faster in salty water than in pure water.",
-      "standards": [
-        "ncert-hsec:CHE.C12.U3"
-      ]
-    },
-    {
       "id": "mt_X26ncid7bv",
       "type": "PROCEDURAL",
       "subject": "Chemistry",
@@ -44407,26 +44207,6 @@
       "assessmentPrompt": "Ask {{name}} why a tertiary haloalkane and a primary one react by different routes.",
       "standards": [
         "ncert-hsec:CHE.C12.U10"
-      ]
-    },
-    {
-      "id": "mt_Lq4yHFNmu8",
-      "type": "CONCEPTUAL",
-      "subject": "Chemistry",
-      "domain": "Organic Chemistry",
-      "name": "Alcohols, Phenols and Ethers",
-      "description": "Understand how the hydroxyl group behaves differently on a chain and on a ring, so that phenol is appreciably acidic while an alcohol is essentially neutral.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Distinguishes primary, secondary and tertiary alcohols by test",
-        "Explains why phenol is more acidic than an alcohol",
-        "Outlines the mechanism of dehydration of an alcohol"
-      ],
-      "assessmentPrompt": "Ask {{name}} why phenol turns litmus red but ethanol does not, when both contain an OH group.",
-      "standards": [
-        "ncert-hsec:CHE.C12.U11"
       ]
     },
     {
@@ -45130,46 +44910,6 @@
       ]
     },
     {
-      "id": "mt_pJeCKdMSGq",
-      "type": "CONCEPTUAL",
-      "subject": "Biology",
-      "domain": "Genetics & Evolution",
-      "name": "Sex Determination, Linkage and Crossing Over",
-      "description": "Understand that sex is determined chromosomally, that genes on one chromosome tend to be inherited together, and that crossing over breaks that linkage in proportion to distance.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Explains XX–XY sex determination",
-        "Explains why linked genes do not assort independently",
-        "Explains the inheritance pattern of a sex-linked condition such as haemophilia"
-      ],
-      "assessmentPrompt": "Ask {{name}} why haemophilia and colour blindness appear far more often in males.",
-      "standards": [
-        "ncert-hsec:BIO.U7"
-      ]
-    },
-    {
-      "id": "mt_SCvKK1MHpx",
-      "type": "CONCEPTUAL",
-      "subject": "Biology",
-      "domain": "Genetics & Evolution",
-      "name": "DNA Replication, Transcription and Translation",
-      "description": "Understand that DNA copies itself semi-conservatively, is transcribed into RNA, and that the base sequence is read in triplets to assemble a specific protein.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Explains semi-conservative replication",
-        "Distinguishes transcription from translation",
-        "Uses the triplet code to read a sequence into amino acids"
-      ],
-      "assessmentPrompt": "Ask {{name}} how a sequence of four repeating chemicals can specify a whole organism.",
-      "standards": [
-        "ncert-hsec:BIO.U7"
-      ]
-    },
-    {
       "id": "mt_yhGLKMsh3d",
       "type": "CONCEPTUAL",
       "subject": "Biology",
@@ -45290,26 +45030,6 @@
       ]
     },
     {
-      "id": "mt_GzpXuzjrKA",
-      "type": "CONCEPTUAL",
-      "subject": "Biology",
-      "domain": "Biology & Human Welfare",
-      "name": "Cancer, AIDS and Substance Abuse",
-      "description": "Understand cancer as uncontrolled cell division and AIDS as an attack on the immune system itself, and recognise the physiological toll of drug and alcohol dependence.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Explains cancer as a failure of the controls on cell division",
-        "Explains why HIV is particularly dangerous to the immune system",
-        "Describes the physiological effects of drug or alcohol dependence"
-      ],
-      "assessmentPrompt": "Ask {{name}} why a disease that attacks the immune system is so much more dangerous than most infections.",
-      "standards": [
-        "ncert-hsec:BIO.U8"
-      ]
-    },
-    {
       "id": "mt_3c7pkWp93Q",
       "type": "PROCEDURAL",
       "subject": "Biology",
@@ -45365,26 +45085,6 @@
         "Distinguishes energy flow from nutrient cycling"
       ],
       "assessmentPrompt": "Ask {{name}} why there are far fewer tigers than deer, and fewer deer than grass plants.",
-      "standards": [
-        "ncert-hsec:BIO.U10"
-      ]
-    },
-    {
-      "id": "mt_mxVwYQc2Ep",
-      "type": "CONCEPTUAL",
-      "subject": "Biology",
-      "domain": "Ecology & Environment",
-      "name": "Populations, Communities and Adaptation",
-      "description": "Understand that organisms exist as populations with measurable attributes and growth patterns, interacting in communities, and adapted to the conditions of their habitat.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Describes attributes of a population such as density and age structure",
-        "Distinguishes exponential from logistic growth",
-        "Explains an adaptation suiting an organism to a harsh habitat"
-      ],
-      "assessmentPrompt": "Ask {{name}} what stops a population from growing forever once conditions are good.",
       "standards": [
         "ncert-hsec:BIO.U10"
       ]
@@ -47252,26 +46952,6 @@
       "assessmentPrompt": "Ask {{name}} how quickly people start favouring their own side once they are put into teams at random.",
       "standards": [
         "ncert-hsec:PSY.C12.U7"
-      ]
-    },
-    {
-      "id": "mt_8TKaIliclO",
-      "type": "CONCEPTUAL",
-      "subject": "Psychology",
-      "domain": "Work & Vocation",
-      "name": "Psychology, Environment and Social Concerns",
-      "description": "Understand how physical and social environments affect behaviour, and how psychology is applied to poverty, aggression, violence, health and media influence.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Explains how an environmental factor such as crowding or noise affects behaviour",
-        "Explains a psychological approach to reducing aggression or promoting health",
-        "Explains a strategy for encouraging pro-environmental behaviour"
-      ],
-      "assessmentPrompt": "Ask {{name}} why telling people that recycling matters often changes less than making the bin easier to reach.",
-      "standards": [
-        "ncert-hsec:PSY.C12.U8"
       ]
     },
     {
@@ -49580,6 +49260,646 @@
       "assessmentPrompt": "Ask {{name}} why a machine bought once is treated as a cost in every year that follows.",
       "standards": [
         "ncert-hsec:ACC.C11.U5"
+      ]
+    },
+    {
+      "id": "mt_yiQHDbhpH5",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Properties of Matter & Heat",
+      "name": "Calorimetry and Latent Heat",
+      "description": "Understand that heat either raises temperature or changes state but never both at once, so a substance absorbs energy at constant temperature while it melts or boils.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Uses specific heat capacity to compute a temperature change",
+        "Explains why temperature holds steady during a change of state",
+        "Computes the energy needed to melt or vaporise a given mass"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a pot of melting ice stays at zero degrees even while the flame is on.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_gObcpLdJ4h",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Properties of Matter & Heat",
+      "name": "Conduction, Convection and Radiation",
+      "description": "Understand that heat moves by three distinct mechanisms — through a material, by bulk movement of a fluid, and as electromagnetic radiation needing no medium at all.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes conduction, convection and radiation with examples",
+        "Explains why radiation alone crosses a vacuum",
+        "Applies Newton's law of cooling to a cooling body"
+      ],
+      "assessmentPrompt": "Ask {{name}} how the Sun's heat reaches Earth when there is nothing in between to carry it.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_P1P1CeyQSF",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Oscillations & Waves",
+      "name": "Standing Waves and Beats",
+      "description": "Understand that a wave confined between boundaries settles into a standing pattern with only certain allowed frequencies, and that two close frequencies together produce a slow throb.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains how a standing wave forms in a string or pipe",
+        "Identifies nodes, antinodes and the fundamental mode",
+        "Explains beats as interference between close frequencies"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a guitar string of a given length can only sound certain notes.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U10"
+      ]
+    },
+    {
+      "id": "mt_OvUr1NB5mL",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Oscillations & Waves",
+      "name": "The Doppler Effect",
+      "description": "Understand that relative motion between source and observer compresses or stretches the arriving wave, so the observed frequency shifts up on approach and down on recession.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the Doppler shift in terms of compressed or stretched wavefronts",
+        "Predicts whether observed frequency rises or falls for a given motion",
+        "Gives an application such as radar, sonar or astronomical redshift"
+      ],
+      "assessmentPrompt": "Ask {{name}} why an ambulance siren drops in pitch the moment it passes them.",
+      "standards": [
+        "ncert-hsec:PHY.C11.U10"
+      ]
+    },
+    {
+      "id": "mt_HENBAXC4SV",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Current as Drift of Charge",
+      "description": "Understand that an electric current is the slow net drift of enormous numbers of charge carriers, so a signal travels almost instantly even though the carriers themselves barely move.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Relates current to drift velocity and charge density",
+        "Explains why a lamp lights instantly despite slow drift",
+        "Distinguishes drift velocity from random thermal motion"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a light comes on instantly even though electrons drift through the wire very slowly.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U2"
+      ]
+    },
+    {
+      "id": "mt_vLOMfLHK7e",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Resistivity and Ohm's Law",
+      "description": "Understand that resistivity is a property of the material itself while resistance also depends on length and cross-section, and that Ohm's law holds only for some conductors.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes resistance from resistivity",
+        "Relates resistance to length and cross-sectional area",
+        "Explains how the resistance of a metal changes with temperature"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a long thin wire resists more than a short thick one of the very same metal.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U2"
+      ]
+    },
+    {
+      "id": "mt_tgCunGLwoJ",
+      "type": "PROCEDURAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Kirchhoff's Circuit Laws",
+      "description": "Apply conservation of charge at junctions and conservation of energy around loops to solve circuit networks that series and parallel reduction alone cannot handle.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "States Kirchhoff's junction and loop rules and the conservation law behind each",
+        "Assigns consistent current directions and signs around a loop",
+        "Solves a two-loop network for its unknown currents"
+      ],
+      "assessmentPrompt": "Ask {{name}} how to find the currents in a circuit where no two resistors are plainly in series or parallel.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U2"
+      ]
+    },
+    {
+      "id": "mt_ef0TU0P8l5",
+      "type": "PROCEDURAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "The Wheatstone Bridge and the Potentiometer",
+      "description": "Understand how a null method measures a quantity precisely by balancing a circuit until no current flows, so the reading no longer depends on the meter or the source.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Derives the balance condition of a Wheatstone bridge",
+        "Explains why a potentiometer measures emf without drawing current",
+        "Explains why a null method is more accurate than a direct reading"
+      ],
+      "assessmentPrompt": "Ask {{name}} how you could measure a battery’s true emf without the measurement itself changing the answer.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U2"
+      ]
+    },
+    {
+      "id": "mt_0DUD3CpR56",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "The Current Loop as a Magnetic Dipole",
+      "description": "Understand that a loop carrying current behaves exactly like a small bar magnet, with a dipole moment that sets the torque it feels in an external field.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains why a current loop is equivalent to a magnetic dipole",
+        "Computes the magnetic dipole moment of a loop",
+        "Explains the torque on a dipole in a uniform field"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a loop of wire carrying current has in common with a bar magnet.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U3"
+      ]
+    },
+    {
+      "id": "mt_JmiIqglyxj",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electricity & Magnetism",
+      "name": "Earth's Magnetism and Magnetic Materials",
+      "description": "Understand that Earth has its own magnetic field described by measurable elements, and that materials fall into three classes by how their own atoms respond to an applied field.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Describes Earth’s magnetic elements — declination, dip and horizontal component",
+        "Distinguishes para-, dia- and ferromagnetic behaviour",
+        "Explains why only some materials retain magnetism once the field is removed"
+      ],
+      "assessmentPrompt": "Ask {{name}} why iron can be turned into a permanent magnet but copper cannot.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U3"
+      ]
+    },
+    {
+      "id": "mt_sdHNUFpkPX",
+      "type": "PROCEDURAL",
+      "subject": "Physics",
+      "domain": "Optics",
+      "name": "Image Formation by Mirrors and Lenses",
+      "description": "Locate the image formed by a spherical mirror or a thin lens using the mirror and lens formulae, and predict whether it is real or virtual, upright or inverted.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Applies the mirror or lens formula to locate an image",
+        "Predicts whether an image is real or virtual and its orientation",
+        "Uses the lens-maker's formula or lens power in a calculation"
+      ],
+      "assessmentPrompt": "Ask {{name}} where the image forms when an object sits between a converging lens and its focus.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U6"
+      ]
+    },
+    {
+      "id": "mt_t0rTN2z6fx",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Optics",
+      "name": "Total Internal Reflection and Optical Fibres",
+      "description": "Understand that light striking a boundary beyond the critical angle is reflected entirely back into the denser medium, which is what lets a fibre carry light around bends.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "States the condition for total internal reflection and computes a critical angle",
+        "Explains how an optical fibre guides light along its length",
+        "Explains a natural or everyday instance such as a mirage or a sparkling diamond"
+      ],
+      "assessmentPrompt": "Ask {{name}} how light can be made to travel around a bend without escaping the fibre.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U6"
+      ]
+    },
+    {
+      "id": "mt_MUNTBTfIIE",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Modern Physics",
+      "name": "Radioactivity and the Decay Law",
+      "description": "Understand that unstable nuclei decay at random but with a fixed characteristic half life, emitting alpha, beta or gamma radiation that differ in charge and penetrating power.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes alpha, beta and gamma radiation by charge and penetration",
+        "Uses half life to find how much of a sample remains",
+        "Explains why decay is random yet statistically predictable"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a substance can decay unpredictably and still have a precisely known half life.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U8"
+      ]
+    },
+    {
+      "id": "mt_4cc1RD9vYd",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Modern Physics",
+      "name": "Binding Energy, Fission and Fusion",
+      "description": "Understand that the mass missing from a nucleus appears as its binding energy, and that the shape of the binding-energy curve is why both splitting heavy nuclei and fusing light ones release energy.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Relates mass defect to binding energy per nucleon",
+        "Reads the binding-energy curve and identifies where it peaks",
+        "Explains from that curve why both fission and fusion release energy"
+      ],
+      "assessmentPrompt": "Ask {{name}} how splitting a heavy atom and joining two light ones can both give out energy.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U8"
+      ]
+    },
+    {
+      "id": "mt_hME090vOaH",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electronics & Communication",
+      "name": "Semiconductors and the Junction Diode",
+      "description": "Understand that doping silicon produces n-type and p-type material, and that the junction between them passes current in one direction only.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how doping produces n-type and p-type material",
+        "Explains why a p-n junction conducts in only one direction",
+        "Reads forward and reverse bias from an I-V characteristic"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a device with no moving parts can act as a one-way valve for electricity.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U9"
+      ]
+    },
+    {
+      "id": "mt_WR1hBi2yuS",
+      "type": "CONCEPTUAL",
+      "subject": "Physics",
+      "domain": "Electronics & Communication",
+      "name": "The Transistor as Amplifier and Switch",
+      "description": "Understand that a small current into the base of a transistor controls a much larger current through it, which is what allows one signal to amplify another or to switch it on and off.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains transistor action as a small current controlling a large one",
+        "Explains how a transistor amplifies in common-emitter configuration",
+        "Explains how the same device acts as a switch"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a tiny signal from a microphone ends up driving a loudspeaker.",
+      "standards": [
+        "ncert-hsec:PHY.C12.U9"
+      ]
+    },
+    {
+      "id": "mt_Nep5PcwnGk",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Ionic Equilibrium and the pH Scale",
+      "description": "Understand that weak acids and bases ionise only partly, so their strength is a matter of degree, and that pH expresses hydrogen ion concentration on a logarithmic scale.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes strong from weak electrolytes by degree of ionization",
+        "Calculates pH from hydrogen ion concentration and back",
+        "Explains why the pH scale is logarithmic"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a pH of 3 is a hundred times more acidic than a pH of 5, not slightly more.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_EugwSoQuhA",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Buffers, Salt Hydrolysis and Solubility Product",
+      "description": "Understand that a conjugate acid-base pair in solution resists pH change, and that the common ion effect and solubility product govern when a salt dissolves or precipitates.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains how a buffer resists a change in pH",
+        "Explains the common ion effect with an example",
+        "Uses solubility product to predict whether a precipitate forms"
+      ],
+      "assessmentPrompt": "Ask {{name}} why adding a little acid to blood barely changes its pH.",
+      "standards": [
+        "ncert-hsec:CHE.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_YHqOwdvJ4x",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Electrolysis and Conductance",
+      "description": "Understand how ions carry current through a solution, and that the quantity of electricity passed fixes exactly how much substance is deposited at an electrode.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Relates charge passed to mass deposited in electrolysis",
+        "Explains how molar conductivity varies with dilution",
+        "Applies Kohlrausch's law to a weak electrolyte"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a factory knows how long to run a current to plate exactly the right thickness of metal.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U3"
+      ]
+    },
+    {
+      "id": "mt_hZ1N6xE82i",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Physical Chemistry",
+      "name": "Corrosion as an Electrochemical Process",
+      "description": "Understand that rusting is not simple burning but a galvanic cell forming on the metal surface, which is why moisture, salt and contact with a second metal all accelerate it.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains rusting as anodic and cathodic regions on one surface",
+        "Explains why salt water accelerates corrosion",
+        "Explains how galvanising or sacrificial protection prevents it"
+      ],
+      "assessmentPrompt": "Ask {{name}} why iron rusts faster in salty water than in pure water.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U3"
+      ]
+    },
+    {
+      "id": "mt_Lq4yHFNmu8",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Alcohols and Phenols",
+      "description": "Understand how the hydroxyl group behaves differently on a chain and on a ring, so that phenol is appreciably acidic while an alcohol is essentially neutral.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes primary, secondary and tertiary alcohols by test",
+        "Explains why phenol is more acidic than an alcohol",
+        "Outlines the mechanism of dehydration of an alcohol"
+      ],
+      "assessmentPrompt": "Ask {{name}} why phenol turns litmus red but ethanol does not, when both contain an OH group.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U11"
+      ]
+    },
+    {
+      "id": "mt_z6xYOgCzfA",
+      "type": "CONCEPTUAL",
+      "subject": "Chemistry",
+      "domain": "Organic Chemistry",
+      "name": "Ethers",
+      "description": "Understand that an oxygen joining two carbon groups gives a largely unreactive, low-boiling compound, which is why ethers are valued as solvents rather than as reagents.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Names an ether and describes its preparation",
+        "Explains why ethers are far less reactive than alcohols",
+        "Explains why an ether boils lower than an alcohol of similar mass"
+      ],
+      "assessmentPrompt": "Ask {{name}} why an ether makes a good solvent precisely because it does so little.",
+      "standards": [
+        "ncert-hsec:CHE.C12.U11"
+      ]
+    },
+    {
+      "id": "mt_5NY2bkGiHf",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Genetics & Evolution",
+      "name": "Sex Determination and Sex-Linked Inheritance",
+      "description": "Understand that sex is fixed by which sex chromosomes an individual carries, and that genes on the X chromosome are inherited in a pattern that falls unequally on males and females.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains XX–XY sex determination",
+        "Explains why a male inherits his X chromosome only from his mother",
+        "Explains the inheritance pattern of a sex-linked condition such as haemophilia"
+      ],
+      "assessmentPrompt": "Ask {{name}} why haemophilia and colour blindness appear far more often in males.",
+      "standards": [
+        "ncert-hsec:BIO.U7"
+      ]
+    },
+    {
+      "id": "mt_pJeCKdMSGq",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Genetics & Evolution",
+      "name": "Linkage and Crossing Over",
+      "description": "Understand that genes sitting on the same chromosome tend to travel together rather than assorting independently, and that crossing over breaks that linkage more often the further apart they lie.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains why linked genes do not assort independently",
+        "Explains how crossing over recombines linked genes",
+        "Relates recombination frequency to distance along a chromosome"
+      ],
+      "assessmentPrompt": "Ask {{name}} why two traits that always appeared together in one family can suddenly come apart.",
+      "standards": [
+        "ncert-hsec:BIO.U7"
+      ]
+    },
+    {
+      "id": "mt_7kKtb2ocFv",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Genetics & Evolution",
+      "name": "DNA Replication",
+      "description": "Understand that DNA copies itself semi-conservatively, each strand serving as the template for a new partner, so that both daughter molecules keep one original strand.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains what semi-conservative replication means",
+        "Explains why base pairing makes accurate copying possible",
+        "Names the point in the cell cycle at which replication occurs"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a molecule can make an accurate copy of itself.",
+      "standards": [
+        "ncert-hsec:BIO.U7"
+      ]
+    },
+    {
+      "id": "mt_SCvKK1MHpx",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Genetics & Evolution",
+      "name": "Transcription and Translation",
+      "description": "Understand that a gene is transcribed into RNA and that the RNA sequence is then read three bases at a time to assemble a specific chain of amino acids.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes transcription from translation and states where each occurs",
+        "Uses the triplet code to read a sequence into amino acids",
+        "Explains the roles of messenger and transfer RNA"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a sequence of four repeating chemicals can specify a whole protein.",
+      "standards": [
+        "ncert-hsec:BIO.U7"
+      ]
+    },
+    {
+      "id": "mt_DJmXUH6xh9",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Biology & Human Welfare",
+      "name": "Cancer as Uncontrolled Cell Division",
+      "description": "Understand cancer as the failure of the controls that normally stop a cell dividing, so that a lineage of cells multiplies without limit and can spread to other tissues.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains cancer as a failure of the controls on cell division",
+        "Distinguishes a benign from a malignant growth",
+        "Names a carcinogen and how detection or treatment works"
+      ],
+      "assessmentPrompt": "Ask {{name}} what has gone wrong inside a single cell for a tumour to begin.",
+      "standards": [
+        "ncert-hsec:BIO.U8"
+      ]
+    },
+    {
+      "id": "mt_GzpXuzjrKA",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Biology & Human Welfare",
+      "name": "AIDS and Substance Abuse",
+      "description": "Understand why a virus that attacks the immune system itself is uniquely dangerous, and recognise the physiological and social toll of drug and alcohol dependence.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains why HIV is particularly dangerous to the immune system",
+        "Describes how HIV is and is not transmitted",
+        "Describes the physiological effects of drug or alcohol dependence"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a disease that attacks the immune system is so much more dangerous than most infections.",
+      "standards": [
+        "ncert-hsec:BIO.U8"
+      ]
+    },
+    {
+      "id": "mt_B30AyRw53X",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Ecology & Environment",
+      "name": "Populations and Their Growth",
+      "description": "Understand that a population has measurable attributes such as density and age structure, and that its growth switches from exponential to logistic once resources begin to limit it.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Describes attributes of a population such as density and age structure",
+        "Distinguishes exponential from logistic growth",
+        "Explains what carrying capacity means"
+      ],
+      "assessmentPrompt": "Ask {{name}} what stops a population from growing forever once conditions are good.",
+      "standards": [
+        "ncert-hsec:BIO.U10"
+      ]
+    },
+    {
+      "id": "mt_mxVwYQc2Ep",
+      "type": "CONCEPTUAL",
+      "subject": "Biology",
+      "domain": "Ecology & Environment",
+      "name": "Communities, Interactions and Adaptation",
+      "description": "Understand that populations sharing a habitat interact through competition, predation and mutualism, and that each species is adapted to the conditions its habitat imposes.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Names a form of interaction between species and its effect on each",
+        "Explains an adaptation suiting an organism to a harsh habitat",
+        "Explains how competition can partition a shared habitat"
+      ],
+      "assessmentPrompt": "Ask {{name}} how two species wanting the same food can both survive in one place.",
+      "standards": [
+        "ncert-hsec:BIO.U10"
+      ]
+    },
+    {
+      "id": "mt_kgie8N4G4q",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Work & Vocation",
+      "name": "Environmental Psychology",
+      "description": "Understand that the physical setting shapes behaviour in measurable ways — crowding, noise and heat all change how people act — and that design often changes conduct more reliably than persuasion.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how crowding, noise or heat affects behaviour",
+        "Explains a strategy for encouraging pro-environmental behaviour",
+        "Explains why changing the setting can beat changing attitudes"
+      ],
+      "assessmentPrompt": "Ask {{name}} why telling people that recycling matters often changes less than making the bin easier to reach.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U8"
+      ]
+    },
+    {
+      "id": "mt_8TKaIliclO",
+      "type": "CONCEPTUAL",
+      "subject": "Psychology",
+      "domain": "Work & Vocation",
+      "name": "Psychology Applied to Social Problems",
+      "description": "Understand how psychological research is brought to bear on poverty, aggression and violence, health behaviour and the influence of mass media.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains a psychological account of aggression and a way to reduce it",
+        "Explains how psychology contributes to promoting health behaviour",
+        "Describes a documented effect of media exposure on behaviour"
+      ],
+      "assessmentPrompt": "Ask {{name}} what psychology can actually contribute to a problem as large as poverty.",
+      "standards": [
+        "ncert-hsec:PSY.C12.U8"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4330,
+  "edgeCount": 4353,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -23200,18 +23200,6 @@
       "reason": "Surface effects are studied alongside bulk fluid behaviour."
     },
     {
-      "topicId": "mt_kFoccN6EE3",
-      "prerequisiteId": "mt_DI1cyAyGyN",
-      "strength": "hard",
-      "reason": "Calorimetry builds on heating experiments and Q = mcΔT."
-    },
-    {
-      "topicId": "mt_dtEKMxiQHK",
-      "prerequisiteId": "mt_kFoccN6EE3",
-      "strength": "hard",
-      "reason": "The first law is stated in terms of heat and internal energy."
-    },
-    {
       "topicId": "mt_dtEKMxiQHK",
       "prerequisiteId": "mt_VLhHmLpYE3",
       "strength": "soft",
@@ -23246,12 +23234,6 @@
       "prerequisiteId": "mt_rqzBHiLWPc",
       "strength": "hard",
       "reason": "A progressive wave is built from simple harmonic oscillation."
-    },
-    {
-      "topicId": "mt_4JyerLxfJS",
-      "prerequisiteId": "mt_RU4ERyXzz3",
-      "strength": "hard",
-      "reason": "Standing waves and beats are superposition effects."
     },
     {
       "topicId": "mt_Thvs20Cw9w",
@@ -25982,6 +25964,162 @@
       "prerequisiteId": "mt_nCnfO9cPdJ",
       "strength": "hard",
       "reason": "Sentence transformation builds on Hindi word types and vocabulary."
+    },
+    {
+      "topicId": "mt_yiQHDbhpH5",
+      "prerequisiteId": "mt_DI1cyAyGyN",
+      "strength": "hard",
+      "reason": "Calorimetry builds on heating experiments and Q = mcΔT."
+    },
+    {
+      "topicId": "mt_gObcpLdJ4h",
+      "prerequisiteId": "mt_yiQHDbhpH5",
+      "strength": "hard",
+      "reason": "How heat travels is studied after what heat does to a body."
+    },
+    {
+      "topicId": "mt_gObcpLdJ4h",
+      "prerequisiteId": "mt_ySnOkVIu22",
+      "strength": "hard",
+      "reason": "Builds on conduction, convection and radiation met at secondary level."
+    },
+    {
+      "topicId": "mt_dtEKMxiQHK",
+      "prerequisiteId": "mt_yiQHDbhpH5",
+      "strength": "hard",
+      "reason": "The first law is stated in terms of heat and internal energy."
+    },
+    {
+      "topicId": "mt_P1P1CeyQSF",
+      "prerequisiteId": "mt_RU4ERyXzz3",
+      "strength": "hard",
+      "reason": "Standing waves and beats are superposition effects."
+    },
+    {
+      "topicId": "mt_OvUr1NB5mL",
+      "prerequisiteId": "mt_RU4ERyXzz3",
+      "strength": "hard",
+      "reason": "The Doppler shift is a property of a travelling wave."
+    },
+    {
+      "topicId": "mt_vLOMfLHK7e",
+      "prerequisiteId": "mt_HENBAXC4SV",
+      "strength": "hard",
+      "reason": "Resistivity describes what impedes the drift just defined."
+    },
+    {
+      "topicId": "mt_ef0TU0P8l5",
+      "prerequisiteId": "mt_tgCunGLwoJ",
+      "strength": "hard",
+      "reason": "Bridge and potentiometer balance conditions are derived from the circuit laws."
+    },
+    {
+      "topicId": "mt_JmiIqglyxj",
+      "prerequisiteId": "mt_0DUD3CpR56",
+      "strength": "hard",
+      "reason": "Materials are described by the dipoles their atoms carry."
+    },
+    {
+      "topicId": "mt_t0rTN2z6fx",
+      "prerequisiteId": "mt_sdHNUFpkPX",
+      "strength": "hard",
+      "reason": "Total internal reflection is a refraction case within ray optics."
+    },
+    {
+      "topicId": "mt_4cc1RD9vYd",
+      "prerequisiteId": "mt_MUNTBTfIIE",
+      "strength": "hard",
+      "reason": "Binding energy explains why unstable nuclei decay at all."
+    },
+    {
+      "topicId": "mt_WR1hBi2yuS",
+      "prerequisiteId": "mt_hME090vOaH",
+      "strength": "hard",
+      "reason": "A transistor is built from two back-to-back junctions."
+    },
+    {
+      "topicId": "mt_PhsT13hNR7",
+      "prerequisiteId": "mt_HENBAXC4SV",
+      "strength": "hard",
+      "reason": "Terminal voltage is worked out from resistance in the circuit."
+    },
+    {
+      "topicId": "mt_WR1hBi2yuS",
+      "prerequisiteId": "mt_HENBAXC4SV",
+      "strength": "hard",
+      "reason": "Conduction in semiconductors builds on conduction in metals."
+    },
+    {
+      "topicId": "mt_EugwSoQuhA",
+      "prerequisiteId": "mt_Nep5PcwnGk",
+      "strength": "hard",
+      "reason": "Buffer action is an application of ionic equilibrium."
+    },
+    {
+      "topicId": "mt_hZ1N6xE82i",
+      "prerequisiteId": "mt_k24UxiIFWO",
+      "strength": "hard",
+      "reason": "Corrosion is understood as a galvanic cell on the metal surface."
+    },
+    {
+      "topicId": "mt_z6xYOgCzfA",
+      "prerequisiteId": "mt_Lq4yHFNmu8",
+      "strength": "hard",
+      "reason": "Ethers are studied alongside the alcohols they are prepared from."
+    },
+    {
+      "topicId": "mt_pJeCKdMSGq",
+      "prerequisiteId": "mt_5NY2bkGiHf",
+      "strength": "hard",
+      "reason": "Linkage is studied on the chromosomes that also determine sex."
+    },
+    {
+      "topicId": "mt_5NY2bkGiHf",
+      "prerequisiteId": "mt_EmDPs3ZBwY",
+      "strength": "hard",
+      "reason": "Sex-linked inheritance is a special case of Mendelian inheritance."
+    },
+    {
+      "topicId": "mt_SCvKK1MHpx",
+      "prerequisiteId": "mt_7kKtb2ocFv",
+      "strength": "hard",
+      "reason": "Expression is studied after how the molecule copies itself."
+    },
+    {
+      "topicId": "mt_7kKtb2ocFv",
+      "prerequisiteId": "mt_0sELh0MYWb",
+      "strength": "hard",
+      "reason": "Replication builds on DNA and genes met at secondary level."
+    },
+    {
+      "topicId": "mt_DJmXUH6xh9",
+      "prerequisiteId": "mt_BTpZFiW5Ge",
+      "strength": "hard",
+      "reason": "Cancer is a failure of the controls on the cell cycle."
+    },
+    {
+      "topicId": "mt_mxVwYQc2Ep",
+      "prerequisiteId": "mt_B30AyRw53X",
+      "strength": "hard",
+      "reason": "Communities are built from the populations just described."
+    },
+    {
+      "topicId": "mt_B30AyRw53X",
+      "prerequisiteId": "mt_pT8cPGLRpq",
+      "strength": "soft",
+      "reason": "Populations are the units within an ecosystem."
+    },
+    {
+      "topicId": "mt_8TKaIliclO",
+      "prerequisiteId": "mt_kgie8N4G4q",
+      "strength": "hard",
+      "reason": "Applied social psychology builds on how settings shape behaviour."
+    },
+    {
+      "topicId": "mt_kgie8N4G4q",
+      "prerequisiteId": "mt_HsVCCet8lx",
+      "strength": "soft",
+      "reason": "Environmental effects are studied alongside group-level behaviour."
     }
   ]
 }

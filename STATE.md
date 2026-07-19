@@ -5,7 +5,7 @@ Last updated 2026-07-19.
 
 ## Where things stand
 
-2,444 topics · 4,330 edges · 4,253 standards · 342 clusters · 15 curriculum
+2,460 topics · 4,353 edges · 4,253 standards · 342 clusters · 15 curriculum
 sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
 All fifteen build scripts idempotent (re-run adds zero).
 
@@ -72,6 +72,13 @@ Devanagari and tesseract has `tel`, `kan` and `tam` packs installed.
   topics are *reachable*. The XI–XII work passed validation while leaving 48
   topics in 14 stranded islands. Build the adjacency list, flood-fill, and
   require that every new topic joins the main component.
+- **Grain: test whether the description states one claim or several.** Format
+  audits (evidence count, age span, standards per topic) pass happily on a topic
+  that bundles two ideas. The sharper test is whether the description makes one
+  organising claim and the three evidence items test it from different angles —
+  if instead each evidence item tests a different claim, split it. A compound
+  name is a hint, not proof: most compound-named humanities topics are one
+  comparative idea, while the XI–XII sciences are where real bundling collects.
 - **When extending a subject that already exists, anchor the new ladder to the
   old one explicitly.** Psychology, Business Studies and Accountancy each ended
   up as two disconnected halves because the senior topics only referenced each

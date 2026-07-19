@@ -8,6 +8,34 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### Grain review: decomposing bundled micro-topics (2026-07-19)
+- Earlier grain audits only checked **format** invariants — three evidence items,
+  null centrality, age span, no topic carrying three or more standards. None of
+  them asked the question that matters: *is this one teachable idea, or several?*
+- Applied a sharper test — **does the description state one organising claim, or
+  two-plus independent ones, and do the evidence items partition onto them?**
+  Seventy-seven topics have compound names, but most are legitimately a single
+  idea (*Marx, Durkheim and Weber* is one comparison; *Sets, Subsets and Set
+  Operations* is one idea). **Sixteen genuinely bundled two ideas**, and they
+  were almost entirely in the XI–XII sciences, where concept density is highest.
+- Split 16 topics into 32 (**2,444 → 2,460 topics, +23 edges**):
+  Physics — calorimetry from heat transfer, standing waves from the Doppler
+  effect, drift velocity from resistivity, Kirchhoff's laws from the bridge and
+  potentiometer, the magnetic dipole from Earth's magnetism and materials, image
+  formation from total internal reflection, radioactivity from binding energy,
+  and semiconductors and diodes from the transistor.
+  Chemistry — ionic equilibrium from buffers and solubility, electrolysis from
+  corrosion, alcohols and phenols from ethers.
+  Biology — sex determination from linkage, DNA replication from protein
+  synthesis, cancer from AIDS and substance abuse, population growth from
+  communities.
+  Psychology — environmental psychology from applied social problems.
+- **Fixed a content gap found by the same review:** *Alcohols, Phenols and Ethers*
+  named ethers in its title but covered none of them in its description or
+  evidence. Ethers now has its own topic.
+- The 18 remaining science compound names were each checked and kept: their
+  descriptions state a single claim that the evidence tests from several angles.
+
 ### Verification pass: graph connectivity and senior-ladder anchoring (2026-07-19)
 - A full re-audit of the three NCERT passes found the data valid and idempotent
   but the **graph badly under-connected**, which validation cannot detect.
