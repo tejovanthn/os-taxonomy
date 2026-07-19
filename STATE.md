@@ -5,7 +5,7 @@ Last updated 2026-07-19.
 
 ## Where things stand
 
-2,460 topics · 4,353 edges · 4,253 standards · 342 clusters · 15 curriculum
+2,461 topics · 4,355 edges · 4,253 standards · 342 clusters · 15 curriculum
 sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
 All fifteen build scripts idempotent (re-run adds zero).
 
@@ -72,6 +72,11 @@ Devanagari and tesseract has `tel`, `kan` and `tam` packs installed.
   topics are *reachable*. The XI–XII work passed validation while leaving 48
   topics in 14 stranded islands. Build the adjacency list, flood-fill, and
   require that every new topic joins the main component.
+- **Check that a title does not promise content the body omits.** Restrict the
+  test to titles enumerating a coordinate list (*A, B and C*) and ask whether
+  each item is addressed; a whole-title word check drowns in false positives,
+  because descriptions paraphrase deliberately. This found two real omissions
+  (attention; salt hydrolysis) that every other audit had passed over.
 - **Grain: test whether the description states one claim or several.** Format
   audits (evidence count, age span, standards per topic) pass happily on a topic
   that bundles two ideas. The sharper test is whether the description makes one

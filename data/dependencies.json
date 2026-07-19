@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4353,
+  "edgeCount": 4355,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -26120,6 +26120,18 @@
       "prerequisiteId": "mt_HsVCCet8lx",
       "strength": "soft",
       "reason": "Environmental effects are studied alongside group-level behaviour."
+    },
+    {
+      "topicId": "mt_Jgo02Qd49H",
+      "prerequisiteId": "mt_OZqdlmbiFe",
+      "strength": "hard",
+      "reason": "Builds on attention and perception met at secondary level."
+    },
+    {
+      "topicId": "mt_c3ARSwTYib",
+      "prerequisiteId": "mt_Jgo02Qd49H",
+      "strength": "soft",
+      "reason": "What is perceived depends on what was attended to."
     }
   ]
 }

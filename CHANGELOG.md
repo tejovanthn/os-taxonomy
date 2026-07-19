@@ -8,6 +8,33 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### Content-coverage review: titles that promise what the body omits (2026-07-19)
+- The grain pass had found *Alcohols, Phenols and Ethers* covering no ethers, and
+  noted that this bug class was worth searching for systematically rather than
+  stumbling on. This pass did that search.
+- A naive title-word-against-body check is useless here — it flagged 251 of 433
+  topics, almost all false positives, because descriptions deliberately
+  paraphrase in plain language (*"a fluid pushes up with a force equal to the
+  weight displaced"* is Archimedes' principle, and should not have to say so).
+  Narrowing to **titles that enumerate a coordinate list** — the actual ethers
+  pattern, where one item of an *A, B and C* title is silently dropped — gave 19
+  candidates, of which **two were real**:
+  - **Attention** was missing from *Sensation, Attention and Perception*. NCERT's
+    unit covers attentional processes and selective and sustained attention as a
+    distinct block, and the secondary ladder already had an attention topic, but
+    the senior topic addressed only sensation and perception in its description,
+    all three evidence items and its prompt. Now split out as
+    *Attention: Selective and Sustained*.
+  - **Salt hydrolysis** was named but not covered in *Buffers, Salt Hydrolysis and
+    Solubility Product* — a topic created during the grain pass, so this bug was
+    introduced by the very change that was fixing the same bug elsewhere.
+    Retitled *Buffers and Solubility Equilibria* with hydrolysis now covered.
+- The other 17 candidates were each checked and confirmed as paraphrase.
+- **Factual accuracy was spot-checked for the first time**, across roughly 50
+  descriptions spanning all three science subjects, mathematics and the newly
+  split topics. No errors found.
+- **2,461 topics · 4,355 edges.**
+
 ### Grain review: decomposing bundled micro-topics (2026-07-19)
 - Earlier grain audits only checked **format** invariants — three evidence items,
   null centrality, age span, no topic carrying three or more standards. None of
