@@ -1,7 +1,7 @@
 # STATE
 
 Branch `indian-curriculum` (local only, no upstream PR).
-Last updated 2026-07-18.
+Last updated 2026-07-19.
 
 ## Where things stand
 
