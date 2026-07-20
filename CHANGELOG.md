@@ -8,6 +8,30 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### Commerce micro-topics flattened; migration made idempotent (2026-07-20)
+- Resolved the NIOS Business Studies / Accountancy redundancy surfaced by the
+  grain review: four units carried a coarse "overview" topic covering two source
+  lessons *alongside* the two single-lesson topics that already covered them —
+  the only superset double-coverage in the dataset (everywhere else, several
+  fine topics aligning to one broad standard is the intended pattern). Per the
+  chosen design (flat single-idea micro-topics, matching the rest of the graph),
+  the four superset bundles were removed and the four remaining two-lesson
+  bundles that had never been split were decomposed.
+- Removed 8 bundle topics (Transport and Warehousing, Banking and Insurance
+  Services, Depreciation Provisions and Reserves, Financial Statements, and the
+  Communication/Trade/Advertising/Consumer pairs); added 8 single-idea
+  micro-topics; kept the existing depth-pass details. Net topic count unchanged;
+  every NIOS commerce lesson now maps to exactly one topic in its subject (zero
+  within-subject double-coverage). Prerequisite edges rewired into a flat
+  sequence; three NCERT XI–XII anchor edges repointed from the removed bundles
+  to the detail topics.
+- **Fixed a latent idempotency bug in the subject-split migration.** It remaps a
+  cluster's (subject, domain) in place, but a source build re-emits the
+  pre-migration Social Studies cluster, which then remaps onto the already-moved
+  Political Science cluster — duplicating one cluster per build+migrate cycle.
+  The migration now collapses such post-remap duplicates, so it is idempotent no
+  matter how often builds re-run. Verified stable across repeated cycles.
+
 ### Geography decomposed to discipline grain (2026-07-20)
 - A humanities-focused review pass (checking descriptions for accuracy) found the
   descriptions sound but exposed a **grain defect in Geography**: it had been

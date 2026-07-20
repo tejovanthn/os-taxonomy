@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4367,
+  "edgeCount": 4368,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -21022,64 +21022,10 @@
       "reason": "Companies and cooperatives extend the simpler forms of ownership"
     },
     {
-      "topicId": "mt_mp1SDUxSHY",
-      "prerequisiteId": "mt_eYQngys1jt",
-      "strength": "soft",
-      "reason": "Business services are part of commerce"
-    },
-    {
-      "topicId": "mt_vYelHz0dZR",
-      "prerequisiteId": "mt_eYQngys1jt",
-      "strength": "soft",
-      "reason": "Communication services are part of commerce"
-    },
-    {
-      "topicId": "mt_eVmoQ0ehxD",
-      "prerequisiteId": "mt_eYQngys1jt",
-      "strength": "soft",
-      "reason": "Banking and insurance are commercial services"
-    },
-    {
-      "topicId": "mt_eVmoQ0ehxD",
-      "prerequisiteId": "mt_uSUqTjOl8m",
-      "strength": "soft",
-      "reason": "Business banking builds on how banks and saving work"
-    },
-    {
       "topicId": "mt_wEUSyJgmpN",
       "prerequisiteId": "mt_3owJnUWaIX",
       "strength": "soft",
       "reason": "Outsourcing is a way of organising business work"
-    },
-    {
-      "topicId": "mt_rrIgP4C7CL",
-      "prerequisiteId": "mt_eYQngys1jt",
-      "strength": "soft",
-      "reason": "Trade and distribution are the heart of commerce"
-    },
-    {
-      "topicId": "mt_B6PvJm1RfI",
-      "prerequisiteId": "mt_rrIgP4C7CL",
-      "strength": "hard",
-      "reason": "Retail is the last step of the channel of distribution"
-    },
-    {
-      "topicId": "mt_zktxQfAlGz",
-      "prerequisiteId": "mt_rrIgP4C7CL",
-      "strength": "soft",
-      "reason": "Advertising and promotion support trade"
-    },
-    {
-      "topicId": "mt_zktxQfAlGz",
-      "prerequisiteId": "mt_My0OL6fhGL",
-      "strength": "soft",
-      "reason": "Advertising builds on how advertising influences spending"
-    },
-    {
-      "topicId": "mt_EfWu4E0RSk",
-      "prerequisiteId": "mt_B6PvJm1RfI",
-      "strength": "soft",
-      "reason": "Consumer protection applies where consumers buy from retailers"
     },
     {
       "topicId": "mt_LJG4MQQgB6",
@@ -21122,30 +21068,6 @@
       "prerequisiteId": "mt_bftlNTHBaU",
       "strength": "hard",
       "reason": "The trial balance builds on balanced ledger accounts"
-    },
-    {
-      "topicId": "mt_XGxXu2w2Xr",
-      "prerequisiteId": "mt_j6XjDjtXwP",
-      "strength": "soft",
-      "reason": "Adjustments like depreciation come after the trial balance"
-    },
-    {
-      "topicId": "mt_bcFSGgBMN4",
-      "prerequisiteId": "mt_j6XjDjtXwP",
-      "strength": "hard",
-      "reason": "Financial statements are prepared from the trial balance"
-    },
-    {
-      "topicId": "mt_bcFSGgBMN4",
-      "prerequisiteId": "mt_XGxXu2w2Xr",
-      "strength": "soft",
-      "reason": "Financial statements include adjustments like depreciation"
-    },
-    {
-      "topicId": "mt_yzsAqUCSMO",
-      "prerequisiteId": "mt_bcFSGgBMN4",
-      "strength": "soft",
-      "reason": "Computerised accounting produces the same records and statements"
     },
     {
       "topicId": "mt_reuQF6QDDo",
@@ -21329,39 +21251,9 @@
     },
     {
       "topicId": "mt_RaLonugipz",
-      "prerequisiteId": "mt_eVmoQ0ehxD",
-      "strength": "soft",
-      "reason": "Banking is one of the financial services in the overview"
-    },
-    {
-      "topicId": "mt_RaLonugipz",
       "prerequisiteId": "mt_uSUqTjOl8m",
       "strength": "soft",
       "reason": "Business banking builds on how banks and saving work"
-    },
-    {
-      "topicId": "mt_JvNAuZXt8Z",
-      "prerequisiteId": "mt_eVmoQ0ehxD",
-      "strength": "soft",
-      "reason": "Insurance is one of the financial services in the overview"
-    },
-    {
-      "topicId": "mt_vMDmfFjuLm",
-      "prerequisiteId": "mt_mp1SDUxSHY",
-      "strength": "soft",
-      "reason": "Transport is one of the services in the overview"
-    },
-    {
-      "topicId": "mt_SQToqd1SHT",
-      "prerequisiteId": "mt_mp1SDUxSHY",
-      "strength": "soft",
-      "reason": "Warehousing is one of the services in the overview"
-    },
-    {
-      "topicId": "mt_s3QEwImLcY",
-      "prerequisiteId": "mt_bcFSGgBMN4",
-      "strength": "soft",
-      "reason": "The profit-and-loss account is one of the financial statements"
     },
     {
       "topicId": "mt_s3QEwImLcY",
@@ -21371,27 +21263,9 @@
     },
     {
       "topicId": "mt_fKIC1c1Hm7",
-      "prerequisiteId": "mt_bcFSGgBMN4",
-      "strength": "soft",
-      "reason": "The balance sheet is one of the financial statements"
-    },
-    {
-      "topicId": "mt_fKIC1c1Hm7",
       "prerequisiteId": "mt_s3QEwImLcY",
       "strength": "soft",
       "reason": "The balance sheet is drawn up after the profit-and-loss account"
-    },
-    {
-      "topicId": "mt_SGaAO8Kq9Z",
-      "prerequisiteId": "mt_XGxXu2w2Xr",
-      "strength": "soft",
-      "reason": "A focused look at depreciation builds on the adjustments overview"
-    },
-    {
-      "topicId": "mt_eqaxzYogPq",
-      "prerequisiteId": "mt_XGxXu2w2Xr",
-      "strength": "soft",
-      "reason": "A focused look at provisions and reserves builds on the adjustments overview"
     },
     {
       "topicId": "mt_OJdk5cjFc5",
@@ -25661,39 +25535,15 @@
     },
     {
       "topicId": "mt_OCNhs90RTz",
-      "prerequisiteId": "mt_eVmoQ0ehxD",
-      "strength": "hard",
-      "reason": "Builds on banking and insurance services."
-    },
-    {
-      "topicId": "mt_OCNhs90RTz",
       "prerequisiteId": "mt_wEUSyJgmpN",
       "strength": "hard",
       "reason": "Emerging modes build on outsourcing met earlier."
     },
     {
       "topicId": "mt_6kGqqDk0LX",
-      "prerequisiteId": "mt_rrIgP4C7CL",
-      "strength": "hard",
-      "reason": "Builds on trade and channels of distribution."
-    },
-    {
-      "topicId": "mt_6kGqqDk0LX",
       "prerequisiteId": "mt_B6PvJm1RfI",
       "strength": "hard",
       "reason": "Builds on retail trade met at secondary level."
-    },
-    {
-      "topicId": "mt_TjESAIII6g",
-      "prerequisiteId": "mt_zktxQfAlGz",
-      "strength": "hard",
-      "reason": "The promotion element builds on advertising and sales promotion."
-    },
-    {
-      "topicId": "mt_xinSEhDpkF",
-      "prerequisiteId": "mt_EfWu4E0RSk",
-      "strength": "hard",
-      "reason": "Builds on consumer rights and protection met earlier."
     },
     {
       "topicId": "mt_L0Msh4ITcW",
@@ -25730,18 +25580,6 @@
       "prerequisiteId": "mt_j6XjDjtXwP",
       "strength": "hard",
       "reason": "Builds on the trial balance and errors met earlier."
-    },
-    {
-      "topicId": "mt_Az7kEVzroL",
-      "prerequisiteId": "mt_XGxXu2w2Xr",
-      "strength": "hard",
-      "reason": "Computing depreciation builds on knowing what it is."
-    },
-    {
-      "topicId": "mt_p0RjkyWdSQ",
-      "prerequisiteId": "mt_bcFSGgBMN4",
-      "strength": "hard",
-      "reason": "Builds on financial statements met at secondary level."
     },
     {
       "topicId": "mt_VBV1VhhJHW",
@@ -26204,6 +26042,174 @@
       "prerequisiteId": "mt_a7GPbUmpDN",
       "strength": "soft",
       "reason": "Development planning coordinates agriculture and industry."
+    },
+    {
+      "topicId": "mt_5M07PDAyVs",
+      "prerequisiteId": "mt_eYQngys1jt",
+      "strength": "soft",
+      "reason": "Communication services are part of commerce"
+    },
+    {
+      "topicId": "mt_tA9Kf25L3s",
+      "prerequisiteId": "mt_5M07PDAyVs",
+      "strength": "soft",
+      "reason": "Postal and courier services sit alongside communication services"
+    },
+    {
+      "topicId": "mt_DF3mAcfJFq",
+      "prerequisiteId": "mt_eYQngys1jt",
+      "strength": "soft",
+      "reason": "Buying and selling are the heart of commerce"
+    },
+    {
+      "topicId": "mt_FU9fvmNwZO",
+      "prerequisiteId": "mt_DF3mAcfJFq",
+      "strength": "hard",
+      "reason": "Distribution channels carry the goods that are bought and sold"
+    },
+    {
+      "topicId": "mt_B6PvJm1RfI",
+      "prerequisiteId": "mt_FU9fvmNwZO",
+      "strength": "hard",
+      "reason": "Retail is the last step of the channel of distribution"
+    },
+    {
+      "topicId": "mt_QpVZDtR6gS",
+      "prerequisiteId": "mt_FU9fvmNwZO",
+      "strength": "soft",
+      "reason": "Advertising supports the sale of goods along the channel"
+    },
+    {
+      "topicId": "mt_QpVZDtR6gS",
+      "prerequisiteId": "mt_My0OL6fhGL",
+      "strength": "soft",
+      "reason": "Advertising builds on how advertising influences spending"
+    },
+    {
+      "topicId": "mt_00LVJgJmKg",
+      "prerequisiteId": "mt_QpVZDtR6gS",
+      "strength": "soft",
+      "reason": "Sales promotion is used alongside advertising to boost sales"
+    },
+    {
+      "topicId": "mt_QgbnzKUTYg",
+      "prerequisiteId": "mt_B6PvJm1RfI",
+      "strength": "soft",
+      "reason": "Consumer rights matter where consumers buy from retailers"
+    },
+    {
+      "topicId": "mt_CI8zVvPPCG",
+      "prerequisiteId": "mt_QgbnzKUTYg",
+      "strength": "hard",
+      "reason": "Protection and redress exist to enforce consumer rights"
+    },
+    {
+      "topicId": "mt_vMDmfFjuLm",
+      "prerequisiteId": "mt_eYQngys1jt",
+      "strength": "soft",
+      "reason": "Transport is one of the services that support commerce"
+    },
+    {
+      "topicId": "mt_SQToqd1SHT",
+      "prerequisiteId": "mt_vMDmfFjuLm",
+      "strength": "soft",
+      "reason": "Warehousing complements transport in moving goods to market"
+    },
+    {
+      "topicId": "mt_RaLonugipz",
+      "prerequisiteId": "mt_eYQngys1jt",
+      "strength": "soft",
+      "reason": "Banking is one of the commercial services"
+    },
+    {
+      "topicId": "mt_JvNAuZXt8Z",
+      "prerequisiteId": "mt_RaLonugipz",
+      "strength": "soft",
+      "reason": "Insurance sits alongside banking among the financial services"
+    },
+    {
+      "topicId": "mt_yzsAqUCSMO",
+      "prerequisiteId": "mt_fKIC1c1Hm7",
+      "strength": "soft",
+      "reason": "Computerised accounting produces the same records and statements"
+    },
+    {
+      "topicId": "mt_SGaAO8Kq9Z",
+      "prerequisiteId": "mt_j6XjDjtXwP",
+      "strength": "soft",
+      "reason": "Adjustments like depreciation come after the trial balance"
+    },
+    {
+      "topicId": "mt_eqaxzYogPq",
+      "prerequisiteId": "mt_SGaAO8Kq9Z",
+      "strength": "soft",
+      "reason": "Provisions and reserves are studied alongside depreciation"
+    },
+    {
+      "topicId": "mt_OCNhs90RTz",
+      "prerequisiteId": "mt_RaLonugipz",
+      "strength": "hard",
+      "reason": "Builds on banking services met at secondary level."
+    },
+    {
+      "topicId": "mt_OCNhs90RTz",
+      "prerequisiteId": "mt_JvNAuZXt8Z",
+      "strength": "soft",
+      "reason": "Insurance is one of the financial services a business uses."
+    },
+    {
+      "topicId": "mt_Az7kEVzroL",
+      "prerequisiteId": "mt_SGaAO8Kq9Z",
+      "strength": "hard",
+      "reason": "Computing depreciation builds on knowing what it is."
+    },
+    {
+      "topicId": "mt_Az7kEVzroL",
+      "prerequisiteId": "mt_eqaxzYogPq",
+      "strength": "soft",
+      "reason": "The senior treatment covers provisions and reserves too."
+    },
+    {
+      "topicId": "mt_p0RjkyWdSQ",
+      "prerequisiteId": "mt_s3QEwImLcY",
+      "strength": "hard",
+      "reason": "Builds on the profit-and-loss account met at secondary level."
+    },
+    {
+      "topicId": "mt_p0RjkyWdSQ",
+      "prerequisiteId": "mt_fKIC1c1Hm7",
+      "strength": "hard",
+      "reason": "Builds on the balance sheet met at secondary level."
+    },
+    {
+      "topicId": "mt_6kGqqDk0LX",
+      "prerequisiteId": "mt_FU9fvmNwZO",
+      "strength": "hard",
+      "reason": "Builds on channels of distribution met at secondary level."
+    },
+    {
+      "topicId": "mt_TjESAIII6g",
+      "prerequisiteId": "mt_QpVZDtR6gS",
+      "strength": "hard",
+      "reason": "The promotion element builds on advertising met at secondary level."
+    },
+    {
+      "topicId": "mt_TjESAIII6g",
+      "prerequisiteId": "mt_00LVJgJmKg",
+      "strength": "soft",
+      "reason": "The marketing mix includes sales promotion."
+    },
+    {
+      "topicId": "mt_xinSEhDpkF",
+      "prerequisiteId": "mt_CI8zVvPPCG",
+      "strength": "hard",
+      "reason": "Builds on consumer protection and redress met at secondary level."
+    },
+    {
+      "topicId": "mt_xinSEhDpkF",
+      "prerequisiteId": "mt_QgbnzKUTYg",
+      "strength": "soft",
+      "reason": "Consumer protection enforces consumer rights."
     }
   ]
 }

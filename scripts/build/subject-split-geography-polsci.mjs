@@ -101,6 +101,19 @@ for (const c of clustersDoc.clusters) {
   c.domain = CLUSTER_DOMAIN[c.domain];
   report.clusters++;
 }
+// Remapping a cluster's (subject, domain) can collide it with one already at that
+// key — e.g. a source build re-emits the pre-migration Social Studies cluster,
+// which then remaps onto the migrated Political Science cluster. Collapse such
+// duplicates so the migration is idempotent no matter how often builds re-run.
+const clusterSeen = new Set();
+const beforeDedup = clustersDoc.clusters.length;
+clustersDoc.clusters = clustersDoc.clusters.filter((c) => {
+  const k = `${c.subject}|${c.domain}|${c.ageRangeStart}`;
+  if (clusterSeen.has(k)) return false;
+  clusterSeen.add(k);
+  return true;
+});
+report.clustersDeduped = beforeDedup - clustersDoc.clusters.length;
 
 topicsDoc.topicCount = topicsDoc.topics.length;
 clustersDoc.clusterCount = clustersDoc.clusters.length;
@@ -110,5 +123,6 @@ save('clusters.json', clustersDoc);
 console.log('✓ Geography and Political Science split from Social Studies (age ≥ ' + SPLIT_AGE + '):');
 console.log(`  topics moved    : ${report.topics} ${JSON.stringify(report.bySubject)}`);
 console.log(`  clusters moved  : ${report.clusters}`);
-if (report.topics === 0 && report.clusters === 0) console.log('  (already applied — nothing to do)');
+if (report.clustersDeduped) console.log(`  duplicates cleared: ${report.clustersDeduped}`);
+if (report.topics === 0 && report.clusters === 0 && !report.clustersDeduped) console.log('  (already applied — nothing to do)');
 console.log('Next: node scripts/manifest.mjs && node scripts/validate.mjs');

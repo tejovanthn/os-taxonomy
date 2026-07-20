@@ -36823,69 +36823,6 @@
       ]
     },
     {
-      "id": "mt_mp1SDUxSHY",
-      "type": "CONCEPTUAL",
-      "subject": "Business Studies",
-      "domain": "Business Services",
-      "name": "Transport and Warehousing",
-      "description": "Understand two services that support trade — transport, which moves goods from where they are made to where they are needed, and warehousing, which stores them until they are needed.",
-      "ageRangeStart": 14,
-      "ageRangeEnd": 16,
-      "centrality": null,
-      "evidence": [
-        "Explain how transport supports business",
-        "Explain the purpose of warehousing",
-        "Explain how both bridge production and consumption"
-      ],
-      "assessmentPrompt": "Can {{name}} explain how transport and warehousing help goods get from the factory to the customer at the right time?",
-      "standards": [
-        "nios-sec-2020:215.M3.L5",
-        "nios-sec-2020:215.M3.L6"
-      ]
-    },
-    {
-      "id": "mt_vYelHz0dZR",
-      "type": "CONCEPTUAL",
-      "subject": "Business Studies",
-      "domain": "Business Services",
-      "name": "Communication and Postal Services",
-      "description": "Understand the communication, postal and courier services that let a business exchange information and send documents and goods — from post to phone to the internet.",
-      "ageRangeStart": 14,
-      "ageRangeEnd": 16,
-      "centrality": null,
-      "evidence": [
-        "Name communication services a business uses",
-        "Explain the role of postal and courier services",
-        "Explain why fast communication matters in business"
-      ],
-      "assessmentPrompt": "Can {{name}} explain how communication and postal services help a business keep in touch and send things?",
-      "standards": [
-        "nios-sec-2020:215.M3.L7",
-        "nios-sec-2020:215.M3.L8"
-      ]
-    },
-    {
-      "id": "mt_eVmoQ0ehxD",
-      "type": "CONCEPTUAL",
-      "subject": "Business Studies",
-      "domain": "Business Services",
-      "name": "Banking and Insurance Services",
-      "description": "Understand two financial services businesses rely on — banking, which handles money, payments and loans, and insurance, which protects against risks and losses.",
-      "ageRangeStart": 14,
-      "ageRangeEnd": 16,
-      "centrality": null,
-      "evidence": [
-        "Explain banking services a business uses",
-        "Explain how insurance manages risk",
-        "Give an example of a risk a business insures against"
-      ],
-      "assessmentPrompt": "Can {{name}} explain how banks help businesses handle money, and how insurance protects them against losses?",
-      "standards": [
-        "nios-sec-2020:215.M3.L9",
-        "nios-sec-2020:215.M3.L10"
-      ]
-    },
-    {
       "id": "mt_wEUSyJgmpN",
       "type": "CONCEPTUAL",
       "subject": "Business Studies",
@@ -36906,27 +36843,6 @@
       ]
     },
     {
-      "id": "mt_rrIgP4C7CL",
-      "type": "CONCEPTUAL",
-      "subject": "Business Studies",
-      "domain": "Trade and Marketing",
-      "name": "Trade and Channels of Distribution",
-      "description": "Understand how goods reach customers — the buying and selling of trade, and the channels of distribution (producer → wholesaler → retailer → consumer) that move goods along the way.",
-      "ageRangeStart": 14,
-      "ageRangeEnd": 16,
-      "centrality": null,
-      "evidence": [
-        "Explain the process of purchase and sale",
-        "Describe a channel of distribution",
-        "Explain the role of wholesalers and retailers"
-      ],
-      "assessmentPrompt": "Can {{name}} explain how goods travel from the producer to the customer through wholesalers and retailers?",
-      "standards": [
-        "nios-sec-2020:215.M4.L12",
-        "nios-sec-2020:215.M4.L13"
-      ]
-    },
-    {
       "id": "mt_B6PvJm1RfI",
       "type": "CONCEPTUAL",
       "subject": "Business Studies",
@@ -36944,48 +36860,6 @@
       "assessmentPrompt": "Can {{name}} explain what retail trade is and give examples of different kinds of shops and sellers?",
       "standards": [
         "nios-sec-2020:215.M4.L14"
-      ]
-    },
-    {
-      "id": "mt_zktxQfAlGz",
-      "type": "CONCEPTUAL",
-      "subject": "Business Studies",
-      "domain": "Trade and Marketing",
-      "name": "Advertising and Sales Promotion",
-      "description": "Understand how businesses make people aware of and want their products — advertising (paid messages) and sales promotion (offers, discounts and publicity) — and the difference between them.",
-      "ageRangeStart": 14,
-      "ageRangeEnd": 16,
-      "centrality": null,
-      "evidence": [
-        "Explain the purpose of advertising",
-        "Give an example of a sales promotion",
-        "Distinguish advertising from sales promotion"
-      ],
-      "assessmentPrompt": "Can {{name}} explain how businesses use advertising and special offers to get people to buy their products?",
-      "standards": [
-        "nios-sec-2020:215.M4.L15",
-        "nios-sec-2020:215.M4.L16"
-      ]
-    },
-    {
-      "id": "mt_EfWu4E0RSk",
-      "type": "CONCEPTUAL",
-      "subject": "Business Studies",
-      "domain": "Consumer Protection",
-      "name": "Consumer Rights and Protection",
-      "description": "Understand that consumers have rights — to safety, information, choice and to be heard — and that laws and bodies protect them and give a way to seek redress when wronged.",
-      "ageRangeStart": 14,
-      "ageRangeEnd": 16,
-      "centrality": null,
-      "evidence": [
-        "Name several consumer rights",
-        "Explain why consumer protection is needed",
-        "Describe how a consumer can seek redress"
-      ],
-      "assessmentPrompt": "Can {{name}} explain what rights a consumer has and what they can do if a product or service treats them unfairly?",
-      "standards": [
-        "nios-sec-2020:215.M5.L17",
-        "nios-sec-2020:215.M5.L18"
       ]
     },
     {
@@ -37147,48 +37021,6 @@
       "assessmentPrompt": "Can {{name}} explain how a trial balance checks that the books balance, with total debits equal to total credits?",
       "standards": [
         "nios-sec-2020:224.M3.L8"
-      ]
-    },
-    {
-      "id": "mt_XGxXu2w2Xr",
-      "type": "CONCEPTUAL",
-      "subject": "Accountancy",
-      "domain": "Adjustments",
-      "name": "Depreciation, Provisions and Reserves",
-      "description": "Understand depreciation — the fall in value of assets as they are used — and provisions and reserves, amounts a business sets aside for future losses or needs.",
-      "ageRangeStart": 14,
-      "ageRangeEnd": 16,
-      "centrality": null,
-      "evidence": [
-        "Explain what depreciation is and why it is recorded",
-        "Distinguish a provision from a reserve",
-        "Give an example of an asset that depreciates"
-      ],
-      "assessmentPrompt": "Can {{name}} explain why a business records depreciation as its equipment wears out, and what reserves are for?",
-      "standards": [
-        "nios-sec-2020:224.M4.L9",
-        "nios-sec-2020:224.M4.L10"
-      ]
-    },
-    {
-      "id": "mt_bcFSGgBMN4",
-      "type": "CONCEPTUAL",
-      "subject": "Accountancy",
-      "domain": "Financial Statements",
-      "name": "Financial Statements",
-      "description": "Understand the two main financial statements — the profit-and-loss account, which shows whether the business made a profit, and the balance sheet, which shows what it owns and owes.",
-      "ageRangeStart": 14,
-      "ageRangeEnd": 16,
-      "centrality": null,
-      "evidence": [
-        "Explain what the profit-and-loss account shows",
-        "Explain what the balance sheet shows",
-        "Distinguish profit from financial position"
-      ],
-      "assessmentPrompt": "Can {{name}} explain the difference between a profit-and-loss account (did the business make money?) and a balance sheet (what does it own and owe?)",
-      "standards": [
-        "nios-sec-2020:224.M5.L11",
-        "nios-sec-2020:224.M5.L12"
       ]
     },
     {
@@ -50140,6 +49972,166 @@
       "assessmentPrompt": "Ask {{name}} why some parts of India stay poorer than others even after decades of growth.",
       "standards": [
         "ncert-hsec:GEO.C12.I1"
+      ]
+    },
+    {
+      "id": "mt_5M07PDAyVs",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Services",
+      "name": "Communication Services",
+      "description": "Understand the communication services a business relies on to exchange information quickly — from telephone and fax to email and the internet — and why speed matters in trade.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name communication services a business uses",
+        "Explain why fast communication matters in business",
+        "Give an example of a decision that depends on quick communication"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how communication services help a business keep in touch with customers and suppliers?",
+      "standards": [
+        "nios-sec-2020:215.M3.L7"
+      ]
+    },
+    {
+      "id": "mt_tA9Kf25L3s",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Services",
+      "name": "Postal and Courier Services",
+      "description": "Understand the postal and courier services a business uses to send documents and goods — from ordinary post to registered and speed post to private couriers — and how to choose between them.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguish postal from courier services",
+        "Explain when a business would use a courier over ordinary post",
+        "Explain the role of these services in trade"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the difference between using the post and using a courier to send something?",
+      "standards": [
+        "nios-sec-2020:215.M3.L8"
+      ]
+    },
+    {
+      "id": "mt_DF3mAcfJFq",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Trade and Marketing",
+      "name": "Purchase and Sale",
+      "description": "Understand trade as the buying and selling of goods — the purchase of goods for a business and their sale to customers — and the documents and terms that a transaction involves.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what purchase and sale mean in trade",
+        "Name a document used in a purchase or sale",
+        "Explain the terms on which goods are bought and sold"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what happens when a business buys goods to sell and then sells them on to customers?",
+      "standards": [
+        "nios-sec-2020:215.M4.L12"
+      ]
+    },
+    {
+      "id": "mt_FU9fvmNwZO",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Trade and Marketing",
+      "name": "Channels of Distribution",
+      "description": "Understand how goods move from producer to consumer through a channel of distribution — producer, wholesaler, retailer, consumer — and why a business chooses one channel over another.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describe a channel of distribution",
+        "Explain the role of wholesalers and retailers in the channel",
+        "Explain why a business might sell direct instead"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how goods travel from the producer to the customer through wholesalers and retailers?",
+      "standards": [
+        "nios-sec-2020:215.M4.L13"
+      ]
+    },
+    {
+      "id": "mt_QpVZDtR6gS",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Trade and Marketing",
+      "name": "Advertising",
+      "description": "Understand advertising as paid, public messages a business uses to make people aware of a product and want it, and the media through which advertisements reach an audience.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain the purpose of advertising",
+        "Name media through which businesses advertise",
+        "Explain how advertising influences a buyer"
+      ],
+      "assessmentPrompt": "Can {{name}} explain why a business pays to advertise, and where its advertisements appear?",
+      "standards": [
+        "nios-sec-2020:215.M4.L15"
+      ]
+    },
+    {
+      "id": "mt_00LVJgJmKg",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Trade and Marketing",
+      "name": "Sales Promotion and Publicity",
+      "description": "Understand sales promotion — the short-term offers, discounts and free samples a business uses to boost sales — and publicity, favourable attention a business does not pay for directly.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Give an example of a sales promotion",
+        "Distinguish sales promotion from advertising",
+        "Explain what publicity is and how it differs from advertising"
+      ],
+      "assessmentPrompt": "Can {{name}} explain how special offers and discounts differ from ordinary advertising?",
+      "standards": [
+        "nios-sec-2020:215.M4.L16"
+      ]
+    },
+    {
+      "id": "mt_QgbnzKUTYg",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Consumer Protection",
+      "name": "Consumer Rights",
+      "description": "Understand that consumers have rights — to safety, to information, to choose and to be heard — that exist because buyers are often at a disadvantage against sellers.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name several consumer rights",
+        "Explain why consumers need protected rights",
+        "Give an example of a right being denied"
+      ],
+      "assessmentPrompt": "Can {{name}} name some of the rights a consumer has, like the right to safety and to be informed?",
+      "standards": [
+        "nios-sec-2020:215.M5.L17"
+      ]
+    },
+    {
+      "id": "mt_CI8zVvPPCG",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Consumer Protection",
+      "name": "Consumer Protection and Redress",
+      "description": "Understand the laws, standards marks and forums that protect consumers, and the steps a wronged consumer can take to seek redress when a product or service fails them.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name a way consumers are protected (a law, mark or forum)",
+        "Describe how a consumer can seek redress",
+        "Explain the role of a consumer court or organisation"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what a consumer can do if a product or service treats them unfairly?",
+      "standards": [
+        "nios-sec-2020:215.M5.L18"
       ]
     }
   ]

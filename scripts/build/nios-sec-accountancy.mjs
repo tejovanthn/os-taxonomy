@@ -60,14 +60,9 @@ const newTopics = [
     'Understand the trial balance — a list of all account balances used to check that total debits equal total credits — and how it helps find errors.',
     ['Explain what a trial balance is for', 'Explain that debits should equal credits', 'Explain how a trial balance helps detect errors'],
     'Can {{name}} explain how a trial balance checks that the books balance, with total debits equal to total credits?', ['nios-sec-2020:224.M3.L8']),
-  T('acc-depreciation', 'Adjustments', 'Depreciation, Provisions and Reserves', 'CONCEPTUAL',
-    'Understand depreciation — the fall in value of assets as they are used — and provisions and reserves, amounts a business sets aside for future losses or needs.',
-    ['Explain what depreciation is and why it is recorded', 'Distinguish a provision from a reserve', 'Give an example of an asset that depreciates'],
-    'Can {{name}} explain why a business records depreciation as its equipment wears out, and what reserves are for?', ['nios-sec-2020:224.M4.L9', 'nios-sec-2020:224.M4.L10']),
-  T('acc-financial-statements', 'Financial Statements', 'Financial Statements', 'CONCEPTUAL',
-    'Understand the two main financial statements — the profit-and-loss account, which shows whether the business made a profit, and the balance sheet, which shows what it owns and owes.',
-    ['Explain what the profit-and-loss account shows', 'Explain what the balance sheet shows', 'Distinguish profit from financial position'],
-    'Can {{name}} explain the difference between a profit-and-loss account (did the business make money?) and a balance sheet (what does it own and owe?)', ['nios-sec-2020:224.M5.L11', 'nios-sec-2020:224.M5.L12']),
+  // Depreciation, Provisions & Reserves and the two financial statements are
+  // decomposed to single-idea micro-topics in nios-sec-depth.mjs (acc-depreciation-only,
+  // acc-provisions, acc-profit-loss, acc-balance-sheet); no coarse bundle here.
   T('acc-computers', 'Computers in Accounting', 'Computerised Accounting', 'CONCEPTUAL',
     'Understand how computers and accounting software such as Tally are used to keep accounts — making recording faster, more accurate and easier to report.',
     ['Explain benefits of computerised accounting', 'Name accounting software such as Tally', 'Explain how software reduces errors and effort'],
@@ -83,10 +78,8 @@ const newEdges = [
   hard('acc-cash-book', 'acc-journal', 'The cash book builds on double-entry recording'),
   hard('acc-ledger', 'acc-journal', 'The ledger builds on journal entries'),
   hard('acc-trial-balance', 'acc-ledger', 'The trial balance builds on balanced ledger accounts'),
-  soft('acc-depreciation', 'acc-trial-balance', 'Adjustments like depreciation come after the trial balance'),
-  hard('acc-financial-statements', 'acc-trial-balance', 'Financial statements are prepared from the trial balance'),
-  soft('acc-financial-statements', 'acc-depreciation', 'Financial statements include adjustments like depreciation'),
-  soft('acc-computers', 'acc-financial-statements', 'Computerised accounting produces the same records and statements'),
+  // The Adjustments and Financial Statements micro-topics and their prerequisite
+  // edges live in nios-sec-depth.mjs; acc-computers hangs off the balance sheet there.
 ];
 
 const newClusters = [

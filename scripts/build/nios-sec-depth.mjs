@@ -11,14 +11,18 @@
 
 import { integrateSubject, mintId } from './nios-sec.mjs';
 
-// coarse "overview" topics these hang off (ids verified against data/topics.json)
+// coarse "overview" topics these hang off (ids verified against data/topics.json).
+// The commerce overviews (banking/insurance, transport/warehousing, financial
+// statements, depreciation) were removed in favour of flat single-idea
+// micro-topics, so these details now chain in sequence and anchor to the
+// Business Studies / Accountancy ladders directly.
 const OV = {
-  modernWorld: 'mt_sVnzpPPhUg', indianEconomy: 'mt_MOhhQz1xTG', bankingInsurance: 'mt_eVmoQ0ehxD',
-  transportWarehousing: 'mt_mp1SDUxSHY', financialStatements: 'mt_bcFSGgBMN4', depreciation: 'mt_XGxXu2w2Xr',
+  modernWorld: 'mt_sVnzpPPhUg', indianEconomy: 'mt_MOhhQz1xTG',
   hindustaniForms: 'mt_DLlA8eRAbK', congruence: 'mt_C1EJxERW34',
 };
 const EX = { // other existing topics referenced
   banksSaving: 'mt_uSUqTjOl8m', linesAngles: 'mt_QysgF57dxh', trialBalance: mintId('acc-trial-balance'),
+  industryCommerce: 'mt_eYQngys1jt', accComputers: 'mt_yzsAqUCSMO',
   musRaga: mintId('mus-raga'), musTala: mintId('mus-tala'), precis: 'mt_curkA82CmO', noteMaking: 'mt_qZAQBsLwp3',
 };
 
@@ -106,17 +110,16 @@ const newEdges = [
   soft('ss-world-wars-decolonisation', 'ss-modern-revolutions', 'The world wars follow the age of revolutions and industrialisation'),
   soft('econ-indian-challenges', OV.indianEconomy, 'The challenges build on the overview of the Indian economy'),
   soft('econ-global-economy', OV.indianEconomy, 'India’s global role builds on the overview of the Indian economy'),
-  soft('bs-banking', OV.bankingInsurance, 'Banking is one of the financial services in the overview'),
+  soft('bs-transport', EX.industryCommerce, 'Transport is one of the services that support commerce'),
+  soft('bs-warehousing', 'bs-transport', 'Warehousing complements transport in moving goods to market'),
+  soft('bs-banking', EX.industryCommerce, 'Banking is one of the commercial services'),
   soft('bs-banking', EX.banksSaving, 'Business banking builds on how banks and saving work'),
-  soft('bs-insurance', OV.bankingInsurance, 'Insurance is one of the financial services in the overview'),
-  soft('bs-transport', OV.transportWarehousing, 'Transport is one of the services in the overview'),
-  soft('bs-warehousing', OV.transportWarehousing, 'Warehousing is one of the services in the overview'),
-  soft('acc-profit-loss', OV.financialStatements, 'The profit-and-loss account is one of the financial statements'),
+  soft('bs-insurance', 'bs-banking', 'Insurance sits alongside banking among the financial services'),
   hard('acc-profit-loss', EX.trialBalance, 'The profit-and-loss account is prepared from the trial balance'),
-  soft('acc-balance-sheet', OV.financialStatements, 'The balance sheet is one of the financial statements'),
   soft('acc-balance-sheet', 'acc-profit-loss', 'The balance sheet is drawn up after the profit-and-loss account'),
-  soft('acc-depreciation-only', OV.depreciation, 'A focused look at depreciation builds on the adjustments overview'),
-  soft('acc-provisions', OV.depreciation, 'A focused look at provisions and reserves builds on the adjustments overview'),
+  soft(EX.accComputers, 'acc-balance-sheet', 'Computerised accounting produces the same records and statements'),
+  soft('acc-depreciation-only', EX.trialBalance, 'Adjustments like depreciation come after the trial balance'),
+  soft('acc-provisions', 'acc-depreciation-only', 'Provisions and reserves are studied alongside depreciation'),
   soft('mus-thaat', OV.hindustaniForms, 'The thaat system is part of Hindustani raga organisation'),
   soft('mus-thaat', EX.musRaga, 'Thaats group ragas, building on understanding raga'),
   soft('mus-hindustani-vocal', OV.hindustaniForms, 'The vocal forms are part of Hindustani music'),
