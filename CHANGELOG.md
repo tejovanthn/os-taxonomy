@@ -8,6 +8,35 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### Geography decomposed to discipline grain (2026-07-20)
+- A humanities-focused review pass (checking descriptions for accuracy) found the
+  descriptions sound but exposed a **grain defect in Geography**: it had been
+  built at 1:1 topics-per-NCF-unit, where every other senior subject was
+  decomposed finer. Nine of its 14 senior topics each stood in for a 4-to-9
+  sub-topic unit — *India: People, Resources and Development* was a single topic
+  covering the entire Class XII India textbook, and *Atmosphere, Insolation and
+  Climate* covered the 30-period Climate unit whole.
+- Measured as topics-per-standard: Geography sat at **1.00** against Physics 2.85,
+  Biology 4.50 and History 3.00. Geography had been promoted to a subject in its
+  own right precisely to sit as a peer of these, so unit grain undercut the point.
+- Decomposed the nine over-broad units into 20 topics (Geography's senior tier
+  **14 → 25**, the whole subject **23 → 34**), bringing topics-per-standard to
+  **1.79**. The Climate unit became atmosphere/heat budget, pressure/winds/
+  circulation and water/world-climates; the Class XII India book became
+  population/migration, resources, agriculture/industry and planning; oceans
+  split from the biosphere, erosional landforms from weathering, and so on. The
+  five genuinely single-idea units (discipline scope, maps, human-geography
+  scope, sector classification, thematic mapping) were left intact.
+- Political Science was checked the same way and left alone — at 16 topics across
+  11 standards (1.45) it was already decomposed, with only two borderline units.
+- Also fixed a stale-data bug the review surfaced independently: an early grammar
+  correction to *Civil Disobedience and the Salt Satyagraha* ("a everyday" →
+  "an everyday") had been made in the build script but never rebuilt into the
+  data. A script-vs-data diff across all 420 mints found this as the only real
+  drift and it is now corrected.
+- History descriptions were read in full for factual and interpretive accuracy;
+  no errors found.
+
 ### Content-coverage review: titles that promise what the body omits (2026-07-19)
 - The grain pass had found *Alcohols, Phenols and Ethers* covering no ethers, and
   noted that this bug class was worth searching for systematically rather than

@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2461,
+  "topicCount": 2472,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -41963,26 +41963,6 @@
       ]
     },
     {
-      "id": "mt_fdcwmJM9aA",
-      "type": "CONCEPTUAL",
-      "subject": "History",
-      "domain": "Modern India",
-      "name": "Civil Disobedience and the Salt Satyagraha",
-      "description": "Understand that breaking an unjust law deliberately and publicly, as with the salt tax, turned a everyday necessity into a symbol that drew millions into the freedom movement.",
-      "ageRangeStart": 15,
-      "ageRangeEnd": 16,
-      "centrality": null,
-      "evidence": [
-        "Explains why salt was chosen as the target",
-        "Describes how civil disobedience differed from non-cooperation",
-        "Names groups whose participation widened the movement"
-      ],
-      "assessmentPrompt": "Ask {{name}} why making salt from seawater was treated as a crime, and why that made it powerful.",
-      "standards": [
-        "ncert-sec:HIS.C10.INDNAT"
-      ]
-    },
-    {
       "id": "mt_l5qTBqqvyr",
       "type": "CONCEPTUAL",
       "subject": "History",
@@ -48420,106 +48400,6 @@
       ]
     },
     {
-      "id": "mt_BLJpYabVQz",
-      "type": "CONCEPTUAL",
-      "subject": "Geography",
-      "domain": "Physical Geography",
-      "name": "The Earth’s Interior and Plate Tectonics",
-      "description": "Understand the layered interior of the earth, how seismic waves reveal it, and how plate movement accounts for the distribution of continents, earthquakes and mountain ranges.",
-      "ageRangeStart": 16,
-      "ageRangeEnd": 17,
-      "centrality": null,
-      "evidence": [
-        "Describes the layers of the earth’s interior and the evidence for them",
-        "Explains how plate movement produces a landform or hazard",
-        "Explains the distribution of earthquakes and volcanoes by plate boundary"
-      ],
-      "assessmentPrompt": "Ask {{name}} how we know what is inside the earth when nobody has ever been down there.",
-      "standards": [
-        "ncert-hsec:GEO.C11.P2"
-      ]
-    },
-    {
-      "id": "mt_UL3yliEpnY",
-      "type": "CONCEPTUAL",
-      "subject": "Geography",
-      "domain": "Physical Geography",
-      "name": "Geomorphic Processes and Landforms",
-      "description": "Understand how weathering, mass wasting, erosion and deposition by running water, wind, ice and waves shape and reshape landforms over time.",
-      "ageRangeStart": 16,
-      "ageRangeEnd": 17,
-      "centrality": null,
-      "evidence": [
-        "Distinguishes weathering from erosion",
-        "Links a landform to the process that produced it",
-        "Explains how a landform evolves over time"
-      ],
-      "assessmentPrompt": "Ask {{name}} how a river can carve a gorge through solid rock.",
-      "standards": [
-        "ncert-hsec:GEO.C11.P3"
-      ]
-    },
-    {
-      "id": "mt_telkpAwPmM",
-      "type": "CONCEPTUAL",
-      "subject": "Geography",
-      "domain": "Physical Geography",
-      "name": "Atmosphere, Insolation and Climate",
-      "description": "Understand the structure of the atmosphere, how the heat budget and pressure differences drive winds and weather systems, and how climatic types are classified.",
-      "ageRangeStart": 16,
-      "ageRangeEnd": 17,
-      "centrality": null,
-      "evidence": [
-        "Explains the earth’s heat budget",
-        "Explains how pressure differences produce wind",
-        "Relates a climatic type to its controlling factors"
-      ],
-      "assessmentPrompt": "Ask {{name}} why the equator receives more heat than the poles but does not keep getting hotter.",
-      "standards": [
-        "ncert-hsec:GEO.C11.P4"
-      ]
-    },
-    {
-      "id": "mt_fMuHAbo1RH",
-      "type": "CONCEPTUAL",
-      "subject": "Geography",
-      "domain": "Physical Geography",
-      "name": "Oceans and the Biosphere",
-      "description": "Understand the relief of the ocean floor, how temperature, salinity and currents vary, and how the biosphere and its ecosystems are distributed.",
-      "ageRangeStart": 16,
-      "ageRangeEnd": 17,
-      "centrality": null,
-      "evidence": [
-        "Describes the major relief features of the ocean floor",
-        "Explains what drives ocean currents and their climatic effect",
-        "Explains the distribution of a major biome"
-      ],
-      "assessmentPrompt": "Ask {{name}} how a current in the ocean can change the weather of a country thousands of miles away.",
-      "standards": [
-        "ncert-hsec:GEO.C11.P5"
-      ]
-    },
-    {
-      "id": "mt_2DtF3iPHDh",
-      "type": "CONCEPTUAL",
-      "subject": "Geography",
-      "domain": "Geography of India",
-      "name": "India: Structure, Drainage and Hazards",
-      "description": "Understand India’s geological structure and physiography, its drainage systems, and the natural hazards its geography exposes it to and how they are managed.",
-      "ageRangeStart": 16,
-      "ageRangeEnd": 17,
-      "centrality": null,
-      "evidence": [
-        "Relates India’s physiographic divisions to their geological origin",
-        "Contrasts Himalayan and peninsular drainage",
-        "Explains the management of a natural hazard affecting India"
-      ],
-      "assessmentPrompt": "Ask {{name}} why some parts of India flood almost every year and others face drought.",
-      "standards": [
-        "ncert-hsec:GEO.C11.I1"
-      ]
-    },
-    {
       "id": "mt_98maGySwL4",
       "type": "PROCEDURAL",
       "subject": "Geography",
@@ -48560,26 +48440,6 @@
       ]
     },
     {
-      "id": "mt_R2HFh2XirG",
-      "type": "CONCEPTUAL",
-      "subject": "Geography",
-      "domain": "Human Geography",
-      "name": "Population, Change and Human Development",
-      "description": "Understand the distribution, density and growth of world population, the components of population change, the demographic transition, and how human development is measured.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Explains the stages of the demographic transition",
-        "Distinguishes population density from distribution",
-        "Explains what a human development index captures beyond income"
-      ],
-      "assessmentPrompt": "Ask {{name}} why population growth slows as countries get richer.",
-      "standards": [
-        "ncert-hsec:GEO.C12.H2"
-      ]
-    },
-    {
       "id": "mt_Yol9DGVCer",
       "type": "CONCEPTUAL",
       "subject": "Geography",
@@ -48600,26 +48460,6 @@
       ]
     },
     {
-      "id": "mt_R7VcTRMpDW",
-      "type": "CONCEPTUAL",
-      "subject": "Geography",
-      "domain": "Human Geography",
-      "name": "Transport, Communication and International Trade",
-      "description": "Understand the major transport networks and communication technologies linking the world, and the basis, patterns and institutions of international trade.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Explains the basis on which countries trade with one another",
-        "Describes the role of ports or pipelines in global movement",
-        "Explains how satellite and cyber communication changed distance"
-      ],
-      "assessmentPrompt": "Ask {{name}} why countries trade at all instead of making everything themselves.",
-      "standards": [
-        "ncert-hsec:GEO.C12.H4"
-      ]
-    },
-    {
       "id": "mt_B6GdIp18Qa",
       "type": "CONCEPTUAL",
       "subject": "Geography",
@@ -48637,26 +48477,6 @@
       "assessmentPrompt": "Ask {{name}} why villages tend to grow along rivers and roads rather than at random.",
       "standards": [
         "ncert-hsec:GEO.C12.H5"
-      ]
-    },
-    {
-      "id": "mt_DqVWlnOD0E",
-      "type": "CONCEPTUAL",
-      "subject": "Geography",
-      "domain": "Geography of India",
-      "name": "India: People, Resources and Development",
-      "description": "Understand India’s population distribution and migration, its resource base, agriculture and industry, and the planning approaches used to pursue sustainable development.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Explains a pattern of internal migration in India",
-        "Links a resource endowment to an industrial location",
-        "Explains a planning approach to regional development"
-      ],
-      "assessmentPrompt": "Ask {{name}} why people move from one part of India to another, and what that does to both places.",
-      "standards": [
-        "ncert-hsec:GEO.C12.I1"
       ]
     },
     {
@@ -49920,6 +49740,406 @@
       "assessmentPrompt": "Ask {{name}} why adding a little acid to blood barely changes its pH.",
       "standards": [
         "ncert-hsec:CHE.C11.U7"
+      ]
+    },
+    {
+      "id": "mt_fdcwmJM9aA",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Modern India",
+      "name": "Civil Disobedience and the Salt Satyagraha",
+      "description": "Understand that breaking an unjust law deliberately and publicly, as with the salt tax, turned an everyday necessity into a symbol that drew millions into the freedom movement.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains why salt was chosen as the target",
+        "Describes how civil disobedience differed from non-cooperation",
+        "Names groups whose participation widened the movement"
+      ],
+      "assessmentPrompt": "Ask {{name}} why making salt from seawater was treated as a crime, and why that made it powerful.",
+      "standards": [
+        "ncert-sec:HIS.C10.INDNAT"
+      ]
+    },
+    {
+      "id": "mt_SmW7FrTgNv",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "name": "The Interior of the Earth",
+      "description": "Understand that the earth is layered into crust, mantle and core, and that the paths of seismic waves through it are the main evidence for a structure no one can reach directly.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Describes the layers of the earth’s interior and their properties",
+        "Explains how seismic waves reveal the interior structure",
+        "Explains why a shadow zone exists for certain seismic waves"
+      ],
+      "assessmentPrompt": "Ask {{name}} how we know what is inside the earth when nobody has ever been down there.",
+      "standards": [
+        "ncert-hsec:GEO.C11.P2"
+      ]
+    },
+    {
+      "id": "mt_KuruNjvyzH",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "name": "Plate Tectonics and the Distribution of Continents",
+      "description": "Understand that the earth’s surface is broken into moving plates whose interactions account for the arrangement of continents and oceans and for the belts of earthquakes and volcanoes.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains how plate movement rearranges continents and oceans over time",
+        "Explains the distribution of earthquakes and volcanoes by plate boundary",
+        "Links a boundary type to the landform or hazard it produces"
+      ],
+      "assessmentPrompt": "Ask {{name}} why earthquakes and volcanoes cluster in narrow belts rather than being spread evenly.",
+      "standards": [
+        "ncert-hsec:GEO.C11.P2"
+      ]
+    },
+    {
+      "id": "mt_aE5EKdsO5G",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "name": "Weathering and Mass Wasting",
+      "description": "Understand that rock is broken down in place by physical, chemical and biological weathering, and that gravity then moves the loosened material downslope as mass wasting.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes physical, chemical and biological weathering",
+        "Explains the difference between weathering and erosion",
+        "Explains how gravity drives mass wasting on a slope"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a solid cliff turns into a heap of loose rock at its base without anything carrying it there.",
+      "standards": [
+        "ncert-hsec:GEO.C11.P3"
+      ]
+    },
+    {
+      "id": "mt_FF77oYAD60",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "name": "Erosional and Depositional Landforms",
+      "description": "Understand that running water, wind, ice and waves each wear away landforms in one place and build new ones where they drop their load, giving each agent a characteristic set of landforms.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Links a landform to the agent and process that produced it",
+        "Distinguishes an erosional from a depositional landform",
+        "Explains how a landform evolves through a cycle of erosion"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a river can carve a gorge in the hills and build a flat delta at the sea from the same water.",
+      "standards": [
+        "ncert-hsec:GEO.C11.P3"
+      ]
+    },
+    {
+      "id": "mt_8ePOctDnob",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "name": "The Atmosphere and the Heat Budget",
+      "description": "Understand the layered structure and composition of the atmosphere, and that incoming solar radiation and outgoing radiation stay in overall balance even though the tropics receive far more than the poles.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Describes the composition and layered structure of the atmosphere",
+        "Explains the earth’s heat budget and why it stays balanced",
+        "Explains why the tropics receive more insolation than the poles"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the equator receives more heat than the poles but does not keep getting hotter.",
+      "standards": [
+        "ncert-hsec:GEO.C11.P4"
+      ]
+    },
+    {
+      "id": "mt_9spvyVNCUt",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "name": "Pressure, Winds and Atmospheric Circulation",
+      "description": "Understand that uneven heating creates pressure differences that drive winds, and that on a rotating earth these organise into a global circulation of prevailing wind belts and weather systems.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains how a pressure difference produces wind",
+        "Describes the global pattern of prevailing winds",
+        "Explains how a weather system such as a cyclone forms"
+      ],
+      "assessmentPrompt": "Ask {{name}} why winds blow from some directions far more reliably than others.",
+      "standards": [
+        "ncert-hsec:GEO.C11.P4"
+      ]
+    },
+    {
+      "id": "mt_tudzMGZA1X",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "name": "Water in the Atmosphere and World Climates",
+      "description": "Understand how evaporation, condensation and precipitation move water through the atmosphere, and how the resulting long-term patterns of temperature and rainfall are classified into world climatic types.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains how precipitation forms from atmospheric water",
+        "Relates a world climatic type to its controlling factors",
+        "Explains the evidence for climate change"
+      ],
+      "assessmentPrompt": "Ask {{name}} what has to happen to the water in the air before it falls as rain.",
+      "standards": [
+        "ncert-hsec:GEO.C11.P4"
+      ]
+    },
+    {
+      "id": "mt_gbVahRRkFb",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "name": "The Oceans: Relief, Water and Movement",
+      "description": "Understand that the ocean floor has a relief as varied as the land, that temperature and salinity vary with place and depth, and that waves, tides and currents keep the water in constant motion.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Describes the major relief features of the ocean floor",
+        "Explains how temperature and salinity vary in the oceans",
+        "Explains what drives ocean currents and their climatic effect"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a current in the ocean can change the weather of a country thousands of miles away.",
+      "standards": [
+        "ncert-hsec:GEO.C11.P5"
+      ]
+    },
+    {
+      "id": "mt_qvNAGGEYQF",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "name": "The Biosphere and Ecosystems",
+      "description": "Understand that living things occupy a thin biosphere at the meeting of land, water and air, organised into ecosystems whose distribution across the globe follows climate.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains what the biosphere is and where it sits",
+        "Explains how energy and nutrients move through an ecosystem",
+        "Explains why the distribution of major biomes follows climate"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a rainforest and a desert, both on the equator’s reach, support such different life.",
+      "standards": [
+        "ncert-hsec:GEO.C11.P5"
+      ]
+    },
+    {
+      "id": "mt_EhjasI9BaW",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Geography of India",
+      "name": "India: Physiography and Drainage",
+      "description": "Understand how India’s geological history produced its major physiographic divisions, and how its rivers fall into Himalayan and peninsular systems that differ in origin and flow.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Relates India’s physiographic divisions to their geological origin",
+        "Contrasts Himalayan and peninsular drainage",
+        "Links a physiographic region to the rivers that drain it"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the rivers of north India flow all year while many in the south nearly dry up.",
+      "standards": [
+        "ncert-hsec:GEO.C11.I1"
+      ]
+    },
+    {
+      "id": "mt_M0LGSlUMG3",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Geography of India",
+      "name": "India: Climate, Soils and Natural Hazards",
+      "description": "Understand how the monsoon shapes India’s climate, vegetation and soils, and why its physiography and climate together expose different regions to flood, drought, cyclone and earthquake.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains how the monsoon governs India’s climate and vegetation",
+        "Links a soil or vegetation type to its climatic region",
+        "Explains the management of a natural hazard affecting India"
+      ],
+      "assessmentPrompt": "Ask {{name}} why some parts of India flood almost every year while others face drought.",
+      "standards": [
+        "ncert-hsec:GEO.C11.I1"
+      ]
+    },
+    {
+      "id": "mt_SyCN9DSCYC",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Human Geography",
+      "name": "World Population: Distribution, Density and Growth",
+      "description": "Understand that world population is spread very unevenly across the globe, that density measures how tightly people are packed, and that growth is set by the balance of births, deaths and migration.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes population distribution from density",
+        "Explains a factor concentrating population in one region",
+        "Names the components of population change"
+      ],
+      "assessmentPrompt": "Ask {{name}} why half the world’s people live on a small fraction of its land.",
+      "standards": [
+        "ncert-hsec:GEO.C12.H2"
+      ]
+    },
+    {
+      "id": "mt_oMDUdsGxtn",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Human Geography",
+      "name": "Population Change and Human Development",
+      "description": "Understand that as countries develop they pass through a demographic transition from high to low birth and death rates, and that human development measures wellbeing by more than income alone.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the stages of the demographic transition",
+        "Reads population composition from an age-sex pyramid",
+        "Explains what a human development index captures beyond income"
+      ],
+      "assessmentPrompt": "Ask {{name}} why population growth slows as countries get richer.",
+      "standards": [
+        "ncert-hsec:GEO.C12.H2"
+      ]
+    },
+    {
+      "id": "mt_gCyrtxowzg",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Human Geography",
+      "name": "Transport and Communication Networks",
+      "description": "Understand how land, water and air transport and modern communication technologies knit the world together, shrinking the effective distance between places.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Compares land, water and air transport by cost, speed and use",
+        "Describes the role of pipelines or major routes in global movement",
+        "Explains how satellite and cyber communication changed effective distance"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a message and a cargo ship crossing the same ocean differ in what they cost and how long they take.",
+      "standards": [
+        "ncert-hsec:GEO.C12.H4"
+      ]
+    },
+    {
+      "id": "mt_s1fjqdrCSj",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Human Geography",
+      "name": "International Trade",
+      "description": "Understand why countries specialise and trade rather than making everything themselves, and how trade’s patterns, institutions and gateway ports have changed over time.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the basis on which countries trade with one another",
+        "Describes a changing pattern of world trade",
+        "Explains the role of ports as gateways of international trade"
+      ],
+      "assessmentPrompt": "Ask {{name}} why countries trade at all instead of making everything themselves.",
+      "standards": [
+        "ncert-hsec:GEO.C12.H4"
+      ]
+    },
+    {
+      "id": "mt_GfgpKzl4wq",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Geography of India",
+      "name": "India: Population and Migration",
+      "description": "Understand how India’s large population is distributed and composed, and how internal migration redistributes people between village and city and between regions.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains a factor shaping the distribution of India’s population",
+        "Reads India’s population composition from its structure",
+        "Explains a pattern of internal migration and its effect on both places"
+      ],
+      "assessmentPrompt": "Ask {{name}} why people move from one part of India to another, and what that does to both places.",
+      "standards": [
+        "ncert-hsec:GEO.C12.I1"
+      ]
+    },
+    {
+      "id": "mt_uQmrcsYGFG",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Geography of India",
+      "name": "India: Land, Water, Mineral and Energy Resources",
+      "description": "Understand India’s endowment of land, water, mineral and energy resources, how unevenly they are distributed, and why their conservation and planned use matter.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Links a resource to the regions where it is concentrated",
+        "Explains why a resource requires conservation and planned use",
+        "Distinguishes conventional from non-conventional energy sources in India"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a country rich in one resource can still fall short of another it needs just as much.",
+      "standards": [
+        "ncert-hsec:GEO.C12.I1"
+      ]
+    },
+    {
+      "id": "mt_a7GPbUmpDN",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Geography of India",
+      "name": "India: Agriculture and Industry",
+      "description": "Understand how India’s agriculture and manufacturing industries are distributed, what shapes where each locates, and how the two sectors relate in the national economy.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Links an Indian crop or industry to the conditions that locate it",
+        "Explains a factor influencing industrial location in India",
+        "Explains how agriculture and industry depend on one another"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a particular industry grows up in one part of India rather than another.",
+      "standards": [
+        "ncert-hsec:GEO.C12.I1"
+      ]
+    },
+    {
+      "id": "mt_tEPgFUrHZ1",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Geography of India",
+      "name": "India: Planning and Sustainable Development",
+      "description": "Understand how India uses regional planning to reduce disparity between areas, and why sustainable development weighs present growth against future needs and the environment.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains a planning approach to reducing regional disparity",
+        "Explains what sustainable development requires of a project",
+        "Links transport and trade to regional development"
+      ],
+      "assessmentPrompt": "Ask {{name}} why some parts of India stay poorer than others even after decades of growth.",
+      "standards": [
+        "ncert-hsec:GEO.C12.I1"
       ]
     }
   ]

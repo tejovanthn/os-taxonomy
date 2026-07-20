@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4355,
+  "edgeCount": 4367,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -25264,82 +25264,16 @@
       "reason": "The Constitution was framed in the aftermath of partition."
     },
     {
-      "topicId": "mt_BLJpYabVQz",
-      "prerequisiteId": "mt_gv_uoHkdjR",
-      "strength": "hard",
-      "reason": "Plate tectonics builds on how tectonic plates move."
-    },
-    {
-      "topicId": "mt_UL3yliEpnY",
-      "prerequisiteId": "mt_NckKLZ3uCE",
-      "strength": "hard",
-      "reason": "Geomorphic processes build on the rock cycle."
-    },
-    {
-      "topicId": "mt_telkpAwPmM",
-      "prerequisiteId": "mt_iYOcfzFqMw",
-      "strength": "hard",
-      "reason": "Atmospheric circulation builds on global wind patterns."
-    },
-    {
-      "topicId": "mt_fMuHAbo1RH",
-      "prerequisiteId": "mt_Mp_CpVK6e-",
-      "strength": "hard",
-      "reason": "Ocean circulation builds on currents and global heat."
-    },
-    {
-      "topicId": "mt_2DtF3iPHDh",
-      "prerequisiteId": "mt_fD1VfjtgyP",
-      "strength": "hard",
-      "reason": "Senior physical geography of India builds on its physiographic divisions."
-    },
-    {
-      "topicId": "mt_2DtF3iPHDh",
-      "prerequisiteId": "mt_pR11CACjaq",
-      "strength": "hard",
-      "reason": "Drainage is treated in more depth at this stage."
-    },
-    {
       "topicId": "mt_98maGySwL4",
       "prerequisiteId": "mt_NeX8lPumh2",
       "strength": "soft",
       "reason": "Mapping is the discipline’s characteristic technique."
     },
     {
-      "topicId": "mt_R2HFh2XirG",
-      "prerequisiteId": "mt_B6Ji0Zf2J4",
-      "strength": "hard",
-      "reason": "World population study builds on composition and migration."
-    },
-    {
       "topicId": "mt_Yol9DGVCer",
       "prerequisiteId": "mt_0CmQMjd6dQ",
       "strength": "hard",
       "reason": "Classification of activities builds on sectors of the economy."
-    },
-    {
-      "topicId": "mt_R7VcTRMpDW",
-      "prerequisiteId": "mt_TzdumFchh6",
-      "strength": "hard",
-      "reason": "Global trade builds on transport, communication and trade in development."
-    },
-    {
-      "topicId": "mt_B6GdIp18Qa",
-      "prerequisiteId": "mt_R2HFh2XirG",
-      "strength": "hard",
-      "reason": "Settlement patterns follow from population distribution."
-    },
-    {
-      "topicId": "mt_DqVWlnOD0E",
-      "prerequisiteId": "mt_tw2D2QDYvq",
-      "strength": "hard",
-      "reason": "India’s economy builds on its agriculture and cropping patterns."
-    },
-    {
-      "topicId": "mt_DqVWlnOD0E",
-      "prerequisiteId": "mt_GJIjtgZSZP",
-      "strength": "hard",
-      "reason": "Resource development builds on resource classification and planning."
     },
     {
       "topicId": "mt_q0O0KOH3zX",
@@ -26132,6 +26066,144 @@
       "prerequisiteId": "mt_Jgo02Qd49H",
       "strength": "soft",
       "reason": "What is perceived depends on what was attended to."
+    },
+    {
+      "topicId": "mt_KuruNjvyzH",
+      "prerequisiteId": "mt_SmW7FrTgNv",
+      "strength": "hard",
+      "reason": "Plate tectonics builds on the layered interior it moves."
+    },
+    {
+      "topicId": "mt_KuruNjvyzH",
+      "prerequisiteId": "mt_gv_uoHkdjR",
+      "strength": "hard",
+      "reason": "Plate tectonics builds on how tectonic plates move."
+    },
+    {
+      "topicId": "mt_aE5EKdsO5G",
+      "prerequisiteId": "mt_NckKLZ3uCE",
+      "strength": "hard",
+      "reason": "Weathering builds on the rock cycle."
+    },
+    {
+      "topicId": "mt_FF77oYAD60",
+      "prerequisiteId": "mt_aE5EKdsO5G",
+      "strength": "hard",
+      "reason": "Erosion removes the material that weathering has loosened."
+    },
+    {
+      "topicId": "mt_9spvyVNCUt",
+      "prerequisiteId": "mt_8ePOctDnob",
+      "strength": "hard",
+      "reason": "Winds arise from the pressure differences the heat budget creates."
+    },
+    {
+      "topicId": "mt_9spvyVNCUt",
+      "prerequisiteId": "mt_iYOcfzFqMw",
+      "strength": "hard",
+      "reason": "Atmospheric circulation builds on global wind patterns."
+    },
+    {
+      "topicId": "mt_tudzMGZA1X",
+      "prerequisiteId": "mt_9spvyVNCUt",
+      "strength": "hard",
+      "reason": "World climates are set by temperature and the winds that carry moisture."
+    },
+    {
+      "topicId": "mt_gbVahRRkFb",
+      "prerequisiteId": "mt_Mp_CpVK6e-",
+      "strength": "hard",
+      "reason": "Ocean movement builds on currents and global heat."
+    },
+    {
+      "topicId": "mt_qvNAGGEYQF",
+      "prerequisiteId": "mt_tudzMGZA1X",
+      "strength": "soft",
+      "reason": "The distribution of biomes follows climate."
+    },
+    {
+      "topicId": "mt_EhjasI9BaW",
+      "prerequisiteId": "mt_fD1VfjtgyP",
+      "strength": "hard",
+      "reason": "Senior physical geography of India builds on its physiographic divisions."
+    },
+    {
+      "topicId": "mt_EhjasI9BaW",
+      "prerequisiteId": "mt_pR11CACjaq",
+      "strength": "hard",
+      "reason": "Drainage is treated in more depth at this stage."
+    },
+    {
+      "topicId": "mt_M0LGSlUMG3",
+      "prerequisiteId": "mt_EhjasI9BaW",
+      "strength": "hard",
+      "reason": "Climate and soils are read against India’s physiography."
+    },
+    {
+      "topicId": "mt_SyCN9DSCYC",
+      "prerequisiteId": "mt_B6Ji0Zf2J4",
+      "strength": "hard",
+      "reason": "World population study builds on composition and migration."
+    },
+    {
+      "topicId": "mt_oMDUdsGxtn",
+      "prerequisiteId": "mt_SyCN9DSCYC",
+      "strength": "hard",
+      "reason": "Change and development are read against the distribution of population."
+    },
+    {
+      "topicId": "mt_gCyrtxowzg",
+      "prerequisiteId": "mt_TzdumFchh6",
+      "strength": "hard",
+      "reason": "Global transport builds on transport, communication and trade in development."
+    },
+    {
+      "topicId": "mt_s1fjqdrCSj",
+      "prerequisiteId": "mt_gCyrtxowzg",
+      "strength": "hard",
+      "reason": "Trade depends on the transport networks that carry it."
+    },
+    {
+      "topicId": "mt_B6GdIp18Qa",
+      "prerequisiteId": "mt_SyCN9DSCYC",
+      "strength": "hard",
+      "reason": "Settlement patterns follow from population distribution."
+    },
+    {
+      "topicId": "mt_GfgpKzl4wq",
+      "prerequisiteId": "mt_SyCN9DSCYC",
+      "strength": "hard",
+      "reason": "India’s population is a case of the world patterns just studied."
+    },
+    {
+      "topicId": "mt_uQmrcsYGFG",
+      "prerequisiteId": "mt_GJIjtgZSZP",
+      "strength": "hard",
+      "reason": "Resource development builds on resource classification and planning."
+    },
+    {
+      "topicId": "mt_a7GPbUmpDN",
+      "prerequisiteId": "mt_tw2D2QDYvq",
+      "strength": "hard",
+      "reason": "India’s agriculture builds on its cropping patterns and reforms."
+    },
+    {
+      "topicId": "mt_a7GPbUmpDN",
+      "prerequisiteId": "mt_WSbUSYwUen",
+      "strength": "hard",
+      "reason": "Industrial geography builds on industrial location and pollution."
+    },
+    {
+      "topicId": "mt_tEPgFUrHZ1",
+      "prerequisiteId": "mt_uQmrcsYGFG",
+      "strength": "hard",
+      "reason": "Planning allocates the resources just surveyed."
+    },
+    {
+      "topicId": "mt_tEPgFUrHZ1",
+      "prerequisiteId": "mt_a7GPbUmpDN",
+      "strength": "soft",
+      "reason": "Development planning coordinates agriculture and industry."
     }
   ]
 }

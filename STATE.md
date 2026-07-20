@@ -5,7 +5,7 @@ Last updated 2026-07-19.
 
 ## Where things stand
 
-2,461 topics · 4,355 edges · 4,253 standards · 342 clusters · 15 curriculum
+2,472 topics · 4,367 edges · 4,253 standards · 342 clusters · 15 curriculum
 sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
 All fifteen build scripts idempotent (re-run adds zero).
 
@@ -72,6 +72,12 @@ Devanagari and tesseract has `tel`, `kan` and `tam` packs installed.
   topics are *reachable*. The XI–XII work passed validation while leaving 48
   topics in 14 stranded islands. Build the adjacency list, flood-fill, and
   require that every new topic joins the main component.
+- **Watch topics-per-source-unit, not just per-topic invariants.** Geography was
+  built one-topic-per-NCF-unit and passed every per-topic audit while being half
+  the size of its sibling disciplines; the tell was a topics-per-standard ratio
+  of 1.00 against 2.85–4.50 elsewhere. Compute topics-per-source-unit by subject
+  and treat any subject near 1.0 as a decomposition candidate — then read its
+  broadest units to confirm.
 - **Check that a title does not promise content the body omits.** Restrict the
   test to titles enumerating a coordinate list (*A, B and C*) and ask whether
   each item is addressed; a whole-title word check drowns in false positives,
