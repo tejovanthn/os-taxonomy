@@ -1,13 +1,13 @@
 # STATE
 
 Branch `indian-curriculum` (local only, no upstream PR).
-Last updated 2026-07-19.
+Last updated 2026-07-20.
 
 ## Where things stand
 
-2,472 topics · 4,367 edges · 4,253 standards · 342 clusters · 15 curriculum
+2,472 topics · 4,368 edges · 4,253 standards · 342 clusters · 15 curriculum
 sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
-All fifteen build scripts idempotent (re-run adds zero).
+All build scripts idempotent (re-run adds zero).
 
 The NCERT ladder is complete end to end: `ncert-elem` (Classes I–VIII),
 `ncert-sec` (IX–X) and `ncert-hsec` (XI–XII). The XI–XII pass raised the age
@@ -15,6 +15,12 @@ ceiling from 16 to 18 and added Physics, Chemistry, Biology and Sociology as
 subjects; Geography and Political Science were then split out of Social Studies
 from age 14, so all five components of NCERT's Social Science now exist as
 subjects at the senior level. See CHANGELOG for the per-subject breakdown.
+
+Latest (2026-07-20): NIOS Business Studies / Accountancy commerce topics
+flattened to single-idea micro-topics (the four superset "overview" bundles were
+the only within-subject double-coverage in the dataset, now removed; four more
+two-lesson bundles split). The subject-split migration was also made idempotent
+(it now collapses clusters that a re-emitting build would otherwise duplicate).
 
 ## Single next step
 
@@ -50,6 +56,17 @@ Devanagari and tesseract has `tel`, `kan` and `tam` packs installed.
   Visual Arts (6 topics), Home Science (2), Kannada (1), Dance (1) sit
   disconnected from the main graph. They predate this effort and were left
   alone deliberately, but they are cheap to wire in.
+- **The committed data is not a clean full-rebuild fixpoint for clusters.**
+  Running every build script in sequence yields ~372 clusters vs the committed
+  342; the difference is ~24 *orphan* cluster summaries that older NIOS language
+  and arts scripts (Hindi, Sanskrit, Telugu, Kannada, Tamil, Music, Visual Arts)
+  emit at an age band with no matching topic — e.g. `Hindi | Speaking &
+  Listening | 14` when those topics sit at ages 6–9. The committed 342 correctly
+  excludes them; validate does not require clusters to match a topic band, so it
+  passes either way. Fixing means correcting the ageRangeStart on those cluster
+  definitions in the prior-session NIOS scripts (or dropping them). Pre-existing,
+  low harm, out of scope for the NCERT work — recorded here so a future full
+  rebuild does not mistake the +30 for new drift.
 - Branch has no upstream PR — push or open one when the Indian-curriculum work
   reaches a natural release point.
 
@@ -96,3 +113,9 @@ Devanagari and tesseract has `tel`, `kan` and `tam` packs installed.
   other. Prefer an edge from the senior topic to its 14–16 predecessor over
   minting in isolation — and check first whether the predecessor makes the new
   topic a duplicate rather than a deeper treatment.
+- **A migration that mutates topics/clusters in place must be idempotent against
+  re-emitting builds.** Topics dedupe by stable id, so a build re-adding one is a
+  no-op; clusters dedupe by `subject|domain|ageRangeStart`, which a migration
+  *changes*, so the build re-emits the pre-migration cluster and the migration
+  re-moves it — one duplicate per cycle. Any in-place migration must collapse
+  post-transform duplicates (see `subject-split-geography-polsci.mjs`).
