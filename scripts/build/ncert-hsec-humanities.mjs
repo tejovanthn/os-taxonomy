@@ -454,6 +454,7 @@ const newEdges = [
   // India XII economy — one topic per resource strand, anchored to the secondary treatments
   { t: 'geo-india-population-migration', p: 'geo-world-population', strength: 'hard', reason: 'India’s population is a case of the world patterns just studied.' },
   { t: 'geo-india-resources', p: SEC('resource-classification-planning'), strength: 'hard', reason: 'Resource development builds on resource classification and planning.' },
+  { t: 'geo-india-resources', p: SEC('minerals-energy-resources'), strength: 'hard', reason: 'Builds on minerals and energy resources met at secondary level.' },
   { t: 'geo-india-agriculture-industry', p: SEC('indian-agriculture-cropping-reforms'), strength: 'hard', reason: 'India’s agriculture builds on its cropping patterns and reforms.' },
   { t: 'geo-india-agriculture-industry', p: SEC('industrial-location-and-pollution'), strength: 'hard', reason: 'Industrial geography builds on industrial location and pollution.' },
   { t: 'geo-india-development-planning', p: 'geo-india-resources', strength: 'hard', reason: 'Planning allocates the resources just surveyed.' },

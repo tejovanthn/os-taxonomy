@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4368,
+  "edgeCount": 4404,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -24904,18 +24904,6 @@
       "reason": "Cash flow completes the analysis of financial position."
     },
     {
-      "topicId": "mt_pqYxbsoH6e",
-      "prerequisiteId": "mt_VJBHmAh9Ui",
-      "strength": "hard",
-      "reason": "Tools are applied to data once collected and organised."
-    },
-    {
-      "topicId": "mt_pqYxbsoH6e",
-      "prerequisiteId": "mt_gLvCERWvVL",
-      "strength": "soft",
-      "reason": "Index numbers and averages underpin development indicators."
-    },
-    {
       "topicId": "mt_l6XJxwdZ4x",
       "prerequisiteId": "mt_MOhhQz1xTG",
       "strength": "hard",
@@ -24934,18 +24922,6 @@
       "reason": "Builds on India in the global economy."
     },
     {
-      "topicId": "mt_cICVdWiasF",
-      "prerequisiteId": "mt_rqYeEbHAHW",
-      "strength": "hard",
-      "reason": "Current challenges are assessed after the reform period."
-    },
-    {
-      "topicId": "mt_cICVdWiasF",
-      "prerequisiteId": "mt_64hj8wqjvs",
-      "strength": "hard",
-      "reason": "Poverty is one of the persistent challenges analysed."
-    },
-    {
       "topicId": "mt_OE2VGKifuo",
       "prerequisiteId": "mt_jeTXkpY2IU",
       "strength": "hard",
@@ -24953,39 +24929,9 @@
     },
     {
       "topicId": "mt_9yQTwqweRB",
-      "prerequisiteId": "mt_0AwWXAesqm",
-      "strength": "hard",
-      "reason": "Supply theory builds on supply met at secondary level."
-    },
-    {
-      "topicId": "mt_9yQTwqweRB",
       "prerequisiteId": "mt_yGbS9NpIU8",
       "strength": "hard",
       "reason": "The production function formalises the factors of production."
-    },
-    {
-      "topicId": "mt_PNxkRBuPDD",
-      "prerequisiteId": "mt_yWJTq3Oc3r",
-      "strength": "hard",
-      "reason": "Price determination builds on how prices are determined."
-    },
-    {
-      "topicId": "mt_PNxkRBuPDD",
-      "prerequisiteId": "mt_OE2VGKifuo",
-      "strength": "hard",
-      "reason": "Equilibrium requires both demand and supply sides."
-    },
-    {
-      "topicId": "mt_PNxkRBuPDD",
-      "prerequisiteId": "mt_9yQTwqweRB",
-      "strength": "hard",
-      "reason": "Market form is analysed through the producer’s cost conditions."
-    },
-    {
-      "topicId": "mt_RrfCpvr8HO",
-      "prerequisiteId": "mt_0CmQMjd6dQ",
-      "strength": "hard",
-      "reason": "National accounting builds on sectors of the economy."
     },
     {
       "topicId": "mt_Y6NdO8BCnB",
@@ -25010,12 +24956,6 @@
       "prerequisiteId": "mt_RrfCpvr8HO",
       "strength": "hard",
       "reason": "External transactions are part of the national accounts."
-    },
-    {
-      "topicId": "mt_H5PHAD5O0f",
-      "prerequisiteId": "mt_fROJBHSXYP",
-      "strength": "soft",
-      "reason": "Exchange rates connect domestic money to foreign currency."
     },
     {
       "topicId": "mt_DfGngupvn5",
@@ -26210,6 +26150,282 @@
       "prerequisiteId": "mt_QgbnzKUTYg",
       "strength": "soft",
       "reason": "Consumer protection enforces consumer rights."
+    },
+    {
+      "topicId": "mt_7QoJdOVbqg",
+      "prerequisiteId": "mt_zrGl2FRuhh",
+      "strength": "hard",
+      "reason": "Comparing economies builds on what an economy is for"
+    },
+    {
+      "topicId": "mt_wRuSXJkzXM",
+      "prerequisiteId": "mt_zrGl2FRuhh",
+      "strength": "hard",
+      "reason": "The basic activities are what economics studies in motion"
+    },
+    {
+      "topicId": "mt_y8Wj38VEpV",
+      "prerequisiteId": "mt_7QoJdOVbqg",
+      "strength": "soft",
+      "reason": "Different types of economy answer the central problems differently"
+    },
+    {
+      "topicId": "mt_yGbS9NpIU8",
+      "prerequisiteId": "mt_wRuSXJkzXM",
+      "strength": "soft",
+      "reason": "Production is studied as one of the basic economic activities"
+    },
+    {
+      "topicId": "mt_4Fa8k33D8O",
+      "prerequisiteId": "mt_RE1bwmAHw1",
+      "strength": "hard",
+      "reason": "Builds on India’s minerals and energy met at primary level."
+    },
+    {
+      "topicId": "mt_4Fa8k33D8O",
+      "prerequisiteId": "mt_GJIjtgZSZP",
+      "strength": "soft",
+      "reason": "Minerals and power are instances of the resource classification."
+    },
+    {
+      "topicId": "mt_QEMmnG9nXF",
+      "prerequisiteId": "mt_MOhhQz1xTG",
+      "strength": "hard",
+      "reason": "Builds on the overview of the Indian economy met at secondary level."
+    },
+    {
+      "topicId": "mt_YLAMPDNNGS",
+      "prerequisiteId": "mt_64hj8wqjvs",
+      "strength": "hard",
+      "reason": "Deepens poverty measurement met at secondary level."
+    },
+    {
+      "topicId": "mt_7EPOPctoXG",
+      "prerequisiteId": "mt_JmGiTiHHC9",
+      "strength": "hard",
+      "reason": "Extends people as a resource met at secondary level."
+    },
+    {
+      "topicId": "mt_IODbsyiHSw",
+      "prerequisiteId": "mt_JmGiTiHHC9",
+      "strength": "hard",
+      "reason": "Unemployment and economic activity are first met there."
+    },
+    {
+      "topicId": "mt_IODbsyiHSw",
+      "prerequisiteId": "mt_f8dmAdEPq2",
+      "strength": "soft",
+      "reason": "The employment challenge is introduced among the challenges before the Indian economy."
+    },
+    {
+      "topicId": "mt_WBuULVkIQU",
+      "prerequisiteId": "mt_kECFYQuuDI",
+      "strength": "soft",
+      "reason": "Rural credit builds on formal and informal sources of credit."
+    },
+    {
+      "topicId": "mt_v6ENxH5T7z",
+      "prerequisiteId": "mt_TzdumFchh6",
+      "strength": "soft",
+      "reason": "The economic role of transport and communication networks is met in geography."
+    },
+    {
+      "topicId": "mt_cgOg1EMNke",
+      "prerequisiteId": "mt_WSbUSYwUen",
+      "strength": "soft",
+      "reason": "Industrial pollution and its control are met in geography."
+    },
+    {
+      "topicId": "mt_cgOg1EMNke",
+      "prerequisiteId": "mt_f8dmAdEPq2",
+      "strength": "soft",
+      "reason": "The growth–environment tension is introduced among the challenges before the Indian economy."
+    },
+    {
+      "topicId": "mt_isxWTWvsV3",
+      "prerequisiteId": "mt_8atyuvPUZc",
+      "strength": "hard",
+      "reason": "Builds on scatter graphs and the informal idea of correlation."
+    },
+    {
+      "topicId": "mt_hpzJ3hCYuY",
+      "prerequisiteId": "mt_y8Wj38VEpV",
+      "strength": "hard",
+      "reason": "The frontier formalises the central problems of choice."
+    },
+    {
+      "topicId": "mt_PNxkRBuPDD",
+      "prerequisiteId": "mt_9Xg22tQB7f",
+      "strength": "soft",
+      "reason": "Builds on types of market met at secondary level."
+    },
+    {
+      "topicId": "mt_CpPEf9QV0N",
+      "prerequisiteId": "mt_0AwWXAesqm",
+      "strength": "hard",
+      "reason": "Supply theory builds on supply met at secondary level."
+    },
+    {
+      "topicId": "mt_LZyDLQN9BG",
+      "prerequisiteId": "mt_yWJTq3Oc3r",
+      "strength": "hard",
+      "reason": "Formal equilibrium builds on how prices are determined."
+    },
+    {
+      "topicId": "mt_RC9BFabf0N",
+      "prerequisiteId": "mt_0CmQMjd6dQ",
+      "strength": "hard",
+      "reason": "National accounting builds on sectors of the economy."
+    },
+    {
+      "topicId": "mt_SvtQoosaZE",
+      "prerequisiteId": "mt_VJBHmAh9Ui",
+      "strength": "hard",
+      "reason": "Data must be collected before they can be organised and presented."
+    },
+    {
+      "topicId": "mt_isxWTWvsV3",
+      "prerequisiteId": "mt_SvtQoosaZE",
+      "strength": "hard",
+      "reason": "Correlation is computed from organised paired data."
+    },
+    {
+      "topicId": "mt_vF1vhXd9Hs",
+      "prerequisiteId": "mt_SvtQoosaZE",
+      "strength": "hard",
+      "reason": "Index construction starts from organised price and quantity data."
+    },
+    {
+      "topicId": "mt_vF1vhXd9Hs",
+      "prerequisiteId": "mt_gLvCERWvVL",
+      "strength": "soft",
+      "reason": "Index numbers and averages underpin development indicators."
+    },
+    {
+      "topicId": "mt_xFO9zvrpSk",
+      "prerequisiteId": "mt_QEMmnG9nXF",
+      "strength": "hard",
+      "reason": "The plans answer the condition the economy was left in."
+    },
+    {
+      "topicId": "mt_l6XJxwdZ4x",
+      "prerequisiteId": "mt_xFO9zvrpSk",
+      "strength": "hard",
+      "reason": "Sectoral performance is appraised against the plan goals."
+    },
+    {
+      "topicId": "mt_YLAMPDNNGS",
+      "prerequisiteId": "mt_rqYeEbHAHW",
+      "strength": "soft",
+      "reason": "Post-reform trends frame the poverty debate."
+    },
+    {
+      "topicId": "mt_WBuULVkIQU",
+      "prerequisiteId": "mt_YLAMPDNNGS",
+      "strength": "soft",
+      "reason": "Rural development targets where poverty concentrates."
+    },
+    {
+      "topicId": "mt_v6ENxH5T7z",
+      "prerequisiteId": "mt_l6XJxwdZ4x",
+      "strength": "soft",
+      "reason": "The infrastructure stock is a legacy of the planned period."
+    },
+    {
+      "topicId": "mt_yvw97VSdiC",
+      "prerequisiteId": "mt_rqYeEbHAHW",
+      "strength": "hard",
+      "reason": "The comparison is drawn after India’s reform experience."
+    },
+    {
+      "topicId": "mt_yvw97VSdiC",
+      "prerequisiteId": "mt_gLvCERWvVL",
+      "strength": "soft",
+      "reason": "The comparison uses human development indicators."
+    },
+    {
+      "topicId": "mt_GhzZl4YKMP",
+      "prerequisiteId": "mt_OE2VGKifuo",
+      "strength": "hard",
+      "reason": "The demand curve traces consumer equilibrium against price."
+    },
+    {
+      "topicId": "mt_OZ7cx7ZmHm",
+      "prerequisiteId": "mt_GhzZl4YKMP",
+      "strength": "hard",
+      "reason": "Elasticity measures movement along the demand curve."
+    },
+    {
+      "topicId": "mt_LCjp24adw4",
+      "prerequisiteId": "mt_9yQTwqweRB",
+      "strength": "hard",
+      "reason": "Cost behaviour follows from the production function."
+    },
+    {
+      "topicId": "mt_CpPEf9QV0N",
+      "prerequisiteId": "mt_LCjp24adw4",
+      "strength": "hard",
+      "reason": "Equilibrium weighs revenue against the costs just derived."
+    },
+    {
+      "topicId": "mt_LZyDLQN9BG",
+      "prerequisiteId": "mt_GhzZl4YKMP",
+      "strength": "hard",
+      "reason": "Equilibrium requires the demand side."
+    },
+    {
+      "topicId": "mt_LZyDLQN9BG",
+      "prerequisiteId": "mt_CpPEf9QV0N",
+      "strength": "hard",
+      "reason": "Equilibrium requires the supply side."
+    },
+    {
+      "topicId": "mt_PNxkRBuPDD",
+      "prerequisiteId": "mt_LZyDLQN9BG",
+      "strength": "hard",
+      "reason": "Market forms are variations on the equilibrium mechanism."
+    },
+    {
+      "topicId": "mt_RrfCpvr8HO",
+      "prerequisiteId": "mt_RC9BFabf0N",
+      "strength": "hard",
+      "reason": "The three methods measure the circular flow at different points."
+    },
+    {
+      "topicId": "mt_owRz9lkeu4",
+      "prerequisiteId": "mt_Y6NdO8BCnB",
+      "strength": "hard",
+      "reason": "Demand gaps are defined against equilibrium output."
+    },
+    {
+      "topicId": "mt_Jh2PVetGCv",
+      "prerequisiteId": "mt_fROJBHSXYP",
+      "strength": "hard",
+      "reason": "Monetary control regulates the credit banks create."
+    },
+    {
+      "topicId": "mt_D0HPNFQBEO",
+      "prerequisiteId": "mt_owRz9lkeu4",
+      "strength": "soft",
+      "reason": "Fiscal correction responds to the diagnosed demand gap."
+    },
+    {
+      "topicId": "mt_WxlMOS1l2r",
+      "prerequisiteId": "mt_H5PHAD5O0f",
+      "strength": "hard",
+      "reason": "Exchange rates settle the transactions the accounts record."
+    },
+    {
+      "topicId": "mt_WxlMOS1l2r",
+      "prerequisiteId": "mt_fROJBHSXYP",
+      "strength": "soft",
+      "reason": "Exchange rates connect domestic money to foreign currency."
+    },
+    {
+      "topicId": "mt_uQmrcsYGFG",
+      "prerequisiteId": "mt_4Fa8k33D8O",
+      "strength": "hard",
+      "reason": "Builds on minerals and energy resources met at secondary level."
     }
   ]
 }

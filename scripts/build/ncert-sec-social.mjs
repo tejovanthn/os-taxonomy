@@ -69,8 +69,9 @@ const alignments = {
   'mt_44HkROUnzE': ['GEO.C10.FOREST'],                      // The Biodiversity Crisis
   'mt_7e-lG7YOWa': ['GEO.C10.FOREST'],                      // Communities Protecting Resources
   'mt_0e5rZxbAeR': ['GEO.C10.MIN'],                         // Finite Resources & Recycling
-  // senior resource topic minted below also carries the minerals standard
-  [mintId('resource-classification-planning')]: ['GEO.C10.MIN'],
+  // GEO.C10.MIN sat on resource-classification-planning until 2026-07-21, but
+  // that topic never covered minerals or energy; the standard now has its own
+  // senior topic (minerals-energy-resources) minted below.
   'mt_5S4byWDX6n': ['GEO.C9.WILD'],                         // Endangered & Extinct Species
   'mt_29aZtsWvgT': ['GEO.C9.POP'],                          // Population and Its Challenges
   'mt_kOFOr0gGSX': ['GEO.C9.POP'],                          // India's Growing Population
@@ -143,6 +144,11 @@ const newTopics = [
     EV('Classifies a given resource by origin and by renewability', 'Explains why resources are distributed unevenly across India', 'Argues why resource planning is necessary rather than optional'),
     'Ask {{name}} why a country would need a plan for its resources rather than simply using what it finds.',
     ['ncert-sec:GEO.C10.RES']),
+  t('minerals-energy-resources', 'Minerals and Energy Resources', SS, GEO, 15, 16, 'CONCEPTUAL',
+    'Understand that minerals and power sources are unevenly given, exhaustible and slow to form, how India’s metallic and non-metallic minerals and its conventional and non-conventional energy are distributed, and why conservation is forced rather than optional.',
+    EV('Distinguishes metallic, non-metallic and energy minerals with Indian examples', 'Explains why mineral and power resources are unevenly distributed', 'Contrasts conventional and non-conventional energy and the case for the latter'),
+    'Ask {{name}} why a country cannot simply mine its way to whatever it needs.',
+    ['ncert-sec:GEO.C10.MIN', 'ncert-sec:GEO.C10.POWER']),
   t('soil-types-land-degradation', 'Soil Types and Land Degradation', SS, GEO, 15, 16, 'CONCEPTUAL',
     'Understand that soil forms slowly from rock, climate and living things, that India has distinct soil types, and that careless land use degrades soil far faster than it can rebuild.',
     EV('Names major Indian soil types and where they occur', 'Explains one human cause of land degradation', 'Describes a conservation measure and why it works'),
@@ -248,6 +254,8 @@ const newTopics = [
 ];
 
 const newEdges = [
+  { t: 'minerals-energy-resources', p: 'mt_RE1bwmAHw1', strength: 'hard', reason: 'Builds on India’s minerals and energy met at primary level.' },
+  { t: 'minerals-energy-resources', p: 'resource-classification-planning', strength: 'soft', reason: 'Minerals and power are instances of the resource classification.' },
   { t: 'soil-types-land-degradation', p: 'resource-classification-planning', strength: 'soft', reason: 'Soil is treated as one resource within the wider classification.' },
   { t: 'water-scarcity-rainwater-harvesting', p: 'resource-classification-planning', strength: 'soft', reason: 'Water scarcity is an instance of the resource planning problem.' },
   { t: 'resource-classification-planning', p: 'mt_Qx5riGaO8e', strength: 'hard', reason: 'Formal classification builds on knowing India’s natural resources.' },

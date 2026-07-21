@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 342,
+  "clusterCount": 345,
   "clusters": [
     {
       "subject": "English",
@@ -2078,6 +2078,27 @@
       "ageRangeStart": 16,
       "ageRangeEnd": 17,
       "summary": "Physical geography explains the earth as a set of interacting systems. Learners work from the inside outward: the layered interior revealed by seismic waves, plates whose slow movement accounts for where mountains, earthquakes and volcanoes occur, and then the processes of weathering and erosion that wear those features down again. The atmosphere and oceans are treated as the machinery that redistributes the sun’s uneven heating, which is what ultimately produces climate."
+    },
+    {
+      "subject": "Economics",
+      "domain": "Economic Statistics",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "summary": "The Class XI statistics course is a toolkit built in sequence: data are collected by census or sample, organised into distributions, tables and charts, then summarised — centre and spread come from the mathematics course, correlation measures association, index numbers track change over time. The consumer price index is where it lands: one number that settles wage revisions and inflation arguments."
+    },
+    {
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "summary": "The Class XI development course reads India’s economy as one long argument: the state colonial rule left it in, what planning attempted and achieved, why 1991 changed the rules, and the challenges — poverty, jobs, human capital, rural credit, infrastructure, sustainability — that outlasted both regimes. It closes by holding India against China and Pakistan to ask what difference strategy made."
+    },
+    {
+      "subject": "Economics",
+      "domain": "Microeconomics",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "summary": "Class XII microeconomics builds one market from its parts. The consumer’s budget yields the demand curve and its elasticity; the producer’s costs yield the supply curve; equilibrium is where the two agree; and the market forms — from perfect competition to monopoly — decide who gets a say in the price."
     }
   ]
 }

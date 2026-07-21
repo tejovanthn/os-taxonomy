@@ -8,6 +8,38 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### Economics decomposed to idea grain; two papered-over standards fixed (2026-07-21)
+- A grain review across all subjects (topics-per-standard by source, then the
+  one-claim test on suspect bodies) found **NCERT XI–XII Economics still at unit
+  grain**: 13 topics for 16 units spanning four textbooks — a ratio of 0.81
+  against Physics 2.85 and Biology 4.50, the same defect fixed for Geography on
+  2026-07-20. *Statistical Tools for Economics* carried central tendency,
+  dispersion, correlation and index numbers as one topic; *Current Challenges
+  Facing the Indian Economy* carried poverty, human capital, rural development,
+  employment, infrastructure and sustainability, and never covered the
+  India–China–Pakistan comparison unit aligned to it.
+- Decomposed senior Economics 13 → 33 topics (22 minted, 2 bundles removed,
+  9 narrowed in place; ratio now 2.06). Central tendency and dispersion were
+  **not** re-minted: the statistics standard aligns to the existing Mathematics
+  topics (*Median and Mode*; *Measures of Dispersion*) instead.
+- **The commerce flattening's "only superset double-coverage" claim was wrong**:
+  NIOS Economics had the same pattern. *The Indian Economy* bundled three
+  lessons while single-lesson topics already covered two of them. Narrowed it to
+  its overview lesson (*An Overview of the Indian Economy*); minted *Types of
+  Economies* and *Basic Economic Activities* for the two lessons whose content
+  the surviving topics never carried.
+- **Aligned five NIOS Economics lessons to right-age topics** (money, banking,
+  data collection, data analysis, environment) — each had sat only on topics for
+  ages 5–11 while a 14–18 treatment existed elsewhere in the graph.
+- **Fixed a papered-over Geography standard**: Class X *Mineral Resources* was
+  aligned to *Resource Classification and Planning*, whose body never mentions
+  minerals or energy. Minted *Minerals and Energy Resources* (15–16, also
+  carrying the Power Resources unit, matching the NCERT chapter) and anchored
+  the Class XII resources topic to it.
+- 2,495 topics / 4,404 edges / 345 clusters. validate green; all touched builds
+  idempotent; connectivity unchanged (the four documented islands only); no
+  remaining age-gap on any Economics standard.
+
 ### Commerce micro-topics flattened; migration made idempotent (2026-07-20)
 - Resolved the NIOS Business Studies / Accountancy redundancy surfaced by the
   grain review: four units carried a coarse "overview" topic covering two source

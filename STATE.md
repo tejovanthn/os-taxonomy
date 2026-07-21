@@ -1,11 +1,11 @@
 # STATE
 
 Branch `indian-curriculum` (local only, no upstream PR).
-Last updated 2026-07-20.
+Last updated 2026-07-21.
 
 ## Where things stand
 
-2,472 topics · 4,368 edges · 4,253 standards · 342 clusters · 15 curriculum
+2,495 topics · 4,404 edges · 4,253 standards · 345 clusters · 15 curriculum
 sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
 All build scripts idempotent (re-run adds zero).
 
@@ -16,11 +16,20 @@ subjects; Geography and Political Science were then split out of Social Studies
 from age 14, so all five components of NCERT's Social Science now exist as
 subjects at the senior level. See CHANGELOG for the per-subject breakdown.
 
-Latest (2026-07-20): NIOS Business Studies / Accountancy commerce topics
-flattened to single-idea micro-topics (the four superset "overview" bundles were
-the only within-subject double-coverage in the dataset, now removed; four more
-two-lesson bundles split). The subject-split migration is now also idempotent
-(it now collapses clusters that a re-emitting build would otherwise duplicate).
+Latest (2026-07-21): a full grain review found **NCERT XI–XII Economics still at
+unit grain** (0.81 topics per standard against Physics 2.85) and decomposed it
+13 → 33 topics, the same treatment Geography got on 2026-07-20. The commerce
+pass's claim that its bundles were the only superset double-coverage was wrong —
+NIOS Economics had one more (*The Indian Economy*, now narrowed to its overview
+lesson, with *Types of Economies* and *Basic Economic Activities* minted for the
+lessons it papered over). Also minted *Minerals and Energy Resources* (15–16)
+for the Class X minerals unit that sat on a topic that never covered it, and
+aligned five NIOS Economics lessons (money, banking, data, environment) to
+right-age topics instead of only ages 5–11. Sec Geography and Political Science
+were checked the same way and left at chapter grain: their bodies pass the
+one-claim test, so the sub-1.0 ratio there is shared coverage, not bundling.
+Earlier (2026-07-20): commerce flattening; subject-split migration made
+idempotent.
 
 ## Single next step
 
@@ -94,7 +103,13 @@ Devanagari and tesseract has `tel`, `kan` and `tam` packs installed.
   the size of its sibling disciplines; the tell was a topics-per-standard ratio
   of 1.00 against 2.85–4.50 elsewhere. Compute topics-per-source-unit by subject
   and treat any subject near 1.0 as a decomposition candidate — then read its
-  broadest units to confirm.
+  broadest units to confirm. Interpret the ratio against the source's grain:
+  NIOS lessons are already near-topic-sized, so 1.0 is correct there, while
+  NCERT units bundle chapters, so 1.0 is a defect. The Geography fix checked its
+  sibling Political Science and stopped; Economics sat one column over at 0.81
+  for another day. When a structural audit convicts one subject, run it to
+  completion across every subject before closing the pass — same for the
+  superset check, whose "commerce only" conclusion missed NIOS Economics.
 - **Check that a title does not promise content the body omits.** Restrict the
   test to titles enumerating a coordinate list (*A, B and C*) and ask whether
   each item is addressed; a whole-title word check drowns in false positives,

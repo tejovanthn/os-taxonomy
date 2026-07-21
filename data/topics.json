@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2472,
+  "topicCount": 2495,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -36237,7 +36237,9 @@
       "standards": [
         "nios-sec-2020:211.M6.L25",
         "ncert-sec:MA.C9.STAT",
-        "ncert-sec:MA.C10.STAT"
+        "ncert-sec:MA.C10.STAT",
+        "ncert-hsec:ECO.C11.S3",
+        "nios-sec-2020:214.M6.L18"
       ]
     },
     {
@@ -36481,51 +36483,6 @@
       ]
     },
     {
-      "id": "mt_zrGl2FRuhh",
-      "type": "CONCEPTUAL",
-      "subject": "Economics",
-      "domain": "Basic Concepts",
-      "name": "What Is Economics",
-      "description": "Understand economics as the study of how people and societies use their limited resources to satisfy their unlimited wants — and why that makes choice necessary.",
-      "ageRangeStart": 14,
-      "ageRangeEnd": 16,
-      "centrality": null,
-      "evidence": [
-        "Define economics in simple terms",
-        "Explain the problem of limited resources and unlimited wants",
-        "Explain why economics is about making choices"
-      ],
-      "assessmentPrompt": "Can {{name}} explain what economics studies — how people make choices because resources are limited but wants are not?",
-      "standards": [
-        "nios-sec-2020:214.M1.L1",
-        "nios-sec-2020:214.M2.L4",
-        "ncert-sec:ECO.C9.PALAM"
-      ]
-    },
-    {
-      "id": "mt_y8Wj38VEpV",
-      "type": "CONCEPTUAL",
-      "subject": "Economics",
-      "domain": "Basic Concepts",
-      "name": "The Central Problems of an Economy",
-      "description": "Understand that because resources are scarce, every economy must answer three central questions — what to produce, how to produce it, and for whom — and that different economic systems answer them differently.",
-      "ageRangeStart": 14,
-      "ageRangeEnd": 16,
-      "centrality": null,
-      "evidence": [
-        "State the three central problems of an economy",
-        "Explain how scarcity creates these problems",
-        "Explain that different systems answer them differently"
-      ],
-      "assessmentPrompt": "Can {{name}} explain the three big questions every economy must answer — what, how and for whom to produce?",
-      "standards": [
-        "nios-sec-2020:214.M2.L5",
-        "nios-sec-2020:214.M2.L6",
-        "ncert-sec:ECO.C9.PALAM",
-        "ncert-sec:ECO.C10.DEV"
-      ]
-    },
-    {
       "id": "mt_yGbS9NpIU8",
       "type": "CONCEPTUAL",
       "subject": "Economics",
@@ -36626,29 +36583,6 @@
       "assessmentPrompt": "Can {{name}} explain what a market is and how markets can differ, from lots of competing sellers to just one?",
       "standards": [
         "nios-sec-2020:214.M4.L12"
-      ]
-    },
-    {
-      "id": "mt_MOhhQz1xTG",
-      "type": "CONCEPTUAL",
-      "subject": "Economics",
-      "domain": "The Indian Economy",
-      "name": "The Indian Economy",
-      "description": "Understand the broad features of the Indian economy, the major challenges it faces (like poverty and unemployment), and its place in the global economy.",
-      "ageRangeStart": 14,
-      "ageRangeEnd": 16,
-      "centrality": null,
-      "evidence": [
-        "Describe a key feature of the Indian economy",
-        "Name a major challenge facing it",
-        "Explain that India trades within a global economy"
-      ],
-      "assessmentPrompt": "Can {{name}} describe the Indian economy in broad terms — a strength, a challenge, and its place in the wider world?",
-      "standards": [
-        "nios-sec-2020:214.M7.L19",
-        "nios-sec-2020:214.M7.L21",
-        "nios-sec-2020:214.M7.L22",
-        "ncert-sec:ECO.C10.DEV"
       ]
     },
     {
@@ -41951,8 +41885,7 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a country would need a plan for its resources rather than simply using what it finds.",
       "standards": [
-        "ncert-sec:GEO.C10.RES",
-        "ncert-sec:GEO.C10.MIN"
+        "ncert-sec:GEO.C10.RES"
       ]
     },
     {
@@ -42234,7 +42167,9 @@
       ],
       "assessmentPrompt": "Ask {{name}} why borrowing from a bank and borrowing from a moneylender are not the same thing.",
       "standards": [
-        "ncert-sec:ECO.C10.MONEY"
+        "ncert-sec:ECO.C10.MONEY",
+        "nios-sec-2020:214.M5.L14",
+        "nios-sec-2020:214.M5.L15"
       ]
     },
     {
@@ -45238,7 +45173,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why two classes with the same average mark might still be very different classes.",
       "standards": [
-        "ncert-hsec:MAT.C11.STAT"
+        "ncert-hsec:MAT.C11.STAT",
+        "ncert-hsec:ECO.C11.S3"
       ]
     },
     {
@@ -47469,67 +47405,6 @@
       ]
     },
     {
-      "id": "mt_VJBHmAh9Ui",
-      "type": "PROCEDURAL",
-      "subject": "Economics",
-      "domain": "Economic Statistics",
-      "name": "Collecting and Organising Economic Data",
-      "description": "Understand how economic data are gathered by census or sample, why sampling and non-sampling errors arise, and how raw data are organised into frequency distributions.",
-      "ageRangeStart": 16,
-      "ageRangeEnd": 17,
-      "centrality": null,
-      "evidence": [
-        "Distinguishes a census from a sample survey",
-        "Explains a source of sampling or non-sampling error",
-        "Organises raw data into a frequency distribution"
-      ],
-      "assessmentPrompt": "Ask {{name}} how anyone can know the unemployment rate without asking every single person.",
-      "standards": [
-        "ncert-hsec:ECO.C11.S1",
-        "ncert-hsec:ECO.C11.S2"
-      ]
-    },
-    {
-      "id": "mt_pqYxbsoH6e",
-      "type": "PROCEDURAL",
-      "subject": "Economics",
-      "domain": "Economic Statistics",
-      "name": "Statistical Tools for Economics",
-      "description": "Summarise economic data using measures of central tendency and dispersion, describe association using correlation, and track change over time using index numbers.",
-      "ageRangeStart": 16,
-      "ageRangeEnd": 17,
-      "centrality": null,
-      "evidence": [
-        "Computes and interprets a measure of central tendency and dispersion",
-        "Interprets a correlation coefficient without inferring cause",
-        "Explains how a consumer price index is constructed and used"
-      ],
-      "assessmentPrompt": "Ask {{name}} how the government works out whether prices have risen this year.",
-      "standards": [
-        "ncert-hsec:ECO.C11.S3"
-      ]
-    },
-    {
-      "id": "mt_l6XJxwdZ4x",
-      "type": "CONCEPTUAL",
-      "subject": "Economics",
-      "domain": "The Indian Economy",
-      "name": "Indian Development Under Planning, 1947–1990",
-      "description": "Understand the condition of the economy at independence, the goals the five year plans pursued, and how agriculture, industry and trade policy performed under planning.",
-      "ageRangeStart": 16,
-      "ageRangeEnd": 17,
-      "centrality": null,
-      "evidence": [
-        "Describes the state of the economy on the eve of independence",
-        "Names the common goals of the five year plans",
-        "Appraises a policy of the planned period on its own terms"
-      ],
-      "assessmentPrompt": "Ask {{name}} why newly independent India chose to plan its economy centrally rather than leave it to markets.",
-      "standards": [
-        "ncert-hsec:ECO.C11.D1"
-      ]
-    },
-    {
       "id": "mt_rqYeEbHAHW",
       "type": "CONCEPTUAL",
       "subject": "Economics",
@@ -47550,148 +47425,6 @@
       ]
     },
     {
-      "id": "mt_cICVdWiasF",
-      "type": "CONCEPTUAL",
-      "subject": "Economics",
-      "domain": "The Indian Economy",
-      "name": "Current Challenges Facing the Indian Economy",
-      "description": "Understand poverty, employment, human capital formation, rural development, infrastructure and sustainability as the persistent challenges, and how they interlock.",
-      "ageRangeStart": 16,
-      "ageRangeEnd": 17,
-      "centrality": null,
-      "evidence": [
-        "Explains why human capital formation matters for growth",
-        "Explains the nature of the employment challenge in India",
-        "Explains a trade-off between growth and sustainability"
-      ],
-      "assessmentPrompt": "Ask {{name}} why an economy can grow quickly and still leave a lot of people behind.",
-      "standards": [
-        "ncert-hsec:ECO.C11.D3",
-        "ncert-hsec:ECO.C11.D4"
-      ]
-    },
-    {
-      "id": "mt_OE2VGKifuo",
-      "type": "CONCEPTUAL",
-      "subject": "Economics",
-      "domain": "Microeconomics",
-      "name": "Consumer Behaviour and Demand",
-      "description": "Understand how a consumer allocates a limited budget to maximise satisfaction, and how that yields a demand curve sloping downward with a measurable elasticity.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Explains the condition for consumer equilibrium",
-        "Distinguishes a movement along from a shift of the demand curve",
-        "Computes and interprets price elasticity of demand"
-      ],
-      "assessmentPrompt": "Ask {{name}} why a rise in the price of salt changes how much people buy far less than a rise in the price of a particular brand of biscuit.",
-      "standards": [
-        "ncert-hsec:ECO.C12.MI1",
-        "ncert-hsec:ECO.C12.MI2"
-      ]
-    },
-    {
-      "id": "mt_9yQTwqweRB",
-      "type": "CONCEPTUAL",
-      "subject": "Economics",
-      "domain": "Microeconomics",
-      "name": "Producer Behaviour, Costs and Supply",
-      "description": "Understand how output responds to varying inputs, how short and long run costs behave, and how the producer’s equilibrium generates the supply curve.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Explains returns to a factor and the law of variable proportions",
-        "Distinguishes fixed from variable cost and short from long run",
-        "Explains the condition for producer equilibrium"
-      ],
-      "assessmentPrompt": "Ask {{name}} why adding more and more workers to the same small field eventually stops helping.",
-      "standards": [
-        "ncert-hsec:ECO.C12.MI3"
-      ]
-    },
-    {
-      "id": "mt_PNxkRBuPDD",
-      "type": "CONCEPTUAL",
-      "subject": "Economics",
-      "domain": "Microeconomics",
-      "name": "Market Forms and Price Determination",
-      "description": "Understand how the number of sellers and the nature of the product define market forms, and how equilibrium price is set and shifted by changes in demand and supply.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Contrasts perfect competition with monopoly on price-setting power",
-        "Determines equilibrium price and quantity from demand and supply",
-        "Predicts the effect of a shift in demand or supply on equilibrium"
-      ],
-      "assessmentPrompt": "Ask {{name}} why a farmer cannot set the price of their wheat but a mobile network can set its tariff.",
-      "standards": [
-        "ncert-hsec:ECO.C12.MI4"
-      ]
-    },
-    {
-      "id": "mt_RrfCpvr8HO",
-      "type": "PROCEDURAL",
-      "subject": "Economics",
-      "domain": "Macroeconomics",
-      "name": "National Income and Its Measurement",
-      "description": "Understand the circular flow of income and the three equivalent ways of measuring national output, and distinguish gross from net, domestic from national, and nominal from real.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Explains the circular flow of income",
-        "Distinguishes GDP from GNP and market price from factor cost",
-        "Explains why real income is used to compare across years"
-      ],
-      "assessmentPrompt": "Ask {{name}} why a country’s income can rise on paper while people are no better off.",
-      "standards": [
-        "ncert-hsec:ECO.C12.MA1"
-      ]
-    },
-    {
-      "id": "mt_Y6NdO8BCnB",
-      "type": "CONCEPTUAL",
-      "subject": "Economics",
-      "domain": "Macroeconomics",
-      "name": "Determination of Income and Employment",
-      "description": "Understand how aggregate demand and supply determine equilibrium output, how the propensity to consume drives the multiplier, and what excess or deficient demand implies.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Explains the components of aggregate demand",
-        "Computes the investment multiplier from the propensity to consume",
-        "Explains the problem of deficient demand and a corrective measure"
-      ],
-      "assessmentPrompt": "Ask {{name}} why one rupee of new government spending can raise total income by more than a rupee.",
-      "standards": [
-        "ncert-hsec:ECO.C12.MA2"
-      ]
-    },
-    {
-      "id": "mt_fROJBHSXYP",
-      "type": "CONCEPTUAL",
-      "subject": "Economics",
-      "domain": "Macroeconomics",
-      "name": "Money, Banking and Credit Creation",
-      "description": "Understand what money is and how it evolved, how commercial banks create credit from deposits, and how the central bank controls the money supply.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Explains how commercial banks create credit",
-        "Names an instrument of monetary control and its effect",
-        "Explains the functions of a central bank"
-      ],
-      "assessmentPrompt": "Ask {{name}} how banks can lend far more money than has ever been deposited with them.",
-      "standards": [
-        "ncert-hsec:ECO.C12.MA3"
-      ]
-    },
-    {
       "id": "mt_D0HPNFQBEO",
       "type": "CONCEPTUAL",
       "subject": "Economics",
@@ -47709,26 +47442,6 @@
       "assessmentPrompt": "Ask {{name}} whether a government running a deficit is necessarily managing money badly.",
       "standards": [
         "ncert-hsec:ECO.C12.MA4"
-      ]
-    },
-    {
-      "id": "mt_H5PHAD5O0f",
-      "type": "CONCEPTUAL",
-      "subject": "Economics",
-      "domain": "Macroeconomics",
-      "name": "Balance of Payments and Exchange Rates",
-      "description": "Understand how a country records its transactions with the rest of the world, what a deficit on the current account means, and how exchange rates are determined.",
-      "ageRangeStart": 17,
-      "ageRangeEnd": 18,
-      "centrality": null,
-      "evidence": [
-        "Distinguishes the current from the capital account",
-        "Explains what a balance of payments deficit means",
-        "Contrasts fixed and flexible exchange rate systems"
-      ],
-      "assessmentPrompt": "Ask {{name}} what decides how many rupees a dollar is worth today.",
-      "standards": [
-        "ncert-hsec:ECO.C12.MA5"
       ]
     },
     {
@@ -50132,6 +49845,754 @@
       "assessmentPrompt": "Can {{name}} explain what a consumer can do if a product or service treats them unfairly?",
       "standards": [
         "nios-sec-2020:215.M5.L18"
+      ]
+    },
+    {
+      "id": "mt_zrGl2FRuhh",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Basic Concepts",
+      "name": "What Is Economics",
+      "description": "Understand economics as the study of how people and societies use their limited resources to satisfy their unlimited wants — and why that makes choice necessary.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Define economics in simple terms",
+        "Explain the problem of limited resources and unlimited wants",
+        "Explain why economics is about making choices"
+      ],
+      "assessmentPrompt": "Can {{name}} explain what economics studies — how people make choices because resources are limited but wants are not?",
+      "standards": [
+        "nios-sec-2020:214.M1.L1",
+        "ncert-sec:ECO.C9.PALAM"
+      ]
+    },
+    {
+      "id": "mt_7QoJdOVbqg",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Basic Concepts",
+      "name": "Types of Economies",
+      "description": "Understand what an economy is and how economies differ — market economies where prices direct activity, planned economies where the government does, and mixed economies like India that combine both.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explain what an economy is",
+        "Distinguish market, planned and mixed economies",
+        "Explain why India is called a mixed economy"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the difference between a market, a planned and a mixed economy — and which India is?",
+      "standards": [
+        "nios-sec-2020:214.M2.L4"
+      ]
+    },
+    {
+      "id": "mt_y8Wj38VEpV",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Basic Concepts",
+      "name": "The Central Problems of an Economy",
+      "description": "Understand that because resources are scarce, every economy must answer three central questions — what to produce, how to produce it, and for whom — and that different economic systems answer them differently.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "State the three central problems of an economy",
+        "Explain how scarcity creates these problems",
+        "Explain that different systems answer them differently"
+      ],
+      "assessmentPrompt": "Can {{name}} explain the three big questions every economy must answer — what, how and for whom to produce?",
+      "standards": [
+        "nios-sec-2020:214.M2.L5",
+        "ncert-sec:ECO.C9.PALAM",
+        "ncert-sec:ECO.C10.DEV"
+      ]
+    },
+    {
+      "id": "mt_wRuSXJkzXM",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Basic Concepts",
+      "name": "Basic Economic Activities",
+      "description": "Understand the activities every economy runs on — producing goods and services, consuming them, and exchanging and distributing them — and how they connect in a continuous round.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Name the basic economic activities",
+        "Classify an everyday action as production, consumption or exchange",
+        "Explain how production and consumption depend on each other"
+      ],
+      "assessmentPrompt": "Can {{name}} sort everyday actions into producing, consuming and exchanging, and explain how they connect?",
+      "standards": [
+        "nios-sec-2020:214.M2.L6"
+      ]
+    },
+    {
+      "id": "mt_MOhhQz1xTG",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "An Overview of the Indian Economy",
+      "description": "Understand the broad features of the Indian economy — a very large population, farming that still employs most people, fast-growing services, and a mix of public and private activity.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describe a key feature of the Indian economy",
+        "Explain that most Indians work in farming while services grow fastest",
+        "Give an example of public and of private activity in the economy"
+      ],
+      "assessmentPrompt": "Can {{name}} describe the Indian economy in broad terms — what it produces and who works where?",
+      "standards": [
+        "nios-sec-2020:214.M7.L19",
+        "ncert-sec:ECO.C10.DEV"
+      ]
+    },
+    {
+      "id": "mt_4Fa8k33D8O",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Geography of India",
+      "name": "Minerals and Energy Resources",
+      "description": "Understand that minerals and power sources are unevenly given, exhaustible and slow to form, how India’s metallic and non-metallic minerals and its conventional and non-conventional energy are distributed, and why conservation is forced rather than optional.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes metallic, non-metallic and energy minerals with Indian examples",
+        "Explains why mineral and power resources are unevenly distributed",
+        "Contrasts conventional and non-conventional energy and the case for the latter"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a country cannot simply mine its way to whatever it needs.",
+      "standards": [
+        "ncert-sec:GEO.C10.MIN",
+        "ncert-sec:GEO.C10.POWER"
+      ]
+    },
+    {
+      "id": "mt_VJBHmAh9Ui",
+      "type": "PROCEDURAL",
+      "subject": "Economics",
+      "domain": "Economic Statistics",
+      "name": "Collecting Economic Data: Census and Sample Surveys",
+      "description": "Understand how economic data are gathered — by complete census or by sample — and why sampling and non-sampling errors make the method of collection matter.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a census from a sample survey",
+        "Explains a source of sampling or non-sampling error",
+        "Chooses an appropriate collection method for a stated purpose"
+      ],
+      "assessmentPrompt": "Ask {{name}} how anyone can know the unemployment rate without asking every single person.",
+      "standards": [
+        "ncert-hsec:ECO.C11.S1",
+        "ncert-hsec:ECO.C11.S2",
+        "nios-sec-2020:214.M6.L17"
+      ]
+    },
+    {
+      "id": "mt_SvtQoosaZE",
+      "type": "PROCEDURAL",
+      "subject": "Economics",
+      "domain": "Economic Statistics",
+      "name": "Organising and Presenting Economic Data",
+      "description": "Understand that raw figures reveal nothing until they are structured — organised into frequency distributions and presented in tables and diagrams that make the pattern visible.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Organises raw data into a frequency distribution",
+        "Chooses a suitable table or diagram for a data set",
+        "Reads a statistical table or chart and states what it shows"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a list of five hundred household incomes can tell you before and after it is put into a table.",
+      "standards": [
+        "ncert-hsec:ECO.C11.S2"
+      ]
+    },
+    {
+      "id": "mt_isxWTWvsV3",
+      "type": "PROCEDURAL",
+      "subject": "Economics",
+      "domain": "Economic Statistics",
+      "name": "The Correlation Coefficient",
+      "description": "Understand correlation as a measure of how two variables move together, compute it by Karl Pearson’s and the rank method, and resist reading cause into it.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Computes a correlation coefficient from paired data",
+        "Interprets the size and sign of a correlation",
+        "Explains why correlation does not establish cause"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether ice-cream sales cause drownings, and what the numbers actually show.",
+      "standards": [
+        "ncert-hsec:ECO.C11.S3"
+      ]
+    },
+    {
+      "id": "mt_vF1vhXd9Hs",
+      "type": "PROCEDURAL",
+      "subject": "Economics",
+      "domain": "Economic Statistics",
+      "name": "Index Numbers and the Consumer Price Index",
+      "description": "Understand index numbers as a way of tracking change in a whole collection of prices or quantities against a base year, and how the consumer price index is built and used.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains what an index number expresses and what the base year is",
+        "Explains how a consumer price index is constructed",
+        "Uses a price index to compare real values across years"
+      ],
+      "assessmentPrompt": "Ask {{name}} how the government works out whether prices have risen this year.",
+      "standards": [
+        "ncert-hsec:ECO.C11.S3"
+      ]
+    },
+    {
+      "id": "mt_QEMmnG9nXF",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "The Indian Economy on the Eve of Independence",
+      "description": "Understand the condition colonial rule left the economy in by 1947 — stagnant agriculture, ruined handicrafts alongside scant modern industry, and trade and infrastructure arranged to serve Britain.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Describes the state of agriculture and industry at independence",
+        "Explains how colonial trade policy shaped what India produced",
+        "Explains what the railways and ports were built to serve"
+      ],
+      "assessmentPrompt": "Ask {{name}} what kind of economy the British left behind in 1947 and how they know.",
+      "standards": [
+        "ncert-hsec:ECO.C11.D1"
+      ]
+    },
+    {
+      "id": "mt_xFO9zvrpSk",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "The Goals of the Five Year Plans",
+      "description": "Understand why independent India chose planning, and the four goals every plan pursued — growth, modernisation, self-reliance and equity — with their built-in tensions.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Names the common goals of the five year plans",
+        "Explains why planning was chosen over leaving development to markets",
+        "Explains a tension between two plan goals"
+      ],
+      "assessmentPrompt": "Ask {{name}} why newly independent India chose to plan its economy centrally rather than leave it to markets.",
+      "standards": [
+        "ncert-hsec:ECO.C11.D1"
+      ]
+    },
+    {
+      "id": "mt_l6XJxwdZ4x",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Agriculture, Industry and Trade Under Planning",
+      "description": "Appraise how the planned economy performed sector by sector — the green revolution in agriculture, licensing and public-sector dominance in industry, and trade behind protective walls.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains what the green revolution changed and at what cost",
+        "Explains how licensing shaped Indian industry",
+        "Appraises import substitution on its own terms"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the green revolution solved and what new problems it created.",
+      "standards": [
+        "ncert-hsec:ECO.C11.D1"
+      ]
+    },
+    {
+      "id": "mt_YLAMPDNNGS",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Poverty in India and Its Alleviation",
+      "description": "Understand how poverty in India is identified and counted, why the poverty line is contested, and how growth, redistribution and targeted programmes have each been used against it.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains how the poverty line identifies the poor and a criticism of it",
+        "Describes the trend of poverty in India since independence",
+        "Appraises a poverty alleviation programme"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether India has less poverty than it did, and how anyone could tell.",
+      "standards": [
+        "ncert-hsec:ECO.C11.D3"
+      ]
+    },
+    {
+      "id": "mt_7EPOPctoXG",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Human Capital Formation in India",
+      "description": "Understand spending on education and health as investment in people, the sources human capital comes from, and why it drives growth yet remains underprovided.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains why human capital formation matters for growth",
+        "Names the sources of human capital formation",
+        "Explains why education and health are not left wholly to the market"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a year of schooling can be an investment in the same sense as a factory.",
+      "standards": [
+        "ncert-hsec:ECO.C11.D3"
+      ]
+    },
+    {
+      "id": "mt_WBuULVkIQU",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Rural Development and Rural Credit",
+      "description": "Understand what keeps rural India poor — thin credit, weak markets and dependence on a single crop — and the case for diversification and institutional credit.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains why farmers need credit and where they get it",
+        "Explains how diversification reduces rural risk",
+        "Describes a channel by which farm produce reaches markets"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a good harvest can still leave a farmer in debt.",
+      "standards": [
+        "ncert-hsec:ECO.C11.D3"
+      ]
+    },
+    {
+      "id": "mt_IODbsyiHSw",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Employment and Unemployment in India",
+      "description": "Understand how India’s workforce is counted, why most of it is informal, and why output can grow faster than jobs.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes formal from informal employment",
+        "Explains a way unemployment is measured",
+        "Explains how growth can outpace job creation"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a growing economy can still leave people without steady work.",
+      "standards": [
+        "ncert-hsec:ECO.C11.D3"
+      ]
+    },
+    {
+      "id": "mt_v6ENxH5T7z",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Infrastructure and Development",
+      "description": "Understand infrastructure — energy, transport, communication, health facilities — as the base on which production stands, and why shortfalls in it cap what the economy can do.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains how a shortfall in energy or transport limits production",
+        "Explains why much infrastructure is publicly provided",
+        "Links a health or energy indicator to economic capacity"
+      ],
+      "assessmentPrompt": "Ask {{name}} what happens to a factory, a farm and a school when the power fails for six hours a day.",
+      "standards": [
+        "ncert-hsec:ECO.C11.D3"
+      ]
+    },
+    {
+      "id": "mt_cgOg1EMNke",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Environment and Sustainable Development",
+      "description": "Understand the environment as both the source of the economy’s inputs and the sink for its wastes, and sustainable development as growth that does not spend what future generations need.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Explains the supply and sink functions of the environment",
+        "Explains a trade-off between growth and sustainability",
+        "Describes a policy that prices or limits environmental damage"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a country can grow rich by using up exactly the things its grandchildren will need.",
+      "standards": [
+        "ncert-hsec:ECO.C11.D3",
+        "nios-sec-2020:214.M8.L23"
+      ]
+    },
+    {
+      "id": "mt_yvw97VSdiC",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "India, China and Pakistan: Development Compared",
+      "description": "Compare the development paths of India, China and Pakistan — the strategies each chose and where growth, structure and human development indicators now place them.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 17,
+      "centrality": null,
+      "evidence": [
+        "Contrasts the growth strategies of India and China",
+        "Compares the three countries on a human development indicator",
+        "Explains why similar starting points led to different outcomes"
+      ],
+      "assessmentPrompt": "Ask {{name}} why three countries that started poor in the late 1940s are in such different places now.",
+      "standards": [
+        "ncert-hsec:ECO.C11.D4"
+      ]
+    },
+    {
+      "id": "mt_hpzJ3hCYuY",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Microeconomics",
+      "name": "The Production Possibilities Frontier",
+      "description": "Understand the production possibilities frontier as the picture of scarcity — the combinations an economy can produce, and the slope as the opportunity cost of choosing one good over another.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Reads attainable and unattainable points off a production possibilities frontier",
+        "Explains opportunity cost using the frontier’s slope",
+        "Explains what shifts the frontier outward"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a country gives up when it decides to produce more of one thing.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MI1"
+      ]
+    },
+    {
+      "id": "mt_OE2VGKifuo",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Microeconomics",
+      "name": "Consumer Equilibrium",
+      "description": "Understand how a consumer with a limited budget settles where satisfaction is highest — marginal utility equalised per rupee, or the highest indifference curve the budget line touches.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the condition for consumer equilibrium",
+        "Uses the budget line to show what a consumer can afford",
+        "Explains how a price or income change moves the equilibrium"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a person with a fixed pocket allowance decides the mix of things to buy.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MI2"
+      ]
+    },
+    {
+      "id": "mt_GhzZl4YKMP",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Microeconomics",
+      "name": "The Demand Curve and Its Shifts",
+      "description": "Understand the demand curve as consumer choice traced against price, and distinguish movement along the curve from shifts of the whole curve when income, tastes or other prices change.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Derives the downward slope of demand from consumer behaviour",
+        "Distinguishes a movement along from a shift of the demand curve",
+        "Aggregates individual demand into market demand"
+      ],
+      "assessmentPrompt": "Ask {{name}} what differs between buying more mangoes because they got cheap and because summer arrived.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MI2"
+      ]
+    },
+    {
+      "id": "mt_OZ7cx7ZmHm",
+      "type": "PROCEDURAL",
+      "subject": "Economics",
+      "domain": "Microeconomics",
+      "name": "Price Elasticity of Demand",
+      "description": "Measure how strongly quantity demanded answers price — computing elasticity, reading it from how expenditure moves, and explaining why goods differ in it.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Computes price elasticity of demand",
+        "Infers elasticity from how total expenditure moves with price",
+        "Explains a factor that makes demand elastic or inelastic"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a rise in the price of salt changes how much people buy far less than a rise in the price of a particular brand of biscuit.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MI2"
+      ]
+    },
+    {
+      "id": "mt_9yQTwqweRB",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Microeconomics",
+      "name": "Production and Returns to a Factor",
+      "description": "Understand the production function — how output responds as one input varies with the others fixed — and the law of variable proportions that governs it.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains returns to a factor and the law of variable proportions",
+        "Distinguishes total, average and marginal product",
+        "Explains why marginal product eventually falls"
+      ],
+      "assessmentPrompt": "Ask {{name}} why adding more and more workers to the same small field eventually stops helping.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MI3"
+      ]
+    },
+    {
+      "id": "mt_LCjp24adw4",
+      "type": "PROCEDURAL",
+      "subject": "Economics",
+      "domain": "Microeconomics",
+      "name": "Costs of Production",
+      "description": "Understand the cost family — fixed and variable, total, average and marginal, short run and long — and the shapes the law of variable proportions forces on the curves.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes fixed from variable cost and short from long run",
+        "Computes average and marginal cost from a cost schedule",
+        "Explains why short-run average cost is U-shaped"
+      ],
+      "assessmentPrompt": "Ask {{name}} which of a bakery’s bills continue when the ovens go cold.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MI3"
+      ]
+    },
+    {
+      "id": "mt_CpPEf9QV0N",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Microeconomics",
+      "name": "Producer Equilibrium and the Supply Curve",
+      "description": "Understand how a producer weighing revenue against cost settles output where marginal revenue meets marginal cost, and how that choice traced against price is the supply curve.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the condition for producer equilibrium",
+        "Derives the law of supply from the producer’s choice",
+        "Computes elasticity of supply"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a producer decides that one more unit is worth making.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MI3"
+      ]
+    },
+    {
+      "id": "mt_LZyDLQN9BG",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Microeconomics",
+      "name": "Market Equilibrium: Demand Meets Supply",
+      "description": "Understand equilibrium as the price at which buyers’ and sellers’ plans agree, how shifts in either curve move it, and what price ceilings and floors do to it.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Determines equilibrium price and quantity from demand and supply",
+        "Predicts the effect of a shift in demand or supply on equilibrium",
+        "Explains the effect of a price ceiling or floor"
+      ],
+      "assessmentPrompt": "Ask {{name}} what happens in the onion market when a bad harvest meets festival demand.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MI4"
+      ]
+    },
+    {
+      "id": "mt_PNxkRBuPDD",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Microeconomics",
+      "name": "Market Forms: From Competition to Monopoly",
+      "description": "Understand how the number of sellers and the nature of the product grade markets from perfect competition to monopoly, and what each form does to price-setting power.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Contrasts perfect competition with monopoly on price-setting power",
+        "Identifies the market form a described industry belongs to",
+        "Explains why a competitive firm is a price taker"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a farmer cannot set the price of their wheat but a mobile network can set its tariff.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MI4"
+      ]
+    },
+    {
+      "id": "mt_RC9BFabf0N",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Macroeconomics",
+      "name": "The Circular Flow of Income",
+      "description": "Understand the circular flow between households and firms — spending becomes income becomes spending — and why total income, output and expenditure are one magnitude seen three ways.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Traces the flow of income and spending between households and firms",
+        "Explains why income, output and expenditure must be equal",
+        "Identifies leakages from and injections into the flow"
+      ],
+      "assessmentPrompt": "Ask {{name}} where the money a family spends at a shop goes next, and where it came from.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MA1"
+      ]
+    },
+    {
+      "id": "mt_RrfCpvr8HO",
+      "type": "PROCEDURAL",
+      "subject": "Economics",
+      "domain": "Macroeconomics",
+      "name": "National Income and Its Measurement",
+      "description": "Measure national output by the production, income and expenditure methods, and handle the standard adjustments — gross and net, domestic and national, market price and factor cost, nominal and real.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Applies one of the three methods of measuring national income",
+        "Distinguishes GDP from GNP and market price from factor cost",
+        "Explains why real income is used to compare across years"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a country’s income can rise on paper while people are no better off.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MA1"
+      ]
+    },
+    {
+      "id": "mt_Y6NdO8BCnB",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Macroeconomics",
+      "name": "Income Determination and the Multiplier",
+      "description": "Understand how aggregate demand sets equilibrium output — consumption rising with income, investment given — and why any change in spending multiplies through the flow.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the components of aggregate demand",
+        "Determines equilibrium output where planned spending equals output",
+        "Computes the investment multiplier from the propensity to consume"
+      ],
+      "assessmentPrompt": "Ask {{name}} why one rupee of new government spending can raise total income by more than a rupee.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MA2"
+      ]
+    },
+    {
+      "id": "mt_owRz9lkeu4",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Macroeconomics",
+      "name": "Excess and Deficient Demand",
+      "description": "Understand the economy off balance — demand beyond full-employment output pulling prices up, demand short of it leaving people idle — and the fiscal and monetary levers that close each gap.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes an inflationary from a deflationary gap",
+        "Explains a fiscal measure that corrects deficient demand",
+        "Explains a monetary measure that corrects excess demand"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a government should do when everyone wants to buy more than the country can make.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MA2"
+      ]
+    },
+    {
+      "id": "mt_fROJBHSXYP",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Macroeconomics",
+      "name": "Money and Credit Creation by Banks",
+      "description": "Understand what money is and how it evolved, how the money supply is counted, and how commercial banks create credit — and hence money — from the deposits they hold.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the functions of money and its evolution from barter",
+        "Explains what the money supply measures include",
+        "Explains how commercial banks create credit from deposits"
+      ],
+      "assessmentPrompt": "Ask {{name}} how banks can lend far more money than has ever been deposited with them.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MA3"
+      ]
+    },
+    {
+      "id": "mt_Jh2PVetGCv",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Macroeconomics",
+      "name": "The Central Bank and Monetary Policy",
+      "description": "Understand the central bank as banker to banks and government, issuer of currency and lender of last resort, and how its instruments — reserve ratios, policy rates, open market operations — steer the money supply.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the functions of a central bank",
+        "Names an instrument of monetary control and its effect",
+        "Traces how a policy rate change reaches borrowers"
+      ],
+      "assessmentPrompt": "Ask {{name}} who controls how much money exists, if anyone does.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MA3"
+      ]
+    },
+    {
+      "id": "mt_H5PHAD5O0f",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Macroeconomics",
+      "name": "The Balance of Payments",
+      "description": "Understand the balance of payments as the record of a country’s dealings with the world — the current and capital accounts, and what a deficit on each actually signals.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes the current from the capital account",
+        "Classifies a transaction into the correct account",
+        "Explains what a balance of payments deficit means"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a country can buy more from the world than it sells to it, year after year.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MA5"
+      ]
+    },
+    {
+      "id": "mt_WxlMOS1l2r",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Macroeconomics",
+      "name": "Exchange Rate Determination",
+      "description": "Understand the exchange rate as the price of one money in another — set in the market where currencies are demanded and supplied, or fixed and defended, or managed between the two.",
+      "ageRangeStart": 17,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains how demand and supply set a flexible exchange rate",
+        "Contrasts fixed and flexible exchange rate systems",
+        "Explains what a depreciation of the rupee does to imports and exports"
+      ],
+      "assessmentPrompt": "Ask {{name}} what decides how many rupees a dollar is worth today.",
+      "standards": [
+        "ncert-hsec:ECO.C12.MA5"
       ]
     }
   ]

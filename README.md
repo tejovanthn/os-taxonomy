@@ -15,10 +15,10 @@ Every dot is a micro-topic, colored by subject; height is age; each thread is a 
 
 Most curriculum data is either a flat list of standards or locked inside a product. This dataset is a **connected graph of learning**:
 
-- **2,476 micro-topics** — a single, teachable idea (e.g. *"Building sentences"*, *"Apparent brightness of stars"*), each with a plain-language description, mastery **evidence** criteria, a type (conceptual / procedural / representational / language / meta), a subject + domain, and an approximate age range.
-- **4,368 prerequisite dependencies** — a directed acyclic graph: *"topic X depends on prerequisite Y"*, each edge tagged `hard`/`soft` and carrying a one-line **reason**.
+- **2,495 micro-topics** — a single, teachable idea (e.g. *"Building sentences"*, *"Apparent brightness of stars"*), each with a plain-language description, mastery **evidence** criteria, a type (conceptual / procedural / representational / language / meta), a subject + domain, and an approximate age range.
+- **4,404 prerequisite dependencies** — a directed acyclic graph: *"topic X depends on prerequisite Y"*, each edge tagged `hard`/`soft` and carrying a one-line **reason**.
 - **Curriculum alignment** — each micro-topic links to the standards it was distilled from (NGSS, Common Core, the UK National Curriculum, India's NIOS Open Basic Education and Secondary curricula, the NCERT elementary, secondary and higher-secondary syllabi, graded music & dance examinations, and more).
-- **Domain clusters** — 342 parent-friendly one-paragraph summaries per (subject, domain, age band).
+- **Domain clusters** — 345 parent-friendly one-paragraph summaries per (subject, domain, age band).
 
 ### Subjects
 
@@ -31,6 +31,7 @@ Most curriculum data is either a flat list of standards or locked inside a produ
 | Personal & Social Development | 88 |
 | Social Studies | 67 |
 | Physics | 57 |
+| Economics | 52 |
 | Chemistry | 49 |
 | Music | 49 |
 | Psychology | 48 |
@@ -39,9 +40,8 @@ Most curriculum data is either a flat list of standards or locked inside a produ
 | Business Studies | 41 |
 | Computing | 39 |
 | Life Skills | 37 |
+| Geography | 35 |
 | Sociology | 35 |
-| Geography | 34 |
-| Economics | 30 |
 | Accountancy | 29 |
 | Indian Culture & Heritage | 29 |
 | Dance | 26 |
