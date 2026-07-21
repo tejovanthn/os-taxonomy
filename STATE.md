@@ -19,7 +19,7 @@ subjects at the senior level. See CHANGELOG for the per-subject breakdown.
 Latest (2026-07-20): NIOS Business Studies / Accountancy commerce topics
 flattened to single-idea micro-topics (the four superset "overview" bundles were
 the only within-subject double-coverage in the dataset, now removed; four more
-two-lesson bundles split). The subject-split migration was also made idempotent
+two-lesson bundles split). The subject-split migration is now also idempotent
 (it now collapses clusters that a re-emitting build would otherwise duplicate).
 
 ## Single next step
@@ -37,7 +37,7 @@ government publications, so the licence needs checking per state and will not
 necessarily match NCERT's red tier), then align before minting — the Hindi and
 Sanskrit ladders show what the shape of a full language subject looks like, and
 much of the early literacy progression will already exist there and in English.
-Expect OCR to be needed; all three scripts have the same legacy-font problem as
+Expect to need OCR; all three scripts have the same legacy-font problem as
 Devanagari and tesseract has `tel`, `kan` and `tam` packs installed.
 
 ## Other open gaps (unchanged, lower priority)
@@ -49,7 +49,7 @@ Devanagari and tesseract has `tel`, `kan` and `tam` packs installed.
 - **NCERT vocational and art-education syllabi** are separate PDFs on
   ncert.nic.in/syllabus.php (`Art_Educationfinal_syllabus.pdf`,
   `indian_crafts.pdf`, `graphic_design_Web_site.pdf`, `syllabus_media_studies.pdf`,
-  `Syllabus_for_CCT_Higher_Secondary_1.pdf`) and have never been looked at.
+  `Syllabus_for_CCT_Higher_Secondary_1.pdf`), and no one has looked at them yet.
   Visual Arts currently has only 8 topics, so the art-education document is the
   obvious cheap win there.
 - **Four pre-existing graph islands remain**, none touched by the NCERT work:

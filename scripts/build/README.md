@@ -60,8 +60,8 @@ content too coarsely (one topic per lesson). This method avoids both.
      `Social Studies` was added); otherwise a **new domain** under an existing
      subject (`Computer Basics` under Computing; `Ancient/Medieval/Modern India`
      under History).
-   - **Adapt framing:** adult- or region-specific source content is recast to be
-     child-appropriate at honest ages, or skipped.
+   - **Adapt framing:** recast adult- or region-specific source content to be
+     child-appropriate at honest ages, or skip it.
 
 5. **Wire the graph.** Add prerequisite edges (`hard`/`soft` with a one-line
    reason): fine topics hang off their coarse "overview" topic and off

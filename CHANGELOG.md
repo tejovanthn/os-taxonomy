@@ -15,15 +15,15 @@ Work-in-progress addition of Indian curricula, integrated one source at a time.
   the only superset double-coverage in the dataset (everywhere else, several
   fine topics aligning to one broad standard is the intended pattern). Per the
   chosen design (flat single-idea micro-topics, matching the rest of the graph),
-  the four superset bundles were removed and the four remaining two-lesson
-  bundles that had never been split were decomposed.
+  removed the four superset bundles and decomposed the four remaining
+  two-lesson bundles that had never been split.
 - Removed 8 bundle topics (Transport and Warehousing, Banking and Insurance
   Services, Depreciation Provisions and Reserves, Financial Statements, and the
   Communication/Trade/Advertising/Consumer pairs); added 8 single-idea
   micro-topics; kept the existing depth-pass details. Net topic count unchanged;
   every NIOS commerce lesson now maps to exactly one topic in its subject (zero
-  within-subject double-coverage). Prerequisite edges rewired into a flat
-  sequence; three NCERT XI–XII anchor edges repointed from the removed bundles
+  within-subject double-coverage). Rewired prerequisite edges into a flat
+  sequence; repointed three NCERT XI–XII anchor edges from the removed bundles
   to the detail topics.
 - **Fixed a latent idempotency bug in the subject-split migration.** It remaps a
   cluster's (subject, domain) in place, but a source build re-emits the
