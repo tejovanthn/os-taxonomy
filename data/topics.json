@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2516,
+  "topicCount": 2533,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -51038,6 +51038,349 @@
       "assessmentPrompt": "Ask {{name}} how likely a single throw of a die is to land on a number greater than four, and why.",
       "standards": [
         "icse:MAT10.17"
+      ]
+    },
+    {
+      "id": "mt_TB3DHo7JkU",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "The Principles of Object-Oriented Programming",
+      "description": "Understand that object-oriented programming organises a program around objects that bundle data with behaviour, resting on abstraction, encapsulation, inheritance and polymorphism, unlike procedural code organised around steps.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names the four principles of object-oriented programming",
+        "Contrasts the object-oriented with the procedural approach",
+        "Illustrates a principle with a real-life example"
+      ],
+      "assessmentPrompt": "Ask {{name}} why thinking of a program as a set of interacting objects can be clearer than a list of steps.",
+      "standards": [
+        "icse:COMP9.1"
+      ]
+    },
+    {
+      "id": "mt_BTlTDOx3i3",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "How Java Runs: Byte Code and the JVM",
+      "description": "Understand how Java source code is compiled to byte code that the Java Virtual Machine runs, and how that intermediate step is what lets the same program run on any platform.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Traces source code through byte code to execution on the JVM",
+        "Explains why byte code makes Java platform-independent",
+        "Distinguishes a Java application from an applet"
+      ],
+      "assessmentPrompt": "Ask {{name}} how one Java program can run unchanged on a phone, a laptop and a bank server.",
+      "standards": [
+        "icse:COMP9.1"
+      ]
+    },
+    {
+      "id": "mt_rs5SbDJZGR",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Classes and Objects",
+      "description": "Understand a class as a user-defined type that acts as a blueprint, and an object as an instance made from it that holds its own state in attributes and acts through methods.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains a class as a blueprint or object factory",
+        "Distinguishes an object from its class",
+        "Identifies the state and behaviour of a described object"
+      ],
+      "assessmentPrompt": "Ask {{name}} how one cookie cutter (the class) can make many different cookies (the objects).",
+      "standards": [
+        "icse:COMP9.2",
+        "icse:COMP10.4"
+      ]
+    },
+    {
+      "id": "mt_TsAQLrLQAA",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Data Types, Literals and Type Conversion",
+      "description": "Understand that every Java value has a type that fixes what it can hold and how much space it takes, and that converting between types may happen automatically or must be forced.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes primitive from non-primitive types",
+        "Chooses an appropriate type for a given value",
+        "Distinguishes implicit from explicit type conversion"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a computer needs to be told whether 5 is a whole number, a decimal or a character.",
+      "standards": [
+        "icse:COMP9.3"
+      ]
+    },
+    {
+      "id": "mt_ePp6uRN7Vb",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Operators, Expressions and the Math Library",
+      "description": "Understand how operators combine values into expressions whose result depends on precedence and associativity, and how the Math library extends what an expression can compute.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Evaluates an expression respecting precedence and associativity",
+        "Uses arithmetic, relational and logical operators correctly",
+        "Uses a Math class method within an expression"
+      ],
+      "assessmentPrompt": "Ask {{name}} why 2 + 3 × 4 is 14 and not 20, to a computer as to us.",
+      "standards": [
+        "icse:COMP9.4",
+        "icse:COMP9.7"
+      ]
+    },
+    {
+      "id": "mt_lZOH38O2BP",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Writing and Running a Java Program",
+      "description": "Understand the standard skeleton of a Java class with its main method, how to read input at run time with the Scanner class, and how syntax, run-time and logical errors differ.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Writes a class with a correct main method structure",
+        "Reads typed input using the Scanner class",
+        "Distinguishes syntax, run-time and logical errors"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the difference is between a program that will not start and one that runs but gives the wrong answer.",
+      "standards": [
+        "icse:COMP9.5",
+        "icse:COMP9.6"
+      ]
+    },
+    {
+      "id": "mt_zRNuALNFAT",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Conditional Statements",
+      "description": "Understand how a program chooses between paths using if, if-else, the if-else-if ladder and switch-case, so that different inputs lead to different actions.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Writes an if-else-if ladder for a multi-way decision",
+        "Uses a switch-case statement with break",
+        "Traces which branch runs for a given input"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a program decides to print “pass” or “fail” from a single mark.",
+      "standards": [
+        "icse:COMP9.8"
+      ]
+    },
+    {
+      "id": "mt_Y2lCoLEcY3",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Loops and Iteration",
+      "description": "Understand how a loop repeats a block until a condition changes, distinguishing entry-controlled for and while loops from the exit-controlled do-while, and how break and continue alter the flow.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Writes a for and a while loop for a repeated task",
+        "Explains how do-while differs from while",
+        "Uses break and continue correctly"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a program can add up a hundred numbers without writing a hundred lines.",
+      "standards": [
+        "icse:COMP9.9"
+      ]
+    },
+    {
+      "id": "mt_hFktUsXAFC",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Nested Loops and Patterns",
+      "description": "Understand how a loop inside another loop drives two counters at once, so that the inner loop completes a full cycle for each single step of the outer one.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Traces the counter values through a nested loop",
+        "Writes a nested loop to print a number or character pattern",
+        "Explains why the inner loop runs to completion each outer pass"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a program prints a triangle of stars row by row.",
+      "standards": [
+        "icse:COMP9.10"
+      ]
+    },
+    {
+      "id": "mt_yR7KNOwuGk",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Computer Basics",
+      "name": "Ethics and Safety in Computing",
+      "description": "Understand the ethical duties that come with computing — respecting privacy and data, resisting software piracy, and using social media responsibly — as choices with real consequences for others.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains why software piracy is an ethical and legal wrong",
+        "Describes a way personal data is protected on the internet",
+        "Explains a principle of responsible social media use"
+      ],
+      "assessmentPrompt": "Ask {{name}} why copying software without paying is a problem even when nobody seems to be hurt.",
+      "standards": [
+        "icse:COMP9.11"
+      ]
+    },
+    {
+      "id": "mt_WzRJFyvJpw",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Wrapper Classes and Autoboxing",
+      "description": "Understand that each primitive type has a matching wrapper class giving it object behaviour and useful methods, and that Java converts between the two automatically by boxing and unboxing.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Matches a primitive type to its wrapper class",
+        "Uses a parsing or character-testing method of a wrapper class",
+        "Explains auto-boxing and unboxing"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a program sometimes needs to treat a plain number as though it were an object.",
+      "standards": [
+        "icse:COMP10.1"
+      ]
+    },
+    {
+      "id": "mt_u4T2pG7a1s",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Arrays",
+      "description": "Understand an array as a single named collection of same-typed values reached by index, so that many related values can be stored and processed together with a loop.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Declares, initialises and fills a single-dimensional array",
+        "Accesses an element by its index",
+        "Uses the length property to process every element"
+      ],
+      "assessmentPrompt": "Ask {{name}} why storing fifty marks in one array beats fifty separate variables.",
+      "standards": [
+        "icse:COMP10.2"
+      ]
+    },
+    {
+      "id": "mt_8z6iNjj1hb",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Sorting and Searching",
+      "description": "Understand sorting as rearranging an array into order by repeated comparison, and searching as finding a value — linear search scanning in turn, binary search halving a sorted array each step.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Traces selection or bubble sort on a small array",
+        "Traces linear and binary search for a target",
+        "Explains why binary search needs sorted data"
+      ],
+      "assessmentPrompt": "Ask {{name}} why looking up a word is far faster in a sorted dictionary than in a shuffled pile of words.",
+      "standards": [
+        "icse:COMP10.2"
+      ]
+    },
+    {
+      "id": "mt_gxcA6ekfte",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "String Handling",
+      "description": "Understand a string as a sequence of characters that the String class manipulates through methods, so text can be extracted, compared, searched and transformed.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Uses String methods to extract or modify characters",
+        "Compares two strings for equality and order",
+        "Searches a string for a character or substring"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a program checks whether two people typed the same password.",
+      "standards": [
+        "icse:COMP10.3"
+      ]
+    },
+    {
+      "id": "mt_dsa9Wja2lr",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Constructors",
+      "description": "Understand a constructor as the special method that sets up an object when it is created, and how a default and a parameterised constructor differ, and what overloading them provides.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a default from a parameterised constructor",
+        "Explains how a constructor differs from an ordinary method",
+        "Explains constructor overloading"
+      ],
+      "assessmentPrompt": "Ask {{name}} why an object often needs its starting values set the moment it is created.",
+      "standards": [
+        "icse:COMP10.5"
+      ]
+    },
+    {
+      "id": "mt_TgzH2ATvxG",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Methods and Method Overloading",
+      "description": "Understand a method as a named, reusable block that may take parameters and return a value, how pass by value differs from pass by reference, and how overloading gives one name several forms.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Defines and calls a method with parameters and a return value",
+        "Distinguishes actual from formal parameters and static from non-static methods",
+        "Explains method overloading as a form of polymorphism"
+      ],
+      "assessmentPrompt": "Ask {{name}} why giving several related methods the same name can make a program easier to read.",
+      "standards": [
+        "icse:COMP10.6"
+      ]
+    },
+    {
+      "id": "mt_5SFdR7QV9t",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Artificial Intelligence",
+      "name": "Emerging Computing Technologies",
+      "description": "Understand in outline the technologies reshaping computing — artificial intelligence, blockchain, the Internet of Things, robotics, 5G and cloud computing — and what each is for.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Defines one emerging technology and its use",
+        "Distinguishes two of these technologies by purpose",
+        "Gives a real example of one in use"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the “cloud” actually is when a photo is said to be stored there.",
+      "standards": [
+        "icse:COMP10.7"
       ]
     }
   ]

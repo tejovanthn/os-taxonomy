@@ -49149,7 +49149,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabuses-icse-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 29,
+      "topicCount": 47,
       "topics": [
         {
           "key": "icse:MAT9.1",
@@ -49468,6 +49468,204 @@
             "class": "X",
             "strand": "Probability",
             "description": "Random experiments, sample space and events; the definition of probability; simple problems on the probability of a single event."
+          }
+        },
+        {
+          "key": "icse:COMP9.1",
+          "code": "COMP9.1",
+          "data": {
+            "title": "Class IX Introduction to Object Oriented Programming and Java",
+            "subject": "Computer Applications (IX–X)",
+            "class": "IX",
+            "strand": "Introduction to Object Oriented Programming and Java",
+            "description": "The four principles of object-oriented programming and how it differs from procedural programming; the Java toolchain — source code, byte code, the Java Virtual Machine, compilation and platform independence."
+          }
+        },
+        {
+          "key": "icse:COMP9.2",
+          "code": "COMP9.2",
+          "data": {
+            "title": "Class IX Objects and Classes",
+            "subject": "Computer Applications (IX–X)",
+            "class": "IX",
+            "strand": "Objects and Classes",
+            "description": "A class as a user-defined type, blueprint and object factory; objects that encapsulate state as attributes and behaviour as methods; computation as message passing between objects."
+          }
+        },
+        {
+          "key": "icse:COMP9.3",
+          "code": "COMP9.3",
+          "data": {
+            "title": "Class IX Identifiers, Literals and Data Types",
+            "subject": "Computer Applications (IX–X)",
+            "class": "IX",
+            "strand": "Identifiers, Literals and Data Types",
+            "description": "The Java character set, ASCII and Unicode, escape sequences and tokens; primitive and non-primitive types and their sizes; implicit and explicit type conversion."
+          }
+        },
+        {
+          "key": "icse:COMP9.4",
+          "code": "COMP9.4",
+          "data": {
+            "title": "Class IX Operators in Java",
+            "subject": "Computer Applications (IX–X)",
+            "class": "IX",
+            "strand": "Operators in Java",
+            "description": "Unary, binary and ternary operators; arithmetic, relational, logical, assignment and increment operators; precedence and associativity; the new and dot operators."
+          }
+        },
+        {
+          "key": "icse:COMP9.5",
+          "code": "COMP9.5",
+          "data": {
+            "title": "Class IX Structure of a Java Program",
+            "subject": "Computer Applications (IX–X)",
+            "class": "IX",
+            "strand": "Structure of a Java Program",
+            "description": "The structure of a class and the main method; the standard skeleton followed by every program."
+          }
+        },
+        {
+          "key": "icse:COMP9.6",
+          "code": "COMP9.6",
+          "data": {
+            "title": "Class IX Data Processing and Input",
+            "subject": "Computer Applications (IX–X)",
+            "class": "IX",
+            "strand": "Data Processing and Input",
+            "description": "Reading input at run time with the methods of the Scanner class; single-line and multi-line comments; syntax, run-time and logical errors."
+          }
+        },
+        {
+          "key": "icse:COMP9.7",
+          "code": "COMP9.7",
+          "data": {
+            "title": "Class IX Mathematical Library Methods",
+            "subject": "Computer Applications (IX–X)",
+            "class": "IX",
+            "strand": "Mathematical Library Methods",
+            "description": "The methods of the Math class in java.lang and their use in building Java expressions."
+          }
+        },
+        {
+          "key": "icse:COMP9.8",
+          "code": "COMP9.8",
+          "data": {
+            "title": "Class IX Conditional Statements",
+            "subject": "Computer Applications (IX–X)",
+            "class": "IX",
+            "strand": "Conditional Statements",
+            "description": "Decision making with if, if-else, the if-else-if ladder and the switch-case statement; nesting, break and fall-through; menu-driven programs."
+          }
+        },
+        {
+          "key": "icse:COMP9.9",
+          "code": "COMP9.9",
+          "data": {
+            "title": "Class IX Looping Statements",
+            "subject": "Computer Applications (IX–X)",
+            "class": "IX",
+            "strand": "Looping Statements",
+            "description": "Entry-controlled loops (for, while) and the exit-controlled do-while; the break and continue jump statements; converting between loop forms."
+          }
+        },
+        {
+          "key": "icse:COMP9.10",
+          "code": "COMP9.10",
+          "data": {
+            "title": "Class IX Nested Loops",
+            "subject": "Computer Applications (IX–X)",
+            "class": "IX",
+            "strand": "Nested Loops",
+            "description": "Loops within loops used to produce number and character patterns and to compute and display series."
+          }
+        },
+        {
+          "key": "icse:COMP9.11",
+          "code": "COMP9.11",
+          "data": {
+            "title": "Class IX Ethical Computing",
+            "subject": "Computer Applications (IX–X)",
+            "class": "IX",
+            "strand": "Ethical Computing",
+            "description": "Ethical issues in computing — privacy and data protection on the internet, protection against spam, software piracy and cyber ethics; responsible social media use."
+          }
+        },
+        {
+          "key": "icse:COMP10.1",
+          "code": "COMP10.1",
+          "data": {
+            "title": "Class X Library (Wrapper) Classes",
+            "subject": "Computer Applications (IX–X)",
+            "class": "X",
+            "strand": "Library (Wrapper) Classes",
+            "description": "Wrapper classes for the primitive types and their parsing and character-testing methods; auto-boxing and unboxing; the distinction between primitive and composite types."
+          }
+        },
+        {
+          "key": "icse:COMP10.2",
+          "code": "COMP10.2",
+          "data": {
+            "title": "Class X Arrays",
+            "subject": "Computer Applications (IX–X)",
+            "class": "X",
+            "strand": "Arrays",
+            "description": "Declaration, initialisation and access of single-dimensional arrays; the length property; sorting by selection and bubble sort and searching by linear and binary search."
+          }
+        },
+        {
+          "key": "icse:COMP10.3",
+          "code": "COMP10.3",
+          "data": {
+            "title": "Class X String Handling",
+            "subject": "Computer Applications (IX–X)",
+            "class": "X",
+            "strand": "String Handling",
+            "description": "The String class and its methods for extracting, comparing, searching and modifying text; arrays of strings and their alphabetical ordering."
+          }
+        },
+        {
+          "key": "icse:COMP10.4",
+          "code": "COMP10.4",
+          "data": {
+            "title": "Class X Class as the Basis of Computation",
+            "subject": "Computer Applications (IX–X)",
+            "class": "X",
+            "strand": "Class as the Basis of Computation",
+            "description": "Objects as instances of a class; member variables defining state and member methods defining behaviour; the class as an abstraction for a set of objects."
+          }
+        },
+        {
+          "key": "icse:COMP10.5",
+          "code": "COMP10.5",
+          "data": {
+            "title": "Class X Constructors",
+            "subject": "Computer Applications (IX–X)",
+            "class": "X",
+            "strand": "Constructors",
+            "description": "The definition, characteristics and use of constructors; default and parameterised constructors; constructor overloading and its difference from a method."
+          }
+        },
+        {
+          "key": "icse:COMP10.6",
+          "code": "COMP10.6",
+          "data": {
+            "title": "Class X Custom Methods",
+            "subject": "Computer Applications (IX–X)",
+            "class": "X",
+            "strand": "Custom Methods",
+            "description": "Defining, calling and overloading methods; actual and formal parameters; static and non-static, pure and impure methods; pass by value and pass by reference."
+          }
+        },
+        {
+          "key": "icse:COMP10.7",
+          "code": "COMP10.7",
+          "data": {
+            "title": "Class X Disruptive Technologies",
+            "subject": "Computer Applications (IX–X)",
+            "class": "X",
+            "strand": "Disruptive Technologies",
+            "description": "The definition, types and uses of emerging technologies — artificial intelligence, blockchain, the Internet of Things, robotics, 5G and cloud computing; cyber hygiene and cyber law."
           }
         }
       ]

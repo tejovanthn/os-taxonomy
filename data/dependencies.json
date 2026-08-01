@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4431,
+  "edgeCount": 4451,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -26588,6 +26588,126 @@
       "prerequisiteId": "mt_EFvpLQezYC",
       "strength": "soft",
       "reason": "Both belong to the commercial-mathematics strand of returns on money."
+    },
+    {
+      "topicId": "mt_BTlTDOx3i3",
+      "prerequisiteId": "mt_VPyvJyLQ9W",
+      "strength": "soft",
+      "reason": "Java runs as software on the hardware met earlier."
+    },
+    {
+      "topicId": "mt_yR7KNOwuGk",
+      "prerequisiteId": "mt_95JDcZrboX",
+      "strength": "hard",
+      "reason": "Extends online safety and computer security."
+    },
+    {
+      "topicId": "mt_5SFdR7QV9t",
+      "prerequisiteId": "mt__LiAEHt9nk",
+      "strength": "soft",
+      "reason": "Extends the strand on the future of AI."
+    },
+    {
+      "topicId": "mt_5SFdR7QV9t",
+      "prerequisiteId": "mt_K6qtan847r",
+      "strength": "soft",
+      "reason": "Builds on machine-learning basics."
+    },
+    {
+      "topicId": "mt_rs5SbDJZGR",
+      "prerequisiteId": "mt_TB3DHo7JkU",
+      "strength": "hard",
+      "reason": "Classes realise the object-oriented principles."
+    },
+    {
+      "topicId": "mt_rs5SbDJZGR",
+      "prerequisiteId": "mt_BTlTDOx3i3",
+      "strength": "soft",
+      "reason": "Writing classes presupposes a working Java setup."
+    },
+    {
+      "topicId": "mt_lZOH38O2BP",
+      "prerequisiteId": "mt_rs5SbDJZGR",
+      "strength": "hard",
+      "reason": "A Java program is written as a class."
+    },
+    {
+      "topicId": "mt_TsAQLrLQAA",
+      "prerequisiteId": "mt_lZOH38O2BP",
+      "strength": "hard",
+      "reason": "Variables are declared inside a program."
+    },
+    {
+      "topicId": "mt_ePp6uRN7Vb",
+      "prerequisiteId": "mt_TsAQLrLQAA",
+      "strength": "hard",
+      "reason": "Operators act on typed values."
+    },
+    {
+      "topicId": "mt_zRNuALNFAT",
+      "prerequisiteId": "mt_ePp6uRN7Vb",
+      "strength": "hard",
+      "reason": "Conditions are boolean expressions."
+    },
+    {
+      "topicId": "mt_Y2lCoLEcY3",
+      "prerequisiteId": "mt_zRNuALNFAT",
+      "strength": "hard",
+      "reason": "A loop repeats while a condition holds."
+    },
+    {
+      "topicId": "mt_hFktUsXAFC",
+      "prerequisiteId": "mt_Y2lCoLEcY3",
+      "strength": "hard",
+      "reason": "Nested loops are loops within loops."
+    },
+    {
+      "topicId": "mt_u4T2pG7a1s",
+      "prerequisiteId": "mt_Y2lCoLEcY3",
+      "strength": "hard",
+      "reason": "Arrays are processed with loops."
+    },
+    {
+      "topicId": "mt_8z6iNjj1hb",
+      "prerequisiteId": "mt_u4T2pG7a1s",
+      "strength": "hard",
+      "reason": "Sorting and searching operate on arrays."
+    },
+    {
+      "topicId": "mt_gxcA6ekfte",
+      "prerequisiteId": "mt_TsAQLrLQAA",
+      "strength": "soft",
+      "reason": "A string is a non-primitive type."
+    },
+    {
+      "topicId": "mt_gxcA6ekfte",
+      "prerequisiteId": "mt_u4T2pG7a1s",
+      "strength": "soft",
+      "reason": "Strings are handled much like arrays of characters."
+    },
+    {
+      "topicId": "mt_WzRJFyvJpw",
+      "prerequisiteId": "mt_TsAQLrLQAA",
+      "strength": "hard",
+      "reason": "Wrapper classes wrap the primitive types."
+    },
+    {
+      "topicId": "mt_dsa9Wja2lr",
+      "prerequisiteId": "mt_rs5SbDJZGR",
+      "strength": "hard",
+      "reason": "A constructor initialises an object of a class."
+    },
+    {
+      "topicId": "mt_TgzH2ATvxG",
+      "prerequisiteId": "mt_rs5SbDJZGR",
+      "strength": "hard",
+      "reason": "Methods define the behaviour of a class."
+    },
+    {
+      "topicId": "mt_TgzH2ATvxG",
+      "prerequisiteId": "mt_dsa9Wja2lr",
+      "strength": "soft",
+      "reason": "Method overloading parallels constructor overloading."
     }
   ]
 }

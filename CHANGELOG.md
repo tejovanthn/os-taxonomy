@@ -8,6 +8,21 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ICSE Computer Applications — a new Programming domain under Computing (2026-08-01)
+- Computing had **no programming topics at all** — the subject topped out at
+  ages 11–13 with digital-literacy and AI-ethics content. ICSE Computer
+  Applications (a Java OOP course) is therefore almost all mints: 18 standards,
+  17 new topics in a new **Programming** domain — the OOP principles, the Java
+  toolchain (byte code / JVM), classes and objects, data types, operators and
+  expressions, program structure and input, conditionals, loops and nested
+  loops, then wrapper classes, arrays, sorting and searching, strings,
+  constructors, and methods and overloading. Two topics (ethics, emerging
+  technologies) extend the existing digital-literacy and AI strands.
+- The programming branch is anchored to the existing computing foundation
+  (hardware/software, online safety, the future of AI) so it joins the main
+  component. No bundlers or orphans; idempotent. 2,533 topics / 4,451 edges /
+  349 clusters; validate green.
+
 ### ICSE (CISCE Classes IX–X) added; Mathematics integrated (2026-08-01)
 - Added a new curriculum source **`icse`** — the CISCE Indian Certificate of
   Secondary Education, Classes IX–X (ages 14–16), exam-year-2028 edition. Red

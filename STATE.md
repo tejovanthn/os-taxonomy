@@ -5,7 +5,7 @@ Last updated 2026-08-01.
 
 ## Where things stand
 
-2,516 topics · 4,431 edges · 4,282 standards · 347 clusters · 16 curriculum
+2,533 topics · 4,451 edges · 4,300 standards · 349 clusters · 16 curriculum
 sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
 All build scripts idempotent (re-run adds zero).
 
@@ -13,16 +13,18 @@ All build scripts idempotent (re-run adds zero).
 source `icse` (Classes IX–X, 14–16) added, red tier (Marble factual
 descriptions, no CISCE text — see PROVENANCE). Shared board helper
 `scripts/build/cisce.mjs` serves both `icse` and the forthcoming `isc`
-(Classes XI–XII, 16–18). **ICSE Mathematics done** (`icse-mathematics.mjs`):
-29 standards, 22 aligned onto the existing 14–16 Maths ladder, 21 minted at idea
-grain (commercial-mathematics strand, logarithms/indices, 2×2 matrices, loci,
-equation of a line, reflection, and the proof-based geometry theorems). The
-user's priority is to work through the subjects that ALREADY exist as subjects
-first, preserving micro-topic granularity. Remaining ICSE existing-subject
-targets: Computer Applications→Computing, Economics, Commercial
-Studies→Business Studies, Physics/Chemistry/Biology/Environmental
-Science→Science, History&Civics→History+Political Science, Geography, Home
-Science, Art→Visual Arts, Performing Arts→Music/Dance, English. Then the ISC
+(Classes XI–XII, 16–18). **ICSE done so far: Mathematics + Computer
+Applications.** Mathematics (`icse-mathematics.mjs`): 29 standards, 22 aligned,
+21 minted (commercial-mathematics strand, logarithms/indices, 2×2 matrices,
+loci, equation of a line, reflection, proof-based geometry theorems). Computer
+Applications (`icse-computer-applications.mjs`): 18 standards, 17 minted — a new
+**Programming** domain under Computing (Java OOP), since Computing had no
+programming topics at all. The user's priority is to work through the subjects
+that ALREADY exist as subjects first, preserving micro-topic granularity.
+Remaining ICSE existing-subject targets: Economics, Commercial Studies→Business
+Studies, Physics/Chemistry/Biology/Environmental Science→Science,
+History&Civics→History+Political Science, Geography, Home Science, Art→Visual
+Arts, Performing Arts→Music/Dance, English. Then the ISC
 (XI–XII) pass onto the ncert-hsec ladders. ISC-only new subjects (AI, Robotics,
 Legal Studies, Entrepreneurship, Applied Maths, Engineering Science,
 Electricity & Electronics, Biotechnology) are deferred — they would each be a
@@ -54,14 +56,16 @@ idempotent.
 
 ## Single next step
 
-**Continue the ICSE pass: integrate ICSE Computer Applications (→ Computing)
-next**, following `icse-mathematics.mjs` as the template. Computing has only 39
-topics and ICSE Class IX–X is Java OOP (classes, objects, constructors, arrays,
-string handling, encapsulation, iteration) — mostly new mints at 14–16 with a
-few alignments to the existing Computing ladder. Then work through the rest of
-the existing-subject ICSE targets listed above, then the ISC (XI–XII) pass onto
-the ncert-hsec ladders. Method: align-first (use the scratchpad `q.mjs` to find
-existing topics before minting), one idea per topic, red-tier descriptions.
+**Continue the ICSE pass: integrate ICSE Economics (→ Economics) next**,
+following `icse-mathematics.mjs` as the align-heavy template (Economics has a
+developed 14–16 ladder from ncert-sec / nios-sec, so expect mostly alignments
+plus a few mints). Then Commercial Studies→Business Studies, the three sciences
++ Environmental Science→Science, History&Civics→History+Political Science,
+Geography, Home Science, Art→Visual Arts, Performing Arts→Music/Dance, English —
+then the ISC (XI–XII) pass onto the ncert-hsec ladders. Method: align-first (use
+the scratchpad `q.mjs` to find existing topics before minting), one idea per
+topic, red-tier descriptions. Two reference scripts exist: `icse-mathematics.mjs`
+(align-heavy) and `icse-computer-applications.mjs` (mint-heavy, new domain).
 
 Deferred (was the previous next step): **fill the Telugu, Kannada and Tamil
 language ladders from state-board syllabi** — the largest genuine *language*

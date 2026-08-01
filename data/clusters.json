@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 347,
+  "clusterCount": 349,
   "clusters": [
     {
       "subject": "English",
@@ -2113,6 +2113,20 @@
       "ageRangeStart": 15,
       "ageRangeEnd": 16,
       "summary": "Class X commercial mathematics is a set of real financial calculations: the Goods and Services Tax a shopper pays split into central and state shares, the interest a recurring bank deposit earns when each instalment is invested for a different length of time, and the income and return on money put into shares. Each is a percentage calculation dressed in the vocabulary of everyday finance, and each has an inverse case — working back from the taxed price or the maturity value to the figure you started with."
+    },
+    {
+      "subject": "Computing",
+      "domain": "Programming",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "summary": "This is where computing stops being about using software and starts being about writing it. The Class IX course teaches programming in Java from the ground up: what an object-oriented program is, how Java compiles to byte code the virtual machine runs, and then the building blocks every program needs — classes and objects, typed data, operators and expressions, reading input, and the control flow of conditionals and loops. The order matters: each idea assumes the one before it, so a learner who has skipped variables cannot understand a loop that counts with one."
+    },
+    {
+      "subject": "Computing",
+      "domain": "Programming",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "Class X builds real programs on the Class IX foundation. Arrays let one name hold many values, which makes sorting and searching worth teaching — the first genuine algorithms, where a sorted list can be searched by repeated halving instead of scanning. Strings bring text handling; wrapper classes bridge primitive values and objects; and constructors and custom methods complete the object-oriented picture, so a learner can design a class that sets its objects up correctly and gives them behaviour of their own."
     }
   ]
 }
