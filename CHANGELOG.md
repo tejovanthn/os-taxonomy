@@ -8,6 +8,17 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ICSE Economics integrated (2026-08-01)
+- Align-heavy: 12 standards, 15 aligning onto the existing 14–16 Economics
+  ladder (introduction, types of economies, scarcity, the sector overview,
+  poverty, demand and supply, market forms, money and banking, consumer
+  protection all already existed), 8 minted for what ICSE treats more deeply
+  than the taxonomy did at this level — Indian agriculture and the green
+  revolution, industry, unemployment, the smart-city / Digital India trend,
+  elasticity, monetary policy, public finance and taxation, and inflation.
+- Topics-per-standard healthy; every standard covered; no bundlers/orphans;
+  idempotent. 2,541 topics / 4,466 edges / 350 clusters; validate green.
+
 ### ICSE Computer Applications — a new Programming domain under Computing (2026-08-01)
 - Computing had **no programming topics at all** — the subject topped out at
   ages 11–13 with digital-literacy and AI-ethics content. ICSE Computer

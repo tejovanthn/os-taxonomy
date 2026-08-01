@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2533,
+  "topicCount": 2541,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -36516,7 +36516,8 @@
       "assessmentPrompt": "Can {{name}} name the four things needed to produce anything — land, labour, capital and enterprise — and what each does?",
       "standards": [
         "nios-sec-2020:214.M3.L7",
-        "ncert-sec:ECO.C9.PALAM"
+        "ncert-sec:ECO.C9.PALAM",
+        "icse:ECO10.1"
       ]
     },
     {
@@ -36537,7 +36538,8 @@
       "assessmentPrompt": "Can {{name}} explain what \"demand\" means and why people usually buy more of something when its price falls?",
       "standards": [
         "nios-sec-2020:214.M4.L9",
-        "ncert-sec:ECO.C10.CONSUMER"
+        "ncert-sec:ECO.C10.CONSUMER",
+        "icse:ECO10.2"
       ]
     },
     {
@@ -36557,7 +36559,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what \"supply\" means and why sellers usually offer more of something when its price rises?",
       "standards": [
-        "nios-sec-2020:214.M4.L10"
+        "nios-sec-2020:214.M4.L10",
+        "icse:ECO10.2"
       ]
     },
     {
@@ -36598,7 +36601,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what a market is and how markets can differ, from lots of competing sellers to just one?",
       "standards": [
-        "nios-sec-2020:214.M4.L12"
+        "nios-sec-2020:214.M4.L12",
+        "icse:ECO10.3"
       ]
     },
     {
@@ -36619,7 +36623,8 @@
       "assessmentPrompt": "Can {{name}} sort economic activities into the primary, secondary and tertiary sectors, and explain what each is?",
       "standards": [
         "nios-sec-2020:214.M7.L20",
-        "ncert-sec:ECO.C10.SERVICE"
+        "ncert-sec:ECO.C10.SERVICE",
+        "icse:ECO9.4"
       ]
     },
     {
@@ -42131,7 +42136,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a government decides who counts as poor, and why that decision matters.",
       "standards": [
-        "ncert-sec:ECO.C9.POVERTY"
+        "ncert-sec:ECO.C9.POVERTY",
+        "icse:ECO9.5"
       ]
     },
     {
@@ -42151,7 +42157,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a country can have full grain stores and still have hungry people in it.",
       "standards": [
-        "ncert-sec:ECO.C9.FOOD"
+        "ncert-sec:ECO.C9.FOOD",
+        "icse:ECO9.4"
       ]
     },
     {
@@ -42171,7 +42178,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether the richest country is automatically the best place to live, and how they would check.",
       "standards": [
-        "ncert-sec:ECO.C10.DEV"
+        "ncert-sec:ECO.C10.DEV",
+        "icse:ECO9.2"
       ]
     },
     {
@@ -42193,7 +42201,8 @@
       "standards": [
         "ncert-sec:ECO.C10.MONEY",
         "nios-sec-2020:214.M5.L14",
-        "nios-sec-2020:214.M5.L15"
+        "nios-sec-2020:214.M5.L15",
+        "icse:ECO10.4"
       ]
     },
     {
@@ -42213,7 +42222,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what they could do if a shop sold them something that turned out to be faulty.",
       "standards": [
-        "ncert-sec:ECO.C10.CONSUMER"
+        "ncert-sec:ECO.C10.CONSUMER",
+        "icse:ECO10.6"
       ]
     },
     {
@@ -47446,7 +47456,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what changed for an Indian business in 1991 and who gained most from it.",
       "standards": [
-        "ncert-hsec:ECO.C11.D2"
+        "ncert-hsec:ECO.C11.D2",
+        "icse:ECO9.6"
       ]
     },
     {
@@ -49890,7 +49901,8 @@
       "assessmentPrompt": "Can {{name}} explain what economics studies — how people make choices because resources are limited but wants are not?",
       "standards": [
         "nios-sec-2020:214.M1.L1",
-        "ncert-sec:ECO.C9.PALAM"
+        "ncert-sec:ECO.C9.PALAM",
+        "icse:ECO9.1"
       ]
     },
     {
@@ -49910,7 +49922,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain the difference between a market, a planned and a mixed economy — and which India is?",
       "standards": [
-        "nios-sec-2020:214.M2.L4"
+        "nios-sec-2020:214.M2.L4",
+        "icse:ECO9.2"
       ]
     },
     {
@@ -49932,7 +49945,8 @@
       "standards": [
         "nios-sec-2020:214.M2.L5",
         "ncert-sec:ECO.C9.PALAM",
-        "ncert-sec:ECO.C10.DEV"
+        "ncert-sec:ECO.C10.DEV",
+        "icse:ECO9.3"
       ]
     },
     {
@@ -49952,7 +49966,8 @@
       ],
       "assessmentPrompt": "Can {{name}} sort everyday actions into producing, consuming and exchanging, and explain how they connect?",
       "standards": [
-        "nios-sec-2020:214.M2.L6"
+        "nios-sec-2020:214.M2.L6",
+        "icse:ECO9.1"
       ]
     },
     {
@@ -51381,6 +51396,166 @@
       "assessmentPrompt": "Ask {{name}} what the “cloud” actually is when a photo is said to be stored there.",
       "standards": [
         "icse:COMP10.7"
+      ]
+    },
+    {
+      "id": "mt_Gig8Ax63zn",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Indian Agriculture and the Green Revolution",
+      "description": "Understand why agriculture matters to the Indian economy, the problems that hold it back — small holdings, monsoon dependence, thin credit — and how the green revolution raised output and what it cost.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains the contribution of agriculture to the Indian economy",
+        "Names a problem of Indian agriculture and a government measure against it",
+        "Explains what the green revolution changed"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a country can grow far more food than before and still leave many farmers poor.",
+      "standards": [
+        "icse:ECO9.4"
+      ]
+    },
+    {
+      "id": "mt_4FPDNY914x",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Industry in India: Types and Impact",
+      "description": "Understand how industry is classified by scale, why small and cottage industry matters in India, and how industrialisation brings pollution and deforestation that have to be managed.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes large, medium and small-scale industry",
+        "Explains the significance of cottage and small-scale industry in India",
+        "Explains an adverse impact of industrialisation and a measure against it"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the government encourages small village industries when big factories produce more.",
+      "standards": [
+        "icse:ECO9.4"
+      ]
+    },
+    {
+      "id": "mt_x89dMx61gj",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Unemployment: Types and Causes",
+      "description": "Understand unemployment as people willing to work who cannot find it, distinguished by kind — seasonal, structural, technological — each with its own causes and its own remedy.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes seasonal, structural and technological unemployment",
+        "Explains a cause of unemployment in India",
+        "Names a government scheme aimed at reducing it"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a farm worker with nothing to do between harvests is unemployed in a different way from a factory worker replaced by a machine.",
+      "standards": [
+        "icse:ECO9.5"
+      ]
+    },
+    {
+      "id": "mt_AOC6U5D6qn",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Smart Cities and Digital India",
+      "description": "Understand recent development initiatives — the smart city, Digital India and Skill India — as attempts to modernise infrastructure, services and skills, and how each is meant to lift the economy.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains what a smart city is meant to achieve",
+        "Describes the aim of the Digital India or Skill India initiative",
+        "Links an initiative to a development outcome such as jobs or infrastructure"
+      ],
+      "assessmentPrompt": "Ask {{name}} what would make a city “smart”, and who it is supposed to help.",
+      "standards": [
+        "icse:ECO9.6"
+      ]
+    },
+    {
+      "id": "mt_BlK3b3L0Cu",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "Markets",
+      "name": "Elasticity of Demand and Supply",
+      "description": "Understand elasticity as how strongly quantity responds to a change in price, why goods differ in it, and what makes demand or supply elastic or inelastic.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains price elasticity of demand and of supply",
+        "Classifies a good as elastic or inelastic with a reason",
+        "Names a factor affecting the elasticity of demand or supply"
+      ],
+      "assessmentPrompt": "Ask {{name}} why people buy almost the same amount of salt whatever its price, but far less of a costly treat.",
+      "standards": [
+        "icse:ECO10.2"
+      ]
+    },
+    {
+      "id": "mt_UzhCaQfeun",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Monetary Policy and Credit Control",
+      "description": "Understand how the central bank steers the amount of credit in the economy, using quantitative tools such as the bank rate, cash reserve ratio and open-market operations, and qualitative tools such as margin requirements.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Names a quantitative and a qualitative credit-control measure",
+        "Explains how raising the cash reserve ratio reduces lending",
+        "Explains why the central bank controls credit"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a single decision by the central bank can make loans across the whole country cheaper or dearer.",
+      "standards": [
+        "icse:ECO10.4"
+      ]
+    },
+    {
+      "id": "mt_83llDaSC0H",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Public Finance: Taxation and Public Expenditure",
+      "description": "Understand how the government raises money through direct and indirect taxes — including GST — and non-tax revenue, how it spends and borrows, and why public expenditure has grown.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a direct from an indirect tax",
+        "Explains the meaning and objective of GST",
+        "Distinguishes revenue from capital expenditure"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the difference is between a tax on their income and a tax added to what they buy.",
+      "standards": [
+        "icse:ECO10.4"
+      ]
+    },
+    {
+      "id": "mt_eRdR1pxbfy",
+      "type": "CONCEPTUAL",
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "name": "Inflation",
+      "description": "Understand inflation as a sustained rise in the general price level, distinguish demand-pull from cost-push inflation, and see why it hurts fixed-income earners while it can help others.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains what inflation means and names a stage of it",
+        "Distinguishes demand-pull from cost-push inflation",
+        "Explains why inflation hurts a fixed-income group"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the same hundred rupees buys less this year than last, and who suffers most from that.",
+      "standards": [
+        "icse:ECO10.5"
       ]
     }
   ]

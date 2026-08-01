@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4451,
+  "edgeCount": 4466,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -26708,6 +26708,96 @@
       "prerequisiteId": "mt_dsa9Wja2lr",
       "strength": "soft",
       "reason": "Method overloading parallels constructor overloading."
+    },
+    {
+      "topicId": "mt_Gig8Ax63zn",
+      "prerequisiteId": "mt_0CmQMjd6dQ",
+      "strength": "hard",
+      "reason": "Agriculture is the primary sector of the economy."
+    },
+    {
+      "topicId": "mt_Gig8Ax63zn",
+      "prerequisiteId": "mt_MaWJ5xmudK",
+      "strength": "soft",
+      "reason": "The green revolution underpins food security."
+    },
+    {
+      "topicId": "mt_4FPDNY914x",
+      "prerequisiteId": "mt_0CmQMjd6dQ",
+      "strength": "hard",
+      "reason": "Industry is the secondary sector of the economy."
+    },
+    {
+      "topicId": "mt_x89dMx61gj",
+      "prerequisiteId": "mt_JmGiTiHHC9",
+      "strength": "hard",
+      "reason": "Unemployment concerns labour as a resource."
+    },
+    {
+      "topicId": "mt_x89dMx61gj",
+      "prerequisiteId": "mt_64hj8wqjvs",
+      "strength": "soft",
+      "reason": "Unemployment is a major cause of poverty."
+    },
+    {
+      "topicId": "mt_AOC6U5D6qn",
+      "prerequisiteId": "mt_rqYeEbHAHW",
+      "strength": "soft",
+      "reason": "These initiatives extend the post-1991 reform agenda."
+    },
+    {
+      "topicId": "mt_AOC6U5D6qn",
+      "prerequisiteId": "mt_f8dmAdEPq2",
+      "strength": "soft",
+      "reason": "They respond to the challenges before the Indian economy."
+    },
+    {
+      "topicId": "mt_BlK3b3L0Cu",
+      "prerequisiteId": "mt_jeTXkpY2IU",
+      "strength": "hard",
+      "reason": "Elasticity measures how demand responds to price."
+    },
+    {
+      "topicId": "mt_BlK3b3L0Cu",
+      "prerequisiteId": "mt_0AwWXAesqm",
+      "strength": "hard",
+      "reason": "Elasticity applies to supply as well as demand."
+    },
+    {
+      "topicId": "mt_UzhCaQfeun",
+      "prerequisiteId": "mt_kECFYQuuDI",
+      "strength": "hard",
+      "reason": "Monetary policy regulates the credit banks create."
+    },
+    {
+      "topicId": "mt_83llDaSC0H",
+      "prerequisiteId": "mt_kECFYQuuDI",
+      "strength": "soft",
+      "reason": "Public finance sits alongside money and banking in macro policy."
+    },
+    {
+      "topicId": "mt_eRdR1pxbfy",
+      "prerequisiteId": "mt_kECFYQuuDI",
+      "strength": "hard",
+      "reason": "Inflation is a monetary phenomenon."
+    },
+    {
+      "topicId": "mt_eRdR1pxbfy",
+      "prerequisiteId": "mt_yWJTq3Oc3r",
+      "strength": "soft",
+      "reason": "Inflation is a rise in the general level of prices."
+    },
+    {
+      "topicId": "mt_eRdR1pxbfy",
+      "prerequisiteId": "mt_UzhCaQfeun",
+      "strength": "soft",
+      "reason": "Monetary policy is the main tool against inflation."
+    },
+    {
+      "topicId": "mt_83llDaSC0H",
+      "prerequisiteId": "mt_UzhCaQfeun",
+      "strength": "soft",
+      "reason": "Fiscal and monetary policy are the two arms of macro management."
     }
   ]
 }

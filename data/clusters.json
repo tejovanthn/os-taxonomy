@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 349,
+  "clusterCount": 350,
   "clusters": [
     {
       "subject": "English",
@@ -2127,6 +2127,13 @@
       "ageRangeStart": 15,
       "ageRangeEnd": 16,
       "summary": "Class X builds real programs on the Class IX foundation. Arrays let one name hold many values, which makes sorting and searching worth teaching — the first genuine algorithms, where a sorted list can be searched by repeated halving instead of scanning. Strings bring text handling; wrapper classes bridge primitive values and objects; and constructors and custom methods complete the object-oriented picture, so a learner can design a class that sets its objects up correctly and gives them behaviour of their own."
+    },
+    {
+      "subject": "Economics",
+      "domain": "The Indian Economy",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "The Class X half of ICSE Economics turns from what the economy is to how it is steered. Money and banking lead to the central bank’s monetary policy — the levers, from the cash reserve ratio to open-market operations, that expand or squeeze credit across the country. Public finance is the other arm: how the government taxes (directly, and through GST), spends and borrows. Inflation is the problem both are aimed at, a sustained rise in prices that quietly erodes a fixed income while it can lift a business one."
     }
   ]
 }

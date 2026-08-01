@@ -49149,7 +49149,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabuses-icse-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 47,
+      "topicCount": 59,
       "topics": [
         {
           "key": "icse:MAT9.1",
@@ -49666,6 +49666,138 @@
             "class": "X",
             "strand": "Disruptive Technologies",
             "description": "The definition, types and uses of emerging technologies — artificial intelligence, blockchain, the Internet of Things, robotics, 5G and cloud computing; cyber hygiene and cyber law."
+          }
+        },
+        {
+          "key": "icse:ECO9.1",
+          "code": "ECO9.1",
+          "data": {
+            "title": "Class IX Introduction to Economics",
+            "subject": "Economics (IX–X)",
+            "class": "IX",
+            "strand": "Introduction to Economics",
+            "description": "What economics studies through the classic definitions; the difference between microeconomics and macroeconomics and between economic and non-economic activities; the basic economic terms and the sectors and entities of an economy."
+          }
+        },
+        {
+          "key": "icse:ECO9.2",
+          "code": "ECO9.2",
+          "data": {
+            "title": "Class IX Types of Economies",
+            "subject": "Economics (IX–X)",
+            "class": "IX",
+            "strand": "Types of Economies",
+            "description": "Capitalist, socialist and mixed economies and where India sits; developed and developing economies; the difference between economic growth and economic development."
+          }
+        },
+        {
+          "key": "icse:ECO9.3",
+          "code": "ECO9.3",
+          "data": {
+            "title": "Class IX Problems of an Economy",
+            "subject": "Economics (IX–X)",
+            "class": "IX",
+            "strand": "Problems of an Economy",
+            "description": "Scarcity — unlimited wants against limited resources with alternative uses — and the three central problems every economy must answer: what, how and for whom to produce."
+          }
+        },
+        {
+          "key": "icse:ECO9.4",
+          "code": "ECO9.4",
+          "data": {
+            "title": "Class IX The Indian Economy: Sectors",
+            "subject": "Economics (IX–X)",
+            "class": "IX",
+            "strand": "The Indian Economy: Sectors",
+            "description": "The primary, secondary and tertiary sectors of the Indian economy; the contribution and problems of agriculture and the green revolution; types of industry and its impact; the role of services."
+          }
+        },
+        {
+          "key": "icse:ECO9.5",
+          "code": "ECO9.5",
+          "data": {
+            "title": "Class IX Major Problems: Poverty and Unemployment",
+            "subject": "Economics (IX–X)",
+            "class": "IX",
+            "strand": "Major Problems: Poverty and Unemployment",
+            "description": "Poverty — the poverty line, relative and absolute poverty and its causes; unemployment and its types; government schemes to reduce poverty and unemployment."
+          }
+        },
+        {
+          "key": "icse:ECO9.6",
+          "code": "ECO9.6",
+          "data": {
+            "title": "Class IX Reforms and Emerging Trends",
+            "subject": "Economics (IX–X)",
+            "class": "IX",
+            "strand": "Reforms and Emerging Trends",
+            "description": "The liberalisation, privatisation and globalisation reforms and their impact; emerging trends such as the smart-city, Digital India and Skill India initiatives."
+          }
+        },
+        {
+          "key": "icse:ECO10.1",
+          "code": "ECO10.1",
+          "data": {
+            "title": "Class X The Productive Mechanism",
+            "subject": "Economics (IX–X)",
+            "class": "X",
+            "strand": "The Productive Mechanism",
+            "description": "Land, labour, capital and the entrepreneur as the factors of production, their characteristics and productivity, and the meaning and process of capital formation."
+          }
+        },
+        {
+          "key": "icse:ECO10.2",
+          "code": "ECO10.2",
+          "data": {
+            "title": "Class X Theory of Demand and Supply",
+            "subject": "Economics (IX–X)",
+            "class": "X",
+            "strand": "Theory of Demand and Supply",
+            "description": "The laws of demand and supply through schedules and curves; movement along versus a shift of a curve; determinants and exceptions; the elasticity of demand and supply and the factors affecting it."
+          }
+        },
+        {
+          "key": "icse:ECO10.3",
+          "code": "ECO10.3",
+          "data": {
+            "title": "Class X Market",
+            "subject": "Economics (IX–X)",
+            "class": "X",
+            "strand": "Market",
+            "description": "The meaning of a market and the features distinguishing perfect competition, monopoly, monopolistic competition and oligopoly."
+          }
+        },
+        {
+          "key": "icse:ECO10.4",
+          "code": "ECO10.4",
+          "data": {
+            "title": "Class X Banking in India",
+            "subject": "Economics (IX–X)",
+            "class": "X",
+            "strand": "Banking in India",
+            "description": "The evolution and functions of money; the functions of commercial banks and credit creation; the functions of the central bank; monetary policy and its credit-control measures; and public finance — taxation, GST, public expenditure and public debt."
+          }
+        },
+        {
+          "key": "icse:ECO10.5",
+          "code": "ECO10.5",
+          "data": {
+            "title": "Class X Inflation",
+            "subject": "Economics (IX–X)",
+            "class": "X",
+            "strand": "Inflation",
+            "description": "The meaning and stages of inflation; cost-push and demand-pull inflation; the effects of inflation on production and on different income groups."
+          }
+        },
+        {
+          "key": "icse:ECO10.6",
+          "code": "ECO10.6",
+          "data": {
+            "title": "Class X Consumer Awareness",
+            "subject": "Economics (IX–X)",
+            "class": "X",
+            "strand": "Consumer Awareness",
+            "description": "Consumer exploitation and awareness; consumer rights and duties, COPRA and the Right to Information; food adulteration; and the measures protecting consumers."
           }
         }
       ]
