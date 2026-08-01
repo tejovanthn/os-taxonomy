@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-07-21T17:52:28.760Z",
+  "generatedAt": "2026-08-01T18:03:28.761Z",
   "codesOnlySources": [
     "c3-social-studies",
     "ib-pyp-pspe",
@@ -9,7 +9,7 @@
     "ngss-ms"
   ],
   "counts": {
-    "topics": 2495,
+    "topics": 2516,
     "topicsBySubject": {
       "Accountancy": 29,
       "Biology": 45,
@@ -27,7 +27,7 @@
       "Kannada": 6,
       "Learning to Learn": 18,
       "Life Skills": 37,
-      "Mathematics": 567,
+      "Mathematics": 588,
       "Music": 49,
       "Personal & Social Development": 88,
       "Physics": 57,
@@ -41,28 +41,28 @@
       "Telugu": 5,
       "Visual Arts": 8
     },
-    "dependencies": 4404,
-    "curricula": 15,
-    "curriculumStandards": 4253,
-    "topicStandardLinks": 3906,
-    "clusters": 345
+    "dependencies": 4431,
+    "curricula": 16,
+    "curriculumStandards": 4282,
+    "topicStandardLinks": 3952,
+    "clusters": 347
   },
   "files": {
     "topics.json": {
-      "bytes": 2494974,
-      "sha256": "d7c63434730bcff906956cf3ec73b5235953f7274d19aa6c58a4de3b0ad1d232"
+      "bytes": 2513467,
+      "sha256": "44855031234798cacf3408685b4ec7431fe811fde38d42657e3952aab6f69208"
     },
     "dependencies.json": {
-      "bytes": 919733,
-      "sha256": "eed93ec485df32547b982268aafe8cf85e2470701b601bce96426f3b56c48d2f"
+      "bytes": 924637,
+      "sha256": "6ce1fea4aaecd2cc95d146a6fbdd56f9850d574f48503f21797424c5e6b32599"
     },
     "curriculum-standards.json": {
-      "bytes": 2123936,
-      "sha256": "f691f7a558581b0ce7e8335d41c5d947ac0e46cc9a3e47af7b4fdf141d252cf5"
+      "bytes": 2138381,
+      "sha256": "840a0dd130f0761de0aa6ebc2a56b14d90849569280b830dbec3755ead3b76d1"
     },
     "clusters.json": {
-      "bytes": 116078,
-      "sha256": "e7a0c5d5f6dd57b35bcd3df4fdfb2227c99457d9ccb83ffd7cbc31e6b1603a68"
+      "bytes": 117319,
+      "sha256": "915296031c4eec33cec2d3b6e03ce0e624168d3195a952d4c9e4500902f55190"
     }
   },
   "excluded": [

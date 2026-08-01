@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4404,
+  "edgeCount": 4431,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -26426,6 +26426,168 @@
       "prerequisiteId": "mt_4Fa8k33D8O",
       "strength": "hard",
       "reason": "Builds on minerals and energy resources met at secondary level."
+    },
+    {
+      "topicId": "mt_hE5gqaSGx6",
+      "prerequisiteId": "mt_sORtAFxvlB",
+      "strength": "hard",
+      "reason": "Surds are the irrational numbers just met."
+    },
+    {
+      "topicId": "mt_EFvpLQezYC",
+      "prerequisiteId": "mt_iEXqN48w3x",
+      "strength": "hard",
+      "reason": "Compound interest is repeated percentage growth."
+    },
+    {
+      "topicId": "mt_ToF05CVXmj",
+      "prerequisiteId": "mt_KhS7K1Mgrw",
+      "strength": "hard",
+      "reason": "Identities generalise expanding double brackets."
+    },
+    {
+      "topicId": "mt_yBFSq56OkU",
+      "prerequisiteId": "mt_hCVPYlF-7Y",
+      "strength": "hard",
+      "reason": "The laws of indices extend square and cube numbers."
+    },
+    {
+      "topicId": "mt_1TisYvwAsG",
+      "prerequisiteId": "mt_yBFSq56OkU",
+      "strength": "hard",
+      "reason": "A logarithm is the inverse of an index."
+    },
+    {
+      "topicId": "mt_R2QX26OBhw",
+      "prerequisiteId": "mt_C1EJxERW34",
+      "strength": "soft",
+      "reason": "The proof rests on triangle congruence."
+    },
+    {
+      "topicId": "mt_oxsQMHfwG9",
+      "prerequisiteId": "mt_H_pNJ3ZI_S",
+      "strength": "soft",
+      "reason": "The mid-point theorem is about parallel lines within a triangle."
+    },
+    {
+      "topicId": "mt_oxsQMHfwG9",
+      "prerequisiteId": "mt_C1EJxERW34",
+      "strength": "soft",
+      "reason": "The proof uses congruent triangles."
+    },
+    {
+      "topicId": "mt_NrBTEKcqzV",
+      "prerequisiteId": "mt_C1EJxERW34",
+      "strength": "hard",
+      "reason": "The parallelogram theorems are proved by congruence."
+    },
+    {
+      "topicId": "mt_NrBTEKcqzV",
+      "prerequisiteId": "mt_oxsQMHfwG9",
+      "strength": "soft",
+      "reason": "Rectilinear-figure work follows the mid-point theorem."
+    },
+    {
+      "topicId": "mt_Wp8CmPRuPB",
+      "prerequisiteId": "mt_svFa6_mjO_",
+      "strength": "hard",
+      "reason": "Chord properties build on the basic circle."
+    },
+    {
+      "topicId": "mt_mHo59zCkNC",
+      "prerequisiteId": "mt_iEXqN48w3x",
+      "strength": "hard",
+      "reason": "GST is a percentage added to a price."
+    },
+    {
+      "topicId": "mt_ZorTtoRjqZ",
+      "prerequisiteId": "mt_EFvpLQezYC",
+      "strength": "hard",
+      "reason": "Deposit interest builds on the interest idea."
+    },
+    {
+      "topicId": "mt_XKHHNP241N",
+      "prerequisiteId": "mt_iEXqN48w3x",
+      "strength": "hard",
+      "reason": "Dividend and return are percentage computations."
+    },
+    {
+      "topicId": "mt_cYID1lZC11",
+      "prerequisiteId": "mt_QhFEDyIwSO",
+      "strength": "hard",
+      "reason": "Inequations extend the solving of linear equations."
+    },
+    {
+      "topicId": "mt_zW0YiIuCZN",
+      "prerequisiteId": "mt_yK51ZnKA8m",
+      "strength": "hard",
+      "reason": "Proportion properties build on ratio notation."
+    },
+    {
+      "topicId": "mt_8PUdzGTP5D",
+      "prerequisiteId": "mt_zImUoeskII",
+      "strength": "hard",
+      "reason": "The GP mirrors the arithmetic progression met alongside it."
+    },
+    {
+      "topicId": "mt_rTumtF9HvB",
+      "prerequisiteId": "mt_WBdHkc2HTf",
+      "strength": "hard",
+      "reason": "The equation of a line builds on linear function graphs."
+    },
+    {
+      "topicId": "mt_ry6rWGQaZB",
+      "prerequisiteId": "mt_K0Y15w48SY",
+      "strength": "hard",
+      "reason": "Reflection is a coordinate transformation."
+    },
+    {
+      "topicId": "mt_57Writ3a41",
+      "prerequisiteId": "mt_AFH9ZAZxKC",
+      "strength": "soft",
+      "reason": "Loci are drawn using geometric constructions."
+    },
+    {
+      "topicId": "mt_57Writ3a41",
+      "prerequisiteId": "mt_Wp8CmPRuPB",
+      "strength": "soft",
+      "reason": "The circle is the first locus met."
+    },
+    {
+      "topicId": "mt_nnSaSNOFjo",
+      "prerequisiteId": "mt_RiJ6OdRsmw",
+      "strength": "hard",
+      "reason": "Identities relate the trigonometric ratios."
+    },
+    {
+      "topicId": "mt_t2RjPKm5mk",
+      "prerequisiteId": "mt_vmQJAtAFuy",
+      "strength": "hard",
+      "reason": "Single-event probability builds on the probability scale."
+    },
+    {
+      "topicId": "mt_t2RjPKm5mk",
+      "prerequisiteId": "mt_sHJqh6UUya",
+      "strength": "soft",
+      "reason": "Theoretical probability follows the experimental idea."
+    },
+    {
+      "topicId": "mt_KcWEqUJyOK",
+      "prerequisiteId": "mt_R2QX26OBhw",
+      "strength": "hard",
+      "reason": "The distance formula is Pythagoras’ theorem in coordinates."
+    },
+    {
+      "topicId": "mt_yCrineYUH8",
+      "prerequisiteId": "mt_zNNJpDHAq0",
+      "strength": "hard",
+      "reason": "Senior matrix work builds on the 2×2 introduction."
+    },
+    {
+      "topicId": "mt_XKHHNP241N",
+      "prerequisiteId": "mt_EFvpLQezYC",
+      "strength": "soft",
+      "reason": "Both belong to the commercial-mathematics strand of returns on money."
     }
   ]
 }

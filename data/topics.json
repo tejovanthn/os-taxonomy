@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2495,
+  "topicCount": 2516,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -11021,7 +11021,8 @@
       "assessmentPrompt": "Can {{name}} multiply out two brackets like (x + 3)(x − 2) and collect the terms to get x² + x − 6?",
       "standards": [
         "uk-nc-2013:KS3.Maths.Alg.4d",
-        "ncert-sec:MA.C9.ALG.POLY"
+        "ncert-sec:MA.C9.ALG.POLY",
+        "icse:MAT9.3"
       ]
     },
     {
@@ -11070,7 +11071,8 @@
         "ccss-math:8.EE.8b",
         "uk-nc-2013:KS3.Maths.Alg.10",
         "nios-sec-2020:211.M1.L5",
-        "ncert-sec:MA.C10.ALG.PAIR"
+        "ncert-sec:MA.C10.ALG.PAIR",
+        "icse:MAT9.4"
       ]
     },
     {
@@ -14337,7 +14339,8 @@
         "nios-obe-c:C103.L16",
         "nios-sec-2020:211.M4.L20",
         "ncert-elem:M.C7.MEN",
-        "ncert-sec:MA.C10.MEN.CIRCLE"
+        "ncert-sec:MA.C10.MEN.CIRCLE",
+        "icse:MAT9.10"
       ]
     },
     {
@@ -36042,7 +36045,8 @@
       "standards": [
         "nios-sec-2020:211.M1.L1",
         "ncert-sec:MA.C9.NS",
-        "ncert-sec:MA.C10.NS"
+        "ncert-sec:MA.C10.NS",
+        "icse:MAT9.1"
       ]
     },
     {
@@ -36063,7 +36067,8 @@
       "assessmentPrompt": "Can {{name}} solve a quadratic equation — one with an x² term — by factorising or using the formula?",
       "standards": [
         "nios-sec-2020:211.M1.L6",
-        "ncert-sec:MA.C10.ALG.QUAD"
+        "ncert-sec:MA.C10.ALG.QUAD",
+        "icse:MAT10.5"
       ]
     },
     {
@@ -36086,7 +36091,8 @@
         "nios-sec-2020:211.M3.L11",
         "nios-sec-2020:211.M3.L12",
         "ncert-elem:M.C7.GEO",
-        "ncert-sec:MA.C9.GEO.TRI"
+        "ncert-sec:MA.C9.GEO.TRI",
+        "icse:MAT9.6"
       ]
     },
     {
@@ -36107,7 +36113,8 @@
       "assessmentPrompt": "Can {{name}} use the angle rules of circles — like the angle at the centre being twice the angle at the edge — to find missing angles?",
       "standards": [
         "nios-sec-2020:211.M3.L16",
-        "ncert-sec:MA.C9.GEO.CIRCLE"
+        "ncert-sec:MA.C9.GEO.CIRCLE",
+        "icse:MAT10.13"
       ]
     },
     {
@@ -36128,7 +36135,8 @@
       "assessmentPrompt": "Can {{name}} explain what a tangent to a circle is and that it meets the radius at a right angle?",
       "standards": [
         "nios-sec-2020:211.M3.L17",
-        "ncert-sec:MA.C10.GEO.CIRCLE"
+        "ncert-sec:MA.C10.GEO.CIRCLE",
+        "icse:MAT10.13"
       ]
     },
     {
@@ -36150,7 +36158,9 @@
       "standards": [
         "nios-sec-2020:211.M3.L18",
         "ncert-sec:MA.C9.GEO.CONST",
-        "ncert-sec:MA.C10.GEO.CONST"
+        "ncert-sec:MA.C10.GEO.CONST",
+        "icse:MAT9.7",
+        "icse:MAT10.13"
       ]
     },
     {
@@ -36173,7 +36183,9 @@
         "nios-sec-2020:211.M4.L21",
         "ncert-elem:M.C8.MEN",
         "ncert-sec:MA.C9.MEN",
-        "ncert-sec:MA.C10.MEN.SOLID"
+        "ncert-sec:MA.C10.MEN.SOLID",
+        "icse:MAT9.10",
+        "icse:MAT10.14"
       ]
     },
     {
@@ -36194,7 +36206,8 @@
       "assessmentPrompt": "Can {{name}} explain what trigonometry is about — the link between the sides and angles of a right-angled triangle?",
       "standards": [
         "nios-sec-2020:211.M5.L22",
-        "ncert-sec:MA.C10.TRIG"
+        "ncert-sec:MA.C10.TRIG",
+        "icse:MAT9.11"
       ]
     },
     {
@@ -36215,7 +36228,8 @@
       "assessmentPrompt": "Can {{name}} use sine, cosine and tangent to find a missing side of a right-angled triangle?",
       "standards": [
         "nios-sec-2020:211.M5.L23",
-        "ncert-sec:MA.C10.TRIG"
+        "ncert-sec:MA.C10.TRIG",
+        "icse:MAT9.11"
       ]
     },
     {
@@ -36239,7 +36253,9 @@
         "ncert-sec:MA.C9.STAT",
         "ncert-sec:MA.C10.STAT",
         "ncert-hsec:ECO.C11.S3",
-        "nios-sec-2020:214.M6.L18"
+        "nios-sec-2020:214.M6.L18",
+        "icse:MAT9.9",
+        "icse:MAT10.16"
       ]
     },
     {
@@ -41042,7 +41058,8 @@
       "assessmentPrompt": "Ask {{name}} whether (x − 2) is a factor of x³ − 3x² + 4, and how they can tell without doing the whole division.",
       "standards": [
         "ncert-sec:MA.C9.ALG.POLY",
-        "ncert-sec:MA.C10.ALG.POLY"
+        "ncert-sec:MA.C10.ALG.POLY",
+        "icse:MAT10.7"
       ]
     },
     {
@@ -41082,7 +41099,8 @@
       ],
       "assessmentPrompt": "Give {{name}} a triangle with sides 13, 14 and 15 and ask for its area without measuring any height.",
       "standards": [
-        "ncert-sec:MA.C9.MEN"
+        "ncert-sec:MA.C9.MEN",
+        "icse:MAT9.10"
       ]
     },
     {
@@ -41144,7 +41162,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} for the fiftieth term of 7, 11, 15, 19, … and then for the total of the first fifty terms.",
       "standards": [
-        "ncert-sec:MA.C10.ALG.AP"
+        "ncert-sec:MA.C10.ALG.AP",
+        "icse:MAT10.9"
       ]
     },
     {
@@ -41164,7 +41183,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how far apart the points (1, 2) and (4, 6) are, and why the method is really Pythagoras.",
       "standards": [
-        "ncert-sec:MA.C10.CG"
+        "ncert-sec:MA.C10.CG",
+        "icse:MAT9.12"
       ]
     },
     {
@@ -41184,7 +41204,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} to find the point one third of the way from (0, 0) to (6, 9), and then the midpoint.",
       "standards": [
-        "ncert-sec:MA.C10.CG"
+        "ncert-sec:MA.C10.CG",
+        "icse:MAT10.10"
       ]
     },
     {
@@ -41204,7 +41225,8 @@
       ],
       "assessmentPrompt": "Show {{name}} a triangle with a line drawn parallel to one side and ask what that line does to the other two sides.",
       "standards": [
-        "ncert-sec:MA.C10.GEO.SIM"
+        "ncert-sec:MA.C10.GEO.SIM",
+        "icse:MAT10.11"
       ]
     },
     {
@@ -41224,7 +41246,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how they could find the height of a tall building using only a protractor and a tape measure.",
       "standards": [
-        "ncert-sec:MA.C10.TRIG.HD"
+        "ncert-sec:MA.C10.TRIG.HD",
+        "icse:MAT10.15"
       ]
     },
     {
@@ -41264,7 +41287,8 @@
       ],
       "assessmentPrompt": "Give {{name}} a grouped frequency table and ask them to find the median without listing every value.",
       "standards": [
-        "ncert-sec:MA.C10.STAT"
+        "ncert-sec:MA.C10.STAT",
+        "icse:MAT10.16"
       ]
     },
     {
@@ -42291,7 +42315,8 @@
       ],
       "assessmentPrompt": "Show {{name}} two very differently shaped parallelograms on one base between two parallel lines and ask which has the greater area.",
       "standards": [
-        "ncert-sec:MA.C9.GEO.AREA"
+        "ncert-sec:MA.C9.GEO.AREA",
+        "icse:MAT9.7"
       ]
     },
     {
@@ -50593,6 +50618,426 @@
       "assessmentPrompt": "Ask {{name}} what decides how many rupees a dollar is worth today.",
       "standards": [
         "ncert-hsec:ECO.C12.MA5"
+      ]
+    },
+    {
+      "id": "mt_hE5gqaSGx6",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Number Representation & Place Value",
+      "name": "Surds and Rationalising the Denominator",
+      "description": "Understand a surd as an irrational root that cannot be simplified to a whole number, and rationalise a denominator by multiplying through by a chosen surd so no root remains below the line.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Simplifies a surd to its lowest form",
+        "Rationalises a denominator containing a single or binomial surd",
+        "Proves that a number such as √2 is irrational"
+      ],
+      "assessmentPrompt": "Ask {{name}} why √2 can never be written exactly as a fraction, however long they try.",
+      "standards": [
+        "icse:MAT9.1"
+      ]
+    },
+    {
+      "id": "mt_EFvpLQezYC",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Commercial Mathematics",
+      "name": "Compound Interest",
+      "description": "Understand compound interest as interest charged on a principal that grows each period, so that interest itself earns interest, and compute the amount by the standard formula.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Computes compound interest as repeated simple interest on a growing principal",
+        "Uses the amount formula including half-yearly compounding",
+        "Applies the same idea to rates of growth and depreciation"
+      ],
+      "assessmentPrompt": "Ask {{name}} why money left in a savings account grows faster and faster the longer it stays.",
+      "standards": [
+        "icse:MAT9.2"
+      ]
+    },
+    {
+      "id": "mt_ToF05CVXmj",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Algebraic Identities and Factorisation",
+      "description": "Understand the standard identities for squares and cubes as shortcuts that run both ways — expanding a product or factorising an expression back into its factors.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Expands an expression using a square or cube identity",
+        "Factorises the difference or sum of two cubes",
+        "Factorises a quadratic by splitting the middle term"
+      ],
+      "assessmentPrompt": "Ask {{name}} how knowing (a+b)² by heart saves multiplying it out every time.",
+      "standards": [
+        "icse:MAT9.3"
+      ]
+    },
+    {
+      "id": "mt_yBFSq56OkU",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "The Laws of Indices",
+      "description": "Understand that the laws of indices extend to negative, fractional and zero powers, so that a fractional index means a root and a negative index means a reciprocal.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Applies the product, quotient and power laws of indices",
+        "Interprets a negative index as a reciprocal and a zero index as one",
+        "Interprets a fractional index as a root"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a power of one-half could possibly mean, and why it turns out to be a square root.",
+      "standards": [
+        "icse:MAT9.5"
+      ]
+    },
+    {
+      "id": "mt_1TisYvwAsG",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Logarithms",
+      "description": "Understand a logarithm as the inverse of raising to a power — the exponent a base must be raised to — so that the laws of logarithms turn multiplication into addition.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Converts between exponential and logarithmic form",
+        "Applies the product, quotient and power laws of logarithms",
+        "Expands a logarithmic expression using the laws"
+      ],
+      "assessmentPrompt": "Ask {{name}} how turning multiplication into addition once made long calculations possible before calculators.",
+      "standards": [
+        "icse:MAT9.5"
+      ]
+    },
+    {
+      "id": "mt_R2QX26OBhw",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "Pythagoras’ Theorem",
+      "description": "Understand that in a right-angled triangle the square on the hypotenuse equals the sum of the squares on the other two sides, and that the converse identifies right-angled triangles.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "States and applies Pythagoras’ theorem to find a missing side",
+        "Uses the converse to test whether a triangle is right-angled",
+        "Solves a problem set in a real context using the theorem"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a builder can check a corner is a true right angle using only a tape measure.",
+      "standards": [
+        "icse:MAT9.6"
+      ]
+    },
+    {
+      "id": "mt_oxsQMHfwG9",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "The Mid-Point Theorem",
+      "description": "Understand that the segment joining the mid-points of two sides of a triangle is parallel to the third side and half its length, and that the converse locates a mid-point.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "States the mid-point theorem and its converse",
+        "Applies it to find a length or prove a line parallel",
+        "Uses the equal-intercept theorem in a construction or proof"
+      ],
+      "assessmentPrompt": "Ask {{name}} what is special about the line joining the middles of two sides of any triangle.",
+      "standards": [
+        "icse:MAT9.6"
+      ]
+    },
+    {
+      "id": "mt_NrBTEKcqzV",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "Theorems on the Parallelogram",
+      "description": "Understand the defining properties of a parallelogram — opposite sides and angles equal, diagonals bisecting each other — and how the rhombus, rectangle and square specialise them.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Proves or applies a property of the parallelogram",
+        "Distinguishes rhombus, rectangle and square by their diagonal properties",
+        "Constructs a quadrilateral to given measurements"
+      ],
+      "assessmentPrompt": "Ask {{name}} what extra property the diagonals of a rhombus have that an ordinary parallelogram’s do not.",
+      "standards": [
+        "icse:MAT9.7"
+      ]
+    },
+    {
+      "id": "mt_Wp8CmPRuPB",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "Chord Properties of a Circle",
+      "description": "Understand how chords relate to the centre of a circle — the perpendicular from the centre bisects a chord, equal chords lie equidistant from the centre, and three points fix a unique circle.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Applies the perpendicular-from-centre property to a chord",
+        "Relates the length of a chord to its distance from the centre",
+        "Explains why exactly one circle passes through three non-collinear points"
+      ],
+      "assessmentPrompt": "Ask {{name}} how you could find the exact centre of a circular plate using only a ruler and the edge.",
+      "standards": [
+        "icse:MAT9.8"
+      ]
+    },
+    {
+      "id": "mt_mHo59zCkNC",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Commercial Mathematics",
+      "name": "Goods and Services Tax",
+      "description": "Understand GST as a tax added at each sale, split into central and state shares, and compute the price a consumer finally pays after discounts, profit and the tax.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Computes GST including its CGST and SGST components",
+        "Finds the final price after discount, profit and tax",
+        "Solves the inverse case, recovering a base price from a taxed price"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the price on the shelf is not the price they pay at the till.",
+      "standards": [
+        "icse:MAT10.1"
+      ]
+    },
+    {
+      "id": "mt_ZorTtoRjqZ",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Commercial Mathematics",
+      "name": "Banking: Recurring Deposits",
+      "description": "Understand a recurring deposit as a fixed monthly saving that earns interest for a shrinking number of months, and compute the interest and maturity value from the standard formulae.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Computes the interest on a recurring deposit",
+        "Finds the maturity value of the account",
+        "Explains why each instalment earns interest for a different length of time"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the first instalment of a year-long deposit earns more interest than the last.",
+      "standards": [
+        "icse:MAT10.2"
+      ]
+    },
+    {
+      "id": "mt_XKHHNP241N",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Commercial Mathematics",
+      "name": "Shares and Dividends",
+      "description": "Understand a share as a unit of ownership with a nominal and a market value, a dividend as the profit paid on it, and compute the income and the rate of return on an investment.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes nominal value from market value",
+        "Computes the dividend income from a shareholding",
+        "Computes the rate of return on the amount invested"
+      ],
+      "assessmentPrompt": "Ask {{name}} how two people who paid different prices for the same share can get the same dividend.",
+      "standards": [
+        "icse:MAT10.3"
+      ]
+    },
+    {
+      "id": "mt_cYID1lZC11",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Linear Inequations",
+      "description": "Understand a linear inequation as a constraint with a range of solutions rather than a single value, and that the solution depends on which number set the variable is drawn from.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Solves a linear inequation and writes the solution in set notation",
+        "Represents the solution on the number line",
+        "Explains how the solution changes over N, W, Z and R"
+      ],
+      "assessmentPrompt": "Ask {{name}} why “x is less than 5” has one answer over whole numbers but endlessly many over the reals.",
+      "standards": [
+        "icse:MAT10.4"
+      ]
+    },
+    {
+      "id": "mt_zW0YiIuCZN",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Ratio & Proportion",
+      "name": "Properties of Proportion",
+      "description": "Understand continued and mean proportion, and the componendo, dividendo, alternendo and invertendo rules as manipulations that keep a proportion true while simplifying a problem.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Finds a mean or third proportional",
+        "Applies componendo and dividendo to a proportion",
+        "Chooses the property that simplifies a given problem"
+      ],
+      "assessmentPrompt": "Ask {{name}} what stays equal when you add the same operation to the top and bottom of both sides of a ratio.",
+      "standards": [
+        "icse:MAT10.6"
+      ]
+    },
+    {
+      "id": "mt_zNNJpDHAq0",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Matrices and Matrix Operations (2×2)",
+      "description": "Understand a matrix as a rectangular array on which addition and multiplication obey their own rules, so that order matters and multiplication is only defined when shapes are compatible.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Identifies the order and type of a matrix",
+        "Adds and subtracts compatible 2×2 matrices",
+        "Multiplies a 2×2 matrix by a scalar and by another matrix"
+      ],
+      "assessmentPrompt": "Ask {{name}} why two matrices can sometimes be multiplied one way round but not the other.",
+      "standards": [
+        "icse:MAT10.8"
+      ]
+    },
+    {
+      "id": "mt_8PUdzGTP5D",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Algebra",
+      "name": "Geometric Progression",
+      "description": "Understand a geometric progression as a sequence with a constant ratio between terms, and derive its general term and the sum of its first n terms.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Finds the general term of a geometric progression",
+        "Computes the sum of the first n terms",
+        "Contrasts a geometric with an arithmetic progression"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a sum of grains that doubles on each square of a chessboard grows so impossibly large.",
+      "standards": [
+        "icse:MAT10.9"
+      ]
+    },
+    {
+      "id": "mt_rTumtF9HvB",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "The Equation of a Straight Line",
+      "description": "Understand slope as the steepness of a line — the tangent of the angle it makes with the x-axis — and how slope and an intercept or a point fix the line’s equation.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Interprets the slope and intercept of a line geometrically",
+        "Writes the equation of a line from a slope and a point or two points",
+        "Uses the slope conditions for parallel and perpendicular lines"
+      ],
+      "assessmentPrompt": "Ask {{name}} what two facts you need before you can pin down exactly one straight line.",
+      "standards": [
+        "icse:MAT10.10"
+      ]
+    },
+    {
+      "id": "mt_ry6rWGQaZB",
+      "type": "REPRESENTATIONAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "Reflection in the Coordinate Plane",
+      "description": "Understand reflection as a transformation that flips a point across a line or the origin, and that points lying on the mirror are invariant.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Reflects a point in the axes and in the origin",
+        "Identifies invariant points of a reflection",
+        "Finds the image of a figure under a reflection"
+      ],
+      "assessmentPrompt": "Ask {{name}} which points of a shape do not move at all when it is reflected in a line.",
+      "standards": [
+        "icse:MAT10.10"
+      ]
+    },
+    {
+      "id": "mt_57Writ3a41",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Geometry",
+      "name": "Loci",
+      "description": "Understand a locus as the set of all points satisfying a condition, and recognise the circle, the angle bisector and the perpendicular bisector as the loci of familiar conditions.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describes the locus of a point at a fixed distance from a point",
+        "Identifies the locus equidistant from two points or two lines",
+        "Constructs a locus to solve a geometric problem"
+      ],
+      "assessmentPrompt": "Ask {{name}} what path a goat tied to a post can graze, and what names that shape.",
+      "standards": [
+        "icse:MAT10.12"
+      ]
+    },
+    {
+      "id": "mt_nnSaSNOFjo",
+      "type": "PROCEDURAL",
+      "subject": "Mathematics",
+      "domain": "Trigonometry",
+      "name": "Trigonometric Identities",
+      "description": "Understand the identities linking the trigonometric ratios — that sin²A + cos²A = 1 and its companions — as relations true for every angle, and use them to simplify and prove expressions.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "States the three Pythagorean trigonometric identities",
+        "Simplifies a trigonometric expression using an identity",
+        "Proves a simple trigonometric identity"
+      ],
+      "assessmentPrompt": "Ask {{name}} why sin²A + cos²A always comes to exactly one, whatever the angle.",
+      "standards": [
+        "icse:MAT10.15"
+      ]
+    },
+    {
+      "id": "mt_t2RjPKm5mk",
+      "type": "CONCEPTUAL",
+      "subject": "Mathematics",
+      "domain": "Probability",
+      "name": "Probability of a Single Event",
+      "description": "Understand theoretical probability as the ratio of favourable outcomes to the total in an equally likely sample space, and compute it for a single event.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Lists the sample space of a simple random experiment",
+        "Computes the probability of a single event",
+        "Explains why probabilities lie between zero and one"
+      ],
+      "assessmentPrompt": "Ask {{name}} how likely a single throw of a die is to land on a number greater than four, and why.",
+      "standards": [
+        "icse:MAT10.17"
       ]
     }
   ]

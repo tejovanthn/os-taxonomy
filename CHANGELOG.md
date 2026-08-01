@@ -8,6 +8,25 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ICSE (CISCE Classes IX–X) added; Mathematics integrated (2026-08-01)
+- Added a new curriculum source **`icse`** — the CISCE Indian Certificate of
+  Secondary Education, Classes IX–X (ages 14–16), exam-year-2028 edition. Red
+  tier: minted codes plus Marble-authored factual descriptions, no CISCE text
+  (same posture as NCERT — see PROVENANCE). A shared board helper
+  `scripts/build/cisce.mjs` carries both `icse` and the forthcoming `isc`.
+- **Mathematics (IX–X)** integrated align-first: 29 standards, 22 aligning onto
+  the existing 14–16 Mathematics ladder (geometry, trigonometry, mensuration,
+  statistics and core algebra all already existed), 21 new topics minted at idea
+  grain for the content ICSE carries that the taxonomy lacked — the commercial
+  mathematics strand (compound interest, GST, banking, shares), logarithms and
+  the laws of indices, 2×2 matrices, loci, the equation of a line, reflection,
+  and the proof-based geometry theorems (Pythagoras, mid-point, parallelogram,
+  chord properties). A new domain *Commercial Mathematics* with two clusters.
+- Topics-per-standard 1.48 (granularity preserved, not collapsed to unit grain);
+  every standard covered; no bundlers or orphans; all 21 minted topics join the
+  main component; build idempotent. 2,516 topics / 4,431 edges / 347 clusters;
+  validate green.
+
 ### Economics decomposed to idea grain; two papered-over standards fixed (2026-07-21)
 - A grain review across all subjects (topics-per-standard by source, then the
   one-claim test on suspect bodies) found **NCERT XI–XII Economics still at unit

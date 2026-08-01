@@ -49,6 +49,13 @@ For encumbered sources we ship only the **standard code** (e.g. `1-ESS1-1`) and 
 - **OCR:** the Sanskrit XI–XII document uses non-Unicode legacy Devanagari fonts and was recovered by OCR of pages rendered at 300 DPI (tesseract `san`/`hin`), cross-checked against the page images. The Urdu document is image-only and remains un-integrated.
 - These summary records are Marble-authored (CC BY-SA 4.0); the NCERT syllabus itself remains © NCERT. Obtain NCERT permission before shipping any verbatim syllabus text.
 
+### 🔴 `icse` — CISCE Indian Certificate of Secondary Education (ICSE), Classes IX–X — **Marble summaries only, no CISCE text**
+- **Publisher / rights:** Council for the Indian School Certificate Examinations (CISCE), India. The syllabus copyright page reserves all rights: *"This publication and no part thereof may be reproduced, transmitted, distributed or stored in any manner whatsoever, without the prior written approval of the Council for the Indian School Certificate Examinations."* Same posture as NCERT — stricter than NIOS.
+- **What we ship:** minted codes (class × unit/strand) plus **Marble-authored one-line factual descriptions** of what each unit covers — facts about the curriculum, not CISCE's expression. No CISCE text is reproduced.
+- **Source:** the ICSE Regulations and Syllabuses (exam year 2028 edition, January 2026), one PDF per subject, at [cisce.org/regulations-and-syllabuses-icse-2028](https://cisce.org/regulations-and-syllabuses-icse-2028/). NB: `cisceboard.org` is an unrelated impostor site serving malware — the genuine board is `cisce.org`.
+- **Scope:** Classes IX–X (ages 14–16). Integrated align-first onto the existing 14–16 ladder (from `ncert-sec` and `nios-sec-2020`); only content ICSE carries that the taxonomy lacked at this level is minted.
+- These summary records are Marble-authored (CC BY-SA 4.0); the ICSE syllabus itself remains © CISCE. Obtain CISCE permission before shipping any verbatim syllabus text.
+
 ### 🟡 `ccss-ela`, `ccss-math` — Common Core State Standards — **full text**
 - **Publisher / rights:** © 2010 National Governors Association Center for Best Practices (NGA Center) and Council of Chief State School Officers (CCSSO).
 - **License:** the CCSS Public License grants *"a limited, non-exclusive, royalty-free license to copy, publish, distribute, and display the Common Core State Standards **for purposes that support the Common Core State Standards Initiative**."* This is **purpose-limited**, and it does **not** clearly grant derivative-work or sublicensing rights — so the CCSS-derived records remain under the CCSS Public License, **not** ODbL.

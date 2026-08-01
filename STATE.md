@@ -1,13 +1,34 @@
 # STATE
 
 Branch `indian-curriculum` (local only, no upstream PR).
-Last updated 2026-07-21.
+Last updated 2026-08-01.
 
 ## Where things stand
 
-2,495 topics · 4,404 edges · 4,253 standards · 345 clusters · 15 curriculum
+2,516 topics · 4,431 edges · 4,282 standards · 347 clusters · 16 curriculum
 sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
 All build scripts idempotent (re-run adds zero).
+
+**In progress (2026-08-01): integrating the CISCE ICSE + ISC syllabuses.** New
+source `icse` (Classes IX–X, 14–16) added, red tier (Marble factual
+descriptions, no CISCE text — see PROVENANCE). Shared board helper
+`scripts/build/cisce.mjs` serves both `icse` and the forthcoming `isc`
+(Classes XI–XII, 16–18). **ICSE Mathematics done** (`icse-mathematics.mjs`):
+29 standards, 22 aligned onto the existing 14–16 Maths ladder, 21 minted at idea
+grain (commercial-mathematics strand, logarithms/indices, 2×2 matrices, loci,
+equation of a line, reflection, and the proof-based geometry theorems). The
+user's priority is to work through the subjects that ALREADY exist as subjects
+first, preserving micro-topic granularity. Remaining ICSE existing-subject
+targets: Computer Applications→Computing, Economics, Commercial
+Studies→Business Studies, Physics/Chemistry/Biology/Environmental
+Science→Science, History&Civics→History+Political Science, Geography, Home
+Science, Art→Visual Arts, Performing Arts→Music/Dance, English. Then the ISC
+(XI–XII) pass onto the ncert-hsec ladders. ISC-only new subjects (AI, Robotics,
+Legal Studies, Entrepreneurship, Applied Maths, Engineering Science,
+Electricity & Electronics, Biotechnology) are deferred — they would each be a
+new subject, which the user deprioritised. Syllabus PDFs + clean text live in
+the session scratchpad (re-fetchable from cisce.org static URLs, which are not
+Cloudflare-gated even though the listing pages are).
 
 The NCERT ladder is complete end to end: `ncert-elem` (Classes I–VIII),
 `ncert-sec` (IX–X) and `ncert-hsec` (XI–XII). The XI–XII pass raised the age
@@ -33,13 +54,21 @@ idempotent.
 
 ## Single next step
 
-**Fill the Telugu, Kannada and Tamil language ladders from state-board syllabi.**
+**Continue the ICSE pass: integrate ICSE Computer Applications (→ Computing)
+next**, following `icse-mathematics.mjs` as the template. Computing has only 39
+topics and ICSE Class IX–X is Java OOP (classes, objects, constructors, arrays,
+string handling, encapsulation, iteration) — mostly new mints at 14–16 with a
+few alignments to the existing Computing ladder. Then work through the rest of
+the existing-subject ICSE targets listed above, then the ISC (XI–XII) pass onto
+the ncert-hsec ladders. Method: align-first (use the scratchpad `q.mjs` to find
+existing topics before minting), one idea per topic, red-tier descriptions.
 
-These are now the largest genuine content gap: Telugu has 5 topics, Kannada 6
-and Tamil 8, all derived from NIOS secondary rather than from a primary-language
-curriculum. NCERT does not publish syllabi for them, so this needs SCERT /
-state-board sources — Telangana or AP SCERT for Telugu, Karnataka DSERT for
-Kannada, Tamil Nadu SCERT for Tamil.
+Deferred (was the previous next step): **fill the Telugu, Kannada and Tamil
+language ladders from state-board syllabi** — the largest genuine *language*
+gap (Telugu 5, Kannada 6, Tamil 8 topics, all from NIOS). Needs SCERT sources
+(Telangana/AP SCERT, Karnataka DSERT, Tamil Nadu SCERT); NCERT publishes no
+syllabi for them. The ICSE Indian-Languages paper is a single shared exam
+format, not per-language curricula, so it does not fill this gap.
 
 Method is unchanged and is well proven by now: rights first (these are state
 government publications, so the licence needs checking per state and will not

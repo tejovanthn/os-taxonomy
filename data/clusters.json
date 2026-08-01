@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 345,
+  "clusterCount": 347,
   "clusters": [
     {
       "subject": "English",
@@ -2099,6 +2099,20 @@
       "ageRangeStart": 17,
       "ageRangeEnd": 18,
       "summary": "Class XII microeconomics builds one market from its parts. The consumer’s budget yields the demand curve and its elasticity; the producer’s costs yield the supply curve; equilibrium is where the two agree; and the market forms — from perfect competition to monopoly — decide who gets a say in the price."
+    },
+    {
+      "subject": "Mathematics",
+      "domain": "Commercial Mathematics",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "summary": "Commercial mathematics is where the arithmetic of school meets the arithmetic of money. In Class IX it is compound interest — the idea that interest left in an account itself earns interest, so a balance grows faster the longer it sits. The same formula, read differently, describes how a machine or a car loses value year on year. It rests entirely on percentages, applied over and over to a changing amount."
+    },
+    {
+      "subject": "Mathematics",
+      "domain": "Commercial Mathematics",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "Class X commercial mathematics is a set of real financial calculations: the Goods and Services Tax a shopper pays split into central and state shares, the interest a recurring bank deposit earns when each instalment is invested for a different length of time, and the income and return on money put into shares. Each is a percentage calculation dressed in the vocabulary of everyday finance, and each has an inverse case — working back from the taxed price or the maturity value to the figure you started with."
     }
   ]
 }

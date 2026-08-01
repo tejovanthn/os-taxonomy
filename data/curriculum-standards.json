@@ -6,7 +6,7 @@
     "ngss-k5",
     "ngss-ms"
   ],
-  "curriculumCount": 15,
+  "curriculumCount": 16,
   "curricula": [
     {
       "slug": "uk-nc-2013",
@@ -49137,6 +49137,337 @@
             "class": "XI–XII",
             "strand": "Sanskrit — Composition",
             "description": "Translation into Sanskrit with attention to karaka and agreement; letters including applications and letters of greeting; unseen passage comprehension; paragraph writing and picture description on contemporary themes."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "icse",
+      "country": "IN",
+      "name": "CISCE Indian Certificate of Secondary Education (ICSE), Classes IX–X",
+      "version": "2028",
+      "sourceUrl": "https://cisce.org/regulations-and-syllabuses-icse-2028/",
+      "textIncluded": true,
+      "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
+      "topicCount": 29,
+      "topics": [
+        {
+          "key": "icse:MAT9.1",
+          "code": "MAT9.1",
+          "data": {
+            "title": "Class IX Pure Arithmetic",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Pure Arithmetic",
+            "description": "Rational and irrational numbers as the real number system; surds and rationalisation of the denominator; representation on the number line; proofs of the irrationality of √2, √3, √5."
+          }
+        },
+        {
+          "key": "icse:MAT9.2",
+          "code": "MAT9.2",
+          "data": {
+            "title": "Class IX Commercial Mathematics — Compound Interest",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Commercial Mathematics — Compound Interest",
+            "description": "Compound interest as repeated simple interest on a growing principal; the amount formula; half-yearly compounding; rate of growth and depreciation."
+          }
+        },
+        {
+          "key": "icse:MAT9.3",
+          "code": "MAT9.3",
+          "data": {
+            "title": "Class IX Algebra — Expansions and Factorisation",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Algebra — Expansions and Factorisation",
+            "description": "Standard algebraic identities for squares and cubes; factorisation of the difference and sum of cubes and of quadratics by splitting the middle term."
+          }
+        },
+        {
+          "key": "icse:MAT9.4",
+          "code": "MAT9.4",
+          "data": {
+            "title": "Class IX Algebra — Simultaneous Linear Equations",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Algebra — Simultaneous Linear Equations",
+            "description": "Solving a pair of linear equations in two variables by elimination, substitution and cross-multiplication; framing equations from word problems."
+          }
+        },
+        {
+          "key": "icse:MAT9.5",
+          "code": "MAT9.5",
+          "data": {
+            "title": "Class IX Algebra — Indices and Logarithms",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Algebra — Indices and Logarithms",
+            "description": "Laws of exponents with positive, negative, fractional and zero indices; the logarithm as the inverse of exponentiation; the laws of logarithms and their use in expansion."
+          }
+        },
+        {
+          "key": "icse:MAT9.6",
+          "code": "MAT9.6",
+          "data": {
+            "title": "Class IX Geometry — Triangles",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Geometry — Triangles",
+            "description": "Congruence of triangles (SSS, SAS, AAS, RHS) and inequalities in a triangle; the mid-point theorem and its converse; Pythagoras theorem and its converse."
+          }
+        },
+        {
+          "key": "icse:MAT9.7",
+          "code": "MAT9.7",
+          "data": {
+            "title": "Class IX Geometry — Rectilinear Figures",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Geometry — Rectilinear Figures",
+            "description": "Theorems on the parallelogram and its special cases; construction of quadrilaterals and a regular hexagon; area theorems on parallelograms and triangles between the same parallels."
+          }
+        },
+        {
+          "key": "icse:MAT9.8",
+          "code": "MAT9.8",
+          "data": {
+            "title": "Class IX Geometry — Circle",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Geometry — Circle",
+            "description": "Chord properties of a circle — the perpendicular from the centre bisects a chord, equal chords are equidistant from the centre, and one circle through three non-collinear points."
+          }
+        },
+        {
+          "key": "icse:MAT9.9",
+          "code": "MAT9.9",
+          "data": {
+            "title": "Class IX Statistics",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Statistics",
+            "description": "Raw, arrayed and grouped data; tabulation and class intervals; mean and median of ungrouped data; the frequency polygon."
+          }
+        },
+        {
+          "key": "icse:MAT9.10",
+          "code": "MAT9.10",
+          "data": {
+            "title": "Class IX Mensuration",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Mensuration",
+            "description": "Area and perimeter of triangles (including Heron’s formula) and quadrilaterals; area and circumference of a circle; surface area and volume of a cube and cuboid."
+          }
+        },
+        {
+          "key": "icse:MAT9.11",
+          "code": "MAT9.11",
+          "data": {
+            "title": "Class IX Trigonometry",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Trigonometry",
+            "description": "Trigonometric ratios of an angle and their reciprocals; ratios of the standard angles; ratios of complementary angles and their use."
+          }
+        },
+        {
+          "key": "icse:MAT9.12",
+          "code": "MAT9.12",
+          "data": {
+            "title": "Class IX Coordinate Geometry",
+            "subject": "Mathematics (IX–X)",
+            "class": "IX",
+            "strand": "Coordinate Geometry",
+            "description": "The Cartesian plane and plotting of points; graphical solution of simultaneous linear equations; the distance between two points by the distance formula."
+          }
+        },
+        {
+          "key": "icse:MAT10.1",
+          "code": "MAT10.1",
+          "data": {
+            "title": "Class X Commercial Mathematics — GST",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Commercial Mathematics — GST",
+            "description": "Computation of Goods and Services Tax, including CGST and SGST, on transactions involving list price, discount, profit and loss, and the inverse cases."
+          }
+        },
+        {
+          "key": "icse:MAT10.2",
+          "code": "MAT10.2",
+          "data": {
+            "title": "Class X Commercial Mathematics — Banking",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Commercial Mathematics — Banking",
+            "description": "Recurring deposit accounts; computation of the interest and maturity value using the standard formulae."
+          }
+        },
+        {
+          "key": "icse:MAT10.3",
+          "code": "MAT10.3",
+          "data": {
+            "title": "Class X Commercial Mathematics — Shares and Dividends",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Commercial Mathematics — Shares and Dividends",
+            "description": "Nominal and market value, dividend and rate of dividend, premium; computing income and rate of return on an investment in shares."
+          }
+        },
+        {
+          "key": "icse:MAT10.4",
+          "code": "MAT10.4",
+          "data": {
+            "title": "Class X Algebra — Linear Inequations",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Algebra — Linear Inequations",
+            "description": "Linear inequations in one unknown over N, W, Z and R; solving algebraically, writing the solution in set notation and representing it on the number line."
+          }
+        },
+        {
+          "key": "icse:MAT10.5",
+          "code": "MAT10.5",
+          "data": {
+            "title": "Class X Algebra — Quadratic Equations",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Algebra — Quadratic Equations",
+            "description": "The nature of the roots of a quadratic from the discriminant; solving quadratic equations by factorisation and by formula; problems reducing to quadratics."
+          }
+        },
+        {
+          "key": "icse:MAT10.6",
+          "code": "MAT10.6",
+          "data": {
+            "title": "Class X Algebra — Ratio and Proportion",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Algebra — Ratio and Proportion",
+            "description": "Continued and mean proportion; the componendo, dividendo, alternendo and invertendo properties and their combinations."
+          }
+        },
+        {
+          "key": "icse:MAT10.7",
+          "code": "MAT10.7",
+          "data": {
+            "title": "Class X Algebra — Factorisation",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Algebra — Factorisation",
+            "description": "The remainder theorem and the factor theorem; factorising a polynomial of degree up to three after finding one factor."
+          }
+        },
+        {
+          "key": "icse:MAT10.8",
+          "code": "MAT10.8",
+          "data": {
+            "title": "Class X Algebra — Matrices",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Algebra — Matrices",
+            "description": "Order of a matrix; row, column, null and identity matrices; addition, subtraction and multiplication of 2×2 matrices and by a scalar."
+          }
+        },
+        {
+          "key": "icse:MAT10.9",
+          "code": "MAT10.9",
+          "data": {
+            "title": "Class X Algebra — Arithmetic and Geometric Progression",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Algebra — Arithmetic and Geometric Progression",
+            "description": "The general term and the sum of the first n terms of an arithmetic and a geometric progression, with simple applications."
+          }
+        },
+        {
+          "key": "icse:MAT10.10",
+          "code": "MAT10.10",
+          "data": {
+            "title": "Class X Algebra — Coordinate Geometry",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Algebra — Coordinate Geometry",
+            "description": "Reflection of a point in the axes and the origin and invariant points; the section and mid-point formulae; slope and the equation of a line in its various forms; conditions for parallel and perpendicular lines."
+          }
+        },
+        {
+          "key": "icse:MAT10.11",
+          "code": "MAT10.11",
+          "data": {
+            "title": "Class X Geometry — Similarity",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Geometry — Similarity",
+            "description": "Similar triangles and the conditions for similarity; the basic proportionality theorem; areas of similar triangles proportional to the squares of corresponding sides; applications to maps and models."
+          }
+        },
+        {
+          "key": "icse:MAT10.12",
+          "code": "MAT10.12",
+          "data": {
+            "title": "Class X Geometry — Loci",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Geometry — Loci",
+            "description": "The locus of a point as a path satisfying a condition; the loci equidistant from a point, from two points and from two intersecting lines; constructions based on loci."
+          }
+        },
+        {
+          "key": "icse:MAT10.13",
+          "code": "MAT10.13",
+          "data": {
+            "title": "Class X Geometry — Circles",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Geometry — Circles",
+            "description": "Angle properties (angle at the centre, angles in the same segment, angle in a semicircle); cyclic-quadrilateral properties; tangent and secant properties; construction of tangents and of the circumscribed and inscribed circle."
+          }
+        },
+        {
+          "key": "icse:MAT10.14",
+          "code": "MAT10.14",
+          "data": {
+            "title": "Class X Mensuration",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Mensuration",
+            "description": "Surface area and volume of the right circular cylinder, cone and sphere, including combinations of solids and melting-and-recasting problems."
+          }
+        },
+        {
+          "key": "icse:MAT10.15",
+          "code": "MAT10.15",
+          "data": {
+            "title": "Class X Trigonometry",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Trigonometry",
+            "description": "The trigonometric identities relating the ratios; solving 2-D problems on heights and distances using angles of elevation and depression."
+          }
+        },
+        {
+          "key": "icse:MAT10.16",
+          "code": "MAT10.16",
+          "data": {
+            "title": "Class X Statistics",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Statistics",
+            "description": "Mean, median and mode of grouped data; the histogram and the cumulative-frequency (ogive) curve; quartiles and the inter-quartile range."
+          }
+        },
+        {
+          "key": "icse:MAT10.17",
+          "code": "MAT10.17",
+          "data": {
+            "title": "Class X Probability",
+            "subject": "Mathematics (IX–X)",
+            "class": "X",
+            "strand": "Probability",
+            "description": "Random experiments, sample space and events; the definition of probability; simple problems on the probability of a single event."
           }
         }
       ]
