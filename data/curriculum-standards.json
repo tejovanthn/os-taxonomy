@@ -49149,7 +49149,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabuses-icse-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 59,
+      "topicCount": 68,
       "topics": [
         {
           "key": "icse:MAT9.1",
@@ -49798,6 +49798,105 @@
             "class": "X",
             "strand": "Consumer Awareness",
             "description": "Consumer exploitation and awareness; consumer rights and duties, COPRA and the Right to Information; food adulteration; and the measures protecting consumers."
+          }
+        },
+        {
+          "key": "icse:ART.P1",
+          "code": "ART.P1",
+          "data": {
+            "title": "Class IX–X Paper 1 — Drawing and Painting from Still Life",
+            "subject": "Art (IX–X)",
+            "class": "IX–X",
+            "strand": "Paper 1 — Drawing and Painting from Still Life",
+            "description": "Observational drawing and painting of a group of natural or made objects, judging their proportion, form, light and setting from direct view."
+          }
+        },
+        {
+          "key": "icse:ART.P2A",
+          "code": "ART.P2A",
+          "data": {
+            "title": "Class IX–X Paper 2A — Study of Natural Forms",
+            "subject": "Art (IX–X)",
+            "class": "IX–X",
+            "strand": "Paper 2A — Study of Natural Forms",
+            "description": "Drawing or painting a natural specimen — a spray, branch, flower or foliage — to reveal its structure and its growth."
+          }
+        },
+        {
+          "key": "icse:ART.P2B",
+          "code": "ART.P2B",
+          "data": {
+            "title": "Class IX–X Paper 2B — Direct Study of Nature Out of Doors",
+            "subject": "Art (IX–X)",
+            "class": "IX–X",
+            "strand": "Paper 2B — Direct Study of Nature Out of Doors",
+            "description": "Drawing or painting a landscape or outdoor subject from direct study of the scene itself."
+          }
+        },
+        {
+          "key": "icse:ART.P3",
+          "code": "ART.P3",
+          "data": {
+            "title": "Class IX–X Paper 3 — Original Imaginative Composition in Colour",
+            "subject": "Art (IX–X)",
+            "class": "IX–X",
+            "strand": "Paper 3 — Original Imaginative Composition in Colour",
+            "description": "Planning and carrying out an original picture in colour on a set theme, arranged from the imagination."
+          }
+        },
+        {
+          "key": "icse:ART.P4A",
+          "code": "ART.P4A",
+          "data": {
+            "title": "Class IX–X Paper 4A — Applied Design for a Purpose",
+            "subject": "Art (IX–X)",
+            "class": "IX–X",
+            "strand": "Paper 4A — Applied Design for a Purpose",
+            "description": "Designing a book page, cover, poster, card or emblem in flat paper, ink and colour to serve a stated purpose."
+          }
+        },
+        {
+          "key": "icse:ART.P4B",
+          "code": "ART.P4B",
+          "data": {
+            "title": "Class IX–X Paper 4B — Lettering and the Calligrapher’s Art",
+            "subject": "Art (IX–X)",
+            "class": "IX–X",
+            "strand": "Paper 4B — Lettering and the Calligrapher’s Art",
+            "description": "Pen-made or brush-written lettering, formed and spaced as part of an applied design."
+          }
+        },
+        {
+          "key": "icse:ART.P4C",
+          "code": "ART.P4C",
+          "data": {
+            "title": "Class IX–X Paper 4C — Patterned Paper",
+            "subject": "Art (IX–X)",
+            "class": "IX–X",
+            "strand": "Paper 4C — Patterned Paper",
+            "description": "Designing a repeating decorative pattern on flat paper for a stated purpose."
+          }
+        },
+        {
+          "key": "icse:ART.IA1",
+          "code": "ART.IA1",
+          "data": {
+            "title": "Class IX–X Internal — Two- and Three-Dimensional Craft",
+            "subject": "Art (IX–X)",
+            "class": "IX–X",
+            "strand": "Internal — Two- and Three-Dimensional Craft",
+            "description": "Practical work in modelling, sculpture, carving or relief in clay, plaster or other material."
+          }
+        },
+        {
+          "key": "icse:ART.IA2",
+          "code": "ART.IA2",
+          "data": {
+            "title": "Class IX–X Internal — Printmaking and Surface Craft",
+            "subject": "Art (IX–X)",
+            "class": "IX–X",
+            "strand": "Internal — Printmaking and Surface Craft",
+            "description": "Practical work in block, lino or wood printing, batik or tie-and-dye on paper or cloth."
           }
         }
       ]

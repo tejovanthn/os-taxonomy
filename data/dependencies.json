@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4466,
+  "edgeCount": 4492,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -26798,6 +26798,162 @@
       "prerequisiteId": "mt_UzhCaQfeun",
       "strength": "soft",
       "reason": "Fiscal and monetary policy are the two arms of macro management."
+    },
+    {
+      "topicId": "mt_nw1NP5vdxr",
+      "prerequisiteId": "mt_FP0zEhri05",
+      "strength": "hard",
+      "reason": "Still-life study is advanced drawing from observation."
+    },
+    {
+      "topicId": "mt_nw1NP5vdxr",
+      "prerequisiteId": "mt_XmqVVg2TQu",
+      "strength": "hard",
+      "reason": "It extends the earlier still-life composition to exam level."
+    },
+    {
+      "topicId": "mt_bMBUxa3ZqT",
+      "prerequisiteId": "mt_FP0zEhri05",
+      "strength": "hard",
+      "reason": "Tonal modelling refines the shading first met in drawing."
+    },
+    {
+      "topicId": "mt_bMBUxa3ZqT",
+      "prerequisiteId": "mt_reeZNBYG9Q",
+      "strength": "soft",
+      "reason": "Light and dark tone builds on the tonal gradation of colour."
+    },
+    {
+      "topicId": "mt_bMBUxa3ZqT",
+      "prerequisiteId": "mt_nw1NP5vdxr",
+      "strength": "soft",
+      "reason": "Modelling a form follows drawing it accurately."
+    },
+    {
+      "topicId": "mt_9dnb6Co9nH",
+      "prerequisiteId": "mt_FP0zEhri05",
+      "strength": "hard",
+      "reason": "Showing depth builds on drawing from observation."
+    },
+    {
+      "topicId": "mt_9dnb6Co9nH",
+      "prerequisiteId": "mt_AFH9ZAZxKC",
+      "strength": "soft",
+      "reason": "Linear perspective applies the geometric construction of lines and points."
+    },
+    {
+      "topicId": "mt_r1oJRyQV7V",
+      "prerequisiteId": "mt_FP0zEhri05",
+      "strength": "hard",
+      "reason": "Drawing natural structure is observational drawing of living forms."
+    },
+    {
+      "topicId": "mt_r1oJRyQV7V",
+      "prerequisiteId": "mt_nw1NP5vdxr",
+      "strength": "soft",
+      "reason": "Drawing from nature parallels drawing from still life."
+    },
+    {
+      "topicId": "mt_qax1om0RWq",
+      "prerequisiteId": "mt_XmqVVg2TQu",
+      "strength": "hard",
+      "reason": "Outdoor landscape extends the earlier landscape composition."
+    },
+    {
+      "topicId": "mt_qax1om0RWq",
+      "prerequisiteId": "mt_9dnb6Co9nH",
+      "strength": "soft",
+      "reason": "An outdoor scene relies on showing depth."
+    },
+    {
+      "topicId": "mt_qax1om0RWq",
+      "prerequisiteId": "mt_r1oJRyQV7V",
+      "strength": "soft",
+      "reason": "Landscape follows the study of single natural forms."
+    },
+    {
+      "topicId": "mt_jHUAFFKAoj",
+      "prerequisiteId": "mt_reeZNBYG9Q",
+      "strength": "hard",
+      "reason": "Colour schemes build on the colour wheel and warm and cool colours."
+    },
+    {
+      "topicId": "mt_jHUAFFKAoj",
+      "prerequisiteId": "mt_QGSOAeTyQt",
+      "strength": "soft",
+      "reason": "Harmony and contrast in colour apply the principles of composition."
+    },
+    {
+      "topicId": "mt_ifiEP7bFiW",
+      "prerequisiteId": "mt_QGSOAeTyQt",
+      "strength": "hard",
+      "reason": "Original composition applies the principles of composition."
+    },
+    {
+      "topicId": "mt_ifiEP7bFiW",
+      "prerequisiteId": "mt_jHUAFFKAoj",
+      "strength": "soft",
+      "reason": "The imaginative paper must be carried out in colour."
+    },
+    {
+      "topicId": "mt_HH1iGY2HH2",
+      "prerequisiteId": "mt_QGSOAeTyQt",
+      "strength": "hard",
+      "reason": "Laying out a poster or cover applies the principles of composition."
+    },
+    {
+      "topicId": "mt_HH1iGY2HH2",
+      "prerequisiteId": "mt_4szmk3N9Ps",
+      "strength": "soft",
+      "reason": "A poster or cover carries designed lettering."
+    },
+    {
+      "topicId": "mt_HH1iGY2HH2",
+      "prerequisiteId": "mt_jHUAFFKAoj",
+      "strength": "soft",
+      "reason": "Applied design uses colour for effect."
+    },
+    {
+      "topicId": "mt_4szmk3N9Ps",
+      "prerequisiteId": "mt_XG4yVv6uTE",
+      "strength": "soft",
+      "reason": "Lettering shapes the line, an element of art, into readable form."
+    },
+    {
+      "topicId": "mt_BOvhV3mfsx",
+      "prerequisiteId": "mt_XG4yVv6uTE",
+      "strength": "hard",
+      "reason": "A pattern is built from line, shape and colour, the elements of art."
+    },
+    {
+      "topicId": "mt_BOvhV3mfsx",
+      "prerequisiteId": "mt_QGSOAeTyQt",
+      "strength": "soft",
+      "reason": "Repeating a motif uses rhythm, a principle of composition."
+    },
+    {
+      "topicId": "mt_DGXoX2gluf",
+      "prerequisiteId": "mt_FP0zEhri05",
+      "strength": "soft",
+      "reason": "A print begins from a drawn design."
+    },
+    {
+      "topicId": "mt_DGXoX2gluf",
+      "prerequisiteId": "mt_BOvhV3mfsx",
+      "strength": "soft",
+      "reason": "Block printing repeats a designed motif as a pattern."
+    },
+    {
+      "topicId": "mt_T4DaenhQ7G",
+      "prerequisiteId": "mt_XG4yVv6uTE",
+      "strength": "soft",
+      "reason": "Form and space, elements of art, become literal in three dimensions."
+    },
+    {
+      "topicId": "mt_T4DaenhQ7G",
+      "prerequisiteId": "mt_nw1NP5vdxr",
+      "strength": "soft",
+      "reason": "Modelling a form builds on observing form in drawing."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 350,
+  "clusterCount": 354,
   "clusters": [
     {
       "subject": "English",
@@ -2134,6 +2134,34 @@
       "ageRangeStart": 15,
       "ageRangeEnd": 16,
       "summary": "The Class X half of ICSE Economics turns from what the economy is to how it is steered. Money and banking lead to the central bank’s monetary policy — the levers, from the cash reserve ratio to open-market operations, that expand or squeeze credit across the country. Public finance is the other arm: how the government taxes (directly, and through GST), spends and borrows. Inflation is the problem both are aimed at, a sustained rise in prices that quietly erodes a fixed income while it can lift a business one."
+    },
+    {
+      "subject": "Visual Arts",
+      "domain": "Drawing & Composition",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "summary": "At this stage drawing and painting become exam-grade skills. Your child learns to draw a group of objects from life with true proportion, to model form with light and shade, and to suggest depth and space through perspective. They study natural forms closely — a branch, a flower, some foliage — and work outdoors from the landscape itself, then bring it all together in an original picture planned around a set theme."
+    },
+    {
+      "subject": "Visual Arts",
+      "domain": "Elements & Principles",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "summary": "Colour work grows up here. Building on the colour wheel learned earlier, your child chooses and mixes colours that belong together — warm against cool, harmony against contrast — and uses them to give a picture a definite mood. This is the colour thinking behind the imaginative painting paper, where the whole effect rests on how the colours are handled."
+    },
+    {
+      "subject": "Visual Arts",
+      "domain": "Applied & Graphic Art",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "summary": "Applied art is design with a job to do. Your child learns to lay out a poster, book cover, card or emblem so that picture and words work together for a purpose, to form clear and well-shaped lettering by pen and brush, and to build a repeating decorative pattern from a single motif. Unlike a free painting, each of these is judged by how well it serves its purpose."
+    },
+    {
+      "subject": "Visual Arts",
+      "domain": "Craft & Media",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "summary": "Beyond pencil and paint, your child works by hand in other materials. They cut a design into a block and print it to repeat an image across paper or cloth, and they shape a form in three dimensions by modelling clay, carving, or building a relief. These crafts teach how a material behaves and how a form reads from every side."
     }
   ]
 }

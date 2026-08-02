@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2541,
+  "topicCount": 2553,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -51556,6 +51556,247 @@
       "assessmentPrompt": "Ask {{name}} why the same hundred rupees buys less this year than last, and who suffers most from that.",
       "standards": [
         "icse:ECO10.5"
+      ]
+    },
+    {
+      "id": "mt_nw1NP5vdxr",
+      "type": "PROCEDURAL",
+      "subject": "Visual Arts",
+      "domain": "Drawing & Composition",
+      "name": "Observational Drawing from Still Life",
+      "description": "Develop the skill of drawing or painting a group of objects from direct observation, judging their proportion, the relationships between them, and how they sit within their setting.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Draws a group of objects in correct proportion to one another",
+        "Shows each object sitting believably in its setting",
+        "Explains a choice made in arranging or viewing the group"
+      ],
+      "assessmentPrompt": "Can {{name}} draw a group of everyday objects from life so their sizes and positions look right?",
+      "standards": [
+        "icse:ART.P1"
+      ]
+    },
+    {
+      "id": "mt_bMBUxa3ZqT",
+      "type": "PROCEDURAL",
+      "subject": "Visual Arts",
+      "domain": "Drawing & Composition",
+      "name": "Light, Shade and Tonal Modelling",
+      "description": "Develop the skill of using shifts from light to dark to make a drawn or painted form look solid and rounded, showing where light falls and where shadow gathers.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Uses light and shade to make a rounded form look solid",
+        "Shows a consistent direction of light across a drawing",
+        "Places cast shadows correctly for the light source"
+      ],
+      "assessmentPrompt": "Can {{name}} shade a ball or a jug so it looks round and solid rather than flat?",
+      "standards": [
+        "icse:ART.P1"
+      ]
+    },
+    {
+      "id": "mt_9dnb6Co9nH",
+      "type": "CONCEPTUAL",
+      "subject": "Visual Arts",
+      "domain": "Drawing & Composition",
+      "name": "Perspective and Depth",
+      "description": "Understand that a flat picture can suggest depth by making distant things smaller and higher, and by letting parallel edges appear to meet, so the scene reads as three-dimensional space.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Draws distant objects smaller and closer objects larger",
+        "Shows parallel edges converging toward a point",
+        "Explains how overlap and placement suggest depth"
+      ],
+      "assessmentPrompt": "Can {{name}} draw a road or a row of objects so that it looks like it goes back into the distance?",
+      "standards": [
+        "icse:ART.P1",
+        "icse:ART.P2B"
+      ]
+    },
+    {
+      "id": "mt_r1oJRyQV7V",
+      "type": "PROCEDURAL",
+      "subject": "Visual Arts",
+      "domain": "Drawing & Composition",
+      "name": "Drawing the Structure of Natural Forms",
+      "description": "Develop the skill of studying a natural form — a spray, a branch, a flower or some foliage — and drawing it to reveal how it is built and how it grows.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Draws a plant form showing how its parts join and branch",
+        "Captures the way the form grows or spreads",
+        "Records accurate detail of leaf, petal or stem"
+      ],
+      "assessmentPrompt": "Can {{name}} draw a leafy branch or flower closely enough to show how it is put together?",
+      "standards": [
+        "icse:ART.P2A"
+      ]
+    },
+    {
+      "id": "mt_qax1om0RWq",
+      "type": "PROCEDURAL",
+      "subject": "Visual Arts",
+      "domain": "Drawing & Composition",
+      "name": "Landscape and Outdoor Study from Nature",
+      "description": "Develop the skill of drawing or painting an outdoor scene directly from what is in front of you, capturing the space, light and mood of a real place.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Paints or draws a landscape from direct observation outdoors",
+        "Shows depth and space in the scene",
+        "Conveys the light or mood of the place"
+      ],
+      "assessmentPrompt": "Can {{name}} sit outside and draw the scene in front of them, showing space and distance?",
+      "standards": [
+        "icse:ART.P2B"
+      ]
+    },
+    {
+      "id": "mt_ifiEP7bFiW",
+      "type": "REPRESENTATIONAL",
+      "subject": "Visual Arts",
+      "domain": "Drawing & Composition",
+      "name": "Original Imaginative Composition",
+      "description": "Develop the skill of inventing an original picture around a given theme, planning how figures and objects are arranged so the whole composition tells the idea clearly.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Invents an original composition from a set theme",
+        "Arranges figures and objects to carry the idea",
+        "Explains the choices behind the composition"
+      ],
+      "assessmentPrompt": "Can {{name}} make up an original picture on a theme, arranging it so it tells the story clearly?",
+      "standards": [
+        "icse:ART.P3"
+      ]
+    },
+    {
+      "id": "mt_jHUAFFKAoj",
+      "type": "PROCEDURAL",
+      "subject": "Visual Arts",
+      "domain": "Elements & Principles",
+      "name": "Colour Schemes and Harmony",
+      "description": "Develop the skill of choosing and mixing colours that work together — warm against cool, harmony against contrast — so a picture carries the mood and feeling the artist intends.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Builds a colour scheme from warm and cool colours",
+        "Uses harmony or contrast to set a mood",
+        "Mixes colours to get the tone the picture needs"
+      ],
+      "assessmentPrompt": "Can {{name}} pick and mix colours that go together to give a picture a particular mood?",
+      "standards": [
+        "icse:ART.P3"
+      ]
+    },
+    {
+      "id": "mt_HH1iGY2HH2",
+      "type": "PROCEDURAL",
+      "subject": "Visual Arts",
+      "domain": "Applied & Graphic Art",
+      "name": "Applied Art: Designing for a Purpose",
+      "description": "Develop the skill of designing a poster, book cover, card or emblem, arranging picture and text in flat colour so the design does the job it is meant for.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Designs a poster or cover for a stated purpose",
+        "Arranges picture and text into a balanced layout",
+        "Chooses colour and style to suit the message"
+      ],
+      "assessmentPrompt": "Can {{name}} design a poster or book cover that arranges the words and picture to suit its purpose?",
+      "standards": [
+        "icse:ART.P4A"
+      ]
+    },
+    {
+      "id": "mt_4szmk3N9Ps",
+      "type": "PROCEDURAL",
+      "subject": "Visual Arts",
+      "domain": "Applied & Graphic Art",
+      "name": "Lettering and Calligraphy",
+      "description": "Develop the skill of drawing or writing letters by pen and brush so they are clear, evenly spaced and well shaped, and use lettering as part of a design.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Forms letters that are clear and evenly spaced",
+        "Uses pen or brush to shape a lettering style",
+        "Fits lettering into a poster or page design"
+      ],
+      "assessmentPrompt": "Can {{name}} write or draw a title in neat, well-shaped letters that fit a design?",
+      "standards": [
+        "icse:ART.P4B"
+      ]
+    },
+    {
+      "id": "mt_BOvhV3mfsx",
+      "type": "REPRESENTATIONAL",
+      "subject": "Visual Arts",
+      "domain": "Applied & Graphic Art",
+      "name": "Decorative and Repeating Pattern",
+      "description": "Develop the skill of designing a repeating decorative pattern, turning a shape or natural form into a motif that tiles evenly across a surface for a chosen purpose.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Turns a shape or natural form into a repeating motif",
+        "Repeats the motif evenly across a surface",
+        "Suits the pattern to the purpose it is designed for"
+      ],
+      "assessmentPrompt": "Can {{name}} turn a simple shape into a pattern that repeats neatly across a page?",
+      "standards": [
+        "icse:ART.P4C"
+      ]
+    },
+    {
+      "id": "mt_DGXoX2gluf",
+      "type": "PROCEDURAL",
+      "subject": "Visual Arts",
+      "domain": "Craft & Media",
+      "name": "Printmaking from a Block",
+      "description": "Develop the skill of cutting a design into a block and printing it in ink, so one carved image can be repeated cleanly many times across paper or cloth.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Cuts a simple design into a printing block",
+        "Prints the block cleanly and evenly",
+        "Repeats the print to make a pattern"
+      ],
+      "assessmentPrompt": "Can {{name}} carve a simple block and print it to repeat an image across paper?",
+      "standards": [
+        "icse:ART.IA2"
+      ]
+    },
+    {
+      "id": "mt_T4DaenhQ7G",
+      "type": "PROCEDURAL",
+      "subject": "Visual Arts",
+      "domain": "Craft & Media",
+      "name": "Working in Three Dimensions",
+      "description": "Develop the skill of shaping a form in three dimensions — modelling clay, carving, or building a relief — so it can be seen and understood from more than one side.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Models or carves a form that works from every side",
+        "Handles the material to build up or cut away shape",
+        "Shows surface and form in three dimensions"
+      ],
+      "assessmentPrompt": "Can {{name}} model or carve a shape that looks right from every side, not just the front?",
+      "standards": [
+        "icse:ART.IA1"
       ]
     }
   ]

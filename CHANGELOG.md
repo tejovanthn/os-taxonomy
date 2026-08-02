@@ -8,6 +8,24 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ICSE Art integrated — Visual Arts leaves island status (2026-08-01)
+- Visual Arts was a small island of 8 introductory topics, none past age 15.
+  ICSE Art is a two-year practical course (four exam papers plus internal
+  craft), so this is mint-only: 9 standards, 12 new topics all spanning ages
+  14–16 — observational still-life drawing, tonal modelling, perspective,
+  drawing natural forms, outdoor landscape study, original composition, colour
+  schemes, applied graphic design, lettering, decorative pattern, printmaking
+  and three-dimensional work. Two new domains (Applied & Graphic Art, Craft &
+  Media) join the existing Drawing & Composition and Elements & Principles.
+- Each new topic anchors to an existing Visual Arts topic; **perspective bridges
+  across to Mathematics / Geometric Constructions** (linear perspective as
+  applied geometry), which — with the pre-existing Pioneers of Modern Indian Art
+  → Indian Painting link — pulls Visual Arts into the main graph component. The
+  count of topics outside the main component fell from 10 to 4.
+- No bundlers/orphans; idempotent. 2,553 topics / 4,492 edges / 354 clusters;
+  validate green. (Drafted by a subagent, then verified: all anchor ids checked,
+  grain and fields audited, before running.)
+
 ### ICSE Economics integrated (2026-08-01)
 - Align-heavy: 12 standards, 15 aligning onto the existing 14–16 Economics
   ladder (introduction, types of economies, scarcity, the sector overview,
