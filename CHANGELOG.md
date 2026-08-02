@@ -8,6 +8,27 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ICSE Home Science integrated — the island connects (2026-08-01)
+- Home Science was a 9-topic island. ICSE Home Science covers all five streams
+  across two years, so this pass adds 24 standards, 4 aligned to existing topics
+  (concept and scope, meal planning, food safety, clothing selection) and 26
+  minted at idea grain — food functions, cookery terms, herb/spice benefits,
+  nutrient classification and deficiency diseases, developmental milestones, play,
+  immunisation, colour/lighting/energy/waste in the home, textile fibres and
+  fabric construction, the communication process and interpersonal skills, then
+  the family budget, kitchen planning, furnishing, middle-childhood development,
+  learning difficulties, food storage, laundering, development terminology,
+  welfare schemes and communication aids. Two new domains (Home Management,
+  Communication & Extension).
+- Crucially, the new topics anchor across to the main graph — Science (nutrition,
+  immunity, waste, fibres), Visual Arts (colour), PSD (communication), Life
+  Skills (financial planning) and Social Studies (development schemes) — so Home
+  Science stops being an island. Topics outside the main component fell from 4 to
+  2 (only Kannada and Dance singletons remain). No bundlers/orphans; idempotent.
+  2,579 topics / 4,528 edges / 363 clusters; validate green. (Drafted by a
+  subagent, then verified: all 20 anchor ids checked for identity, grain and
+  fields audited, before running.)
+
 ### ICSE Art integrated — Visual Arts leaves island status (2026-08-01)
 - Visual Arts was a small island of 8 introductory topics, none past age 15.
   ICSE Art is a two-year practical course (four exam papers plus internal

@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 354,
+  "clusterCount": 363,
   "clusters": [
     {
       "subject": "English",
@@ -2162,6 +2162,69 @@
       "ageRangeStart": 14,
       "ageRangeEnd": 16,
       "summary": "Beyond pencil and paint, your child works by hand in other materials. They cut a design into a block and print it to repeat an image across paper or cloth, and they shape a form in three dimensions by modelling clay, carving, or building a relief. These crafts teach how a material behaves and how a form reads from every side."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Human Development",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "summary": "Class IX follows a child through the first five years. The learner separates growth, which is getting bigger, from development, which is gaining skill, and meets the milestones that mark when each new ability is expected — in movement, language, feeling and thought. Play is seen as the main way a small child grows, and the stream closes with the common diseases of early childhood and the vaccines that guard against them."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Human Development",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "Class X moves on to middle childhood, the years from six to twelve. Body, mind and feeling develop together in this gang age, shaped now as much by friends and school as by family. The stream also looks at specific learning difficulties — dyslexia, dysgraphia, dyscalculia and ADHD — teaching their signs and, just as important, how family, teachers and classmates can accept and support a child who has one."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Home Management",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "summary": "This is Home Science turning to the home itself. In Class IX the learner looks at how a home is made to work and to please: colour and the way hue, value and intensity set the mood of a room; lighting matched to what each room is for; and the daily care of the place — saving cooking gas, water and power, and sorting waste so that less is thrown away. Each idea is practical and can be tried out in the learner’s own home."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Home Management",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "Class X carries home management into the kitchen and the furnishings. The kitchen is planned around a work triangle joining the places for preparing, cooking and washing, so that its layout saves the cook time and steps; the modular kitchen is the same idea taken further. Home furnishing — curtains, floor coverings and upholstery — is then chosen to balance how a room looks against how it is used."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Communication & Extension",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "summary": "Communication is the fifth stream of Home Science, and Class IX starts with how it works. A message passes from a sender through some medium to a receiver, who answers back with feedback; the message only lands when each part plays its role. From there the learner meets interpersonal communication — the give and take between people — and the four skills it rests on: listening, speaking, reading and writing, all of which improve with practice."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Communication & Extension",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "Class X puts communication to work on social concerns. First comes the language of development — terms such as gender discrimination, women’s empowerment, child labour and the poverty line — and a set of Indian government schemes, each known by what it gives and whom it is meant to reach. Then come the aids that carry these messages to a community: posters, pamphlets, puppet shows and street plays, chosen to suit the concern at hand."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Food & Nutrition",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "Class X food work turns from what to eat to how to keep it. Foods are sorted by how quickly they spoil — perishable, semi-perishable and non-perishable — each needing its own kind of storage to stay safe, and the convenience foods that save time are weighed for their good and bad points. This sits alongside the meal planning and food safety the learner already knows."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Textiles & Clothing",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "Class X textiles is about care. Having met fibres and fabrics, the learner now launders them: cotton, silk, wool and synthetics each need their own washing method, gentler for wool and silk than for cotton, and detergents, soap, starch, blue and brighteners each have their job in getting cloth clean and finished well."
+    },
+    {
+      "subject": "Home Science",
+      "domain": "Resource Management",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "Class X opens with the family budget — a plan that matches what a household earns against what it spends. A budget may run to a surplus, balance, or fall into deficit, and its shape depends on the size and circumstances of the family. The learner follows the steps of drawing one up and sees why saving is built in rather than left to chance."
     }
   ]
 }

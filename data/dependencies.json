@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4492,
+  "edgeCount": 4528,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -26954,6 +26954,222 @@
       "prerequisiteId": "mt_nw1NP5vdxr",
       "strength": "soft",
       "reason": "Modelling a form builds on observing form in drawing."
+    },
+    {
+      "topicId": "mt_2OnbhZ02fK",
+      "prerequisiteId": "mt_QhLAeAlHI0",
+      "strength": "soft",
+      "reason": "Builds on the primary-school idea of a balanced diet and food groups."
+    },
+    {
+      "topicId": "mt_0hJPBXS3nE",
+      "prerequisiteId": "mt_sDmrVCfzqt",
+      "strength": "hard",
+      "reason": "Grouping nutrients by function extends the science topic on nutrients in a healthy diet."
+    },
+    {
+      "topicId": "mt_fA4uM3f9IX",
+      "prerequisiteId": "mt_NZHFcEtTyI",
+      "strength": "hard",
+      "reason": "Deficiency diseases are the diet imbalance already met in science."
+    },
+    {
+      "topicId": "mt_OrQmx2SuTo",
+      "prerequisiteId": "mt_LkOMijDvL7",
+      "strength": "hard",
+      "reason": "Applies the science of immunity and vaccines to young children."
+    },
+    {
+      "topicId": "mt_BXXo6aACXZ",
+      "prerequisiteId": "mt_reeZNBYG9Q",
+      "strength": "hard",
+      "reason": "Colour in the home builds on the visual-arts study of colour."
+    },
+    {
+      "topicId": "mt_PWH2Kou0mK",
+      "prerequisiteId": "mt_0e5rZxbAeR",
+      "strength": "hard",
+      "reason": "Saving fuel and power at home applies the idea of finite resources and recycling."
+    },
+    {
+      "topicId": "mt_jEf8acd2fO",
+      "prerequisiteId": "mt_MqjZhvyWVa",
+      "strength": "hard",
+      "reason": "Household waste sorting builds on the science of waste and its management."
+    },
+    {
+      "topicId": "mt_pE3Mruczmm",
+      "prerequisiteId": "mt_bKvMdYmfbn",
+      "strength": "hard",
+      "reason": "Fibre properties build on the primary-school topic on fibres and fabrics."
+    },
+    {
+      "topicId": "mt_9PClrcGdFl",
+      "prerequisiteId": "mt_Ag9NSWJu-X",
+      "strength": "soft",
+      "reason": "Extends the communication vocabulary met in personal and social development."
+    },
+    {
+      "topicId": "mt_dUhO5xkNFI",
+      "prerequisiteId": "mt_rqLMfiw61L",
+      "strength": "soft",
+      "reason": "Interpersonal skills build on assertive communication from personal and social development."
+    },
+    {
+      "topicId": "mt_HOsxUF6vXz",
+      "prerequisiteId": "mt_r1hw-KenpK",
+      "strength": "hard",
+      "reason": "A family budget applies the life-skills idea of financial planning."
+    },
+    {
+      "topicId": "mt_7SOBYG352x",
+      "prerequisiteId": "mt_2oswCNuapH",
+      "strength": "soft",
+      "reason": "Accepting a child with a learning difficulty draws on understanding individual differences."
+    },
+    {
+      "topicId": "mt_G5Ao7K8V96",
+      "prerequisiteId": "mt_BlcpwdLsRX",
+      "strength": "soft",
+      "reason": "Development terms build on the social-studies topic on gender equality and reform."
+    },
+    {
+      "topicId": "mt_3EgBdDbaJ3",
+      "prerequisiteId": "mt_t1uflyWbd1",
+      "strength": "hard",
+      "reason": "These are the national development schemes already introduced in social studies."
+    },
+    {
+      "topicId": "mt_uWgNCbC6Hy",
+      "prerequisiteId": "mt_aetv4BzDOo",
+      "strength": "hard",
+      "reason": "Milestones make the general growth-and-development topic precise."
+    },
+    {
+      "topicId": "mt_HOsxUF6vXz",
+      "prerequisiteId": "mt_CYEyqYYkNn",
+      "strength": "hard",
+      "reason": "The family budget is part of managing family resources."
+    },
+    {
+      "topicId": "mt_qHXDrT5kAV",
+      "prerequisiteId": "mt_H3f0rwBuKf",
+      "strength": "hard",
+      "reason": "Storing food by perishability extends food safety and preservation."
+    },
+    {
+      "topicId": "mt_UvIS8d6BmT",
+      "prerequisiteId": "mt_KN6c2I9QuB",
+      "strength": "soft",
+      "reason": "Laundering is part of the care of clothing."
+    },
+    {
+      "topicId": "mt_VNIU1qwWhM",
+      "prerequisiteId": "mt_2OnbhZ02fK",
+      "strength": "soft",
+      "reason": "Cookery terms come with learning what food is and how it is prepared."
+    },
+    {
+      "topicId": "mt_DSN7HMbTZR",
+      "prerequisiteId": "mt_2OnbhZ02fK",
+      "strength": "soft",
+      "reason": "The health value of spices sits within the functions of food."
+    },
+    {
+      "topicId": "mt_0hJPBXS3nE",
+      "prerequisiteId": "mt_2OnbhZ02fK",
+      "strength": "hard",
+      "reason": "Nutrients are what makes food do its work."
+    },
+    {
+      "topicId": "mt_fA4uM3f9IX",
+      "prerequisiteId": "mt_0hJPBXS3nE",
+      "strength": "hard",
+      "reason": "A deficiency disease follows from missing a nutrient group."
+    },
+    {
+      "topicId": "mt_ZdgKaFiP82",
+      "prerequisiteId": "mt_uWgNCbC6Hy",
+      "strength": "hard",
+      "reason": "Play is how a child reaches its early milestones."
+    },
+    {
+      "topicId": "mt_OrQmx2SuTo",
+      "prerequisiteId": "mt_uWgNCbC6Hy",
+      "strength": "soft",
+      "reason": "Guarding a child’s health is part of caring for early development."
+    },
+    {
+      "topicId": "mt_EefUn9qyt8",
+      "prerequisiteId": "mt_BXXo6aACXZ",
+      "strength": "soft",
+      "reason": "Lighting and colour are chosen together for a room."
+    },
+    {
+      "topicId": "mt_PWH2Kou0mK",
+      "prerequisiteId": "mt_EefUn9qyt8",
+      "strength": "soft",
+      "reason": "Lighting choices are one place a home saves or wastes energy."
+    },
+    {
+      "topicId": "mt_hdqEjg9ipG",
+      "prerequisiteId": "mt_pE3Mruczmm",
+      "strength": "hard",
+      "reason": "Fabric is built from the fibres and yarn met first."
+    },
+    {
+      "topicId": "mt_dUhO5xkNFI",
+      "prerequisiteId": "mt_9PClrcGdFl",
+      "strength": "hard",
+      "reason": "Talking with people applies the communication process."
+    },
+    {
+      "topicId": "mt_47W38VdW8U",
+      "prerequisiteId": "mt_PWH2Kou0mK",
+      "strength": "soft",
+      "reason": "A well-planned kitchen saves the time and energy just studied."
+    },
+    {
+      "topicId": "mt_tFe21rDbyb",
+      "prerequisiteId": "mt_BXXo6aACXZ",
+      "strength": "hard",
+      "reason": "Choosing furnishings rests on the study of colour in the home."
+    },
+    {
+      "topicId": "mt_ny9G94119a",
+      "prerequisiteId": "mt_uWgNCbC6Hy",
+      "strength": "hard",
+      "reason": "Middle childhood follows the early-childhood milestones."
+    },
+    {
+      "topicId": "mt_7SOBYG352x",
+      "prerequisiteId": "mt_ny9G94119a",
+      "strength": "hard",
+      "reason": "Learning difficulties show up in the school years of middle childhood."
+    },
+    {
+      "topicId": "mt_UvIS8d6BmT",
+      "prerequisiteId": "mt_pE3Mruczmm",
+      "strength": "hard",
+      "reason": "How a fabric is washed depends on its fibre."
+    },
+    {
+      "topicId": "mt_3EgBdDbaJ3",
+      "prerequisiteId": "mt_G5Ao7K8V96",
+      "strength": "soft",
+      "reason": "The schemes answer the social problems the terms name."
+    },
+    {
+      "topicId": "mt_q6ZDdUuCWE",
+      "prerequisiteId": "mt_9PClrcGdFl",
+      "strength": "hard",
+      "reason": "A communication aid is a medium in the communication process."
+    },
+    {
+      "topicId": "mt_q6ZDdUuCWE",
+      "prerequisiteId": "mt_dUhO5xkNFI",
+      "strength": "soft",
+      "reason": "Using aids well draws on communication skills."
     }
   ]
 }

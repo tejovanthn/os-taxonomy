@@ -49149,7 +49149,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabuses-icse-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 68,
+      "topicCount": 92,
       "topics": [
         {
           "key": "icse:MAT9.1",
@@ -49897,6 +49897,270 @@
             "class": "IX–X",
             "strand": "Internal — Printmaking and Surface Craft",
             "description": "Practical work in block, lino or wood printing, batik or tie-and-dye on paper or cloth."
+          }
+        },
+        {
+          "key": "icse:HSC9.1",
+          "code": "HSC9.1",
+          "data": {
+            "title": "Class IX Concept and Scope of Home Science",
+            "subject": "Home Science (IX–X)",
+            "class": "IX",
+            "strand": "Concept and Scope of Home Science",
+            "description": "Home Science as an applied field built from five streams — foods and nutrition, resource management, human development, textiles and clothing, and communication and extension — and its value as a many-sided subject for everyday life."
+          }
+        },
+        {
+          "key": "icse:HSC9.2",
+          "code": "HSC9.2",
+          "data": {
+            "title": "Class IX Food and Health",
+            "subject": "Home Science (IX–X)",
+            "class": "IX",
+            "strand": "Food and Health",
+            "description": "The meaning of food, nutrient, nutrition, balanced diet, health and malnutrition; the physiological, psychological and social functions of food; common cookery terms; and the health benefits of everyday herbs and spices."
+          }
+        },
+        {
+          "key": "icse:HSC9.3",
+          "code": "HSC9.3",
+          "data": {
+            "title": "Class IX Nutrients and Deficiency Diseases",
+            "subject": "Home Science (IX–X)",
+            "class": "IX",
+            "strand": "Nutrients and Deficiency Diseases",
+            "description": "Nutrients grouped by function — energy-giving, body-building, protective and regulatory — the foods that supply them, and the deficiency diseases a lasting shortage of each brings."
+          }
+        },
+        {
+          "key": "icse:HSC9.4",
+          "code": "HSC9.4",
+          "data": {
+            "title": "Class IX Growth and Development of Children (0–5)",
+            "subject": "Home Science (IX–X)",
+            "class": "IX",
+            "strand": "Growth and Development of Children (0–5)",
+            "description": "The difference between growth and development, the principles of development, and the physical, motor, social, emotional, cognitive and language milestones from birth to five years."
+          }
+        },
+        {
+          "key": "icse:HSC9.5",
+          "code": "HSC9.5",
+          "data": {
+            "title": "Class IX Play in Early Childhood",
+            "subject": "Home Science (IX–X)",
+            "class": "IX",
+            "strand": "Play in Early Childhood",
+            "description": "The place of play in a young child’s all-round growth, the choice of indoor and outdoor play and materials, the types of play, and the kinds of play-school."
+          }
+        },
+        {
+          "key": "icse:HSC9.6",
+          "code": "HSC9.6",
+          "data": {
+            "title": "Class IX Childhood Diseases and Immunisation",
+            "subject": "Home Science (IX–X)",
+            "class": "IX",
+            "strand": "Childhood Diseases and Immunisation",
+            "description": "The common diseases of early childhood and their vaccines, and the meaning and importance of immunisation in protecting a child."
+          }
+        },
+        {
+          "key": "icse:HSC9.7",
+          "code": "HSC9.7",
+          "data": {
+            "title": "Class IX Colour in the Home",
+            "subject": "Home Science (IX–X)",
+            "class": "IX",
+            "strand": "Colour in the Home",
+            "description": "The three dimensions of colour — hue, value and intensity — the colour wheel, and related and contrasting colour schemes applied to the rooms of a home."
+          }
+        },
+        {
+          "key": "icse:HSC9.8",
+          "code": "HSC9.8",
+          "data": {
+            "title": "Class IX Lighting in the Home",
+            "subject": "Home Science (IX–X)",
+            "class": "IX",
+            "strand": "Lighting in the Home",
+            "description": "Types of lighting — general and task, direct and indirect — natural and artificial sources of light, and matching lighting to the use of each room."
+          }
+        },
+        {
+          "key": "icse:HSC9.9",
+          "code": "HSC9.9",
+          "data": {
+            "title": "Class IX Fuel and Energy in the Home",
+            "subject": "Home Science (IX–X)",
+            "class": "IX",
+            "strand": "Fuel and Energy in the Home",
+            "description": "The need to conserve cooking gas, water and electricity in the home, and everyday methods for using fuel and energy sparingly."
+          }
+        },
+        {
+          "key": "icse:HSC9.10",
+          "code": "HSC9.10",
+          "data": {
+            "title": "Class IX Sanitation and Waste Management",
+            "subject": "Home Science (IX–X)",
+            "class": "IX",
+            "strand": "Sanitation and Waste Management",
+            "description": "The role of sanitation and hygiene in and around the home; biodegradable and non-biodegradable waste; the value of segregating waste; and the five Rs of conservation."
+          }
+        },
+        {
+          "key": "icse:HSC9.11",
+          "code": "HSC9.11",
+          "data": {
+            "title": "Class IX Textile Fibres",
+            "subject": "Home Science (IX–X)",
+            "class": "IX",
+            "strand": "Textile Fibres",
+            "description": "The meaning and classification of fibres — natural, man-made and synthetic — the origin, properties and uses of the main fibres, and the burning and microscope tests that identify them."
+          }
+        },
+        {
+          "key": "icse:HSC9.12",
+          "code": "HSC9.12",
+          "data": {
+            "title": "Class IX Fabric Construction",
+            "subject": "Home Science (IX–X)",
+            "class": "IX",
+            "strand": "Fabric Construction",
+            "description": "How yarn becomes cloth — the terms yarn, warp, weft and selvedge; woven fabrics and their weaves; and non-woven and knitted construction with their end uses."
+          }
+        },
+        {
+          "key": "icse:HSC9.13",
+          "code": "HSC9.13",
+          "data": {
+            "title": "Class IX Communication and Extension",
+            "subject": "Home Science (IX–X)",
+            "class": "IX",
+            "strand": "Communication and Extension",
+            "description": "The meaning, functions and importance of communication; its elements — sender, message, medium, receiver and feedback; and interpersonal communication through listening, speaking, reading and writing."
+          }
+        },
+        {
+          "key": "icse:HSC10.1",
+          "code": "HSC10.1",
+          "data": {
+            "title": "Class X Household Finances",
+            "subject": "Home Science (IX–X)",
+            "class": "X",
+            "strand": "Household Finances",
+            "description": "The idea and importance of a family budget, its surplus, balanced and deficit types, the factors shaping it, the steps in drawing one up, and the importance of saving."
+          }
+        },
+        {
+          "key": "icse:HSC10.2",
+          "code": "HSC10.2",
+          "data": {
+            "title": "Class X Kitchen Space Organisation",
+            "subject": "Home Science (IX–X)",
+            "class": "X",
+            "strand": "Kitchen Space Organisation",
+            "description": "The marks of a good kitchen and its layouts — one-walled, corridor, L-shaped, U-shaped and island — the work triangle of preparation, cooking and washing, and the modular kitchen."
+          }
+        },
+        {
+          "key": "icse:HSC10.3",
+          "code": "HSC10.3",
+          "data": {
+            "title": "Class X Home Furnishing",
+            "subject": "Home Science (IX–X)",
+            "class": "X",
+            "strand": "Home Furnishing",
+            "description": "The meaning and aims of home furnishing — beauty, expressiveness and function — and the factors guiding the choice of curtains, floor coverings and upholstery."
+          }
+        },
+        {
+          "key": "icse:HSC10.4",
+          "code": "HSC10.4",
+          "data": {
+            "title": "Class X Growth and Development in Middle Childhood",
+            "subject": "Home Science (IX–X)",
+            "class": "X",
+            "strand": "Growth and Development in Middle Childhood",
+            "description": "The gang age of six to twelve years and its physical, social, emotional, cognitive and language development, and the part played by family, peer group and school."
+          }
+        },
+        {
+          "key": "icse:HSC10.5",
+          "code": "HSC10.5",
+          "data": {
+            "title": "Class X Learning Difficulties",
+            "subject": "Home Science (IX–X)",
+            "class": "X",
+            "strand": "Learning Difficulties",
+            "description": "The meaning of a learning difficulty; the signs of dyslexia, dysgraphia, dyscalculia and ADHD; and the role of family, school and peers in accepting and supporting affected children."
+          }
+        },
+        {
+          "key": "icse:HSC10.6",
+          "code": "HSC10.6",
+          "data": {
+            "title": "Class X Meal Planning",
+            "subject": "Home Science (IX–X)",
+            "class": "X",
+            "strand": "Meal Planning",
+            "description": "The five basic food groups and their contribution to the diet, and the meaning, principles, importance and shaping factors of planning meals for a family."
+          }
+        },
+        {
+          "key": "icse:HSC10.7",
+          "code": "HSC10.7",
+          "data": {
+            "title": "Class X Food Hygiene and Storage",
+            "subject": "Home Science (IX–X)",
+            "class": "X",
+            "strand": "Food Hygiene and Storage",
+            "description": "Food hygiene in buying, storing, preparing and serving; personal hygiene and kitchen safety; the storage of perishable, semi-perishable and non-perishable foods; convenience foods; and household preservation methods."
+          }
+        },
+        {
+          "key": "icse:HSC10.8",
+          "code": "HSC10.8",
+          "data": {
+            "title": "Class X Selection of Textiles and Garments",
+            "subject": "Home Science (IX–X)",
+            "class": "X",
+            "strand": "Selection of Textiles and Garments",
+            "description": "The factors guiding the choice of fabric — age, occupation, season, occasion and purchasing power — and of readymade garments — fit, colour, workmanship, cost and upkeep."
+          }
+        },
+        {
+          "key": "icse:HSC10.9",
+          "code": "HSC10.9",
+          "data": {
+            "title": "Class X Laundering of Clothes",
+            "subject": "Home Science (IX–X)",
+            "class": "X",
+            "strand": "Laundering of Clothes",
+            "description": "Household methods for laundering cotton, silk, wool and synthetics, and the use of detergents, soaps, starch, blue and optical brighteners."
+          }
+        },
+        {
+          "key": "icse:HSC10.10",
+          "code": "HSC10.10",
+          "data": {
+            "title": "Class X Development Terminology and Schemes",
+            "subject": "Home Science (IX–X)",
+            "class": "X",
+            "strand": "Development Terminology and Schemes",
+            "description": "The meaning of terms used in development — from gender discrimination and women’s empowerment to the poverty line and carbon footprint — and the aim and target group of major Indian welfare schemes."
+          }
+        },
+        {
+          "key": "icse:HSC10.11",
+          "code": "HSC10.11",
+          "data": {
+            "title": "Class X Communication Aids",
+            "subject": "Home Science (IX–X)",
+            "class": "X",
+            "strand": "Communication Aids",
+            "description": "The meaning and use of communication aids — posters, brochures, pamphlets, puppet shows and street plays — for addressing social concerns."
           }
         }
       ]

@@ -5,32 +5,34 @@ Last updated 2026-08-01.
 
 ## Where things stand
 
-2,553 topics · 4,492 edges · 4,321 standards · 354 clusters · 16 curriculum
+2,579 topics · 4,528 edges · 4,345 standards · 363 clusters · 16 curriculum
 sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
-All build scripts idempotent (re-run adds zero).
+All build scripts idempotent (re-run adds zero). Only two topics now sit outside
+the main graph component (the Kannada and Dance singletons); the Visual Arts and
+Home Science islands were connected by the ICSE Art and Home Science passes.
 
 **In progress (2026-08-01): integrating the CISCE ICSE + ISC syllabuses.** New
 source `icse` (Classes IX–X, 14–16) added, red tier (Marble factual
 descriptions, no CISCE text — see PROVENANCE). Shared board helper
 `scripts/build/cisce.mjs` serves both `icse` and the forthcoming `isc`
-(Classes XI–XII, 16–18). **ICSE done so far (4 subjects, committed): Mathematics,
-Computer Applications, Economics, Art.** Mathematics (`icse-mathematics.mjs`): 29
-standards, 22 aligned, 21 minted. Computer Applications
-(`icse-computer-applications.mjs`): 18 standards, 17 minted — a new
+(Classes XI–XII, 16–18). **ICSE done so far (5 subjects, committed): Mathematics,
+Computer Applications, Economics, Art, Home Science.** Mathematics
+(`icse-mathematics.mjs`): 29 standards, 22 aligned, 21 minted. Computer
+Applications (`icse-computer-applications.mjs`): 18 standards, 17 minted — a new
 **Programming** domain under Computing (Java OOP). Economics (`icse-economics.mjs`):
 12 standards, 15 aligned, 8 minted. Art (`icse-art.mjs`): 9 standards, 12 minted —
-grew Visual Arts 8→20 and pulled it out of island status via a perspective →
-Mathematics/Geometric-Constructions bridge (topics outside the main component
-fell 10→4). The user's priority is to work through the subjects that ALREADY
-exist as subjects first, preserving micro-topic granularity.
+grew Visual Arts 8→20, out of island status. Home Science (`icse-home-science.mjs`):
+24 standards, 4 aligned, 26 minted — grew Home Science 9→35, out of island status
+via cross-links to Science/Visual Arts/PSD/Life Skills/Social Studies. Art and
+Home Science were drafted by subagents and then fully verified before running.
+The user's priority is to work through the subjects that ALREADY exist as
+subjects first, preserving micro-topic granularity.
 
-**Next up (was in progress): Commercial Studies→Business Studies and Home
-Science.** Both were dispatched to subagents on 2026-08-01 but the agents hit the
-account session limit and FAILED before writing their files — no drafts exist, do
-these directly. Their research notes: Commercial Studies has reverse-anchor
-senior topics to link; Home Science's existing 9 topics already prerequisite
-main-graph Science/Life Skills topics and every ICSE strand had a strong anchor
-candidate. Then: Physics/Chemistry/Biology/Environmental Science→Science,
+**Next up: Commercial Studies→Business Studies (+ some Accountancy).** It was
+dispatched to a subagent on 2026-08-01 but that agent hit the account session
+limit and FAILED before writing its file — no draft exists, do it directly
+(research note it left: there are reverse-anchor senior Business Studies topics
+to link down to). Then: Physics/Chemistry/Biology/Environmental Science→Science,
 History&Civics→History+Political Science, Geography, Performing Arts→Music/Dance,
 English — then the ISC (XI–XII) pass onto the ncert-hsec ladders. Then the ISC
 (XI–XII) pass onto the ncert-hsec ladders. ISC-only new subjects (AI, Robotics,
@@ -65,10 +67,10 @@ idempotent.
 ## Single next step
 
 **Continue the ICSE pass: integrate ICSE Commercial Studies (→ Business Studies,
-some Accountancy) and Home Science next** — the two subagents assigned these
-failed on the session limit without producing files, so write them directly,
-following `icse-economics.mjs` (align-heavy) and `icse-computer-applications.mjs`
-(mint-heavy) as templates. Then the three sciences + Environmental Science →
+some Accountancy) next** — the subagent assigned it failed on the session limit
+without producing a file, so write it directly, following `icse-economics.mjs`
+(align-heavy) and `icse-computer-applications.mjs` (mint-heavy) as templates.
+Then the three sciences + Environmental Science →
 Science, History&Civics→History+Political Science, Geography, Performing
 Arts→Music/Dance, English — then the ISC (XI–XII) pass onto the ncert-hsec
 ladders. Method: align-first (use the scratchpad `q.mjs` to find existing topics

@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2553,
+  "topicCount": 2579,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -37016,7 +37016,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what home science is — the skills and knowledge for running a home and caring for a family well?",
       "standards": [
-        "nios-sec-2020:216.M1.L1"
+        "nios-sec-2020:216.M1.L1",
+        "icse:HSC9.1"
       ]
     },
     {
@@ -37036,7 +37037,8 @@
       ],
       "assessmentPrompt": "Can {{name}} plan a balanced meal that meets a family’s needs, taking account of different ages and a budget?",
       "standards": [
-        "nios-sec-2020:216.M2.L3"
+        "nios-sec-2020:216.M2.L3",
+        "icse:HSC10.6"
       ]
     },
     {
@@ -37056,7 +37058,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how to keep food safe and make it last, naming methods like drying, refrigeration or pickling?",
       "standards": [
-        "nios-sec-2020:216.M2.L4"
+        "nios-sec-2020:216.M2.L4",
+        "icse:HSC10.7"
       ]
     },
     {
@@ -37076,7 +37079,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how to choose suitable clothing and look after it so it lasts?",
       "standards": [
-        "nios-sec-2020:216.M3.L6"
+        "nios-sec-2020:216.M3.L6",
+        "icse:HSC10.8"
       ]
     },
     {
@@ -51797,6 +51801,526 @@
       "assessmentPrompt": "Can {{name}} model or carve a shape that looks right from every side, not just the front?",
       "standards": [
         "icse:ART.IA1"
+      ]
+    },
+    {
+      "id": "mt_2OnbhZ02fK",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Food & Nutrition",
+      "name": "Food and Its Functions",
+      "description": "Understand that food does more than fill the stomach — it keeps the body working, lifts the spirits and brings people together — and know terms like nutrient, balanced diet and malnutrition.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names a physiological, a psychological and a social function of food",
+        "Defines nutrient, balanced diet and malnutrition in own words",
+        "Gives an everyday example of food serving a social purpose"
+      ],
+      "assessmentPrompt": "Ask {{name}} to explain how food does more than feed the body — how it also cheers us and brings people together.",
+      "standards": [
+        "icse:HSC9.2"
+      ]
+    },
+    {
+      "id": "mt_VNIU1qwWhM",
+      "type": "PROCEDURAL",
+      "subject": "Home Science",
+      "domain": "Food & Nutrition",
+      "name": "Basic Cookery Terms",
+      "description": "Understand the standard words for kitchen actions — chopping, grating, kneading, beating, folding, blending and the rest — as named techniques a recipe expects the cook already to know.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Matches a cookery term to the action it names",
+        "Demonstrates or describes techniques such as kneading, folding and grating",
+        "Follows a simple recipe step that uses these terms"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a recipe means when it says to fold, knead or blend, and to show the action.",
+      "standards": [
+        "icse:HSC9.2"
+      ]
+    },
+    {
+      "id": "mt_DSN7HMbTZR",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Food & Nutrition",
+      "name": "Health Benefits of Herbs and Spices",
+      "description": "Understand that common kitchen herbs and spices — mint, coriander, turmeric, ginger, cumin and others — bring health benefits as well as flavour, a use long held in Indian cooking.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names a health benefit of a common herb or spice",
+        "Distinguishes a herb from a spice with examples",
+        "Explains how a spice is used at home for a minor ailment"
+      ],
+      "assessmentPrompt": "Ask {{name}} to name a kitchen spice like turmeric or ginger and say what good it does beyond taste.",
+      "standards": [
+        "icse:HSC9.2"
+      ]
+    },
+    {
+      "id": "mt_0hJPBXS3nE",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Food & Nutrition",
+      "name": "Classifying Nutrients by Function",
+      "description": "Understand that nutrients group by the job they do — carbohydrates and fats for energy, proteins and minerals for building the body, vitamins and minerals for protection, water and roughage for regulation.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Sorts nutrients into energy-giving, body-building, protective and regulatory",
+        "Names a food source for each nutrient group",
+        "Explains the job one nutrient does in the body"
+      ],
+      "assessmentPrompt": "Ask {{name}} which nutrients give energy, which build the body, and which keep it protected.",
+      "standards": [
+        "icse:HSC9.3"
+      ]
+    },
+    {
+      "id": "mt_fA4uM3f9IX",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Food & Nutrition",
+      "name": "Nutrient Deficiency Diseases",
+      "description": "Understand that a lasting shortage of a particular nutrient brings its own deficiency disease, so a specific illness can point to just which vitamin or mineral the diet is missing.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Matches a deficiency disease to the missing nutrient",
+        "Names a food that would prevent a given deficiency",
+        "Explains why a varied diet guards against deficiency"
+      ],
+      "assessmentPrompt": "Ask {{name}} how going short of a nutrient like iron or vitamin A can cause a particular illness.",
+      "standards": [
+        "icse:HSC9.3"
+      ]
+    },
+    {
+      "id": "mt_uWgNCbC6Hy",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Human Development",
+      "name": "Growth, Development and Milestones",
+      "description": "Understand that growth means getting bigger while development means gaining skill, and that milestones mark the ages by which a child from birth to five is expected to reach each new ability.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "States the difference between growth and development",
+        "Names a milestone in physical, motor, language or social development",
+        "Explains what a developmental milestone is for"
+      ],
+      "assessmentPrompt": "Ask {{name}} to explain the difference between a child growing bigger and a child gaining new skills.",
+      "standards": [
+        "icse:HSC9.4"
+      ]
+    },
+    {
+      "id": "mt_ZdgKaFiP82",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Human Development",
+      "name": "Play and Play-Schools in Early Childhood",
+      "description": "Understand that play is how a young child grows in body, mind and feeling, that the kind of play and the materials should suit the child, and what a play-school offers.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains how play supports a child’s all-round growth",
+        "Names a type of play such as constructive, fantasy or cooperative",
+        "Describes what a play-school like a nursery or kindergarten provides"
+      ],
+      "assessmentPrompt": "Ask {{name}} why play is the main way a small child learns and grows.",
+      "standards": [
+        "icse:HSC9.5"
+      ]
+    },
+    {
+      "id": "mt_OrQmx2SuTo",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Human Development",
+      "name": "Childhood Diseases and Immunisation",
+      "description": "Understand that vaccines protect young children against common diseases like measles, polio and whooping cough, and that immunisation on schedule is one of the surest ways to keep a child well.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names a childhood disease and the vaccine that prevents it",
+        "Explains what immunisation means",
+        "Explains why vaccinating on time matters for a child"
+      ],
+      "assessmentPrompt": "Ask {{name}} how vaccines protect a small child from diseases like measles or polio.",
+      "standards": [
+        "icse:HSC9.6"
+      ]
+    },
+    {
+      "id": "mt_BXXo6aACXZ",
+      "type": "REPRESENTATIONAL",
+      "subject": "Home Science",
+      "domain": "Home Management",
+      "name": "Colour in the Home",
+      "description": "Understand colour through its three dimensions — hue, value and intensity — and how related and contrasting schemes drawn from the colour wheel set the feel of each room in a home.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names the three dimensions of colour",
+        "Distinguishes a related from a contrasting colour scheme",
+        "Chooses a colour scheme suited to a particular room"
+      ],
+      "assessmentPrompt": "Ask {{name}} how the colours chosen for a room change the way it feels.",
+      "standards": [
+        "icse:HSC9.7"
+      ]
+    },
+    {
+      "id": "mt_EefUn9qyt8",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Home Management",
+      "name": "Lighting in the Home",
+      "description": "Understand that a home is lit from natural and artificial sources, that lighting may be general or task and direct or indirect, and that each room needs light suited to its use.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes general from task lighting",
+        "Distinguishes natural from artificial light sources",
+        "Chooses suitable lighting for a named room"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a kitchen and a bedroom need different kinds of lighting.",
+      "standards": [
+        "icse:HSC9.8"
+      ]
+    },
+    {
+      "id": "mt_PWH2Kou0mK",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Home Management",
+      "name": "Conserving Fuel and Energy at Home",
+      "description": "Understand why cooking gas, water and electricity are worth saving at home, and the everyday habits and choices that cut how much a household uses without giving up comfort.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains why saving fuel, water and power matters",
+        "Names an everyday way to conserve gas, water or electricity",
+        "Identifies waste of energy in a described household"
+      ],
+      "assessmentPrompt": "Ask {{name}} for simple ways the family could use less water, gas or electricity at home.",
+      "standards": [
+        "icse:HSC9.9"
+      ]
+    },
+    {
+      "id": "mt_jEf8acd2fO",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Home Management",
+      "name": "Waste Segregation and the Five Rs",
+      "description": "Understand household waste as biodegradable or non-biodegradable, why sorting it at home matters, and how the five Rs — reduce, refuse, reuse, recycle and reinvent — cut what is thrown away.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Sorts waste into biodegradable and non-biodegradable",
+        "Explains why segregating waste helps",
+        "Names and applies one of the five Rs"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the household should separate its waste, and to name a way to make less of it.",
+      "standards": [
+        "icse:HSC9.10"
+      ]
+    },
+    {
+      "id": "mt_pE3Mruczmm",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Textiles & Clothing",
+      "name": "Textile Fibres and Their Properties",
+      "description": "Understand that fibres are natural, man-made or synthetic, that each — cotton, silk, wool, rayon, nylon, polyester — has properties fixing its uses, and that burning and microscope tests tell them apart.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Classifies a fibre as natural, man-made or synthetic",
+        "Matches a fibre’s properties to a suitable use",
+        "Describes how a burning or microscope test identifies a fibre"
+      ],
+      "assessmentPrompt": "Ask {{name}} how cotton, wool and nylon differ, and how you could tell one from another.",
+      "standards": [
+        "icse:HSC9.11"
+      ]
+    },
+    {
+      "id": "mt_hdqEjg9ipG",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Textiles & Clothing",
+      "name": "How Fabric Is Made",
+      "description": "Understand how yarn becomes cloth — woven fabric crossing warp and weft in plain, twill or satin weaves, knitted fabric looped from yarn, and non-woven felt pressed straight from fibre.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Defines yarn, warp, weft and selvedge",
+        "Distinguishes woven, knitted and non-woven fabric",
+        "Matches a construction method to an end use"
+      ],
+      "assessmentPrompt": "Ask {{name}} how threads are turned into cloth, and how knitted cloth differs from woven.",
+      "standards": [
+        "icse:HSC9.12"
+      ]
+    },
+    {
+      "id": "mt_9PClrcGdFl",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Communication & Extension",
+      "name": "The Communication Process",
+      "description": "Understand communication as a message passing from a sender through a medium to a receiver who sends feedback, and that the message only lands when each of these parts does its work.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names the elements of the communication process",
+        "Traces a message from sender to receiver and back",
+        "Explains why feedback completes communication"
+      ],
+      "assessmentPrompt": "Ask {{name}} what has to happen for a message to get across from one person to another.",
+      "standards": [
+        "icse:HSC9.13"
+      ]
+    },
+    {
+      "id": "mt_dUhO5xkNFI",
+      "type": "PROCEDURAL",
+      "subject": "Home Science",
+      "domain": "Communication & Extension",
+      "name": "Interpersonal Communication Skills",
+      "description": "Understand interpersonal communication as the back-and-forth between people, resting on four skills — listening, speaking, reading and writing — that anyone can practise and get better at.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names the four interpersonal communication skills",
+        "Demonstrates active listening in a conversation",
+        "Explains how one skill can be improved with practice"
+      ],
+      "assessmentPrompt": "Ask {{name}} to show good listening and speaking when talking something through with another person.",
+      "standards": [
+        "icse:HSC9.13"
+      ]
+    },
+    {
+      "id": "mt_HOsxUF6vXz",
+      "type": "PROCEDURAL",
+      "subject": "Home Science",
+      "domain": "Resource Management",
+      "name": "The Family Budget",
+      "description": "Understand a family budget as a plan matching income to spending — surplus, balanced or deficit — shaped by the family’s size and circumstances, with saving built in from the start.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a surplus, balanced and deficit budget",
+        "Lists the steps in drawing up a family budget",
+        "Explains why saving belongs in a sound budget"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a family plans its spending so that it does not run short and can still save.",
+      "standards": [
+        "icse:HSC10.1"
+      ]
+    },
+    {
+      "id": "mt_47W38VdW8U",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Home Management",
+      "name": "Planning the Kitchen: The Work Triangle",
+      "description": "Understand that a kitchen is planned around a work triangle joining preparation, cooking and washing, so that its layout — L-shaped, U-shaped, island or modular — saves time, steps and effort.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains the kitchen work triangle and its three centres",
+        "Names a kitchen layout such as L-shaped or island",
+        "Explains how good layout saves time and energy"
+      ],
+      "assessmentPrompt": "Ask {{name}} how the way a kitchen is arranged can save the cook time and effort.",
+      "standards": [
+        "icse:HSC10.2"
+      ]
+    },
+    {
+      "id": "mt_tFe21rDbyb",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Home Management",
+      "name": "Home Furnishing",
+      "description": "Understand home furnishing — curtains, floor coverings and upholstery — as choices that balance beauty, expressiveness and use, and know the factors that guide picking each of them.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "States the aims of home furnishing",
+        "Names factors in choosing curtains, floor coverings or upholstery",
+        "Explains how a furnishing choice balances looks and use"
+      ],
+      "assessmentPrompt": "Ask {{name}} what to weigh up when choosing curtains or a rug for a room.",
+      "standards": [
+        "icse:HSC10.3"
+      ]
+    },
+    {
+      "id": "mt_ny9G94119a",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Human Development",
+      "name": "Development in Middle Childhood",
+      "description": "Understand the years from six to twelve — the gang age — as a stage where physical, social, emotional, cognitive and language development advance together, shaped by family, friends and school.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains what is meant by the gang age",
+        "Names a development seen in middle childhood",
+        "Explains how peers or school shape a child at this stage"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a school-age child changes, and how friends and school shape that growth.",
+      "standards": [
+        "icse:HSC10.4"
+      ]
+    },
+    {
+      "id": "mt_7SOBYG352x",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Human Development",
+      "name": "Learning Difficulties in Children",
+      "description": "Understand that dyslexia, dysgraphia, dyscalculia and ADHD are specific learning difficulties with recognisable signs, and that family, school and peers can accept and support a child who has one.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Matches a learning difficulty to its main signs",
+        "Explains that a learning difficulty is not a lack of ability",
+        "Suggests a way school or family can support such a child"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a learning difficulty like dyslexia is, and how classmates can be supportive.",
+      "standards": [
+        "icse:HSC10.5"
+      ]
+    },
+    {
+      "id": "mt_qHXDrT5kAV",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Food & Nutrition",
+      "name": "Storing Food by Perishability",
+      "description": "Understand that foods are perishable, semi-perishable or non-perishable, that each needs its own kind of storage to stay safe, and the good and bad points of convenience foods.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Sorts foods into perishable, semi-perishable and non-perishable",
+        "Describes suitable storage for a perishable food",
+        "States an advantage and a drawback of convenience foods"
+      ],
+      "assessmentPrompt": "Ask {{name}} why milk and rice need to be stored in different ways to keep them safe.",
+      "standards": [
+        "icse:HSC10.7"
+      ]
+    },
+    {
+      "id": "mt_UvIS8d6BmT",
+      "type": "PROCEDURAL",
+      "subject": "Home Science",
+      "domain": "Textiles & Clothing",
+      "name": "Laundering Different Fabrics",
+      "description": "Understand that cotton, silk, wool and synthetics each need their own washing method, and what detergents, soap, starch, blue and optical brighteners each do in cleaning and finishing cloth.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describes a suitable laundering method for a named fabric",
+        "Explains why wool and silk need gentler washing than cotton",
+        "States what starch, blue or a brightener does"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a woollen jumper is not washed the same way as a cotton shirt.",
+      "standards": [
+        "icse:HSC10.9"
+      ]
+    },
+    {
+      "id": "mt_G5Ao7K8V96",
+      "type": "LANGUAGE",
+      "subject": "Home Science",
+      "domain": "Communication & Extension",
+      "name": "The Language of Development",
+      "description": "Understand the terms used to discuss social development — gender discrimination, women’s empowerment, sex ratio, child labour, the poverty line and carbon footprint — as named ideas behind public debate.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains a term such as women’s empowerment or child labour",
+        "Distinguishes two related terms like sex ratio and female foeticide",
+        "Uses a development term correctly in a sentence"
+      ],
+      "assessmentPrompt": "Ask {{name}} to explain in their own words what terms like child labour or women’s empowerment mean.",
+      "standards": [
+        "icse:HSC10.10"
+      ]
+    },
+    {
+      "id": "mt_3EgBdDbaJ3",
+      "type": "CONCEPTUAL",
+      "subject": "Home Science",
+      "domain": "Communication & Extension",
+      "name": "Indian Development and Welfare Schemes",
+      "description": "Understand a set of Indian government schemes — MNREGA, Ayushman Bharat, Ujjwala and Jan Dhan among them — by what each one provides and the group of people it is meant to reach.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Matches a scheme to what it provides",
+        "Names the target group of a given scheme",
+        "Explains how one scheme helps the people it serves"
+      ],
+      "assessmentPrompt": "Ask {{name}} to name an Indian welfare scheme and say who it helps and how.",
+      "standards": [
+        "icse:HSC10.10"
+      ]
+    },
+    {
+      "id": "mt_q6ZDdUuCWE",
+      "type": "PROCEDURAL",
+      "subject": "Home Science",
+      "domain": "Communication & Extension",
+      "name": "Communication Aids for Social Awareness",
+      "description": "Understand how posters, brochures, pamphlets, puppet shows and street plays carry a message to a community, and how to match the aid to the social concern it is meant to address.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Names several communication aids",
+        "Matches a communication aid to a social concern",
+        "Explains why a chosen aid suits its message and audience"
+      ],
+      "assessmentPrompt": "Ask {{name}} for a good way — a poster, puppet show or street play — to spread an important message.",
+      "standards": [
+        "icse:HSC10.11"
       ]
     }
   ]
