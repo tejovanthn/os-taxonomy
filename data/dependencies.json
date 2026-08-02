@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4552,
+  "edgeCount": 4578,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -27314,6 +27314,162 @@
       "prerequisiteId": "mt_Dkf8DHyek0",
       "strength": "hard",
       "reason": "Senior staffing builds on recruitment, selection and training."
+    },
+    {
+      "topicId": "mt_vajdlg4njp",
+      "prerequisiteId": "mt_zqdALphaES",
+      "strength": "hard",
+      "reason": "The equations formalise the description of motion."
+    },
+    {
+      "topicId": "mt_lVwkJhE3cD",
+      "prerequisiteId": "mt_qcDIPchMJt",
+      "strength": "hard",
+      "reason": "Momentum restates Newton’s second law."
+    },
+    {
+      "topicId": "mt_BtqlJFcESk",
+      "prerequisiteId": "mt_qcDIPchMJt",
+      "strength": "soft",
+      "reason": "Gravitation is a force obeying the laws of motion."
+    },
+    {
+      "topicId": "mt_H4xxro1XDf",
+      "prerequisiteId": "mt_GUrpl1wyPZ",
+      "strength": "soft",
+      "reason": "Pressure and buoyancy are the two sides of fluid statics."
+    },
+    {
+      "topicId": "mt_0Lov62HzsZ",
+      "prerequisiteId": "mt_qcDIPchMJt",
+      "strength": "hard",
+      "reason": "Turning effects build on force and the laws of motion."
+    },
+    {
+      "topicId": "mt_BpzFvVvt86",
+      "prerequisiteId": "mt_0Lov62HzsZ",
+      "strength": "hard",
+      "reason": "The lever works by the principle of moments."
+    },
+    {
+      "topicId": "mt_BpzFvVvt86",
+      "prerequisiteId": "mt_1WRBUMcXaO",
+      "strength": "soft",
+      "reason": "Efficiency compares work output with work input."
+    },
+    {
+      "topicId": "mt_swFcy19vHh",
+      "prerequisiteId": "mt_ThTbUuNb3p",
+      "strength": "soft",
+      "reason": "Measurement underpins recording and reporting in science."
+    },
+    {
+      "topicId": "mt_PT0Rhg7e9B",
+      "prerequisiteId": "mt_e1Yfz3xVWy",
+      "strength": "hard",
+      "reason": "Calorimetry measures the heat first met as energy."
+    },
+    {
+      "topicId": "mt_Z4CefAJUX6",
+      "prerequisiteId": "mt_PT0Rhg7e9B",
+      "strength": "hard",
+      "reason": "Latent heat extends heat exchange to a change of state."
+    },
+    {
+      "topicId": "mt_e1Yfz3xVWy",
+      "prerequisiteId": "mt_1WRBUMcXaO",
+      "strength": "soft",
+      "reason": "Heat is a form of energy."
+    },
+    {
+      "topicId": "mt_wd7RgzAmta",
+      "prerequisiteId": "mt_VX1RlevNvG",
+      "strength": "soft",
+      "reason": "Refraction follows reflection in the study of light."
+    },
+    {
+      "topicId": "mt_vx7srVLtf8",
+      "prerequisiteId": "mt_wd7RgzAmta",
+      "strength": "hard",
+      "reason": "A lens forms images by refraction."
+    },
+    {
+      "topicId": "mt_mUlEnucduj",
+      "prerequisiteId": "mt_wd7RgzAmta",
+      "strength": "hard",
+      "reason": "Dispersion is refraction that separates the colours."
+    },
+    {
+      "topicId": "mt_feTfP8pEnS",
+      "prerequisiteId": "mt_ENmXd707yy",
+      "strength": "hard",
+      "reason": "Resonance is a property of the vibrations that make sound."
+    },
+    {
+      "topicId": "mt_RqJxMcNtiL",
+      "prerequisiteId": "mt_ENmXd707yy",
+      "strength": "hard",
+      "reason": "Loudness, pitch and quality are features of the sound wave."
+    },
+    {
+      "topicId": "mt_d91dpFCaov",
+      "prerequisiteId": "mt_BBcmJaxlvW",
+      "strength": "hard",
+      "reason": "Networks combine the resistance met in Ohm’s law."
+    },
+    {
+      "topicId": "mt_VoPvphqBGu",
+      "prerequisiteId": "mt_BBcmJaxlvW",
+      "strength": "hard",
+      "reason": "Power is computed from current and voltage."
+    },
+    {
+      "topicId": "mt_PADQ9IC1Pu",
+      "prerequisiteId": "mt_VoPvphqBGu",
+      "strength": "soft",
+      "reason": "Household wiring carries electrical power safely."
+    },
+    {
+      "topicId": "mt_OE1VPvH7Lw",
+      "prerequisiteId": "mt_3clFpFFMvj",
+      "strength": "hard",
+      "reason": "The magnetic effect of a current builds on magnetism."
+    },
+    {
+      "topicId": "mt_OE1VPvH7Lw",
+      "prerequisiteId": "mt_BBcmJaxlvW",
+      "strength": "hard",
+      "reason": "A current is what produces the magnetic effect."
+    },
+    {
+      "topicId": "mt_OE1VPvH7Lw",
+      "prerequisiteId": "mt__7BVYUN180",
+      "strength": "soft",
+      "reason": "Extends the motor effect met earlier."
+    },
+    {
+      "topicId": "mt_WlGYzr3sO9",
+      "prerequisiteId": "mt_T7ICFeChaV",
+      "strength": "hard",
+      "reason": "Radioactivity concerns the nucleus of the atom."
+    },
+    {
+      "topicId": "mt_fIQ3oArT7B",
+      "prerequisiteId": "mt_WlGYzr3sO9",
+      "strength": "hard",
+      "reason": "Fission and fusion are nuclear changes like radioactive decay."
+    },
+    {
+      "topicId": "mt_VX1RlevNvG",
+      "prerequisiteId": "mt_1WRBUMcXaO",
+      "strength": "soft",
+      "reason": "Light is a form of energy, reflected and focused by mirrors."
+    },
+    {
+      "topicId": "mt_90lfoEG1D3",
+      "prerequisiteId": "mt_ENmXd707yy",
+      "strength": "hard",
+      "reason": "An echo is reflected sound, building on the propagation of sound waves."
     }
   ]
 }

@@ -8,6 +8,26 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ICSE Physics integrated — a senior physics build-out under Science (2026-08-03)
+- ICSE Physics is examined as its own subject, but the 14–16 band belongs to the
+  composite **Science** subject here (the separate Physics subject holds 16–18),
+  and Science was thin on physics at this level — motion, Newton's laws,
+  buoyancy, work/energy/power and echo were all it had. So this pass is
+  mint-heavy: 14 standards, 6 aligned, 25 minted — measurement, equations of
+  motion, momentum, gravitation, fluid pressure, heat/temperature, reflection &
+  mirrors, waves & sound propagation, electric current & Ohm's law, magnetism
+  (Class IX); moments & equilibrium, simple machines, refraction & total internal
+  reflection, lenses, dispersion & the EM spectrum, resonance, sound
+  characteristics, series/parallel resistance, electrical power & energy,
+  household electricity, electromagnetism, calorimetry, latent heat,
+  radioactivity, nuclear fission & fusion (Class X). A new Science domain
+  **Electricity & Magnetism**.
+- The connectivity flood-fill caught the optics and sound chains forming an
+  internal island; fixed by anchoring the optics root to Work/Energy/Power and
+  reverse-anchoring the existing Echo topic to the sound root. All 25 minted
+  topics now join the main component; no bundlers/orphans; idempotent. 2,619
+  topics / 4,578 edges / 367 clusters; validate green.
+
 ### ICSE Commercial Studies integrated (2026-08-03)
 - Commercial Studies is a broad commerce survey spanning both Business Studies
   and Accountancy, both of which already have dense 14–16 ladders, so this is

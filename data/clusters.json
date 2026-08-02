@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 365,
+  "clusterCount": 367,
   "clusters": [
     {
       "subject": "English",
@@ -2239,6 +2239,20 @@
       "ageRangeStart": 15,
       "ageRangeEnd": 16,
       "summary": "Where financial accounting reports what has happened, cost and management accounting helps decide what to do next. The learner first classifies costs — fixed or variable as output changes, direct or indirect to the product — so the true cost of a thing can be found. Budgeting then looks forward: a financial plan for the period ahead, different from a mere forecast, built up from sales, production, cash and purchase budgets into one master budget that steers the business."
+    },
+    {
+      "subject": "Science",
+      "domain": "Electricity & Magnetism",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "summary": "Electricity begins here as the flow of charge. Your child learns that a battery drives a current of charge around a circuit, that resistance opposes it, and that the three are tied together by Ohm’s law. Alongside it comes magnetism — how a magnet induces magnetism in iron, how field lines picture the invisible field, and the discovery that the earth itself acts as a giant magnet steering every compass needle."
+    },
+    {
+      "subject": "Science",
+      "domain": "Electricity & Magnetism",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "Class X turns electricity into something useful and something to respect. Resistances combine in series and parallel; electrical power and energy explain the bills a household pays; and wiring, fuses and earthing show how the same current that lights a home can be made safe. The strand closes by joining electricity to magnetism: a current makes a magnetic field that turns a motor, and a changing field makes a current, which is how every power station generates its electricity."
     }
   ]
 }

@@ -5,7 +5,7 @@ Last updated 2026-08-01.
 
 ## Where things stand
 
-2,594 topics · 4,552 edges · 4,359 standards · 365 clusters · 16 curriculum
+2,619 topics · 4,578 edges · 4,373 standards · 367 clusters · 16 curriculum
 sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
 All build scripts idempotent (re-run adds zero). Only two topics now sit outside
 the main graph component (the Kannada and Dance singletons); the Visual Arts and
@@ -15,10 +15,16 @@ Home Science islands were connected by the ICSE Art and Home Science passes.
 source `icse` (Classes IX–X, 14–16) added, red tier (Marble factual
 descriptions, no CISCE text — see PROVENANCE). Shared board helper
 `scripts/build/cisce.mjs` serves both `icse` and the forthcoming `isc`
-(Classes XI–XII, 16–18). **ICSE done so far (6 subjects, committed): Mathematics,
-Computer Applications, Economics, Art, Home Science, Commercial Studies.**
-Commercial Studies (`icse-commercial-studies.mjs`): 14 standards, 24 aligned, 15
-minted across Business Studies (functional departments, communication,
+(Classes XI–XII, 16–18). **ICSE done so far (7 subjects, committed): Mathematics,
+Computer Applications, Economics, Art, Home Science, Commercial Studies,
+Physics.** Physics (`icse-physics.mjs`): 14 standards, 6 aligned, 25 minted under
+the **Science** subject (ICSE Physics IX–X = ages 14–16 → Science, which was thin
+on physics; the separate Physics SUBJECT is 16–18 only). Built out mechanics,
+optics, waves/sound, a new **Electricity & Magnetism** Science domain, heat and
+nuclear physics. The flood-fill caught the optics/sound chains islanding — fixed
+by anchoring to Work/Energy/Power and the existing Echo topic. Commercial Studies
+(`icse-commercial-studies.mjs`): 14 standards, 24 aligned, 15 minted across
+Business Studies (functional departments, communication,
 e-commerce, environment, stakeholders, marketing/pricing, raising capital, HR,
 logistics, digital banking, fraud) and Accountancy (capital/revenue, cost
 classification, budgeting); two new domains (Human Resources, Cost and Management
@@ -72,11 +78,15 @@ idempotent.
 
 ## Single next step
 
-**Continue the ICSE pass: integrate ICSE Physics, Chemistry, Biology and
-Environmental Science → the Science subject next** (align-heavy against the
-existing 14–16 Science ladder; syllabus texts `10.-Physics.txt`,
-`11.-Chemistry.txt`, `12.-Biology.txt`, `17.-Environmental-Science.txt` in the
-scratchpad). Then History&Civics→History+Political Science, Geography, Performing
+**Continue the ICSE pass: integrate ICSE Chemistry, Biology and Environmental
+Science → the Science subject next** (Physics done). Chemistry can align to the
+existing Science chemistry topics (atomic structure, bonding, mole concept,
+periodic classification, reactivity series, balancing equations — all present at
+14–16); Biology to the organisms/life-processes/human-body topics; syllabus
+texts `11.-Chemistry.txt`, `12.-Biology.txt`, `17.-Environmental-Science.txt` in
+the scratchpad. WATCH: the connectivity flood-fill (scratchpad `audit.mjs icse`)
+catches new-topic sub-chains that island — anchor every chain's ROOT to a
+main-component topic (Physics optics/sound needed this). Then History&Civics→History+Political Science, Geography, Performing
 Arts→Music/Dance, English — then the ISC (XI–XII) pass onto the ncert-hsec
 ladders. Method: align-first (use the scratchpad `q.mjs` to find existing topics
 before minting), one idea per topic, red-tier descriptions. The scratchpad also

@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2594,
+  "topicCount": 2619,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -25678,7 +25678,8 @@
         "uk-nc-2013:KS3.Sci.Chem.EA.2",
         "uk-nc-2013:KS3.Sci.Chem.EA.3",
         "ncert-sec:SCI.C9.NR",
-        "ncert-sec:SCI.C10.LIV.ENV"
+        "ncert-sec:SCI.C10.LIV.ENV",
+        "icse:PHY9.5"
       ]
     },
     {
@@ -36364,7 +36365,8 @@
       "standards": [
         "nios-sec-2020:212.M3.L9",
         "ncert-elem:SCI.MOV",
-        "ncert-sec:SCI.C9.MOV.MOTION"
+        "ncert-sec:SCI.C9.MOV.MOTION",
+        "icse:PHY9.2"
       ]
     },
     {
@@ -36386,7 +36388,8 @@
       "standards": [
         "nios-sec-2020:212.M3.L10",
         "ncert-elem:SCI.MOV",
-        "ncert-sec:SCI.C9.MOV.FORCE"
+        "ncert-sec:SCI.C9.MOV.FORCE",
+        "icse:PHY9.3"
       ]
     },
     {
@@ -36408,7 +36411,8 @@
       "standards": [
         "nios-sec-2020:212.M4.L13",
         "ncert-elem:SCI.WORK",
-        "ncert-sec:SCI.C9.MOV.WEP"
+        "ncert-sec:SCI.C9.MOV.WEP",
+        "icse:PHY10.1"
       ]
     },
     {
@@ -41335,7 +41339,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a heavy steel ship floats while a small steel nail sinks.",
       "standards": [
-        "ncert-sec:SCI.C9.MOV.FLOAT"
+        "ncert-sec:SCI.C9.MOV.FLOAT",
+        "icse:PHY9.4"
       ]
     },
     {
@@ -41395,7 +41400,9 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a shout in a large empty hall comes back to them, and why a dog whistle sounds silent.",
       "standards": [
-        "ncert-sec:SCI.C9.MOV.SOUND"
+        "ncert-sec:SCI.C9.MOV.SOUND",
+        "icse:PHY9.7",
+        "icse:PHY10.3"
       ]
     },
     {
@@ -52647,6 +52654,506 @@
       "assessmentPrompt": "Ask {{name}} how planning next month’s spending in advance helps a business stay in control.",
       "standards": [
         "icse:CST10.3"
+      ]
+    },
+    {
+      "id": "mt_swFcy19vHh",
+      "type": "PROCEDURAL",
+      "subject": "Science",
+      "domain": "Scientific Inquiry",
+      "name": "Measurement and Instruments",
+      "description": "Understand that every measurement is only as precise as the instrument’s least count, and use the vernier callipers, screw gauge and simple pendulum to measure length and time accurately.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Finds the least count of a vernier callipers or screw gauge",
+        "Reads a length from a vernier or screw-gauge scale",
+        "Explains how a smaller least count improves accuracy"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a screw gauge can measure the thickness of a hair when an ordinary ruler cannot.",
+      "standards": [
+        "icse:PHY9.1"
+      ]
+    },
+    {
+      "id": "mt_vajdlg4njp",
+      "type": "PROCEDURAL",
+      "subject": "Science",
+      "domain": "Forces & Motion",
+      "name": "Equations of Uniformly Accelerated Motion",
+      "description": "Understand how the three equations of motion connect displacement, velocity, acceleration and time for steady acceleration, and derive them from a velocity-time graph.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Derives an equation of motion from a velocity-time graph",
+        "Selects the right equation for a given problem",
+        "Solves a numerical problem in uniformly accelerated motion"
+      ],
+      "assessmentPrompt": "Ask {{name}} how far a car travels while braking steadily from a known speed to a stop.",
+      "standards": [
+        "icse:PHY9.2"
+      ]
+    },
+    {
+      "id": "mt_lVwkJhE3cD",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Forces & Motion",
+      "name": "Momentum and Newton’s Second Law",
+      "description": "Understand momentum as mass in motion, and that a force is what changes momentum — the second law read as force equalling the rate of change of momentum.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Computes the momentum of a moving body",
+        "Relates force to the rate of change of momentum",
+        "Explains why a longer stopping time means a smaller force"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a cricketer draws their hands back while catching a fast ball.",
+      "standards": [
+        "icse:PHY9.3"
+      ]
+    },
+    {
+      "id": "mt_BtqlJFcESk",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Forces & Motion",
+      "name": "Gravitation, Mass and Weight",
+      "description": "Understand the universal law of gravitation as an attraction between any two masses, and distinguish mass — the amount of matter — from weight, the force of gravity on it.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "States the universal law of gravitation",
+        "Distinguishes mass from weight",
+        "Explains free fall and acceleration due to gravity"
+      ],
+      "assessmentPrompt": "Ask {{name}} why their weight would change on the Moon but the amount of them would not.",
+      "standards": [
+        "icse:PHY9.3"
+      ]
+    },
+    {
+      "id": "mt_H4xxro1XDf",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Forces & Motion",
+      "name": "Fluid Pressure and Pascal’s Law",
+      "description": "Understand that a liquid exerts a pressure that grows with depth (p = hρg) and presses equally in all directions, so that Pascal’s law lets a fluid transmit and multiply a force.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Computes the pressure at a depth in a liquid",
+        "Explains why a dam is built thicker at its base",
+        "Explains how Pascal’s law transmits pressure in a liquid"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a dam wall is much thicker at the bottom than at the top.",
+      "standards": [
+        "icse:PHY9.4"
+      ]
+    },
+    {
+      "id": "mt_e1Yfz3xVWy",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Energy",
+      "name": "Heat, Temperature and the Expansion of Water",
+      "description": "Understand heat as energy in transit and temperature as how hot a body is, and that water is anomalous — it expands as it cools below 4°C, which lets ice float and fish survive winter.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes heat from temperature",
+        "Describes the anomalous expansion of water",
+        "Explains a consequence of water’s anomalous expansion"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a pond freezes at the top first, letting fish live on below the ice.",
+      "standards": [
+        "icse:PHY9.5"
+      ]
+    },
+    {
+      "id": "mt_VX1RlevNvG",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Waves, Light & Sound",
+      "name": "Reflection and Spherical Mirrors",
+      "description": "Understand the laws of reflection and how concave and convex mirrors form images, using ray diagrams and the mirror formula to locate and describe them.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "States and applies the laws of reflection",
+        "Draws a ray diagram to locate the image in a spherical mirror",
+        "Uses the mirror formula with the correct sign convention"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the side mirror of a car makes vehicles behind look smaller and further away.",
+      "standards": [
+        "icse:PHY9.6"
+      ]
+    },
+    {
+      "id": "mt_ENmXd707yy",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Waves, Light & Sound",
+      "name": "Waves and the Propagation of Sound",
+      "description": "Understand sound as a longitudinal wave that needs a medium to travel, related to its frequency and wavelength by V = fλ, and travelling far slower than light.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes transverse from longitudinal waves",
+        "Applies the relation V = fλ",
+        "Explains why thunder is heard after lightning is seen"
+      ],
+      "assessmentPrompt": "Ask {{name}} why we see a distant firework burst before we hear it.",
+      "standards": [
+        "icse:PHY9.7"
+      ]
+    },
+    {
+      "id": "mt_BBcmJaxlvW",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Electricity & Magnetism",
+      "name": "Electric Current and Ohm’s Law",
+      "description": "Understand electric current as the flow of charge driven by a potential difference and opposed by resistance, related by Ohm’s law, and distinguish conductors from insulators.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Relates current to the rate of flow of charge",
+        "Applies Ohm’s law V = IR",
+        "Distinguishes a conductor from an insulator"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a battery actually pushes around a circuit to light a bulb.",
+      "standards": [
+        "icse:PHY9.8"
+      ]
+    },
+    {
+      "id": "mt_3clFpFFMvj",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Electricity & Magnetism",
+      "name": "Magnetism and Magnetic Fields",
+      "description": "Understand how a magnet induces magnetism in a nearby magnetic material, how magnetic field lines picture the field, and that the earth itself behaves as a great magnet.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains magnetism induced by a bar magnet",
+        "Draws the field lines of a bar magnet and states their properties",
+        "Explains the evidence for the earth’s magnetic field"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a compass needle knows which way is north.",
+      "standards": [
+        "icse:PHY9.8"
+      ]
+    },
+    {
+      "id": "mt_0Lov62HzsZ",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Forces & Motion",
+      "name": "Turning Forces: Moments and Equilibrium",
+      "description": "Understand the moment of a force as its turning effect about a point, how balanced moments hold a body in equilibrium, and how the centre of gravity governs stability.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Computes the moment of a force",
+        "Applies the principle of moments to a balanced body",
+        "Relates the centre of gravity to stability"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a door handle is fitted far from the hinges rather than close to them.",
+      "standards": [
+        "icse:PHY10.1"
+      ]
+    },
+    {
+      "id": "mt_BpzFvVvt86",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Forces & Motion",
+      "name": "Simple Machines",
+      "description": "Understand a machine as a device that multiplies force or changes its direction, described by its mechanical advantage, velocity ratio and efficiency, with the lever and pulley as examples.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Computes mechanical advantage and velocity ratio",
+        "Explains why efficiency is always below 100%",
+        "Analyses a lever or pulley system"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a single person can lift a car with a small jack.",
+      "standards": [
+        "icse:PHY10.1"
+      ]
+    },
+    {
+      "id": "mt_wd7RgzAmta",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Waves, Light & Sound",
+      "name": "Refraction and Total Internal Reflection",
+      "description": "Understand refraction as the bending of light as it changes speed between media, and how beyond a critical angle it is reflected entirely — the basis of the sparkle of a diamond and of optical fibres.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains refraction through a glass block or prism",
+        "Defines the critical angle and total internal reflection",
+        "Gives an application of total internal reflection"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a straw looks bent where it enters a glass of water.",
+      "standards": [
+        "icse:PHY10.2"
+      ]
+    },
+    {
+      "id": "mt_vx7srVLtf8",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Waves, Light & Sound",
+      "name": "Lenses and the Images They Form",
+      "description": "Understand how converging and diverging lenses bend light to form images, and use ray diagrams to find where an image forms and what it looks like.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a converging from a diverging lens",
+        "Draws a ray diagram to locate a lens image",
+        "Describes the image for a given object position"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a magnifying glass makes small print look bigger.",
+      "standards": [
+        "icse:PHY10.2"
+      ]
+    },
+    {
+      "id": "mt_mUlEnucduj",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Waves, Light & Sound",
+      "name": "Dispersion and the Electromagnetic Spectrum",
+      "description": "Understand how a prism spreads white light into its colours because each bends by a different amount, and that visible light is one small band of a much wider electromagnetic spectrum.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains the dispersion of white light by a prism",
+        "Orders the colours of the visible spectrum",
+        "Names a region of the electromagnetic spectrum beyond visible light"
+      ],
+      "assessmentPrompt": "Ask {{name}} where the colours of a rainbow come from when the light started out white.",
+      "standards": [
+        "icse:PHY10.2"
+      ]
+    },
+    {
+      "id": "mt_feTfP8pEnS",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Waves, Light & Sound",
+      "name": "Vibrations and Resonance",
+      "description": "Understand the difference between free, damped and forced vibrations, and resonance as the large response when a body is driven at its own natural frequency.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes free, damped and forced vibrations",
+        "Explains resonance in terms of natural frequency",
+        "Gives an everyday example of resonance"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a singer could, in principle, shatter a glass with their voice.",
+      "standards": [
+        "icse:PHY10.3"
+      ]
+    },
+    {
+      "id": "mt_RqJxMcNtiL",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Waves, Light & Sound",
+      "name": "Loudness, Pitch and Quality of Sound",
+      "description": "Understand the three things we hear in a sound — loudness set by amplitude, pitch by frequency, and quality by the waveform — which together let us tell voices and instruments apart.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Relates loudness to amplitude and pitch to frequency",
+        "Explains what gives a sound its quality or timbre",
+        "Explains why two instruments playing the same note sound different"
+      ],
+      "assessmentPrompt": "Ask {{name}} how they can tell their friend’s voice from a stranger’s on the phone.",
+      "standards": [
+        "icse:PHY10.3"
+      ]
+    },
+    {
+      "id": "mt_d91dpFCaov",
+      "type": "PROCEDURAL",
+      "subject": "Science",
+      "domain": "Electricity & Magnetism",
+      "name": "Resistances in Series and Parallel",
+      "description": "Understand how resistances combine — adding in series, but giving a smaller total in parallel — and compute the effective resistance and the currents in a simple network.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Computes the combined resistance in series and in parallel",
+        "Explains why parallel resistance is less than the smallest resistor",
+        "Finds the current in a branch of a simple circuit"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the other bulbs stay lit when one bulb in a house fails.",
+      "standards": [
+        "icse:PHY10.4"
+      ]
+    },
+    {
+      "id": "mt_VoPvphqBGu",
+      "type": "PROCEDURAL",
+      "subject": "Science",
+      "domain": "Electricity & Magnetism",
+      "name": "Electrical Power and Energy",
+      "description": "Understand electrical power as the rate at which a device uses energy, compute it from voltage and current, and read the energy an appliance consumes in kilowatt-hours.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Computes electrical power from voltage and current",
+        "Computes energy used in kilowatt-hours",
+        "Compares the running cost of two appliances"
+      ],
+      "assessmentPrompt": "Ask {{name}} why an electric heater costs far more to run than a light bulb.",
+      "standards": [
+        "icse:PHY10.4"
+      ]
+    },
+    {
+      "id": "mt_PADQ9IC1Pu",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Electricity & Magnetism",
+      "name": "Household Electricity and Safety",
+      "description": "Understand how electricity is brought safely into a home — the live, neutral and earth wires, the fuse and the three-pin plug — and why earthing and fuses protect against shock and fire.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains the role of the live, neutral and earth wires",
+        "Explains how a fuse protects a circuit",
+        "Explains why an appliance is earthed"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the third pin on a plug is for, since two seem enough to carry the current.",
+      "standards": [
+        "icse:PHY10.4"
+      ]
+    },
+    {
+      "id": "mt_OE1VPvH7Lw",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Electricity & Magnetism",
+      "name": "The Magnetic Effect of a Current and Induction",
+      "description": "Understand that a current creates a magnetic field — the basis of the electromagnet and the motor — and that a changing field induces a current, the principle behind the generator.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains the magnetic effect of an electric current",
+        "Explains the principle of the electric motor",
+        "Explains electromagnetic induction and the generator"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a power station turns spinning motion into the electricity in the wires.",
+      "standards": [
+        "icse:PHY10.4"
+      ]
+    },
+    {
+      "id": "mt_PT0Rhg7e9B",
+      "type": "PROCEDURAL",
+      "subject": "Science",
+      "domain": "Energy",
+      "name": "Calorimetry and Specific Heat",
+      "description": "Understand specific heat capacity as the heat needed to warm a kilogram of a substance by one degree, and use the method of mixtures — heat lost equals heat gained — to measure it.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Computes heat from mass, specific heat and temperature change",
+        "Applies the principle that heat lost equals heat gained",
+        "Explains why water’s high specific heat moderates climate"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the sea stays cool on a hot day while the sand becomes scorching.",
+      "standards": [
+        "icse:PHY10.5"
+      ]
+    },
+    {
+      "id": "mt_Z4CefAJUX6",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Energy",
+      "name": "Latent Heat and Change of State",
+      "description": "Understand latent heat as the energy a substance absorbs or releases while changing state at constant temperature, as its molecules break or form the bonds of the new state.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains why temperature stays constant during a change of state",
+        "Distinguishes the latent heat of fusion from vaporisation",
+        "Computes the heat for a change of state"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a burn from steam is worse than one from boiling water at the same temperature.",
+      "standards": [
+        "icse:PHY10.5"
+      ]
+    },
+    {
+      "id": "mt_WlGYzr3sO9",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Radioactivity",
+      "description": "Understand radioactivity as the spontaneous breakdown of an unstable nucleus emitting alpha, beta or gamma radiation, the background radiation around us, and the precautions it demands.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes alpha, beta and gamma radiation",
+        "Explains what happens to a nucleus in radioactive decay",
+        "States a safety precaution when handling radioactive material"
+      ],
+      "assessmentPrompt": "Ask {{name}} what makes some atoms give off dangerous rays entirely on their own.",
+      "standards": [
+        "icse:PHY10.6"
+      ]
+    },
+    {
+      "id": "mt_fIQ3oArT7B",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Nuclear Fission and Fusion",
+      "description": "Understand nuclear fission as the splitting of a heavy nucleus and fusion as the joining of light nuclei, both releasing great energy — fission in reactors, fusion in the Sun.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Defines nuclear fission and fusion",
+        "Distinguishes fission from fusion",
+        "Names where each reaction is put to use or occurs"
+      ],
+      "assessmentPrompt": "Ask {{name}} what powers the Sun, and why it is so hard to copy on Earth.",
+      "standards": [
+        "icse:PHY10.6"
       ]
     }
   ]

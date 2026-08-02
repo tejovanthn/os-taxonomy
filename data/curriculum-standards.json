@@ -49149,7 +49149,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabuses-icse-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 106,
+      "topicCount": 120,
       "topics": [
         {
           "key": "icse:MAT9.1",
@@ -50315,6 +50315,160 @@
             "class": "X",
             "strand": "Government Initiatives in Environment Protection",
             "description": "The Environment (Protection) Act 1986 and the functions of the Central Pollution Control Board."
+          }
+        },
+        {
+          "key": "icse:PHY9.1",
+          "code": "PHY9.1",
+          "data": {
+            "title": "Class IX Measurements and Experimentation",
+            "subject": "Physics (IX–X)",
+            "class": "IX",
+            "strand": "Measurements and Experimentation",
+            "description": "The SI system of units and least count; measuring length with the vernier callipers and screw gauge and time with the simple pendulum, and how a smaller least count means greater accuracy."
+          }
+        },
+        {
+          "key": "icse:PHY9.2",
+          "code": "PHY9.2",
+          "data": {
+            "title": "Class IX Motion in One Dimension",
+            "subject": "Physics (IX–X)",
+            "class": "IX",
+            "strand": "Motion in One Dimension",
+            "description": "Scalar and vector quantities; distance and displacement, speed and velocity, acceleration; distance-time and velocity-time graphs; and the equations of uniformly accelerated motion."
+          }
+        },
+        {
+          "key": "icse:PHY9.3",
+          "code": "PHY9.3",
+          "data": {
+            "title": "Class IX Laws of Motion",
+            "subject": "Physics (IX–X)",
+            "class": "IX",
+            "strand": "Laws of Motion",
+            "description": "Contact and non-contact forces; Newton’s three laws of motion; inertia, mass and momentum; and the universal law of gravitation with weight, mass and free fall."
+          }
+        },
+        {
+          "key": "icse:PHY9.4",
+          "code": "PHY9.4",
+          "data": {
+            "title": "Class IX Fluids",
+            "subject": "Physics (IX–X)",
+            "class": "IX",
+            "strand": "Fluids",
+            "description": "Pressure in a liquid column (p = hρg) and its transmission by Pascal’s law; buoyancy and Archimedes’ principle; flotation and relative density."
+          }
+        },
+        {
+          "key": "icse:PHY9.5",
+          "code": "PHY9.5",
+          "data": {
+            "title": "Class IX Heat and Energy",
+            "subject": "Physics (IX–X)",
+            "class": "IX",
+            "strand": "Heat and Energy",
+            "description": "Heat as energy and its distinction from temperature; the anomalous expansion of water; and the greenhouse effect, global warming and energy degradation."
+          }
+        },
+        {
+          "key": "icse:PHY9.6",
+          "code": "PHY9.6",
+          "data": {
+            "title": "Class IX Light",
+            "subject": "Physics (IX–X)",
+            "class": "IX",
+            "strand": "Light",
+            "description": "The laws of reflection and images in plane and parallel mirrors; concave and convex spherical mirrors, ray diagrams, the mirror formula and their uses."
+          }
+        },
+        {
+          "key": "icse:PHY9.7",
+          "code": "PHY9.7",
+          "data": {
+            "title": "Class IX Sound",
+            "subject": "Physics (IX–X)",
+            "class": "IX",
+            "strand": "Sound",
+            "description": "Wave motion and transverse and longitudinal waves; the propagation of sound and its need for a medium; the relation V = fλ; and infrasonic, sonic and ultrasonic frequencies."
+          }
+        },
+        {
+          "key": "icse:PHY9.8",
+          "code": "PHY9.8",
+          "data": {
+            "title": "Class IX Electricity and Magnetism",
+            "subject": "Physics (IX–X)",
+            "class": "IX",
+            "strand": "Electricity and Magnetism",
+            "description": "Electric charge and current, potential difference and resistance; conductors and insulators; Ohm’s law and simple circuits; induced magnetism, magnetic field lines and the earth’s magnetic field."
+          }
+        },
+        {
+          "key": "icse:PHY10.1",
+          "code": "PHY10.1",
+          "data": {
+            "title": "Class X Force, Work, Power and Energy",
+            "subject": "Physics (IX–X)",
+            "class": "X",
+            "strand": "Force, Work, Power and Energy",
+            "description": "The moment of a force, equilibrium and centre of gravity; work, power and energy and their relation; the conservation of energy; and machines as force multipliers with mechanical advantage, velocity ratio and efficiency."
+          }
+        },
+        {
+          "key": "icse:PHY10.2",
+          "code": "PHY10.2",
+          "data": {
+            "title": "Class X Light",
+            "subject": "Physics (IX–X)",
+            "class": "X",
+            "strand": "Light",
+            "description": "Refraction through a glass block and a prism; total internal reflection and the critical angle; converging and diverging lenses and their images; and the dispersion of white light and the electromagnetic spectrum."
+          }
+        },
+        {
+          "key": "icse:PHY10.3",
+          "code": "PHY10.3",
+          "data": {
+            "title": "Class X Sound",
+            "subject": "Physics (IX–X)",
+            "class": "X",
+            "strand": "Sound",
+            "description": "The reflection of sound and echoes; natural, damped and forced vibrations and resonance; and the loudness, pitch and quality of a sound."
+          }
+        },
+        {
+          "key": "icse:PHY10.4",
+          "code": "PHY10.4",
+          "data": {
+            "title": "Class X Electricity and Magnetism",
+            "subject": "Physics (IX–X)",
+            "class": "X",
+            "strand": "Electricity and Magnetism",
+            "description": "Resistances in series and parallel; electrical power and energy; household wiring, fuses, earthing and safety; and the magnetic effect of a current and electromagnetic induction."
+          }
+        },
+        {
+          "key": "icse:PHY10.5",
+          "code": "PHY10.5",
+          "data": {
+            "title": "Class X Heat",
+            "subject": "Physics (IX–X)",
+            "class": "X",
+            "strand": "Heat",
+            "description": "Calorimetry and specific heat capacity by the method of mixtures; and latent heat and the heat exchanged in a change of state."
+          }
+        },
+        {
+          "key": "icse:PHY10.6",
+          "code": "PHY10.6",
+          "data": {
+            "title": "Class X Modern Physics",
+            "subject": "Physics (IX–X)",
+            "class": "X",
+            "strand": "Modern Physics",
+            "description": "Radioactivity and changes in the nucleus, background radiation and safety; and nuclear fission and fusion."
           }
         }
       ]
