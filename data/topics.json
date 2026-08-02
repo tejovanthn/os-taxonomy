@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2619,
+  "topicCount": 2636,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -25679,7 +25679,8 @@
         "uk-nc-2013:KS3.Sci.Chem.EA.3",
         "ncert-sec:SCI.C9.NR",
         "ncert-sec:SCI.C10.LIV.ENV",
-        "icse:PHY9.5"
+        "icse:PHY9.5",
+        "icse:CHE9.8"
       ]
     },
     {
@@ -36278,7 +36279,8 @@
       "standards": [
         "nios-sec-2020:212.M2.L3",
         "ncert-elem:SCI.MAT",
-        "ncert-sec:SCI.C9.MAT.ATOM"
+        "ncert-sec:SCI.C9.MAT.ATOM",
+        "icse:CHE9.1"
       ]
     },
     {
@@ -36299,7 +36301,8 @@
       "assessmentPrompt": "Can {{name}} describe what an atom is made of — protons, neutrons and electrons — and how they are arranged?",
       "standards": [
         "nios-sec-2020:212.M2.L5",
-        "ncert-sec:SCI.C9.MAT.STRUCT"
+        "ncert-sec:SCI.C9.MAT.STRUCT",
+        "icse:CHE9.4"
       ]
     },
     {
@@ -36320,7 +36323,8 @@
       "assessmentPrompt": "Can {{name}} balance a simple chemical equation, and explain why the atoms must match on both sides?",
       "standards": [
         "nios-sec-2020:212.M2.L4",
-        "ncert-sec:SCI.C9.MAT.ATOM"
+        "ncert-sec:SCI.C9.MAT.ATOM",
+        "icse:CHE9.1"
       ]
     },
     {
@@ -36343,7 +36347,9 @@
         "nios-sec-2020:212.M2.L7",
         "ncert-elem:SCI.MAT",
         "ncert-sec:SCI.C10.MAT.METAL",
-        "ncert-sec:SCI.C10.MAT.CARBON"
+        "ncert-sec:SCI.C10.MAT.CARBON",
+        "icse:CHE9.4",
+        "icse:CHE10.2"
       ]
     },
     {
@@ -41360,7 +41366,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a chemist could work out the number of atoms in a spoonful of sugar without counting them.",
       "standards": [
-        "ncert-sec:SCI.C9.MAT.ATOM"
+        "ncert-sec:SCI.C9.MAT.ATOM",
+        "icse:CHE10.5"
       ]
     },
     {
@@ -41380,7 +41387,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why water is always H₂O and never HO or H₃O.",
       "standards": [
-        "ncert-sec:SCI.C9.MAT.ATOM"
+        "ncert-sec:SCI.C9.MAT.ATOM",
+        "icse:CHE9.1"
       ]
     },
     {
@@ -42396,7 +42404,9 @@
       ],
       "assessmentPrompt": "Ask {{name}} how Mendeleev could describe elements nobody had discovered yet.",
       "standards": [
-        "ncert-sec:SCI.C10.MAT.PERIOD"
+        "ncert-sec:SCI.C10.MAT.PERIOD",
+        "icse:CHE9.5",
+        "icse:CHE10.1"
       ]
     },
     {
@@ -53154,6 +53164,346 @@
       "assessmentPrompt": "Ask {{name}} what powers the Sun, and why it is so hard to copy on Earth.",
       "standards": [
         "icse:PHY10.6"
+      ]
+    },
+    {
+      "id": "mt_3qtAc3QGYD",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Types of Chemical Reactions",
+      "description": "Understand that reactions fall into a few families — combination, decomposition, displacement and double decomposition — and that each either absorbs or releases energy as bonds break and form.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Classifies a reaction into one of the four types",
+        "Distinguishes an exothermic from an endothermic reaction",
+        "Writes a balanced equation for a reaction of a given type"
+      ],
+      "assessmentPrompt": "Ask {{name}} why some reactions give out heat while others need heating to keep going.",
+      "standards": [
+        "icse:CHE9.2"
+      ]
+    },
+    {
+      "id": "mt_4gsF5Paq10",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Water of Crystallisation and Drying Agents",
+      "description": "Understand that some crystals lock water into their structure as water of crystallisation, that heating drives it off to leave an anhydrous solid, and that drying agents remove moisture from their surroundings.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a hydrated from an anhydrous substance",
+        "Explains what water of crystallisation is",
+        "Names a drying or dehydrating agent and its use"
+      ],
+      "assessmentPrompt": "Ask {{name}} why blue copper sulphate crystals turn white and powdery when heated.",
+      "standards": [
+        "icse:CHE9.3"
+      ]
+    },
+    {
+      "id": "mt_YQhS9Jf00s",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Hard and Soft Water",
+      "description": "Understand hardness as dissolved calcium and magnesium salts that stop soap lathering, distinguish temporary from permanent hardness, and know how each is removed.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes hard from soft water by its effect on soap",
+        "Distinguishes temporary from permanent hardness",
+        "Explains how boiling or washing soda removes hardness"
+      ],
+      "assessmentPrompt": "Ask {{name}} why soap lathers poorly in some water and what can be done about it.",
+      "standards": [
+        "icse:CHE9.3"
+      ]
+    },
+    {
+      "id": "mt_yRcspCMzTD",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Oxidation and Reduction",
+      "description": "Understand oxidation and reduction as paired opposites — gain or loss of oxygen, or loss or gain of hydrogen — that always happen together, one substance being oxidised as another is reduced.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Identifies oxidation and reduction in a reaction",
+        "Explains why oxidation and reduction always occur together",
+        "Identifies the oxidising and reducing agent"
+      ],
+      "assessmentPrompt": "Ask {{name}} why iron rusting and a fuel burning are, at heart, the same kind of change.",
+      "standards": [
+        "icse:CHE9.6"
+      ]
+    },
+    {
+      "id": "mt_y2YljZczip",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "The Study of Hydrogen",
+      "description": "Understand how hydrogen is prepared from water, dilute acids and alkalis and made industrially, and why the reactive metals aluminium, zinc and lead behave unusually with alkalis.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Describes a laboratory preparation of hydrogen",
+        "Explains why hydrogen is collected by downward displacement of water",
+        "Names an industrial use or manufacture of hydrogen"
+      ],
+      "assessmentPrompt": "Ask {{name}} why hydrogen is the lightest gas and how that shapes the way it is collected.",
+      "standards": [
+        "icse:CHE9.6"
+      ]
+    },
+    {
+      "id": "mt_iFMcyK9XEb",
+      "type": "PROCEDURAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "The Gas Laws",
+      "description": "Understand how a gas responds to changing temperature and pressure — Boyle’s and Charles’s laws — as consequences of molecular motion, and use the Kelvin scale and standard conditions.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Applies Boyle’s and Charles’s laws to a gas",
+        "Converts between the Celsius and Kelvin scales",
+        "Explains gas behaviour in terms of molecular motion"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a sealed packet of chips swells up on a mountain and why a balloon shrinks in the cold.",
+      "standards": [
+        "icse:CHE9.7"
+      ]
+    },
+    {
+      "id": "mt_XNhQZ4pJ8M",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Acid Rain, Ozone Depletion and Air Pollution",
+      "description": "Understand how gases released into the air cause harm — sulphur and nitrogen oxides making acid rain, and chlorofluorocarbons thinning the ozone layer that shields us from ultraviolet light.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains the cause and impact of acid rain",
+        "Explains what depletes the ozone layer and why that matters",
+        "Names a way to reduce a named air pollutant"
+      ],
+      "assessmentPrompt": "Ask {{name}} how the exhaust from factories and cars can fall back to earth as acid.",
+      "standards": [
+        "icse:CHE9.8"
+      ]
+    },
+    {
+      "id": "mt_rKKThKZH56",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Acids, Bases and the pH Scale",
+      "description": "Understand acids and bases by their properties and reactions, and the pH scale as the measure of how acidic or alkaline a solution is, from strong acid to strong alkali.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "States a characteristic property of an acid and of a base",
+        "Places a solution on the pH scale from its behaviour",
+        "Explains neutralisation as an acid reacting with a base"
+      ],
+      "assessmentPrompt": "Ask {{name}} what lemon juice and soap have in common and how they differ, chemically.",
+      "standards": [
+        "icse:CHE10.3"
+      ]
+    },
+    {
+      "id": "mt_ZuXC3JZOiP",
+      "type": "PROCEDURAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Salts and Their Preparation",
+      "description": "Understand a salt as the product of neutralising an acid, classify salts as normal, acid or basic, and choose the right method to prepare a given salt.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Classifies a salt as normal, acid or basic",
+        "Chooses a suitable preparation method for a named salt",
+        "Writes the equation for the formation of a salt"
+      ],
+      "assessmentPrompt": "Ask {{name}} how table salt is, chemically, the leftover of an acid meeting a base.",
+      "standards": [
+        "icse:CHE10.3"
+      ]
+    },
+    {
+      "id": "mt_IyIdYpMStO",
+      "type": "PROCEDURAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Analytical Chemistry: Identifying Ions",
+      "description": "Understand how an unknown salt is identified by the colour and solubility of the precipitate it forms with sodium hydroxide or ammonium hydroxide, so a test reveals which metal ion is present.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Predicts the precipitate a metal ion forms with an alkali",
+        "Identifies a metal ion from the colour of its hydroxide",
+        "Distinguishes two ions by their behaviour in excess alkali"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a chemist can name the metal in a solution just by adding a drop of another and watching.",
+      "standards": [
+        "icse:CHE10.4"
+      ]
+    },
+    {
+      "id": "mt_qiL9cwqGZJ",
+      "type": "PROCEDURAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Stoichiometry and Chemical Calculations",
+      "description": "Understand how a balanced equation is a recipe in moles, so that the mass or volume of one substance in a reaction can be calculated from the amount of another.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Relates moles of reactants and products from a balanced equation",
+        "Calculates the mass of a product from the mass of a reactant",
+        "Calculates the volume of a gas at standard conditions"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a chemist knows exactly how much of one thing is needed to react with another.",
+      "standards": [
+        "icse:CHE10.5"
+      ]
+    },
+    {
+      "id": "mt_ylwMisPxtR",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Electrolysis",
+      "description": "Understand electrolysis as the use of an electric current to split a molten or dissolved compound at its electrodes, distinguish electrolytes from non-electrolytes, and see its use in electroplating.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes an electrolyte from a non-electrolyte",
+        "Identifies the products at the cathode and anode",
+        "Explains how electroplating deposits a metal"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a cheap metal spoon can be given a lasting coat of silver.",
+      "standards": [
+        "icse:CHE10.6"
+      ]
+    },
+    {
+      "id": "mt_sCiOnKwskY",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Metallurgy: Extracting Metals",
+      "description": "Understand that a metal’s place in the reactivity series decides how hard it is to win from its ore, so that reactive metals need electrolysis while less reactive ones can be reduced by heating.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Relates a metal’s reactivity to its method of extraction",
+        "Outlines the extraction of a named metal such as aluminium or iron",
+        "Distinguishes an ore from a mineral"
+      ],
+      "assessmentPrompt": "Ask {{name}} why gold is found as a nugget but aluminium never is.",
+      "standards": [
+        "icse:CHE10.7"
+      ]
+    },
+    {
+      "id": "mt_qZPpTJ5cff",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Ammonia and Nitric Acid",
+      "description": "Understand how ammonia and nitric acid are prepared and how they behave — ammonia as a soluble alkaline gas, nitric acid as a strong acid and powerful oxidiser.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describes the laboratory preparation of ammonia",
+        "States a characteristic property of ammonia or nitric acid",
+        "Explains why nitric acid acts as an oxidising agent"
+      ],
+      "assessmentPrompt": "Ask {{name}} how the gas that gives smelling salts their sting is made in a laboratory.",
+      "standards": [
+        "icse:CHE10.8"
+      ]
+    },
+    {
+      "id": "mt_IsAnMOVWLH",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Hydrogen Chloride and Sulphuric Acid",
+      "description": "Understand how hydrogen chloride and sulphuric acid are prepared and how they behave — hydrogen chloride giving hydrochloric acid in water, sulphuric acid acting as acid, dehydrating and oxidising agent.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describes the preparation of hydrogen chloride",
+        "States a property of hydrochloric or sulphuric acid",
+        "Explains why concentrated sulphuric acid is a drying agent"
+      ],
+      "assessmentPrompt": "Ask {{name}} why concentrated sulphuric acid chars sugar black.",
+      "standards": [
+        "icse:CHE10.8"
+      ]
+    },
+    {
+      "id": "mt_pOUL9TLuwI",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Introduction to Organic Chemistry",
+      "description": "Understand why carbon forms a whole chemistry of its own — its four bonds and its power of catenation letting it build endless chains and rings that no other element can.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains catenation and the tetravalency of carbon",
+        "Explains why carbon forms so many compounds",
+        "Distinguishes an organic from an inorganic compound"
+      ],
+      "assessmentPrompt": "Ask {{name}} why one element, carbon, has more compounds than all the others put together.",
+      "standards": [
+        "icse:CHE10.9"
+      ]
+    },
+    {
+      "id": "mt_YO2I3xdcnr",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "name": "Hydrocarbons and Functional Groups",
+      "description": "Understand hydrocarbons as chains of carbon and hydrogen — saturated alkanes and unsaturated alkenes and alkynes — and how a functional group such as in an alcohol or acid gives a family its character.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes alkanes, alkenes and alkynes by their bonds",
+        "Identifies the functional group of an alcohol or carboxylic acid",
+        "Names a simple organic compound by IUPAC rules"
+      ],
+      "assessmentPrompt": "Ask {{name}} what makes the alcohol in a thermometer chemically different from cooking gas.",
+      "standards": [
+        "icse:CHE10.9"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4578,
+  "edgeCount": 4601,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -27470,6 +27470,144 @@
       "prerequisiteId": "mt_ENmXd707yy",
       "strength": "hard",
       "reason": "An echo is reflected sound, building on the propagation of sound waves."
+    },
+    {
+      "topicId": "mt_3qtAc3QGYD",
+      "prerequisiteId": "mt_Id4cr53vlQ",
+      "strength": "hard",
+      "reason": "Classifying reactions builds on balancing their equations."
+    },
+    {
+      "topicId": "mt_yRcspCMzTD",
+      "prerequisiteId": "mt_3qtAc3QGYD",
+      "strength": "hard",
+      "reason": "Redox is a way of looking at the reactions just classified."
+    },
+    {
+      "topicId": "mt_y2YljZczip",
+      "prerequisiteId": "mt_yRcspCMzTD",
+      "strength": "soft",
+      "reason": "Hydrogen is displaced in redox reactions."
+    },
+    {
+      "topicId": "mt_4gsF5Paq10",
+      "prerequisiteId": "mt_QF7nm0CbQN",
+      "strength": "soft",
+      "reason": "Hydrate formulae build on writing chemical formulae."
+    },
+    {
+      "topicId": "mt_YQhS9Jf00s",
+      "prerequisiteId": "mt_4gsF5Paq10",
+      "strength": "soft",
+      "reason": "Hardness is another topic in the chemistry of water."
+    },
+    {
+      "topicId": "mt_iFMcyK9XEb",
+      "prerequisiteId": "mt_WRmH6pd30u",
+      "strength": "soft",
+      "reason": "Gas behaviour is explained by the motion of molecules."
+    },
+    {
+      "topicId": "mt_XNhQZ4pJ8M",
+      "prerequisiteId": "mt_mTpV-0rtkO",
+      "strength": "hard",
+      "reason": "Air pollution builds on the atmosphere and carbon dioxide."
+    },
+    {
+      "topicId": "mt_rKKThKZH56",
+      "prerequisiteId": "mt_rswmjlVxDp",
+      "strength": "soft",
+      "reason": "Acid and base behaviour rests on bonding and ions."
+    },
+    {
+      "topicId": "mt_rKKThKZH56",
+      "prerequisiteId": "mt_3qtAc3QGYD",
+      "strength": "soft",
+      "reason": "Neutralisation is one of the reaction types."
+    },
+    {
+      "topicId": "mt_ZuXC3JZOiP",
+      "prerequisiteId": "mt_rKKThKZH56",
+      "strength": "hard",
+      "reason": "A salt is what an acid and base make on neutralising."
+    },
+    {
+      "topicId": "mt_IyIdYpMStO",
+      "prerequisiteId": "mt_ZuXC3JZOiP",
+      "strength": "hard",
+      "reason": "Salt analysis identifies the ions in a salt."
+    },
+    {
+      "topicId": "mt_qiL9cwqGZJ",
+      "prerequisiteId": "mt_ok9HgvTLM0",
+      "strength": "hard",
+      "reason": "Stoichiometry applies the mole concept to equations."
+    },
+    {
+      "topicId": "mt_qiL9cwqGZJ",
+      "prerequisiteId": "mt_Id4cr53vlQ",
+      "strength": "soft",
+      "reason": "Calculations start from a balanced equation."
+    },
+    {
+      "topicId": "mt_ylwMisPxtR",
+      "prerequisiteId": "mt_rswmjlVxDp",
+      "strength": "soft",
+      "reason": "Electrolysis works on the ions of an ionic compound."
+    },
+    {
+      "topicId": "mt_ylwMisPxtR",
+      "prerequisiteId": "mt_zsYW61cn_q",
+      "strength": "soft",
+      "reason": "What is deposited depends on the reactivity of the ions."
+    },
+    {
+      "topicId": "mt_sCiOnKwskY",
+      "prerequisiteId": "mt_zsYW61cn_q",
+      "strength": "hard",
+      "reason": "The method of extraction follows the reactivity series."
+    },
+    {
+      "topicId": "mt_sCiOnKwskY",
+      "prerequisiteId": "mt_ylwMisPxtR",
+      "strength": "soft",
+      "reason": "Reactive metals are extracted by electrolysis."
+    },
+    {
+      "topicId": "mt_qZPpTJ5cff",
+      "prerequisiteId": "mt_rKKThKZH56",
+      "strength": "soft",
+      "reason": "These compounds are studied as an alkali and an acid."
+    },
+    {
+      "topicId": "mt_qZPpTJ5cff",
+      "prerequisiteId": "mt_y2YljZczip",
+      "strength": "soft",
+      "reason": "The study of compounds follows the study of hydrogen."
+    },
+    {
+      "topicId": "mt_IsAnMOVWLH",
+      "prerequisiteId": "mt_rKKThKZH56",
+      "strength": "soft",
+      "reason": "Hydrochloric and sulphuric acid are studied as acids."
+    },
+    {
+      "topicId": "mt_pOUL9TLuwI",
+      "prerequisiteId": "mt_rswmjlVxDp",
+      "strength": "hard",
+      "reason": "Organic chemistry rests on the covalent bonding of carbon."
+    },
+    {
+      "topicId": "mt_pOUL9TLuwI",
+      "prerequisiteId": "mt_T7ICFeChaV",
+      "strength": "soft",
+      "reason": "Carbon’s bonding follows from its atomic structure."
+    },
+    {
+      "topicId": "mt_YO2I3xdcnr",
+      "prerequisiteId": "mt_pOUL9TLuwI",
+      "strength": "hard",
+      "reason": "Hydrocarbons are the first family of organic compounds."
     }
   ]
 }

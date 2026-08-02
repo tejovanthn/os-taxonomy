@@ -8,6 +8,19 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ICSE Chemistry integrated under Science (2026-08-03)
+- Science already had a solid chemistry base at 14–16 (valency, balancing
+  equations, atoms and molecules, atomic structure, chemical bonding, the mole
+  concept, periodic classification, reactivity series), so this is more
+  balanced: 17 standards, 8 aligned, 17 minted — reaction types, redox, water of
+  crystallisation, hard water, gas laws, acid rain/ozone (Class IX); acids/bases
+  and pH, salts, analytical chemistry, stoichiometry, electrolysis, metallurgy,
+  ammonia/nitric acid, HCl/sulphuric acid, and organic chemistry (Class X). All
+  land in the existing Matter & Materials Science domain.
+- Every standard covered; no bundlers/orphans; all 17 minted topics join the
+  main component; idempotent. 2,636 topics / 4,601 edges / 368 clusters;
+  validate green.
+
 ### ICSE Physics integrated — a senior physics build-out under Science (2026-08-03)
 - ICSE Physics is examined as its own subject, but the 14–16 band belongs to the
   composite **Science** subject here (the separate Physics subject holds 16–18),

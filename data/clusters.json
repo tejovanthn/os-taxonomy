@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 367,
+  "clusterCount": 368,
   "clusters": [
     {
       "subject": "English",
@@ -2253,6 +2253,13 @@
       "ageRangeStart": 15,
       "ageRangeEnd": 16,
       "summary": "Class X turns electricity into something useful and something to respect. Resistances combine in series and parallel; electrical power and energy explain the bills a household pays; and wiring, fuses and earthing show how the same current that lights a home can be made safe. The strand closes by joining electricity to magnetism: a current makes a magnetic field that turns a motor, and a changing field makes a current, which is how every power station generates its electricity."
+    },
+    {
+      "subject": "Science",
+      "domain": "Matter & Materials",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "Class X chemistry becomes systematic. Building on atoms, bonding and the periodic table, your child learns how acids, bases and salts behave and how the pH scale measures them; how an unknown salt is identified by the precipitate it forms; and how a balanced equation, read in moles, lets the amount of one substance be calculated from another. From there the course reaches into industry — electrolysis and electroplating, the extraction of metals by their reactivity, the preparation of key compounds, and the vast, separate world of carbon in organic chemistry."
     }
   ]
 }

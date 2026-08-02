@@ -49149,7 +49149,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabuses-icse-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 120,
+      "topicCount": 137,
       "topics": [
         {
           "key": "icse:MAT9.1",
@@ -50469,6 +50469,193 @@
             "class": "X",
             "strand": "Modern Physics",
             "description": "Radioactivity and changes in the nucleus, background radiation and safety; and nuclear fission and fusion."
+          }
+        },
+        {
+          "key": "icse:CHE9.1",
+          "code": "CHE9.1",
+          "data": {
+            "title": "Class IX The Language of Chemistry",
+            "subject": "Chemistry (IX–X)",
+            "class": "IX",
+            "strand": "The Language of Chemistry",
+            "description": "Symbols, valency and the formulae of compounds; balancing chemical equations; and relative atomic and molecular masses."
+          }
+        },
+        {
+          "key": "icse:CHE9.2",
+          "code": "CHE9.2",
+          "data": {
+            "title": "Class IX Chemical Changes and Reactions",
+            "subject": "Chemistry (IX–X)",
+            "class": "IX",
+            "strand": "Chemical Changes and Reactions",
+            "description": "The types of chemical change — combination, decomposition, displacement and double decomposition — and the energy absorbed or released in a reaction."
+          }
+        },
+        {
+          "key": "icse:CHE9.3",
+          "code": "CHE9.3",
+          "data": {
+            "title": "Class IX Water",
+            "subject": "Chemistry (IX–X)",
+            "class": "IX",
+            "strand": "Water",
+            "description": "Water as a solvent; water of crystallisation, hydrated and anhydrous substances and drying agents; and hard and soft water and the removal of hardness."
+          }
+        },
+        {
+          "key": "icse:CHE9.4",
+          "code": "CHE9.4",
+          "data": {
+            "title": "Class IX Atomic Structure and Chemical Bonding",
+            "subject": "Chemistry (IX–X)",
+            "class": "IX",
+            "strand": "Atomic Structure and Chemical Bonding",
+            "description": "The structure of the atom and the Rutherford and Bohr models; and electrovalent and covalent bonding through the transfer or sharing of electrons."
+          }
+        },
+        {
+          "key": "icse:CHE9.5",
+          "code": "CHE9.5",
+          "data": {
+            "title": "Class IX The Periodic Table",
+            "subject": "Chemistry (IX–X)",
+            "class": "IX",
+            "strand": "The Periodic Table",
+            "description": "The modern periodic table arranged in groups and periods, and the zero (noble gas) group."
+          }
+        },
+        {
+          "key": "icse:CHE9.6",
+          "code": "CHE9.6",
+          "data": {
+            "title": "Class IX Study of Hydrogen",
+            "subject": "Chemistry (IX–X)",
+            "class": "IX",
+            "strand": "Study of Hydrogen",
+            "description": "The preparation of hydrogen from water, acids and alkalis and its industrial manufacture; and oxidation and reduction as the addition or removal of oxygen or hydrogen."
+          }
+        },
+        {
+          "key": "icse:CHE9.7",
+          "code": "CHE9.7",
+          "data": {
+            "title": "Class IX Study of Gas Laws",
+            "subject": "Chemistry (IX–X)",
+            "class": "IX",
+            "strand": "Study of Gas Laws",
+            "description": "The behaviour of gases under changing temperature and pressure explained by molecular motion; the Kelvin scale; and standard temperature and pressure."
+          }
+        },
+        {
+          "key": "icse:CHE9.8",
+          "code": "CHE9.8",
+          "data": {
+            "title": "Class IX Atmospheric and Environmental Chemistry",
+            "subject": "Chemistry (IX–X)",
+            "class": "IX",
+            "strand": "Atmospheric and Environmental Chemistry",
+            "description": "Acid rain and its causes and impact; global warming and the greenhouse gases; and the depletion of the ozone layer."
+          }
+        },
+        {
+          "key": "icse:CHE10.1",
+          "code": "CHE10.1",
+          "data": {
+            "title": "Class X Periodic Properties",
+            "subject": "Chemistry (IX–X)",
+            "class": "X",
+            "strand": "Periodic Properties",
+            "description": "The variation of physical and chemical properties — atomic size, ionisation energy, metallic and non-metallic character — across the periods and down the groups of the periodic table."
+          }
+        },
+        {
+          "key": "icse:CHE10.2",
+          "code": "CHE10.2",
+          "data": {
+            "title": "Class X Chemical Bonding",
+            "subject": "Chemistry (IX–X)",
+            "class": "X",
+            "strand": "Chemical Bonding",
+            "description": "Electrovalent, covalent and coordinate bonding and the structures of common molecules and ions."
+          }
+        },
+        {
+          "key": "icse:CHE10.3",
+          "code": "CHE10.3",
+          "data": {
+            "title": "Class X Study of Acids, Bases and Salts",
+            "subject": "Chemistry (IX–X)",
+            "class": "X",
+            "strand": "Study of Acids, Bases and Salts",
+            "description": "The properties of acids, bases and alkalis and the pH scale; the types of salts and their preparation by the appropriate method."
+          }
+        },
+        {
+          "key": "icse:CHE10.4",
+          "code": "CHE10.4",
+          "data": {
+            "title": "Class X Analytical Chemistry",
+            "subject": "Chemistry (IX–X)",
+            "class": "X",
+            "strand": "Analytical Chemistry",
+            "description": "Identifying ions by the action of sodium hydroxide and ammonium hydroxide on salt solutions, and by the colour and solubility of precipitates."
+          }
+        },
+        {
+          "key": "icse:CHE10.5",
+          "code": "CHE10.5",
+          "data": {
+            "title": "Class X Mole Concept and Stoichiometry",
+            "subject": "Chemistry (IX–X)",
+            "class": "X",
+            "strand": "Mole Concept and Stoichiometry",
+            "description": "The mole, Avogadro’s number and molar volume; and calculations of mass and volume from balanced equations."
+          }
+        },
+        {
+          "key": "icse:CHE10.6",
+          "code": "CHE10.6",
+          "data": {
+            "title": "Class X Electrolysis",
+            "subject": "Chemistry (IX–X)",
+            "class": "X",
+            "strand": "Electrolysis",
+            "description": "Electrolytes and non-electrolytes; the electrolysis of molten and aqueous compounds; and its applications including electroplating."
+          }
+        },
+        {
+          "key": "icse:CHE10.7",
+          "code": "CHE10.7",
+          "data": {
+            "title": "Class X Metallurgy",
+            "subject": "Chemistry (IX–X)",
+            "class": "X",
+            "strand": "Metallurgy",
+            "description": "The occurrence of metals as ores; the extraction of a metal according to its position in the reactivity series; and the extraction of aluminium."
+          }
+        },
+        {
+          "key": "icse:CHE10.8",
+          "code": "CHE10.8",
+          "data": {
+            "title": "Class X Study of Compounds",
+            "subject": "Chemistry (IX–X)",
+            "class": "X",
+            "strand": "Study of Compounds",
+            "description": "The laboratory preparation and properties of hydrogen chloride, ammonia, nitric acid and sulphuric acid."
+          }
+        },
+        {
+          "key": "icse:CHE10.9",
+          "code": "CHE10.9",
+          "data": {
+            "title": "Class X Organic Chemistry",
+            "subject": "Chemistry (IX–X)",
+            "class": "X",
+            "strand": "Organic Chemistry",
+            "description": "Carbon and catenation; hydrocarbons — alkanes, alkenes and alkynes; functional groups, alcohols and carboxylic acids; and IUPAC nomenclature."
           }
         }
       ]
