@@ -5,7 +5,7 @@ Last updated 2026-08-01.
 
 ## Where things stand
 
-2,579 topics · 4,528 edges · 4,345 standards · 363 clusters · 16 curriculum
+2,594 topics · 4,552 edges · 4,359 standards · 365 clusters · 16 curriculum
 sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
 All build scripts idempotent (re-run adds zero). Only two topics now sit outside
 the main graph component (the Kannada and Dance singletons); the Visual Arts and
@@ -15,8 +15,14 @@ Home Science islands were connected by the ICSE Art and Home Science passes.
 source `icse` (Classes IX–X, 14–16) added, red tier (Marble factual
 descriptions, no CISCE text — see PROVENANCE). Shared board helper
 `scripts/build/cisce.mjs` serves both `icse` and the forthcoming `isc`
-(Classes XI–XII, 16–18). **ICSE done so far (5 subjects, committed): Mathematics,
-Computer Applications, Economics, Art, Home Science.** Mathematics
+(Classes XI–XII, 16–18). **ICSE done so far (6 subjects, committed): Mathematics,
+Computer Applications, Economics, Art, Home Science, Commercial Studies.**
+Commercial Studies (`icse-commercial-studies.mjs`): 14 standards, 24 aligned, 15
+minted across Business Studies (functional departments, communication,
+e-commerce, environment, stakeholders, marketing/pricing, raising capital, HR,
+logistics, digital banking, fraud) and Accountancy (capital/revenue, cost
+classification, budgeting); two new domains (Human Resources, Cost and Management
+Accounting); four reverse-anchors from senior BS topics. Mathematics
 (`icse-mathematics.mjs`): 29 standards, 22 aligned, 21 minted. Computer
 Applications (`icse-computer-applications.mjs`): 18 standards, 17 minted — a new
 **Programming** domain under Computing (Java OOP). Economics (`icse-economics.mjs`):
@@ -28,13 +34,13 @@ Home Science were drafted by subagents and then fully verified before running.
 The user's priority is to work through the subjects that ALREADY exist as
 subjects first, preserving micro-topic granularity.
 
-**Next up: Commercial Studies→Business Studies (+ some Accountancy).** It was
-dispatched to a subagent on 2026-08-01 but that agent hit the account session
-limit and FAILED before writing its file — no draft exists, do it directly
-(research note it left: there are reverse-anchor senior Business Studies topics
-to link down to). Then: Physics/Chemistry/Biology/Environmental Science→Science,
+**Next up: the three sciences + Environmental Science → Science** (ICSE Physics,
+Chemistry, Biology are Classes IX–X = ages 14–16, so they map to the **Science**
+subject, aligning against the existing ncert-sec / nios-sec Science ladder — NOT
+to the 16–18 Physics/Chemistry/Biology subjects). Then
 History&Civics→History+Political Science, Geography, Performing Arts→Music/Dance,
-English — then the ISC (XI–XII) pass onto the ncert-hsec ladders. Then the ISC
+English — then the ISC (XI–XII) pass onto the ncert-hsec ladders (ISC Physics →
+Physics subject, etc.). Then the ISC
 (XI–XII) pass onto the ncert-hsec ladders. ISC-only new subjects (AI, Robotics,
 Legal Studies, Entrepreneurship, Applied Maths, Engineering Science,
 Electricity & Electronics, Biotechnology) are deferred — they would each be a
@@ -66,12 +72,11 @@ idempotent.
 
 ## Single next step
 
-**Continue the ICSE pass: integrate ICSE Commercial Studies (→ Business Studies,
-some Accountancy) next** — the subagent assigned it failed on the session limit
-without producing a file, so write it directly, following `icse-economics.mjs`
-(align-heavy) and `icse-computer-applications.mjs` (mint-heavy) as templates.
-Then the three sciences + Environmental Science →
-Science, History&Civics→History+Political Science, Geography, Performing
+**Continue the ICSE pass: integrate ICSE Physics, Chemistry, Biology and
+Environmental Science → the Science subject next** (align-heavy against the
+existing 14–16 Science ladder; syllabus texts `10.-Physics.txt`,
+`11.-Chemistry.txt`, `12.-Biology.txt`, `17.-Environmental-Science.txt` in the
+scratchpad). Then History&Civics→History+Political Science, Geography, Performing
 Arts→Music/Dance, English — then the ISC (XI–XII) pass onto the ncert-hsec
 ladders. Method: align-first (use the scratchpad `q.mjs` to find existing topics
 before minting), one idea per topic, red-tier descriptions. The scratchpad also

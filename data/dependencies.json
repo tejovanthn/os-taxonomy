@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4528,
+  "edgeCount": 4552,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -27170,6 +27170,150 @@
       "prerequisiteId": "mt_dUhO5xkNFI",
       "strength": "soft",
       "reason": "Using aids well draws on communication skills."
+    },
+    {
+      "topicId": "mt_bUL3ZjtkHE",
+      "prerequisiteId": "mt_3owJnUWaIX",
+      "strength": "hard",
+      "reason": "Departments divide the work of the business."
+    },
+    {
+      "topicId": "mt_lgHnjX1xg4",
+      "prerequisiteId": "mt_5M07PDAyVs",
+      "strength": "soft",
+      "reason": "Business communication uses communication services."
+    },
+    {
+      "topicId": "mt_lgHnjX1xg4",
+      "prerequisiteId": "mt_bUL3ZjtkHE",
+      "strength": "soft",
+      "reason": "Communication links the departments of a business."
+    },
+    {
+      "topicId": "mt_DlcoqysTip",
+      "prerequisiteId": "mt_B6PvJm1RfI",
+      "strength": "hard",
+      "reason": "E-commerce is a form of retail trade."
+    },
+    {
+      "topicId": "mt_DlcoqysTip",
+      "prerequisiteId": "mt_wEUSyJgmpN",
+      "strength": "soft",
+      "reason": "Online trade is one of the emerging modes of business."
+    },
+    {
+      "topicId": "mt_By6MiH8395",
+      "prerequisiteId": "mt_eYQngys1jt",
+      "strength": "soft",
+      "reason": "Environmental duty falls on industry and commerce."
+    },
+    {
+      "topicId": "mt_myWzFBg2gk",
+      "prerequisiteId": "mt_3owJnUWaIX",
+      "strength": "hard",
+      "reason": "Stakeholders are defined by their interest in the business."
+    },
+    {
+      "topicId": "mt_RESOwH0gg5",
+      "prerequisiteId": "mt_QpVZDtR6gS",
+      "strength": "hard",
+      "reason": "Advertising is a tool of marketing."
+    },
+    {
+      "topicId": "mt_RESOwH0gg5",
+      "prerequisiteId": "mt_DF3mAcfJFq",
+      "strength": "soft",
+      "reason": "Marketing builds on the buying and selling of goods."
+    },
+    {
+      "topicId": "mt_CE2ZJxe76u",
+      "prerequisiteId": "mt_aCpvoRDicq",
+      "strength": "hard",
+      "reason": "Shares and debentures are how a company raises capital."
+    },
+    {
+      "topicId": "mt_Dkf8DHyek0",
+      "prerequisiteId": "mt_3owJnUWaIX",
+      "strength": "soft",
+      "reason": "Recruitment staffs the departments of a business."
+    },
+    {
+      "topicId": "mt_3QlPmCSBjX",
+      "prerequisiteId": "mt_Dkf8DHyek0",
+      "strength": "soft",
+      "reason": "Industrial relations concern the workers a business has taken on."
+    },
+    {
+      "topicId": "mt_vzGtrA4XSH",
+      "prerequisiteId": "mt_vMDmfFjuLm",
+      "strength": "hard",
+      "reason": "Logistics is built on transport."
+    },
+    {
+      "topicId": "mt_vzGtrA4XSH",
+      "prerequisiteId": "mt_SQToqd1SHT",
+      "strength": "hard",
+      "reason": "Logistics is built on warehousing."
+    },
+    {
+      "topicId": "mt_vzGtrA4XSH",
+      "prerequisiteId": "mt_JvNAuZXt8Z",
+      "strength": "soft",
+      "reason": "Insurance covers the risk of goods in transit."
+    },
+    {
+      "topicId": "mt_pkFKvdjUdf",
+      "prerequisiteId": "mt_RaLonugipz",
+      "strength": "hard",
+      "reason": "Digital banking extends the services of a bank."
+    },
+    {
+      "topicId": "mt_oiuEmNHRgK",
+      "prerequisiteId": "mt_pkFKvdjUdf",
+      "strength": "soft",
+      "reason": "Electronic payment opens new avenues for fraud."
+    },
+    {
+      "topicId": "mt_BEmSCrA8RA",
+      "prerequisiteId": "mt_s3QEwImLcY",
+      "strength": "hard",
+      "reason": "The capital/revenue split governs what enters the profit and loss account."
+    },
+    {
+      "topicId": "mt_sMN1CX4ZCc",
+      "prerequisiteId": "mt_s3QEwImLcY",
+      "strength": "soft",
+      "reason": "Costs are what the profit and loss account sets against revenue."
+    },
+    {
+      "topicId": "mt_qJdrQcYMfM",
+      "prerequisiteId": "mt_sMN1CX4ZCc",
+      "strength": "soft",
+      "reason": "A budget is built from an understanding of costs."
+    },
+    {
+      "topicId": "mt_F6e464lhkJ",
+      "prerequisiteId": "mt_By6MiH8395",
+      "strength": "hard",
+      "reason": "Senior social responsibility builds on business and the environment."
+    },
+    {
+      "topicId": "mt_TjESAIII6g",
+      "prerequisiteId": "mt_RESOwH0gg5",
+      "strength": "hard",
+      "reason": "The senior marketing mix builds on marketing and pricing."
+    },
+    {
+      "topicId": "mt_K6HNJ5Ru7s",
+      "prerequisiteId": "mt_CE2ZJxe76u",
+      "strength": "hard",
+      "reason": "Senior sources of finance build on raising capital through shares and debentures."
+    },
+    {
+      "topicId": "mt_WJEYebqvSi",
+      "prerequisiteId": "mt_Dkf8DHyek0",
+      "strength": "hard",
+      "reason": "Senior staffing builds on recruitment, selection and training."
     }
   ]
 }

@@ -8,6 +8,23 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ICSE Commercial Studies integrated (2026-08-03)
+- Commercial Studies is a broad commerce survey spanning both Business Studies
+  and Accountancy, both of which already have dense 14–16 ladders, so this is
+  align-heavy: 14 standards, 24 topics aligned (commercial activities and forms
+  of organisation, the whole introductory accounting cycle, banking, advertising
+  and sales promotion, consumer protection, transport/warehousing/insurance all
+  already existed), 15 minted — functional departments, business communication,
+  e-commerce, business and the environment, stakeholders, marketing and pricing,
+  raising capital, recruitment and training, industrial relations, logistics,
+  digital banking, financial fraud (Business Studies); capital vs revenue, cost
+  classification, budgeting (Accountancy). Two new domains: Human Resources
+  (Business Studies) and Cost and Management Accounting (Accountancy).
+- Four mints are reverse-anchored from the senior (16–18) Business Studies
+  topics that build on them (social responsibility, marketing mix, sources of
+  finance, staffing). Every standard covered; no bundlers/orphans; idempotent.
+  2,594 topics / 4,552 edges / 365 clusters; validate green.
+
 ### ICSE Home Science integrated — the island connects (2026-08-01)
 - Home Science was a 9-topic island. ICSE Home Science covers all five streams
   across two years, so this pass adds 24 standards, 4 aligned to existing topics

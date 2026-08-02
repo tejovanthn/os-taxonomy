@@ -49149,7 +49149,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabuses-icse-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 92,
+      "topicCount": 106,
       "topics": [
         {
           "key": "icse:MAT9.1",
@@ -50161,6 +50161,160 @@
             "class": "X",
             "strand": "Communication Aids",
             "description": "The meaning and use of communication aids — posters, brochures, pamphlets, puppet shows and street plays — for addressing social concerns."
+          }
+        },
+        {
+          "key": "icse:CST9.1",
+          "code": "CST9.1",
+          "data": {
+            "title": "Class IX Commercial Activities",
+            "subject": "Commercial Studies (IX–X)",
+            "class": "IX",
+            "strand": "Commercial Activities",
+            "description": "Commercial and non-commercial activities; business, profession and employment; the classification of industry and of commerce into trade and the aids to trade; and the forms of commercial organisation by ownership."
+          }
+        },
+        {
+          "key": "icse:CST9.2",
+          "code": "CST9.2",
+          "data": {
+            "title": "Class IX Departments of a Commercial Organisation",
+            "subject": "Commercial Studies (IX–X)",
+            "class": "IX",
+            "strand": "Departments of a Commercial Organisation",
+            "description": "The meaning and objectives of the main functional departments — production, marketing and sales, finance and accounting, and human resources."
+          }
+        },
+        {
+          "key": "icse:CST9.3",
+          "code": "CST9.3",
+          "data": {
+            "title": "Class IX Communication in Commercial Organisations",
+            "subject": "Commercial Studies (IX–X)",
+            "class": "IX",
+            "strand": "Communication in Commercial Organisations",
+            "description": "The meaning and process of communication and its role in an organisation, and the methods used — letter, email, audio and video conferencing and social media."
+          }
+        },
+        {
+          "key": "icse:CST9.4",
+          "code": "CST9.4",
+          "data": {
+            "title": "Class IX Introduction to Accounting and Bookkeeping",
+            "subject": "Commercial Studies (IX–X)",
+            "class": "IX",
+            "strand": "Introduction to Accounting and Bookkeeping",
+            "description": "The meaning and objectives of accounting, the accounting cycle and its terminology; the basic principles and concepts; and recording through the journal, ledger and trial balance."
+          }
+        },
+        {
+          "key": "icse:CST9.5",
+          "code": "CST9.5",
+          "data": {
+            "title": "Class IX Banking",
+            "subject": "Commercial Studies (IX–X)",
+            "class": "IX",
+            "strand": "Banking",
+            "description": "The functions of commercial banks and the types of bank account — savings, current, recurring and fixed."
+          }
+        },
+        {
+          "key": "icse:CST9.6",
+          "code": "CST9.6",
+          "data": {
+            "title": "Class IX Trade: E-commerce",
+            "subject": "Commercial Studies (IX–X)",
+            "class": "IX",
+            "strand": "Trade: E-commerce",
+            "description": "E-commerce and e-trade, and the merits and demerits of online trading."
+          }
+        },
+        {
+          "key": "icse:CST9.7",
+          "code": "CST9.7",
+          "data": {
+            "title": "Class IX Social Responsibility towards the Environment",
+            "subject": "Commercial Studies (IX–X)",
+            "class": "IX",
+            "strand": "Social Responsibility towards the Environment",
+            "description": "The responsibility of a commercial organisation towards the environment — e-waste management, recycling, afforestation, eco-friendly products and legal compliance."
+          }
+        },
+        {
+          "key": "icse:CST10.1",
+          "code": "CST10.1",
+          "data": {
+            "title": "Class X Stakeholders in Commercial Organisations",
+            "subject": "Commercial Studies (IX–X)",
+            "class": "X",
+            "strand": "Stakeholders in Commercial Organisations",
+            "description": "Internal and external stakeholders — shareholders, employees, employers, suppliers, creditors, government and society — and what each expects of a commercial organisation."
+          }
+        },
+        {
+          "key": "icse:CST10.2",
+          "code": "CST10.2",
+          "data": {
+            "title": "Class X Marketing and Sales",
+            "subject": "Commercial Studies (IX–X)",
+            "class": "X",
+            "strand": "Marketing and Sales",
+            "description": "Marketing and how it differs from sales; product versus service; pricing; advertising, publicity and sales promotion; consumer protection; and e-commerce."
+          }
+        },
+        {
+          "key": "icse:CST10.3",
+          "code": "CST10.3",
+          "data": {
+            "title": "Class X Finance and Accounting",
+            "subject": "Commercial Studies (IX–X)",
+            "class": "X",
+            "strand": "Finance and Accounting",
+            "description": "Capital and revenue receipts and expenditure; the final accounts of a sole proprietorship; cost classification; budgeting; and sources of finance including the capital market, shares and debentures."
+          }
+        },
+        {
+          "key": "icse:CST10.4",
+          "code": "CST10.4",
+          "data": {
+            "title": "Class X Human Resources",
+            "subject": "Commercial Studies (IX–X)",
+            "class": "X",
+            "strand": "Human Resources",
+            "description": "Recruitment, selection and training; industrial relations and trade unions; and the concept of social security."
+          }
+        },
+        {
+          "key": "icse:CST10.5",
+          "code": "CST10.5",
+          "data": {
+            "title": "Class X Logistics",
+            "subject": "Commercial Studies (IX–X)",
+            "class": "X",
+            "strand": "Logistics",
+            "description": "Logistics and its parts — transport by land, air and water; warehousing and its types; and insurance and its principles."
+          }
+        },
+        {
+          "key": "icse:CST10.6",
+          "code": "CST10.6",
+          "data": {
+            "title": "Class X Banking",
+            "subject": "Commercial Studies (IX–X)",
+            "class": "X",
+            "strand": "Banking",
+            "description": "The functions of the central bank and how it differs from a commercial bank; internet banking and modes of transferring money; cards; and financial fraud."
+          }
+        },
+        {
+          "key": "icse:CST10.7",
+          "code": "CST10.7",
+          "data": {
+            "title": "Class X Government Initiatives in Environment Protection",
+            "subject": "Commercial Studies (IX–X)",
+            "class": "X",
+            "strand": "Government Initiatives in Environment Protection",
+            "description": "The Environment (Protection) Act 1986 and the functions of the Central Pollution Control Board."
           }
         }
       ]

@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 363,
+  "clusterCount": 365,
   "clusters": [
     {
       "subject": "English",
@@ -2225,6 +2225,20 @@
       "ageRangeStart": 15,
       "ageRangeEnd": 16,
       "summary": "Class X opens with the family budget — a plan that matches what a household earns against what it spends. A budget may run to a surplus, balance, or fall into deficit, and its shape depends on the size and circumstances of the family. The learner follows the steps of drawing one up and sees why saving is built in rather than left to chance."
+    },
+    {
+      "subject": "Business Studies",
+      "domain": "Human Resources",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "A business runs on its people, and this is how it manages them. The learner follows a role from the outside in — recruiting candidates from within the firm or beyond it, selecting among them by test and interview, and training the chosen ones on or off the job. Beyond hiring lies the ongoing relationship: industrial relations between workers and employers, the trade unions that give workers a collective voice, and the social security — provident fund, gratuity, pension — that protects them."
+    },
+    {
+      "subject": "Accountancy",
+      "domain": "Cost and Management Accounting",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "Where financial accounting reports what has happened, cost and management accounting helps decide what to do next. The learner first classifies costs — fixed or variable as output changes, direct or indirect to the product — so the true cost of a thing can be found. Budgeting then looks forward: a financial plan for the period ahead, different from a mere forecast, built up from sales, production, cash and purchase budgets into one master budget that steers the business."
     }
   ]
 }

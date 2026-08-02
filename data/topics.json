@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2579,
+  "topicCount": 2594,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -36714,7 +36714,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what business is — producing or trading goods and services for profit — and what it covers?",
       "standards": [
-        "nios-sec-2020:215.M1.L1"
+        "nios-sec-2020:215.M1.L1",
+        "icse:CST9.1"
       ]
     },
     {
@@ -36734,7 +36735,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain the difference between industry (making things) and commerce (trading and the services that support it)?",
       "standards": [
-        "nios-sec-2020:215.M1.L2"
+        "nios-sec-2020:215.M1.L2",
+        "icse:CST9.1"
       ]
     },
     {
@@ -36754,7 +36756,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain the difference between a business owned by one person and one owned by partners?",
       "standards": [
-        "nios-sec-2020:215.M2.L3"
+        "nios-sec-2020:215.M2.L3",
+        "icse:CST9.1"
       ]
     },
     {
@@ -36774,7 +36777,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what a company is (owned by shareholders) and how a cooperative is different?",
       "standards": [
-        "nios-sec-2020:215.M2.L4"
+        "nios-sec-2020:215.M2.L4",
+        "icse:CST9.1"
       ]
     },
     {
@@ -36814,7 +36818,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what retail trade is and give examples of different kinds of shops and sellers?",
       "standards": [
-        "nios-sec-2020:215.M4.L14"
+        "nios-sec-2020:215.M4.L14",
+        "icse:CST9.1"
       ]
     },
     {
@@ -36854,7 +36859,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what accounting is — keeping an organised record of a business’s money — and why it matters?",
       "standards": [
-        "nios-sec-2020:224.M1.L1"
+        "nios-sec-2020:224.M1.L1",
+        "icse:CST9.4"
       ]
     },
     {
@@ -36874,7 +36880,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why accounting follows agreed rules — like keeping the business’s money separate from the owner’s?",
       "standards": [
-        "nios-sec-2020:224.M1.L2"
+        "nios-sec-2020:224.M1.L2",
+        "icse:CST9.4"
       ]
     },
     {
@@ -36894,7 +36901,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain the accounting equation — that what a business owns equals what it owes plus the owner’s stake?",
       "standards": [
-        "nios-sec-2020:224.M1.L3"
+        "nios-sec-2020:224.M1.L3",
+        "icse:CST9.4"
       ]
     },
     {
@@ -36914,7 +36922,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain double-entry bookkeeping — that every transaction has a debit and a credit — and make a journal entry?",
       "standards": [
-        "nios-sec-2020:224.M2.L4"
+        "nios-sec-2020:224.M2.L4",
+        "icse:CST9.4"
       ]
     },
     {
@@ -36955,7 +36964,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what the ledger is for — gathering all of each account’s transactions in one place — and balance an account?",
       "standards": [
-        "nios-sec-2020:224.M3.L7"
+        "nios-sec-2020:224.M3.L7",
+        "icse:CST9.4"
       ]
     },
     {
@@ -36975,7 +36985,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how a trial balance checks that the books balance, with total debits equal to total credits?",
       "standards": [
-        "nios-sec-2020:224.M3.L8"
+        "nios-sec-2020:224.M3.L8",
+        "icse:CST9.4"
       ]
     },
     {
@@ -37620,7 +37631,9 @@
       ],
       "assessmentPrompt": "Can {{name}} explain the banking services a business uses — holding money, making payments, and borrowing?",
       "standards": [
-        "nios-sec-2020:215.M3.L9"
+        "nios-sec-2020:215.M3.L9",
+        "icse:CST9.5",
+        "icse:CST10.6"
       ]
     },
     {
@@ -37640,7 +37653,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how insurance protects a business — paying a premium so losses are covered if something goes wrong?",
       "standards": [
-        "nios-sec-2020:215.M3.L10"
+        "nios-sec-2020:215.M3.L10",
+        "icse:CST10.5"
       ]
     },
     {
@@ -37660,7 +37674,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how transport services move goods to where they are needed, and how a business chooses a mode?",
       "standards": [
-        "nios-sec-2020:215.M3.L5"
+        "nios-sec-2020:215.M3.L5",
+        "icse:CST10.5"
       ]
     },
     {
@@ -37680,7 +37695,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why a business stores goods in a warehouse, and how that helps it meet demand on time?",
       "standards": [
-        "nios-sec-2020:215.M3.L6"
+        "nios-sec-2020:215.M3.L6",
+        "icse:CST10.5"
       ]
     },
     {
@@ -37700,7 +37716,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how the profit-and-loss account shows whether a business made money over a period?",
       "standards": [
-        "nios-sec-2020:224.M5.L11"
+        "nios-sec-2020:224.M5.L11",
+        "icse:CST10.3"
       ]
     },
     {
@@ -37720,7 +37737,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how a balance sheet shows what a business owns and owes at a moment in time?",
       "standards": [
-        "nios-sec-2020:224.M5.L12"
+        "nios-sec-2020:224.M5.L12",
+        "icse:CST10.3"
       ]
     },
     {
@@ -42206,7 +42224,8 @@
         "ncert-sec:ECO.C10.MONEY",
         "nios-sec-2020:214.M5.L14",
         "nios-sec-2020:214.M5.L15",
-        "icse:ECO10.4"
+        "icse:ECO10.4",
+        "icse:CST10.6"
       ]
     },
     {
@@ -49744,7 +49763,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how communication services help a business keep in touch with customers and suppliers?",
       "standards": [
-        "nios-sec-2020:215.M3.L7"
+        "nios-sec-2020:215.M3.L7",
+        "icse:CST9.3"
       ]
     },
     {
@@ -49784,7 +49804,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what happens when a business buys goods to sell and then sells them on to customers?",
       "standards": [
-        "nios-sec-2020:215.M4.L12"
+        "nios-sec-2020:215.M4.L12",
+        "icse:CST10.2"
       ]
     },
     {
@@ -49824,7 +49845,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain why a business pays to advertise, and where its advertisements appear?",
       "standards": [
-        "nios-sec-2020:215.M4.L15"
+        "nios-sec-2020:215.M4.L15",
+        "icse:CST10.2"
       ]
     },
     {
@@ -49844,7 +49866,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain how special offers and discounts differ from ordinary advertising?",
       "standards": [
-        "nios-sec-2020:215.M4.L16"
+        "nios-sec-2020:215.M4.L16",
+        "icse:CST10.2"
       ]
     },
     {
@@ -49864,7 +49887,8 @@
       ],
       "assessmentPrompt": "Can {{name}} name some of the rights a consumer has, like the right to safety and to be informed?",
       "standards": [
-        "nios-sec-2020:215.M5.L17"
+        "nios-sec-2020:215.M5.L17",
+        "icse:CST10.2"
       ]
     },
     {
@@ -49884,7 +49908,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain what a consumer can do if a product or service treats them unfairly?",
       "standards": [
-        "nios-sec-2020:215.M5.L18"
+        "nios-sec-2020:215.M5.L18",
+        "icse:CST10.2"
       ]
     },
     {
@@ -52321,6 +52346,307 @@
       "assessmentPrompt": "Ask {{name}} for a good way — a poster, puppet show or street play — to spread an important message.",
       "standards": [
         "icse:HSC10.11"
+      ]
+    },
+    {
+      "id": "mt_bUL3ZjtkHE",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Foundations of Business",
+      "name": "Functional Departments of a Business",
+      "description": "Understand that a commercial organisation divides its work among departments — production, marketing and sales, finance and accounting, and human resources — each with its own objective, which have to be coordinated.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names the main functional departments of a business",
+        "States the objective of a given department",
+        "Explains why the departments must work together"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a large company splits its work into separate departments instead of everyone doing everything.",
+      "standards": [
+        "icse:CST9.2"
+      ]
+    },
+    {
+      "id": "mt_lgHnjX1xg4",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Foundations of Business",
+      "name": "Communication in a Business",
+      "description": "Understand communication as the passing of a message within and beyond an organisation, and how the channel chosen — letter, email, conference call or social media — suits the message and the audience.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains the role of communication in an organisation",
+        "Matches a communication method to a situation",
+        "Distinguishes formal from informal channels"
+      ],
+      "assessmentPrompt": "Ask {{name}} when a business would send a formal letter rather than a quick message, and why.",
+      "standards": [
+        "icse:CST9.3"
+      ]
+    },
+    {
+      "id": "mt_DlcoqysTip",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Trade and Marketing",
+      "name": "E-Commerce and Online Trading",
+      "description": "Understand e-commerce as buying and selling over the internet, and weigh what it gains — reach and convenience — against what it risks, from security to the loss of the personal touch.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains what e-commerce and e-trade mean",
+        "States a merit and a demerit of online trading",
+        "Contrasts online with traditional trade"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a shop gains and what it gives up by selling online instead of over a counter.",
+      "standards": [
+        "icse:CST9.6"
+      ]
+    },
+    {
+      "id": "mt_By6MiH8395",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business & Society",
+      "name": "Business and the Environment",
+      "description": "Understand that a business owes a duty to the environment — managing e-waste, recycling, planting trees, choosing eco-friendly products — and that laws such as the Environment Protection Act enforce that duty.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains a way a business can reduce its environmental harm",
+        "Explains why legal compliance on the environment matters",
+        "Names a body or law that regulates environmental protection"
+      ],
+      "assessmentPrompt": "Ask {{name}} what a factory should do about the waste and pollution it creates, and who makes sure it does.",
+      "standards": [
+        "icse:CST9.7",
+        "icse:CST10.7"
+      ]
+    },
+    {
+      "id": "mt_myWzFBg2gk",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Foundations of Business",
+      "name": "Stakeholders in a Business",
+      "description": "Understand a stakeholder as anyone with an interest in a business — inside it (shareholders, employees, employers) or outside it (suppliers, creditors, government, society) — each expecting something different of it.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes internal from external stakeholders",
+        "Names what a given stakeholder expects of a business",
+        "Explains why a business must balance competing stakeholder interests"
+      ],
+      "assessmentPrompt": "Ask {{name}} who besides the owner has a stake in how a company behaves, and what each of them wants.",
+      "standards": [
+        "icse:CST10.1"
+      ]
+    },
+    {
+      "id": "mt_RESOwH0gg5",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Trade and Marketing",
+      "name": "Marketing, Pricing and Sales",
+      "description": "Understand marketing as identifying and meeting customer needs — wider than selling — covering the difference between a product and a service and how the price of an offering is set.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes marketing from sales",
+        "Distinguishes a product from a service with examples",
+        "Explains an objective that guides how a price is set"
+      ],
+      "assessmentPrompt": "Ask {{name}} why selling something is only the last step of marketing it, not the whole of it.",
+      "standards": [
+        "icse:CST10.2"
+      ]
+    },
+    {
+      "id": "mt_CE2ZJxe76u",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Finance",
+      "name": "Raising Capital: Shares and Debentures",
+      "description": "Understand how a company raises long-term money by issuing shares (ownership) and debentures (loans) on the capital market, and short-term money through bank facilities, and how these differ.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes a share from a debenture",
+        "Explains the function of the capital market",
+        "Distinguishes a long-term from a short-term source of finance"
+      ],
+      "assessmentPrompt": "Ask {{name}} the difference between owning a piece of a company and lending it money.",
+      "standards": [
+        "icse:CST10.3"
+      ]
+    },
+    {
+      "id": "mt_Dkf8DHyek0",
+      "type": "PROCEDURAL",
+      "subject": "Business Studies",
+      "domain": "Human Resources",
+      "name": "Recruitment, Selection and Training",
+      "description": "Understand how a business fills a role — recruiting candidates from internal or external sources, selecting through tests and interviews, and training them on or off the job.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes internal from external recruitment and a trade-off of each",
+        "Orders the steps of selection",
+        "Distinguishes on-the-job from off-the-job training"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a company should promote someone already there or hire a stranger, and what each choice costs.",
+      "standards": [
+        "icse:CST10.4"
+      ]
+    },
+    {
+      "id": "mt_3QlPmCSBjX",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Human Resources",
+      "name": "Industrial Relations and Social Security",
+      "description": "Understand industrial relations as the dealings between workers and employers, the role of trade unions in representing workers, and social security as protection like provident fund, gratuity and pension.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains the objective of good industrial relations",
+        "States a function of a trade union",
+        "Names a form of social security for workers"
+      ],
+      "assessmentPrompt": "Ask {{name}} why workers band together into a union, and what they hope it achieves.",
+      "standards": [
+        "icse:CST10.4"
+      ]
+    },
+    {
+      "id": "mt_vzGtrA4XSH",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Services",
+      "name": "Logistics: Moving and Storing Goods",
+      "description": "Understand logistics as the business of getting goods to the right place at the right time, combining transport by land, air and water with warehousing to store them and insurance to cover the risk.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Matches a mode of transport to a suitable good with a reason",
+        "Explains the role of warehousing in logistics",
+        "Explains why goods in transit are insured"
+      ],
+      "assessmentPrompt": "Ask {{name}} everything that has to happen to get a parcel from a warehouse to their door.",
+      "standards": [
+        "icse:CST10.5"
+      ]
+    },
+    {
+      "id": "mt_pkFKvdjUdf",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Services",
+      "name": "Digital Banking and Payments",
+      "description": "Understand how money now moves electronically — NEFT, RTGS, IMPS, mobile wallets, and debit and credit cards — so payments settle without cash, and the care each method demands.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes two electronic modes of transferring money",
+        "Distinguishes a debit from a credit card",
+        "States a precaution when using a card or wallet"
+      ],
+      "assessmentPrompt": "Ask {{name}} how money reaches a shopkeeper when they pay by phone instead of with cash.",
+      "standards": [
+        "icse:CST10.6"
+      ]
+    },
+    {
+      "id": "mt_oiuEmNHRgK",
+      "type": "CONCEPTUAL",
+      "subject": "Business Studies",
+      "domain": "Business Services",
+      "name": "Financial Fraud",
+      "description": "Understand financial fraud as dishonest gain through deception — card fraud, false accounting, insurance and internet fraud — and why digital money creates new openings for it.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Identifies a type of financial fraud from a described case",
+        "Explains how one kind of fraud is carried out",
+        "Names a way to guard against a common fraud"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a stranger might misuse a stolen card number, and how to make that harder.",
+      "standards": [
+        "icse:CST10.6"
+      ]
+    },
+    {
+      "id": "mt_BEmSCrA8RA",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Financial Statements",
+      "name": "Capital and Revenue Items",
+      "description": "Understand the divide that shapes every account — capital items concern lasting assets and long-term funds, revenue items concern the day-to-day running — because putting one in the other’s place distorts the profit.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes capital from revenue expenditure",
+        "Distinguishes capital from revenue receipts",
+        "Classifies a described transaction correctly"
+      ],
+      "assessmentPrompt": "Ask {{name}} why buying a delivery van is treated differently from buying the fuel that runs it.",
+      "standards": [
+        "icse:CST10.3"
+      ]
+    },
+    {
+      "id": "mt_sMN1CX4ZCc",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Cost and Management Accounting",
+      "name": "Classifying Costs",
+      "description": "Understand that costs are grouped to be managed — by behaviour (fixed, variable or semi-variable as output changes) and by nature (direct or indirect to the product) — so a business knows what each thing truly costs.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Classifies a cost as fixed, variable or semi-variable",
+        "Distinguishes a direct from an indirect cost",
+        "Explains why classifying costs helps control them"
+      ],
+      "assessmentPrompt": "Ask {{name}} which of a bakery’s costs stay the same whether it bakes ten loaves or a hundred.",
+      "standards": [
+        "icse:CST10.3"
+      ]
+    },
+    {
+      "id": "mt_qJdrQcYMfM",
+      "type": "CONCEPTUAL",
+      "subject": "Accountancy",
+      "domain": "Cost and Management Accounting",
+      "name": "Budgeting",
+      "description": "Understand a budget as a financial plan for a period ahead, how it differs from a forecast, and how sales, production, cash, purchase and master budgets fit together to steer a business.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains the purpose of a budget",
+        "Distinguishes budgeting from forecasting",
+        "Names a type of budget and what it plans"
+      ],
+      "assessmentPrompt": "Ask {{name}} how planning next month’s spending in advance helps a business stay in control.",
+      "standards": [
+        "icse:CST10.3"
       ]
     }
   ]
