@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2678,
+  "topicCount": 2680,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -1936,7 +1936,8 @@
         "ccss-ela:L.6.2a",
         "ccss-ela:L.7.2a",
         "uk-nc-2013:KS3-ENG-GV-1a",
-        "ncert-sec:ENG.C910.COHESION"
+        "ncert-sec:ENG.C910.COHESION",
+        "icse:ENG.GRAMMAR"
       ]
     },
     {
@@ -1960,7 +1961,8 @@
         "ccss-ela:RL.7.5",
         "uk-nc-2013:KS3-ENG-GV-1b",
         "ncert-sec:ENG.C910.GRAM",
-        "ncert-hsec:ENG.C1112.GRAM"
+        "ncert-hsec:ENG.C1112.GRAM",
+        "icse:ENG.GRAMMAR"
       ]
     },
     {
@@ -2056,7 +2058,8 @@
         "ccss-ela:L.7.1b",
         "uk-nc-2013:KS3-ENG-GV-1a",
         "uk-nc-2013:KS3-ENG-GV-1b",
-        "ncert-sec:ENG.C910.GRAM"
+        "ncert-sec:ENG.C910.GRAM",
+        "icse:ENG.GRAMMAR"
       ]
     },
     {
@@ -2081,7 +2084,8 @@
         "ccss-ela:L.8.1d",
         "uk-nc-2013:KS3-ENG-GV-1a",
         "uk-nc-2013:KS3-ENG-GV-1b",
-        "ncert-sec:ENG.C910.GRAM"
+        "ncert-sec:ENG.C910.GRAM",
+        "icse:ENG.GRAMMAR"
       ]
     },
     {
@@ -4076,7 +4080,8 @@
         "ccss-ela:RL.7.5",
         "ccss-ela:RL.8.5",
         "uk-nc-2013:KS3-ENG-R-3a",
-        "ncert-sec:ENG.C910.READ"
+        "ncert-sec:ENG.C910.READ",
+        "icse:ENG.COMPRE"
       ]
     },
     {
@@ -4158,7 +4163,8 @@
         "ccss-ela:RL.7.4",
         "ccss-ela:RL.8.4",
         "uk-nc-2013:KS3-ENG-R-3a",
-        "ncert-hsec:ENG.C1112.LIT"
+        "ncert-hsec:ENG.C1112.LIT",
+        "icse:ENG.POETRY"
       ]
     },
     {
@@ -4185,7 +4191,8 @@
         "ccss-ela:RL.7.6",
         "ccss-ela:RL.8.6",
         "uk-nc-2013:KS3-ENG-R-3c",
-        "ncert-hsec:ENG.C1112.EL1"
+        "ncert-hsec:ENG.C1112.EL1",
+        "icse:ENG.PROSE"
       ]
     },
     {
@@ -4208,7 +4215,8 @@
         "ccss-ela:RL.6.3",
         "ccss-ela:RL.7.3",
         "ccss-ela:RL.8.3",
-        "uk-nc-2013:KS3-ENG-R-3c"
+        "uk-nc-2013:KS3-ENG-R-3c",
+        "icse:ENG.PROSE"
       ]
     },
     {
@@ -4234,7 +4242,8 @@
         "nios-sec-2020:202.LIT",
         "ncert-elem:ENG.C68.RDG",
         "ncert-sec:ENG.C910.READ",
-        "ncert-hsec:ENG.C1112.LIT"
+        "ncert-hsec:ENG.C1112.LIT",
+        "icse:ENG.POETRY"
       ]
     },
     {
@@ -4285,7 +4294,8 @@
         "ccss-ela:RL.7.2",
         "ccss-ela:RL.8.2",
         "uk-nc-2013:KS3-ENG-R-2d",
-        "ncert-sec:ENG.C910.READ"
+        "ncert-sec:ENG.C910.READ",
+        "icse:ENG.PROSE"
       ]
     },
     {
@@ -4335,7 +4345,8 @@
         "ccss-ela:RL.6.1",
         "ccss-ela:RL.7.1",
         "ccss-ela:RL.8.1",
-        "uk-nc-2013:KS3-ENG-R-2b"
+        "uk-nc-2013:KS3-ENG-R-2b",
+        "icse:ENG.COMPRE"
       ]
     },
     {
@@ -6605,7 +6616,8 @@
         "ccss-ela:W.8.2.c",
         "ccss-ela:W.8.3.c",
         "uk-nc-2013:KS3-ENG-W-1c",
-        "ncert-sec:ENG.C910.COHESION"
+        "ncert-sec:ENG.C910.COHESION",
+        "icse:ENG.COMP"
       ]
     },
     {
@@ -6635,7 +6647,8 @@
         "uk-nc-2013:KS3-ENG-W-1a",
         "uk-nc-2013:KS3-ENG-W-1b",
         "ncert-sec:ENG.C910.WRITE",
-        "ncert-sec:ENG.C910.TRANSCODE"
+        "ncert-sec:ENG.C910.TRANSCODE",
+        "icse:ENG.COMP"
       ]
     },
     {
@@ -6664,7 +6677,8 @@
         "ccss-ela:W.8.1.d",
         "ccss-ela:W.8.1.e",
         "uk-nc-2013:KS3-ENG-W-1a",
-        "ncert-sec:ENG.C910.WRITE"
+        "ncert-sec:ENG.C910.WRITE",
+        "icse:ENG.COMP"
       ]
     },
     {
@@ -6692,7 +6706,8 @@
         "uk-nc-2013:KS3-ENG-W-2c",
         "nios-sec-2020:202.WRT",
         "ncert-elem:ENG.C68.WRT",
-        "ncert-sec:ENG.C910.WRITE"
+        "ncert-sec:ENG.C910.WRITE",
+        "icse:ENG.COMP"
       ]
     },
     {
@@ -36716,7 +36731,8 @@
         "nios-sec-2020:202.STU",
         "ncert-elem:ENG.C68.RDG",
         "ncert-sec:ENG.C910.WRITE",
-        "ncert-hsec:ENG.C1112.CORE"
+        "ncert-hsec:ENG.C1112.CORE",
+        "icse:ENG.COMPRE"
       ]
     },
     {
@@ -54416,6 +54432,46 @@
       "assessmentPrompt": "Can {{name}} play or sing a piece so it is not just the right notes but real music?",
       "standards": [
         "icse:PA.WM.P"
+      ]
+    },
+    {
+      "id": "mt_N2DToBzl4a",
+      "type": "PROCEDURAL",
+      "subject": "English",
+      "domain": "Writing Composition",
+      "name": "Formal and Informal Letter Writing",
+      "description": "Understand that a letter’s format, register and tone change with its purpose and reader — a formal application follows conventions an informal note to a friend does not — and write each correctly.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Uses the correct format for a formal and an informal letter",
+        "Matches register and tone to the reader and purpose",
+        "Organises the body of a letter into clear, ordered points"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a letter asking a stranger for a job should differ from one inviting a friend to a party.",
+      "standards": [
+        "icse:ENG.LETTER"
+      ]
+    },
+    {
+      "id": "mt_EAQYdphcli",
+      "type": "CONCEPTUAL",
+      "subject": "English",
+      "domain": "Reading Comprehension",
+      "name": "Studying a Shakespeare Play",
+      "description": "Understand how to study a Shakespeare play in full — following its plot, weighing its characters and their motives, tracing its themes, and reading its verse and imagery closely.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Traces the plot and a subplot of the play",
+        "Analyses a major character and their motives",
+        "Explains a theme and supports it with the text"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a play written four hundred years ago still has something to say about mercy or greed today.",
+      "standards": [
+        "icse:ENG.DRAMA"
       ]
     }
   ]

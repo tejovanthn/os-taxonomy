@@ -8,6 +8,20 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ICSE English integrated — ICSE existing-subject pass complete (2026-08-03)
+- English is the taxonomy's richest ladder, so strongly align-first: 7 standards,
+  16 aligned (composition, comprehension, grammar, and the analytical study of
+  prose and poetry all already existed), 2 minted for the genuine gaps — formal
+  and informal letter writing, and the close study of a Shakespeare play (The
+  Merchant of Venice). Every standard covered; no bundlers/orphans; idempotent.
+- **This completes the ICSE existing-subject pass — 14 subjects integrated**
+  (Mathematics, Computer Applications, Economics, Art, Home Science, Commercial
+  Studies, Physics, Chemistry, Biology, Environmental Science, History & Civics,
+  Geography, Performing Arts, English). 185 new ICSE topics; 215 ICSE standards.
+  Remaining ICSE items are deferred new subjects (Drama, the second-language
+  Indian-language papers, and the purely-vocational streams). 2,680 topics /
+  4,674 edges / 375 clusters; validate green. Next: the ISC (XI–XII) pass.
+
 ### ICSE Performing Arts integrated (2026-08-03)
 - Candidates choose one stream. Three map to subjects with rich existing ladders
   (from the KSGH graded-examination pass) and align: Hindustani and Carnatic

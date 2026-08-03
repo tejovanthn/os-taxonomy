@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4669,
+  "edgeCount": 4674,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -28016,6 +28016,36 @@
       "prerequisiteId": "mt_rVEXPpTUW8",
       "strength": "soft",
       "reason": "Expressive performance draws on an understanding of harmony."
+    },
+    {
+      "topicId": "mt_N2DToBzl4a",
+      "prerequisiteId": "mt_av-uRBrhwT",
+      "strength": "hard",
+      "reason": "A letter is planned, drafted and revised like any writing."
+    },
+    {
+      "topicId": "mt_N2DToBzl4a",
+      "prerequisiteId": "mt_tn1rY9GbEZ",
+      "strength": "soft",
+      "reason": "A letter’s body needs cohesion and clear transitions."
+    },
+    {
+      "topicId": "mt_EAQYdphcli",
+      "prerequisiteId": "mt_tIi6L1n7kF",
+      "strength": "hard",
+      "reason": "Studying a play builds on understanding drama and performance."
+    },
+    {
+      "topicId": "mt_EAQYdphcli",
+      "prerequisiteId": "mt_Hqz5y_tWz2",
+      "strength": "soft",
+      "reason": "A play is followed through its plot and characters."
+    },
+    {
+      "topicId": "mt_EAQYdphcli",
+      "prerequisiteId": "mt_DVSHx3YMkN",
+      "strength": "soft",
+      "reason": "Reading Shakespeare’s verse draws on figurative language."
     }
   ]
 }

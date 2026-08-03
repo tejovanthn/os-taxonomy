@@ -5,7 +5,7 @@ Last updated 2026-08-01.
 
 ## Where things stand
 
-2,678 topics · 4,669 edges · 4,461 standards · 375 clusters · 16 curriculum
+2,680 topics · 4,674 edges · 4,468 standards · 375 clusters · 16 curriculum
 sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
 All build scripts idempotent (re-run adds zero). Only two topics now sit outside
 the main graph component (the Kannada and Dance singletons); the Visual Arts and
@@ -15,10 +15,14 @@ Home Science islands were connected by the ICSE Art and Home Science passes.
 source `icse` (Classes IX–X, 14–16) added, red tier (Marble factual
 descriptions, no CISCE text — see PROVENANCE). Shared board helper
 `scripts/build/cisce.mjs` serves both `icse` and the forthcoming `isc`
-(Classes XI–XII, 16–18). **ICSE done so far (13 subjects, committed):
-Mathematics, Computer Applications, Economics, Art, Home Science, Commercial
-Studies, Physics, Chemistry, Biology, Environmental Science, History & Civics,
-Geography, Performing Arts.** Performing Arts (`icse-performing-arts.mjs`): 8
+(Classes XI–XII, 16–18). **ICSE existing-subject pass COMPLETE — 14 subjects,
+all committed: Mathematics, Computer Applications, Economics, Art, Home Science,
+Commercial Studies, Physics, Chemistry, Biology, Environmental Science, History &
+Civics, Geography, Performing Arts, English.** (185 new ICSE topics; 215 ICSE
+standards.) English (`icse-english.mjs`): 7 standards, 16 aligned, 2 minted
+(letter writing; studying a Shakespeare play). Deferred ICSE items: Drama, the
+second-language Indian-language papers, and the vocational streams (all would be
+new subjects). Performing Arts (`icse-performing-arts.mjs`): 8
 standards, 15 aligned (Hindustani/Carnatic music → Music, Indian Dance → Dance,
 all onto KSGH ladders), 3 minted Western Music topics (new Western Music domain);
 the **Drama** stream is DEFERRED (no Drama/Theatre subject exists — like the
@@ -101,19 +105,22 @@ idempotent.
 
 ## Single next step
 
-**Continue the ICSE pass: integrate ICSE English → English next** (the LAST ICSE
-existing-subject; English has a large existing ladder, so expect align-heavy —
-reading comprehension, composition/writing, grammar, and the literature texts
-Merchant of Venice / poetry / prose. Align to existing English reading/writing/
-grammar topics at 14–16; mint only genuinely-absent items). Syllabus text
-`2.-English.txt` (`1.-English.pdf`) in the scratchpad. That finishes the ICSE
-existing-subject pass (Drama and the second-language Indian-language papers
-remain deferred — new subjects). Then the **ISC (XI–XII) pass onto the
-ncert-hsec ladders** (ISC Physics→Physics subject, ISC Economics→Economics, etc.;
-ISC texts in scratchpad `isc/`, 40 files). WATCH: run `audit.mjs icse` after each;
-anchor every new-topic chain's ROOT to a main-component topic. The refined
-bundler check flags only ≥3 standards from ONE subject (cross-subject reuse is
-fine). Then History&Civics→History+Political Science, Geography, Performing
+**Begin the ISC (XI–XII, ages 16–18) pass — onto the ncert-hsec ladders.** ISC
+maps to the SENIOR subjects: ISC Physics→Physics, ISC Chemistry→Chemistry, ISC
+Biology→Biology, ISC Mathematics→Mathematics, ISC Economics→Economics, ISC
+Business Studies→Business Studies, ISC Accountancy→Accountancy, ISC
+History→History, ISC Political Science→Political Science, ISC Geography→Geography,
+ISC Sociology→Sociology, ISC Psychology→Psychology, ISC Computer Science→
+Computing, ISC Home Science→Home Science, ISC Art→Visual Arts, ISC Music→Music,
+ISC English→English. These align against the dense ncert-hsec 16–18 ladders — so
+expect ISC to be very align-heavy (the ncert-hsec pass built out most senior
+content). Use `isc` (not `icse`) via `import { isc } from './cisce.mjs'`; the
+helper already exists. Standards codes should be ISC-specific (e.g. `ISC.PHY.U1`).
+Run `audit.mjs isc` after each (the audit takes the slug as arg). ISC syllabus
+texts are in scratchpad `icse-isc-txt/isc/` (40 files). ISC-only NEW subjects
+(AI, Robotics, Legal Studies, Entrepreneurship, Applied Maths, Engineering
+Science, Electricity & Electronics, Biotechnology, Geometrical Drawing) remain
+DEFERRED per the user (existing subjects first). Then History&Civics→History+Political Science, Geography, Performing
 Arts→Music/Dance, English — then the ISC (XI–XII) pass onto the ncert-hsec
 ladders. Method: align-first (use the scratchpad `q.mjs` to find existing topics
 before minting), one idea per topic, red-tier descriptions. The scratchpad also

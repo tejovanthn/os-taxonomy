@@ -49149,7 +49149,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabuses-icse-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 208,
+      "topicCount": 215,
       "topics": [
         {
           "key": "icse:MAT9.1",
@@ -51437,6 +51437,83 @@
             "class": "IX–X",
             "strand": "Western Music: Practical",
             "description": "The practical performance of Western music — playing or singing a prescribed piece with correct pitch, rhythm and expression."
+          }
+        },
+        {
+          "key": "icse:ENG.COMP",
+          "code": "ENG.COMP",
+          "data": {
+            "title": "Class IX–X Composition",
+            "subject": "English (IX–X)",
+            "class": "IX–X",
+            "strand": "Composition",
+            "description": "Writing a composition — descriptive, narrative, argumentative or discursive — planned, organised and expressed in accurate, appropriate English."
+          }
+        },
+        {
+          "key": "icse:ENG.LETTER",
+          "code": "ENG.LETTER",
+          "data": {
+            "title": "Class IX–X Letter Writing",
+            "subject": "English (IX–X)",
+            "class": "IX–X",
+            "strand": "Letter Writing",
+            "description": "Writing formal and informal letters in the correct format, register and tone for the purpose and reader."
+          }
+        },
+        {
+          "key": "icse:ENG.COMPRE",
+          "code": "ENG.COMPRE",
+          "data": {
+            "title": "Class IX–X Comprehension",
+            "subject": "English (IX–X)",
+            "class": "IX–X",
+            "strand": "Comprehension",
+            "description": "Reading an unseen passage and answering questions on its meaning, main idea and vocabulary, and summarising it."
+          }
+        },
+        {
+          "key": "icse:ENG.GRAMMAR",
+          "code": "ENG.GRAMMAR",
+          "data": {
+            "title": "Class IX–X Grammar",
+            "subject": "English (IX–X)",
+            "class": "IX–X",
+            "strand": "Grammar",
+            "description": "Accurate use of English grammar — tenses, voice, sentence structure, prepositions and the transformation of sentences."
+          }
+        },
+        {
+          "key": "icse:ENG.DRAMA",
+          "code": "ENG.DRAMA",
+          "data": {
+            "title": "Class IX–X Drama (The Merchant of Venice)",
+            "subject": "English (IX–X)",
+            "class": "IX–X",
+            "strand": "Drama (The Merchant of Venice)",
+            "description": "The close study of a Shakespeare play — its plot, characters, themes and language."
+          }
+        },
+        {
+          "key": "icse:ENG.PROSE",
+          "code": "ENG.PROSE",
+          "data": {
+            "title": "Class IX–X Prose (Short Stories)",
+            "subject": "English (IX–X)",
+            "class": "IX–X",
+            "strand": "Prose (Short Stories)",
+            "description": "The study of prescribed short stories — their plot, characters, setting and themes."
+          }
+        },
+        {
+          "key": "icse:ENG.POETRY",
+          "code": "ENG.POETRY",
+          "data": {
+            "title": "Class IX–X Poetry",
+            "subject": "English (IX–X)",
+            "class": "IX–X",
+            "strand": "Poetry",
+            "description": "The study of prescribed poems — their meaning, form, imagery and the poet’s craft."
           }
         }
       ]
