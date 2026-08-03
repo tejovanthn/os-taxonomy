@@ -51526,7 +51526,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabus-isc-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 108,
+      "topicCount": 147,
       "topics": [
         {
           "key": "isc:PHY.C11.U1",
@@ -52714,6 +52714,435 @@
             "class": "XII",
             "strand": "Not-for-Profit Accounting",
             "description": "Accounting for not-for-profit organisations."
+          }
+        },
+        {
+          "key": "isc:SOC.C11.U1",
+          "code": "SOC.C11.U1",
+          "data": {
+            "title": "Class XI Sociology and Society",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Sociology and Society",
+            "description": "What sociology studies, the sociological imagination, and society, social structure and social processes."
+          }
+        },
+        {
+          "key": "isc:SOC.C11.U2",
+          "code": "SOC.C11.U2",
+          "data": {
+            "title": "Class XI Basic Concepts",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Basic Concepts",
+            "description": "Social groups, status and role, culture and socialisation, and social control and deviance."
+          }
+        },
+        {
+          "key": "isc:SOC.C11.U3",
+          "code": "SOC.C11.U3",
+          "data": {
+            "title": "Class XI Social Institutions",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Social Institutions",
+            "description": "The family, religion, education, and political and economic institutions."
+          }
+        },
+        {
+          "key": "isc:SOC.C11.U4",
+          "code": "SOC.C11.U4",
+          "data": {
+            "title": "Class XI Social Stratification",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Social Stratification",
+            "description": "Social stratification by class, caste, race and gender."
+          }
+        },
+        {
+          "key": "isc:SOC.C11.U5",
+          "code": "SOC.C11.U5",
+          "data": {
+            "title": "Class XI Social Change and Order",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Social Change and Order",
+            "description": "Social change and its types, and social order, authority and law."
+          }
+        },
+        {
+          "key": "isc:SOC.C11.U6",
+          "code": "SOC.C11.U6",
+          "data": {
+            "title": "Class XI Sociological Thought and Methods",
+            "subject": "Sociology (XI–XII)",
+            "class": "XI",
+            "strand": "Sociological Thought and Methods",
+            "description": "The founding thinkers Marx, Durkheim and Weber, Indian sociologists, and sociological research methods."
+          }
+        },
+        {
+          "key": "isc:SOC.C12.U1",
+          "code": "SOC.C12.U1",
+          "data": {
+            "title": "Class XII Structure of Indian Society",
+            "subject": "Sociology (XI–XII)",
+            "class": "XII",
+            "strand": "Structure of Indian Society",
+            "description": "The demographic structure of Indian society, and the caste system, tribal society and inequality."
+          }
+        },
+        {
+          "key": "isc:SOC.C12.U2",
+          "code": "SOC.C12.U2",
+          "data": {
+            "title": "Class XII Social Institutions and Diversity",
+            "subject": "Sociology (XI–XII)",
+            "class": "XII",
+            "strand": "Social Institutions and Diversity",
+            "description": "The market as a social institution, and the challenges of communalism, regionalism and diversity."
+          }
+        },
+        {
+          "key": "isc:SOC.C12.U3",
+          "code": "SOC.C12.U3",
+          "data": {
+            "title": "Class XII Structural and Cultural Change",
+            "subject": "Sociology (XI–XII)",
+            "class": "XII",
+            "strand": "Structural and Cultural Change",
+            "description": "Colonialism and its legacy, industrialisation and urbanisation, and Sanskritisation, Westernisation and secularisation."
+          }
+        },
+        {
+          "key": "isc:SOC.C12.U4",
+          "code": "SOC.C12.U4",
+          "data": {
+            "title": "Class XII Change and Development in Rural and Urban India",
+            "subject": "Sociology (XI–XII)",
+            "class": "XII",
+            "strand": "Change and Development in Rural and Urban India",
+            "description": "The constitution as an instrument of change, land reforms and the green revolution, and life in village, town and city."
+          }
+        },
+        {
+          "key": "isc:SOC.C12.U5",
+          "code": "SOC.C12.U5",
+          "data": {
+            "title": "Class XII Globalisation and Social Change",
+            "subject": "Sociology (XI–XII)",
+            "class": "XII",
+            "strand": "Globalisation and Social Change",
+            "description": "Liberalisation and class change, media and globalisation, social movements, the struggle for women’s equality, and ecology and society."
+          }
+        },
+        {
+          "key": "isc:PSY.C11.U1",
+          "code": "PSY.C11.U1",
+          "data": {
+            "title": "Class XI What is Psychology and Its Methods",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "What is Psychology and Its Methods",
+            "description": "Psychology as a discipline and the methods of psychological enquiry."
+          }
+        },
+        {
+          "key": "isc:PSY.C11.U2",
+          "code": "PSY.C11.U2",
+          "data": {
+            "title": "Class XI Bases of Behaviour",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "Bases of Behaviour",
+            "description": "The biological bases of behaviour, and culture, socialisation and behaviour."
+          }
+        },
+        {
+          "key": "isc:PSY.C11.U3",
+          "code": "PSY.C11.U3",
+          "data": {
+            "title": "Class XI Human Development",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "Human Development",
+            "description": "Development across the life span and the challenges of adolescence."
+          }
+        },
+        {
+          "key": "isc:PSY.C11.U4",
+          "code": "PSY.C11.U4",
+          "data": {
+            "title": "Class XI Sensory, Attentional and Perceptual Processes",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "Sensory, Attentional and Perceptual Processes",
+            "description": "Sensation and perception, and selective and sustained attention."
+          }
+        },
+        {
+          "key": "isc:PSY.C11.U5",
+          "code": "PSY.C11.U5",
+          "data": {
+            "title": "Class XI Learning, Memory and Thinking",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "Learning, Memory and Thinking",
+            "description": "Learning and conditioning, human memory and forgetting, thinking and problem solving, and language and thought."
+          }
+        },
+        {
+          "key": "isc:PSY.C11.U6",
+          "code": "PSY.C11.U6",
+          "data": {
+            "title": "Class XI Motivation and Emotion",
+            "subject": "Psychology (XI–XII)",
+            "class": "XI",
+            "strand": "Motivation and Emotion",
+            "description": "The processes of motivation and emotion."
+          }
+        },
+        {
+          "key": "isc:PSY.C12.U1",
+          "code": "PSY.C12.U1",
+          "data": {
+            "title": "Class XII Intelligence and Individual Differences",
+            "subject": "Psychology (XI–XII)",
+            "class": "XII",
+            "strand": "Intelligence and Individual Differences",
+            "description": "Intelligence and its assessment, and special abilities, aptitude and creativity."
+          }
+        },
+        {
+          "key": "isc:PSY.C12.U2",
+          "code": "PSY.C12.U2",
+          "data": {
+            "title": "Class XII Self and Personality",
+            "subject": "Psychology (XI–XII)",
+            "class": "XII",
+            "strand": "Self and Personality",
+            "description": "The self and its cultural shaping, and theories of personality."
+          }
+        },
+        {
+          "key": "isc:PSY.C12.U3",
+          "code": "PSY.C12.U3",
+          "data": {
+            "title": "Class XII Mental Health and Disorders",
+            "subject": "Psychology (XI–XII)",
+            "class": "XII",
+            "strand": "Mental Health and Disorders",
+            "description": "Stress, coping and well-being, psychological disorders, and therapeutic approaches."
+          }
+        },
+        {
+          "key": "isc:PSY.C12.U4",
+          "code": "PSY.C12.U4",
+          "data": {
+            "title": "Class XII Social Psychology",
+            "subject": "Psychology (XI–XII)",
+            "class": "XII",
+            "strand": "Social Psychology",
+            "description": "Attitudes and prejudice, social cognition, conformity and obedience, and group processes."
+          }
+        },
+        {
+          "key": "isc:PSY.C12.U5",
+          "code": "PSY.C12.U5",
+          "data": {
+            "title": "Class XII Applying Psychology",
+            "subject": "Psychology (XI–XII)",
+            "class": "XII",
+            "strand": "Applying Psychology",
+            "description": "Developing psychological skills, environmental psychology, and psychology applied to social problems."
+          }
+        },
+        {
+          "key": "isc:GEO.C11.U1",
+          "code": "GEO.C11.U1",
+          "data": {
+            "title": "Class XI Geography as a Discipline and Maps",
+            "subject": "Geography (XI–XII)",
+            "class": "XI",
+            "strand": "Geography as a Discipline and Maps",
+            "description": "The nature of geography and maps, scale and projections."
+          }
+        },
+        {
+          "key": "isc:GEO.C11.U2",
+          "code": "GEO.C11.U2",
+          "data": {
+            "title": "Class XI The Earth and Its Landforms",
+            "subject": "Geography (XI–XII)",
+            "class": "XI",
+            "strand": "The Earth and Its Landforms",
+            "description": "The interior of the earth, plate tectonics, weathering and mass wasting, and erosional and depositional landforms."
+          }
+        },
+        {
+          "key": "isc:GEO.C11.U3",
+          "code": "GEO.C11.U3",
+          "data": {
+            "title": "Class XI Climatology",
+            "subject": "Geography (XI–XII)",
+            "class": "XI",
+            "strand": "Climatology",
+            "description": "The atmosphere and the heat budget, pressure, winds and circulation, and water in the atmosphere and world climates."
+          }
+        },
+        {
+          "key": "isc:GEO.C11.U4",
+          "code": "GEO.C11.U4",
+          "data": {
+            "title": "Class XI Oceanography and the Biosphere",
+            "subject": "Geography (XI–XII)",
+            "class": "XI",
+            "strand": "Oceanography and the Biosphere",
+            "description": "The oceans and their movements, and the biosphere and ecosystems."
+          }
+        },
+        {
+          "key": "isc:GEO.C12.U1",
+          "code": "GEO.C12.U1",
+          "data": {
+            "title": "Class XII Fundamentals of Human Geography",
+            "subject": "Geography (XI–XII)",
+            "class": "XII",
+            "strand": "Fundamentals of Human Geography",
+            "description": "The nature of human geography, primary, secondary and tertiary activities, and settlements."
+          }
+        },
+        {
+          "key": "isc:GEO.C12.U2",
+          "code": "GEO.C12.U2",
+          "data": {
+            "title": "Class XII Population, Transport and Trade",
+            "subject": "Geography (XI–XII)",
+            "class": "XII",
+            "strand": "Population, Transport and Trade",
+            "description": "World population and its change, transport and communication networks, and international trade."
+          }
+        },
+        {
+          "key": "isc:GEO.C12.U3",
+          "code": "GEO.C12.U3",
+          "data": {
+            "title": "Class XII India: Physical Environment and Resources",
+            "subject": "Geography (XI–XII)",
+            "class": "XII",
+            "strand": "India: Physical Environment and Resources",
+            "description": "India’s physiography, drainage and climate, and its land, water, mineral and energy resources."
+          }
+        },
+        {
+          "key": "isc:GEO.C12.U4",
+          "code": "GEO.C12.U4",
+          "data": {
+            "title": "Class XII India: People and Economy",
+            "subject": "Geography (XI–XII)",
+            "class": "XII",
+            "strand": "India: People and Economy",
+            "description": "India’s population, agriculture and industry, and planning and sustainable development."
+          }
+        },
+        {
+          "key": "isc:GEO.C12.U5",
+          "code": "GEO.C12.U5",
+          "data": {
+            "title": "Class XII Geographical Techniques",
+            "subject": "Geography (XI–XII)",
+            "class": "XII",
+            "strand": "Geographical Techniques",
+            "description": "Thematic mapping and spatial technology."
+          }
+        },
+        {
+          "key": "isc:POL.C11.U1",
+          "code": "POL.C11.U1",
+          "data": {
+            "title": "Class XI Political Theory and Democracy",
+            "subject": "Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Political Theory and Democracy",
+            "description": "What political theory studies and what democracy is and why it matters."
+          }
+        },
+        {
+          "key": "isc:POL.C11.U2",
+          "code": "POL.C11.U2",
+          "data": {
+            "title": "Class XI Freedom, Equality and Justice",
+            "subject": "Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Freedom, Equality and Justice",
+            "description": "Freedom and equality as political values, and social justice, rights and citizenship."
+          }
+        },
+        {
+          "key": "isc:POL.C11.U3",
+          "code": "POL.C11.U3",
+          "data": {
+            "title": "Class XI Nation, Secularism and Peace",
+            "subject": "Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "Nation, Secularism and Peace",
+            "description": "Nationalism, secularism and peace."
+          }
+        },
+        {
+          "key": "isc:POL.C11.U4",
+          "code": "POL.C11.U4",
+          "data": {
+            "title": "Class XI The Indian Constitution",
+            "subject": "Political Science (XI–XII)",
+            "class": "XI",
+            "strand": "The Indian Constitution",
+            "description": "Why a constitution and how it was made, its rights, and its electoral, executive, legislative and judicial framework."
+          }
+        },
+        {
+          "key": "isc:POL.C12.U1",
+          "code": "POL.C12.U1",
+          "data": {
+            "title": "Class XII The Working of Indian Democracy",
+            "subject": "Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "The Working of Indian Democracy",
+            "description": "Federalism and local government, the constitution as a living document, and the challenges to and outcomes of Indian democracy."
+          }
+        },
+        {
+          "key": "isc:POL.C12.U2",
+          "code": "POL.C12.U2",
+          "data": {
+            "title": "Class XII Politics in India Since Independence",
+            "subject": "Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Politics in India Since Independence",
+            "description": "The Nehru era and one-party dominance, the crisis and restoration of the constitutional order, and new social movements and coalition politics."
+          }
+        },
+        {
+          "key": "isc:POL.C12.U3",
+          "code": "POL.C12.U3",
+          "data": {
+            "title": "Class XII Democracy, Diversity and Social Movements",
+            "subject": "Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "Democracy, Diversity and Social Movements",
+            "description": "Democracy and social divisions, and social movements and democratic struggle."
+          }
+        },
+        {
+          "key": "isc:POL.C12.U4",
+          "code": "POL.C12.U4",
+          "data": {
+            "title": "Class XII International Relations",
+            "subject": "Political Science (XI–XII)",
+            "class": "XII",
+            "strand": "International Relations",
+            "description": "The Cold War and its end, US dominance and alternative centres of power, and global issues of security, environment and globalisation."
           }
         }
       ]

@@ -36536,7 +36536,8 @@
       "assessmentPrompt": "Can {{name}} describe a challenge facing India’s democracy and explain how citizens can help address it?",
       "standards": [
         "nios-sec-2020:213.M4.L23",
-        "ncert-sec:POL.C10.CHALLENGE"
+        "ncert-sec:POL.C10.CHALLENGE",
+        "isc:POL.C11.U1"
       ]
     },
     {
@@ -42105,7 +42106,8 @@
       "assessmentPrompt": "Ask {{name}} what would have to be true of a country before they would call it a democracy.",
       "standards": [
         "ncert-sec:POL.C9.WHAT",
-        "ncert-sec:POL.C9.SPREAD"
+        "ncert-sec:POL.C9.SPREAD",
+        "isc:POL.C11.U1"
       ]
     },
     {
@@ -42146,7 +42148,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why it might be safer for a large, diverse country not to keep all power in one place.",
       "standards": [
-        "ncert-sec:POL.C10.POWER"
+        "ncert-sec:POL.C10.POWER",
+        "isc:POL.C12.U1"
       ]
     },
     {
@@ -42166,7 +42169,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether it is a problem for democracy when people vote according to their community.",
       "standards": [
-        "ncert-sec:POL.C10.WORK"
+        "ncert-sec:POL.C10.WORK",
+        "isc:POL.C12.U3"
       ]
     },
     {
@@ -42187,7 +42191,8 @@
       "assessmentPrompt": "Ask {{name}} how they would decide whether a democracy is working well or badly.",
       "standards": [
         "ncert-sec:POL.C10.OUTCOME",
-        "ncert-sec:POL.C10.CHALLENGE"
+        "ncert-sec:POL.C10.CHALLENGE",
+        "isc:POL.C12.U1"
       ]
     },
     {
@@ -42207,7 +42212,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how ordinary people can change a government’s mind between one election and the next.",
       "standards": [
-        "ncert-sec:POL.C10.COMPET"
+        "ncert-sec:POL.C10.COMPET",
+        "isc:POL.C12.U3"
       ]
     },
     {
@@ -45862,7 +45868,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why more people in some communities go to university than in others, and whether that is about individuals at all.",
       "standards": [
-        "ncert-hsec:SOC.C11.A1"
+        "ncert-hsec:SOC.C11.A1",
+        "isc:SOC.C11.U1"
       ]
     },
     {
@@ -45882,7 +45889,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether one person losing a job and a million people losing jobs are the same kind of problem.",
       "standards": [
-        "ncert-hsec:SOC.C11.A1"
+        "ncert-hsec:SOC.C11.A1",
+        "isc:SOC.C11.U1"
       ]
     },
     {
@@ -45902,7 +45910,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how the way they behave with family differs from the way they behave in a classroom, and why.",
       "standards": [
-        "ncert-hsec:SOC.C11.A2"
+        "ncert-hsec:SOC.C11.A2",
+        "isc:SOC.C11.U2"
       ]
     },
     {
@@ -45922,7 +45931,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how many different roles they play in a single day, and whether any of them pull against each other.",
       "standards": [
-        "ncert-hsec:SOC.C11.A2"
+        "ncert-hsec:SOC.C11.A2",
+        "isc:SOC.C11.U2"
       ]
     },
     {
@@ -45942,7 +45952,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} who decides what counts as bad behaviour, and whether that has always been the same.",
       "standards": [
-        "ncert-hsec:SOC.C11.A2"
+        "ncert-hsec:SOC.C11.A2",
+        "isc:SOC.C11.U2"
       ]
     },
     {
@@ -45963,7 +45974,8 @@
       "assessmentPrompt": "Ask {{name}} why joint families were more common when most people farmed than they are in cities today.",
       "standards": [
         "ncert-hsec:SOC.C11.A3",
-        "ncert-hsec:SOC.C12.A2"
+        "ncert-hsec:SOC.C12.A2",
+        "isc:SOC.C11.U3"
       ]
     },
     {
@@ -45983,7 +45995,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a sociologist would ask about a festival that a believer would not.",
       "standards": [
-        "ncert-hsec:SOC.C11.A3"
+        "ncert-hsec:SOC.C11.A3",
+        "isc:SOC.C11.U3"
       ]
     },
     {
@@ -46003,7 +46016,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether schools mainly give everyone the same chance or mainly pass on the advantages people already had.",
       "standards": [
-        "ncert-hsec:SOC.C11.A3"
+        "ncert-hsec:SOC.C11.A3",
+        "isc:SOC.C11.U3"
       ]
     },
     {
@@ -46023,7 +46037,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how the way people earn a living might change who holds power in a village.",
       "standards": [
-        "ncert-hsec:SOC.C11.A3"
+        "ncert-hsec:SOC.C11.A3",
+        "isc:SOC.C11.U3"
       ]
     },
     {
@@ -46043,7 +46058,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether everyone in their community really shares the same values, and who decides what counts as the culture.",
       "standards": [
-        "ncert-hsec:SOC.C11.A4"
+        "ncert-hsec:SOC.C11.A4",
+        "isc:SOC.C11.U2"
       ]
     },
     {
@@ -46063,7 +46079,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} where they learned the things they have never been explicitly taught but always knew to do.",
       "standards": [
-        "ncert-hsec:SOC.C11.A4"
+        "ncert-hsec:SOC.C11.A4",
+        "isc:SOC.C11.U2"
       ]
     },
     {
@@ -46083,7 +46100,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether a questionnaire could tell you what life in a village is really like, and what it might miss.",
       "standards": [
-        "ncert-hsec:SOC.C11.A5"
+        "ncert-hsec:SOC.C11.A5",
+        "isc:SOC.C11.U6"
       ]
     },
     {
@@ -46103,7 +46121,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether people are free to do as they like, or whether society sets the range of what is even possible.",
       "standards": [
-        "ncert-hsec:SOC.C11.B1"
+        "ncert-hsec:SOC.C11.B1",
+        "isc:SOC.C11.U1"
       ]
     },
     {
@@ -46124,7 +46143,8 @@
       "assessmentPrompt": "Ask {{name}} what makes caste different from class, given both sort people into levels.",
       "standards": [
         "ncert-hsec:SOC.C11.A2",
-        "ncert-hsec:SOC.C11.B1"
+        "ncert-hsec:SOC.C11.B1",
+        "isc:SOC.C11.U4"
       ]
     },
     {
@@ -46144,7 +46164,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how the arrival of the mobile phone changed things it was never meant to touch.",
       "standards": [
-        "ncert-hsec:SOC.C11.B2"
+        "ncert-hsec:SOC.C11.B2",
+        "isc:SOC.C11.U5"
       ]
     },
     {
@@ -46164,7 +46185,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why people obey rules even when nobody is watching them.",
       "standards": [
-        "ncert-hsec:SOC.C11.B2"
+        "ncert-hsec:SOC.C11.B2",
+        "isc:SOC.C11.U5"
       ]
     },
     {
@@ -46185,7 +46207,8 @@
       "assessmentPrompt": "Ask {{name}} how knowing everyone in a village changes life compared with knowing almost nobody in a city.",
       "standards": [
         "ncert-hsec:SOC.C11.B2",
-        "ncert-hsec:SOC.C12.A1"
+        "ncert-hsec:SOC.C12.A1",
+        "isc:SOC.C12.U4"
       ]
     },
     {
@@ -46205,7 +46228,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} who suffers first when a river is polluted, and whether it is the same people who polluted it.",
       "standards": [
-        "ncert-hsec:SOC.C11.B3"
+        "ncert-hsec:SOC.C11.B3",
+        "isc:SOC.C12.U5"
       ]
     },
     {
@@ -46225,7 +46249,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether modern society holds together because people need each other or because some people hold power over others.",
       "standards": [
-        "ncert-hsec:SOC.C11.B4"
+        "ncert-hsec:SOC.C11.B4",
+        "isc:SOC.C11.U6"
       ]
     },
     {
@@ -46245,7 +46270,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether it is easier or harder to study a society you have grown up inside.",
       "standards": [
-        "ncert-hsec:SOC.C11.B5"
+        "ncert-hsec:SOC.C11.B5",
+        "isc:SOC.C11.U6"
       ]
     },
     {
@@ -46265,7 +46291,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} which features of Indian society today were created by colonial rule rather than inherited from before it.",
       "standards": [
-        "ncert-hsec:SOC.C12.A1"
+        "ncert-hsec:SOC.C12.A1",
+        "isc:SOC.C12.U3"
       ]
     },
     {
@@ -46285,7 +46312,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a country gains and what it risks from having a very young population.",
       "standards": [
-        "ncert-hsec:SOC.C12.A1"
+        "ncert-hsec:SOC.C12.A1",
+        "isc:SOC.C12.U1"
       ]
     },
     {
@@ -46306,7 +46334,8 @@
       "assessmentPrompt": "Ask {{name}} whether caste matters less today than it used to, or simply differently.",
       "standards": [
         "ncert-hsec:SOC.C12.A2",
-        "ncert-hsec:SOC.C12.A3"
+        "ncert-hsec:SOC.C12.A3",
+        "isc:SOC.C12.U1"
       ]
     },
     {
@@ -46327,7 +46356,8 @@
       "assessmentPrompt": "Ask {{name}} who pays the price when a dam benefits a whole region.",
       "standards": [
         "ncert-hsec:SOC.C12.A2",
-        "ncert-hsec:SOC.C12.A3"
+        "ncert-hsec:SOC.C12.A3",
+        "isc:SOC.C12.U1"
       ]
     },
     {
@@ -46347,7 +46377,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why traders often prefer to deal with people from their own community.",
       "standards": [
-        "ncert-hsec:SOC.C12.A2"
+        "ncert-hsec:SOC.C12.A2",
+        "isc:SOC.C12.U2"
       ]
     },
     {
@@ -46367,7 +46398,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why treating everyone identically might not produce equal outcomes.",
       "standards": [
-        "ncert-hsec:SOC.C12.A3"
+        "ncert-hsec:SOC.C12.A3",
+        "isc:SOC.C12.U1"
       ]
     },
     {
@@ -46387,7 +46419,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why laws guaranteeing equality have not by themselves produced it.",
       "standards": [
-        "ncert-hsec:SOC.C12.A3"
+        "ncert-hsec:SOC.C12.A3",
+        "isc:SOC.C12.U5"
       ]
     },
     {
@@ -46407,7 +46440,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why having many communities is a strength in some countries and a source of conflict in others.",
       "standards": [
-        "ncert-hsec:SOC.C12.A4"
+        "ncert-hsec:SOC.C12.A4",
+        "isc:SOC.C12.U2"
       ]
     },
     {
@@ -46427,7 +46461,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what happens to village ties when most young people leave for city work.",
       "standards": [
-        "ncert-hsec:SOC.C12.B1"
+        "ncert-hsec:SOC.C12.B1",
+        "isc:SOC.C12.U3"
       ]
     },
     {
@@ -46447,7 +46482,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a community might change its diet or rituals to raise its standing.",
       "standards": [
-        "ncert-hsec:SOC.C12.B1"
+        "ncert-hsec:SOC.C12.B1",
+        "isc:SOC.C12.U3"
       ]
     },
     {
@@ -46467,7 +46503,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what happens when the law says one thing and long-standing custom says another.",
       "standards": [
-        "ncert-hsec:SOC.C12.B2"
+        "ncert-hsec:SOC.C12.B2",
+        "isc:SOC.C12.U4"
       ]
     },
     {
@@ -46487,7 +46524,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a policy that grew far more food could still leave some farmers worse off.",
       "standards": [
-        "ncert-hsec:SOC.C12.B3"
+        "ncert-hsec:SOC.C12.B3",
+        "isc:SOC.C12.U4"
       ]
     },
     {
@@ -46507,7 +46545,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how opening the economy in 1991 changed what kind of jobs Indians do.",
       "standards": [
-        "ncert-hsec:SOC.C12.B3"
+        "ncert-hsec:SOC.C12.B3",
+        "isc:SOC.C12.U5"
       ]
     },
     {
@@ -46527,7 +46566,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether the world is becoming more similar or whether local cultures push back.",
       "standards": [
-        "ncert-hsec:SOC.C12.B4"
+        "ncert-hsec:SOC.C12.B4",
+        "isc:SOC.C12.U5"
       ]
     },
     {
@@ -46547,7 +46587,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a group with no seats in parliament can still change the law.",
       "standards": [
-        "ncert-hsec:SOC.C12.B5"
+        "ncert-hsec:SOC.C12.B5",
+        "isc:SOC.C12.U5"
       ]
     },
     {
@@ -46567,7 +46608,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a psychologist would check a common saying like \"opposites attract\".",
       "standards": [
-        "ncert-hsec:PSY.C11.U1"
+        "ncert-hsec:PSY.C11.U1",
+        "isc:PSY.C11.U1"
       ]
     },
     {
@@ -46587,7 +46629,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why finding that ice cream sales and drownings rise together does not mean one causes the other.",
       "standards": [
-        "ncert-hsec:PSY.C11.U2"
+        "ncert-hsec:PSY.C11.U2",
+        "isc:PSY.C11.U1"
       ]
     },
     {
@@ -46607,7 +46650,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what it tells us about the brain that damage to one small area can remove the ability to speak.",
       "standards": [
-        "ncert-hsec:PSY.C11.U3"
+        "ncert-hsec:PSY.C11.U3",
+        "isc:PSY.C11.U2"
       ]
     },
     {
@@ -46627,7 +46671,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether a psychology experiment run only on students in one country tells us about people everywhere.",
       "standards": [
-        "ncert-hsec:PSY.C11.U3"
+        "ncert-hsec:PSY.C11.U3",
+        "isc:PSY.C11.U2"
       ]
     },
     {
@@ -46647,7 +46692,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether people stop developing once they finish growing.",
       "standards": [
-        "ncert-hsec:PSY.C11.U4"
+        "ncert-hsec:PSY.C11.U4",
+        "isc:PSY.C11.U3"
       ]
     },
     {
@@ -46667,7 +46713,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why the opinion of friends can matter more than that of family during these years.",
       "standards": [
-        "ncert-hsec:PSY.C11.U4"
+        "ncert-hsec:PSY.C11.U4",
+        "isc:PSY.C11.U3"
       ]
     },
     {
@@ -46687,7 +46734,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a dog can start drooling at the sound of a tin opener.",
       "standards": [
-        "ncert-hsec:PSY.C11.U6"
+        "ncert-hsec:PSY.C11.U6",
+        "isc:PSY.C11.U5"
       ]
     },
     {
@@ -46707,7 +46755,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why two people remember the same event differently and both are certain they are right.",
       "standards": [
-        "ncert-hsec:PSY.C11.U7"
+        "ncert-hsec:PSY.C11.U7",
+        "isc:PSY.C11.U5"
       ]
     },
     {
@@ -46727,7 +46776,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why they sometimes solve a stuck problem the moment they stop trying.",
       "standards": [
-        "ncert-hsec:PSY.C11.U8"
+        "ncert-hsec:PSY.C11.U8",
+        "isc:PSY.C11.U5"
       ]
     },
     {
@@ -46747,7 +46797,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether it is possible to think about something they have no word for.",
       "standards": [
-        "ncert-hsec:PSY.C11.U8"
+        "ncert-hsec:PSY.C11.U8",
+        "isc:PSY.C11.U5"
       ]
     },
     {
@@ -46767,7 +46818,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether the racing heart causes the fear or the fear causes the racing heart.",
       "standards": [
-        "ncert-hsec:PSY.C11.U9"
+        "ncert-hsec:PSY.C11.U9",
+        "isc:PSY.C11.U6"
       ]
     },
     {
@@ -46787,7 +46839,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether a single number could fairly summarise how clever someone is.",
       "standards": [
-        "ncert-hsec:PSY.C12.U1"
+        "ncert-hsec:PSY.C12.U1",
+        "isc:PSY.C12.U1"
       ]
     },
     {
@@ -46807,7 +46860,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how you could tell whether someone would be good at something they have never tried.",
       "standards": [
-        "ncert-hsec:PSY.C12.U1"
+        "ncert-hsec:PSY.C12.U1",
+        "isc:PSY.C12.U1"
       ]
     },
     {
@@ -46827,7 +46881,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether they would describe themselves by their own qualities or by their relationships, and why that might vary by culture.",
       "standards": [
-        "ncert-hsec:PSY.C12.U2"
+        "ncert-hsec:PSY.C12.U2",
+        "isc:PSY.C12.U2"
       ]
     },
     {
@@ -46847,7 +46902,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether people really have a fixed personality, or just behave consistently in familiar situations.",
       "standards": [
-        "ncert-hsec:PSY.C12.U2"
+        "ncert-hsec:PSY.C12.U2",
+        "isc:PSY.C12.U2"
       ]
     },
     {
@@ -46867,7 +46923,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why the same exam can be exciting for one person and overwhelming for another.",
       "standards": [
-        "ncert-hsec:PSY.C12.U3"
+        "ncert-hsec:PSY.C12.U3",
+        "isc:PSY.C12.U3"
       ]
     },
     {
@@ -46887,7 +46944,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what makes a pattern of behaviour a disorder rather than just unusual.",
       "standards": [
-        "ncert-hsec:PSY.C12.U4"
+        "ncert-hsec:PSY.C12.U4",
+        "isc:PSY.C12.U3"
       ]
     },
     {
@@ -46907,7 +46965,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why talking to a trained stranger can help in a way that talking to friends sometimes cannot.",
       "standards": [
-        "ncert-hsec:PSY.C12.U5"
+        "ncert-hsec:PSY.C12.U5",
+        "isc:PSY.C12.U3"
       ]
     },
     {
@@ -46927,7 +46986,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether changing what people believe is enough to change how they behave.",
       "standards": [
-        "ncert-hsec:PSY.C12.U6"
+        "ncert-hsec:PSY.C12.U6",
+        "isc:PSY.C12.U4"
       ]
     },
     {
@@ -46947,7 +47007,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a stranger who cuts in front of them is rude, but they themselves were just in a hurry.",
       "standards": [
-        "ncert-hsec:PSY.C12.U6"
+        "ncert-hsec:PSY.C12.U6",
+        "isc:PSY.C12.U4"
       ]
     },
     {
@@ -46967,7 +47028,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why people go along with a group answer they can see is wrong.",
       "standards": [
-        "ncert-hsec:PSY.C12.U7"
+        "ncert-hsec:PSY.C12.U7",
+        "isc:PSY.C12.U4"
       ]
     },
     {
@@ -46987,7 +47049,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how quickly people start favouring their own side once they are put into teams at random.",
       "standards": [
-        "ncert-hsec:PSY.C12.U7"
+        "ncert-hsec:PSY.C12.U7",
+        "isc:PSY.C12.U4"
       ]
     },
     {
@@ -47007,7 +47070,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what makes someone feel genuinely listened to rather than just heard.",
       "standards": [
-        "ncert-hsec:PSY.C12.U9"
+        "ncert-hsec:PSY.C12.U9",
+        "isc:PSY.C12.U5"
       ]
     },
     {
@@ -48287,7 +48351,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a geographer would ask about a city that a historian would not.",
       "standards": [
-        "ncert-hsec:GEO.C11.P1"
+        "ncert-hsec:GEO.C11.P1",
+        "isc:GEO.C11.U1"
       ]
     },
     {
@@ -48307,7 +48372,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why Greenland looks bigger than India on many world maps when it is not.",
       "standards": [
-        "ncert-hsec:GEO.C11.M1"
+        "ncert-hsec:GEO.C11.M1",
+        "isc:GEO.C11.U1"
       ]
     },
     {
@@ -48327,7 +48393,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether geography decides how people live or merely sets the options.",
       "standards": [
-        "ncert-hsec:GEO.C12.H1"
+        "ncert-hsec:GEO.C12.H1",
+        "isc:GEO.C12.U1"
       ]
     },
     {
@@ -48347,7 +48414,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why most people in a rich country work in services rather than on farms.",
       "standards": [
-        "ncert-hsec:GEO.C12.H3"
+        "ncert-hsec:GEO.C12.H3",
+        "isc:GEO.C12.U1"
       ]
     },
     {
@@ -48367,7 +48435,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why villages tend to grow along rivers and roads rather than at random.",
       "standards": [
-        "ncert-hsec:GEO.C12.H5"
+        "ncert-hsec:GEO.C12.H5",
+        "isc:GEO.C12.U1"
       ]
     },
     {
@@ -48387,7 +48456,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a satellite can tell how much forest a country has lost.",
       "standards": [
-        "ncert-hsec:GEO.C12.M1"
+        "ncert-hsec:GEO.C12.M1",
+        "isc:GEO.C12.U5"
       ]
     },
     {
@@ -48407,7 +48477,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what stops a government from simply rewriting the rules that limit it.",
       "standards": [
-        "ncert-hsec:POL.C11.C1"
+        "ncert-hsec:POL.C11.C1",
+        "isc:POL.C11.U4"
       ]
     },
     {
@@ -48428,7 +48499,8 @@
       "assessmentPrompt": "Ask {{name}} whether any right can be absolute, and what happens when two rights collide.",
       "standards": [
         "ncert-hsec:POL.C11.C1",
-        "ncert-hsec:POL.C11.T2"
+        "ncert-hsec:POL.C11.T2",
+        "isc:POL.C11.U4"
       ]
     },
     {
@@ -48448,7 +48520,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a party can win most of the seats without winning most of the votes.",
       "standards": [
-        "ncert-hsec:POL.C11.C1"
+        "ncert-hsec:POL.C11.C1",
+        "isc:POL.C11.U4"
       ]
     },
     {
@@ -48468,7 +48541,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what happens to a prime minister who loses the confidence of Parliament, and why that matters.",
       "standards": [
-        "ncert-hsec:POL.C11.C2"
+        "ncert-hsec:POL.C11.C2",
+        "isc:POL.C11.U4"
       ]
     },
     {
@@ -48488,7 +48562,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether unelected judges should be able to strike down laws made by elected representatives.",
       "standards": [
-        "ncert-hsec:POL.C11.C2"
+        "ncert-hsec:POL.C11.C2",
+        "isc:POL.C11.U4"
       ]
     },
     {
@@ -48508,7 +48583,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why decisions about a village school might be made better locally than in Delhi.",
       "standards": [
-        "ncert-hsec:POL.C11.C3"
+        "ncert-hsec:POL.C11.C3",
+        "isc:POL.C12.U1"
       ]
     },
     {
@@ -48528,7 +48604,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether there should be any part of a constitution that even a large majority cannot change.",
       "standards": [
-        "ncert-hsec:POL.C11.C4"
+        "ncert-hsec:POL.C11.C4",
+        "isc:POL.C12.U1"
       ]
     },
     {
@@ -48548,7 +48625,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether treating everyone exactly the same always produces a fair result.",
       "standards": [
-        "ncert-hsec:POL.C11.T1"
+        "ncert-hsec:POL.C11.T1",
+        "isc:POL.C11.U2"
       ]
     },
     {
@@ -48569,7 +48647,8 @@
       "assessmentPrompt": "Ask {{name}} how a society should decide who gets what, when there is not enough for everyone.",
       "standards": [
         "ncert-hsec:POL.C11.T1",
-        "ncert-hsec:POL.C11.T2"
+        "ncert-hsec:POL.C11.T2",
+        "isc:POL.C11.U2"
       ]
     },
     {
@@ -48589,7 +48668,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether a secular state should ignore religion entirely or treat all religions even-handedly.",
       "standards": [
-        "ncert-hsec:POL.C11.T2"
+        "ncert-hsec:POL.C11.T2",
+        "isc:POL.C11.U3"
       ]
     },
     {
@@ -48609,7 +48689,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a country holds together when it has just been divided by partition.",
       "standards": [
-        "ncert-hsec:POL.C12.I1"
+        "ncert-hsec:POL.C12.I1",
+        "isc:POL.C12.U2"
       ]
     },
     {
@@ -48629,7 +48710,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what the Emergency showed about how much a constitution can protect on its own.",
       "standards": [
-        "ncert-hsec:POL.C12.I2"
+        "ncert-hsec:POL.C12.I2",
+        "isc:POL.C12.U2"
       ]
     },
     {
@@ -48649,7 +48731,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what changes about governing when no single party can win a majority.",
       "standards": [
-        "ncert-hsec:POL.C12.I3"
+        "ncert-hsec:POL.C12.I3",
+        "isc:POL.C12.U2"
       ]
     },
     {
@@ -48669,7 +48752,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what choices a newly independent country had when the world split into two camps.",
       "standards": [
-        "ncert-hsec:POL.C12.W1"
+        "ncert-hsec:POL.C12.W1",
+        "isc:POL.C12.U4"
       ]
     },
     {
@@ -48689,7 +48773,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether one country being far stronger than the rest makes the world safer or less safe.",
       "standards": [
-        "ncert-hsec:POL.C12.W1"
+        "ncert-hsec:POL.C12.W1",
+        "isc:POL.C12.U4"
       ]
     },
     {
@@ -48709,7 +48794,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether climate change is an environmental problem or a political one.",
       "standards": [
-        "ncert-hsec:POL.C12.W2"
+        "ncert-hsec:POL.C12.W2",
+        "isc:POL.C12.U4"
       ]
     },
     {
@@ -49582,7 +49668,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why telling people that recycling matters often changes less than making the bin easier to reach.",
       "standards": [
-        "ncert-hsec:PSY.C12.U8"
+        "ncert-hsec:PSY.C12.U8",
+        "isc:PSY.C12.U5"
       ]
     },
     {
@@ -49602,7 +49689,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what psychology can actually contribute to a problem as large as poverty.",
       "standards": [
-        "ncert-hsec:PSY.C12.U8"
+        "ncert-hsec:PSY.C12.U8",
+        "isc:PSY.C12.U5"
       ]
     },
     {
@@ -49622,7 +49710,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how they can follow one conversation in a noisy room and miss everything else being said.",
       "standards": [
-        "ncert-hsec:PSY.C11.U5"
+        "ncert-hsec:PSY.C11.U5",
+        "isc:PSY.C11.U4"
       ]
     },
     {
@@ -49642,7 +49731,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why two people can look at the same picture and honestly see different things.",
       "standards": [
-        "ncert-hsec:PSY.C11.U5"
+        "ncert-hsec:PSY.C11.U5",
+        "isc:PSY.C11.U4"
       ]
     },
     {
@@ -49704,7 +49794,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how we know what is inside the earth when nobody has ever been down there.",
       "standards": [
-        "ncert-hsec:GEO.C11.P2"
+        "ncert-hsec:GEO.C11.P2",
+        "isc:GEO.C11.U2"
       ]
     },
     {
@@ -49724,7 +49815,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why earthquakes and volcanoes cluster in narrow belts rather than being spread evenly.",
       "standards": [
-        "ncert-hsec:GEO.C11.P2"
+        "ncert-hsec:GEO.C11.P2",
+        "isc:GEO.C11.U2"
       ]
     },
     {
@@ -49744,7 +49836,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a solid cliff turns into a heap of loose rock at its base without anything carrying it there.",
       "standards": [
-        "ncert-hsec:GEO.C11.P3"
+        "ncert-hsec:GEO.C11.P3",
+        "isc:GEO.C11.U2"
       ]
     },
     {
@@ -49764,7 +49857,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a river can carve a gorge in the hills and build a flat delta at the sea from the same water.",
       "standards": [
-        "ncert-hsec:GEO.C11.P3"
+        "ncert-hsec:GEO.C11.P3",
+        "isc:GEO.C11.U2"
       ]
     },
     {
@@ -49784,7 +49878,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why the equator receives more heat than the poles but does not keep getting hotter.",
       "standards": [
-        "ncert-hsec:GEO.C11.P4"
+        "ncert-hsec:GEO.C11.P4",
+        "isc:GEO.C11.U3"
       ]
     },
     {
@@ -49804,7 +49899,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why winds blow from some directions far more reliably than others.",
       "standards": [
-        "ncert-hsec:GEO.C11.P4"
+        "ncert-hsec:GEO.C11.P4",
+        "isc:GEO.C11.U3"
       ]
     },
     {
@@ -49824,7 +49920,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what has to happen to the water in the air before it falls as rain.",
       "standards": [
-        "ncert-hsec:GEO.C11.P4"
+        "ncert-hsec:GEO.C11.P4",
+        "isc:GEO.C11.U3"
       ]
     },
     {
@@ -49844,7 +49941,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a current in the ocean can change the weather of a country thousands of miles away.",
       "standards": [
-        "ncert-hsec:GEO.C11.P5"
+        "ncert-hsec:GEO.C11.P5",
+        "isc:GEO.C11.U4"
       ]
     },
     {
@@ -49864,7 +49962,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a rainforest and a desert, both on the equator’s reach, support such different life.",
       "standards": [
-        "ncert-hsec:GEO.C11.P5"
+        "ncert-hsec:GEO.C11.P5",
+        "isc:GEO.C11.U4"
       ]
     },
     {
@@ -49884,7 +49983,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why the rivers of north India flow all year while many in the south nearly dry up.",
       "standards": [
-        "ncert-hsec:GEO.C11.I1"
+        "ncert-hsec:GEO.C11.I1",
+        "isc:GEO.C12.U3"
       ]
     },
     {
@@ -49904,7 +50004,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why some parts of India flood almost every year while others face drought.",
       "standards": [
-        "ncert-hsec:GEO.C11.I1"
+        "ncert-hsec:GEO.C11.I1",
+        "isc:GEO.C12.U3"
       ]
     },
     {
@@ -49924,7 +50025,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why half the world’s people live on a small fraction of its land.",
       "standards": [
-        "ncert-hsec:GEO.C12.H2"
+        "ncert-hsec:GEO.C12.H2",
+        "isc:GEO.C12.U2"
       ]
     },
     {
@@ -49944,7 +50046,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why population growth slows as countries get richer.",
       "standards": [
-        "ncert-hsec:GEO.C12.H2"
+        "ncert-hsec:GEO.C12.H2",
+        "isc:GEO.C12.U2"
       ]
     },
     {
@@ -49964,7 +50067,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a message and a cargo ship crossing the same ocean differ in what they cost and how long they take.",
       "standards": [
-        "ncert-hsec:GEO.C12.H4"
+        "ncert-hsec:GEO.C12.H4",
+        "isc:GEO.C12.U2"
       ]
     },
     {
@@ -49984,7 +50088,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why countries trade at all instead of making everything themselves.",
       "standards": [
-        "ncert-hsec:GEO.C12.H4"
+        "ncert-hsec:GEO.C12.H4",
+        "isc:GEO.C12.U2"
       ]
     },
     {
@@ -50004,7 +50109,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why people move from one part of India to another, and what that does to both places.",
       "standards": [
-        "ncert-hsec:GEO.C12.I1"
+        "ncert-hsec:GEO.C12.I1",
+        "isc:GEO.C12.U4"
       ]
     },
     {
@@ -50024,7 +50130,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a country rich in one resource can still fall short of another it needs just as much.",
       "standards": [
-        "ncert-hsec:GEO.C12.I1"
+        "ncert-hsec:GEO.C12.I1",
+        "isc:GEO.C12.U3"
       ]
     },
     {
@@ -50044,7 +50151,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a particular industry grows up in one part of India rather than another.",
       "standards": [
-        "ncert-hsec:GEO.C12.I1"
+        "ncert-hsec:GEO.C12.I1",
+        "isc:GEO.C12.U4"
       ]
     },
     {
@@ -50064,7 +50172,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why some parts of India stay poorer than others even after decades of growth.",
       "standards": [
-        "ncert-hsec:GEO.C12.I1"
+        "ncert-hsec:GEO.C12.I1",
+        "isc:GEO.C12.U4"
       ]
     },
     {

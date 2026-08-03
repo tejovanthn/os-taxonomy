@@ -8,6 +8,12 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ISC Sociology, Psychology, Geography and Political Science integrated (2026-08-03)
+- All pure-alignment onto the 16–18 ncert-hsec ladders, zero new topics.
+  Sociology: 11 units, 35 links. Psychology: 11 units, 27 links. Geography: 9
+  units, 25 links. Political Science: 8 units, 22 links. Every unit covered;
+  idempotent; validate green. 4,615 standards.
+
 ### ISC Mathematics, Economics, Business Studies and Accountancy integrated (2026-08-03)
 - All pure-alignment onto the 16–18 ncert-hsec ladders, zero new topics.
   Mathematics: 23 units, 34 links. Economics: 11 units, 33 links. Business
