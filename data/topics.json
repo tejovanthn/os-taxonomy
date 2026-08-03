@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2653,
+  "topicCount": 2659,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -21567,7 +21567,8 @@
       "standards": [
         "nios-obe-b:B102.L7.3",
         "nios-obe-c:C105.L20",
-        "ncert-sec:SCI.C10.NR.CONSERVE"
+        "ncert-sec:SCI.C10.NR.CONSERVE",
+        "icse:EVS10.3"
       ]
     },
     {
@@ -21664,7 +21665,9 @@
       "standards": [
         "nios-obe-c:C105.L20",
         "ncert-sec:SCI.C10.NR.CONSERVE",
-        "ncert-sec:GEO.C10.FOREST"
+        "ncert-sec:GEO.C10.FOREST",
+        "icse:EVS9.2",
+        "icse:EVS10.3"
       ]
     },
     {
@@ -23935,7 +23938,8 @@
         "nios-obe-b:B102.L10.4",
         "nios-sec-2020:212.M4.L12",
         "ncert-sec:SCI.C10.NR.ENERGY",
-        "ncert-sec:GEO.C10.POWER"
+        "ncert-sec:GEO.C10.POWER",
+        "icse:EVS10.6"
       ]
     },
     {
@@ -25681,7 +25685,8 @@
         "ncert-sec:SCI.C9.NR",
         "ncert-sec:SCI.C10.LIV.ENV",
         "icse:PHY9.5",
-        "icse:CHE9.8"
+        "icse:CHE9.8",
+        "icse:EVS10.4"
       ]
     },
     {
@@ -25707,7 +25712,9 @@
         "ncert-sec:SCI.C10.LIV.ENV",
         "ncert-sec:SCI.C10.NR.CONSERVE",
         "ncert-sec:GEO.C10.MIN",
-        "icse:BIO10.6"
+        "icse:BIO10.6",
+        "icse:EVS9.8",
+        "icse:EVS10.6"
       ]
     },
     {
@@ -32029,7 +32036,8 @@
       "evidence": [],
       "assessmentPrompt": "Has {{name}} heard of geoengineering? Can they describe one proposal for deliberately cooling the Earth and explain one potential risk of attempting it — and say whether they think individuals or governments bear more responsibility for tackling climate change?",
       "standards": [
-        "ncert-sec:SCI.C10.NR.ENERGY"
+        "ncert-sec:SCI.C10.NR.ENERGY",
+        "icse:EVS10.4"
       ]
     },
     {
@@ -33189,7 +33197,8 @@
         "nios-obe-b:B102.L15.3",
         "nios-obe-c:C105.L21",
         "ncert-elem:SCI.NAT",
-        "icse:BIO10.6"
+        "icse:BIO10.6",
+        "icse:EVS10.2"
       ]
     },
     {
@@ -53316,7 +53325,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how the exhaust from factories and cars can fall back to earth as acid.",
       "standards": [
-        "icse:CHE9.8"
+        "icse:CHE9.8",
+        "icse:EVS10.2"
       ]
     },
     {
@@ -53857,6 +53867,130 @@
       "assessmentPrompt": "Ask {{name}} why the number of people on Earth has grown so fast in the last century.",
       "standards": [
         "icse:BIO10.5"
+      ]
+    },
+    {
+      "id": "mt_pIG1KYSysW",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Environment & Sustainability",
+      "name": "The Earth as an Environmental System",
+      "description": "Understand the earth as four interacting spheres — the rock of the lithosphere, the water of the hydrosphere, the air of the atmosphere and the life of the biosphere — whose balance makes the planet habitable.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names the four spheres of the earth",
+        "Explains how two spheres interact",
+        "Explains why life depends on the balance between them"
+      ],
+      "assessmentPrompt": "Ask {{name}} how the air, the water, the rock and the living things of the earth all depend on one another.",
+      "standards": [
+        "icse:EVS9.1"
+      ]
+    },
+    {
+      "id": "mt_JadeD9waUD",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Environment & Sustainability",
+      "name": "India’s Environmental Heritage",
+      "description": "Understand how India’s traditions, its constitutional duties and movements such as Chipko express a long practice of living with and protecting nature.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Describes a traditional Indian practice of conserving nature",
+        "Names a constitutional value or duty on the environment",
+        "Describes an Indian conservation movement and its aim"
+      ],
+      "assessmentPrompt": "Ask {{name}} how communities in India have protected forests and rivers long before the word “environment” was common.",
+      "standards": [
+        "icse:EVS9.3"
+      ]
+    },
+    {
+      "id": "mt_WEGIOQv0D5",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Environment & Sustainability",
+      "name": "Sustainable Development",
+      "description": "Understand sustainable development as meeting today’s needs without robbing future generations, and how the drive from need to greed has pushed development past what the planet can sustain.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Defines sustainable development",
+        "Distinguishes sustainable from unsustainable growth",
+        "Gives an example of development exceeding an environmental limit"
+      ],
+      "assessmentPrompt": "Ask {{name}} whether a country can keep growing richer forever on a planet of limited size.",
+      "standards": [
+        "icse:EVS9.4",
+        "icse:EVS9.5"
+      ]
+    },
+    {
+      "id": "mt_MRlG3j8EMc",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Environment & Sustainability",
+      "name": "The Triple Planetary Crisis",
+      "description": "Understand the three linked crises facing the planet — climate change, pollution and biodiversity loss — and why they are studied together, each driving and worsening the others.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names the three parts of the triple planetary crisis",
+        "Explains how one crisis worsens another",
+        "Explains why the three are addressed together"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a warming climate, dirty air and vanishing wildlife are really one problem, not three.",
+      "standards": [
+        "icse:EVS9.6",
+        "icse:EVS10.1"
+      ]
+    },
+    {
+      "id": "mt_eYQ4d6w5y9",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Environment & Sustainability",
+      "name": "Building a Sustainable Society",
+      "description": "Understand what a sustainable society requires — cleaner energy, less waste, wiser consumption — and the positive handprint actions a person can take at home, school and in the neighbourhood.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Describes a feature of a sustainable society",
+        "Names a handprint action and its benefit",
+        "Explains the difference between a footprint and a handprint"
+      ],
+      "assessmentPrompt": "Ask {{name}} what they could actually do this week to leave the environment better rather than worse.",
+      "standards": [
+        "icse:EVS9.7",
+        "icse:EVS9.8"
+      ]
+    },
+    {
+      "id": "mt_A3BiZwUvTc",
+      "type": "CONCEPTUAL",
+      "subject": "Science",
+      "domain": "Environment & Sustainability",
+      "name": "The Green Economy and Green Skills",
+      "description": "Understand how economies are being redesigned for sustainability — the circular economy that reuses rather than discards — and the green skills and careers such a shift will need.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains the idea of a circular economy",
+        "Contrasts green growth with ordinary growth",
+        "Names a green skill or career and why it is needed"
+      ],
+      "assessmentPrompt": "Ask {{name}} what new kinds of jobs a world trying to live within its means will need.",
+      "standards": [
+        "icse:EVS10.5",
+        "icse:EVS10.7"
       ]
     }
   ]

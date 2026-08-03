@@ -49149,7 +49149,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabuses-icse-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 150,
+      "topicCount": 165,
       "topics": [
         {
           "key": "icse:MAT9.1",
@@ -50799,6 +50799,171 @@
             "class": "X",
             "strand": "Environmental Concerns and Pollution",
             "description": "The types and sources of pollution, its major environmental concerns, and their control."
+          }
+        },
+        {
+          "key": "icse:EVS9.1",
+          "code": "EVS9.1",
+          "data": {
+            "title": "Class IX Our Planet Earth",
+            "subject": "Environmental Science (IX–X)",
+            "class": "IX",
+            "strand": "Our Planet Earth",
+            "description": "The earth as a system of interacting spheres — the lithosphere, hydrosphere, atmosphere and biosphere — and how life depends on their balance."
+          }
+        },
+        {
+          "key": "icse:EVS9.2",
+          "code": "EVS9.2",
+          "data": {
+            "title": "Class IX Diversity of Life",
+            "subject": "Environmental Science (IX–X)",
+            "class": "IX",
+            "strand": "Diversity of Life",
+            "description": "The variety of life on earth, why biodiversity matters, and the threats it faces."
+          }
+        },
+        {
+          "key": "icse:EVS9.3",
+          "code": "EVS9.3",
+          "data": {
+            "title": "Class IX India’s Environmental Heritage",
+            "subject": "Environmental Science (IX–X)",
+            "class": "IX",
+            "strand": "India’s Environmental Heritage",
+            "description": "India’s traditions of living with nature, its constitutional values on the environment, and the conservation movements that draw on them."
+          }
+        },
+        {
+          "key": "icse:EVS9.4",
+          "code": "EVS9.4",
+          "data": {
+            "title": "Class IX The Trajectory of Human Development",
+            "subject": "Environmental Science (IX–X)",
+            "class": "IX",
+            "strand": "The Trajectory of Human Development",
+            "description": "How human development has grown from need to greed, and the meaning of sustainable development against unsustainable growth."
+          }
+        },
+        {
+          "key": "icse:EVS9.5",
+          "code": "EVS9.5",
+          "data": {
+            "title": "Class IX Consequences of Unsustainable Development",
+            "subject": "Environmental Science (IX–X)",
+            "class": "IX",
+            "strand": "Consequences of Unsustainable Development",
+            "description": "The environmental degradation — pollution, resource depletion and waste — that unsustainable development leaves behind, through real cases."
+          }
+        },
+        {
+          "key": "icse:EVS9.6",
+          "code": "EVS9.6",
+          "data": {
+            "title": "Class IX Introduction to the Triple Planetary Crisis",
+            "subject": "Environmental Science (IX–X)",
+            "class": "IX",
+            "strand": "Introduction to the Triple Planetary Crisis",
+            "description": "The three linked crises of the planet — climate change, pollution and biodiversity loss — and why they are understood together."
+          }
+        },
+        {
+          "key": "icse:EVS9.7",
+          "code": "EVS9.7",
+          "data": {
+            "title": "Class IX Transition to a Sustainable Society",
+            "subject": "Environmental Science (IX–X)",
+            "class": "IX",
+            "strand": "Transition to a Sustainable Society",
+            "description": "What a sustainable society looks like and the shifts in living, energy and consumption needed to reach it."
+          }
+        },
+        {
+          "key": "icse:EVS9.8",
+          "code": "EVS9.8",
+          "data": {
+            "title": "Class IX Sustainable Handprint Actions",
+            "subject": "Environmental Science (IX–X)",
+            "class": "IX",
+            "strand": "Sustainable Handprint Actions",
+            "description": "Positive handprint actions a person can take at home, school and in the neighbourhood to reduce their environmental footprint."
+          }
+        },
+        {
+          "key": "icse:EVS10.1",
+          "code": "EVS10.1",
+          "data": {
+            "title": "Class X Interlinkages of the Triple Planetary Crisis",
+            "subject": "Environmental Science (IX–X)",
+            "class": "X",
+            "strand": "Interlinkages of the Triple Planetary Crisis",
+            "description": "How climate change, pollution and biodiversity loss drive and worsen one another."
+          }
+        },
+        {
+          "key": "icse:EVS10.2",
+          "code": "EVS10.2",
+          "data": {
+            "title": "Class X Addressing Environmental Pollution",
+            "subject": "Environmental Science (IX–X)",
+            "class": "X",
+            "strand": "Addressing Environmental Pollution",
+            "description": "The types and sources of pollution and the measures — technical, legal and personal — that address it."
+          }
+        },
+        {
+          "key": "icse:EVS10.3",
+          "code": "EVS10.3",
+          "data": {
+            "title": "Class X Addressing Biodiversity Loss",
+            "subject": "Environmental Science (IX–X)",
+            "class": "X",
+            "strand": "Addressing Biodiversity Loss",
+            "description": "The causes of biodiversity loss and the conservation of species and habitats that answers it."
+          }
+        },
+        {
+          "key": "icse:EVS10.4",
+          "code": "EVS10.4",
+          "data": {
+            "title": "Class X Addressing Climate Change",
+            "subject": "Environmental Science (IX–X)",
+            "class": "X",
+            "strand": "Addressing Climate Change",
+            "description": "The causes and impacts of climate change and the mitigation and adaptation — including the path to net zero — that address it."
+          }
+        },
+        {
+          "key": "icse:EVS10.5",
+          "code": "EVS10.5",
+          "data": {
+            "title": "Class X Redesigning Social and Economic Systems",
+            "subject": "Environmental Science (IX–X)",
+            "class": "X",
+            "strand": "Redesigning Social and Economic Systems",
+            "description": "Rethinking economies towards sustainability — the circular economy, green growth and the redesign of production and consumption."
+          }
+        },
+        {
+          "key": "icse:EVS10.6",
+          "code": "EVS10.6",
+          "data": {
+            "title": "Class X Sustainable Practices and Innovations",
+            "subject": "Environmental Science (IX–X)",
+            "class": "X",
+            "strand": "Sustainable Practices and Innovations",
+            "description": "Sustainable practices and innovations — renewable energy, recycling, efficiency and green technology."
+          }
+        },
+        {
+          "key": "icse:EVS10.7",
+          "code": "EVS10.7",
+          "data": {
+            "title": "Class X Green Skills Development",
+            "subject": "Environmental Science (IX–X)",
+            "class": "X",
+            "strand": "Green Skills Development",
+            "description": "The green skills and careers a sustainable economy needs."
           }
         }
       ]

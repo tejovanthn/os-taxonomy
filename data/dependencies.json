@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4624,
+  "edgeCount": 4635,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -27746,6 +27746,72 @@
       "prerequisiteId": "mt_tQkCzRcWG7",
       "strength": "soft",
       "reason": "Population growth builds on human reproduction."
+    },
+    {
+      "topicId": "mt_pIG1KYSysW",
+      "prerequisiteId": "mt_mTpV-0rtkO",
+      "strength": "soft",
+      "reason": "The atmosphere is one of the earth’s interacting spheres."
+    },
+    {
+      "topicId": "mt_WEGIOQv0D5",
+      "prerequisiteId": "mt_0e5rZxbAeR",
+      "strength": "hard",
+      "reason": "Sustainability rests on the limits of finite resources."
+    },
+    {
+      "topicId": "mt_WEGIOQv0D5",
+      "prerequisiteId": "mt_w2A8D76ymp",
+      "strength": "soft",
+      "reason": "Sustainable development turns on renewable versus non-renewable energy."
+    },
+    {
+      "topicId": "mt_JadeD9waUD",
+      "prerequisiteId": "mt_WEGIOQv0D5",
+      "strength": "soft",
+      "reason": "India’s traditions are early practice of sustainable living."
+    },
+    {
+      "topicId": "mt_MRlG3j8EMc",
+      "prerequisiteId": "mt_Wzj1RETm9A",
+      "strength": "hard",
+      "reason": "Climate change is one arm of the triple planetary crisis."
+    },
+    {
+      "topicId": "mt_MRlG3j8EMc",
+      "prerequisiteId": "mt_44HkROUnzE",
+      "strength": "hard",
+      "reason": "Biodiversity loss is one arm of the triple planetary crisis."
+    },
+    {
+      "topicId": "mt_MRlG3j8EMc",
+      "prerequisiteId": "mt_XNhQZ4pJ8M",
+      "strength": "hard",
+      "reason": "Pollution is one arm of the triple planetary crisis."
+    },
+    {
+      "topicId": "mt_eYQ4d6w5y9",
+      "prerequisiteId": "mt_MRlG3j8EMc",
+      "strength": "hard",
+      "reason": "A sustainable society is the response to the crisis."
+    },
+    {
+      "topicId": "mt_eYQ4d6w5y9",
+      "prerequisiteId": "mt_0e5rZxbAeR",
+      "strength": "soft",
+      "reason": "Reducing and recycling waste is a handprint action."
+    },
+    {
+      "topicId": "mt_A3BiZwUvTc",
+      "prerequisiteId": "mt_eYQ4d6w5y9",
+      "strength": "hard",
+      "reason": "The green economy is how a sustainable society is organised."
+    },
+    {
+      "topicId": "mt_A3BiZwUvTc",
+      "prerequisiteId": "mt_WEGIOQv0D5",
+      "strength": "soft",
+      "reason": "Green growth is sustainable development applied to the economy."
     }
   ]
 }

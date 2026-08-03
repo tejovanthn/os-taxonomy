@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 370,
+  "clusterCount": 372,
   "clusters": [
     {
       "subject": "English",
@@ -2274,6 +2274,20 @@
       "ageRangeStart": 15,
       "ageRangeEnd": 16,
       "summary": "The human-body strand builds a working picture of the systems that keep a person alive. The excretory system filters the blood and holds its composition steady; the nervous system carries signals that let the body sense, decide and react in an instant. Studied alongside the circulatory, respiratory, endocrine and reproductive systems met earlier, they show the body not as separate parts but as systems that depend on one another."
+    },
+    {
+      "subject": "Science",
+      "domain": "Environment & Sustainability",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "summary": "Environmental Science steps back to see the planet whole. Class IX opens with the earth as four interacting spheres — rock, water, air and life — whose balance makes the world habitable, and with India’s long heritage of living with nature. It then names the problem: development that has run from need to greed, its consequences in pollution and lost resources, and the triple planetary crisis of climate change, pollution and biodiversity loss that ties them together. It closes on hope — what a sustainable society looks like and the handprint actions a young person can take today."
+    },
+    {
+      "subject": "Science",
+      "domain": "Environment & Sustainability",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "Class X turns from naming the crisis to addressing it. Each arm of the triple planetary crisis is taken in turn — pollution, biodiversity loss and climate change — with the technical, legal and personal measures that answer it, including the path to net zero. The course then looks at redesigning the economy itself: the circular economy that reuses instead of discarding, green growth, and the green skills and careers a sustainable world will need."
     }
   ]
 }

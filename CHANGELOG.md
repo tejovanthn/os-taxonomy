@@ -8,6 +8,23 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ICSE Environmental Science integrated under Science (2026-08-03)
+- The 2028 ICSE Environmental Science syllabus is a modern sustainability course
+  built around the "triple planetary crisis" (climate change, pollution,
+  biodiversity loss). Much of its content already exists, so it is align-heavy:
+  15 standards, 8 topics aligned (biodiversity, endangered species, air
+  pollution, waste, net zero, atmosphere, renewable energy, recycling), 6 minted
+  for the framings it adds — the earth as an environmental system, India's
+  environmental heritage, sustainable development, the triple planetary crisis,
+  building a sustainable society, and the green economy and green skills. A new
+  Science domain **Environment & Sustainability**.
+- Notably the air-pollution topic minted for ICSE Chemistry is reused here.
+  Trimmed two over-eager alignments the bundler check caught (air pollution and
+  waste were each linked to two Env Science units). Every standard covered; no
+  bundlers/orphans; all minted topics join the main component; idempotent. 2,659
+  topics / 4,635 edges / 372 clusters; validate green. **All four science-side
+  ICSE subjects (Physics, Chemistry, Biology, Environmental Science) done.**
+
 ### ICSE Biology integrated under Science (2026-08-03)
 - Science had many biology basics at 12–14 (respiration, gas exchange,
   circulation, reproduction, the immune system, diffusion, inheritance, the

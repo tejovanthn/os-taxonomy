@@ -5,7 +5,7 @@ Last updated 2026-08-01.
 
 ## Where things stand
 
-2,653 topics · 4,624 edges · 4,403 standards · 370 clusters · 16 curriculum
+2,659 topics · 4,635 edges · 4,418 standards · 372 clusters · 16 curriculum
 sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
 All build scripts idempotent (re-run adds zero). Only two topics now sit outside
 the main graph component (the Kannada and Dance singletons); the Visual Arts and
@@ -15,15 +15,17 @@ Home Science islands were connected by the ICSE Art and Home Science passes.
 source `icse` (Classes IX–X, 14–16) added, red tier (Marble factual
 descriptions, no CISCE text — see PROVENANCE). Shared board helper
 `scripts/build/cisce.mjs` serves both `icse` and the forthcoming `isc`
-(Classes XI–XII, 16–18). **ICSE done so far (9 subjects, committed): Mathematics,
-Computer Applications, Economics, Art, Home Science, Commercial Studies, Physics,
-Chemistry, Biology.** Biology (`icse-biology.mjs`): 13 standards, 13 aligned, 17
-minted under Science (photosynthesis — which was absent — cell structure,
-tissues, cell division, seeds/germination, animal diversity, microbes,
-nutrition/skeleton/skin, osmosis, transpiration, excretory & nervous systems,
-Mendelian genetics, sex-linkage, human population). **All three ICSE sciences
-done.** Chemistry (`icse-chemistry.mjs`): 17 standards, 8 aligned, 17 minted
-under Science. Physics
+(Classes XI–XII, 16–18). **ICSE done so far (10 subjects, committed):
+Mathematics, Computer Applications, Economics, Art, Home Science, Commercial
+Studies, Physics, Chemistry, Biology, Environmental Science.** Environmental
+Science (`icse-environmental-science.mjs`): 15 standards, 8 aligned, 6 minted
+under Science — a modern sustainability survey (triple planetary crisis,
+sustainable society, green economy/skills, India's environmental heritage) in a
+new **Environment & Sustainability** domain; reuses the air-pollution topic
+minted for Chemistry. **All four science-side ICSE subjects done.** Biology
+(`icse-biology.mjs`): 13 standards, 13 aligned, 17 minted (incl. photosynthesis,
+which was absent). Chemistry (`icse-chemistry.mjs`): 17 standards, 8 aligned, 17
+minted. Physics
 (`icse-physics.mjs`): 14 standards, 6 aligned, 25 minted under
 the **Science** subject (ICSE Physics IX–X = ages 14–16 → Science, which was thin
 on physics; the separate Physics SUBJECT is 16–18 only). Built out mechanics,
@@ -85,16 +87,19 @@ idempotent.
 
 ## Single next step
 
-**Continue the ICSE pass: integrate ICSE Environmental Science → Science next**
-(the three main sciences are done). Environmental Science overlaps Biology
-(ecology/ecosystems) and Geography (resources/pollution) heavily, so expect it to
-be align-heavy with few mints — check for double-coverage against the Biology
-pollution/ecosystem topics just added and against Geography. Syllabus text
-`17.-Environmental-Science.txt` in the scratchpad. Then
-History&Civics→History+Political Science, Geography, Performing Arts→Music/Dance,
-English — then the ISC (XI–XII) pass onto the ncert-hsec ladders. WATCH: the
-connectivity flood-fill (`audit.mjs icse`) catches new-topic sub-chains that
-island — anchor every chain's ROOT to a main-component topic. Then History&Civics→History+Political Science, Geography, Performing
+**Continue the ICSE pass: integrate ICSE History & Civics → History + Political
+Science next** (all sciences done). History & Civics is Classes IX–X (ages
+14–16): the Civics half (Constitution, elections, Union legislature/executive/
+judiciary) → Political Science; the History half (Harappan → modern India, the
+national movement, the modern age) → History. Both subjects have ladders to
+align to — History is well-developed; check for double-coverage. Then Geography
+(→ Geography, which has a 14–16 ladder), Performing Arts (→ Music/Dance, aligning
+to the KSGH graded-exam topics + existing Music/Dance), English (→ English,
+large existing ladder). Then the ISC (XI–XII) pass onto the ncert-hsec ladders.
+Syllabus texts: `5.-History-Civics.txt`, `6.-Geography.txt`,
+`22.-Performing-Arts.txt`, `2.-English.txt`. WATCH: run `audit.mjs icse` after
+each; anchor every new-topic chain's ROOT to a main-component topic (the
+connectivity flood-fill catches islands). Then History&Civics→History+Political Science, Geography, Performing
 Arts→Music/Dance, English — then the ISC (XI–XII) pass onto the ncert-hsec
 ladders. Method: align-first (use the scratchpad `q.mjs` to find existing topics
 before minting), one idea per topic, red-tier descriptions. The scratchpad also
