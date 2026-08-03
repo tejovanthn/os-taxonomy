@@ -49149,7 +49149,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabuses-icse-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 137,
+      "topicCount": 150,
       "topics": [
         {
           "key": "icse:MAT9.1",
@@ -50656,6 +50656,149 @@
             "class": "X",
             "strand": "Organic Chemistry",
             "description": "Carbon and catenation; hydrocarbons — alkanes, alkenes and alkynes; functional groups, alcohols and carboxylic acids; and IUPAC nomenclature."
+          }
+        },
+        {
+          "key": "icse:BIO9.1",
+          "code": "BIO9.1",
+          "data": {
+            "title": "Class IX Basic Biology",
+            "subject": "Biology (IX–X)",
+            "class": "IX",
+            "strand": "Basic Biology",
+            "description": "The cell as the unit of life, prokaryotic and eukaryotic cells and their organelles; and the types of plant and animal tissues."
+          }
+        },
+        {
+          "key": "icse:BIO9.2",
+          "code": "BIO9.2",
+          "data": {
+            "title": "Class IX Flowering Plants",
+            "subject": "Biology (IX–X)",
+            "class": "IX",
+            "strand": "Flowering Plants",
+            "description": "The structure of a bisexual flower and the functions of its parts; pollination; and fertilisation."
+          }
+        },
+        {
+          "key": "icse:BIO9.3",
+          "code": "BIO9.3",
+          "data": {
+            "title": "Class IX Plant Physiology",
+            "subject": "Biology (IX–X)",
+            "class": "IX",
+            "strand": "Plant Physiology",
+            "description": "The structure of dicot and monocot seeds and the types and conditions of germination; and respiration in plants and its gaseous exchange."
+          }
+        },
+        {
+          "key": "icse:BIO9.4",
+          "code": "BIO9.4",
+          "data": {
+            "title": "Class IX Diversity in the Animal Kingdom",
+            "subject": "Biology (IX–X)",
+            "class": "IX",
+            "strand": "Diversity in the Animal Kingdom",
+            "description": "The classification of the animal kingdom and the distinguishing features of its major groups."
+          }
+        },
+        {
+          "key": "icse:BIO9.5",
+          "code": "BIO9.5",
+          "data": {
+            "title": "Class IX Economic Importance of Bacteria and Fungi",
+            "subject": "Biology (IX–X)",
+            "class": "IX",
+            "strand": "Economic Importance of Bacteria and Fungi",
+            "description": "The useful and harmful roles of bacteria and the economic importance of fungi."
+          }
+        },
+        {
+          "key": "icse:BIO9.6",
+          "code": "BIO9.6",
+          "data": {
+            "title": "Class IX Human Anatomy and Physiology",
+            "subject": "Biology (IX–X)",
+            "class": "IX",
+            "strand": "Human Anatomy and Physiology",
+            "description": "Human nutrition and the digestive system; the skeleton, movement and locomotion; and the structure and functions of the skin."
+          }
+        },
+        {
+          "key": "icse:BIO9.7",
+          "code": "BIO9.7",
+          "data": {
+            "title": "Class IX Health and Hygiene",
+            "subject": "Biology (IX–X)",
+            "class": "IX",
+            "strand": "Health and Hygiene",
+            "description": "Bacterial, viral, protozoan and helminthic diseases, how they spread and how they are prevented."
+          }
+        },
+        {
+          "key": "icse:BIO10.1",
+          "code": "BIO10.1",
+          "data": {
+            "title": "Class X Cell Division",
+            "subject": "Biology (IX–X)",
+            "class": "X",
+            "strand": "Cell Division",
+            "description": "Chromosomes and the cell cycle; mitosis and meiosis and their significance."
+          }
+        },
+        {
+          "key": "icse:BIO10.2",
+          "code": "BIO10.2",
+          "data": {
+            "title": "Class X Plant Physiology",
+            "subject": "Biology (IX–X)",
+            "class": "X",
+            "strand": "Plant Physiology",
+            "description": "The absorption of water by roots through diffusion and osmosis; transpiration and its significance; photosynthesis and its importance; and chemical coordination through plant hormones and tropic movements."
+          }
+        },
+        {
+          "key": "icse:BIO10.3",
+          "code": "BIO10.3",
+          "data": {
+            "title": "Class X Human Anatomy and Physiology",
+            "subject": "Biology (IX–X)",
+            "class": "X",
+            "strand": "Human Anatomy and Physiology",
+            "description": "The respiratory, circulatory, excretory, nervous, endocrine and reproductive systems — their organs, structure and working."
+          }
+        },
+        {
+          "key": "icse:BIO10.4",
+          "code": "BIO10.4",
+          "data": {
+            "title": "Class X Genetics",
+            "subject": "Biology (IX–X)",
+            "class": "X",
+            "strand": "Genetics",
+            "description": "Mendel’s laws and monohybrid and dihybrid crosses; the terms of inheritance; sex determination in humans; and sex-linked inheritance."
+          }
+        },
+        {
+          "key": "icse:BIO10.5",
+          "code": "BIO10.5",
+          "data": {
+            "title": "Class X Population",
+            "subject": "Biology (IX–X)",
+            "class": "X",
+            "strand": "Population",
+            "description": "The reasons for the rise in human population; demography and its terms; the problems of population explosion; and methods of population control."
+          }
+        },
+        {
+          "key": "icse:BIO10.6",
+          "code": "BIO10.6",
+          "data": {
+            "title": "Class X Environmental Concerns and Pollution",
+            "subject": "Biology (IX–X)",
+            "class": "X",
+            "strand": "Environmental Concerns and Pollution",
+            "description": "The types and sources of pollution, its major environmental concerns, and their control."
           }
         }
       ]

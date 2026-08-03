@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 368,
+  "clusterCount": 370,
   "clusters": [
     {
       "subject": "English",
@@ -2260,6 +2260,20 @@
       "ageRangeStart": 15,
       "ageRangeEnd": 16,
       "summary": "Class X chemistry becomes systematic. Building on atoms, bonding and the periodic table, your child learns how acids, bases and salts behave and how the pH scale measures them; how an unknown salt is identified by the precipitate it forms; and how a balanced equation, read in moles, lets the amount of one substance be calculated from another. From there the course reaches into industry — electrolysis and electroplating, the extraction of metals by their reactivity, the preparation of key compounds, and the vast, separate world of carbon in organic chemistry."
+    },
+    {
+      "subject": "Science",
+      "domain": "Organisms & Life Processes",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "Class X biology goes inside the living machine. It starts with the cell dividing — mitosis for growth, meiosis for the halved cells of reproduction — then turns to how plants live: drawing water up by osmosis and transpiration, and above all photosynthesis, the making of food from light, water and air that feeds nearly everything else. It closes with genetics: Mendel’s laws, the crosses that predict inheritance, and why some conditions follow sex."
+    },
+    {
+      "subject": "Science",
+      "domain": "The Human Body",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "The human-body strand builds a working picture of the systems that keep a person alive. The excretory system filters the blood and holds its composition steady; the nervous system carries signals that let the body sense, decide and react in an instant. Studied alongside the circulatory, respiratory, endocrine and reproductive systems met earlier, they show the body not as separate parts but as systems that depend on one another."
     }
   ]
 }

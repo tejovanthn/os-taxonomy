@@ -8,6 +8,22 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ICSE Biology integrated under Science (2026-08-03)
+- Science had many biology basics at 12–14 (respiration, gas exchange,
+  circulation, reproduction, the immune system, diffusion, inheritance, the
+  endocrine system, plant hormones), so this aligns 13 and mints 17 senior
+  specifics the taxonomy lacked — most notably **photosynthesis** (absent
+  entirely), plus cell structure and organelles, tissues, cell division, seeds
+  and germination, animal diversity, microbes, human nutrition/skeleton/skin
+  (Class IX); osmosis and water absorption, transpiration, the excretory and
+  nervous systems, Mendelian genetics, sex-linked inheritance and human
+  population (Class X). Topics land in the Organisms & Life Processes, The Human
+  Body and Ecosystems & Habitats Science domains.
+- Every standard covered; no bundlers/orphans; all 17 minted topics join the
+  main component; idempotent. 2,653 topics / 4,624 edges / 370 clusters;
+  validate green. **All three ICSE sciences (Physics, Chemistry, Biology) now
+  integrated under Science.**
+
 ### ICSE Chemistry integrated under Science (2026-08-03)
 - Science already had a solid chemistry base at 14–16 (valency, balancing
   equations, atoms and molecules, atomic structure, chemical bonding, the mole

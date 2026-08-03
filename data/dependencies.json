@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4601,
+  "edgeCount": 4624,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -27608,6 +27608,144 @@
       "prerequisiteId": "mt_pOUL9TLuwI",
       "strength": "hard",
       "reason": "Hydrocarbons are the first family of organic compounds."
+    },
+    {
+      "topicId": "mt_E4JUmMJ523",
+      "prerequisiteId": "mt_mquPi2IP-J",
+      "strength": "soft",
+      "reason": "Respiration takes place inside cell organelles."
+    },
+    {
+      "topicId": "mt_BSDPyHsxde",
+      "prerequisiteId": "mt_E4JUmMJ523",
+      "strength": "hard",
+      "reason": "A tissue is a group of similar cells."
+    },
+    {
+      "topicId": "mt_43Jdtk9sEF",
+      "prerequisiteId": "mt_E4JUmMJ523",
+      "strength": "hard",
+      "reason": "Cell division makes new cells."
+    },
+    {
+      "topicId": "mt_43Jdtk9sEF",
+      "prerequisiteId": "mt_6aJUzBYGNs",
+      "strength": "soft",
+      "reason": "Division distributes the chromosomes."
+    },
+    {
+      "topicId": "mt_zxPtppmAyi",
+      "prerequisiteId": "mt_ck57CDFGet",
+      "strength": "hard",
+      "reason": "A seed is the product of plant reproduction."
+    },
+    {
+      "topicId": "mt_EerYotQDD8",
+      "prerequisiteId": "mt_E4JUmMJ523",
+      "strength": "hard",
+      "reason": "Photosynthesis happens in the chloroplast, a cell organelle."
+    },
+    {
+      "topicId": "mt_QAjb6btDt9",
+      "prerequisiteId": "mt_i80I-1MLP2",
+      "strength": "hard",
+      "reason": "Osmosis is a special case of diffusion."
+    },
+    {
+      "topicId": "mt_ZANBSNGzkP",
+      "prerequisiteId": "mt_QAjb6btDt9",
+      "strength": "hard",
+      "reason": "Transpiration draws up the water the roots absorb."
+    },
+    {
+      "topicId": "mt_ZANBSNGzkP",
+      "prerequisiteId": "mt_BSDPyHsxde",
+      "strength": "soft",
+      "reason": "Water travels through the xylem tissue."
+    },
+    {
+      "topicId": "mt_6PhxOuI4jP",
+      "prerequisiteId": "mt_fCvmdI6xGO",
+      "strength": "soft",
+      "reason": "Digestion builds on the role of the gut and its microbes."
+    },
+    {
+      "topicId": "mt_AhRu5waLKN",
+      "prerequisiteId": "mt_BSDPyHsxde",
+      "strength": "soft",
+      "reason": "Bone and muscle are animal tissues."
+    },
+    {
+      "topicId": "mt_bh3FFBUruE",
+      "prerequisiteId": "mt_zaXr5wcJD2",
+      "strength": "hard",
+      "reason": "The skin is central to regulating body temperature."
+    },
+    {
+      "topicId": "mt_qrCOSwslmm",
+      "prerequisiteId": "mt_TR2oTy9c2M",
+      "strength": "soft",
+      "reason": "The kidneys filter the blood the heart circulates."
+    },
+    {
+      "topicId": "mt_qrCOSwslmm",
+      "prerequisiteId": "mt_i80I-1MLP2",
+      "strength": "soft",
+      "reason": "Reabsorption in the kidney works by diffusion and osmosis."
+    },
+    {
+      "topicId": "mt_YUPEhpDPS2",
+      "prerequisiteId": "mt_FQXGRdTDhp",
+      "strength": "soft",
+      "reason": "Nervous and hormonal coordination work side by side."
+    },
+    {
+      "topicId": "mt_YUPEhpDPS2",
+      "prerequisiteId": "mt_BSDPyHsxde",
+      "strength": "soft",
+      "reason": "Nerve tissue is a specialised animal tissue."
+    },
+    {
+      "topicId": "mt_lakwEDJtdd",
+      "prerequisiteId": "mt_o7FJPDsHiW",
+      "strength": "hard",
+      "reason": "Mendel’s laws formalise the prediction of inherited traits."
+    },
+    {
+      "topicId": "mt_lakwEDJtdd",
+      "prerequisiteId": "mt_43Jdtk9sEF",
+      "strength": "soft",
+      "reason": "Meiosis separates the alleles Mendel’s laws describe."
+    },
+    {
+      "topicId": "mt_OuW2kcOOgA",
+      "prerequisiteId": "mt_lakwEDJtdd",
+      "strength": "hard",
+      "reason": "Sex linkage is inheritance carried on a sex chromosome."
+    },
+    {
+      "topicId": "mt_OuW2kcOOgA",
+      "prerequisiteId": "mt_0sELh0MYWb",
+      "strength": "soft",
+      "reason": "Sex-linked genes are stretches of DNA on a chromosome."
+    },
+    {
+      "topicId": "mt_IR4BIF4CoI",
+      "prerequisiteId": "mt_E4JUmMJ523",
+      "strength": "soft",
+      "reason": "Classification rests on the cellular organisation of animals."
+    },
+    {
+      "topicId": "mt_ZMfEo5O5vN",
+      "prerequisiteId": "mt_1VIE8FlZvL",
+      "strength": "soft",
+      "reason": "The harmful role of microbes builds on pathogens and disease."
+    },
+    {
+      "topicId": "mt_qThVm41m6l",
+      "prerequisiteId": "mt_tQkCzRcWG7",
+      "strength": "soft",
+      "reason": "Population growth builds on human reproduction."
     }
   ]
 }
