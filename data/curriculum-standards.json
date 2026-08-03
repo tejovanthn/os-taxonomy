@@ -6,7 +6,7 @@
     "ngss-k5",
     "ngss-ms"
   ],
-  "curriculumCount": 16,
+  "curriculumCount": 17,
   "curricula": [
     {
       "slug": "uk-nc-2013",
@@ -51514,6 +51514,216 @@
             "class": "IX–X",
             "strand": "Poetry",
             "description": "The study of prescribed poems — their meaning, form, imagery and the poet’s craft."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "isc",
+      "country": "IN",
+      "name": "CISCE Indian School Certificate (ISC), Classes XI–XII",
+      "version": "2028",
+      "sourceUrl": "https://cisce.org/regulations-and-syllabus-isc-2028/",
+      "textIncluded": true,
+      "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
+      "topicCount": 18,
+      "topics": [
+        {
+          "key": "isc:PHY.C11.U1",
+          "code": "PHY.C11.U1",
+          "data": {
+            "title": "Class XI Physical World and Measurement",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Physical World and Measurement",
+            "description": "Units and dimensions, dimensional analysis, and errors, precision and significant figures in measurement."
+          }
+        },
+        {
+          "key": "isc:PHY.C11.U2",
+          "code": "PHY.C11.U2",
+          "data": {
+            "title": "Class XI Kinematics",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Kinematics",
+            "description": "Motion in a straight line, vectors and their resolution, and projectile motion."
+          }
+        },
+        {
+          "key": "isc:PHY.C11.U3",
+          "code": "PHY.C11.U3",
+          "data": {
+            "title": "Class XI Laws of Motion",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Laws of Motion",
+            "description": "Newton’s laws, momentum and impulse, friction, and circular motion."
+          }
+        },
+        {
+          "key": "isc:PHY.C11.U4",
+          "code": "PHY.C11.U4",
+          "data": {
+            "title": "Class XI Work, Energy and Power",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Work, Energy and Power",
+            "description": "The work-energy theorem, conservation of mechanical energy, and elastic and inelastic collisions."
+          }
+        },
+        {
+          "key": "isc:PHY.C11.U5",
+          "code": "PHY.C11.U5",
+          "data": {
+            "title": "Class XI System of Particles and Rigid Body",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "System of Particles and Rigid Body",
+            "description": "Centre of mass, torque and angular momentum, and moment of inertia and rotational motion."
+          }
+        },
+        {
+          "key": "isc:PHY.C11.U6",
+          "code": "PHY.C11.U6",
+          "data": {
+            "title": "Class XI Gravitation",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Gravitation",
+            "description": "Kepler’s laws and universal gravitation, gravitational potential, escape speed and satellites."
+          }
+        },
+        {
+          "key": "isc:PHY.C11.U7",
+          "code": "PHY.C11.U7",
+          "data": {
+            "title": "Class XI Properties of Bulk Matter",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Properties of Bulk Matter",
+            "description": "Elasticity, fluid pressure and Pascal’s law, viscosity and Bernoulli’s theorem, and surface tension."
+          }
+        },
+        {
+          "key": "isc:PHY.C11.U8",
+          "code": "PHY.C11.U8",
+          "data": {
+            "title": "Class XI Heat and Thermodynamics",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Heat and Thermodynamics",
+            "description": "The laws of thermodynamics, calorimetry and latent heat, and conduction, convection and radiation."
+          }
+        },
+        {
+          "key": "isc:PHY.C11.U9",
+          "code": "PHY.C11.U9",
+          "data": {
+            "title": "Class XI Kinetic Theory of Gases",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Kinetic Theory of Gases",
+            "description": "The behaviour of perfect gases and the kinetic theory of gases."
+          }
+        },
+        {
+          "key": "isc:PHY.C11.U10",
+          "code": "PHY.C11.U10",
+          "data": {
+            "title": "Class XI Oscillations and Waves",
+            "subject": "Physics (XI–XII)",
+            "class": "XI",
+            "strand": "Oscillations and Waves",
+            "description": "Simple harmonic motion, wave motion and superposition, standing waves and beats, and the Doppler effect."
+          }
+        },
+        {
+          "key": "isc:PHY.C12.U1",
+          "code": "PHY.C12.U1",
+          "data": {
+            "title": "Class XII Electrostatics",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Electrostatics",
+            "description": "Coulomb’s law and the electric field, Gauss’s theorem, electric potential, and capacitors and dielectrics."
+          }
+        },
+        {
+          "key": "isc:PHY.C12.U2",
+          "code": "PHY.C12.U2",
+          "data": {
+            "title": "Class XII Current Electricity",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Current Electricity",
+            "description": "Current as the drift of charge, resistivity and Ohm’s law, EMF and internal resistance, Kirchhoff’s laws, and the Wheatstone bridge and potentiometer."
+          }
+        },
+        {
+          "key": "isc:PHY.C12.U3",
+          "code": "PHY.C12.U3",
+          "data": {
+            "title": "Class XII Magnetic Effects of Current and Magnetism",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Magnetic Effects of Current and Magnetism",
+            "description": "The Biot-Savart and Ampère laws, the force on moving charges and conductors, the current loop as a magnetic dipole, and the earth’s magnetism and magnetic materials."
+          }
+        },
+        {
+          "key": "isc:PHY.C12.U4",
+          "code": "PHY.C12.U4",
+          "data": {
+            "title": "Class XII Electromagnetic Induction and Alternating Current",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Electromagnetic Induction and Alternating Current",
+            "description": "Faraday’s and Lenz’s laws, and alternating current, impedance and resonance."
+          }
+        },
+        {
+          "key": "isc:PHY.C12.U5",
+          "code": "PHY.C12.U5",
+          "data": {
+            "title": "Class XII Electromagnetic Waves",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Electromagnetic Waves",
+            "description": "Electromagnetic waves and the electromagnetic spectrum."
+          }
+        },
+        {
+          "key": "isc:PHY.C12.U6",
+          "code": "PHY.C12.U6",
+          "data": {
+            "title": "Class XII Optics",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Optics",
+            "description": "Image formation by mirrors and lenses, total internal reflection and optical fibres, optical instruments, wave optics, and polarisation."
+          }
+        },
+        {
+          "key": "isc:PHY.C12.U7",
+          "code": "PHY.C12.U7",
+          "data": {
+            "title": "Class XII Dual Nature of Matter and Radiation; Atoms and Nuclei",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Dual Nature of Matter and Radiation; Atoms and Nuclei",
+            "description": "The photoelectric effect and matter waves, the Rutherford and Bohr models, radioactivity, and binding energy, fission and fusion."
+          }
+        },
+        {
+          "key": "isc:PHY.C12.U8",
+          "code": "PHY.C12.U8",
+          "data": {
+            "title": "Class XII Electronic Devices",
+            "subject": "Physics (XI–XII)",
+            "class": "XII",
+            "strand": "Electronic Devices",
+            "description": "Semiconductors and the junction diode, the transistor, and logic gates."
           }
         }
       ]

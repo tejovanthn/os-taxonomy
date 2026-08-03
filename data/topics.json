@@ -42605,7 +42605,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how they could tell an equation is wrong without knowing any of the numbers in it.",
       "standards": [
-        "ncert-hsec:PHY.C11.U1"
+        "ncert-hsec:PHY.C11.U1",
+        "isc:PHY.C11.U1"
       ]
     },
     {
@@ -42625,7 +42626,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why writing a measurement as 2.7314 metres can be wrong even if the arithmetic is right.",
       "standards": [
-        "ncert-hsec:PHY.C11.U1"
+        "ncert-hsec:PHY.C11.U1",
+        "isc:PHY.C11.U1"
       ]
     },
     {
@@ -42645,7 +42647,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what the steepness of a distance-time graph tells them, and what the area under a speed-time graph tells them.",
       "standards": [
-        "ncert-hsec:PHY.C11.U2"
+        "ncert-hsec:PHY.C11.U2",
+        "isc:PHY.C11.U2"
       ]
     },
     {
@@ -42665,7 +42668,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a boat pointed straight across a river does not land straight across from where it started.",
       "standards": [
-        "ncert-hsec:PHY.C11.U2"
+        "ncert-hsec:PHY.C11.U2",
+        "isc:PHY.C11.U2"
       ]
     },
     {
@@ -42685,7 +42689,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether a bullet fired horizontally and one dropped from the same height hit the ground together.",
       "standards": [
-        "ncert-hsec:PHY.C11.U2"
+        "ncert-hsec:PHY.C11.U2",
+        "isc:PHY.C11.U2"
       ]
     },
     {
@@ -42706,7 +42711,8 @@
       "assessmentPrompt": "Ask {{name}} what actually pushes a car around a bend, and why the road is tilted.",
       "standards": [
         "ncert-hsec:PHY.C11.U2",
-        "ncert-hsec:PHY.C11.U3"
+        "ncert-hsec:PHY.C11.U3",
+        "isc:PHY.C11.U3"
       ]
     },
     {
@@ -42726,7 +42732,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why cars are designed to crumple in a crash rather than stay rigid.",
       "standards": [
-        "ncert-hsec:PHY.C11.U3"
+        "ncert-hsec:PHY.C11.U3",
+        "isc:PHY.C11.U3"
       ]
     },
     {
@@ -42746,7 +42753,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why it is harder to start a heavy box sliding than to keep it sliding.",
       "standards": [
-        "ncert-hsec:PHY.C11.U3"
+        "ncert-hsec:PHY.C11.U3",
+        "isc:PHY.C11.U3"
       ]
     },
     {
@@ -42766,7 +42774,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why carrying a heavy bag horizontally across a room does no work on it in the physics sense.",
       "standards": [
-        "ncert-hsec:PHY.C11.U4"
+        "ncert-hsec:PHY.C11.U4",
+        "isc:PHY.C11.U4"
       ]
     },
     {
@@ -42786,7 +42795,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how fast a ball will be moving at the bottom of a slide, without knowing the shape of the slide.",
       "standards": [
-        "ncert-hsec:PHY.C11.U4"
+        "ncert-hsec:PHY.C11.U4",
+        "isc:PHY.C11.U4"
       ]
     },
     {
@@ -42806,7 +42816,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what is conserved when two lumps of clay collide and stick together.",
       "standards": [
-        "ncert-hsec:PHY.C11.U4"
+        "ncert-hsec:PHY.C11.U4",
+        "isc:PHY.C11.U4"
       ]
     },
     {
@@ -42826,7 +42837,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a thrown spanner wobbles but one point of it still traces a smooth arc.",
       "standards": [
-        "ncert-hsec:PHY.C11.U5"
+        "ncert-hsec:PHY.C11.U5",
+        "isc:PHY.C11.U5"
       ]
     },
     {
@@ -42846,7 +42858,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a spinning skater speeds up when they pull their arms in.",
       "standards": [
-        "ncert-hsec:PHY.C11.U5"
+        "ncert-hsec:PHY.C11.U5",
+        "isc:PHY.C11.U5"
       ]
     },
     {
@@ -42866,7 +42879,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a hollow pipe and a solid rod of the same mass roll down a slope at different rates.",
       "standards": [
-        "ncert-hsec:PHY.C11.U5"
+        "ncert-hsec:PHY.C11.U5",
+        "isc:PHY.C11.U5"
       ]
     },
     {
@@ -42886,7 +42900,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a falling apple and an orbiting moon have in common.",
       "standards": [
-        "ncert-hsec:PHY.C11.U6"
+        "ncert-hsec:PHY.C11.U6",
+        "isc:PHY.C11.U6"
       ]
     },
     {
@@ -42906,7 +42921,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a communications satellite appears to hang motionless above one spot on Earth.",
       "standards": [
-        "ncert-hsec:PHY.C11.U6"
+        "ncert-hsec:PHY.C11.U6",
+        "isc:PHY.C11.U6"
       ]
     },
     {
@@ -42926,7 +42942,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a steel cable stretches slightly under load but a rubber band stretches a great deal.",
       "standards": [
-        "ncert-hsec:PHY.C11.U7"
+        "ncert-hsec:PHY.C11.U7",
+        "isc:PHY.C11.U7"
       ]
     },
     {
@@ -42946,7 +42963,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a small push on a car brake pedal can stop a whole car.",
       "standards": [
-        "ncert-hsec:PHY.C11.U7"
+        "ncert-hsec:PHY.C11.U7",
+        "isc:PHY.C11.U7"
       ]
     },
     {
@@ -42966,7 +42984,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a shower curtain gets pulled inward when the water is running.",
       "standards": [
-        "ncert-hsec:PHY.C11.U7"
+        "ncert-hsec:PHY.C11.U7",
+        "isc:PHY.C11.U7"
       ]
     },
     {
@@ -42986,7 +43005,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why water climbs up a narrow tube on its own but mercury is pushed down.",
       "standards": [
-        "ncert-hsec:PHY.C11.U7"
+        "ncert-hsec:PHY.C11.U7",
+        "isc:PHY.C11.U7"
       ]
     },
     {
@@ -43006,7 +43026,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a cup of tea never spontaneously reheats itself, even though energy would be conserved if it did.",
       "standards": [
-        "ncert-hsec:PHY.C11.U8"
+        "ncert-hsec:PHY.C11.U8",
+        "isc:PHY.C11.U8"
       ]
     },
     {
@@ -43026,7 +43047,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what is actually happening at the molecular level when a tyre gets hotter and its pressure rises.",
       "standards": [
-        "ncert-hsec:PHY.C11.U9"
+        "ncert-hsec:PHY.C11.U9",
+        "isc:PHY.C11.U9"
       ]
     },
     {
@@ -43046,7 +43068,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether a pendulum pulled further back takes longer to swing, and why.",
       "standards": [
-        "ncert-hsec:PHY.C11.U10"
+        "ncert-hsec:PHY.C11.U10",
+        "isc:PHY.C11.U10"
       ]
     },
     {
@@ -43066,7 +43089,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what actually travels across the sea when a wave moves, given the water stays put.",
       "standards": [
-        "ncert-hsec:PHY.C11.U10"
+        "ncert-hsec:PHY.C11.U10",
+        "isc:PHY.C11.U10"
       ]
     },
     {
@@ -43086,7 +43110,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what is present in the space around a charge even when nothing else is there.",
       "standards": [
-        "ncert-hsec:PHY.C12.U1"
+        "ncert-hsec:PHY.C12.U1",
+        "isc:PHY.C12.U1"
       ]
     },
     {
@@ -43106,7 +43131,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why the field inside a hollow charged sphere is zero.",
       "standards": [
-        "ncert-hsec:PHY.C12.U1"
+        "ncert-hsec:PHY.C12.U1",
+        "isc:PHY.C12.U1"
       ]
     },
     {
@@ -43126,7 +43152,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why birds can sit safely on a single high-voltage wire.",
       "standards": [
-        "ncert-hsec:PHY.C12.U1"
+        "ncert-hsec:PHY.C12.U1",
+        "isc:PHY.C12.U1"
       ]
     },
     {
@@ -43146,7 +43173,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} where the energy in a charged capacitor is actually stored.",
       "standards": [
-        "ncert-hsec:PHY.C12.U1"
+        "ncert-hsec:PHY.C12.U1",
+        "isc:PHY.C12.U1"
       ]
     },
     {
@@ -43166,7 +43194,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a torch dims as its battery ages even though the battery still reads close to full voltage.",
       "standards": [
-        "ncert-hsec:PHY.C12.U2"
+        "ncert-hsec:PHY.C12.U2",
+        "isc:PHY.C12.U2"
       ]
     },
     {
@@ -43186,7 +43215,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a compass needle does when placed under a wire carrying current.",
       "standards": [
-        "ncert-hsec:PHY.C12.U3"
+        "ncert-hsec:PHY.C12.U3",
+        "isc:PHY.C12.U3"
       ]
     },
     {
@@ -43206,7 +43236,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a magnetic force can change a charged particle’s direction but never its speed.",
       "standards": [
-        "ncert-hsec:PHY.C12.U3"
+        "ncert-hsec:PHY.C12.U3",
+        "isc:PHY.C12.U3"
       ]
     },
     {
@@ -43226,7 +43257,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a magnet dropped down a copper pipe falls in slow motion.",
       "standards": [
-        "ncert-hsec:PHY.C12.U4"
+        "ncert-hsec:PHY.C12.U4",
+        "isc:PHY.C12.U4"
       ]
     },
     {
@@ -43246,7 +43278,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a radio picks out one station from all the signals reaching its aerial.",
       "standards": [
-        "ncert-hsec:PHY.C12.U4"
+        "ncert-hsec:PHY.C12.U4",
+        "isc:PHY.C12.U4"
       ]
     },
     {
@@ -43266,7 +43299,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what radio waves, visible light and X-rays have in common.",
       "standards": [
-        "ncert-hsec:PHY.C12.U5"
+        "ncert-hsec:PHY.C12.U5",
+        "isc:PHY.C12.U5"
       ]
     },
     {
@@ -43286,7 +43320,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a short-sighted person needs a different lens from a long-sighted one.",
       "standards": [
-        "ncert-hsec:PHY.C12.U6"
+        "ncert-hsec:PHY.C12.U6",
+        "isc:PHY.C12.U6"
       ]
     },
     {
@@ -43306,7 +43341,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why light passing through two narrow slits makes stripes rather than two bright lines.",
       "standards": [
-        "ncert-hsec:PHY.C12.U6"
+        "ncert-hsec:PHY.C12.U6",
+        "isc:PHY.C12.U6"
       ]
     },
     {
@@ -43326,7 +43362,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why polaroid sunglasses cut glare from a wet road but ordinary tinted ones do not.",
       "standards": [
-        "ncert-hsec:PHY.C12.U6"
+        "ncert-hsec:PHY.C12.U6",
+        "isc:PHY.C12.U6"
       ]
     },
     {
@@ -43346,7 +43383,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why very bright red light ejects no electrons while faint blue light does.",
       "standards": [
-        "ncert-hsec:PHY.C12.U7"
+        "ncert-hsec:PHY.C12.U7",
+        "isc:PHY.C12.U7"
       ]
     },
     {
@@ -43366,7 +43404,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why heated hydrogen gives out only a few sharp colours instead of a continuous rainbow.",
       "standards": [
-        "ncert-hsec:PHY.C12.U8"
+        "ncert-hsec:PHY.C12.U8",
+        "isc:PHY.C12.U7"
       ]
     },
     {
@@ -43386,7 +43425,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a circuit that only knows on and off can make a decision.",
       "standards": [
-        "ncert-hsec:PHY.C12.U9"
+        "ncert-hsec:PHY.C12.U9",
+        "isc:PHY.C12.U8"
       ]
     },
     {
@@ -48779,7 +48819,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a pot of melting ice stays at zero degrees even while the flame is on.",
       "standards": [
-        "ncert-hsec:PHY.C11.U7"
+        "ncert-hsec:PHY.C11.U7",
+        "isc:PHY.C11.U8"
       ]
     },
     {
@@ -48799,7 +48840,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how the Sun's heat reaches Earth when there is nothing in between to carry it.",
       "standards": [
-        "ncert-hsec:PHY.C11.U7"
+        "ncert-hsec:PHY.C11.U7",
+        "isc:PHY.C11.U8"
       ]
     },
     {
@@ -48819,7 +48861,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a guitar string of a given length can only sound certain notes.",
       "standards": [
-        "ncert-hsec:PHY.C11.U10"
+        "ncert-hsec:PHY.C11.U10",
+        "isc:PHY.C11.U10"
       ]
     },
     {
@@ -48839,7 +48882,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why an ambulance siren drops in pitch the moment it passes them.",
       "standards": [
-        "ncert-hsec:PHY.C11.U10"
+        "ncert-hsec:PHY.C11.U10",
+        "isc:PHY.C11.U10"
       ]
     },
     {
@@ -48859,7 +48903,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a light comes on instantly even though electrons drift through the wire very slowly.",
       "standards": [
-        "ncert-hsec:PHY.C12.U2"
+        "ncert-hsec:PHY.C12.U2",
+        "isc:PHY.C12.U2"
       ]
     },
     {
@@ -48879,7 +48924,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a long thin wire resists more than a short thick one of the very same metal.",
       "standards": [
-        "ncert-hsec:PHY.C12.U2"
+        "ncert-hsec:PHY.C12.U2",
+        "isc:PHY.C12.U2"
       ]
     },
     {
@@ -48899,7 +48945,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how to find the currents in a circuit where no two resistors are plainly in series or parallel.",
       "standards": [
-        "ncert-hsec:PHY.C12.U2"
+        "ncert-hsec:PHY.C12.U2",
+        "isc:PHY.C12.U2"
       ]
     },
     {
@@ -48919,7 +48966,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how you could measure a battery’s true emf without the measurement itself changing the answer.",
       "standards": [
-        "ncert-hsec:PHY.C12.U2"
+        "ncert-hsec:PHY.C12.U2",
+        "isc:PHY.C12.U2"
       ]
     },
     {
@@ -48939,7 +48987,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a loop of wire carrying current has in common with a bar magnet.",
       "standards": [
-        "ncert-hsec:PHY.C12.U3"
+        "ncert-hsec:PHY.C12.U3",
+        "isc:PHY.C12.U3"
       ]
     },
     {
@@ -48959,7 +49008,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why iron can be turned into a permanent magnet but copper cannot.",
       "standards": [
-        "ncert-hsec:PHY.C12.U3"
+        "ncert-hsec:PHY.C12.U3",
+        "isc:PHY.C12.U3"
       ]
     },
     {
@@ -48979,7 +49029,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} where the image forms when an object sits between a converging lens and its focus.",
       "standards": [
-        "ncert-hsec:PHY.C12.U6"
+        "ncert-hsec:PHY.C12.U6",
+        "isc:PHY.C12.U6"
       ]
     },
     {
@@ -48999,7 +49050,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how light can be made to travel around a bend without escaping the fibre.",
       "standards": [
-        "ncert-hsec:PHY.C12.U6"
+        "ncert-hsec:PHY.C12.U6",
+        "isc:PHY.C12.U6"
       ]
     },
     {
@@ -49019,7 +49071,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a substance can decay unpredictably and still have a precisely known half life.",
       "standards": [
-        "ncert-hsec:PHY.C12.U8"
+        "ncert-hsec:PHY.C12.U8",
+        "isc:PHY.C12.U7"
       ]
     },
     {
@@ -49039,7 +49092,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how splitting a heavy atom and joining two light ones can both give out energy.",
       "standards": [
-        "ncert-hsec:PHY.C12.U8"
+        "ncert-hsec:PHY.C12.U8",
+        "isc:PHY.C12.U7"
       ]
     },
     {
@@ -49059,7 +49113,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a device with no moving parts can act as a one-way valve for electricity.",
       "standards": [
-        "ncert-hsec:PHY.C12.U9"
+        "ncert-hsec:PHY.C12.U9",
+        "isc:PHY.C12.U8"
       ]
     },
     {
@@ -49079,7 +49134,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a tiny signal from a microphone ends up driving a loudspeaker.",
       "standards": [
-        "ncert-hsec:PHY.C12.U9"
+        "ncert-hsec:PHY.C12.U9",
+        "isc:PHY.C12.U8"
       ]
     },
     {

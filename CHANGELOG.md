@@ -8,6 +8,17 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ISC (CISCE Classes XI–XII) added; Physics integrated (2026-08-03)
+- Added a new curriculum source **`isc`** — the CISCE Indian School Certificate,
+  Classes XI–XII (ages 16–18), exam-year-2028 edition. Red tier (Marble factual
+  descriptions, no CISCE text; see PROVENANCE). Uses the same `scripts/build/
+  cisce.mjs` board helper as `icse`.
+- **ISC Physics** integrated as a **pure-alignment** pass: the Physics subject
+  was already built out densely at 16–18 by ncert-hsec, so all 18 ISC units map
+  onto existing topics (56 topic→standard links) with **zero new topics**. This
+  confirms the ISC pattern — nearly pure alignment onto the ncert-hsec ladders.
+  Now 17 curriculum sources; 4,486 standards; validate green.
+
 ### ICSE English integrated — ICSE existing-subject pass complete (2026-08-03)
 - English is the taxonomy's richest ladder, so strongly align-first: 7 standards,
   16 aligned (composition, comprehension, grammar, and the analytical study of

@@ -56,6 +56,13 @@ For encumbered sources we ship only the **standard code** (e.g. `1-ESS1-1`) and 
 - **Scope:** Classes IX–X (ages 14–16). Integrated align-first onto the existing 14–16 ladder (from `ncert-sec` and `nios-sec-2020`); only content ICSE carries that the taxonomy lacked at this level is minted.
 - These summary records are Marble-authored (CC BY-SA 4.0); the ICSE syllabus itself remains © CISCE. Obtain CISCE permission before shipping any verbatim syllabus text.
 
+### 🔴 `isc` — CISCE Indian School Certificate (ISC), Classes XI–XII — **Marble summaries only, no CISCE text**
+- **Publisher / rights:** Council for the Indian School Certificate Examinations (CISCE), India — the same posture as `icse` above. The syllabus copyright reserves all rights; no part may be reproduced without prior written approval.
+- **What we ship:** minted codes (class × unit) plus **Marble-authored one-line factual descriptions** of what each unit covers. No CISCE text is reproduced.
+- **Source:** the ISC Regulations and Syllabuses (exam year 2028 edition, January 2026), one PDF per subject, at [cisce.org/regulations-and-syllabus-isc-2028](https://cisce.org/regulations-and-syllabus-isc-2028/).
+- **Scope:** Classes XI–XII (ages 16–18). Integrated align-first onto the existing 16–18 ladder (from `ncert-hsec`), which already built out the senior subjects densely — so the ISC pass is almost purely alignment, with few or no new topics.
+- These summary records are Marble-authored (CC BY-SA 4.0); the ISC syllabus itself remains © CISCE. Obtain CISCE permission before shipping any verbatim syllabus text.
+
 ### 🟡 `ccss-ela`, `ccss-math` — Common Core State Standards — **full text**
 - **Publisher / rights:** © 2010 National Governors Association Center for Best Practices (NGA Center) and Council of Chief State School Officers (CCSSO).
 - **License:** the CCSS Public License grants *"a limited, non-exclusive, royalty-free license to copy, publish, distribute, and display the Common Core State Standards **for purposes that support the Common Core State Standards Initiative**."* This is **purpose-limited**, and it does **not** clearly grant derivative-work or sublicensing rights — so the CCSS-derived records remain under the CCSS Public License, **not** ODbL.
