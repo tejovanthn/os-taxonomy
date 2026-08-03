@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2659,
+  "topicCount": 2667,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -32562,7 +32562,8 @@
       "assessmentPrompt": "Can {{name}} describe the Indus Valley cities — their planned streets and drains — and explain how we know about a civilisation with no readable writing?",
       "standards": [
         "nios-obe-c:C102.L1",
-        "ncert-elem:SS.HIST.C6"
+        "ncert-elem:SS.HIST.C6",
+        "icse:HCG9.4"
       ]
     },
     {
@@ -32584,7 +32585,8 @@
       "standards": [
         "nios-obe-c:C102.L2",
         "nios-sec-2020:223.M2.L3",
-        "ncert-elem:SS.HIST.C6"
+        "ncert-elem:SS.HIST.C6",
+        "icse:HCG9.5"
       ]
     },
     {
@@ -32605,7 +32607,8 @@
       "assessmentPrompt": "Can {{name}} tell the story of Ashoka — how a powerful emperor turned to peace after a terrible war — and why the Maurya Empire mattered?",
       "standards": [
         "nios-obe-c:C102.L3",
-        "ncert-elem:SS.HIST.C6"
+        "ncert-elem:SS.HIST.C6",
+        "icse:HCG9.7"
       ]
     },
     {
@@ -32627,7 +32630,8 @@
       "standards": [
         "nios-obe-c:C102.L4",
         "nios-sec-2020:223.M2.L3",
-        "ncert-elem:SS.HIST.C6"
+        "ncert-elem:SS.HIST.C6",
+        "icse:HCG9.9"
       ]
     },
     {
@@ -32670,7 +32674,8 @@
         "nios-obe-c:C102.L5",
         "nios-sec-2020:223.M2.L4",
         "nios-sec-2020:213.M1.L2",
-        "ncert-elem:SS.HIST.C7"
+        "ncert-elem:SS.HIST.C7",
+        "icse:HCG9.10"
       ]
     },
     {
@@ -32692,7 +32697,8 @@
       "standards": [
         "nios-obe-c:C102.L6",
         "nios-sec-2020:223.M2.L4",
-        "ncert-elem:SS.HIST.C7"
+        "ncert-elem:SS.HIST.C7",
+        "icse:HCG9.10"
       ]
     },
     {
@@ -34113,7 +34119,8 @@
       "assessmentPrompt": "Can {{name}} explain what the revolt of 1857 was and why it is an important turning point in India’s history?",
       "standards": [
         "nios-obe-c:C102.L7",
-        "nios-sec-2020:213.M1.L7"
+        "nios-sec-2020:213.M1.L7",
+        "icse:HCG10.4"
       ]
     },
     {
@@ -34135,7 +34142,8 @@
       "standards": [
         "nios-obe-c:C102.L8",
         "nios-sec-2020:213.M1.L8",
-        "ncert-sec:HIS.C10.INDNAT"
+        "ncert-sec:HIS.C10.INDNAT",
+        "icse:HCG10.4"
       ]
     },
     {
@@ -34177,7 +34185,8 @@
       "assessmentPrompt": "Can {{name}} name a freedom movement like the Salt March and explain how ordinary people took part in the struggle for independence?",
       "standards": [
         "nios-obe-c:C102.L8",
-        "ncert-sec:HIS.C10.INDNAT"
+        "ncert-sec:HIS.C10.INDNAT",
+        "icse:HCG10.4"
       ]
     },
     {
@@ -34219,7 +34228,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain that India became free in 1947, and that the country was also divided — bringing both joy and great hardship?",
       "standards": [
-        "nios-obe-c:C102.L8"
+        "nios-obe-c:C102.L8",
+        "icse:HCG10.5"
       ]
     },
     {
@@ -36485,7 +36495,8 @@
         "nios-sec-2020:213.M1.L4",
         "ncert-sec:HIS.C9.FR",
         "ncert-sec:HIS.C10.EURNAT",
-        "ncert-sec:HIS.C10.INDUS"
+        "ncert-sec:HIS.C10.INDUS",
+        "icse:HCG9.11"
       ]
     },
     {
@@ -37577,7 +37588,8 @@
       "standards": [
         "nios-sec-2020:213.M1.L3",
         "ncert-sec:HIS.C9.FR",
-        "ncert-sec:HIS.C9.RR"
+        "ncert-sec:HIS.C9.RR",
+        "icse:HCG9.11"
       ]
     },
     {
@@ -41813,7 +41825,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how refusing to attend a school or court could put pressure on a government.",
       "standards": [
-        "ncert-sec:HIS.C10.INDNAT"
+        "ncert-sec:HIS.C10.INDNAT",
+        "icse:HCG10.5"
       ]
     },
     {
@@ -41833,7 +41846,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a farmer and a factory worker might both join the freedom movement but want different things.",
       "standards": [
-        "ncert-sec:HIS.C10.INDNAT"
+        "ncert-sec:HIS.C10.INDNAT",
+        "icse:HCG10.5"
       ]
     },
     {
@@ -42074,7 +42088,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} who decided what would be in India’s Constitution, and whether it can ever be changed.",
       "standards": [
-        "ncert-sec:POL.C9.DESIGN"
+        "ncert-sec:POL.C9.DESIGN",
+        "icse:HCG9.1"
       ]
     },
     {
@@ -49402,7 +49417,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why making salt from seawater was treated as a crime, and why that made it powerful.",
       "standards": [
-        "ncert-sec:HIS.C10.INDNAT"
+        "ncert-sec:HIS.C10.INDNAT",
+        "icse:HCG10.5"
       ]
     },
     {
@@ -53991,6 +54007,166 @@
       "standards": [
         "icse:EVS10.5",
         "icse:EVS10.7"
+      ]
+    },
+    {
+      "id": "mt_4TDxayAwDE",
+      "type": "CONCEPTUAL",
+      "subject": "Political Science",
+      "domain": "Indian Constitution",
+      "name": "Elections and the Electoral Process",
+      "description": "Understand why free and fair elections are the heart of a democracy, how the electoral process runs from constituencies to counting, and why an independent Election Commission conducts it.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains why elections are essential to democracy",
+        "Outlines the stages of the electoral process",
+        "Explains the role of the Election Commission"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a country is only called democratic if its elections are free and fair.",
+      "standards": [
+        "icse:HCG9.2"
+      ]
+    },
+    {
+      "id": "mt_bDQZF251cr",
+      "type": "CONCEPTUAL",
+      "subject": "Political Science",
+      "domain": "Indian Constitution",
+      "name": "Local Self-Government",
+      "description": "Understand how democracy reaches the village and the town through local self-government — the panchayati raj in the countryside and the municipal bodies in the cities — and what each does.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes rural from urban local government",
+        "Names a tier of the panchayati raj system",
+        "Explains a function of a local body"
+      ],
+      "assessmentPrompt": "Ask {{name}} who fixes the street lights and the drains, and how those people are chosen.",
+      "standards": [
+        "icse:HCG9.3"
+      ]
+    },
+    {
+      "id": "mt_JHHWnT2hZw",
+      "type": "CONCEPTUAL",
+      "subject": "Political Science",
+      "domain": "Indian Constitution",
+      "name": "The Union Legislature: Parliament",
+      "description": "Understand Parliament as the law-making body of the Union — the elected Lok Sabha and the Rajya Sabha of the states — and how a bill becomes a law.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes the Lok Sabha from the Rajya Sabha",
+        "Outlines how a bill becomes a law",
+        "Explains a function of Parliament beyond making laws"
+      ],
+      "assessmentPrompt": "Ask {{name}} why India has two houses of Parliament rather than one.",
+      "standards": [
+        "icse:HCG10.1"
+      ]
+    },
+    {
+      "id": "mt_Y18LBBLw0V",
+      "type": "CONCEPTUAL",
+      "subject": "Political Science",
+      "domain": "Indian Constitution",
+      "name": "The Union Executive",
+      "description": "Understand the executive that governs the Union — the President as constitutional head and the Prime Minister and Council of Ministers who hold the real power and answer to Parliament.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Distinguishes the President’s role from the Prime Minister’s",
+        "Explains why the Council of Ministers is responsible to the Lok Sabha",
+        "Names a power of the Union executive"
+      ],
+      "assessmentPrompt": "Ask {{name}} who really runs the country — the President who signs the laws, or the Prime Minister?",
+      "standards": [
+        "icse:HCG10.2"
+      ]
+    },
+    {
+      "id": "mt_3slaBQ3NqT",
+      "type": "CONCEPTUAL",
+      "subject": "Political Science",
+      "domain": "Indian Constitution",
+      "name": "The Judiciary",
+      "description": "Understand the courts as the third branch of the state — the Supreme Court and the High Courts — and why their independence from government is what lets them protect rights and check power.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Outlines the structure of the Supreme Court and High Courts",
+        "Explains the independence of the judiciary and why it matters",
+        "Explains judicial review or the protection of rights"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the judges who might rule against the government must not be controlled by it.",
+      "standards": [
+        "icse:HCG10.3"
+      ]
+    },
+    {
+      "id": "mt_EHb5CBRg0I",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Ancient India",
+      "name": "Jainism and Buddhism",
+      "description": "Understand why Jainism and Buddhism arose in the sixth century BCE as responses to Vedic ritual and social order, what each taught, and how far they spread.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains the causes of the rise of Jainism and Buddhism",
+        "States a core teaching of each",
+        "Explains how Buddhism spread beyond India"
+      ],
+      "assessmentPrompt": "Ask {{name}} why two new religions of peace and simplicity took hold in an age of Vedic sacrifice.",
+      "standards": [
+        "icse:HCG9.6"
+      ]
+    },
+    {
+      "id": "mt_kFtZpc6SXh",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "Ancient India",
+      "name": "The Sangam Age",
+      "description": "Understand the Sangam age of the far south — the Chera, Chola and Pandya kingdoms, its trade and society, and the Sangam literature that is its great record.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names the three kingdoms of the Sangam age",
+        "Describes the society or economy of the Sangam age",
+        "Explains what Sangam literature tells us"
+      ],
+      "assessmentPrompt": "Ask {{name}} how we know about a southern age two thousand years ago mostly from its poetry.",
+      "standards": [
+        "icse:HCG9.8"
+      ]
+    },
+    {
+      "id": "mt_9A0rSWMeTD",
+      "type": "CONCEPTUAL",
+      "subject": "History",
+      "domain": "World History",
+      "name": "The Contemporary World",
+      "description": "Understand the shape of the world after the two world wars — the founding of the United Nations to keep peace, the Cold War that divided it, and India’s Non-Aligned path between the blocs.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains why the United Nations was founded",
+        "Explains what the Cold War was",
+        "Explains the Non-Aligned Movement and India’s role in it"
+      ],
+      "assessmentPrompt": "Ask {{name}} how the world split into two armed camps without the great powers ever directly fighting.",
+      "standards": [
+        "icse:HCG10.6"
       ]
     }
   ]

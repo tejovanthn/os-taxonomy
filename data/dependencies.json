@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4635,
+  "edgeCount": 4649,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -27812,6 +27812,90 @@
       "prerequisiteId": "mt_WEGIOQv0D5",
       "strength": "soft",
       "reason": "Green growth is sustainable development applied to the economy."
+    },
+    {
+      "topicId": "mt_4TDxayAwDE",
+      "prerequisiteId": "mt_DLCwoOPIc8",
+      "strength": "hard",
+      "reason": "Elections are conducted under the constitution."
+    },
+    {
+      "topicId": "mt_bDQZF251cr",
+      "prerequisiteId": "mt_DLCwoOPIc8",
+      "strength": "soft",
+      "reason": "Local government is a tier of the constitutional order."
+    },
+    {
+      "topicId": "mt_JHHWnT2hZw",
+      "prerequisiteId": "mt_DLCwoOPIc8",
+      "strength": "hard",
+      "reason": "Parliament is established by the constitution."
+    },
+    {
+      "topicId": "mt_Y18LBBLw0V",
+      "prerequisiteId": "mt_JHHWnT2hZw",
+      "strength": "hard",
+      "reason": "The Council of Ministers is drawn from and answerable to Parliament."
+    },
+    {
+      "topicId": "mt_3slaBQ3NqT",
+      "prerequisiteId": "mt_DLCwoOPIc8",
+      "strength": "hard",
+      "reason": "The judiciary interprets and guards the constitution."
+    },
+    {
+      "topicId": "mt_pYVpmVkNQE",
+      "prerequisiteId": "mt_4TDxayAwDE",
+      "strength": "hard",
+      "reason": "The senior study of electoral systems builds on elections."
+    },
+    {
+      "topicId": "mt_Px207pEzXC",
+      "prerequisiteId": "mt_bDQZF251cr",
+      "strength": "hard",
+      "reason": "The senior study of local government builds on this."
+    },
+    {
+      "topicId": "mt_mbdVjWWkKD",
+      "prerequisiteId": "mt_JHHWnT2hZw",
+      "strength": "hard",
+      "reason": "The senior study of the legislature builds on Parliament."
+    },
+    {
+      "topicId": "mt_mbdVjWWkKD",
+      "prerequisiteId": "mt_Y18LBBLw0V",
+      "strength": "soft",
+      "reason": "The senior study of the executive builds on this."
+    },
+    {
+      "topicId": "mt_bOFA6RKIkA",
+      "prerequisiteId": "mt_3slaBQ3NqT",
+      "strength": "hard",
+      "reason": "The senior study of the judiciary and the rule of law builds on this."
+    },
+    {
+      "topicId": "mt_EHb5CBRg0I",
+      "prerequisiteId": "mt_jgJMDA0GTY",
+      "strength": "soft",
+      "reason": "Jainism and Buddhism arose against the later Vedic order."
+    },
+    {
+      "topicId": "mt_kFtZpc6SXh",
+      "prerequisiteId": "mt_SBHKtfCzu3",
+      "strength": "soft",
+      "reason": "The Sangam age is contemporary with the Mauryan north."
+    },
+    {
+      "topicId": "mt_9A0rSWMeTD",
+      "prerequisiteId": "mt_7P4EsEbQpI",
+      "strength": "hard",
+      "reason": "The contemporary world follows the revolutions of the modern age."
+    },
+    {
+      "topicId": "mt_9A0rSWMeTD",
+      "prerequisiteId": "mt_lJfcDibOG1",
+      "strength": "soft",
+      "reason": "India entered the contemporary world at independence."
     }
   ]
 }

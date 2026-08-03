@@ -5,7 +5,7 @@ Last updated 2026-08-01.
 
 ## Where things stand
 
-2,659 topics · 4,635 edges · 4,418 standards · 372 clusters · 16 curriculum
+2,667 topics · 4,649 edges · 4,435 standards · 373 clusters · 16 curriculum
 sources · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
 All build scripts idempotent (re-run adds zero). Only two topics now sit outside
 the main graph component (the Kannada and Dance singletons); the Visual Arts and
@@ -15,9 +15,14 @@ Home Science islands were connected by the ICSE Art and Home Science passes.
 source `icse` (Classes IX–X, 14–16) added, red tier (Marble factual
 descriptions, no CISCE text — see PROVENANCE). Shared board helper
 `scripts/build/cisce.mjs` serves both `icse` and the forthcoming `isc`
-(Classes XI–XII, 16–18). **ICSE done so far (10 subjects, committed):
+(Classes XI–XII, 16–18). **ICSE done so far (11 subjects, committed):
 Mathematics, Computer Applications, Economics, Art, Home Science, Commercial
-Studies, Physics, Chemistry, Biology, Environmental Science.** Environmental
+Studies, Physics, Chemistry, Biology, Environmental Science, History & Civics.**
+History & Civics (`icse-history-civics.mjs`): one paper, two subjects — Civics →
+Political Science (5 minted government institutions at 14–16, senior topics
+reverse-anchored) and History → History (16 aligned incl. ancient/medieval India
+as shared coverage; minted Jainism/Buddhism, Sangam Age, contemporary world).
+Environmental
 Science (`icse-environmental-science.mjs`): 15 standards, 8 aligned, 6 minted
 under Science — a modern sustainability survey (triple planetary crisis,
 sustainable society, green economy/skills, India's environmental heritage) in a
@@ -87,19 +92,15 @@ idempotent.
 
 ## Single next step
 
-**Continue the ICSE pass: integrate ICSE History & Civics → History + Political
-Science next** (all sciences done). History & Civics is Classes IX–X (ages
-14–16): the Civics half (Constitution, elections, Union legislature/executive/
-judiciary) → Political Science; the History half (Harappan → modern India, the
-national movement, the modern age) → History. Both subjects have ladders to
-align to — History is well-developed; check for double-coverage. Then Geography
-(→ Geography, which has a 14–16 ladder), Performing Arts (→ Music/Dance, aligning
-to the KSGH graded-exam topics + existing Music/Dance), English (→ English,
-large existing ladder). Then the ISC (XI–XII) pass onto the ncert-hsec ladders.
-Syllabus texts: `5.-History-Civics.txt`, `6.-Geography.txt`,
-`22.-Performing-Arts.txt`, `2.-English.txt`. WATCH: run `audit.mjs icse` after
-each; anchor every new-topic chain's ROOT to a main-component topic (the
-connectivity flood-fill catches islands). Then History&Civics→History+Political Science, Geography, Performing
+**Continue the ICSE pass: integrate ICSE Geography → Geography next** (Geography
+has a 14–16 ladder from ncert-sec / nios-sec — align-heavy; watch for
+double-coverage). Then Performing Arts (→ Music/Dance, aligning to the KSGH
+graded-exam topics + existing Music/Dance) and English (→ English, large existing
+ladder). Those three finish the ICSE existing-subject pass. Then the ISC
+(XI–XII) pass onto the ncert-hsec ladders. Syllabus texts: `6.-Geography.txt`,
+`22.-Performing-Arts.txt`, `2.-English.txt` (ISC texts in scratchpad `isc/`).
+WATCH: run `audit.mjs icse` after each; anchor every new-topic chain's ROOT to a
+main-component topic (the connectivity flood-fill catches islands). Then History&Civics→History+Political Science, Geography, Performing
 Arts→Music/Dance, English — then the ISC (XI–XII) pass onto the ncert-hsec
 ladders. Method: align-first (use the scratchpad `q.mjs` to find existing topics
 before minting), one idea per topic, red-tier descriptions. The scratchpad also

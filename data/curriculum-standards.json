@@ -49149,7 +49149,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabuses-icse-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 165,
+      "topicCount": 182,
       "topics": [
         {
           "key": "icse:MAT9.1",
@@ -50964,6 +50964,193 @@
             "class": "X",
             "strand": "Green Skills Development",
             "description": "The green skills and careers a sustainable economy needs."
+          }
+        },
+        {
+          "key": "icse:HCG9.1",
+          "code": "HCG9.1",
+          "data": {
+            "title": "Class IX Our Constitution",
+            "subject": "History & Civics (IX–X)",
+            "class": "IX",
+            "strand": "Our Constitution",
+            "description": "The making of the Indian Constitution, its preamble and salient features, and the fundamental rights and duties of citizens."
+          }
+        },
+        {
+          "key": "icse:HCG9.2",
+          "code": "HCG9.2",
+          "data": {
+            "title": "Class IX Elections",
+            "subject": "History & Civics (IX–X)",
+            "class": "IX",
+            "strand": "Elections",
+            "description": "The importance of elections in a democracy, the electoral process, and the role of the Election Commission."
+          }
+        },
+        {
+          "key": "icse:HCG9.3",
+          "code": "HCG9.3",
+          "data": {
+            "title": "Class IX Local Self-Government",
+            "subject": "History & Civics (IX–X)",
+            "class": "IX",
+            "strand": "Local Self-Government",
+            "description": "Rural and urban local self-government — the panchayati raj system and the municipal bodies — and their functions."
+          }
+        },
+        {
+          "key": "icse:HCG10.1",
+          "code": "HCG10.1",
+          "data": {
+            "title": "Class X The Union Legislature",
+            "subject": "History & Civics (IX–X)",
+            "class": "X",
+            "strand": "The Union Legislature",
+            "description": "The composition and functions of Parliament — the Lok Sabha and the Rajya Sabha — and how a law is made."
+          }
+        },
+        {
+          "key": "icse:HCG10.2",
+          "code": "HCG10.2",
+          "data": {
+            "title": "Class X The Union Executive",
+            "subject": "History & Civics (IX–X)",
+            "class": "X",
+            "strand": "The Union Executive",
+            "description": "The President, the Vice-President, the Prime Minister and the Council of Ministers, and their powers and functions."
+          }
+        },
+        {
+          "key": "icse:HCG10.3",
+          "code": "HCG10.3",
+          "data": {
+            "title": "Class X The Judiciary",
+            "subject": "History & Civics (IX–X)",
+            "class": "X",
+            "strand": "The Judiciary",
+            "description": "The Supreme Court and the High Courts, their composition and jurisdiction, and the independence of the judiciary."
+          }
+        },
+        {
+          "key": "icse:HCG9.4",
+          "code": "HCG9.4",
+          "data": {
+            "title": "Class IX The Harappan Civilisation",
+            "subject": "History & Civics (IX–X)",
+            "class": "IX",
+            "strand": "The Harappan Civilisation",
+            "description": "The town planning, economy and features of the Indus Valley civilisation and the theories of its decline."
+          }
+        },
+        {
+          "key": "icse:HCG9.5",
+          "code": "HCG9.5",
+          "data": {
+            "title": "Class IX The Vedic Period",
+            "subject": "History & Civics (IX–X)",
+            "class": "IX",
+            "strand": "The Vedic Period",
+            "description": "Early and later Vedic society, polity, economy and religion."
+          }
+        },
+        {
+          "key": "icse:HCG9.6",
+          "code": "HCG9.6",
+          "data": {
+            "title": "Class IX Jainism and Buddhism",
+            "subject": "History & Civics (IX–X)",
+            "class": "IX",
+            "strand": "Jainism and Buddhism",
+            "description": "The rise, teachings and spread of Jainism and Buddhism and their causes and impact."
+          }
+        },
+        {
+          "key": "icse:HCG9.7",
+          "code": "HCG9.7",
+          "data": {
+            "title": "Class IX The Mauryan Empire",
+            "subject": "History & Civics (IX–X)",
+            "class": "IX",
+            "strand": "The Mauryan Empire",
+            "description": "The Mauryan empire, the administration of Chandragupta and Ashoka’s dhamma."
+          }
+        },
+        {
+          "key": "icse:HCG9.8",
+          "code": "HCG9.8",
+          "data": {
+            "title": "Class IX The Sangam Age",
+            "subject": "History & Civics (IX–X)",
+            "class": "IX",
+            "strand": "The Sangam Age",
+            "description": "The Sangam age of the far south — its kingdoms, society, economy and literature."
+          }
+        },
+        {
+          "key": "icse:HCG9.9",
+          "code": "HCG9.9",
+          "data": {
+            "title": "Class IX The Age of the Guptas",
+            "subject": "History & Civics (IX–X)",
+            "class": "IX",
+            "strand": "The Age of the Guptas",
+            "description": "The Gupta empire and the achievements of its age in learning, science and the arts."
+          }
+        },
+        {
+          "key": "icse:HCG9.10",
+          "code": "HCG9.10",
+          "data": {
+            "title": "Class IX Medieval India",
+            "subject": "History & Civics (IX–X)",
+            "class": "IX",
+            "strand": "Medieval India",
+            "description": "The Delhi Sultanate and the Mughal empire — their administration, society and culture."
+          }
+        },
+        {
+          "key": "icse:HCG9.11",
+          "code": "HCG9.11",
+          "data": {
+            "title": "Class IX The Modern Age in Europe",
+            "subject": "History & Civics (IX–X)",
+            "class": "IX",
+            "strand": "The Modern Age in Europe",
+            "description": "The Renaissance and Reformation and the revolutions that made the modern age."
+          }
+        },
+        {
+          "key": "icse:HCG10.4",
+          "code": "HCG10.4",
+          "data": {
+            "title": "Class X The Indian National Movement (1857–1917)",
+            "subject": "History & Civics (IX–X)",
+            "class": "X",
+            "strand": "The Indian National Movement (1857–1917)",
+            "description": "The revolt of 1857, the founding of the Indian National Congress and the early and assertive nationalists."
+          }
+        },
+        {
+          "key": "icse:HCG10.5",
+          "code": "HCG10.5",
+          "data": {
+            "title": "Class X The Mass Phase of the National Movement (1915–1947)",
+            "subject": "History & Civics (IX–X)",
+            "class": "X",
+            "strand": "The Mass Phase of the National Movement (1915–1947)",
+            "description": "Gandhi and the mass movements — Non-Cooperation, Civil Disobedience and Quit India — and Partition and independence."
+          }
+        },
+        {
+          "key": "icse:HCG10.6",
+          "code": "HCG10.6",
+          "data": {
+            "title": "Class X The Contemporary World",
+            "subject": "History & Civics (IX–X)",
+            "class": "X",
+            "strand": "The Contemporary World",
+            "description": "The two world wars, the United Nations, the Cold War and the Non-Aligned Movement."
           }
         }
       ]

@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 372,
+  "clusterCount": 373,
   "clusters": [
     {
       "subject": "English",
@@ -2288,6 +2288,13 @@
       "ageRangeStart": 15,
       "ageRangeEnd": 16,
       "summary": "Class X turns from naming the crisis to addressing it. Each arm of the triple planetary crisis is taken in turn — pollution, biodiversity loss and climate change — with the technical, legal and personal measures that answer it, including the path to net zero. The course then looks at redesigning the economy itself: the circular economy that reuses instead of discarding, green growth, and the green skills and careers a sustainable world will need."
+    },
+    {
+      "subject": "Political Science",
+      "domain": "Indian Constitution",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "summary": "Having met the constitution itself, the learner now studies the institutions it creates — the machinery of the Union government. Parliament, in two houses, makes the laws; the executive, headed for form’s sake by the President but run by the Prime Minister and the Council of Ministers, carries them out and answers to Parliament for it; and the judiciary, deliberately kept independent, interprets the laws and guards the constitution against both. The three together, each checking the others, are how a democracy governs without letting any one part rule."
     }
   ]
 }

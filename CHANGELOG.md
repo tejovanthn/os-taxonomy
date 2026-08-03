@@ -8,6 +8,20 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ICSE History & Civics integrated (2026-08-03)
+- This one paper covers two subjects. **Civics → Political Science**: the
+  constitution basics existed at 14–16 but the institutions of government only at
+  16–17, so 5 minted at 14–16 (elections, local self-government, the Union
+  legislature, the Union executive, the judiciary) with the senior topics
+  reverse-anchored onto them. **History → History**: the national movement and
+  modern Europe already exist at 14–16 and align; the ancient/medieval Indian
+  civilisations exist pitched at 9–13 and align as shared coverage; only the
+  absent surveys are minted — Jainism and Buddhism, the Sangam Age, and the
+  contemporary world.
+- 17 standards, 16 aligned, 8 minted. Every standard covered; no bundlers/
+  orphans; all minted topics join the main component; idempotent. 2,667 topics /
+  4,649 edges / 373 clusters; validate green.
+
 ### ICSE Environmental Science integrated under Science (2026-08-03)
 - The 2028 ICSE Environmental Science syllabus is a modern sustainability course
   built around the "triple planetary crisis" (climate change, pollution,

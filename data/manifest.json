@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-08-03T03:25:16.118Z",
+  "generatedAt": "2026-08-03T17:41:51.207Z",
   "codesOnlySources": [
     "c3-social-studies",
     "ib-pyp-pspe",
@@ -9,7 +9,7 @@
     "ngss-ms"
   ],
   "counts": {
-    "topics": 2659,
+    "topics": 2667,
     "topicsBySubject": {
       "Accountancy": 32,
       "Biology": 45,
@@ -21,7 +21,7 @@
       "English": 294,
       "Geography": 35,
       "Hindi": 20,
-      "History": 192,
+      "History": 195,
       "Home Science": 35,
       "Indian Culture & Heritage": 29,
       "Kannada": 6,
@@ -31,7 +31,7 @@
       "Music": 49,
       "Personal & Social Development": 88,
       "Physics": 57,
-      "Political Science": 23,
+      "Political Science": 28,
       "Psychology": 48,
       "Sanskrit": 43,
       "Science": 641,
@@ -41,28 +41,28 @@
       "Telugu": 5,
       "Visual Arts": 20
     },
-    "dependencies": 4635,
+    "dependencies": 4649,
     "curricula": 16,
-    "curriculumStandards": 4418,
-    "topicStandardLinks": 4188,
-    "clusters": 372
+    "curriculumStandards": 4435,
+    "topicStandardLinks": 4212,
+    "clusters": 373
   },
   "files": {
     "topics.json": {
-      "bytes": 2637839,
-      "sha256": "3f036b09a0e0ad9aafa13ccde974db83944580c2bf534ffa757dd36142581414"
+      "bytes": 2644928,
+      "sha256": "8df470e6695018377a3269fef421288be42db67ced1a320bea5bbcfb645f33ff"
     },
     "dependencies.json": {
-      "bytes": 962643,
-      "sha256": "9cdd4b5255fa3bd3614c86165ae304bc32697ea5da50ebcc04ddcb058b2de316"
+      "bytes": 965288,
+      "sha256": "4c087d534c4928f1ca2a2251e2601ed7651b538d342f5d7d328529d2a8ddb982"
     },
     "curriculum-standards.json": {
-      "bytes": 2202843,
-      "sha256": "1d8cb41c29e2432ace349d07dabd4d242aafcd74a8678512aee8c1e481c5e599"
+      "bytes": 2210024,
+      "sha256": "5e5c97d4f6430cbe565fae721eb8ad0f3f6e5b8349c4b64df1ce444f0ccd473f"
     },
     "clusters.json": {
-      "bytes": 132269,
-      "sha256": "020c35b20ceaf1f8496afd86b2d27d6ca831631380fe92123977dca13c727523"
+      "bytes": 132993,
+      "sha256": "d5ef28e9ea95f43031f079e012f6526b0ec7685453e54e8a45f38d4e13dd3a56"
     }
   },
   "excluded": [

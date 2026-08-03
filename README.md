@@ -15,10 +15,10 @@ Every dot is a micro-topic, colored by subject; height is age; each thread is a 
 
 Most curriculum data is either a flat list of standards or locked inside a product. This dataset is a **connected graph of learning**:
 
-- **2,659 micro-topics** — a single, teachable idea (e.g. *"Building sentences"*, *"Apparent brightness of stars"*), each with a plain-language description, mastery **evidence** criteria, a type (conceptual / procedural / representational / language / meta), a subject + domain, and an approximate age range.
-- **4,635 prerequisite dependencies** — a directed acyclic graph: *"topic X depends on prerequisite Y"*, each edge tagged `hard`/`soft` and carrying a one-line **reason**.
+- **2,667 micro-topics** — a single, teachable idea (e.g. *"Building sentences"*, *"Apparent brightness of stars"*), each with a plain-language description, mastery **evidence** criteria, a type (conceptual / procedural / representational / language / meta), a subject + domain, and an approximate age range.
+- **4,649 prerequisite dependencies** — a directed acyclic graph: *"topic X depends on prerequisite Y"*, each edge tagged `hard`/`soft` and carrying a one-line **reason**.
 - **Curriculum alignment** — each micro-topic links to the standards it was distilled from (NGSS, Common Core, the UK National Curriculum, India's NIOS Open Basic Education and Secondary curricula, the NCERT elementary, secondary and higher-secondary syllabi, the CISCE ICSE (Classes IX–X) syllabus, graded music & dance examinations, and more).
-- **Domain clusters** — 372 parent-friendly one-paragraph summaries per (subject, domain, age band).
+- **Domain clusters** — 373 parent-friendly one-paragraph summaries per (subject, domain, age band).
 
 ### Subjects
 
@@ -27,7 +27,7 @@ Most curriculum data is either a flat list of standards or locked inside a produ
 | Science | 641 |
 | Mathematics | 588 |
 | English | 294 |
-| History | 192 |
+| History | 195 |
 | Personal & Social Development | 88 |
 | Social Studies | 67 |
 | Economics | 60 |
@@ -45,8 +45,8 @@ Most curriculum data is either a flat list of standards or locked inside a produ
 | Sociology | 35 |
 | Accountancy | 32 |
 | Indian Culture & Heritage | 29 |
+| Political Science | 28 |
 | Dance | 26 |
-| Political Science | 23 |
 | Hindi | 20 |
 | Visual Arts | 20 |
 | Learning to Learn | 18 |
