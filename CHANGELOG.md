@@ -8,6 +8,22 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ICSE Geography integrated (2026-08-03)
+- Geography of India is the taxonomy's strongest 14–16 area, so the whole Class X
+  India course aligns (physiographic divisions, drainage, soil, water, minerals,
+  agriculture, industry, transport). The mints are the Class IX physical
+  geography of the world — latitude/longitude and the earth's motions, the
+  structure of the earth, the hydrosphere, the atmosphere, and the natural
+  regions — which existed only at 16–17, plus topographical-map interpretation
+  and India's climate and natural vegetation. The senior 16–18 physical-geography
+  topics reverse-anchor onto the new 14–16 ones.
+- 18 standards, 12 aligned, 8 minted. Every standard covered; no orphans; all
+  minted topics join the main component; idempotent. (The scratchpad bundler
+  audit was refined to flag only ≥3 standards from the SAME subject — the
+  air-pollution topic legitimately serves Chemistry, Env Science and Geography,
+  which is cross-curriculum reuse of one idea, not bundling.) 2,675 topics /
+  4,665 edges / 374 clusters; validate green.
+
 ### ICSE History & Civics integrated (2026-08-03)
 - This one paper covers two subjects. **Civics → Political Science**: the
   constitution basics existed at 14–16 but the institutions of government only at

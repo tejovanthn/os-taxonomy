@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2667,
+  "topicCount": 2675,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -25686,7 +25686,8 @@
         "ncert-sec:SCI.C10.LIV.ENV",
         "icse:PHY9.5",
         "icse:CHE9.8",
-        "icse:EVS10.4"
+        "icse:EVS10.4",
+        "icse:GEO9.5"
       ]
     },
     {
@@ -25784,7 +25785,8 @@
       "assessmentPrompt": "If {{name}} picked up a piece of marble on a school trip, could they explain how it was originally limestone, what changed it into marble, and how long that process took?",
       "standards": [
         "ngss-ms:MS-ESS2-1",
-        "uk-nc-2013:KS3.Sci.Chem.EA.4"
+        "uk-nc-2013:KS3.Sci.Chem.EA.4",
+        "icse:GEO9.2"
       ]
     },
     {
@@ -33204,7 +33206,9 @@
         "nios-obe-c:C105.L21",
         "ncert-elem:SCI.NAT",
         "icse:BIO10.6",
-        "icse:EVS10.2"
+        "icse:EVS10.2",
+        "icse:GEO9.5",
+        "icse:GEO10.11"
       ]
     },
     {
@@ -42007,7 +42011,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how long soil takes to form compared with how quickly it can be washed away.",
       "standards": [
-        "ncert-sec:GEO.C10.LAND"
+        "ncert-sec:GEO.C10.LAND",
+        "icse:GEO10.4"
       ]
     },
     {
@@ -42027,7 +42032,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a place that gets heavy monsoon rain can still run short of water.",
       "standards": [
-        "ncert-sec:GEO.C10.WATER"
+        "ncert-sec:GEO.C10.WATER",
+        "icse:GEO10.6"
       ]
     },
     {
@@ -42463,7 +42469,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why the Himalayas, the Gangetic plain and the Deccan plateau look so different from each other.",
       "standards": [
-        "ncert-sec:GEO.C9.LOC"
+        "ncert-sec:GEO.C9.LOC",
+        "icse:GEO10.2"
       ]
     },
     {
@@ -42483,7 +42490,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why some Indian rivers flow all year while others nearly dry up between monsoons.",
       "standards": [
-        "ncert-sec:GEO.C9.DRAIN"
+        "ncert-sec:GEO.C9.DRAIN",
+        "icse:GEO10.2"
       ]
     },
     {
@@ -42503,7 +42511,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why rice and wheat are grown in different parts of India, and what changed farming after independence.",
       "standards": [
-        "ncert-sec:GEO.C10.AGRI"
+        "ncert-sec:GEO.C10.AGRI",
+        "icse:GEO10.8"
       ]
     },
     {
@@ -42523,7 +42532,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why factories cluster in some states and not others, and who pays the cost of that.",
       "standards": [
-        "ncert-sec:GEO.C10.IND"
+        "ncert-sec:GEO.C10.IND",
+        "icse:GEO10.9"
       ]
     },
     {
@@ -42543,7 +42553,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a better road or a mobile network can change what a village is able to sell.",
       "standards": [
-        "ncert-sec:GEO.C10.TRANS"
+        "ncert-sec:GEO.C10.TRANS",
+        "icse:GEO10.10"
       ]
     },
     {
@@ -50093,7 +50104,8 @@
       "assessmentPrompt": "Ask {{name}} why a country cannot simply mine its way to whatever it needs.",
       "standards": [
         "ncert-sec:GEO.C10.MIN",
-        "ncert-sec:GEO.C10.POWER"
+        "ncert-sec:GEO.C10.POWER",
+        "icse:GEO10.7"
       ]
     },
     {
@@ -53342,7 +53354,8 @@
       "assessmentPrompt": "Ask {{name}} how the exhaust from factories and cars can fall back to earth as acid.",
       "standards": [
         "icse:CHE9.8",
-        "icse:EVS10.2"
+        "icse:EVS10.2",
+        "icse:GEO9.5"
       ]
     },
     {
@@ -54167,6 +54180,167 @@
       "assessmentPrompt": "Ask {{name}} how the world split into two armed camps without the great powers ever directly fighting.",
       "standards": [
         "icse:HCG10.6"
+      ]
+    },
+    {
+      "id": "mt_knNGq2kjRG",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "name": "Latitude, Longitude and the Earth’s Motions",
+      "description": "Understand how the grid of latitude and longitude fixes any place on the globe, and how the earth’s daily rotation gives day and night while its yearly revolution and tilt give the seasons.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Locates a place by its latitude and longitude",
+        "Explains day and night from the earth’s rotation",
+        "Explains the seasons from the earth’s revolution and tilt"
+      ],
+      "assessmentPrompt": "Ask {{name}} how two numbers can pinpoint any place on the whole round earth.",
+      "standards": [
+        "icse:GEO9.1"
+      ]
+    },
+    {
+      "id": "mt_xnBvBWgfT5",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "name": "The Structure of the Earth and Its Rocks",
+      "description": "Understand the earth as layers from crust to core, the three families of rock and the rock cycle that turns one into another, and the volcanoes and earthquakes that reshape the surface.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names the layers of the earth’s interior",
+        "Distinguishes igneous, sedimentary and metamorphic rock",
+        "Explains what causes a volcano or an earthquake"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the ground beneath their feet is like all the way down to the centre of the earth.",
+      "standards": [
+        "icse:GEO9.2"
+      ]
+    },
+    {
+      "id": "mt_YhL80j1Nk7",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "name": "The Hydrosphere: Oceans, Tides and Currents",
+      "description": "Understand the oceans as the great body of the hydrosphere, and the movements of their water — the daily rise and fall of tides and the vast currents that carry warm and cold water around the globe.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Explains what causes ocean tides",
+        "Distinguishes a warm from a cold ocean current",
+        "Explains how currents affect the climate of a coast"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the sea rises and falls twice a day, everywhere, on time.",
+      "standards": [
+        "icse:GEO9.3"
+      ]
+    },
+    {
+      "id": "mt_gK3UQm3FPi",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "name": "The Atmosphere: Composition and Weather",
+      "description": "Understand the atmosphere as layers of gases that let the earth support life, how the sun’s heat drives it, and the elements — temperature, pressure, wind, humidity — that make up the weather.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names the main gases and layers of the atmosphere",
+        "Explains how the sun heats the earth and its air",
+        "Names the elements of weather"
+      ],
+      "assessmentPrompt": "Ask {{name}} what the air is made of and why it keeps the earth neither too hot nor too cold.",
+      "standards": [
+        "icse:GEO9.4"
+      ]
+    },
+    {
+      "id": "mt_du00znzyvC",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "name": "Natural Regions of the World",
+      "description": "Understand how the world divides into natural regions — equatorial, monsoon, desert, Mediterranean, tundra and the rest — each with its own climate, vegetation and way of life shaped by them.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "centrality": null,
+      "evidence": [
+        "Names a major natural region and its climate",
+        "Links the vegetation of a region to its climate",
+        "Explains how the climate of a region shapes life there"
+      ],
+      "assessmentPrompt": "Ask {{name}} why the plants, animals and people of a desert differ so utterly from those of a rainforest.",
+      "standards": [
+        "icse:GEO9.6",
+        "icse:GEO9.7"
+      ]
+    },
+    {
+      "id": "mt_mboiphUmxD",
+      "type": "PROCEDURAL",
+      "subject": "Geography",
+      "domain": "Geographical Skills",
+      "name": "Interpreting Topographical Maps",
+      "description": "Understand a topographical map as a detailed picture of a small area, and read its conventional signs, grid references, scale and contour lines to work out the relief, drainage and land use.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Gives a grid reference and measures a distance using the scale",
+        "Reads relief from contour lines",
+        "Interprets land use and settlement from the map’s signs"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a flat map can show which way a hill slopes and how steep it is.",
+      "standards": [
+        "icse:GEO10.1"
+      ]
+    },
+    {
+      "id": "mt_RLDqOmCaZG",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Geography of India",
+      "name": "The Climate of India",
+      "description": "Understand India’s monsoon climate — how the seasonal reversal of winds brings the rains on which the country depends, and how temperature and rainfall vary across its seasons and regions.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Explains the mechanism of the monsoon",
+        "Describes the seasons of the Indian year",
+        "Explains why rainfall varies so widely across India"
+      ],
+      "assessmentPrompt": "Ask {{name}} why almost the whole of India waits each year for the same few months of rain.",
+      "standards": [
+        "icse:GEO10.3"
+      ]
+    },
+    {
+      "id": "mt_ZsVz8XKC9o",
+      "type": "CONCEPTUAL",
+      "subject": "Geography",
+      "domain": "Geography of India",
+      "name": "Natural Vegetation of India",
+      "description": "Understand how India’s natural vegetation changes with its climate and soil — from tropical forests to thorn scrub and mountain forests — and why conserving forests matters.",
+      "ageRangeStart": 15,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Matches a type of natural vegetation to its climate",
+        "Names a forest type of India and where it grows",
+        "Explains why forests need to be conserved"
+      ],
+      "assessmentPrompt": "Ask {{name}} why dense forest grows in one part of India and only thorny scrub in another.",
+      "standards": [
+        "icse:GEO10.5"
       ]
     }
   ]

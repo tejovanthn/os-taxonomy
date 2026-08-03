@@ -49149,7 +49149,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabuses-icse-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 182,
+      "topicCount": 200,
       "topics": [
         {
           "key": "icse:MAT9.1",
@@ -51151,6 +51151,204 @@
             "class": "X",
             "strand": "The Contemporary World",
             "description": "The two world wars, the United Nations, the Cold War and the Non-Aligned Movement."
+          }
+        },
+        {
+          "key": "icse:GEO9.1",
+          "code": "GEO9.1",
+          "data": {
+            "title": "Class IX Our World",
+            "subject": "Geography (IX–X)",
+            "class": "IX",
+            "strand": "Our World",
+            "description": "The shape of the earth, the grid of latitude and longitude, and the earth’s rotation and revolution and their effects."
+          }
+        },
+        {
+          "key": "icse:GEO9.2",
+          "code": "GEO9.2",
+          "data": {
+            "title": "Class IX Structure of the Earth",
+            "subject": "Geography (IX–X)",
+            "class": "IX",
+            "strand": "Structure of the Earth",
+            "description": "The layered interior of the earth, the three types of rock and the rock cycle, and volcanoes and earthquakes."
+          }
+        },
+        {
+          "key": "icse:GEO9.3",
+          "code": "GEO9.3",
+          "data": {
+            "title": "Class IX Hydrosphere",
+            "subject": "Geography (IX–X)",
+            "class": "IX",
+            "strand": "Hydrosphere",
+            "description": "The oceans and their relief, and the movements of ocean water — waves, tides and currents."
+          }
+        },
+        {
+          "key": "icse:GEO9.4",
+          "code": "GEO9.4",
+          "data": {
+            "title": "Class IX Atmosphere",
+            "subject": "Geography (IX–X)",
+            "class": "IX",
+            "strand": "Atmosphere",
+            "description": "The composition and layers of the atmosphere, insolation and the heating of the earth, and the elements of weather."
+          }
+        },
+        {
+          "key": "icse:GEO9.5",
+          "code": "GEO9.5",
+          "data": {
+            "title": "Class IX Pollution",
+            "subject": "Geography (IX–X)",
+            "class": "IX",
+            "strand": "Pollution",
+            "description": "The types, sources and effects of pollution of the air, water and land, and its control."
+          }
+        },
+        {
+          "key": "icse:GEO9.6",
+          "code": "GEO9.6",
+          "data": {
+            "title": "Class IX Natural Regions of the World",
+            "subject": "Geography (IX–X)",
+            "class": "IX",
+            "strand": "Natural Regions of the World",
+            "description": "The major natural regions of the world — equatorial, monsoon, desert, Mediterranean and others — and their climate, vegetation and life."
+          }
+        },
+        {
+          "key": "icse:GEO9.7",
+          "code": "GEO9.7",
+          "data": {
+            "title": "Class IX Map Work",
+            "subject": "Geography (IX–X)",
+            "class": "IX",
+            "strand": "Map Work",
+            "description": "Locating the major natural regions, oceans, rivers, mountains and plateaus of the world on a map."
+          }
+        },
+        {
+          "key": "icse:GEO10.1",
+          "code": "GEO10.1",
+          "data": {
+            "title": "Class X Interpretation of Topographical Maps",
+            "subject": "Geography (IX–X)",
+            "class": "X",
+            "strand": "Interpretation of Topographical Maps",
+            "description": "Reading a topographical map — its conventional signs, grid references, scale, contours and the interpretation of relief and land use."
+          }
+        },
+        {
+          "key": "icse:GEO10.2",
+          "code": "GEO10.2",
+          "data": {
+            "title": "Class X Map of India: Physical Features",
+            "subject": "Geography (IX–X)",
+            "class": "X",
+            "strand": "Map of India: Physical Features",
+            "description": "The location and extent of India and its physiographic divisions and drainage systems."
+          }
+        },
+        {
+          "key": "icse:GEO10.3",
+          "code": "GEO10.3",
+          "data": {
+            "title": "Class X Climate",
+            "subject": "Geography (IX–X)",
+            "class": "X",
+            "strand": "Climate",
+            "description": "The monsoon climate of India — its mechanism, the seasons and the distribution of temperature and rainfall."
+          }
+        },
+        {
+          "key": "icse:GEO10.4",
+          "code": "GEO10.4",
+          "data": {
+            "title": "Class X Soil Resources",
+            "subject": "Geography (IX–X)",
+            "class": "X",
+            "strand": "Soil Resources",
+            "description": "The major soil types of India, their distribution and characteristics, and soil erosion and conservation."
+          }
+        },
+        {
+          "key": "icse:GEO10.5",
+          "code": "GEO10.5",
+          "data": {
+            "title": "Class X Natural Vegetation",
+            "subject": "Geography (IX–X)",
+            "class": "X",
+            "strand": "Natural Vegetation",
+            "description": "The types of natural vegetation of India, their distribution, and the importance and conservation of forests."
+          }
+        },
+        {
+          "key": "icse:GEO10.6",
+          "code": "GEO10.6",
+          "data": {
+            "title": "Class X Water Resources",
+            "subject": "Geography (IX–X)",
+            "class": "X",
+            "strand": "Water Resources",
+            "description": "India’s water resources, the causes of water scarcity, and irrigation and rainwater harvesting."
+          }
+        },
+        {
+          "key": "icse:GEO10.7",
+          "code": "GEO10.7",
+          "data": {
+            "title": "Class X Mineral and Energy Resources",
+            "subject": "Geography (IX–X)",
+            "class": "X",
+            "strand": "Mineral and Energy Resources",
+            "description": "The distribution of India’s minerals and its conventional and non-conventional sources of energy."
+          }
+        },
+        {
+          "key": "icse:GEO10.8",
+          "code": "GEO10.8",
+          "data": {
+            "title": "Class X Agriculture",
+            "subject": "Geography (IX–X)",
+            "class": "X",
+            "strand": "Agriculture",
+            "description": "Indian agriculture — its types, the major crops and the conditions they need, and agricultural reform."
+          }
+        },
+        {
+          "key": "icse:GEO10.9",
+          "code": "GEO10.9",
+          "data": {
+            "title": "Class X Manufacturing Industries",
+            "subject": "Geography (IX–X)",
+            "class": "X",
+            "strand": "Manufacturing Industries",
+            "description": "The major manufacturing industries of India, the factors in their location, and their impact."
+          }
+        },
+        {
+          "key": "icse:GEO10.10",
+          "code": "GEO10.10",
+          "data": {
+            "title": "Class X Transport",
+            "subject": "Geography (IX–X)",
+            "class": "X",
+            "strand": "Transport",
+            "description": "The means of transport in India — road, rail, water and air — and their role in development."
+          }
+        },
+        {
+          "key": "icse:GEO10.11",
+          "code": "GEO10.11",
+          "data": {
+            "title": "Class X Waste Management",
+            "subject": "Geography (IX–X)",
+            "class": "X",
+            "strand": "Waste Management",
+            "description": "The types and sources of waste and the methods of managing and disposing of it."
           }
         }
       ]

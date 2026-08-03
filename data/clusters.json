@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 373,
+  "clusterCount": 374,
   "clusters": [
     {
       "subject": "English",
@@ -2295,6 +2295,13 @@
       "ageRangeStart": 15,
       "ageRangeEnd": 16,
       "summary": "Having met the constitution itself, the learner now studies the institutions it creates — the machinery of the Union government. Parliament, in two houses, makes the laws; the executive, headed for form’s sake by the President but run by the Prime Minister and the Council of Ministers, carries them out and answers to Parliament for it; and the judiciary, deliberately kept independent, interprets the laws and guards the constitution against both. The three together, each checking the others, are how a democracy governs without letting any one part rule."
+    },
+    {
+      "subject": "Geography",
+      "domain": "Physical Geography",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 15,
+      "summary": "Class IX geography looks at the physical earth as a whole. It starts with the planet itself — the grid of latitude and longitude that locates any place, and the spin and tilt that give day, night and the seasons — then works through the three great envelopes of the earth: the solid earth of rock, volcano and earthquake; the hydrosphere of oceans, tides and currents; and the atmosphere that makes the weather. It ends by drawing these together into the natural regions of the world, each with the climate, plants and life that belong to it."
     }
   ]
 }

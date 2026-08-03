@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4649,
+  "edgeCount": 4665,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -27896,6 +27896,102 @@
       "prerequisiteId": "mt_lJfcDibOG1",
       "strength": "soft",
       "reason": "India entered the contemporary world at independence."
+    },
+    {
+      "topicId": "mt_xnBvBWgfT5",
+      "prerequisiteId": "mt_NckKLZ3uCE",
+      "strength": "hard",
+      "reason": "The structure of the earth builds on the rock cycle."
+    },
+    {
+      "topicId": "mt_knNGq2kjRG",
+      "prerequisiteId": "mt_xnBvBWgfT5",
+      "strength": "soft",
+      "reason": "Locating places presupposes a picture of the earth."
+    },
+    {
+      "topicId": "mt_YhL80j1Nk7",
+      "prerequisiteId": "mt_xnBvBWgfT5",
+      "strength": "soft",
+      "reason": "The oceans sit on the structure of the earth."
+    },
+    {
+      "topicId": "mt_gK3UQm3FPi",
+      "prerequisiteId": "mt_mTpV-0rtkO",
+      "strength": "hard",
+      "reason": "The atmosphere builds on its composition and carbon dioxide."
+    },
+    {
+      "topicId": "mt_du00znzyvC",
+      "prerequisiteId": "mt_gK3UQm3FPi",
+      "strength": "hard",
+      "reason": "Natural regions are defined by their climate."
+    },
+    {
+      "topicId": "mt_du00znzyvC",
+      "prerequisiteId": "mt_YhL80j1Nk7",
+      "strength": "soft",
+      "reason": "Ocean currents shape the climate of natural regions."
+    },
+    {
+      "topicId": "mt_mboiphUmxD",
+      "prerequisiteId": "mt_knNGq2kjRG",
+      "strength": "hard",
+      "reason": "Map grids extend latitude and longitude to a local area."
+    },
+    {
+      "topicId": "mt_mboiphUmxD",
+      "prerequisiteId": "mt_fD1VfjtgyP",
+      "strength": "soft",
+      "reason": "A topographical map shows the physical features studied in India’s geography."
+    },
+    {
+      "topicId": "mt_RLDqOmCaZG",
+      "prerequisiteId": "mt_gK3UQm3FPi",
+      "strength": "soft",
+      "reason": "India’s climate applies the general study of the atmosphere."
+    },
+    {
+      "topicId": "mt_RLDqOmCaZG",
+      "prerequisiteId": "mt_fD1VfjtgyP",
+      "strength": "soft",
+      "reason": "India’s climate is shaped by its physiography."
+    },
+    {
+      "topicId": "mt_ZsVz8XKC9o",
+      "prerequisiteId": "mt_RLDqOmCaZG",
+      "strength": "hard",
+      "reason": "Natural vegetation follows the climate."
+    },
+    {
+      "topicId": "mt_ZsVz8XKC9o",
+      "prerequisiteId": "mt_0cDJP7Fwwm",
+      "strength": "soft",
+      "reason": "Vegetation depends on the soil as well as the climate."
+    },
+    {
+      "topicId": "mt_SmW7FrTgNv",
+      "prerequisiteId": "mt_xnBvBWgfT5",
+      "strength": "hard",
+      "reason": "The senior study of the earth’s interior builds on this."
+    },
+    {
+      "topicId": "mt_gbVahRRkFb",
+      "prerequisiteId": "mt_YhL80j1Nk7",
+      "strength": "hard",
+      "reason": "The senior study of the oceans builds on the hydrosphere."
+    },
+    {
+      "topicId": "mt_8ePOctDnob",
+      "prerequisiteId": "mt_gK3UQm3FPi",
+      "strength": "hard",
+      "reason": "The senior study of the atmosphere and heat budget builds on this."
+    },
+    {
+      "topicId": "mt_98maGySwL4",
+      "prerequisiteId": "mt_mboiphUmxD",
+      "strength": "soft",
+      "reason": "The senior study of maps and projections builds on reading topographical maps."
     }
   ]
 }

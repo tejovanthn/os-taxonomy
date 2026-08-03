@@ -15,10 +15,10 @@ Every dot is a micro-topic, colored by subject; height is age; each thread is a 
 
 Most curriculum data is either a flat list of standards or locked inside a product. This dataset is a **connected graph of learning**:
 
-- **2,667 micro-topics** — a single, teachable idea (e.g. *"Building sentences"*, *"Apparent brightness of stars"*), each with a plain-language description, mastery **evidence** criteria, a type (conceptual / procedural / representational / language / meta), a subject + domain, and an approximate age range.
-- **4,649 prerequisite dependencies** — a directed acyclic graph: *"topic X depends on prerequisite Y"*, each edge tagged `hard`/`soft` and carrying a one-line **reason**.
+- **2,675 micro-topics** — a single, teachable idea (e.g. *"Building sentences"*, *"Apparent brightness of stars"*), each with a plain-language description, mastery **evidence** criteria, a type (conceptual / procedural / representational / language / meta), a subject + domain, and an approximate age range.
+- **4,665 prerequisite dependencies** — a directed acyclic graph: *"topic X depends on prerequisite Y"*, each edge tagged `hard`/`soft` and carrying a one-line **reason**.
 - **Curriculum alignment** — each micro-topic links to the standards it was distilled from (NGSS, Common Core, the UK National Curriculum, India's NIOS Open Basic Education and Secondary curricula, the NCERT elementary, secondary and higher-secondary syllabi, the CISCE ICSE (Classes IX–X) syllabus, graded music & dance examinations, and more).
-- **Domain clusters** — 373 parent-friendly one-paragraph summaries per (subject, domain, age band).
+- **Domain clusters** — 374 parent-friendly one-paragraph summaries per (subject, domain, age band).
 
 ### Subjects
 
@@ -39,8 +39,8 @@ Most curriculum data is either a flat list of standards or locked inside a produ
 | Psychology | 48 |
 | Biology | 45 |
 | Sanskrit | 43 |
+| Geography | 43 |
 | Life Skills | 37 |
-| Geography | 35 |
 | Home Science | 35 |
 | Sociology | 35 |
 | Accountancy | 32 |
