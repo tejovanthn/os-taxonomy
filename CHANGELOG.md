@@ -8,6 +8,12 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ISC Mathematics, Economics, Business Studies and Accountancy integrated (2026-08-03)
+- All pure-alignment onto the 16–18 ncert-hsec ladders, zero new topics.
+  Mathematics: 23 units, 34 links. Economics: 11 units, 33 links. Business
+  Studies + Accountancy (`isc-commerce.mjs`): 16 units, 39 links. Every unit
+  covered; idempotent; validate green. 4,576 standards.
+
 ### ISC Chemistry and Biology integrated (2026-08-03)
 - Both pure-alignment onto the dense 16–18 ncert-hsec ladders, zero new topics.
   Chemistry: 30 units, 49 links. Biology: 10 units, 44 links. Every unit covered;

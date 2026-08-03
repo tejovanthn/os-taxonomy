@@ -45147,7 +45147,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how many subsets a set of three things has, and why.",
       "standards": [
-        "ncert-hsec:MAT.C11.SET"
+        "ncert-hsec:MAT.C11.SET",
+        "isc:MAT.C11.U1"
       ]
     },
     {
@@ -45167,7 +45168,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a vertical line crossing a graph twice means it is not a function.",
       "standards": [
-        "ncert-hsec:MAT.C11.REL"
+        "ncert-hsec:MAT.C11.REL",
+        "isc:MAT.C11.U2"
       ]
     },
     {
@@ -45187,7 +45189,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what the sine of an angle bigger than a right angle could possibly mean.",
       "standards": [
-        "ncert-hsec:MAT.C11.TRIG"
+        "ncert-hsec:MAT.C11.TRIG",
+        "isc:MAT.C11.U3"
       ]
     },
     {
@@ -45207,7 +45210,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a trigonometric equation has infinitely many solutions and how to describe them all at once.",
       "standards": [
-        "ncert-hsec:MAT.C11.TRIG"
+        "ncert-hsec:MAT.C11.TRIG",
+        "isc:MAT.C11.U3"
       ]
     },
     {
@@ -45227,7 +45231,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how you could prove something is true for every whole number when there are infinitely many of them.",
       "standards": [
-        "ncert-hsec:MAT.C11.IND"
+        "ncert-hsec:MAT.C11.IND",
+        "isc:MAT.C11.U4"
       ]
     },
     {
@@ -45247,7 +45252,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why mathematicians invented a number whose square is negative.",
       "standards": [
-        "ncert-hsec:MAT.C11.COMPLEX"
+        "ncert-hsec:MAT.C11.COMPLEX",
+        "isc:MAT.C11.U5"
       ]
     },
     {
@@ -45267,7 +45273,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what happens to an inequality when both sides are multiplied by a negative number.",
       "standards": [
-        "ncert-hsec:MAT.C11.INEQ"
+        "ncert-hsec:MAT.C11.INEQ",
+        "isc:MAT.C11.U6"
       ]
     },
     {
@@ -45287,7 +45294,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether choosing a team of three from a class is the same problem as choosing a captain, vice-captain and secretary.",
       "standards": [
-        "ncert-hsec:MAT.C11.PERM"
+        "ncert-hsec:MAT.C11.PERM",
+        "isc:MAT.C11.U7"
       ]
     },
     {
@@ -45307,7 +45315,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how to find just the coefficient of one term in an expansion without writing out the whole thing.",
       "standards": [
-        "ncert-hsec:MAT.C11.BINOM"
+        "ncert-hsec:MAT.C11.BINOM",
+        "isc:MAT.C11.U8"
       ]
     },
     {
@@ -45327,7 +45336,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what happens to the sum of a geometric series when each term is smaller than the last.",
       "standards": [
-        "ncert-hsec:MAT.C11.SEQ"
+        "ncert-hsec:MAT.C11.SEQ",
+        "isc:MAT.C11.U9"
       ]
     },
     {
@@ -45347,7 +45357,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how many different-looking equations can describe the very same straight line.",
       "standards": [
-        "ncert-hsec:MAT.C11.LINE"
+        "ncert-hsec:MAT.C11.LINE",
+        "isc:MAT.C11.U10"
       ]
     },
     {
@@ -45367,7 +45378,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a planet’s orbit, a thrown ball’s path and a torch beam on a wall have in common.",
       "standards": [
-        "ncert-hsec:MAT.C11.CONIC"
+        "ncert-hsec:MAT.C11.CONIC",
+        "isc:MAT.C11.U10"
       ]
     },
     {
@@ -45387,7 +45399,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how many numbers you need to describe exactly where something is in a room.",
       "standards": [
-        "ncert-hsec:MAT.C11.3D"
+        "ncert-hsec:MAT.C11.3D",
+        "isc:MAT.C11.U11"
       ]
     },
     {
@@ -45407,7 +45420,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what it means to talk about speed at a single instant when speed is distance over time.",
       "standards": [
-        "ncert-hsec:MAT.C11.CALC"
+        "ncert-hsec:MAT.C11.CALC",
+        "isc:MAT.C11.U12"
       ]
     },
     {
@@ -45427,7 +45441,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether \"if it rains the ground is wet\" means the same as \"if the ground is wet it rained\".",
       "standards": [
-        "ncert-hsec:MAT.C11.REASON"
+        "ncert-hsec:MAT.C11.REASON",
+        "isc:MAT.C11.U13"
       ]
     },
     {
@@ -45448,7 +45463,8 @@
       "assessmentPrompt": "Ask {{name}} why two classes with the same average mark might still be very different classes.",
       "standards": [
         "ncert-hsec:MAT.C11.STAT",
-        "ncert-hsec:ECO.C11.S3"
+        "ncert-hsec:ECO.C11.S3",
+        "isc:MAT.C11.U14"
       ]
     },
     {
@@ -45468,7 +45484,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how listing every possible outcome first makes a probability question easier.",
       "standards": [
-        "ncert-hsec:MAT.C11.PROB"
+        "ncert-hsec:MAT.C11.PROB",
+        "isc:MAT.C11.U14"
       ]
     },
     {
@@ -45488,7 +45505,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why some functions can be undone and others cannot.",
       "standards": [
-        "ncert-hsec:MAT.C12.REL"
+        "ncert-hsec:MAT.C12.REL",
+        "isc:MAT.C12.U1"
       ]
     },
     {
@@ -45508,7 +45526,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why the inverse sine of a number has to be given only one answer when sine takes that value infinitely often.",
       "standards": [
-        "ncert-hsec:MAT.C12.INVTRIG"
+        "ncert-hsec:MAT.C12.INVTRIG",
+        "isc:MAT.C12.U1"
       ]
     },
     {
@@ -45528,7 +45547,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why AB and BA can be completely different for matrices when they never are for numbers.",
       "standards": [
-        "ncert-hsec:MAT.C12.MATRIX"
+        "ncert-hsec:MAT.C12.MATRIX",
+        "isc:MAT.C12.U2"
       ]
     },
     {
@@ -45548,7 +45568,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what it means when a matrix has determinant zero.",
       "standards": [
-        "ncert-hsec:MAT.C12.DET"
+        "ncert-hsec:MAT.C12.DET",
+        "isc:MAT.C12.U2"
       ]
     },
     {
@@ -45568,7 +45589,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how you could tell three equations in three unknowns have no solution before trying to solve them.",
       "standards": [
-        "ncert-hsec:MAT.C12.DET"
+        "ncert-hsec:MAT.C12.DET",
+        "isc:MAT.C12.U2"
       ]
     },
     {
@@ -45588,7 +45610,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether a graph you can draw without lifting your pen must also have a well-defined slope everywhere.",
       "standards": [
-        "ncert-hsec:MAT.C12.CONT"
+        "ncert-hsec:MAT.C12.CONT",
+        "isc:MAT.C12.U3"
       ]
     },
     {
@@ -45608,7 +45631,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how to find the slope of a circle at a point when y is not written as a function of x.",
       "standards": [
-        "ncert-hsec:MAT.C12.CONT"
+        "ncert-hsec:MAT.C12.CONT",
+        "isc:MAT.C12.U3"
       ]
     },
     {
@@ -45628,7 +45652,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a manufacturer could work out the box shape that uses the least cardboard.",
       "standards": [
-        "ncert-hsec:MAT.C12.APPDER"
+        "ncert-hsec:MAT.C12.APPDER",
+        "isc:MAT.C12.U4"
       ]
     },
     {
@@ -45648,7 +45673,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how they would decide which method to try first on an unfamiliar integral.",
       "standards": [
-        "ncert-hsec:MAT.C12.INT"
+        "ncert-hsec:MAT.C12.INT",
+        "isc:MAT.C12.U5"
       ]
     },
     {
@@ -45668,7 +45694,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why finding an area and finding a slope turn out to be opposite operations.",
       "standards": [
-        "ncert-hsec:MAT.C12.INT"
+        "ncert-hsec:MAT.C12.INT",
+        "isc:MAT.C12.U5"
       ]
     },
     {
@@ -45688,7 +45715,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how to find the area of a shape whose boundary is a curve rather than straight lines.",
       "standards": [
-        "ncert-hsec:MAT.C12.APPINT"
+        "ncert-hsec:MAT.C12.APPINT",
+        "isc:MAT.C12.U5"
       ]
     },
     {
@@ -45708,7 +45736,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what kind of question is being asked when the unknown in an equation is a whole function.",
       "standards": [
-        "ncert-hsec:MAT.C12.DIFFEQ"
+        "ncert-hsec:MAT.C12.DIFFEQ",
+        "isc:MAT.C12.U6"
       ]
     },
     {
@@ -45728,7 +45757,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why multiplying two vectors can give either a number or another vector.",
       "standards": [
-        "ncert-hsec:MAT.C12.VEC"
+        "ncert-hsec:MAT.C12.VEC",
+        "isc:MAT.C12.U7"
       ]
     },
     {
@@ -45748,7 +45778,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how two lines in space can fail to meet without being parallel.",
       "standards": [
-        "ncert-hsec:MAT.C12.3D"
+        "ncert-hsec:MAT.C12.3D",
+        "isc:MAT.C12.U7"
       ]
     },
     {
@@ -45768,7 +45799,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a factory decides how much of each product to make when machines and materials are limited.",
       "standards": [
-        "ncert-hsec:MAT.C12.LP"
+        "ncert-hsec:MAT.C12.LP",
+        "isc:MAT.C12.U8"
       ]
     },
     {
@@ -45788,7 +45820,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a positive result from a very accurate medical test can still often be a false alarm.",
       "standards": [
-        "ncert-hsec:MAT.C12.PROB"
+        "ncert-hsec:MAT.C12.PROB",
+        "isc:MAT.C12.U9"
       ]
     },
     {
@@ -45808,7 +45841,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how to find the chance of getting exactly seven heads in ten coin tosses.",
       "standards": [
-        "ncert-hsec:MAT.C12.PROB"
+        "ncert-hsec:MAT.C12.PROB",
+        "isc:MAT.C12.U9"
       ]
     },
     {
@@ -46993,7 +47027,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a shopkeeper risks that a salaried employee does not.",
       "standards": [
-        "ncert-hsec:BST.C11.U1"
+        "ncert-hsec:BST.C11.U1",
+        "isc:BST.C11.U1"
       ]
     },
     {
@@ -47014,7 +47049,8 @@
       "assessmentPrompt": "Ask {{name}} why someone starting a small tea stall would organise differently from someone starting a factory.",
       "standards": [
         "ncert-hsec:BST.C11.U2",
-        "ncert-hsec:BST.C11.U3"
+        "ncert-hsec:BST.C11.U3",
+        "isc:BST.C11.U1"
       ]
     },
     {
@@ -47034,7 +47070,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what has to happen before a company legally exists as separate from its owners.",
       "standards": [
-        "ncert-hsec:BST.C11.U7"
+        "ncert-hsec:BST.C11.U7",
+        "isc:BST.C11.U2"
       ]
     },
     {
@@ -47054,7 +47091,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a business might prefer a loan to bringing in a new part-owner.",
       "standards": [
-        "ncert-hsec:BST.C11.U8"
+        "ncert-hsec:BST.C11.U8",
+        "isc:BST.C11.U3"
       ]
     },
     {
@@ -47075,7 +47113,8 @@
       "assessmentPrompt": "Ask {{name}} how a shop in one town can sell to a customer in another country without ever meeting them.",
       "standards": [
         "ncert-hsec:BST.C11.U4",
-        "ncert-hsec:BST.C11.U5"
+        "ncert-hsec:BST.C11.U5",
+        "isc:BST.C11.U2"
       ]
     },
     {
@@ -47095,7 +47134,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether a company doing nothing illegal is automatically doing nothing wrong.",
       "standards": [
-        "ncert-hsec:BST.C11.U6"
+        "ncert-hsec:BST.C11.U6",
+        "isc:BST.C11.U5"
       ]
     },
     {
@@ -47115,7 +47155,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a manager actually does all day, if not the work itself.",
       "standards": [
-        "ncert-hsec:BST.C12.U1"
+        "ncert-hsec:BST.C12.U1",
+        "isc:BST.C12.U1"
       ]
     },
     {
@@ -47135,7 +47176,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether the best way to improve a factory is to reorganise the managers or to study how the work is done.",
       "standards": [
-        "ncert-hsec:BST.C12.U2"
+        "ncert-hsec:BST.C12.U2",
+        "isc:BST.C12.U1"
       ]
     },
     {
@@ -47155,7 +47197,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a change in government policy could matter more to a company than anything its managers decide.",
       "standards": [
-        "ncert-hsec:BST.C12.U3"
+        "ncert-hsec:BST.C12.U3",
+        "isc:BST.C12.U1"
       ]
     },
     {
@@ -47175,7 +47218,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what the point of a plan is if things rarely go according to it.",
       "standards": [
-        "ncert-hsec:BST.C12.U4"
+        "ncert-hsec:BST.C12.U4",
+        "isc:BST.C12.U2"
       ]
     },
     {
@@ -47195,7 +47239,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a manager who refuses to hand over any work eventually becomes the bottleneck.",
       "standards": [
-        "ncert-hsec:BST.C12.U5"
+        "ncert-hsec:BST.C12.U5",
+        "isc:BST.C12.U2"
       ]
     },
     {
@@ -47215,7 +47260,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether it is better to promote from within or hire from outside, and what each costs.",
       "standards": [
-        "ncert-hsec:BST.C12.U6"
+        "ncert-hsec:BST.C12.U6",
+        "isc:BST.C12.U2"
       ]
     },
     {
@@ -47235,7 +47281,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether more pay is always the best way to make someone work harder.",
       "standards": [
-        "ncert-hsec:BST.C12.U7"
+        "ncert-hsec:BST.C12.U7",
+        "isc:BST.C12.U2"
       ]
     },
     {
@@ -47255,7 +47302,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a manager knows whether a plan is actually working.",
       "standards": [
-        "ncert-hsec:BST.C12.U8"
+        "ncert-hsec:BST.C12.U8",
+        "isc:BST.C12.U2"
       ]
     },
     {
@@ -47275,7 +47323,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why borrowing makes good years better and bad years much worse.",
       "standards": [
-        "ncert-hsec:BST.C12.U9"
+        "ncert-hsec:BST.C12.U9",
+        "isc:BST.C12.U3"
       ]
     },
     {
@@ -47295,7 +47344,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how money sitting in a saver’s account ends up funding a new factory.",
       "standards": [
-        "ncert-hsec:BST.C12.U10"
+        "ncert-hsec:BST.C12.U10",
+        "isc:BST.C12.U3"
       ]
     },
     {
@@ -47315,7 +47365,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why two nearly identical products can sell at very different prices.",
       "standards": [
-        "ncert-hsec:BST.C12.U11"
+        "ncert-hsec:BST.C12.U11",
+        "isc:BST.C12.U3"
       ]
     },
     {
@@ -47335,7 +47386,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what they would actually do if a shop refused to replace a faulty product.",
       "standards": [
-        "ncert-hsec:BST.C12.U12"
+        "ncert-hsec:BST.C12.U12",
+        "isc:BST.C12.U3"
       ]
     },
     {
@@ -47355,7 +47407,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether entrepreneurs are born or made, and what evidence would settle it.",
       "standards": [
-        "ncert-hsec:BST.C12.U13"
+        "ncert-hsec:BST.C12.U13",
+        "isc:BST.C11.U5"
       ]
     },
     {
@@ -47375,7 +47428,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a shop owner needs written accounts when they already know how the shop is doing.",
       "standards": [
-        "ncert-hsec:ACC.C11.U1"
+        "ncert-hsec:ACC.C11.U1",
+        "isc:ACC.C11.U1"
       ]
     },
     {
@@ -47395,7 +47449,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why every business has to follow the same rules when writing its accounts.",
       "standards": [
-        "ncert-hsec:ACC.C11.U2"
+        "ncert-hsec:ACC.C11.U2",
+        "isc:ACC.C11.U1"
       ]
     },
     {
@@ -47415,7 +47470,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why every business transaction has to be recorded in two places.",
       "standards": [
-        "ncert-hsec:ACC.C11.U3"
+        "ncert-hsec:ACC.C11.U3",
+        "isc:ACC.C11.U2"
       ]
     },
     {
@@ -47435,7 +47491,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a business’s own record of its bank balance rarely matches the bank’s.",
       "standards": [
-        "ncert-hsec:ACC.C11.U3"
+        "ncert-hsec:ACC.C11.U3",
+        "isc:ACC.C11.U2"
       ]
     },
     {
@@ -47455,7 +47512,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether a trial balance that agrees proves the accounts are correct.",
       "standards": [
-        "ncert-hsec:ACC.C11.U4"
+        "ncert-hsec:ACC.C11.U4",
+        "isc:ACC.C11.U2"
       ]
     },
     {
@@ -47475,7 +47533,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a business can get cash today for a payment due in three months.",
       "standards": [
-        "ncert-hsec:ACC.C11.U6"
+        "ncert-hsec:ACC.C11.U6",
+        "isc:ACC.C11.U2"
       ]
     },
     {
@@ -47495,7 +47554,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what the difference is between how much a business earned and what it is worth.",
       "standards": [
-        "ncert-hsec:ACC.C11.U7"
+        "ncert-hsec:ACC.C11.U7",
+        "isc:ACC.C11.U3"
       ]
     },
     {
@@ -47515,7 +47575,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how you could work out whether a shop made a profit if it only kept a cash diary.",
       "standards": [
-        "ncert-hsec:ACC.C11.U8"
+        "ncert-hsec:ACC.C11.U8",
+        "isc:ACC.C11.U3"
       ]
     },
     {
@@ -47535,7 +47596,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a computer changes about accounting and what it leaves exactly the same.",
       "standards": [
-        "ncert-hsec:ACC.C11.U9"
+        "ncert-hsec:ACC.C11.U9",
+        "isc:ACC.C11.U4"
       ]
     },
     {
@@ -47555,7 +47617,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a sports club shows whether it is doing well when it is not trying to make a profit.",
       "standards": [
-        "ncert-hsec:ACC.C12.U1"
+        "ncert-hsec:ACC.C12.U1",
+        "isc:ACC.C12.U4"
       ]
     },
     {
@@ -47575,7 +47638,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how partners should divide profits when they never agreed a ratio.",
       "standards": [
-        "ncert-hsec:ACC.C12.U2"
+        "ncert-hsec:ACC.C12.U2",
+        "isc:ACC.C12.U1"
       ]
     },
     {
@@ -47595,7 +47659,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a new partner joining a successful firm has to pay something beyond their share of the assets.",
       "standards": [
-        "ncert-hsec:ACC.C12.U3"
+        "ncert-hsec:ACC.C12.U3",
+        "isc:ACC.C12.U1"
       ]
     },
     {
@@ -47615,7 +47680,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} who gets paid first when a business closes down and there is not enough to go round.",
       "standards": [
-        "ncert-hsec:ACC.C12.U4"
+        "ncert-hsec:ACC.C12.U4",
+        "isc:ACC.C12.U1"
       ]
     },
     {
@@ -47635,7 +47701,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what the difference is between someone who buys a share and someone who buys a debenture.",
       "standards": [
-        "ncert-hsec:ACC.C12.U5"
+        "ncert-hsec:ACC.C12.U5",
+        "isc:ACC.C12.U2"
       ]
     },
     {
@@ -47655,7 +47722,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how you could tell whether a company is in trouble from its accounts alone.",
       "standards": [
-        "ncert-hsec:ACC.C12.U6"
+        "ncert-hsec:ACC.C12.U6",
+        "isc:ACC.C12.U3"
       ]
     },
     {
@@ -47675,7 +47743,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a company can report a healthy profit and still be unable to pay its bills.",
       "standards": [
-        "ncert-hsec:ACC.C12.U7"
+        "ncert-hsec:ACC.C12.U7",
+        "isc:ACC.C12.U3"
       ]
     },
     {
@@ -47696,7 +47765,8 @@
       "assessmentPrompt": "Ask {{name}} what changed for an Indian business in 1991 and who gained most from it.",
       "standards": [
         "ncert-hsec:ECO.C11.D2",
-        "icse:ECO9.6"
+        "icse:ECO9.6",
+        "isc:ECO.C11.U2"
       ]
     },
     {
@@ -47716,7 +47786,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether a government running a deficit is necessarily managing money badly.",
       "standards": [
-        "ncert-hsec:ECO.C12.MA4"
+        "ncert-hsec:ECO.C12.MA4",
+        "isc:ECO.C12.U6"
       ]
     },
     {
@@ -48819,7 +48890,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a government would give special help to small firms rather than large efficient ones.",
       "standards": [
-        "ncert-hsec:BST.C11.U9"
+        "ncert-hsec:BST.C11.U9",
+        "isc:BST.C11.U3"
       ]
     },
     {
@@ -48839,7 +48911,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why goods usually pass through a wholesaler rather than going straight from factory to shop.",
       "standards": [
-        "ncert-hsec:BST.C11.U10"
+        "ncert-hsec:BST.C11.U10",
+        "isc:BST.C11.U4"
       ]
     },
     {
@@ -48859,7 +48932,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a firm has to arrange to sell abroad that it never needs when selling at home.",
       "standards": [
-        "ncert-hsec:BST.C11.U11"
+        "ncert-hsec:BST.C11.U11",
+        "isc:BST.C11.U4"
       ]
     },
     {
@@ -48879,7 +48953,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a machine bought once is treated as a cost in every year that follows.",
       "standards": [
-        "ncert-hsec:ACC.C11.U5"
+        "ncert-hsec:ACC.C11.U5",
+        "isc:ACC.C11.U3"
       ]
     },
     {
@@ -50307,7 +50382,8 @@
       "standards": [
         "ncert-hsec:ECO.C11.S1",
         "ncert-hsec:ECO.C11.S2",
-        "nios-sec-2020:214.M6.L17"
+        "nios-sec-2020:214.M6.L17",
+        "isc:ECO.C11.U1"
       ]
     },
     {
@@ -50327,7 +50403,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a list of five hundred household incomes can tell you before and after it is put into a table.",
       "standards": [
-        "ncert-hsec:ECO.C11.S2"
+        "ncert-hsec:ECO.C11.S2",
+        "isc:ECO.C11.U1"
       ]
     },
     {
@@ -50347,7 +50424,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether ice-cream sales cause drownings, and what the numbers actually show.",
       "standards": [
-        "ncert-hsec:ECO.C11.S3"
+        "ncert-hsec:ECO.C11.S3",
+        "isc:ECO.C11.U1"
       ]
     },
     {
@@ -50367,7 +50445,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how the government works out whether prices have risen this year.",
       "standards": [
-        "ncert-hsec:ECO.C11.S3"
+        "ncert-hsec:ECO.C11.S3",
+        "isc:ECO.C11.U1"
       ]
     },
     {
@@ -50387,7 +50466,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what kind of economy the British left behind in 1947 and how they know.",
       "standards": [
-        "ncert-hsec:ECO.C11.D1"
+        "ncert-hsec:ECO.C11.D1",
+        "isc:ECO.C11.U2"
       ]
     },
     {
@@ -50407,7 +50487,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why newly independent India chose to plan its economy centrally rather than leave it to markets.",
       "standards": [
-        "ncert-hsec:ECO.C11.D1"
+        "ncert-hsec:ECO.C11.D1",
+        "isc:ECO.C11.U2"
       ]
     },
     {
@@ -50427,7 +50508,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what the green revolution solved and what new problems it created.",
       "standards": [
-        "ncert-hsec:ECO.C11.D1"
+        "ncert-hsec:ECO.C11.D1",
+        "isc:ECO.C11.U2"
       ]
     },
     {
@@ -50447,7 +50529,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether India has less poverty than it did, and how anyone could tell.",
       "standards": [
-        "ncert-hsec:ECO.C11.D3"
+        "ncert-hsec:ECO.C11.D3",
+        "isc:ECO.C11.U3"
       ]
     },
     {
@@ -50467,7 +50550,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a year of schooling can be an investment in the same sense as a factory.",
       "standards": [
-        "ncert-hsec:ECO.C11.D3"
+        "ncert-hsec:ECO.C11.D3",
+        "isc:ECO.C11.U3"
       ]
     },
     {
@@ -50487,7 +50571,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a good harvest can still leave a farmer in debt.",
       "standards": [
-        "ncert-hsec:ECO.C11.D3"
+        "ncert-hsec:ECO.C11.D3",
+        "isc:ECO.C11.U3"
       ]
     },
     {
@@ -50507,7 +50592,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a growing economy can still leave people without steady work.",
       "standards": [
-        "ncert-hsec:ECO.C11.D3"
+        "ncert-hsec:ECO.C11.D3",
+        "isc:ECO.C11.U3"
       ]
     },
     {
@@ -50527,7 +50613,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what happens to a factory, a farm and a school when the power fails for six hours a day.",
       "standards": [
-        "ncert-hsec:ECO.C11.D3"
+        "ncert-hsec:ECO.C11.D3",
+        "isc:ECO.C11.U3"
       ]
     },
     {
@@ -50548,7 +50635,8 @@
       "assessmentPrompt": "Ask {{name}} whether a country can grow rich by using up exactly the things its grandchildren will need.",
       "standards": [
         "ncert-hsec:ECO.C11.D3",
-        "nios-sec-2020:214.M8.L23"
+        "nios-sec-2020:214.M8.L23",
+        "isc:ECO.C11.U3"
       ]
     },
     {
@@ -50568,7 +50656,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why three countries that started poor in the late 1940s are in such different places now.",
       "standards": [
-        "ncert-hsec:ECO.C11.D4"
+        "ncert-hsec:ECO.C11.D4",
+        "isc:ECO.C11.U4"
       ]
     },
     {
@@ -50588,7 +50677,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a country gives up when it decides to produce more of one thing.",
       "standards": [
-        "ncert-hsec:ECO.C12.MI1"
+        "ncert-hsec:ECO.C12.MI1",
+        "isc:ECO.C12.U1"
       ]
     },
     {
@@ -50608,7 +50698,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a person with a fixed pocket allowance decides the mix of things to buy.",
       "standards": [
-        "ncert-hsec:ECO.C12.MI2"
+        "ncert-hsec:ECO.C12.MI2",
+        "isc:ECO.C12.U2"
       ]
     },
     {
@@ -50628,7 +50719,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what differs between buying more mangoes because they got cheap and because summer arrived.",
       "standards": [
-        "ncert-hsec:ECO.C12.MI2"
+        "ncert-hsec:ECO.C12.MI2",
+        "isc:ECO.C12.U2"
       ]
     },
     {
@@ -50648,7 +50740,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a rise in the price of salt changes how much people buy far less than a rise in the price of a particular brand of biscuit.",
       "standards": [
-        "ncert-hsec:ECO.C12.MI2"
+        "ncert-hsec:ECO.C12.MI2",
+        "isc:ECO.C12.U2"
       ]
     },
     {
@@ -50668,7 +50761,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why adding more and more workers to the same small field eventually stops helping.",
       "standards": [
-        "ncert-hsec:ECO.C12.MI3"
+        "ncert-hsec:ECO.C12.MI3",
+        "isc:ECO.C12.U3"
       ]
     },
     {
@@ -50688,7 +50782,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} which of a bakery’s bills continue when the ovens go cold.",
       "standards": [
-        "ncert-hsec:ECO.C12.MI3"
+        "ncert-hsec:ECO.C12.MI3",
+        "isc:ECO.C12.U3"
       ]
     },
     {
@@ -50708,7 +50803,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a producer decides that one more unit is worth making.",
       "standards": [
-        "ncert-hsec:ECO.C12.MI3"
+        "ncert-hsec:ECO.C12.MI3",
+        "isc:ECO.C12.U3"
       ]
     },
     {
@@ -50728,7 +50824,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what happens in the onion market when a bad harvest meets festival demand.",
       "standards": [
-        "ncert-hsec:ECO.C12.MI4"
+        "ncert-hsec:ECO.C12.MI4",
+        "isc:ECO.C12.U4"
       ]
     },
     {
@@ -50748,7 +50845,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a farmer cannot set the price of their wheat but a mobile network can set its tariff.",
       "standards": [
-        "ncert-hsec:ECO.C12.MI4"
+        "ncert-hsec:ECO.C12.MI4",
+        "isc:ECO.C12.U4"
       ]
     },
     {
@@ -50768,7 +50866,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} where the money a family spends at a shop goes next, and where it came from.",
       "standards": [
-        "ncert-hsec:ECO.C12.MA1"
+        "ncert-hsec:ECO.C12.MA1",
+        "isc:ECO.C12.U5"
       ]
     },
     {
@@ -50788,7 +50887,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a country’s income can rise on paper while people are no better off.",
       "standards": [
-        "ncert-hsec:ECO.C12.MA1"
+        "ncert-hsec:ECO.C12.MA1",
+        "isc:ECO.C12.U5"
       ]
     },
     {
@@ -50808,7 +50908,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why one rupee of new government spending can raise total income by more than a rupee.",
       "standards": [
-        "ncert-hsec:ECO.C12.MA2"
+        "ncert-hsec:ECO.C12.MA2",
+        "isc:ECO.C12.U5"
       ]
     },
     {
@@ -50828,7 +50929,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a government should do when everyone wants to buy more than the country can make.",
       "standards": [
-        "ncert-hsec:ECO.C12.MA2"
+        "ncert-hsec:ECO.C12.MA2",
+        "isc:ECO.C12.U5"
       ]
     },
     {
@@ -50848,7 +50950,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how banks can lend far more money than has ever been deposited with them.",
       "standards": [
-        "ncert-hsec:ECO.C12.MA3"
+        "ncert-hsec:ECO.C12.MA3",
+        "isc:ECO.C12.U6"
       ]
     },
     {
@@ -50868,7 +50971,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} who controls how much money exists, if anyone does.",
       "standards": [
-        "ncert-hsec:ECO.C12.MA3"
+        "ncert-hsec:ECO.C12.MA3",
+        "isc:ECO.C12.U6"
       ]
     },
     {
@@ -50888,7 +50992,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a country can buy more from the world than it sells to it, year after year.",
       "standards": [
-        "ncert-hsec:ECO.C12.MA5"
+        "ncert-hsec:ECO.C12.MA5",
+        "isc:ECO.C12.U7"
       ]
     },
     {
@@ -50908,7 +51013,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what decides how many rupees a dollar is worth today.",
       "standards": [
-        "ncert-hsec:ECO.C12.MA5"
+        "ncert-hsec:ECO.C12.MA5",
+        "isc:ECO.C12.U7"
       ]
     },
     {

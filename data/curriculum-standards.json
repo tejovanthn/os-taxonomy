@@ -51526,7 +51526,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabus-isc-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 58,
+      "topicCount": 108,
       "topics": [
         {
           "key": "isc:PHY.C11.U1",
@@ -52164,6 +52164,556 @@
             "class": "XII",
             "strand": "Ecology and Environment",
             "description": "Ecosystems and energy flow, populations and communities, and biodiversity conservation."
+          }
+        },
+        {
+          "key": "isc:MAT.C11.U1",
+          "code": "MAT.C11.U1",
+          "data": {
+            "title": "Class XI Sets",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Sets",
+            "description": "Sets, subsets and set operations."
+          }
+        },
+        {
+          "key": "isc:MAT.C11.U2",
+          "code": "MAT.C11.U2",
+          "data": {
+            "title": "Class XI Relations and Functions",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Relations and Functions",
+            "description": "Relations, functions and their graphs."
+          }
+        },
+        {
+          "key": "isc:MAT.C11.U3",
+          "code": "MAT.C11.U3",
+          "data": {
+            "title": "Class XI Trigonometric Functions",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Trigonometric Functions",
+            "description": "Trigonometric functions and the unit circle, and trigonometric identities and equations."
+          }
+        },
+        {
+          "key": "isc:MAT.C11.U4",
+          "code": "MAT.C11.U4",
+          "data": {
+            "title": "Class XI Mathematical Induction",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Mathematical Induction",
+            "description": "The principle of mathematical induction."
+          }
+        },
+        {
+          "key": "isc:MAT.C11.U5",
+          "code": "MAT.C11.U5",
+          "data": {
+            "title": "Class XI Complex Numbers",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Complex Numbers",
+            "description": "Complex numbers and the Argand plane."
+          }
+        },
+        {
+          "key": "isc:MAT.C11.U6",
+          "code": "MAT.C11.U6",
+          "data": {
+            "title": "Class XI Linear Inequalities",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Linear Inequalities",
+            "description": "Linear inequalities and their graphical solution."
+          }
+        },
+        {
+          "key": "isc:MAT.C11.U7",
+          "code": "MAT.C11.U7",
+          "data": {
+            "title": "Class XI Permutations and Combinations",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Permutations and Combinations",
+            "description": "The counting principles of permutations and combinations."
+          }
+        },
+        {
+          "key": "isc:MAT.C11.U8",
+          "code": "MAT.C11.U8",
+          "data": {
+            "title": "Class XI Binomial Theorem",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Binomial Theorem",
+            "description": "The binomial theorem for a positive integral index."
+          }
+        },
+        {
+          "key": "isc:MAT.C11.U9",
+          "code": "MAT.C11.U9",
+          "data": {
+            "title": "Class XI Sequences and Series",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Sequences and Series",
+            "description": "Arithmetic and geometric progressions and series."
+          }
+        },
+        {
+          "key": "isc:MAT.C11.U10",
+          "code": "MAT.C11.U10",
+          "data": {
+            "title": "Class XI Straight Lines and Conic Sections",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Straight Lines and Conic Sections",
+            "description": "Straight lines and their equations, and the conic sections."
+          }
+        },
+        {
+          "key": "isc:MAT.C11.U11",
+          "code": "MAT.C11.U11",
+          "data": {
+            "title": "Class XI Introduction to Three-Dimensional Geometry",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Introduction to Three-Dimensional Geometry",
+            "description": "Coordinates in three dimensions."
+          }
+        },
+        {
+          "key": "isc:MAT.C11.U12",
+          "code": "MAT.C11.U12",
+          "data": {
+            "title": "Class XI Limits and Derivatives",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Limits and Derivatives",
+            "description": "Limits and the idea of a derivative."
+          }
+        },
+        {
+          "key": "isc:MAT.C11.U13",
+          "code": "MAT.C11.U13",
+          "data": {
+            "title": "Class XI Mathematical Reasoning",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Mathematical Reasoning",
+            "description": "Mathematical reasoning and logical connectives."
+          }
+        },
+        {
+          "key": "isc:MAT.C11.U14",
+          "code": "MAT.C11.U14",
+          "data": {
+            "title": "Class XI Statistics and Probability",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XI",
+            "strand": "Statistics and Probability",
+            "description": "Measures of dispersion, and sample spaces and axiomatic probability."
+          }
+        },
+        {
+          "key": "isc:MAT.C12.U1",
+          "code": "MAT.C12.U1",
+          "data": {
+            "title": "Class XII Relations and Functions",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Relations and Functions",
+            "description": "Types of relations and inverse functions, and inverse trigonometric functions."
+          }
+        },
+        {
+          "key": "isc:MAT.C12.U2",
+          "code": "MAT.C12.U2",
+          "data": {
+            "title": "Class XII Matrices and Determinants",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Matrices and Determinants",
+            "description": "Matrices and their operations, and determinants, adjoint, inverse and linear systems."
+          }
+        },
+        {
+          "key": "isc:MAT.C12.U3",
+          "code": "MAT.C12.U3",
+          "data": {
+            "title": "Class XII Continuity and Differentiability",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Continuity and Differentiability",
+            "description": "Continuity and differentiability, and the techniques of differentiation."
+          }
+        },
+        {
+          "key": "isc:MAT.C12.U4",
+          "code": "MAT.C12.U4",
+          "data": {
+            "title": "Class XII Applications of Derivatives",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Applications of Derivatives",
+            "description": "The applications of derivatives."
+          }
+        },
+        {
+          "key": "isc:MAT.C12.U5",
+          "code": "MAT.C12.U5",
+          "data": {
+            "title": "Class XII Integrals and Their Applications",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Integrals and Their Applications",
+            "description": "Integration and its techniques, definite integrals, and areas under and between curves."
+          }
+        },
+        {
+          "key": "isc:MAT.C12.U6",
+          "code": "MAT.C12.U6",
+          "data": {
+            "title": "Class XII Differential Equations",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Differential Equations",
+            "description": "The formation and solution of differential equations."
+          }
+        },
+        {
+          "key": "isc:MAT.C12.U7",
+          "code": "MAT.C12.U7",
+          "data": {
+            "title": "Class XII Vectors and Three-Dimensional Geometry",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Vectors and Three-Dimensional Geometry",
+            "description": "Vectors and their products, and lines and planes in space."
+          }
+        },
+        {
+          "key": "isc:MAT.C12.U8",
+          "code": "MAT.C12.U8",
+          "data": {
+            "title": "Class XII Linear Programming",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Linear Programming",
+            "description": "Linear programming problems and their graphical solution."
+          }
+        },
+        {
+          "key": "isc:MAT.C12.U9",
+          "code": "MAT.C12.U9",
+          "data": {
+            "title": "Class XII Probability",
+            "subject": "Mathematics (XI–XII)",
+            "class": "XII",
+            "strand": "Probability",
+            "description": "Conditional probability and Bayes’ theorem, and random variables and the binomial distribution."
+          }
+        },
+        {
+          "key": "isc:ECO.C11.U1",
+          "code": "ECO.C11.U1",
+          "data": {
+            "title": "Class XI Statistics for Economics",
+            "subject": "Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Statistics for Economics",
+            "description": "The collection, organisation and presentation of data, measures of dispersion, correlation and index numbers."
+          }
+        },
+        {
+          "key": "isc:ECO.C11.U2",
+          "code": "ECO.C11.U2",
+          "data": {
+            "title": "Class XI The Indian Economy 1947–1990 and Reforms",
+            "subject": "Economics (XI–XII)",
+            "class": "XI",
+            "strand": "The Indian Economy 1947–1990 and Reforms",
+            "description": "The economy at independence, the goals of the five year plans, planned development, and the economic reforms since 1991."
+          }
+        },
+        {
+          "key": "isc:ECO.C11.U3",
+          "code": "ECO.C11.U3",
+          "data": {
+            "title": "Class XI Current Challenges of the Indian Economy",
+            "subject": "Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Current Challenges of the Indian Economy",
+            "description": "Poverty, human capital, rural development, employment, infrastructure and sustainable development."
+          }
+        },
+        {
+          "key": "isc:ECO.C11.U4",
+          "code": "ECO.C11.U4",
+          "data": {
+            "title": "Class XI Development Experience Compared",
+            "subject": "Economics (XI–XII)",
+            "class": "XI",
+            "strand": "Development Experience Compared",
+            "description": "The development experience of India compared with China and Pakistan."
+          }
+        },
+        {
+          "key": "isc:ECO.C12.U1",
+          "code": "ECO.C12.U1",
+          "data": {
+            "title": "Class XII Introduction to Microeconomics",
+            "subject": "Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Introduction to Microeconomics",
+            "description": "The production possibilities frontier and the central problems of an economy."
+          }
+        },
+        {
+          "key": "isc:ECO.C12.U2",
+          "code": "ECO.C12.U2",
+          "data": {
+            "title": "Class XII Consumer Behaviour and Demand",
+            "subject": "Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Consumer Behaviour and Demand",
+            "description": "Consumer equilibrium, the demand curve and its shifts, and price elasticity of demand."
+          }
+        },
+        {
+          "key": "isc:ECO.C12.U3",
+          "code": "ECO.C12.U3",
+          "data": {
+            "title": "Class XII Producer Behaviour and Supply",
+            "subject": "Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Producer Behaviour and Supply",
+            "description": "Production and returns to a factor, costs of production, and producer equilibrium and the supply curve."
+          }
+        },
+        {
+          "key": "isc:ECO.C12.U4",
+          "code": "ECO.C12.U4",
+          "data": {
+            "title": "Class XII Market Equilibrium and Market Forms",
+            "subject": "Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Market Equilibrium and Market Forms",
+            "description": "Market equilibrium and the forms of market from competition to monopoly."
+          }
+        },
+        {
+          "key": "isc:ECO.C12.U5",
+          "code": "ECO.C12.U5",
+          "data": {
+            "title": "Class XII National Income and Its Determination",
+            "subject": "Economics (XI–XII)",
+            "class": "XII",
+            "strand": "National Income and Its Determination",
+            "description": "The circular flow of income, national income and its measurement, income determination and the multiplier, and excess and deficient demand."
+          }
+        },
+        {
+          "key": "isc:ECO.C12.U6",
+          "code": "ECO.C12.U6",
+          "data": {
+            "title": "Class XII Money, Banking and Government",
+            "subject": "Economics (XI–XII)",
+            "class": "XII",
+            "strand": "Money, Banking and Government",
+            "description": "Money and credit creation, the central bank and monetary policy, and the government budget and fiscal policy."
+          }
+        },
+        {
+          "key": "isc:ECO.C12.U7",
+          "code": "ECO.C12.U7",
+          "data": {
+            "title": "Class XII The External Sector",
+            "subject": "Economics (XI–XII)",
+            "class": "XII",
+            "strand": "The External Sector",
+            "description": "The balance of payments and the determination of the exchange rate."
+          }
+        },
+        {
+          "key": "isc:BST.C11.U1",
+          "code": "BST.C11.U1",
+          "data": {
+            "title": "Class XI Nature and Purpose of Business",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XI",
+            "strand": "Nature and Purpose of Business",
+            "description": "The nature and purpose of business and its forms of organisation."
+          }
+        },
+        {
+          "key": "isc:BST.C11.U2",
+          "code": "BST.C11.U2",
+          "data": {
+            "title": "Class XI Company Formation and Business Services",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XI",
+            "strand": "Company Formation and Business Services",
+            "description": "The formation of a company and the business services and emerging modes."
+          }
+        },
+        {
+          "key": "isc:BST.C11.U3",
+          "code": "BST.C11.U3",
+          "data": {
+            "title": "Class XI Business Finance and Small Business",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XI",
+            "strand": "Business Finance and Small Business",
+            "description": "The sources of business finance, and small business and its role."
+          }
+        },
+        {
+          "key": "isc:BST.C11.U4",
+          "code": "BST.C11.U4",
+          "data": {
+            "title": "Class XI Internal and International Trade",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XI",
+            "strand": "Internal and International Trade",
+            "description": "Internal trade and international business."
+          }
+        },
+        {
+          "key": "isc:BST.C11.U5",
+          "code": "BST.C11.U5",
+          "data": {
+            "title": "Class XI Social Responsibility and Entrepreneurship",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XI",
+            "strand": "Social Responsibility and Entrepreneurship",
+            "description": "Social responsibility and business ethics, and entrepreneurship development."
+          }
+        },
+        {
+          "key": "isc:BST.C12.U1",
+          "code": "BST.C12.U1",
+          "data": {
+            "title": "Class XII Principles and Functions of Management",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XII",
+            "strand": "Principles and Functions of Management",
+            "description": "The nature and functions of management, the principles of management, and the business environment."
+          }
+        },
+        {
+          "key": "isc:BST.C12.U2",
+          "code": "BST.C12.U2",
+          "data": {
+            "title": "Class XII The Functions of Management",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XII",
+            "strand": "The Functions of Management",
+            "description": "Planning, organising, staffing, directing and controlling."
+          }
+        },
+        {
+          "key": "isc:BST.C12.U3",
+          "code": "BST.C12.U3",
+          "data": {
+            "title": "Class XII Business Finance and Marketing",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XII",
+            "strand": "Business Finance and Marketing",
+            "description": "Financial management and markets, marketing and the marketing mix, and consumer protection."
+          }
+        },
+        {
+          "key": "isc:ACC.C11.U1",
+          "code": "ACC.C11.U1",
+          "data": {
+            "title": "Class XI Introduction to Accounting",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XI",
+            "strand": "Introduction to Accounting",
+            "description": "The purpose and users of accounting and its principles and standards."
+          }
+        },
+        {
+          "key": "isc:ACC.C11.U2",
+          "code": "ACC.C11.U2",
+          "data": {
+            "title": "Class XI Recording of Transactions",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XI",
+            "strand": "Recording of Transactions",
+            "description": "Double entry, the journal and ledger, subsidiary books and bank reconciliation, the trial balance, and bills of exchange."
+          }
+        },
+        {
+          "key": "isc:ACC.C11.U3",
+          "code": "ACC.C11.U3",
+          "data": {
+            "title": "Class XI Financial Statements of a Sole Proprietor",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XI",
+            "strand": "Financial Statements of a Sole Proprietor",
+            "description": "Depreciation, provisions and reserves, financial statements, and accounts from incomplete records."
+          }
+        },
+        {
+          "key": "isc:ACC.C11.U4",
+          "code": "ACC.C11.U4",
+          "data": {
+            "title": "Class XI Computers in Accounting",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XI",
+            "strand": "Computers in Accounting",
+            "description": "Computerised accounting systems."
+          }
+        },
+        {
+          "key": "isc:ACC.C12.U1",
+          "code": "ACC.C12.U1",
+          "data": {
+            "title": "Class XII Partnership Accounts",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XII",
+            "strand": "Partnership Accounts",
+            "description": "Accounting for partnership and its reconstitution and dissolution."
+          }
+        },
+        {
+          "key": "isc:ACC.C12.U2",
+          "code": "ACC.C12.U2",
+          "data": {
+            "title": "Class XII Company Accounts",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XII",
+            "strand": "Company Accounts",
+            "description": "Accounting for share and debenture capital."
+          }
+        },
+        {
+          "key": "isc:ACC.C12.U3",
+          "code": "ACC.C12.U3",
+          "data": {
+            "title": "Class XII Analysis of Financial Statements",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XII",
+            "strand": "Analysis of Financial Statements",
+            "description": "The analysis of financial statements and ratios, and the cash flow statement."
+          }
+        },
+        {
+          "key": "isc:ACC.C12.U4",
+          "code": "ACC.C12.U4",
+          "data": {
+            "title": "Class XII Not-for-Profit Accounting",
+            "subject": "Business Studies and Accountancy (XI–XII)",
+            "class": "XII",
+            "strand": "Not-for-Profit Accounting",
+            "description": "Accounting for not-for-profit organisations."
           }
         }
       ]
