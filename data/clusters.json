@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 374,
+  "clusterCount": 375,
   "clusters": [
     {
       "subject": "English",
@@ -2302,6 +2302,13 @@
       "ageRangeStart": 14,
       "ageRangeEnd": 15,
       "summary": "Class IX geography looks at the physical earth as a whole. It starts with the planet itself — the grid of latitude and longitude that locates any place, and the spin and tilt that give day, night and the seasons — then works through the three great envelopes of the earth: the solid earth of rock, volcano and earthquake; the hydrosphere of oceans, tides and currents; and the atmosphere that makes the weather. It ends by drawing these together into the natural regions of the world, each with the climate, plants and life that belong to it."
+    },
+    {
+      "subject": "Music",
+      "domain": "Western Music",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "summary": "Western music is written down in a way anyone trained can read: the staff of five lines, where a note’s height is its pitch and its shape is its length. On that foundation the learner builds scales and the intervals between notes, and the chords and harmony that turn a bare tune into full music — and then puts it into practice, performing a prescribed piece with the right notes, steady time and real expression."
     }
   ]
 }

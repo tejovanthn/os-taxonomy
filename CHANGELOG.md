@@ -8,6 +8,18 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ICSE Performing Arts integrated (2026-08-03)
+- Candidates choose one stream. Three map to subjects with rich existing ladders
+  (from the KSGH graded-examination pass) and align: Hindustani and Carnatic
+  music → Music, Indian Dance → Dance (15 alignments). **Western Music** has no
+  home, so it is minted as a new Western Music domain under Music — staff
+  notation, scales/intervals/harmony, and performance (3 topics). The **Drama**
+  stream maps to no existing subject and is DEFERRED (integrating it would need a
+  new Drama/Theatre subject, deprioritised like the ISC-only new subjects).
+- 8 standards, 15 aligned, 3 minted. Every standard covered; no bundlers/orphans;
+  all minted topics join the main component; idempotent. 2,678 topics / 4,669
+  edges / 375 clusters; validate green.
+
 ### ICSE Geography integrated (2026-08-03)
 - Geography of India is the taxonomy's strongest 14–16 area, so the whole Class X
   India course aligns (physiographic divisions, drainage, soil, water, minerals,

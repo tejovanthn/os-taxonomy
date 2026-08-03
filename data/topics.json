@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2675,
+  "topicCount": 2678,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -37484,7 +37484,8 @@
       "standards": [
         "nios-sec-2020:242.M2.L4",
         "nios-sec-2020:242.M2.L5",
-        "ksgh-music-exams:HIN.L2.T2"
+        "ksgh-music-exams:HIN.L2.T2",
+        "icse:PA.HM.T"
       ]
     },
     {
@@ -37847,7 +37848,8 @@
       "standards": [
         "nios-sec-2020:242.M2.L4",
         "ksgh-music-exams:HIN.L1.T1",
-        "ksgh-music-exams:HIN.L2.T1"
+        "ksgh-music-exams:HIN.L2.T1",
+        "icse:PA.HM.T"
       ]
     },
     {
@@ -39799,7 +39801,8 @@
       "assessmentPrompt": "Can {{name}} dance the advanced adavu families — leaps and tandava steps — with the same discipline as the basics?",
       "standards": [
         "ksgh-music-exams:DAN.L3.P2",
-        "ksgh-music-exams:DAN.L3.T2"
+        "ksgh-music-exams:DAN.L3.T2",
+        "icse:PA.ID.P"
       ]
     },
     {
@@ -39839,7 +39842,8 @@
       ],
       "assessmentPrompt": "Can {{name}} dance the heart of the margam — Shabdam, Varnam, Padam, Tillana — and explain each piece?",
       "standards": [
-        "ksgh-music-exams:DAN.L2.P2"
+        "ksgh-music-exams:DAN.L2.P2",
+        "icse:PA.ID.P"
       ]
     },
     {
@@ -39859,7 +39863,8 @@
       ],
       "assessmentPrompt": "Can {{name}} dance the senior repertoire — varnams of longing, padas and vachanas — and sing what they dance?",
       "standards": [
-        "ksgh-music-exams:DAN.L3.P2"
+        "ksgh-music-exams:DAN.L3.P2",
+        "icse:PA.ID.P"
       ]
     },
     {
@@ -40006,7 +40011,8 @@
       "standards": [
         "ksgh-music-exams:DAN.L3.T2",
         "ksgh-music-exams:DAN.L3.P1",
-        "ksgh-music-exams:DAN.L4.T1"
+        "ksgh-music-exams:DAN.L4.T1",
+        "icse:PA.ID.T"
       ]
     },
     {
@@ -40067,7 +40073,8 @@
       "assessmentPrompt": "Can {{name}} explain how rasa arises — the theory behind the feeling — and read a padam’s heroine by her type?",
       "standards": [
         "ksgh-music-exams:DAN.L3.T1",
-        "ksgh-music-exams:DAN.L4.P1"
+        "ksgh-music-exams:DAN.L4.P1",
+        "icse:PA.ID.T"
       ]
     },
     {
@@ -40378,7 +40385,8 @@
       ],
       "assessmentPrompt": "Can {{name}} write down a geetam or varna in notation, and sing from notation they haven’t seen?",
       "standards": [
-        "ksgh-music-exams:CAR.L2.T1"
+        "ksgh-music-exams:CAR.L2.T1",
+        "icse:PA.CM.T"
       ]
     },
     {
@@ -40421,7 +40429,8 @@
         "ksgh-music-exams:CAR.L1.T1",
         "ksgh-music-exams:CAR.L2.T2",
         "ksgh-music-exams:CAR.L3.T1",
-        "ksgh-music-exams:CAR.L4.T1"
+        "ksgh-music-exams:CAR.L4.T1",
+        "icse:PA.CM.T"
       ]
     },
     {
@@ -40505,7 +40514,8 @@
       ],
       "assessmentPrompt": "Can {{name}} explain the 22 shrutis — the fine intervals beneath the twelve notes — and why ragas sound the way they do?",
       "standards": [
-        "ksgh-music-exams:CAR.L4.T1"
+        "ksgh-music-exams:CAR.L4.T1",
+        "icse:PA.CM.T"
       ]
     },
     {
@@ -40545,7 +40555,8 @@
       ],
       "assessmentPrompt": "Can {{name}} sing a pallavi — stretching and compressing one line across the tala in every direction?",
       "standards": [
-        "ksgh-music-exams:CAR.L4.P1"
+        "ksgh-music-exams:CAR.L4.P1",
+        "icse:PA.CM.P"
       ]
     },
     {
@@ -40605,7 +40616,8 @@
       ],
       "assessmentPrompt": "Can {{name}} carry a real concert — choosing the list, leading the ensemble, and delivering a main item in full?",
       "standards": [
-        "ksgh-music-exams:CAR.L4.P3"
+        "ksgh-music-exams:CAR.L4.P3",
+        "icse:PA.CM.P"
       ]
     },
     {
@@ -40732,7 +40744,8 @@
       "assessmentPrompt": "Can {{name}} write a khayal down in Bhatkhande notation and read music back from the page?",
       "standards": [
         "ksgh-music-exams:HIN.L1.T1",
-        "ksgh-music-exams:HIN.L2.T2"
+        "ksgh-music-exams:HIN.L2.T2",
+        "icse:PA.HM.T"
       ]
     },
     {
@@ -40774,7 +40787,8 @@
       "standards": [
         "ksgh-music-exams:HIN.L2.T1",
         "ksgh-music-exams:HIN.L2.P1",
-        "ksgh-music-exams:HIN.L2.P2"
+        "ksgh-music-exams:HIN.L2.P2",
+        "icse:PA.HM.P"
       ]
     },
     {
@@ -40796,7 +40810,8 @@
       "standards": [
         "ksgh-music-exams:HIN.L2.T2",
         "ksgh-music-exams:HIN.L2.P1",
-        "ksgh-music-exams:HIN.L2.P2"
+        "ksgh-music-exams:HIN.L2.P2",
+        "icse:PA.HM.P"
       ]
     },
     {
@@ -54341,6 +54356,66 @@
       "assessmentPrompt": "Ask {{name}} why dense forest grows in one part of India and only thorny scrub in another.",
       "standards": [
         "icse:GEO10.5"
+      ]
+    },
+    {
+      "id": "mt_OivTCuxbwx",
+      "type": "REPRESENTATIONAL",
+      "subject": "Music",
+      "domain": "Western Music",
+      "name": "Western Staff Notation",
+      "description": "Understand the Western staff as a grid of five lines on which pitch is written by position and duration by note shape, so that a melody can be read and written by any musician.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Reads pitches from the treble or bass staff",
+        "Writes the rhythm of a phrase in standard note values",
+        "Interprets a key signature and time signature"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a row of dots on five lines can tell a musician exactly what to play.",
+      "standards": [
+        "icse:PA.WM.T"
+      ]
+    },
+    {
+      "id": "mt_rVEXPpTUW8",
+      "type": "CONCEPTUAL",
+      "subject": "Music",
+      "domain": "Western Music",
+      "name": "Scales, Intervals and Harmony",
+      "description": "Understand how Western music is built from scales and the intervals between notes, and how notes sounded together form the chords and harmony that support a melody.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Builds a major or minor scale",
+        "Names the interval between two notes",
+        "Builds a simple triad and explains its role in harmony"
+      ],
+      "assessmentPrompt": "Ask {{name}} why some notes sounded together please the ear and others clash.",
+      "standards": [
+        "icse:PA.WM.T"
+      ]
+    },
+    {
+      "id": "mt_u1EZz0nfFc",
+      "type": "PROCEDURAL",
+      "subject": "Music",
+      "domain": "Western Music",
+      "name": "Western Music Performance",
+      "description": "Develop the skill of performing a prescribed piece of Western music — singing or on an instrument — with accurate pitch and rhythm and musical expression.",
+      "ageRangeStart": 14,
+      "ageRangeEnd": 16,
+      "centrality": null,
+      "evidence": [
+        "Performs a prescribed piece with correct pitch and rhythm",
+        "Keeps time and follows the dynamics of the piece",
+        "Plays or sings with control and expression"
+      ],
+      "assessmentPrompt": "Can {{name}} play or sing a piece so it is not just the right notes but real music?",
+      "standards": [
+        "icse:PA.WM.P"
       ]
     }
   ]

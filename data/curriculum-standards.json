@@ -49149,7 +49149,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabuses-icse-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 200,
+      "topicCount": 208,
       "topics": [
         {
           "key": "icse:MAT9.1",
@@ -51349,6 +51349,94 @@
             "class": "X",
             "strand": "Waste Management",
             "description": "The types and sources of waste and the methods of managing and disposing of it."
+          }
+        },
+        {
+          "key": "icse:PA.HM.T",
+          "code": "PA.HM.T",
+          "data": {
+            "title": "Class IX–X Hindustani Music: Theory",
+            "subject": "Performing Arts (IX–X)",
+            "class": "IX–X",
+            "strand": "Hindustani Music: Theory",
+            "description": "The theory of Hindustani music — ragas and their grammar, the thaat system, the vocal forms, notation and the history of the tradition."
+          }
+        },
+        {
+          "key": "icse:PA.HM.P",
+          "code": "PA.HM.P",
+          "data": {
+            "title": "Class IX–X Hindustani Music: Practical",
+            "subject": "Performing Arts (IX–X)",
+            "class": "IX–X",
+            "strand": "Hindustani Music: Practical",
+            "description": "The practical performance of Hindustani music — alankars, a khayal in a prescribed raga, and the ornaments of the style."
+          }
+        },
+        {
+          "key": "icse:PA.CM.T",
+          "code": "PA.CM.T",
+          "data": {
+            "title": "Class IX–X Carnatic Music: Theory",
+            "subject": "Performing Arts (IX–X)",
+            "class": "IX–X",
+            "strand": "Carnatic Music: Theory",
+            "description": "The theory of Carnatic music — raga lakshana, the melakarta scheme, the shrutis, notation and the treatises and history of the tradition."
+          }
+        },
+        {
+          "key": "icse:PA.CM.P",
+          "code": "PA.CM.P",
+          "data": {
+            "title": "Class IX–X Carnatic Music: Practical",
+            "subject": "Performing Arts (IX–X)",
+            "class": "IX–X",
+            "strand": "Carnatic Music: Practical",
+            "description": "The practical performance of Carnatic music — the items of a kacheri including varnam, kriti and pallavi."
+          }
+        },
+        {
+          "key": "icse:PA.ID.T",
+          "code": "PA.ID.T",
+          "data": {
+            "title": "Class IX–X Indian Dance: Theory",
+            "subject": "Performing Arts (IX–X)",
+            "class": "IX–X",
+            "strand": "Indian Dance: Theory",
+            "description": "The theory of a classical Indian dance — its technique and abhinaya, rasa theory, and its history and treatises."
+          }
+        },
+        {
+          "key": "icse:PA.ID.P",
+          "code": "PA.ID.P",
+          "data": {
+            "title": "Class IX–X Indian Dance: Practical",
+            "subject": "Performing Arts (IX–X)",
+            "class": "IX–X",
+            "strand": "Indian Dance: Practical",
+            "description": "The practical performance of a classical Indian dance — the adavus, the hand gestures and the items of the repertoire."
+          }
+        },
+        {
+          "key": "icse:PA.WM.T",
+          "code": "PA.WM.T",
+          "data": {
+            "title": "Class IX–X Western Music: Theory",
+            "subject": "Performing Arts (IX–X)",
+            "class": "IX–X",
+            "strand": "Western Music: Theory",
+            "description": "The theory of Western music — staff notation, scales and key signatures, intervals, chords and simple harmony."
+          }
+        },
+        {
+          "key": "icse:PA.WM.P",
+          "code": "PA.WM.P",
+          "data": {
+            "title": "Class IX–X Western Music: Practical",
+            "subject": "Performing Arts (IX–X)",
+            "class": "IX–X",
+            "strand": "Western Music: Practical",
+            "description": "The practical performance of Western music — playing or singing a prescribed piece with correct pitch, rhythm and expression."
           }
         }
       ]
