@@ -43466,7 +43466,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a chemist knows how much of one reactant is needed to use up exactly all of another.",
       "standards": [
-        "ncert-hsec:CHE.C11.U1"
+        "ncert-hsec:CHE.C11.U1",
+        "isc:CHE.C11.U1"
       ]
     },
     {
@@ -43486,7 +43487,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why we talk about where an electron probably is rather than exactly where it is.",
       "standards": [
-        "ncert-hsec:CHE.C11.U2"
+        "ncert-hsec:CHE.C11.U2",
+        "isc:CHE.C11.U2"
       ]
     },
     {
@@ -43506,7 +43508,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why copper does not fill its orbitals in the order the simple rule predicts.",
       "standards": [
-        "ncert-hsec:CHE.C11.U2"
+        "ncert-hsec:CHE.C11.U2",
+        "isc:CHE.C11.U2"
       ]
     },
     {
@@ -43526,7 +43529,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why it gets harder to remove an electron as you move across a period.",
       "standards": [
-        "ncert-hsec:CHE.C11.U3"
+        "ncert-hsec:CHE.C11.U3",
+        "isc:CHE.C11.U3"
       ]
     },
     {
@@ -43546,7 +43550,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether a bond is ever purely ionic or purely covalent, and what decides where it sits between them.",
       "standards": [
-        "ncert-hsec:CHE.C11.U4"
+        "ncert-hsec:CHE.C11.U4",
+        "isc:CHE.C11.U4"
       ]
     },
     {
@@ -43566,7 +43571,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why water molecules are bent when the two hydrogens could sit opposite each other.",
       "standards": [
-        "ncert-hsec:CHE.C11.U4"
+        "ncert-hsec:CHE.C11.U4",
+        "isc:CHE.C11.U4"
       ]
     },
     {
@@ -43586,7 +43592,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why all four bonds in methane are identical when carbon’s orbitals are not.",
       "standards": [
-        "ncert-hsec:CHE.C11.U4"
+        "ncert-hsec:CHE.C11.U4",
+        "isc:CHE.C11.U4"
       ]
     },
     {
@@ -43606,7 +43613,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why water is a liquid at room temperature when similar-sized molecules are gases.",
       "standards": [
-        "ncert-hsec:CHE.C11.U5"
+        "ncert-hsec:CHE.C11.U5",
+        "isc:CHE.C11.U5"
       ]
     },
     {
@@ -43626,7 +43634,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what happens to the pressure in a sealed container as it is heated, and why.",
       "standards": [
-        "ncert-hsec:CHE.C11.U5"
+        "ncert-hsec:CHE.C11.U5",
+        "isc:CHE.C11.U5"
       ]
     },
     {
@@ -43646,7 +43655,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why some gases can be liquefied by pressure alone and others must first be cooled.",
       "standards": [
-        "ncert-hsec:CHE.C11.U5"
+        "ncert-hsec:CHE.C11.U5",
+        "isc:CHE.C11.U5"
       ]
     },
     {
@@ -43666,7 +43676,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a chemist can find the heat of a reaction that is impossible to carry out directly.",
       "standards": [
-        "ncert-hsec:CHE.C11.U6"
+        "ncert-hsec:CHE.C11.U6",
+        "isc:CHE.C11.U6"
       ]
     },
     {
@@ -43686,7 +43697,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why ice melts on its own at room temperature even though it takes in energy to do so.",
       "standards": [
-        "ncert-hsec:CHE.C11.U6"
+        "ncert-hsec:CHE.C11.U6",
+        "isc:CHE.C11.U6"
       ]
     },
     {
@@ -43706,7 +43718,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what is still happening in a reaction that appears to have stopped.",
       "standards": [
-        "ncert-hsec:CHE.C11.U7"
+        "ncert-hsec:CHE.C11.U7",
+        "isc:CHE.C11.U7"
       ]
     },
     {
@@ -43726,7 +43739,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how to tell which substance was oxidised in a reaction where no oxygen appears at all.",
       "standards": [
-        "ncert-hsec:CHE.C11.U8"
+        "ncert-hsec:CHE.C11.U8",
+        "isc:CHE.C11.U8"
       ]
     },
     {
@@ -43746,7 +43760,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why the periodic table struggles to find a home for the simplest element of all.",
       "standards": [
-        "ncert-hsec:CHE.C11.U9"
+        "ncert-hsec:CHE.C11.U9",
+        "isc:CHE.C11.U9"
       ]
     },
     {
@@ -43766,7 +43781,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why sodium is stored under oil but magnesium is not.",
       "standards": [
-        "ncert-hsec:CHE.C11.U10"
+        "ncert-hsec:CHE.C11.U10",
+        "isc:CHE.C11.U10"
       ]
     },
     {
@@ -43786,7 +43802,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why carbon can form millions of compounds when silicon just below it cannot.",
       "standards": [
-        "ncert-hsec:CHE.C11.U11"
+        "ncert-hsec:CHE.C11.U11",
+        "isc:CHE.C11.U11"
       ]
     },
     {
@@ -43806,7 +43823,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} to name a branched hydrocarbon and explain how they chose the main chain.",
       "standards": [
-        "ncert-hsec:CHE.C11.U12"
+        "ncert-hsec:CHE.C11.U12",
+        "isc:CHE.C11.U12"
       ]
     },
     {
@@ -43826,7 +43844,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a positive charge on a carbon is more stable when more carbon groups surround it.",
       "standards": [
-        "ncert-hsec:CHE.C11.U12"
+        "ncert-hsec:CHE.C11.U12",
+        "isc:CHE.C11.U12"
       ]
     },
     {
@@ -43846,7 +43865,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why chlorinating methane produces several different products rather than one.",
       "standards": [
-        "ncert-hsec:CHE.C11.U13"
+        "ncert-hsec:CHE.C11.U13",
+        "isc:CHE.C11.U13"
       ]
     },
     {
@@ -43866,7 +43886,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why adding HBr to propene gives mainly one product and not an even mixture.",
       "standards": [
-        "ncert-hsec:CHE.C11.U13"
+        "ncert-hsec:CHE.C11.U13",
+        "isc:CHE.C11.U13"
       ]
     },
     {
@@ -43886,7 +43907,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why the hydrogen on the end of an alkyne can be removed but one on an alkane cannot.",
       "standards": [
-        "ncert-hsec:CHE.C11.U13"
+        "ncert-hsec:CHE.C11.U13",
+        "isc:CHE.C11.U13"
       ]
     },
     {
@@ -43906,7 +43928,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why benzene, with three double bonds, does not decolourise bromine water the way an alkene does.",
       "standards": [
-        "ncert-hsec:CHE.C11.U13"
+        "ncert-hsec:CHE.C11.U13",
+        "isc:CHE.C11.U13"
       ]
     },
     {
@@ -43926,7 +43949,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether it is better to clean up a pollutant or to design a process that never makes it.",
       "standards": [
-        "ncert-hsec:CHE.C11.U14"
+        "ncert-hsec:CHE.C11.U14",
+        "isc:CHE.C11.U14"
       ]
     },
     {
@@ -43946,7 +43970,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how knowing the size of one tiny repeating box tells you the density of a whole crystal.",
       "standards": [
-        "ncert-hsec:CHE.C12.U1"
+        "ncert-hsec:CHE.C12.U1",
+        "isc:CHE.C12.U1"
       ]
     },
     {
@@ -43966,7 +43991,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why salt is spread on icy roads, and what that has to do with measuring molecular mass.",
       "standards": [
-        "ncert-hsec:CHE.C12.U2"
+        "ncert-hsec:CHE.C12.U2",
+        "isc:CHE.C12.U2"
       ]
     },
     {
@@ -43986,7 +44012,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a battery turns a chemical reaction into a current, and why it eventually goes flat.",
       "standards": [
-        "ncert-hsec:CHE.C12.U3"
+        "ncert-hsec:CHE.C12.U3",
+        "isc:CHE.C12.U3"
       ]
     },
     {
@@ -44006,7 +44033,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why you cannot tell how fast a reaction goes just by looking at its balanced equation.",
       "standards": [
-        "ncert-hsec:CHE.C12.U4"
+        "ncert-hsec:CHE.C12.U4",
+        "isc:CHE.C12.U4"
       ]
     },
     {
@@ -44027,7 +44055,8 @@
       "assessmentPrompt": "Ask {{name}} why a small rise in temperature can double a reaction rate.",
       "standards": [
         "ncert-hsec:CHE.C12.U4",
-        "ncert-hsec:CHE.C12.U5"
+        "ncert-hsec:CHE.C12.U5",
+        "isc:CHE.C12.U4"
       ]
     },
     {
@@ -44047,7 +44076,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a beam of light is visible passing through milk but not through salt water.",
       "standards": [
-        "ncert-hsec:CHE.C12.U5"
+        "ncert-hsec:CHE.C12.U5",
+        "isc:CHE.C12.U5"
       ]
     },
     {
@@ -44067,7 +44097,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why aluminium was once more precious than gold despite being far more abundant.",
       "standards": [
-        "ncert-hsec:CHE.C12.U6"
+        "ncert-hsec:CHE.C12.U6",
+        "isc:CHE.C12.U6"
       ]
     },
     {
@@ -44087,7 +44118,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why the halogens get less reactive down the group while the alkali metals get more so.",
       "standards": [
-        "ncert-hsec:CHE.C12.U7"
+        "ncert-hsec:CHE.C12.U7",
+        "isc:CHE.C12.U7"
       ]
     },
     {
@@ -44107,7 +44139,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why compounds of iron and copper are coloured but those of sodium and calcium are white.",
       "standards": [
-        "ncert-hsec:CHE.C12.U8"
+        "ncert-hsec:CHE.C12.U8",
+        "isc:CHE.C12.U8"
       ]
     },
     {
@@ -44127,7 +44160,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what haemoglobin and a laboratory colour test have in common.",
       "standards": [
-        "ncert-hsec:CHE.C12.U9"
+        "ncert-hsec:CHE.C12.U9",
+        "isc:CHE.C12.U9"
       ]
     },
     {
@@ -44147,7 +44181,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a tertiary haloalkane and a primary one react by different routes.",
       "standards": [
-        "ncert-hsec:CHE.C12.U10"
+        "ncert-hsec:CHE.C12.U10",
+        "isc:CHE.C12.U10"
       ]
     },
     {
@@ -44167,7 +44202,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a chemist could tell an aldehyde from a ketone in the laboratory.",
       "standards": [
-        "ncert-hsec:CHE.C12.U12"
+        "ncert-hsec:CHE.C12.U12",
+        "isc:CHE.C12.U12"
       ]
     },
     {
@@ -44187,7 +44223,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why acetic acid gives up a proton readily but ethanol barely does.",
       "standards": [
-        "ncert-hsec:CHE.C12.U12"
+        "ncert-hsec:CHE.C12.U12",
+        "isc:CHE.C12.U12"
       ]
     },
     {
@@ -44207,7 +44244,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why aniline is a weaker base than an ordinary aliphatic amine.",
       "standards": [
-        "ncert-hsec:CHE.C12.U13"
+        "ncert-hsec:CHE.C12.U13",
+        "isc:CHE.C12.U13"
       ]
     },
     {
@@ -44227,7 +44265,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why we can digest potatoes but not paper when both are made of glucose units.",
       "standards": [
-        "ncert-hsec:CHE.C12.U14"
+        "ncert-hsec:CHE.C12.U14",
+        "isc:CHE.C12.U14"
       ]
     },
     {
@@ -44247,7 +44286,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why cooking an egg cannot be undone, and what that says about protein structure.",
       "standards": [
-        "ncert-hsec:CHE.C12.U14"
+        "ncert-hsec:CHE.C12.U14",
+        "isc:CHE.C12.U14"
       ]
     },
     {
@@ -44267,7 +44307,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a molecule can store information, and what the information is written in.",
       "standards": [
-        "ncert-hsec:CHE.C12.U14"
+        "ncert-hsec:CHE.C12.U14",
+        "isc:CHE.C12.U14"
       ]
     },
     {
@@ -44287,7 +44328,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what polythene and nylon have in common, and how the way they are made differs.",
       "standards": [
-        "ncert-hsec:CHE.C12.U15"
+        "ncert-hsec:CHE.C12.U15",
+        "isc:CHE.C12.U15"
       ]
     },
     {
@@ -44307,7 +44349,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how soap removes oil when oil and water do not mix.",
       "standards": [
-        "ncert-hsec:CHE.C12.U16"
+        "ncert-hsec:CHE.C12.U16",
+        "isc:CHE.C12.U16"
       ]
     },
     {
@@ -44327,7 +44370,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a mushroom is not classed as a plant even though it does not move.",
       "standards": [
-        "ncert-hsec:BIO.U1"
+        "ncert-hsec:BIO.U1",
+        "isc:BIO.C11.U1"
       ]
     },
     {
@@ -44347,7 +44391,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why scientists insist on Latin names when everyone already has a word for a cat.",
       "standards": [
-        "ncert-hsec:BIO.U1"
+        "ncert-hsec:BIO.U1",
+        "isc:BIO.C11.U1"
       ]
     },
     {
@@ -44367,7 +44412,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what single feature they would look for to tell a fern from a moss.",
       "standards": [
-        "ncert-hsec:BIO.U1"
+        "ncert-hsec:BIO.U1",
+        "isc:BIO.C11.U1"
       ]
     },
     {
@@ -44387,7 +44433,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a botanist can identify a plant family just by dissecting one flower.",
       "standards": [
-        "ncert-hsec:BIO.U2"
+        "ncert-hsec:BIO.U2",
+        "isc:BIO.C11.U2"
       ]
     },
     {
@@ -44407,7 +44454,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how they could tell a root from a stem by looking at a thin slice under a microscope.",
       "standards": [
-        "ncert-hsec:BIO.U2"
+        "ncert-hsec:BIO.U2",
+        "isc:BIO.C11.U2"
       ]
     },
     {
@@ -44427,7 +44475,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what advantage an animal gains by having specialised tissues rather than identical cells.",
       "standards": [
-        "ncert-hsec:BIO.U2"
+        "ncert-hsec:BIO.U2",
+        "isc:BIO.C11.U2"
       ]
     },
     {
@@ -44447,7 +44496,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a cell keeps its digestive enzymes shut inside a sac rather than loose in the cytoplasm.",
       "standards": [
-        "ncert-hsec:BIO.U3"
+        "ncert-hsec:BIO.U3",
+        "isc:BIO.C11.U3"
       ]
     },
     {
@@ -44467,7 +44517,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why chromosome number would double every generation if gametes were made by mitosis.",
       "standards": [
-        "ncert-hsec:BIO.U3"
+        "ncert-hsec:BIO.U3",
+        "isc:BIO.C11.U3"
       ]
     },
     {
@@ -44487,7 +44538,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why proteins can do so many different jobs when carbohydrates mostly store energy.",
       "standards": [
-        "ncert-hsec:BIO.U3"
+        "ncert-hsec:BIO.U3",
+        "isc:BIO.C11.U3"
       ]
     },
     {
@@ -44507,7 +44559,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a fever above a certain point becomes dangerous to the body’s chemistry.",
       "standards": [
-        "ncert-hsec:BIO.U3"
+        "ncert-hsec:BIO.U3",
+        "isc:BIO.C11.U3"
       ]
     },
     {
@@ -44527,7 +44580,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how water gets to the top of a tall tree when there is no pump anywhere in it.",
       "standards": [
-        "ncert-hsec:BIO.U4"
+        "ncert-hsec:BIO.U4",
+        "isc:BIO.C11.U4"
       ]
     },
     {
@@ -44547,7 +44601,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a plant cannot simply close its stomata to stop losing water.",
       "standards": [
-        "ncert-hsec:BIO.U4"
+        "ncert-hsec:BIO.U4",
+        "isc:BIO.C11.U4"
       ]
     },
     {
@@ -44567,7 +44622,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why farmers plant legumes between crops of wheat.",
       "standards": [
-        "ncert-hsec:BIO.U4"
+        "ncert-hsec:BIO.U4",
+        "isc:BIO.C11.U4"
       ]
     },
     {
@@ -44587,7 +44643,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why sugarcane and maize thrive in heat where wheat struggles.",
       "standards": [
-        "ncert-hsec:BIO.U4"
+        "ncert-hsec:BIO.U4",
+        "isc:BIO.C11.U4"
       ]
     },
     {
@@ -44607,7 +44664,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why muscles ache after sprinting but not after a slow walk.",
       "standards": [
-        "ncert-hsec:BIO.U4"
+        "ncert-hsec:BIO.U4",
+        "isc:BIO.C11.U4"
       ]
     },
     {
@@ -44627,7 +44685,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why pinching out the tip of a plant makes it grow bushier.",
       "standards": [
-        "ncert-hsec:BIO.U4"
+        "ncert-hsec:BIO.U4",
+        "isc:BIO.C11.U4"
       ]
     },
     {
@@ -44647,7 +44706,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why the small intestine is folded and covered in tiny projections.",
       "standards": [
-        "ncert-hsec:BIO.U5"
+        "ncert-hsec:BIO.U5",
+        "isc:BIO.C11.U5"
       ]
     },
     {
@@ -44667,7 +44727,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what actually makes air move into the lungs, given the lungs have no muscles of their own.",
       "standards": [
-        "ncert-hsec:BIO.U5"
+        "ncert-hsec:BIO.U5",
+        "isc:BIO.C11.U5"
       ]
     },
     {
@@ -44687,7 +44748,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why blood passes through the heart twice on each full trip round the body.",
       "standards": [
-        "ncert-hsec:BIO.U5"
+        "ncert-hsec:BIO.U5",
+        "isc:BIO.C11.U5"
       ]
     },
     {
@@ -44707,7 +44769,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why urine is darker on a hot day when little water has been drunk.",
       "standards": [
-        "ncert-hsec:BIO.U5"
+        "ncert-hsec:BIO.U5",
+        "isc:BIO.C11.U5"
       ]
     },
     {
@@ -44727,7 +44790,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why muscles can only pull and never push, and how the body gets around that.",
       "standards": [
-        "ncert-hsec:BIO.U5"
+        "ncert-hsec:BIO.U5",
+        "isc:BIO.C11.U5"
       ]
     },
     {
@@ -44747,7 +44811,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why the body needs both nerves and hormones rather than just one messaging system.",
       "standards": [
-        "ncert-hsec:BIO.U5"
+        "ncert-hsec:BIO.U5",
+        "isc:BIO.C11.U5"
       ]
     },
     {
@@ -44767,7 +44832,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why so many plants go to great lengths to avoid pollinating themselves.",
       "standards": [
-        "ncert-hsec:BIO.U6"
+        "ncert-hsec:BIO.U6",
+        "isc:BIO.C12.U1"
       ]
     },
     {
@@ -44787,7 +44853,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what signals the body uses to prepare for a possible pregnancy each month.",
       "standards": [
-        "ncert-hsec:BIO.U6"
+        "ncert-hsec:BIO.U6",
+        "isc:BIO.C12.U1"
       ]
     },
     {
@@ -44807,7 +44874,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what makes one method of contraception more reliable than another.",
       "standards": [
-        "ncert-hsec:BIO.U6"
+        "ncert-hsec:BIO.U6",
+        "isc:BIO.C12.U1"
       ]
     },
     {
@@ -44827,7 +44895,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why two brown-eyed parents can have a blue-eyed child.",
       "standards": [
-        "ncert-hsec:BIO.U7"
+        "ncert-hsec:BIO.U7",
+        "isc:BIO.C12.U2"
       ]
     },
     {
@@ -44847,7 +44916,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why crossing a red and a white flower sometimes gives pink and sometimes gives both colours together.",
       "standards": [
-        "ncert-hsec:BIO.U7"
+        "ncert-hsec:BIO.U7",
+        "isc:BIO.C12.U2"
       ]
     },
     {
@@ -44867,7 +44937,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a liver cell and a nerve cell behave so differently when they carry identical DNA.",
       "standards": [
-        "ncert-hsec:BIO.U7"
+        "ncert-hsec:BIO.U7",
+        "isc:BIO.C12.U2"
       ]
     },
     {
@@ -44887,7 +44958,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what makes their DNA identifiably theirs when almost all of it is the same as everyone else’s.",
       "standards": [
-        "ncert-hsec:BIO.U7"
+        "ncert-hsec:BIO.U7",
+        "isc:BIO.C12.U4"
       ]
     },
     {
@@ -44907,7 +44979,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what would count as evidence that two species share an ancestor.",
       "standards": [
-        "ncert-hsec:BIO.U7"
+        "ncert-hsec:BIO.U7",
+        "isc:BIO.C12.U2"
       ]
     },
     {
@@ -44927,7 +45000,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a vaccine protects against a disease the body has never encountered.",
       "standards": [
-        "ncert-hsec:BIO.U8"
+        "ncert-hsec:BIO.U8",
+        "isc:BIO.C12.U3"
       ]
     },
     {
@@ -44947,7 +45021,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a farmer today gets far more grain from the same field than a farmer a century ago.",
       "standards": [
-        "ncert-hsec:BIO.U8"
+        "ncert-hsec:BIO.U8",
+        "isc:BIO.C12.U3"
       ]
     },
     {
@@ -44967,7 +45042,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what curd, antibiotics and clean sewage water all have in common.",
       "standards": [
-        "ncert-hsec:BIO.U8"
+        "ncert-hsec:BIO.U8",
+        "isc:BIO.C12.U3"
       ]
     },
     {
@@ -44987,7 +45063,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a bacterium can be made to manufacture a human protein.",
       "standards": [
-        "ncert-hsec:BIO.U9"
+        "ncert-hsec:BIO.U9",
+        "isc:BIO.C12.U4"
       ]
     },
     {
@@ -45007,7 +45084,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether showing a GM crop is safe to eat settles the whole argument about growing it.",
       "standards": [
-        "ncert-hsec:BIO.U9"
+        "ncert-hsec:BIO.U9",
+        "isc:BIO.C12.U4"
       ]
     },
     {
@@ -45027,7 +45105,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why there are far fewer tigers than deer, and fewer deer than grass plants.",
       "standards": [
-        "ncert-hsec:BIO.U10"
+        "ncert-hsec:BIO.U10",
+        "isc:BIO.C12.U5"
       ]
     },
     {
@@ -45047,7 +45126,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether saving a species in a zoo is the same as saving it in the wild.",
       "standards": [
-        "ncert-hsec:BIO.U10"
+        "ncert-hsec:BIO.U10",
+        "isc:BIO.C12.U5"
       ]
     },
     {
@@ -49155,7 +49235,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a pH of 3 is a hundred times more acidic than a pH of 5, not slightly more.",
       "standards": [
-        "ncert-hsec:CHE.C11.U7"
+        "ncert-hsec:CHE.C11.U7",
+        "isc:CHE.C11.U7"
       ]
     },
     {
@@ -49175,7 +49256,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a factory knows how long to run a current to plate exactly the right thickness of metal.",
       "standards": [
-        "ncert-hsec:CHE.C12.U3"
+        "ncert-hsec:CHE.C12.U3",
+        "isc:CHE.C12.U3"
       ]
     },
     {
@@ -49195,7 +49277,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why iron rusts faster in salty water than in pure water.",
       "standards": [
-        "ncert-hsec:CHE.C12.U3"
+        "ncert-hsec:CHE.C12.U3",
+        "isc:CHE.C12.U3"
       ]
     },
     {
@@ -49215,7 +49298,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why phenol turns litmus red but ethanol does not, when both contain an OH group.",
       "standards": [
-        "ncert-hsec:CHE.C12.U11"
+        "ncert-hsec:CHE.C12.U11",
+        "isc:CHE.C12.U11"
       ]
     },
     {
@@ -49235,7 +49319,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why an ether makes a good solvent precisely because it does so little.",
       "standards": [
-        "ncert-hsec:CHE.C12.U11"
+        "ncert-hsec:CHE.C12.U11",
+        "isc:CHE.C12.U11"
       ]
     },
     {
@@ -49255,7 +49340,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why haemophilia and colour blindness appear far more often in males.",
       "standards": [
-        "ncert-hsec:BIO.U7"
+        "ncert-hsec:BIO.U7",
+        "isc:BIO.C12.U2"
       ]
     },
     {
@@ -49275,7 +49361,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why two traits that always appeared together in one family can suddenly come apart.",
       "standards": [
-        "ncert-hsec:BIO.U7"
+        "ncert-hsec:BIO.U7",
+        "isc:BIO.C12.U2"
       ]
     },
     {
@@ -49295,7 +49382,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a molecule can make an accurate copy of itself.",
       "standards": [
-        "ncert-hsec:BIO.U7"
+        "ncert-hsec:BIO.U7",
+        "isc:BIO.C12.U2"
       ]
     },
     {
@@ -49315,7 +49403,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a sequence of four repeating chemicals can specify a whole protein.",
       "standards": [
-        "ncert-hsec:BIO.U7"
+        "ncert-hsec:BIO.U7",
+        "isc:BIO.C12.U2"
       ]
     },
     {
@@ -49355,7 +49444,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a disease that attacks the immune system is so much more dangerous than most infections.",
       "standards": [
-        "ncert-hsec:BIO.U8"
+        "ncert-hsec:BIO.U8",
+        "isc:BIO.C12.U3"
       ]
     },
     {
@@ -49375,7 +49465,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what stops a population from growing forever once conditions are good.",
       "standards": [
-        "ncert-hsec:BIO.U10"
+        "ncert-hsec:BIO.U10",
+        "isc:BIO.C12.U5"
       ]
     },
     {
@@ -49395,7 +49486,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how two species wanting the same food can both survive in one place.",
       "standards": [
-        "ncert-hsec:BIO.U10"
+        "ncert-hsec:BIO.U10",
+        "isc:BIO.C12.U5"
       ]
     },
     {
@@ -49495,7 +49587,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why adding a little acid to blood barely changes its pH.",
       "standards": [
-        "ncert-hsec:CHE.C11.U7"
+        "ncert-hsec:CHE.C11.U7",
+        "isc:CHE.C11.U7"
       ]
     },
     {

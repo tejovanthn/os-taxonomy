@@ -8,6 +8,11 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 Work-in-progress addition of Indian curricula, integrated one source at a time.
 
+### ISC Chemistry and Biology integrated (2026-08-03)
+- Both pure-alignment onto the dense 16–18 ncert-hsec ladders, zero new topics.
+  Chemistry: 30 units, 49 links. Biology: 10 units, 44 links. Every unit covered;
+  validate green. 4,526 standards.
+
 ### ISC (CISCE Classes XI–XII) added; Physics integrated (2026-08-03)
 - Added a new curriculum source **`isc`** — the CISCE Indian School Certificate,
   Classes XI–XII (ages 16–18), exam-year-2028 edition. Red tier (Marble factual

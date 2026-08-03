@@ -51526,7 +51526,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabus-isc-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 18,
+      "topicCount": 58,
       "topics": [
         {
           "key": "isc:PHY.C11.U1",
@@ -51724,6 +51724,446 @@
             "class": "XII",
             "strand": "Electronic Devices",
             "description": "Semiconductors and the junction diode, the transistor, and logic gates."
+          }
+        },
+        {
+          "key": "isc:CHE.C11.U1",
+          "code": "CHE.C11.U1",
+          "data": {
+            "title": "Class XI Some Basic Concepts of Chemistry",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Some Basic Concepts of Chemistry",
+            "description": "The mole concept, stoichiometry and reacting masses."
+          }
+        },
+        {
+          "key": "isc:CHE.C11.U2",
+          "code": "CHE.C11.U2",
+          "data": {
+            "title": "Class XI Structure of Atom",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Structure of Atom",
+            "description": "The quantum atom, orbitals and quantum numbers, and electronic configuration."
+          }
+        },
+        {
+          "key": "isc:CHE.C11.U3",
+          "code": "CHE.C11.U3",
+          "data": {
+            "title": "Class XI Periodic Table and Periodicity",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Periodic Table and Periodicity",
+            "description": "The periodic classification and the trends in atomic properties."
+          }
+        },
+        {
+          "key": "isc:CHE.C11.U4",
+          "code": "CHE.C11.U4",
+          "data": {
+            "title": "Class XI Chemical Bonding and Molecular Structure",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Chemical Bonding and Molecular Structure",
+            "description": "Ionic and covalent bonding, VSEPR theory, and hybridisation and valence bond theory."
+          }
+        },
+        {
+          "key": "isc:CHE.C11.U5",
+          "code": "CHE.C11.U5",
+          "data": {
+            "title": "Class XI States of Matter",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "States of Matter",
+            "description": "The gas laws and the ideal gas equation, real gases, and intermolecular forces and hydrogen bonding."
+          }
+        },
+        {
+          "key": "isc:CHE.C11.U6",
+          "code": "CHE.C11.U6",
+          "data": {
+            "title": "Class XI Chemical Thermodynamics",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Chemical Thermodynamics",
+            "description": "Enthalpy and Hess’s law, and entropy, free energy and spontaneity."
+          }
+        },
+        {
+          "key": "isc:CHE.C11.U7",
+          "code": "CHE.C11.U7",
+          "data": {
+            "title": "Class XI Equilibrium",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Equilibrium",
+            "description": "Chemical equilibrium and Le Chatelier’s principle, ionic equilibrium and the pH scale, and buffers and solubility."
+          }
+        },
+        {
+          "key": "isc:CHE.C11.U8",
+          "code": "CHE.C11.U8",
+          "data": {
+            "title": "Class XI Redox Reactions",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Redox Reactions",
+            "description": "Oxidation number and the balancing of redox reactions."
+          }
+        },
+        {
+          "key": "isc:CHE.C11.U9",
+          "code": "CHE.C11.U9",
+          "data": {
+            "title": "Class XI Hydrogen",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Hydrogen",
+            "description": "Hydrogen and its compounds."
+          }
+        },
+        {
+          "key": "isc:CHE.C11.U10",
+          "code": "CHE.C11.U10",
+          "data": {
+            "title": "Class XI s-Block Elements",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "s-Block Elements",
+            "description": "The alkali and alkaline earth metals."
+          }
+        },
+        {
+          "key": "isc:CHE.C11.U11",
+          "code": "CHE.C11.U11",
+          "data": {
+            "title": "Class XI p-Block Elements (Groups 13–14)",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "p-Block Elements (Groups 13–14)",
+            "description": "The boron and carbon families."
+          }
+        },
+        {
+          "key": "isc:CHE.C11.U12",
+          "code": "CHE.C11.U12",
+          "data": {
+            "title": "Class XI Organic Chemistry: Basic Principles",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Organic Chemistry: Basic Principles",
+            "description": "IUPAC nomenclature, and electronic effects and reaction intermediates."
+          }
+        },
+        {
+          "key": "isc:CHE.C11.U13",
+          "code": "CHE.C11.U13",
+          "data": {
+            "title": "Class XI Hydrocarbons",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Hydrocarbons",
+            "description": "Alkanes, alkenes, alkynes, and benzene and aromaticity."
+          }
+        },
+        {
+          "key": "isc:CHE.C11.U14",
+          "code": "CHE.C11.U14",
+          "data": {
+            "title": "Class XI Environmental Chemistry",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XI",
+            "strand": "Environmental Chemistry",
+            "description": "Environmental chemistry and green chemistry."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U1",
+          "code": "CHE.C12.U1",
+          "data": {
+            "title": "Class XII The Solid State",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "The Solid State",
+            "description": "The solid state and unit cells."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U2",
+          "code": "CHE.C12.U2",
+          "data": {
+            "title": "Class XII Solutions",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Solutions",
+            "description": "Solutions and colligative properties."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U3",
+          "code": "CHE.C12.U3",
+          "data": {
+            "title": "Class XII Electrochemistry",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Electrochemistry",
+            "description": "Electrochemical cells and the Nernst equation, electrolysis and conductance, and corrosion."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U4",
+          "code": "CHE.C12.U4",
+          "data": {
+            "title": "Class XII Chemical Kinetics",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Chemical Kinetics",
+            "description": "Rate laws and order, and collision theory, activation energy and catalysis."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U5",
+          "code": "CHE.C12.U5",
+          "data": {
+            "title": "Class XII Surface Chemistry",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Surface Chemistry",
+            "description": "Adsorption and the colloidal state."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U6",
+          "code": "CHE.C12.U6",
+          "data": {
+            "title": "Class XII General Principles of Metallurgy",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "General Principles of Metallurgy",
+            "description": "The principles of the extraction of metals."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U7",
+          "code": "CHE.C12.U7",
+          "data": {
+            "title": "Class XII p-Block Elements (Groups 15–18)",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "p-Block Elements (Groups 15–18)",
+            "description": "The nitrogen, oxygen, halogen and noble-gas families."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U8",
+          "code": "CHE.C12.U8",
+          "data": {
+            "title": "Class XII d- and f-Block Elements",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "d- and f-Block Elements",
+            "description": "The transition and inner-transition elements."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U9",
+          "code": "CHE.C12.U9",
+          "data": {
+            "title": "Class XII Coordination Compounds",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Coordination Compounds",
+            "description": "Coordination compounds and their bonding."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U10",
+          "code": "CHE.C12.U10",
+          "data": {
+            "title": "Class XII Haloalkanes and Haloarenes",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Haloalkanes and Haloarenes",
+            "description": "Haloalkanes and nucleophilic substitution."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U11",
+          "code": "CHE.C12.U11",
+          "data": {
+            "title": "Class XII Alcohols, Phenols and Ethers",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Alcohols, Phenols and Ethers",
+            "description": "Alcohols and phenols, and ethers."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U12",
+          "code": "CHE.C12.U12",
+          "data": {
+            "title": "Class XII Aldehydes, Ketones and Carboxylic Acids",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Aldehydes, Ketones and Carboxylic Acids",
+            "description": "Aldehydes and ketones and nucleophilic addition, and carboxylic acids."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U13",
+          "code": "CHE.C12.U13",
+          "data": {
+            "title": "Class XII Organic Compounds Containing Nitrogen",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Organic Compounds Containing Nitrogen",
+            "description": "Amines and diazonium salts."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U14",
+          "code": "CHE.C12.U14",
+          "data": {
+            "title": "Class XII Biomolecules",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Biomolecules",
+            "description": "Carbohydrates, proteins and enzymes, and nucleic acids and vitamins."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U15",
+          "code": "CHE.C12.U15",
+          "data": {
+            "title": "Class XII Polymers",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Polymers",
+            "description": "The classes and preparation of polymers."
+          }
+        },
+        {
+          "key": "isc:CHE.C12.U16",
+          "code": "CHE.C12.U16",
+          "data": {
+            "title": "Class XII Chemistry in Everyday Life",
+            "subject": "Chemistry (XI–XII)",
+            "class": "XII",
+            "strand": "Chemistry in Everyday Life",
+            "description": "Chemistry in everyday life — drugs, food and cleansing agents."
+          }
+        },
+        {
+          "key": "isc:BIO.C11.U1",
+          "code": "BIO.C11.U1",
+          "data": {
+            "title": "Class XI Diversity of Living Organisms",
+            "subject": "Biology (XI–XII)",
+            "class": "XI",
+            "strand": "Diversity of Living Organisms",
+            "description": "The five kingdom classification, systematics and binomial nomenclature, and the major groups of plants and animals."
+          }
+        },
+        {
+          "key": "isc:BIO.C11.U2",
+          "code": "BIO.C11.U2",
+          "data": {
+            "title": "Class XI Structural Organisation in Plants and Animals",
+            "subject": "Biology (XI–XII)",
+            "class": "XI",
+            "strand": "Structural Organisation in Plants and Animals",
+            "description": "The morphology and anatomy of flowering plants, and the tissues and body organisation of animals."
+          }
+        },
+        {
+          "key": "isc:BIO.C11.U3",
+          "code": "BIO.C11.U3",
+          "data": {
+            "title": "Class XI Cell: Structure and Function",
+            "subject": "Biology (XI–XII)",
+            "class": "XI",
+            "strand": "Cell: Structure and Function",
+            "description": "Cell organelles, the cell cycle and division, biomolecules, and enzymes."
+          }
+        },
+        {
+          "key": "isc:BIO.C11.U4",
+          "code": "BIO.C11.U4",
+          "data": {
+            "title": "Class XI Plant Physiology",
+            "subject": "Biology (XI–XII)",
+            "class": "XI",
+            "strand": "Plant Physiology",
+            "description": "Transport and mineral nutrition, transpiration, photosynthesis, respiration and plant growth regulators."
+          }
+        },
+        {
+          "key": "isc:BIO.C11.U5",
+          "code": "BIO.C11.U5",
+          "data": {
+            "title": "Class XI Human Physiology",
+            "subject": "Biology (XI–XII)",
+            "class": "XI",
+            "strand": "Human Physiology",
+            "description": "Digestion, breathing, circulation, excretion, locomotion, and neural and endocrine coordination."
+          }
+        },
+        {
+          "key": "isc:BIO.C12.U1",
+          "code": "BIO.C12.U1",
+          "data": {
+            "title": "Class XII Reproduction",
+            "subject": "Biology (XI–XII)",
+            "class": "XII",
+            "strand": "Reproduction",
+            "description": "Reproduction in flowering plants, human reproduction and the menstrual cycle, and reproductive health."
+          }
+        },
+        {
+          "key": "isc:BIO.C12.U2",
+          "code": "BIO.C12.U2",
+          "data": {
+            "title": "Class XII Genetics and Evolution",
+            "subject": "Biology (XI–XII)",
+            "class": "XII",
+            "strand": "Genetics and Evolution",
+            "description": "Mendelian inheritance and its deviations, linkage, sex-linked inheritance, the molecular basis of inheritance, and evolution."
+          }
+        },
+        {
+          "key": "isc:BIO.C12.U3",
+          "code": "BIO.C12.U3",
+          "data": {
+            "title": "Class XII Biology and Human Welfare",
+            "subject": "Biology (XI–XII)",
+            "class": "XII",
+            "strand": "Biology and Human Welfare",
+            "description": "Immunity and disease, microbes and welfare, and animal husbandry and plant breeding."
+          }
+        },
+        {
+          "key": "isc:BIO.C12.U4",
+          "code": "BIO.C12.U4",
+          "data": {
+            "title": "Class XII Biotechnology",
+            "subject": "Biology (XI–XII)",
+            "class": "XII",
+            "strand": "Biotechnology",
+            "description": "Recombinant DNA technology and genetically modified organisms."
+          }
+        },
+        {
+          "key": "isc:BIO.C12.U5",
+          "code": "BIO.C12.U5",
+          "data": {
+            "title": "Class XII Ecology and Environment",
+            "subject": "Biology (XI–XII)",
+            "class": "XII",
+            "strand": "Ecology and Environment",
+            "description": "Ecosystems and energy flow, populations and communities, and biodiversity conservation."
           }
         }
       ]

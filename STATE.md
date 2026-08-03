@@ -5,7 +5,7 @@ Last updated 2026-08-01.
 
 ## Where things stand
 
-2,680 topics · 4,674 edges · 4,486 standards · 375 clusters · **17 curriculum
+2,680 topics · 4,674 edges · 4,526 standards · 375 clusters · **17 curriculum
 sources** · **29 subjects** · ages **0–18**. `node scripts/validate.mjs` green.
 All build scripts idempotent (re-run adds zero). Only two topics now sit outside
 the main graph component (the Kannada and Dance singletons); the Visual Arts and
