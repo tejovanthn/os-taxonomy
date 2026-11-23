@@ -19,7 +19,7 @@
     "ncert-elementary-learning-outcomes-2017",
     "cbse-ctai-2026"
   ],
-  "curriculumCount": 22,
+  "curriculumCount": 23,
   "curricula": [
     {
       "slug": "acara-v9",
@@ -69424,6 +69424,858 @@
             "level": "A",
             "lesson": "Lesson 6: Word Processing",
             "description": "What is word processing programme, opening and closing word processing programme, typing text, making corrections in typed text, formatting the text, saving text as file or document, closing the document, opening already existing files."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nios-obe-b",
+      "country": "IN",
+      "name": "NIOS Open Basic Education (Adult) — Level 'B'",
+      "version": "English course curriculum PDF, file dated 12 April 2017; courses B-102, B-103 and B-104",
+      "sourceUrl": "https://nios.ac.in/media/documents/Bleveleng.pdf",
+      "textIncluded": true,
+      "license": "NIOS Copyright Statement: free reproduction if accurate, not misleading, and the source is prominently acknowledged. Not relicensed under ODbL. See PROVENANCE.md.",
+      "topicCount": 70,
+      "topics": [
+        {
+          "key": "nios-obe-b:B102.L1.1",
+          "code": "B102.L1.1",
+          "data": {
+            "title": "Significance of India’s composite culture and necessity for its protection",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 1: Conservation and Respect of Indian Cultural & Natural Heritage",
+            "description": "Significance of India’s composite culture and necessity for its protection"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L1.2",
+          "code": "B102.L1.2",
+          "data": {
+            "title": "Historical heritage, its importance and conservation",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 1: Conservation and Respect of Indian Cultural & Natural Heritage",
+            "description": "Historical heritage, its importance and conservation"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L1.3",
+          "code": "B102.L1.3",
+          "data": {
+            "title": "Natural resources of India- forest, flora & fauna, water resources, and mineral resources-their importance and conservation",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 1: Conservation and Respect of Indian Cultural & Natural Heritage",
+            "description": "Natural resources of India- forest, flora & fauna, water resources, and mineral resources-their importance and conservation"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L2.1",
+          "code": "B102.L2.1",
+          "data": {
+            "title": "Linguistic, cultural and social diversity in India",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 2: Peace, Unity and cultural amalgamation in Indian Society",
+            "description": "Linguistic, cultural and social diversity in India"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L2.2",
+          "code": "B102.L2.2",
+          "data": {
+            "title": "Threads of unity amidst diversity",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 2: Peace, Unity and cultural amalgamation in Indian Society",
+            "description": "Threads of unity amidst diversity"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L2.3",
+          "code": "B102.L2.3",
+          "data": {
+            "title": "Importance of peace and unity and our responsibility",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 2: Peace, Unity and cultural amalgamation in Indian Society",
+            "description": "Importance of peace and unity and our responsibility"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L2.4",
+          "code": "B102.L2.4",
+          "data": {
+            "title": "Peace, unity and goodwill policies initiated by emperors Asoka and Akbar",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 2: Peace, Unity and cultural amalgamation in Indian Society",
+            "description": "Peace, unity and goodwill policies initiated by emperors Asoka and Akbar"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L3.1",
+          "code": "B102.L3.1",
+          "data": {
+            "title": "Concept and importance of small family (family planning)-Our Responsibility",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 3: Our Social Concerns",
+            "description": "Concept and importance of small family (family planning)-Our Responsibility"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L3.2",
+          "code": "B102.L3.2",
+          "data": {
+            "title": "Importance of education, female child education-Our Responsibility",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 3: Our Social Concerns",
+            "description": "Importance of education, female child education-Our Responsibility"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L3.3",
+          "code": "B102.L3.3",
+          "data": {
+            "title": "Necessity of gender equality, reasons for inequality, laws for women rights and empowerment",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 3: Our Social Concerns",
+            "description": "Necessity of gender equality, reasons for inequality, laws for women rights and empowerment"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L3.4",
+          "code": "B102.L3.4",
+          "data": {
+            "title": "Dowry- its Reasons, ill effects of this malpractice, Dowry prohibition act-1961, Stri dhan , Provisions for punishment under dowry prohibition law",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 3: Our Social Concerns",
+            "description": "Dowry- its Reasons, ill effects of this malpractice, Dowry prohibition act-1961, Stri dhan , Provisions for punishment under dowry prohibition law"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L4.1",
+          "code": "B102.L4.1",
+          "data": {
+            "title": "Establishment of British rule in India and the era of slavery",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 4: Our Freedom Struggle",
+            "description": "Establishment of British rule in India and the era of slavery"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L4.2",
+          "code": "B102.L4.2",
+          "data": {
+            "title": "Freedom movement, important revolutionaries- their struggle and attainment of freedom",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 4: Our Freedom Struggle",
+            "description": "Freedom movement, important revolutionaries- their struggle and attainment of freedom"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L5.1",
+          "code": "B102.L5.1",
+          "data": {
+            "title": "States and Union territories of India.",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 5: States of India and their Natural Features",
+            "description": "States and Union territories of India."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L5.2",
+          "code": "B102.L5.2",
+          "data": {
+            "title": "India’s position on the World map, Its natural features and resources",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 5: States of India and their Natural Features",
+            "description": "India’s position on the World map, Its natural features and resources"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L5.3",
+          "code": "B102.L5.3",
+          "data": {
+            "title": "Various crops and plants of India",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 5: States of India and their Natural Features",
+            "description": "Various crops and plants of India"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L6.1",
+          "code": "B102.L6.1",
+          "data": {
+            "title": "Indian Democracy and mode of Governance- Legislative, Executive and Judiciary",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 6: Our Community and Public Administration",
+            "description": "Indian Democracy and mode of Governance- Legislative, Executive and Judiciary"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L6.2",
+          "code": "B102.L6.2",
+          "data": {
+            "title": "Rural Public Administration- Village Panchayat, Area Panchayat, District Panchayat, Constitution of these Panchayat-Function & Tenure",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 6: Our Community and Public Administration",
+            "description": "Rural Public Administration- Village Panchayat, Area Panchayat, District Panchayat, Constitution of these Panchayat-Function & Tenure"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L6.3",
+          "code": "B102.L6.3",
+          "data": {
+            "title": "Urban Public Administration- City Administration, Municipal Council, Municipal Commission- Their Constitution, Function and Tenure",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 6: Our Community and Public Administration",
+            "description": "Urban Public Administration- City Administration, Municipal Council, Municipal Commission- Their Constitution, Function and Tenure"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L7.1",
+          "code": "B102.L7.1",
+          "data": {
+            "title": "Interdependency between Plants and Animals & Food Chain",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 7: Plant and Animal Life",
+            "description": "Interdependency between Plants and Animals & Food Chain"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L7.2",
+          "code": "B102.L7.2",
+          "data": {
+            "title": "Importance of Natural equilibrium, ill effects of imbalance in Nature",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 7: Plant and Animal Life",
+            "description": "Importance of Natural equilibrium, ill effects of imbalance in Nature"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L7.3",
+          "code": "B102.L7.3",
+          "data": {
+            "title": "Conservation of Environment, Forests and Wild Animals",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 7: Plant and Animal Life",
+            "description": "Conservation of Environment, Forests and Wild Animals"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L8.1",
+          "code": "B102.L8.1",
+          "data": {
+            "title": "Significance of Soil, types of soil and different types of crops cultivated in them",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 8: Soil and Crops",
+            "description": "Significance of Soil, types of soil and different types of crops cultivated in them"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L8.2",
+          "code": "B102.L8.2",
+          "data": {
+            "title": "Important agricultural activities for cultivation of crops- Preparing the land, Sowing, seed protection, weeding, irrigation, manures & fertilizers, crop protection, harvest",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 8: Soil and Crops",
+            "description": "Important agricultural activities for cultivation of crops- Preparing the land, Sowing, seed protection, weeding, irrigation, manures & fertilizers, crop protection, harvest"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L8.3",
+          "code": "B102.L8.3",
+          "data": {
+            "title": "Crops cultivated according to particular seasons- Rabi, Kharif,& jayad",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 8: Soil and Crops",
+            "description": "Crops cultivated according to particular seasons- Rabi, Kharif,& jayad"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L9.1",
+          "code": "B102.L9.1",
+          "data": {
+            "title": "Soil erosion and its ill effects, Reasons of Erosion and Preventive measures",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 9: Soil & Forest Conservation",
+            "description": "Soil erosion and its ill effects, Reasons of Erosion and Preventive measures"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L9.2",
+          "code": "B102.L9.2",
+          "data": {
+            "title": "Role of Forest Conservation in preventing Soil Erosion",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 9: Soil & Forest Conservation",
+            "description": "Role of Forest Conservation in preventing Soil Erosion"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L9.3",
+          "code": "B102.L9.3",
+          "data": {
+            "title": "Ill effects of Soil Pollution- Reasons, Preventive measures especially with regard to Bio-agriculture.",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 9: Soil & Forest Conservation",
+            "description": "Ill effects of Soil Pollution- Reasons, Preventive measures especially with regard to Bio-agriculture."
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L10.1",
+          "code": "B102.L10.1",
+          "data": {
+            "title": "Need and Importance of Energy",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 10: Sources of Energy and their Significance",
+            "description": "Need and Importance of Energy"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L10.2",
+          "code": "B102.L10.2",
+          "data": {
+            "title": "Sources of Energy- Exhaustible & non-Exhaustible",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 10: Sources of Energy and their Significance",
+            "description": "Sources of Energy- Exhaustible & non-Exhaustible"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L10.3",
+          "code": "B102.L10.3",
+          "data": {
+            "title": "Types of Energy- Energy from Food, Solar Energy, Wind Energy, Water Energy, Bio-Energy, Electrical Energy, and Magnetic Energy",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 10: Sources of Energy and their Significance",
+            "description": "Types of Energy- Energy from Food, Solar Energy, Wind Energy, Water Energy, Bio-Energy, Electrical Energy, and Magnetic Energy"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L10.4",
+          "code": "B102.L10.4",
+          "data": {
+            "title": "Use of alternative sources of Energy and measures for saving Energy",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 10: Sources of Energy and their Significance",
+            "description": "Use of alternative sources of Energy and measures for saving Energy"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L11.1",
+          "code": "B102.L11.1",
+          "data": {
+            "title": "Solar System, Planet and Satellites and their qualities",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 11: Solar System & the Earth",
+            "description": "Solar System, Planet and Satellites and their qualities"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L11.2",
+          "code": "B102.L11.2",
+          "data": {
+            "title": "Phases of the Moon & cycle of dates in accordance",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 11: Solar System & the Earth",
+            "description": "Phases of the Moon & cycle of dates in accordance"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L11.3",
+          "code": "B102.L11.3",
+          "data": {
+            "title": "Differences between Natural & Artificial Satellites, Significance & utility of artificial Satellites",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 11: Solar System & the Earth",
+            "description": "Differences between Natural & Artificial Satellites, Significance & utility of artificial Satellites"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L11.4",
+          "code": "B102.L11.4",
+          "data": {
+            "title": "Introduction to Earth- Lines of Longitude & Latitude, Knowledge of Time on the basis of Latitude",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 11: Solar System & the Earth",
+            "description": "Introduction to Earth- Lines of Longitude & Latitude, Knowledge of Time on the basis of Latitude"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L11.5",
+          "code": "B102.L11.5",
+          "data": {
+            "title": "Expansion and Contraction of time in Day-Night cycle, Positions of 21 June, 22 December, 21 March & 23 September",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 11: Solar System & the Earth",
+            "description": "Expansion and Contraction of time in Day-Night cycle, Positions of 21 June, 22 December, 21 March & 23 September"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L12.1",
+          "code": "B102.L12.1",
+          "data": {
+            "title": "Deficiency diseases-Diagnosis & Prevention- Anemia, Kwashiorkor, Marasmus, Night Blindness, Goiter, Mental slowness/slow mental development, and Beriberi",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 12: Food & Health",
+            "description": "Deficiency diseases-Diagnosis & Prevention- Anemia, Kwashiorkor, Marasmus, Night Blindness, Goiter, Mental slowness/slow mental development, and Beriberi"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L12.2",
+          "code": "B102.L12.2",
+          "data": {
+            "title": "Inexpensive Nutritious Food, Conditions in which food intake should be carefully monitored",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 12: Food & Health",
+            "description": "Inexpensive Nutritious Food, Conditions in which food intake should be carefully monitored"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L12.3",
+          "code": "B102.L12.3",
+          "data": {
+            "title": "Storage of Food Items- Drying & cooling, with spices and oil, with chemicals, by cooking, freezing, staking in boxes",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 12: Food & Health",
+            "description": "Storage of Food Items- Drying & cooling, with spices and oil, with chemicals, by cooking, freezing, staking in boxes"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.1",
+          "code": "B102.L13.1",
+          "data": {
+            "title": "Knowledge of Internal Organs of Human Body & their Importance",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Knowledge of Internal Organs of Human Body & their Importance"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.2",
+          "code": "B102.L13.2",
+          "data": {
+            "title": "Main parts of Skeleton and their functions, Types & Functions of Muscles",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Main parts of Skeleton and their functions, Types & Functions of Muscles"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.3",
+          "code": "B102.L13.3",
+          "data": {
+            "title": "Digestive System- Mouth, Food Pipe, Stomach, Small intestine, Large intestine, Rectum, & Liver and their functions",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Digestive System- Mouth, Food Pipe, Stomach, Small intestine, Large intestine, Rectum, & Liver and their functions"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.4",
+          "code": "B102.L13.4",
+          "data": {
+            "title": "Structure, Functions and Significance of the Lungs",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Structure, Functions and Significance of the Lungs"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.5",
+          "code": "B102.L13.5",
+          "data": {
+            "title": "Structure, Functions and Significance of the Heart",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Structure, Functions and Significance of the Heart"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.6",
+          "code": "B102.L13.6",
+          "data": {
+            "title": "Structure, Functions and Significance of the Kidneys",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Structure, Functions and Significance of the Kidneys"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.7",
+          "code": "B102.L13.7",
+          "data": {
+            "title": "Structure, Functions and Significance of the Brain",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Structure, Functions and Significance of the Brain"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L13.8",
+          "code": "B102.L13.8",
+          "data": {
+            "title": "Structure, Functions and Significance of the Reproductive Organs in Human Male & Female",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 13: Internal Organs of Human Body",
+            "description": "Structure, Functions and Significance of the Reproductive Organs in Human Male & Female"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L14.1",
+          "code": "B102.L14.1",
+          "data": {
+            "title": "Contagious and Non-Contagious Diseases",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 14: Common Diseases- Their Reasons, Preventive measures & Safety",
+            "description": "Contagious and Non-Contagious Diseases"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L14.2",
+          "code": "B102.L14.2",
+          "data": {
+            "title": "Main Contagious / Communicable Diseases- Symptoms, Reasons and Preventive Measures- Diarrhoea, Malaria, Cholera, Dengue, Elephantiasis, Typhoid, Tuberculosis (T.B.), Common cold, Influenza, Pneumonia, HIV-AIDS",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 14: Common Diseases- Their Reasons, Preventive measures & Safety",
+            "description": "Main Contagious / Communicable Diseases- Symptoms, Reasons and Preventive Measures- Diarrhoea, Malaria, Cholera, Dengue, Elephantiasis, Typhoid, Tuberculosis (T.B.), Common cold, Influenza, Pneumonia, HIV-AIDS"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L14.3",
+          "code": "B102.L14.3",
+          "data": {
+            "title": "Some Non-Contagious/Non-Communicable Diseases-Symptoms, Reasons and Prevention- Heart Attack, Diabetes, Cancer",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 14: Common Diseases- Their Reasons, Preventive measures & Safety",
+            "description": "Some Non-Contagious/Non-Communicable Diseases-Symptoms, Reasons and Prevention- Heart Attack, Diabetes, Cancer"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L14.4",
+          "code": "B102.L14.4",
+          "data": {
+            "title": "Main Preventive measures for warding off Diseases- Hygiene, being careful while handling patients suffering from communicable diseases, vaccination, not indulging in tobacco, alcohol and drugs",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 14: Common Diseases- Their Reasons, Preventive measures & Safety",
+            "description": "Main Preventive measures for warding off Diseases- Hygiene, being careful while handling patients suffering from communicable diseases, vaccination, not indulging in tobacco, alcohol and drugs"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L15.1",
+          "code": "B102.L15.1",
+          "data": {
+            "title": "Categories of Waste materials",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 15: Disposal of Waste Material",
+            "description": "Categories of Waste materials"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L15.2",
+          "code": "B102.L15.2",
+          "data": {
+            "title": "Disposal of waste material on the basis of their nature and characteristics, different waste basket for bio-degradable and non-bio-degradable waste",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 15: Disposal of Waste Material",
+            "description": "Disposal of waste material on the basis of their nature and characteristics, different waste basket for bio-degradable and non-bio-degradable waste"
+          }
+        },
+        {
+          "key": "nios-obe-b:B102.L15.3",
+          "code": "B102.L15.3",
+          "data": {
+            "title": "Clean Environment-Our Responsibility",
+            "course": "Environmental Studies",
+            "courseCode": "B-102",
+            "level": "B",
+            "lesson": "Lesson 15: Disposal of Waste Material",
+            "description": "Clean Environment-Our Responsibility"
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L1",
+          "code": "B103.L1",
+          "data": {
+            "title": "Numbers",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "level": "B",
+            "lesson": "Lesson 1: Numbers",
+            "description": "Reading, and writing numbers from 1001 (one thousand one) till 1, 00, 00,000 (one crore) in figure and words. Learning the value of each digit based on its place in a given number, expanded form of numbers, comparing numbers, writing numbers in ascending order and descending order, and making smallest possible and biggest possible number (in terms of value) from the given digits."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L2",
+          "code": "B103.L2",
+          "data": {
+            "title": "Addition, Subtraction, Multiplication & Division",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "level": "B",
+            "lesson": "Lesson 2: Addition, Subtraction, Multiplication & Division",
+            "description": "Adding and subtracting numbers, doing multiplication and division with numbers having up to three digits. Practicing multiplication and division. Solving everyday problems by using basic processes of addition, subtraction, multiplication, and division."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L3",
+          "code": "B103.L3",
+          "data": {
+            "title": "Fractions",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "level": "B",
+            "lesson": "Lesson 3: Fractions",
+            "description": "To know about fraction and to read, write and understand fractions, to understand fractions through pictures, to make fractions in comparison to the given fraction, to represent fractions in their lowest denomination, comparing fractions, understanding and writing fractions in ascending order and descending order, to distinguish mixed fraction from unequal fraction and converting them into each other, to do addition, subtraction, multiplication and division of fractions and to solve everyday problems comprising fractions by using the acquired knowledge."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L4",
+          "code": "B103.L4",
+          "data": {
+            "title": "Decimal",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "level": "B",
+            "lesson": "Lesson 4: Decimal",
+            "description": "Concept of Decimal, expressing fractions consisting of 10, 100, 1000 etc. as decimal, converting decimals into fractions and vice-versa, comparing decimals and writing them in ascending and descending orders, doing addition, subtraction, multiplications and divisions with decimals, understanding 100 in decimal as percentage, converting decimals into percentage and vice versa, converting measurement given in one unit to the highest or lowest form of that unit, use of decimals in everyday life."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L5",
+          "code": "B103.L5",
+          "data": {
+            "title": "Mensuration",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "level": "B",
+            "lesson": "Lesson 5: Mensuration",
+            "description": "Uses of mensuration in everyday life, knowledge of length measurement unit, unit of measurement of weight, units for measurement of containing capacity, unit for measurement of heat, unit for measurement of time, knowledge of Indian currency, problems of addition, subtraction, multiplication & division related to units of measurement for different things, everyday problems related to mensuration."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L6",
+          "code": "B103.L6",
+          "data": {
+            "title": "Perimeter, Area, and Volume",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "level": "B",
+            "lesson": "Lesson 6: Perimeter, Area, and Volume",
+            "description": "Meaning and usages of perimeter, finding perimeter of plain surfaces, meaning and usages of area, finding area of plain surfaces, meaning and usages of volume, finding volume of solid structures."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L7",
+          "code": "B103.L7",
+          "data": {
+            "title": "Geometry",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "level": "B",
+            "lesson": "Lesson 7: Geometry",
+            "description": "Different objects around us, the meaning of similarity and to recognize similar objects around, curve line, simple/straight line, recognizing line segment and ray, recognizing different angles in different structures, recognizing angles as similar angles, greater angles and smaller angles, to draw and measure angles with help of a protractor, a circle, to draw a circle using compass and without it, understand the concepts of terms related to geometry of circle like, centre, circumference, radius, and diameter, and parallel and non-parallel lines around."
+          }
+        },
+        {
+          "key": "nios-obe-b:B103.L8",
+          "code": "B103.L8",
+          "data": {
+            "title": "Statistics (managing the data)",
+            "course": "Mathematics",
+            "courseCode": "B-103",
+            "level": "B",
+            "lesson": "Lesson 8: Statistics (managing the data)",
+            "description": "What is data, what is the need for it, ways of collecting data, managing the collected data, understanding and representing data as pictorial images, analyzing data and getting results from them."
+          }
+        },
+        {
+          "key": "nios-obe-b:B104.L1",
+          "code": "B104.L1",
+          "data": {
+            "title": "Revision",
+            "course": "Basic Computer Skills",
+            "courseCode": "B-104",
+            "level": "B",
+            "lesson": "Lesson 1: Revision",
+            "description": "What is computer & what are its usages, different parts of computer and their functioning, what are operating systems & their functioning, making documents, letters, applications with aid of a computer and sending them."
+          }
+        },
+        {
+          "key": "nios-obe-b:B104.L2",
+          "code": "B104.L2",
+          "data": {
+            "title": "Word Processing: Specialties",
+            "course": "Basic Computer Skills",
+            "courseCode": "B-104",
+            "level": "B",
+            "lesson": "Lesson 2: Word Processing: Specialties",
+            "description": "What is word processor and what are its usages, making a table using word processor and filling the data in the table, changing the typing fonts& making documents in Hindi and other languages, sending the document to many people personally."
+          }
+        },
+        {
+          "key": "nios-obe-b:B104.L3",
+          "code": "B104.L3",
+          "data": {
+            "title": "Spread Sheet",
+            "course": "Basic Computer Skills",
+            "courseCode": "B-104",
+            "level": "B",
+            "lesson": "Lesson 3: Spread Sheet",
+            "description": "What is Spread Sheet and how it is used? Making spread sheet, different parts of spread sheet, mathematical formulae and equations available on spread sheet and using them, filling data in spread sheet and making corrections."
+          }
+        },
+        {
+          "key": "nios-obe-b:B104.L4",
+          "code": "B104.L4",
+          "data": {
+            "title": "Presentation",
+            "course": "Basic Computer Skills",
+            "courseCode": "B-104",
+            "level": "B",
+            "lesson": "Lesson 4: Presentation",
+            "description": "What is presentation? For what is it used and how? Ways of making presentations, presenting after making a presentation, inserting picture, graph and text in the presentation, formatting the presentation, adding, correcting, changing material in presentation, sequencing the presentation properly."
+          }
+        },
+        {
+          "key": "nios-obe-b:B104.L5",
+          "code": "B104.L5",
+          "data": {
+            "title": "Internet and Its Benefits",
+            "course": "Basic Computer Skills",
+            "courseCode": "B-104",
+            "level": "B",
+            "lesson": "Lesson 5: Internet and Its Benefits",
+            "description": "What is internet? History and benefits of internet, practical usages of internet, connecting with the internet, world wide web (www), website & webpage, opening the websites, collecting information from websites, reading online newspapers"
+          }
+        },
+        {
+          "key": "nios-obe-b:B104.L6",
+          "code": "B104.L6",
+          "data": {
+            "title": "Computer Security",
+            "course": "Basic Computer Skills",
+            "courseCode": "B-104",
+            "level": "B",
+            "lesson": "Lesson 6: Computer Security",
+            "description": "Need for Computer and Internet security, available ways of protection, rules for making and keeping password securely, what is computer virus? Dangers of virus and ways of protection from virus"
+          }
+        },
+        {
+          "key": "nios-obe-b:B104.L7",
+          "code": "B104.L7",
+          "data": {
+            "title": "E-Mail",
+            "course": "Basic Computer Skills",
+            "courseCode": "B-104",
+            "level": "B",
+            "lesson": "Lesson 7: E-Mail",
+            "description": "What is E-mail? Address of email or E-mail address, functioning of E-mail, difference between general post/mail and E-mail, benefits of E-mail, E-mail account, address book, and sending E-mail message, file attachment."
           }
         }
       ]

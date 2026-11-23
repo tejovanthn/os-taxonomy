@@ -6,6 +6,8 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 ## [Unreleased]
 
+- Add NIOS Open Basic Education (Adult) Level 'B' (`nios-obe-b`, India) as a standards-only source: 70 records with source wording (55 Environmental Studies, 8 Mathematics, 7 Basic Computer Skills). The NIOS extractor now covers both levels. No topics, alignments or prerequisite edges are changed.
+
 - Add NIOS Open Basic Education (Adult) Level 'A' (`nios-obe-a`, India) as a standards-only source: 49 records with source wording (36 Environmental Study, 7 Mathematics, 6 Basic Computer Skills), a reproducible extractor and a test. No topics, alignments or prerequisite edges are changed.
 
 - Publish 3,733 scoped alignment contexts: 571 global, 50 framework and 3,112 jurisdiction contexts, retaining exact age bands and all 7,048 existing known topic–standard pairs. Add 14 reviewed primary associations on six existing English topics (7,062 total), with no new topics, claim changes or prerequisite changes. Record explicit dispositions for 41 unresolved legacy occurrences and preserve 95 jurisdiction age-only contexts. Add public local artifact generation and CI; research content and original export timestamps remain unchanged. See the [baseline decisions and limits](reports/scoped-alignment-baseline-2026-11-04.md). No live DB or authority cutover is implied.

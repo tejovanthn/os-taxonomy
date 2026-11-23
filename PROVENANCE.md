@@ -32,7 +32,12 @@ For encumbered sources we ship only the **standard code** (e.g. `1-ESS1-1`) and 
 - **We ship:** 49 records from the "Course Description" sections of [Aleveleng.pdf](https://nios.ac.in/media/documents/Aleveleng.pdf): Environmental Study A-102 (36), Mathematics A-103 (7) and Basic Computer Skills A-104 (6). Wording, including the source's own errors (for example "plouters" and "National Regular Employment"), is kept; only whitespace is normalized. Rationale, objectives, study hours and evaluation text are excluded.
 - **Codes:** generated source-position references, **not** official NIOS codes. `A102.L5.2` is course A-102, lesson 5, printed item 2. A-103 and A-104 print no items, so one record is one lesson.
 - **Scope:** an adult basic-education programme. No school grade or learner age is assigned, and no topic alignments are included.
-- **Verification:** 11-page PDF, file dated 12 April 2017, SHA-256 `4ca3178f94bb45d07cf6cbc8ce6d021d0546ef2dd40981cab480385e2f51a295`, retrieved 23 November 2026. [scripts/nios-obe-a.mjs](scripts/nios-obe-a.mjs) rebuilds every record from that file. Whether NIOS has published a later edition was not established.
+- **Verification:** 11-page PDF, file dated 12 April 2017, SHA-256 `4ca3178f94bb45d07cf6cbc8ce6d021d0546ef2dd40981cab480385e2f51a295`, retrieved 23 November 2026. [scripts/nios-obe.mjs](scripts/nios-obe.mjs) rebuilds every record from that file. Whether NIOS has published a later edition was not established.
+
+### 🟢 `nios-obe-b` — NIOS Open Basic Education (Adult), Level 'B' (India) — **full text of the course descriptions**
+- **Publisher, license, required notice, codes and scope:** as for `nios-obe-a`. The codes are generated, and no grade, age or alignment is included.
+- **We ship:** 70 records from the "Course Description" sections of [Bleveleng.pdf](https://nios.ac.in/media/documents/Bleveleng.pdf): Environmental Studies B-102 (55), Mathematics B-103 (8) and Basic Computer Skills B-104 (7). Wording, including the source's own errors, is kept; only whitespace is normalized.
+- **Verification:** 14-page PDF, file dated 12 April 2017, SHA-256 `2786d1ab2149c4d96351fe97e59cf138e4cbc48fd4ce8e580ce0c652abbd2f3a`, retrieved 23 November 2026. Rebuild with [scripts/nios-obe.mjs](scripts/nios-obe.mjs). Whether NIOS has published a later edition was not established.
 
 ### Ontario elementary documents — codes and source links only
 
