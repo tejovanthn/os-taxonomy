@@ -4,7 +4,7 @@
 //   node scripts/nios-obe.mjs b level-b.pdf          # check against the data
 //   node scripts/nios-obe.mjs b level-b.pdf --write  # then: npm run alignments:generate
 // Needs `pdftotext` (Poppler). Descriptions are the source wording; only
-// whitespace is normalized.
+// whitespace is normalized and the line-break hyphens in JOIN are closed up.
 import assert from 'node:assert/strict';
 import { createHash } from 'node:crypto';
 import { execFileSync } from 'node:child_process';
@@ -20,37 +20,49 @@ export const LEVELS = {
     file: 'Bleveleng.pdf', courses: 'B-102, B-103 and B-104',
     sha256: '2786d1ab2149c4d96351fe97e59cf138e4cbc48fd4ce8e580ce0c652abbd2f3a',
   },
+  c: {
+    file: 'Cleveleng.pdf', courses: 'C-102, C-103, C-104 and Science (no course code printed)',
+    sha256: 'd980e27444c33444c1e5469b031bfd5343103e029702f6ce16d6cfe5ea2dde8d',
+  },
 };
 const clean = text => text.replace(/\s+/g, ' ').trim();
 // Only the x-102 courses print numbered items (roman numerals in A-102 lesson 5).
 const ITEM = /^\s*(?:(\d+)|(i{1,3}))\.\s+(.*)$/;
-const isItemized = course => course.code.endsWith('-102');
+const isItemized = course => course.code?.endsWith('-102');
+// Compounds the source breaks across lines, e.g. "semi-" / "circle".
+const JOIN = /\b(?:non|semi|bio)-$/i;
 
 export function parse(text, level) {
   const records = [];
-  let course = null, lesson = null, item = null, inDescription = false;
+  let course = null, lesson = null, item = null, module = null, inDescription = false;
   for (const line of text.replace(/\f/g, '\n').split('\n')) {
     const courseMatch = line.match(/^\s*(\S.*?)\s*\(([A-C]-\d{3})\)\s*$/);
-    if (courseMatch) { course = { name: courseMatch[1], code: courseMatch[2] }; inDescription = false; lesson = item = null; continue; }
+    if (courseMatch) { course = { name: courseMatch[1], code: courseMatch[2], prefix: courseMatch[2].replace('-', '') }; inDescription = false; lesson = item = module = null; continue; }
+    // The Level 'C' Science course is headed by its name alone.
+    if (level === 'c' && !inDescription && /^\s*Science\s*$/.test(line)) { course = { name: 'Science', prefix: 'CSCI' }; lesson = item = module = null; continue; }
     if (/^\s*\d\.\s*Course Description/.test(line)) { inDescription = true; continue; }
     if (/^\s*\d\.\s*Scheme of stud/i.test(line)) { inDescription = false; continue; }
     if (!course || !inDescription || !line.trim()) continue;
+    const moduleMatch = line.match(/^\s*Module\s*-?\s*(\d+):\s*(.*)$/);
+    if (moduleMatch) { module = `Module ${moduleMatch[1]}: ${clean(moduleMatch[2])}`; lesson = item = null; continue; }
+    if (module && /^\s*Time\b.*\bMarks\b/.test(line)) continue;
     const lessonMatch = line.match(/^\s*Lesson\s*-\s*(\d+):\s*(.*)$/);
     if (lessonMatch) { lesson = { number: Number(lessonMatch[1]), title: clean(lessonMatch[2]) }; item = null; continue; }
+    if (!lesson && level === 'c' && course.code === 'C-104') continue; // introductory sentence
     assert(lesson, `text outside a lesson: ${line}`);
     const itemMatch = isItemized(course) && line.match(ITEM);
     if (itemMatch || !item) {
       assert(itemMatch || !isItemized(course), `unnumbered ${course.code} text: ${line}`);
       const number = itemMatch ? Number(itemMatch[1] ?? itemMatch[2].length) : null;
       if (number) assert.equal(number, (item?.number ?? 0) + 1, `item out of order: ${line}`);
-      const base = `${course.code.replace('-', '')}.L${lesson.number}`;
+      const base = `${course.prefix}.L${lesson.number}`;
       item = {
         number, code: number ? `${base}.${number}` : base,
-        data: { title: '', course: course.name, courseCode: course.code, level: level.toUpperCase(), lesson: `Lesson ${lesson.number}: ${lesson.title}`, description: itemMatch ? itemMatch[3] : line },
+        data: { title: '', course: course.name, ...(course.code && { courseCode: course.code }), level: level.toUpperCase(), ...(module && { module }), lesson: `Lesson ${lesson.number}: ${lesson.title}`, description: itemMatch ? itemMatch[3] : line },
       };
       records.push(item);
     } else {
-      item.data.description += ' ' + line;
+      item.data.description += (JOIN.test(item.data.description) ? '' : ' ') + line.trim();
     }
     item.data.description = clean(item.data.description);
   }

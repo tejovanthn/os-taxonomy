@@ -6,6 +6,8 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 ## [Unreleased]
 
+- Add NIOS Open Basic Education (Adult) Level 'C' (`nios-obe-c`, India) as a standards-only source: 109 records with source wording (60 Social Science, 20 Mathematics, 9 Basic Computer Skills, 20 Science). The NIOS extractor now covers three levels. No topics, alignments or prerequisite edges are changed.
+
 - Add NIOS Open Basic Education (Adult) Level 'B' (`nios-obe-b`, India) as a standards-only source: 70 records with source wording (55 Environmental Studies, 8 Mathematics, 7 Basic Computer Skills). The NIOS extractor now covers both levels. No topics, alignments or prerequisite edges are changed.
 
 - Add NIOS Open Basic Education (Adult) Level 'A' (`nios-obe-a`, India) as a standards-only source: 49 records with source wording (36 Environmental Study, 7 Mathematics, 6 Basic Computer Skills), a reproducible extractor and a test. No topics, alignments or prerequisite edges are changed.

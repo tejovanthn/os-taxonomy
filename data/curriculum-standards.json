@@ -19,7 +19,7 @@
     "ncert-elementary-learning-outcomes-2017",
     "cbse-ctai-2026"
   ],
-  "curriculumCount": 23,
+  "curriculumCount": 24,
   "curricula": [
     {
       "slug": "acara-v9",
@@ -70276,6 +70276,1346 @@
             "level": "B",
             "lesson": "Lesson 7: E-Mail",
             "description": "What is E-mail? Address of email or E-mail address, functioning of E-mail, difference between general post/mail and E-mail, benefits of E-mail, E-mail account, address book, and sending E-mail message, file attachment."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nios-obe-c",
+      "country": "IN",
+      "name": "NIOS Open Basic Education (Adult) — Level 'C'",
+      "version": "English course curriculum PDF, file dated 12 April 2017; courses C-102, C-103, C-104 and Science (no course code printed)",
+      "sourceUrl": "https://nios.ac.in/media/documents/Cleveleng.pdf",
+      "textIncluded": true,
+      "license": "NIOS Copyright Statement: free reproduction if accurate, not misleading, and the source is prominently acknowledged. Not relicensed under ODbL. See PROVENANCE.md.",
+      "topicCount": 109,
+      "topics": [
+        {
+          "key": "nios-obe-c:C102.L1.1",
+          "code": "C102.L1.1",
+          "data": {
+            "title": "Ancient Human-Society and Life",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 1: Evolution of Human Civilization",
+            "description": "Ancient Human-Society and Life"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L1.2",
+          "code": "C102.L1.2",
+          "data": {
+            "title": "Social, Economical, Political and Religious Faiths and Beliefs",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 1: Evolution of Human Civilization",
+            "description": "Social, Economical, Political and Religious Faiths and Beliefs"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L1.3",
+          "code": "C102.L1.3",
+          "data": {
+            "title": "Indus Valley Civilization",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 1: Evolution of Human Civilization",
+            "description": "Indus Valley Civilization"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L1.4",
+          "code": "C102.L1.4",
+          "data": {
+            "title": "Evolution of Urban Life",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 1: Evolution of Human Civilization",
+            "description": "Evolution of Urban Life"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L1.5",
+          "code": "C102.L1.5",
+          "data": {
+            "title": "Evolution of Agriculture, Mixed Agriculture",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 1: Evolution of Human Civilization",
+            "description": "Evolution of Agriculture, Mixed Agriculture"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L2.1",
+          "code": "C102.L2.1",
+          "data": {
+            "title": "The Vedas",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 2: The Vedic Civilization",
+            "description": "The Vedas"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L2.2",
+          "code": "C102.L2.2",
+          "data": {
+            "title": "The Social, Economic and Political systems in Vedic Age",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 2: The Vedic Civilization",
+            "description": "The Social, Economic and Political systems in Vedic Age"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L2.3",
+          "code": "C102.L2.3",
+          "data": {
+            "title": "Vedic Civilization during the Ramayana and Mahabharata Period",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 2: The Vedic Civilization",
+            "description": "Vedic Civilization during the Ramayana and Mahabharata Period"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L3.1",
+          "code": "C102.L3.1",
+          "data": {
+            "title": "The Nanda Dynasty- Janapada and Mahajanapada- Social, Economic and Political Systems",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 3: Life during Post Vedic Age",
+            "description": "The Nanda Dynasty- Janapada and Mahajanapada- Social, Economic and Political Systems"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L3.2",
+          "code": "C102.L3.2",
+          "data": {
+            "title": "The Maurya Empire",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 3: Life during Post Vedic Age",
+            "description": "The Maurya Empire"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L4.1",
+          "code": "C102.L4.1",
+          "data": {
+            "title": "Post Mauryan Social, Economic and Political Systems- Gupta Dynasty, Kanishka",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 4: Advent of the Medieval Age",
+            "description": "Post Mauryan Social, Economic and Political Systems- Gupta Dynasty, Kanishka"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L4.2",
+          "code": "C102.L4.2",
+          "data": {
+            "title": "Last Ancient King-Harshavardhana",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 4: Advent of the Medieval Age",
+            "description": "Last Ancient King-Harshavardhana"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L4.3",
+          "code": "C102.L4.3",
+          "data": {
+            "title": "Kingdoms in the South of India-Subcontinent-Chola, Chera and Pandya",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 4: Advent of the Medieval Age",
+            "description": "Kingdoms in the South of India-Subcontinent-Chola, Chera and Pandya"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L5.1",
+          "code": "C102.L5.1",
+          "data": {
+            "title": "Arrival of Arabs and beginning of Islam in India",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 5: Delhi Sultanate",
+            "description": "Arrival of Arabs and beginning of Islam in India"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L5.2",
+          "code": "C102.L5.2",
+          "data": {
+            "title": "Delhi Sultanate- Establishment of the Slave Dynasty, Economic reforms- Agriculture, Market system, Developmental schemes, Art and Culture",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 5: Delhi Sultanate",
+            "description": "Delhi Sultanate- Establishment of the Slave Dynasty, Economic reforms- Agriculture, Market system, Developmental schemes, Art and Culture"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L6.1",
+          "code": "C102.L6.1",
+          "data": {
+            "title": "Arrival of the Mughals and establishment of the Mughal Empire",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 6: The Mughals, the Marathas and the Rajputs",
+            "description": "Arrival of the Mughals and establishment of the Mughal Empire"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L6.2",
+          "code": "C102.L6.2",
+          "data": {
+            "title": "Political, Social, Economic, and Cultural achievements of the Mughal Empire",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 6: The Mughals, the Marathas and the Rajputs",
+            "description": "Political, Social, Economic, and Cultural achievements of the Mughal Empire"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L6.3",
+          "code": "C102.L6.3",
+          "data": {
+            "title": "The Maratha Empire, Relations between the Mughals and the Marathas",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 6: The Mughals, the Marathas and the Rajputs",
+            "description": "The Maratha Empire, Relations between the Mughals and the Marathas"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L6.4",
+          "code": "C102.L6.4",
+          "data": {
+            "title": "The History of the Rajputs-Relations between the Rajputs and the Mughals",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 6: The Mughals, the Marathas and the Rajputs",
+            "description": "The History of the Rajputs-Relations between the Rajputs and the Mughals"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L7.1",
+          "code": "C102.L7.1",
+          "data": {
+            "title": "Arrival of the East India company and the British to India",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 7: The British Rule",
+            "description": "Arrival of the East India company and the British to India"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L7.2",
+          "code": "C102.L7.2",
+          "data": {
+            "title": "Expansion of the British Empire- Trade- Agriculture, development of Industries and impact on the society",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 7: The British Rule",
+            "description": "Expansion of the British Empire- Trade- Agriculture, development of Industries and impact on the society"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L7.3",
+          "code": "C102.L7.3",
+          "data": {
+            "title": "The Period of awakening during 19th Century-Impact of Social, Educational and Religious Reforms",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 7: The British Rule",
+            "description": "The Period of awakening during 19th Century-Impact of Social, Educational and Religious Reforms"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L7.4",
+          "code": "C102.L7.4",
+          "data": {
+            "title": "Changes in the Policies of the East India Company",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 7: The British Rule",
+            "description": "Changes in the Policies of the East India Company"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L7.5",
+          "code": "C102.L7.5",
+          "data": {
+            "title": "The first war of India’s Freedom-1857",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 7: The British Rule",
+            "description": "The first war of India’s Freedom-1857"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L8.1",
+          "code": "C102.L8.1",
+          "data": {
+            "title": "Impact of the changes made in the British Administration",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 8: Freedom Struggle",
+            "description": "Impact of the changes made in the British Administration"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L8.2",
+          "code": "C102.L8.2",
+          "data": {
+            "title": "Initiation of National Freedom Struggle and its Impact",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 8: Freedom Struggle",
+            "description": "Initiation of National Freedom Struggle and its Impact"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L8.3",
+          "code": "C102.L8.3",
+          "data": {
+            "title": "The Situation in Post-Independent India",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 8: Freedom Struggle",
+            "description": "The Situation in Post-Independent India"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L9.1",
+          "code": "C102.L9.1",
+          "data": {
+            "title": "Expanses of India-Physical Features",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 9: Different Physical Features on the Surface of the Earth-Our India",
+            "description": "Expanses of India-Physical Features"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L9.2",
+          "code": "C102.L9.2",
+          "data": {
+            "title": "Climate and Monsoon, Natural Resources, Types of Soil and Soil Conservation, Water Resources-Use and Conservation",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 9: Different Physical Features on the Surface of the Earth-Our India",
+            "description": "Climate and Monsoon, Natural Resources, Types of Soil and Soil Conservation, Water Resources-Use and Conservation"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L9.3",
+          "code": "C102.L9.3",
+          "data": {
+            "title": "Forest Resources- Importance and Use, Ill-effects of deforestation, Importance of forest conservation- Diversity of Flora and Fauna",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 9: Different Physical Features on the Surface of the Earth-Our India",
+            "description": "Forest Resources- Importance and Use, Ill-effects of deforestation, Importance of forest conservation- Diversity of Flora and Fauna"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L10.1",
+          "code": "C102.L10.1",
+          "data": {
+            "title": "Mineral Resources and Non-Mineral Resources",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 10: Minerals and Energy Resources in India",
+            "description": "Mineral Resources and Non-Mineral Resources"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L10.2",
+          "code": "C102.L10.2",
+          "data": {
+            "title": "Sources of Energy- Traditional (Coal, Petroleum products, Atomic energy), and Non-Traditional (Solar energy, Wind energy)",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 10: Minerals and Energy Resources in India",
+            "description": "Sources of Energy- Traditional (Coal, Petroleum products, Atomic energy), and Non-Traditional (Solar energy, Wind energy)"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L11.1",
+          "code": "C102.L11.1",
+          "data": {
+            "title": "Types of Agriculture- Single crop Agriculture, Mixed Crop Agriculture, Step Agriculture, Agriculture for life subsistence and Commercial Agriculture, Rabi, Kharif and Jayad",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 11: Agriculture in India",
+            "description": "Types of Agriculture- Single crop Agriculture, Mixed Crop Agriculture, Step Agriculture, Agriculture for life subsistence and Commercial Agriculture, Rabi, Kharif and Jayad"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L11.2",
+          "code": "C102.L11.2",
+          "data": {
+            "title": "Major Crops of India- Food Crops, Cash Crops",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 11: Agriculture in India",
+            "description": "Major Crops of India- Food Crops, Cash Crops"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L11.3",
+          "code": "C102.L11.3",
+          "data": {
+            "title": "Factors that affect Agriculture- Extreme Rains, Hail, Frost, less Rains",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 11: Agriculture in India",
+            "description": "Factors that affect Agriculture- Extreme Rains, Hail, Frost, less Rains"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L12.1",
+          "code": "C102.L12.1",
+          "data": {
+            "title": "Industries and their Types",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 12: Our Industries",
+            "description": "Industries and their Types"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L12.2",
+          "code": "C102.L12.2",
+          "data": {
+            "title": "Development of Industries from Ancient period to Modern Period- Small scale industries, Cottage Industry, Medium and Heavy Industry",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 12: Our Industries",
+            "description": "Development of Industries from Ancient period to Modern Period- Small scale industries, Cottage Industry, Medium and Heavy Industry"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L13.1",
+          "code": "C102.L13.1",
+          "data": {
+            "title": "Road, Rail and Air Transportation",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 13: Modes of Transportation and Communication",
+            "description": "Road, Rail and Air Transportation"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L13.2",
+          "code": "C102.L13.2",
+          "data": {
+            "title": "Tele-communication Revolution",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 13: Modes of Transportation and Communication",
+            "description": "Tele-communication Revolution"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L14.1",
+          "code": "C102.L14.1",
+          "data": {
+            "title": "Population Explosion- Social and Economic Impact",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 14: Population Explosion and Population Control",
+            "description": "Population Explosion- Social and Economic Impact"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L14.2",
+          "code": "C102.L14.2",
+          "data": {
+            "title": "Population Control- Birth Rate, Death Rate, Sex Ratio, and ways of controlling it",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 14: Population Explosion and Population Control",
+            "description": "Population Control- Birth Rate, Death Rate, Sex Ratio, and ways of controlling it"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L15.1",
+          "code": "C102.L15.1",
+          "data": {
+            "title": "Financial life and Financial Needs",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 15: Financial Life",
+            "description": "Financial life and Financial Needs"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L15.2",
+          "code": "C102.L15.2",
+          "data": {
+            "title": "Division of Labour",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 15: Financial Life",
+            "description": "Division of Labour"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L15.3",
+          "code": "C102.L15.3",
+          "data": {
+            "title": "Inclusion of women in Economic Growth",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 15: Financial Life",
+            "description": "Inclusion of women in Economic Growth"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L15.4",
+          "code": "C102.L15.4",
+          "data": {
+            "title": "Market Centric Economy",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 15: Financial Life",
+            "description": "Market Centric Economy"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L16.1",
+          "code": "C102.L16.1",
+          "data": {
+            "title": "Need for Government and State",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 16: Nature of Governance Systems",
+            "description": "Need for Government and State"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L16.2",
+          "code": "C102.L16.2",
+          "data": {
+            "title": "Types of system of Governance- Monarchy, Fascism, Colonialism, Democratic system",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 16: Nature of Governance Systems",
+            "description": "Types of system of Governance- Monarchy, Fascism, Colonialism, Democratic system"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L17.1",
+          "code": "C102.L17.1",
+          "data": {
+            "title": "Characteristic Features of the Indian Constitution",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 17: Indian Constitution",
+            "description": "Characteristic Features of the Indian Constitution"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L17.2",
+          "code": "C102.L17.2",
+          "data": {
+            "title": "Fundamental Rights and Duties",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 17: Indian Constitution",
+            "description": "Fundamental Rights and Duties"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L17.3",
+          "code": "C102.L17.3",
+          "data": {
+            "title": "Parliamentary Democracy- Legislature (organization and functioning), Executive (President, Prime Minister and the council of Ministers)",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 17: Indian Constitution",
+            "description": "Parliamentary Democracy- Legislature (organization and functioning), Executive (President, Prime Minister and the council of Ministers)"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L18.1",
+          "code": "C102.L18.1",
+          "data": {
+            "title": "Legislature (Legislative assembly and Legislative council)- Organization, Functioning and Powers",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 18: State Government",
+            "description": "Legislature (Legislative assembly and Legislative council)- Organization, Functioning and Powers"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L18.2",
+          "code": "C102.L18.2",
+          "data": {
+            "title": "Executive (Governor, Chief Minister and council of Ministers)- Appointment, Functioning and Power",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 18: State Government",
+            "description": "Executive (Governor, Chief Minister and council of Ministers)- Appointment, Functioning and Power"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L19.1",
+          "code": "C102.L19.1",
+          "data": {
+            "title": "The Concept and Nature of the Democracy",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 19: Democracy and Local Self-Governance",
+            "description": "The Concept and Nature of the Democracy"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L19.2",
+          "code": "C102.L19.2",
+          "data": {
+            "title": "Fundamental Ingredients of Democracy- Constitution, Fundamental Rights, Universal Adult Franchise, Political Parties, Electoral System, Modes of communication and Media",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 19: Democracy and Local Self-Governance",
+            "description": "Fundamental Ingredients of Democracy- Constitution, Fundamental Rights, Universal Adult Franchise, Political Parties, Electoral System, Modes of communication and Media"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L19.3",
+          "code": "C102.L19.3",
+          "data": {
+            "title": "Coalition Government",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 19: Democracy and Local Self-Governance",
+            "description": "Coalition Government"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L19.4",
+          "code": "C102.L19.4",
+          "data": {
+            "title": "Local Self-Governance- Tri-level Panchayat Raj system, Urban self-governance",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 19: Democracy and Local Self-Governance",
+            "description": "Local Self-Governance- Tri-level Panchayat Raj system, Urban self-governance"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L20.1",
+          "code": "C102.L20.1",
+          "data": {
+            "title": "Swach Bharat Abhiyan ( Clean India Mission)",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 20: India on the Path of Progress",
+            "description": "Swach Bharat Abhiyan ( Clean India Mission)"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L20.2",
+          "code": "C102.L20.2",
+          "data": {
+            "title": "Clean Ganges",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 20: India on the Path of Progress",
+            "description": "Clean Ganges"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L20.3",
+          "code": "C102.L20.3",
+          "data": {
+            "title": "Skill India",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 20: India on the Path of Progress",
+            "description": "Skill India"
+          }
+        },
+        {
+          "key": "nios-obe-c:C102.L20.4",
+          "code": "C102.L20.4",
+          "data": {
+            "title": "Digital India",
+            "course": "Social Science",
+            "courseCode": "C-102",
+            "level": "C",
+            "lesson": "Lesson 20: India on the Path of Progress",
+            "description": "Digital India"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L1",
+          "code": "C103.L1",
+          "data": {
+            "title": "Natural and Whole Numbers",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 1: Arithmetic",
+            "lesson": "Lesson 1: Natural and Whole Numbers",
+            "description": "Natural numbers, whole numbers and their operations, characteristics, factors and multiple in natural and whole numbers. Prime Numbers, co-prime numbers, Prime Number factors, writing Prime number factors as unique factors. Finding Highest common factor (HCF) and Lowest Common Multiple (LCM) by factorization and division methods. Finding relations between two numbers and their HCF and LCM. Learning the principles of divisibility."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L2",
+          "code": "C103.L2",
+          "data": {
+            "title": "Whole Numbers",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 1: Arithmetic",
+            "lesson": "Lesson 2: Whole Numbers",
+            "description": "Creation of whole numbers, plotting whole numbers on the number line, plotting whole numbers chronologically on the number line, addition and subtraction of whole numbers on the number line, absolute value of the whole numbers, characteristics of whole numbers and operations involving whole numbers, division and grouping of whole numbers"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L3",
+          "code": "C103.L3",
+          "data": {
+            "title": "Squares and square root, Cubes and cube root",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 1: Arithmetic",
+            "lesson": "Lesson 3: Squares and square root, Cubes and cube root",
+            "description": "Understanding the concept of square, squares of natural numbers, square roots, finding square root of a perfect square using multiplicative function, finding square root of a perfect number by divisional method, questions based on square roots, whole cube numbers, making a number whole cube number, concept of cube root, finding cube root of any whole cube number by prime number factorization method."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L4",
+          "code": "C103.L4",
+          "data": {
+            "title": "Introduction to Algebra",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 2: Algebra",
+            "lesson": "Lesson 4: Introduction to Algebra",
+            "description": "Developing the concepts of variable and constant, introduction to Algebra through Arithmetic, fundamental operations on algebraic numbers and symbols, doing multiplication and division using variables and constants, difference between monomials and coefficient, differentiating between similar and dissimilar equations, addition and subtraction of similar equations, multiplication of variables"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L5",
+          "code": "C103.L5",
+          "data": {
+            "title": "Algebraic expressions and operations",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 2: Algebra",
+            "lesson": "Lesson 5: Algebraic expressions and operations",
+            "description": "Concept of Algebraic expression, multiplication constant of expressions with two or more variables, similar and dissimilar algebraic expressions, types of algebraic expressions, characteristics of algebraic equations, value of algebraic equations, addition, subtraction, multiplication and division of algebraic expressions."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L6",
+          "code": "C103.L6",
+          "data": {
+            "title": "Linear Equation with one Variable",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 2: Algebra",
+            "lesson": "Lesson 6: Linear Equation with one Variable",
+            "description": "Concept of equation, linear equation, mathematical structures, solving linear equations"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L7",
+          "code": "C103.L7",
+          "data": {
+            "title": "Ratio and Proportion",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 3: Commercial Mathematics",
+            "lesson": "Lesson 7: Ratio and Proportion",
+            "description": "Ratio, Proportion, types of proportion, unitary method, time and work, work and ratio, time and distance"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L8",
+          "code": "C103.L8",
+          "data": {
+            "title": "Percentage and its Applications",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 3: Commercial Mathematics",
+            "lesson": "Lesson 8: Percentage and its Applications",
+            "description": "Percentage in form of fraction, changing fractions into percentage, calculating a certain percentage of the given amount, few problems in words, related to percentage, profit and loss, percentage profit and loss, discount/rebate"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L9",
+          "code": "C103.L9",
+          "data": {
+            "title": "Simple and Compound Interest",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 3: Commercial Mathematics",
+            "lesson": "Lesson 9: Simple and Compound Interest",
+            "description": "Simple Interest, Compound interest, and difference between the two"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L10",
+          "code": "C103.L10",
+          "data": {
+            "title": "Fundamental Concepts of Geometry",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 4: Geometry",
+            "lesson": "Lesson 10: Fundamental Concepts of Geometry",
+            "description": "Point, line and surface, line segment and ray, a line crossing two points and two lines in one surface, convergence point of many lines and line travelling together, detecting convergence points, drawing lines travelling together, closed and open structures, easy structures, easy closed structures internal structure and external structure, instruments used in geometry and their usages-ruler, divider, compass, set square, protractor, measurement of a line segment, using a scale measuring a line segment, drawing a line segment of a given measurement using a scale"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L11",
+          "code": "C103.L11",
+          "data": {
+            "title": "Angles and Equidistant Lines",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 4: Geometry",
+            "lesson": "Lesson 11: Angles and Equidistant Lines",
+            "description": "Rotation, Angle, measurement of angles, drawing angles of - 60̊, 120̊, 90̊, 30̊, types of angles, sum of two angles, non-equidistant and equidistant lines, sum of equidistant lines, drawing equidistant lines, vertical lines"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L12",
+          "code": "C103.L12",
+          "data": {
+            "title": "Triangles and their Types",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 4: Geometry",
+            "lesson": "Lesson 12: Triangles and their Types",
+            "description": "Triangle, making an angle, apex point of the triangle, arms, angles, external angles and internal inside angles, perpendicular and medians of the triangle, sum of all the angles of the triangle, relation between external angles and internal inside angles of a triangle, sum of any two arms of the triangle, categories of the triangle, scalene triangle, isosceles triangle, equilateral triangle, acute triangle, right angle triangle, obtuse triangle, characteristics of an isosceles triangle, characteristics of arms and angles of an isosceles triangle, characteristics of a right angle triangle (Pythagoras theorem)"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L13",
+          "code": "C103.L13",
+          "data": {
+            "title": "Quadrangle and their Types",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 4: Geometry",
+            "lesson": "Lesson 13: Quadrangle and their Types",
+            "description": "Quadrangle and its different parts, sum of all the angles of a quadrangle, trapezium and equidistant quadrangles, rectangle, square, rhombus, and diamond."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L14",
+          "code": "C103.L14",
+          "data": {
+            "title": "Circle",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 4: Geometry",
+            "lesson": "Lesson 14: Circle",
+            "description": "Parts of the circle and its components, drawing a circle, measuring the angle in a semi-circle, distance of chords of circle from the centre of the circle"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L15",
+          "code": "C103.L15",
+          "data": {
+            "title": "Congruent and Similar Figures",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 4: Geometry",
+            "lesson": "Lesson 15: Congruent and Similar Figures",
+            "description": "Congruency, congruency in a triangle, rules and exceptions of congruency in triangles and, SSS, SAS, ASA, RHS, congruency principle, similarity, similarity of axis or number of lines."
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L16",
+          "code": "C103.L16",
+          "data": {
+            "title": "Area of Plain surface Objects",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 5: Area & Statistics",
+            "lesson": "Lesson 16: Area of Plain surface Objects",
+            "description": "Area, area of a plain surface area, standard units of measurement for measuring area, dimensions of linear structures, finding area of a triangle using different formulae, dimensions of a rectangle, dimensions of a square, area of a parallelogram, area of a trapezium, perimeter of a circle, area of a circle"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L17",
+          "code": "C103.L17",
+          "data": {
+            "title": "Volume of Solids",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 5: Area & Statistics",
+            "lesson": "Lesson 17: Volume of Solids",
+            "description": "Dimensions of Cuboids, sides and height of the cuboid, cuboid in a special way, area of a cube and cuboid, volume of a cube and cuboid"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L18",
+          "code": "C103.L18",
+          "data": {
+            "title": "Introduction to Statistics",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 5: Area & Statistics",
+            "lesson": "Lesson 18: Introduction to Statistics",
+            "description": "Collection of data, presentation of the data, using frequency for presentation of the data, classification of data into different categories, bar graphs, reading bar graphs, illustrating bar graph, drawing bar graphs, need of appropriate scale, how to draw bar graph on the graph sheet, pie chart"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L19",
+          "code": "C103.L19",
+          "data": {
+            "title": "Introduction to Vedic Mathematics",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 6: Vedic Mathematics",
+            "lesson": "Lesson 19: Introduction to Vedic Mathematics",
+            "description": "Importance of teaching & learning Vedic Mathematics, formulae and meaning of Vedic Mathematics, use of vinkulam numbers, operations involving vinkulam numbers, formulae of zero, formulae for addition, subtraction, mixed operations (addition & subtraction)"
+          }
+        },
+        {
+          "key": "nios-obe-c:C103.L20",
+          "code": "C103.L20",
+          "data": {
+            "title": "Applications of Vedic Mathematics",
+            "course": "Mathematics",
+            "courseCode": "C-103",
+            "level": "C",
+            "module": "Module 6: Vedic Mathematics",
+            "lesson": "Lesson 20: Applications of Vedic Mathematics",
+            "description": "First procedure for multiplication-formula ekanyunen purven, multiplication formula ekadhiken and antyordashkeypi, guna sutra nikhilam (aadhar, upadhar), Formula- nikhilam, and aanurupyen (upadhar), Multiplication formula- udharvatriyagbhayam, multiplication of three digit numbers- formula udharvatriyagbhayam, calculating the square- formula yavdunam, calculating the square- formula dwandyoga, by vargmula viloknam, by ghan-sutra nikhilam, by ghanmula-viloknam."
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L1",
+          "code": "C104.L1",
+          "data": {
+            "title": "Revision",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "level": "C",
+            "lesson": "Lesson 1: Revision",
+            "description": "Introduction to computers, operating system, word processing, spreadsheet, presentation, computer security, internet, e-mail"
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L2",
+          "code": "C104.L2",
+          "data": {
+            "title": "Word Processing",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "level": "C",
+            "lesson": "Lesson 2: Word Processing",
+            "description": "Introduction to word processing, intend of word processing, tabs and indentation, page setup, print preview, printing, word art"
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L3",
+          "code": "C104.L3",
+          "data": {
+            "title": "Spreadsheet",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "level": "C",
+            "lesson": "Lesson 3: Spreadsheet",
+            "description": "Introduction, intend, types of charts, inserting the charts, formula and functions (only basic)"
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L4",
+          "code": "C104.L4",
+          "data": {
+            "title": "Presentation",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "level": "C",
+            "lesson": "Lesson 4: Presentation",
+            "description": "Introduction, intend, making presentations using the template, inserting audio clip, inserting video clip, slide transition, customized animation"
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L5",
+          "code": "C104.L5",
+          "data": {
+            "title": "Computer Network",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "level": "C",
+            "lesson": "Lesson 5: Computer Network",
+            "description": "What is computer network and what are its usages? Functioning of a computer network, types of network, network tools, network connections"
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L6",
+          "code": "C104.L6",
+          "data": {
+            "title": "Internet",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "level": "C",
+            "lesson": "Lesson 6: Internet",
+            "description": "Introduction, intend, categorization of the websites, benefits of internet, video conferencing, social networking, e-governance, e-commerce, chatting, instant messaging"
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L7",
+          "code": "C104.L7",
+          "data": {
+            "title": "Multimedia",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "level": "C",
+            "lesson": "Lesson 7: Multimedia",
+            "description": "Introduction, intend, elements of multimedia, scope of multimedia-education, entertainment, marketing, fashion etc. instruments of multimedia- (1) C.D. ROM, (2) speaker, mike, (3) hard disk"
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L8",
+          "code": "C104.L8",
+          "data": {
+            "title": "Internet Banking",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "level": "C",
+            "lesson": "Lesson 8: Internet Banking",
+            "description": "What id e-banking, types of e-banking, benefits from e-banking, precautions while making e-banking transactions, contribution of e-banking in development and business growth"
+          }
+        },
+        {
+          "key": "nios-obe-c:C104.L9",
+          "code": "C104.L9",
+          "data": {
+            "title": "Prospects of Job in Computer sector",
+            "course": "Basic Computer Skills",
+            "courseCode": "C-104",
+            "level": "C",
+            "lesson": "Lesson 9: Prospects of Job in Computer sector",
+            "description": "Availability of jobs in computer sector, job search using computer and internet"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L1",
+          "code": "CSCI.L1",
+          "data": {
+            "title": "What is Science, its Concept?",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 1: Living World",
+            "lesson": "Lesson 1: What is Science, its Concept?",
+            "description": "Concept of Science, related values and scientific outlook, contribution of Indian Scientists and Philosophers to Science, Relation between Science and Technology."
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L2",
+          "code": "CSCI.L2",
+          "data": {
+            "title": "Living beings & their environment (Habitat)",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 1: Living World",
+            "lesson": "Lesson 2: Living beings & their environment (Habitat)",
+            "description": "Characteristics and specialties of Living beings, diversity among living beings, structure of a cell and difference between a plant cell and animal cell, Habitat and its contributing factors, different types of Habitat with examples (including plants and animals), adaptation, different types of Habitats for plants and animals (water, desert, mountain and grassland habitats)."
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L3",
+          "code": "CSCI.L3",
+          "data": {
+            "title": "Plant and Animal Kingdom",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 1: Living World",
+            "lesson": "Lesson 3: Plant and Animal Kingdom",
+            "description": "Classification of plants on the basis of shape and age, recognizing different parts of plants, structure and functions of different parts of plants like roots, stems, leaves, flowers fruits, seeds etc. and differences between them, diversity among animals and movements in different animals, different types of movements in human beings, different structures of human skeletal system and their functions, difference between bones and cartilages, different types of joints, comparison between body structure of different organisms"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L4",
+          "code": "CSCI.L4",
+          "data": {
+            "title": "Life Processes-I (Respiration, Circulation & excretion)",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 1: Living World",
+            "lesson": "Lesson 4: Life Processes-I (Respiration, Circulation & excretion)",
+            "description": "Respiration, respiration in different organisms, process of respiration, respiratory system in humans, transportation of different things inside the body by blood, respiration in plants, constitution of blood, different types of blood vessels, structure and function of heart, heart beat and pulse rate, circulation systems in different organisms, circulation of food and water in plants, need of excretion, structure and functions of human excretion system, excretion system in different organisms, excretion in plants, need for control and co-ordination, Nervous system in humans (Brain, Spinal cord and neurons), different internal hormonal glands-their secretions and functions"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L5",
+          "code": "CSCI.L5",
+          "data": {
+            "title": "Life Processes-II (Reproduction in Organisms)",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 1: Living World",
+            "lesson": "Lesson 5: Life Processes-II (Reproduction in Organisms)",
+            "description": "Various ways of reproduction in living organisms (asexual and sexual), reproduction in humans, fertilization, internal and external fertilization, development of embryo in organisms, stages of development from infancy to adolescence, secondary sexual characteristics, reproductive health, heredity, sex determination, social disparity vis-à-vis sex, asexual reproduction in organisms, asexual and sexual reproduction in plants, development of fruits and seeds, dispersion of seeds"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L6",
+          "code": "CSCI.L6",
+          "data": {
+            "title": "Types of Matter-I",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 2: Matter",
+            "lesson": "Lesson 6: Types of Matter-I",
+            "description": "States of matter, Solubility of matter, examples of soluble and insoluble matters, dissolvent, solvent and saturated solubility unit, different ways of separation (filtration, winnowing, sedimentation, centrifugation, distillation, decantation, crystallization etc.)"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L7",
+          "code": "CSCI.L7",
+          "data": {
+            "title": "Types of Matter-II",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 2: Matter",
+            "lesson": "Lesson 7: Types of Matter-II",
+            "description": "Metals and non-metals, classification of metals and non-metals, physical properties of metals and non-metals (shine, hardness, ductility, malleability, tensile strength, conduction etc. with examples, reactions of metals with air, water, acid, and bases, examples and usages of half metals"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L8",
+          "code": "CSCI.L8",
+          "data": {
+            "title": "How Things Change",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 2: Matter",
+            "lesson": "Lesson 8: How Things Change",
+            "description": "Examples of changes witnessed everyday around us, examples of physical and chemical changes, different types of chemical changes (combination or synthesis reaction, decomposition reaction, displacement or replacement reaction, double displacement reaction, acid base reactions etc.), examples of acid and bases, nature and litmus, finding acid and base in the juice of turmeric and beetroot using indicators, examples of acids and bases used in everyday life, natural changes, unnatural changes, human incurred changes, constant and non-constant changes, biological changes, good and bad changes"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L9",
+          "code": "CSCI.L9",
+          "data": {
+            "title": "Fibers and clothes",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 2: Matter",
+            "lesson": "Lesson 9: Fibers and clothes",
+            "description": "Fibers obtained from, plants and animals and other sources, different types of fibers, cotton wool, silk, artificial fibers, cultivation of plant fibers like cotton, jute etc. and their production at local level, sources of obtaining wool, sheep rearing and process of obtaining wool from sheep, source of silk fiber, silkworm rearing and process of obtaining silk fiber, usually used artificial fibers (nylon, polyester, PVC etc.) Artificial clothes fibers and their usages, choosing contributing material for artificial fibers based on their properties, insulation due to air trapped in clothes fibers, matters made from plastics, issues related to excessive use of plastics"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L10",
+          "code": "CSCI.L10",
+          "data": {
+            "title": "Heat",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 2: Matter",
+            "lesson": "Lesson 10: Heat",
+            "description": "Energy in form of heat, use of thermometer, use of laboratory and everyday thermometer, transfer of heat from one body to another, concept of conduction, convection and radiation, combustion and environment necessary for combustion, fuel and properties of good fuel, different areas of flame (flame of candle, use of fire extinguisher)."
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L11",
+          "code": "CSCI.L11",
+          "data": {
+            "title": "Nourishment for Plants & Animals",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 3: Food",
+            "lesson": "Lesson 11: Nourishment for Plants & Animals",
+            "description": "Meaning of nourishment, examples of different types of nutrition Auto tropic and heterotrophic, photosynthesis in plants, heterotrophic nutrition, classification of heterotrophic organisms in terms of herbivorous, carnivorous, omnivorous, saprophytic/saprotrophic, parasitic, and holozoic, carnivorous plants (Venus flytrap, pitcher plant etc.) nutrition in humans, diagram of human digestive system, process of digestion, process of nourishment in amoeba."
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L12",
+          "code": "CSCI.L12",
+          "data": {
+            "title": "Microorganisms",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 3: Food",
+            "lesson": "Lesson 12: Microorganisms",
+            "description": "Microorganisms, different types of microorganisms, processes of protecting food in microorganisms, beneficial microorganisms, nitrogen cycle, harmful microorganisms, virus, diseases from protozoa"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L13",
+          "code": "CSCI.L13",
+          "data": {
+            "title": "Crop Cultivation",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 3: Food",
+            "lesson": "Lesson 13: Crop Cultivation",
+            "description": "Different types of crops, stages of crop cultivation-preparing the soil, choosing the seeds, sowing seeds, using fertilizers and manures, irrigation, weeding, harvest, methods of storage, protection and transportation of crops."
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L14",
+          "code": "CSCI.L14",
+          "data": {
+            "title": "Magnetism, Electric Current and Circuits",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 4: How Things Work?",
+            "lesson": "Lesson 14: Magnetism, Electric Current and Circuits",
+            "description": "Magnet, Magnetic poles and their properties, magnetic and non-magnetic matters, electric circuits, conductor, meaning of insulators, different types of electrical arrangement and electric circuits, role of electric circuit and electroplating in everyday life, magnetic effect of electricity, examples of different electric circuits and issues related to them"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L15",
+          "code": "CSCI.L15",
+          "data": {
+            "title": "Objects in Motion, Pressure and Friction",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 5: Objects in Motion",
+            "lesson": "Lesson 15: Objects in Motion, Pressure and Friction",
+            "description": "Processes of measuring distance and length, different examples of motion, concept of force with examples, structure and direction of objects in motion, pressure and atmospheric pressure, pressures of different mediums, factors effecting friction, benefits and harms of friction for objects in motion, increase and decrease in friction, substances used for increasing or decreasing friction"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L16",
+          "code": "CSCI.L16",
+          "data": {
+            "title": "Sound",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 5: Objects in Motion",
+            "lesson": "Lesson 16: Sound",
+            "description": "Sound, different types of sound, genesis of sound, vibration due to production of sound, dispersion of sound through different mediums, noise as unwanted sound ways to curb noise, noise pollution and its harmful effects, curbing of noise pollution"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L17",
+          "code": "CSCI.L17",
+          "data": {
+            "title": "Light",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 6: Natural Phenomena",
+            "lesson": "Lesson 17: Light",
+            "description": "Light and dispersion of light through different mediums, concepts of transparent, translucent and opaque and their examples, properties of image, image on a plain surface mirror, reflection of light-its examples, different types of lenses, structure of eyes, scientific methods of rectifying the defects in eyes, nutrition and curbing defects and blindness of eyes"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L19",
+          "code": "CSCI.L19",
+          "data": {
+            "title": "Natural Resources-I (Physical)",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 7: Natural Resources",
+            "lesson": "Lesson 19: Natural Resources-I (Physical)",
+            "description": "Importance of air, water soil, coal, petroleum and other resources, physical resources in nature, air balance through photosynthesis, three stages and states of water cycle, reasons of air and water pollution its effects on living beings and ways of curbing it, ways of water conservation (rain water harvesting), different types of soils, coal and petroleum, process of creation of fossil fuels, limitations to the resources of coal and petroleum and their judicious use"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L20",
+          "code": "CSCI.L20",
+          "data": {
+            "title": "Natural Resources-II (Biological)",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 7: Natural Resources",
+            "lesson": "Lesson 20: Natural Resources-II (Biological)",
+            "description": "Importance of forests, flora and fauna, effect of forests on water, air and environment, meaning of bio-diversity, fauna and flora, conservation of forests flora and fauna and bio-diversity"
+          }
+        },
+        {
+          "key": "nios-obe-c:CSCI.L21",
+          "code": "CSCI.L21",
+          "data": {
+            "title": "Waste Management & Swach Bharat (Clean India) drive",
+            "course": "Science",
+            "level": "C",
+            "module": "Module 7: Natural Resources",
+            "lesson": "Lesson 21: Waste Management & Swach Bharat (Clean India) drive",
+            "description": "Meaning of waste, accumulation of waste material at different places, harmful effects of accumulation of waste material at places, process of waste management (URS), recycle, remaking and change, sewage management (seepage, need of sever system & choking of sever system), Swach Bharat (Clean India) drive- objectives, process and contribution and role of each individual"
           }
         }
       ]

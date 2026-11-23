@@ -5,7 +5,7 @@ import { parse, source } from './nios-obe.mjs';
 
 const catalogue = JSON.parse(readFileSync(new URL('../data/curriculum-standards.json', import.meta.url)));
 const alignments = JSON.parse(readFileSync(new URL('../data/curriculum-alignments.json', import.meta.url)));
-const expected = {a: [['Environmental Study', 36], ['Mathematics', 7], ['Basic Computer Skills', 6]], b: [['Environmental Studies', 55], ['Mathematics', 8], ['Basic Computer Skills', 7]]};
+const expected = {a: [['Environmental Study', 36], ['Mathematics', 7], ['Basic Computer Skills', 6]], b: [['Environmental Studies', 55], ['Mathematics', 8], ['Basic Computer Skills', 7]], c: [['Social Science', 60], ['Mathematics', 20], ['Basic Computer Skills', 9], ['Science', 20]]};
 
 for (const [level, courses] of Object.entries(expected)) {
   const slug = `nios-obe-${level}`;
@@ -37,4 +37,12 @@ test('parser keeps wording, joins wrapped lines and skips other sections', () =>
 
 test('parser rejects a skipped item number', () => {
   assert.throws(() => parse('Environmental Studies (B-102)\n6. Course Description\nLesson-1: One\n1. First\n3. Third\n', 'b'), /out of order/);
+});
+
+test('parser handles modules, marks lines, the uncoded Science course and broken compounds', () => {
+  const text = 'Science\nLevel- C\n6. Course Description\nModule-1: Living World\nTime: 20 Hours Marks: 20\nLesson-1: Habitat\nmeaning of bio-\ndiversity\nModule-2: Matter\nTime-25 hours Marks-25\nLesson-6: Types\nStates\n7. Scheme of Study';
+  assert.deepEqual(parse(text, 'c').map(r => [r.code, r.data.module, r.data.description, r.data.courseCode]), [
+    ['CSCI.L1', 'Module 1: Living World', 'meaning of bio-diversity', undefined],
+    ['CSCI.L6', 'Module 2: Matter', 'States', undefined],
+  ]);
 });

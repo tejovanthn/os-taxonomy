@@ -39,6 +39,12 @@ For encumbered sources we ship only the **standard code** (e.g. `1-ESS1-1`) and 
 - **We ship:** 70 records from the "Course Description" sections of [Bleveleng.pdf](https://nios.ac.in/media/documents/Bleveleng.pdf): Environmental Studies B-102 (55), Mathematics B-103 (8) and Basic Computer Skills B-104 (7). Wording, including the source's own errors, is kept; only whitespace is normalized.
 - **Verification:** 14-page PDF, file dated 12 April 2017, SHA-256 `2786d1ab2149c4d96351fe97e59cf138e4cbc48fd4ce8e580ce0c652abbd2f3a`, retrieved 23 November 2026. Rebuild with [scripts/nios-obe.mjs](scripts/nios-obe.mjs). Whether NIOS has published a later edition was not established.
 
+### 🟢 `nios-obe-c` — NIOS Open Basic Education (Adult), Level 'C' (India) — **full text of the course descriptions**
+- **Publisher, license, required notice and codes:** as for `nios-obe-a`. The codes are generated. The Science course prints no course code, so its records use `CSCI`. The source numbers Science lessons 1–17 and 19–21; there is no Lesson 18, and no number is invented.
+- **Scope:** much of this level is beyond the current primary authoring scope (for example compound interest and the Pythagoras theorem). No grade, age or alignment is included.
+- **We ship:** 109 records from the "Course Description" sections of [Cleveleng.pdf](https://nios.ac.in/media/documents/Cleveleng.pdf): Social Science C-102 (60), Mathematics C-103 (20), Basic Computer Skills C-104 (9) and Science (20). Wording, including the source's own errors, is kept; only whitespace is normalized and compounds split at a line-break hyphen ("semi-" / "circle") are closed up. Module hours and marks and the C-104 introductory sentence are excluded.
+- **Verification:** 25-page PDF, file dated 12 April 2017, SHA-256 `d980e27444c33444c1e5469b031bfd5343103e029702f6ce16d6cfe5ea2dde8d`, retrieved 23 November 2026. Rebuild with [scripts/nios-obe.mjs](scripts/nios-obe.mjs). Whether NIOS has published a later edition was not established.
+
 ### Ontario elementary documents — codes and source links only
 
 - **Publisher:** Ontario Ministry of Education / King’s Printer for Ontario. Official English-language elementary source documents, Kindergarten through Grade 8.
