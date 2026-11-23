@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "clusterCount": 375,
+  "clusterCount": 376,
   "clusters": [
     {
       "subject": "English",
@@ -2309,6 +2309,13 @@
       "ageRangeStart": 14,
       "ageRangeEnd": 16,
       "summary": "Western music is written down in a way anyone trained can read: the staff of five lines, where a note’s height is its pitch and its shape is its length. On that foundation the learner builds scales and the intervals between notes, and the chords and harmony that turn a bare tune into full music — and then puts it into practice, performing a prescribed piece with the right notes, steady time and real expression."
+    },
+    {
+      "subject": "Computing",
+      "domain": "Programming",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "summary": "At this level programming becomes computer science. Boolean algebra gives the logic behind every decision a machine makes; inheritance and polymorphism let object-oriented programs be built from reusable, specialised parts; and recursion offers a second way to compute, a method that calls itself. From there come the data structures — stacks, queues and linked lists — that organise information, the analysis of algorithms by how their work grows rather than by the clock, and databases with the SQL that queries them."
     }
   ]
 }

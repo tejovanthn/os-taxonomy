@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "topicCount": 2680,
+  "topicCount": 2686,
   "topics": [
     {
       "id": "mt_AzTrT5ySCx",
@@ -36733,7 +36733,8 @@
         "ncert-elem:ENG.C68.RDG",
         "ncert-sec:ENG.C910.WRITE",
         "ncert-hsec:ENG.C1112.CORE",
-        "icse:ENG.COMPRE"
+        "icse:ENG.COMPRE",
+        "isc:ENG.C11.COMPRE"
       ]
     },
     {
@@ -36757,7 +36758,8 @@
         "ncert-elem:ENG.C68.LSN",
         "ncert-sec:ENG.C910.SPEAK",
         "ncert-sec:ENG.C910.LISTEN",
-        "ncert-hsec:ENG.C1112.CORE"
+        "ncert-hsec:ENG.C1112.CORE",
+        "isc:ENG.C11.SPEAK"
       ]
     },
     {
@@ -47871,7 +47873,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why writing was invented by people keeping accounts rather than by people telling stories.",
       "standards": [
-        "ncert-hsec:HIS.C11.T1"
+        "ncert-hsec:HIS.C11.T1",
+        "isc:HIS.C11.U1"
       ]
     },
     {
@@ -47891,7 +47894,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how one city could govern lands stretching from Britain to Egypt without modern communication.",
       "standards": [
-        "ncert-hsec:HIS.C11.T2"
+        "ncert-hsec:HIS.C11.T2",
+        "isc:HIS.C11.U2"
       ]
     },
     {
@@ -47911,7 +47915,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how ideas and goods travelled between Europe, Africa and Asia before European sea routes.",
       "standards": [
-        "ncert-hsec:HIS.C11.T2"
+        "ncert-hsec:HIS.C11.T2",
+        "isc:HIS.C11.U2"
       ]
     },
     {
@@ -47931,7 +47936,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why almost everything written about the Mongols was written by the people they conquered.",
       "standards": [
-        "ncert-hsec:HIS.C11.T2"
+        "ncert-hsec:HIS.C11.T2",
+        "isc:HIS.C11.U2"
       ]
     },
     {
@@ -47951,7 +47957,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a peasant received in return for working land they did not own.",
       "standards": [
-        "ncert-hsec:HIS.C11.T3"
+        "ncert-hsec:HIS.C11.T3",
+        "isc:HIS.C11.U3"
       ]
     },
     {
@@ -47971,7 +47978,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether a period can really be called a rebirth, and what that phrasing hides.",
       "standards": [
-        "ncert-hsec:HIS.C11.T3"
+        "ncert-hsec:HIS.C11.T3",
+        "isc:HIS.C11.U3"
       ]
     },
     {
@@ -47991,7 +47999,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why disease did more to end the American empires than weapons did.",
       "standards": [
-        "ncert-hsec:HIS.C11.T3"
+        "ncert-hsec:HIS.C11.T3",
+        "isc:HIS.C11.U3"
       ]
     },
     {
@@ -48011,7 +48020,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a legal system can be used to take land rather than to protect its owners.",
       "standards": [
-        "ncert-hsec:HIS.C11.T4"
+        "ncert-hsec:HIS.C11.T4",
+        "isc:HIS.C11.U3"
       ]
     },
     {
@@ -48031,7 +48041,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whether the Industrial Revolution made ordinary people better or worse off, and how you would settle it.",
       "standards": [
-        "ncert-hsec:HIS.C11.T4"
+        "ncert-hsec:HIS.C11.T4",
+        "isc:HIS.C11.U4"
       ]
     },
     {
@@ -48051,7 +48062,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why two countries facing the same pressure took such different routes out of it.",
       "standards": [
-        "ncert-hsec:HIS.C11.T4"
+        "ncert-hsec:HIS.C11.T4",
+        "isc:HIS.C11.U4"
       ]
     },
     {
@@ -48071,7 +48083,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} whose voices are missing from a record carved on royal orders.",
       "standards": [
-        "ncert-hsec:HIS.C12.T1"
+        "ncert-hsec:HIS.C12.T1",
+        "isc:HIS.C12.U1"
       ]
     },
     {
@@ -48091,7 +48104,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a story rewritten over a thousand years can still tell us about real societies.",
       "standards": [
-        "ncert-hsec:HIS.C12.T1"
+        "ncert-hsec:HIS.C12.T1",
+        "isc:HIS.C12.U1"
       ]
     },
     {
@@ -48111,7 +48125,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a carved stone gateway can tell us that a written text cannot.",
       "standards": [
-        "ncert-hsec:HIS.C12.T1"
+        "ncert-hsec:HIS.C12.T1",
+        "isc:HIS.C12.U1"
       ]
     },
     {
@@ -48131,7 +48146,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a government revenue record would and would not record about village life.",
       "standards": [
-        "ncert-hsec:HIS.C12.T2"
+        "ncert-hsec:HIS.C12.T2",
+        "isc:HIS.C12.U2"
       ]
     },
     {
@@ -48151,7 +48167,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how much to trust a history written for the ruler it describes.",
       "standards": [
-        "ncert-hsec:HIS.C12.T2"
+        "ncert-hsec:HIS.C12.T2",
+        "isc:HIS.C12.U2"
       ]
     },
     {
@@ -48171,7 +48188,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what the ruins of a city can say about who held power in it.",
       "standards": [
-        "ncert-hsec:HIS.C12.T2"
+        "ncert-hsec:HIS.C12.T2",
+        "isc:HIS.C12.U2"
       ]
     },
     {
@@ -48191,7 +48209,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why singing about god in everyday language could be a challenge to authority.",
       "standards": [
-        "ncert-hsec:HIS.C12.T2"
+        "ncert-hsec:HIS.C12.T2",
+        "isc:HIS.C12.U2"
       ]
     },
     {
@@ -48211,7 +48230,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why a visitor notices things that people living somewhere never think to mention.",
       "standards": [
-        "ncert-hsec:HIS.C12.T2"
+        "ncert-hsec:HIS.C12.T2",
+        "isc:HIS.C12.U2"
       ]
     },
     {
@@ -48231,7 +48251,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what happens to a village when a distant government decides who owns the land.",
       "standards": [
-        "ncert-hsec:HIS.C12.T3"
+        "ncert-hsec:HIS.C12.T3",
+        "isc:HIS.C12.U3"
       ]
     },
     {
@@ -48251,7 +48272,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how the pictures painted of an event can matter as much as the event itself.",
       "standards": [
-        "ncert-hsec:HIS.C12.T3"
+        "ncert-hsec:HIS.C12.T3",
+        "isc:HIS.C12.U3"
       ]
     },
     {
@@ -48271,7 +48293,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what a map of a colonial city shows about who was meant to live where.",
       "standards": [
-        "ncert-hsec:HIS.C12.T3"
+        "ncert-hsec:HIS.C12.T3",
+        "isc:HIS.C12.U3"
       ]
     },
     {
@@ -48291,7 +48314,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how people writing at the time saw Gandhi differently from how he is remembered.",
       "standards": [
-        "ncert-hsec:HIS.C12.T4"
+        "ncert-hsec:HIS.C12.T4",
+        "isc:HIS.C12.U3"
       ]
     },
     {
@@ -48311,7 +48335,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} why historians go and talk to people when the documents already exist.",
       "standards": [
-        "ncert-hsec:HIS.C12.T4"
+        "ncert-hsec:HIS.C12.T4",
+        "isc:HIS.C12.U3"
       ]
     },
     {
@@ -48331,7 +48356,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} what we learn from the arguments people lost, not just the ones they won.",
       "standards": [
-        "ncert-hsec:HIS.C12.T4"
+        "ncert-hsec:HIS.C12.T4",
+        "isc:HIS.C12.U3"
       ]
     },
     {
@@ -48815,7 +48841,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} not whether they liked a poem but how it made them feel that way.",
       "standards": [
-        "ncert-hsec:ENG.C1112.LIT"
+        "ncert-hsec:ENG.C1112.LIT",
+        "isc:ENG.C11.PROSE"
       ]
     },
     {
@@ -48835,7 +48862,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} how a playwright shows what a character is thinking when there is no narrator to say it.",
       "standards": [
-        "ncert-hsec:ENG.C1112.EL1"
+        "ncert-hsec:ENG.C1112.EL1",
+        "isc:ENG.C11.DRAMA"
       ]
     },
     {
@@ -48856,7 +48884,8 @@
       "assessmentPrompt": "Ask {{name}} to argue a case they disagree with, and to answer the strongest objection to it.",
       "standards": [
         "ncert-hsec:ENG.C1112.CORE",
-        "ncert-hsec:ENG.C1112.GRAM"
+        "ncert-hsec:ENG.C1112.GRAM",
+        "isc:ENG.C11.LANG"
       ]
     },
     {
@@ -48876,7 +48905,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} to say \"I never said she took it\" stressing a different word each time, and note how the meaning shifts.",
       "standards": [
-        "ncert-hsec:ENG.C1112.EL2"
+        "ncert-hsec:ENG.C1112.EL2",
+        "isc:ENG.C11.SPEAK"
       ]
     },
     {
@@ -48896,7 +48926,8 @@
       ],
       "assessmentPrompt": "Ask {{name}} to write the same request as an email to a friend and as a formal application, and to say what changed.",
       "standards": [
-        "ncert-hsec:ENG.C1112.CORE"
+        "ncert-hsec:ENG.C1112.CORE",
+        "isc:ENG.C11.LANG"
       ]
     },
     {
@@ -54836,6 +54867,126 @@
       "assessmentPrompt": "Ask {{name}} why a play written four hundred years ago still has something to say about mercy or greed today.",
       "standards": [
         "icse:ENG.DRAMA"
+      ]
+    },
+    {
+      "id": "mt_4UdPNfVeNm",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Boolean Algebra and Logic",
+      "description": "Understand boolean algebra as the mathematics of true and false — its operators, truth tables and laws such as De Morgan’s — and how it underlies both logic circuits and program conditions.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Builds a truth table for a boolean expression",
+        "Simplifies an expression using boolean laws",
+        "Applies De Morgan’s laws"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a computer, which only knows true and false, can make a decision.",
+      "standards": [
+        "isc:CS.C11.U1"
+      ]
+    },
+    {
+      "id": "mt_fASy5DjS9F",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Inheritance and Polymorphism",
+      "description": "Understand how inheritance lets one class extend another to reuse and specialise its behaviour, and how polymorphism lets the same call behave differently depending on the object.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Defines a subclass that inherits from a superclass",
+        "Explains method overriding and polymorphism",
+        "Explains how abstraction and encapsulation support a class hierarchy"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a “vehicle” class could give a “car” and a “truck” their shared behaviour for free.",
+      "standards": [
+        "isc:CS.C11.U2"
+      ]
+    },
+    {
+      "id": "mt_oWMEFJjJXG",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Recursion",
+      "description": "Understand recursion as a method that solves a problem by calling itself on a smaller case, needing a base case to stop, and trace how the calls stack up and unwind.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Writes a recursive method with a correct base case",
+        "Traces the calls of a recursive method",
+        "Rewrites a simple loop as recursion or vice versa"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a problem can be solved by a method that keeps calling itself.",
+      "standards": [
+        "isc:CS.C11.U3"
+      ]
+    },
+    {
+      "id": "mt_6yjZvyow9Y",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Data Structures: Stacks, Queues and Linked Lists",
+      "description": "Understand the linear data structures — the stack’s last-in-first-out order, the queue’s first-in-first-out order, and the linked list of nodes joined by references — and when each is the right tool.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Traces push and pop on a stack and enqueue and dequeue on a queue",
+        "Explains how a linked list joins nodes by references",
+        "Chooses a suitable data structure for a described problem"
+      ],
+      "assessmentPrompt": "Ask {{name}} why a stack of plates and a queue at a counter are two different ways to store things.",
+      "standards": [
+        "isc:CS.C12.U1"
+      ]
+    },
+    {
+      "id": "mt_OfqgXILCUD",
+      "type": "CONCEPTUAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Algorithm Analysis and Complexity",
+      "description": "Understand that algorithms are compared not by seconds but by how their work grows with input size, so that a binary search’s halving beats a linear scan as the data grows large.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Compares two algorithms by how their work grows with input size",
+        "Explains why binary search outperforms linear search at scale",
+        "Distinguishes the best, average and worst case"
+      ],
+      "assessmentPrompt": "Ask {{name}} why one way of searching a million records can be thousands of times faster than another.",
+      "standards": [
+        "isc:CS.C12.U2"
+      ]
+    },
+    {
+      "id": "mt_2tpf9geNgj",
+      "type": "PROCEDURAL",
+      "subject": "Computing",
+      "domain": "Programming",
+      "name": "Databases and SQL",
+      "description": "Understand a relational database as data held in linked tables of rows and columns, and how a SQL query selects, filters and combines that data to answer a question.",
+      "ageRangeStart": 16,
+      "ageRangeEnd": 18,
+      "centrality": null,
+      "evidence": [
+        "Explains the relational model of tables, rows and keys",
+        "Writes a SQL query to select and filter rows",
+        "Explains how a key links two tables"
+      ],
+      "assessmentPrompt": "Ask {{name}} how a bank finds one person’s transactions among millions in an instant.",
+      "standards": [
+        "isc:CS.C12.U3"
       ]
     }
   ]

@@ -51526,7 +51526,7 @@
       "sourceUrl": "https://cisce.org/regulations-and-syllabus-isc-2028/",
       "textIncluded": true,
       "license": "CISCE reserves all rights and permits no reproduction of its syllabus text; these records carry Marble-authored factual descriptions only (no CISCE text) — see PROVENANCE.md",
-      "topicCount": 147,
+      "topicCount": 165,
       "topics": [
         {
           "key": "isc:PHY.C11.U1",
@@ -53143,6 +53143,204 @@
             "class": "XII",
             "strand": "International Relations",
             "description": "The Cold War and its end, US dominance and alternative centres of power, and global issues of security, environment and globalisation."
+          }
+        },
+        {
+          "key": "isc:HIS.C11.U1",
+          "code": "HIS.C11.U1",
+          "data": {
+            "title": "Class XI Early Societies",
+            "subject": "History (XI–XII)",
+            "class": "XI",
+            "strand": "Early Societies",
+            "description": "From the earliest humans to the first cities and civilisations."
+          }
+        },
+        {
+          "key": "isc:HIS.C11.U2",
+          "code": "HIS.C11.U2",
+          "data": {
+            "title": "Class XI Empires",
+            "subject": "History (XI–XII)",
+            "class": "XI",
+            "strand": "Empires",
+            "description": "The great empires — an empire across three continents, the central Islamic lands, and the nomadic empires."
+          }
+        },
+        {
+          "key": "isc:HIS.C11.U3",
+          "code": "HIS.C11.U3",
+          "data": {
+            "title": "Class XI Changing Traditions",
+            "subject": "History (XI–XII)",
+            "class": "XI",
+            "strand": "Changing Traditions",
+            "description": "The three orders of medieval Europe, changing cultural traditions, and the confrontation of cultures and displacement of indigenous peoples."
+          }
+        },
+        {
+          "key": "isc:HIS.C11.U4",
+          "code": "HIS.C11.U4",
+          "data": {
+            "title": "Class XI Paths to Modernisation",
+            "subject": "History (XI–XII)",
+            "class": "XI",
+            "strand": "Paths to Modernisation",
+            "description": "The Industrial Revolution and the paths to modernisation in East Asia."
+          }
+        },
+        {
+          "key": "isc:HIS.C12.U1",
+          "code": "HIS.C12.U1",
+          "data": {
+            "title": "Class XII Early India through Its Sources",
+            "subject": "History (XI–XII)",
+            "class": "XII",
+            "strand": "Early India through Its Sources",
+            "description": "Reconstructing early India from inscriptions, the Mahabharata and Buddhist remains such as Sanchi."
+          }
+        },
+        {
+          "key": "isc:HIS.C12.U2",
+          "code": "HIS.C12.U2",
+          "data": {
+            "title": "Class XII Medieval India through Its Sources",
+            "subject": "History (XI–XII)",
+            "class": "XII",
+            "strand": "Medieval India through Its Sources",
+            "description": "Agrarian relations in the Ain-i-Akbari, the Mughal court and its chronicles, the Bhakti and Sufi traditions, Hampi, and travellers’ accounts."
+          }
+        },
+        {
+          "key": "isc:HIS.C12.U3",
+          "code": "HIS.C12.U3",
+          "data": {
+            "title": "Class XII Modern India through Its Sources",
+            "subject": "History (XI–XII)",
+            "class": "XII",
+            "strand": "Modern India through Its Sources",
+            "description": "Colonialism and rural society, the revolt of 1857 and its representations, colonial towns, Gandhi through contemporary eyes, Partition through oral sources, and the making of the constitution."
+          }
+        },
+        {
+          "key": "isc:ENG.C11.LANG",
+          "code": "ENG.C11.LANG",
+          "data": {
+            "title": "Class XI–XII English Language: Composition",
+            "subject": "English (XI–XII)",
+            "class": "XI–XII",
+            "strand": "English Language: Composition",
+            "description": "Directed and extended composition — argumentative, analytical and discursive — and academic and professional communication."
+          }
+        },
+        {
+          "key": "isc:ENG.C11.COMPRE",
+          "code": "ENG.C11.COMPRE",
+          "data": {
+            "title": "Class XI–XII English Language: Comprehension",
+            "subject": "English (XI–XII)",
+            "class": "XI–XII",
+            "strand": "English Language: Comprehension",
+            "description": "Reading an unseen passage and answering questions on it, and note-making and summarising."
+          }
+        },
+        {
+          "key": "isc:ENG.C11.PROSE",
+          "code": "ENG.C11.PROSE",
+          "data": {
+            "title": "Class XI–XII Literature: Prose and Poetry",
+            "subject": "English (XI–XII)",
+            "class": "XI–XII",
+            "strand": "Literature: Prose and Poetry",
+            "description": "The critical appreciation of prescribed prose and poetry."
+          }
+        },
+        {
+          "key": "isc:ENG.C11.DRAMA",
+          "code": "ENG.C11.DRAMA",
+          "data": {
+            "title": "Class XI–XII Literature: Drama and the Novel",
+            "subject": "English (XI–XII)",
+            "class": "XI–XII",
+            "strand": "Literature: Drama and the Novel",
+            "description": "The critical reading of a prescribed drama and novel."
+          }
+        },
+        {
+          "key": "isc:ENG.C11.SPEAK",
+          "code": "ENG.C11.SPEAK",
+          "data": {
+            "title": "Class XI–XII Speaking and Listening",
+            "subject": "English (XI–XII)",
+            "class": "XI–XII",
+            "strand": "Speaking and Listening",
+            "description": "Spoken English — phonology, stress and intonation — and speaking in formal settings."
+          }
+        },
+        {
+          "key": "isc:CS.C11.U1",
+          "code": "CS.C11.U1",
+          "data": {
+            "title": "Class XI Boolean Algebra",
+            "subject": "Computer Science (XI–XII)",
+            "class": "XI",
+            "strand": "Boolean Algebra",
+            "description": "Propositional logic, boolean algebra, truth tables, De Morgan’s laws, and the minimisation of logic circuits."
+          }
+        },
+        {
+          "key": "isc:CS.C11.U2",
+          "code": "CS.C11.U2",
+          "data": {
+            "title": "Class XI Object-Oriented Programming: Inheritance and Polymorphism",
+            "subject": "Computer Science (XI–XII)",
+            "class": "XI",
+            "strand": "Object-Oriented Programming: Inheritance and Polymorphism",
+            "description": "The deeper principles of object-oriented programming — inheritance, polymorphism, abstraction and encapsulation."
+          }
+        },
+        {
+          "key": "isc:CS.C11.U3",
+          "code": "CS.C11.U3",
+          "data": {
+            "title": "Class XI Recursion",
+            "subject": "Computer Science (XI–XII)",
+            "class": "XI",
+            "strand": "Recursion",
+            "description": "Recursion and the design of recursive algorithms."
+          }
+        },
+        {
+          "key": "isc:CS.C12.U1",
+          "code": "CS.C12.U1",
+          "data": {
+            "title": "Class XII Data Structures",
+            "subject": "Computer Science (XI–XII)",
+            "class": "XII",
+            "strand": "Data Structures",
+            "description": "Arrays and the linear data structures — the stack, the queue and the linked list — and their operations."
+          }
+        },
+        {
+          "key": "isc:CS.C12.U2",
+          "code": "CS.C12.U2",
+          "data": {
+            "title": "Class XII Algorithm Analysis and Complexity",
+            "subject": "Computer Science (XI–XII)",
+            "class": "XII",
+            "strand": "Algorithm Analysis and Complexity",
+            "description": "The efficiency of algorithms and the comparison of searching and sorting by their complexity."
+          }
+        },
+        {
+          "key": "isc:CS.C12.U3",
+          "code": "CS.C12.U3",
+          "data": {
+            "title": "Class XII Databases and SQL",
+            "subject": "Computer Science (XI–XII)",
+            "class": "XII",
+            "strand": "Databases and SQL",
+            "description": "The relational model of data and querying a database with SQL."
           }
         }
       ]

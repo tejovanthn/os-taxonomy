@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 4674,
+  "edgeCount": 4683,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -28046,6 +28046,60 @@
       "prerequisiteId": "mt_DVSHx3YMkN",
       "strength": "soft",
       "reason": "Reading Shakespeare’s verse draws on figurative language."
+    },
+    {
+      "topicId": "mt_4UdPNfVeNm",
+      "prerequisiteId": "mt_zRNuALNFAT",
+      "strength": "soft",
+      "reason": "Boolean logic underlies the conditions of a program."
+    },
+    {
+      "topicId": "mt_4UdPNfVeNm",
+      "prerequisiteId": "mt_JDUB7RyyLd",
+      "strength": "soft",
+      "reason": "Boolean algebra minimises the logic gates of a circuit."
+    },
+    {
+      "topicId": "mt_fASy5DjS9F",
+      "prerequisiteId": "mt_TB3DHo7JkU",
+      "strength": "hard",
+      "reason": "Inheritance and polymorphism are two of the OOP principles."
+    },
+    {
+      "topicId": "mt_fASy5DjS9F",
+      "prerequisiteId": "mt_rs5SbDJZGR",
+      "strength": "hard",
+      "reason": "Inheritance extends the class-and-object model."
+    },
+    {
+      "topicId": "mt_oWMEFJjJXG",
+      "prerequisiteId": "mt_TgzH2ATvxG",
+      "strength": "hard",
+      "reason": "A recursive method is a method that calls itself."
+    },
+    {
+      "topicId": "mt_6yjZvyow9Y",
+      "prerequisiteId": "mt_u4T2pG7a1s",
+      "strength": "hard",
+      "reason": "Data structures build on the array."
+    },
+    {
+      "topicId": "mt_6yjZvyow9Y",
+      "prerequisiteId": "mt_fASy5DjS9F",
+      "strength": "soft",
+      "reason": "Data structures are implemented as classes of objects."
+    },
+    {
+      "topicId": "mt_OfqgXILCUD",
+      "prerequisiteId": "mt_8z6iNjj1hb",
+      "strength": "hard",
+      "reason": "Complexity compares the searching and sorting algorithms."
+    },
+    {
+      "topicId": "mt_2tpf9geNgj",
+      "prerequisiteId": "mt_TsAQLrLQAA",
+      "strength": "soft",
+      "reason": "A database stores typed data in tables."
     }
   ]
 }

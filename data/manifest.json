@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-08-03T18:06:48.137Z",
+  "generatedAt": "2026-08-03T18:11:31.172Z",
   "codesOnlySources": [
     "c3-social-studies",
     "ib-pyp-pspe",
@@ -9,13 +9,13 @@
     "ngss-ms"
   ],
   "counts": {
-    "topics": 2680,
+    "topics": 2686,
     "topicsBySubject": {
       "Accountancy": 32,
       "Biology": 45,
       "Business Studies": 53,
       "Chemistry": 49,
-      "Computing": 56,
+      "Computing": 62,
       "Dance": 26,
       "Economics": 60,
       "English": 296,
@@ -41,28 +41,28 @@
       "Telugu": 5,
       "Visual Arts": 20
     },
-    "dependencies": 4674,
+    "dependencies": 4683,
     "curricula": 17,
-    "curriculumStandards": 4615,
-    "topicStandardLinks": 4634,
-    "clusters": 375
+    "curriculumStandards": 4633,
+    "topicStandardLinks": 4671,
+    "clusters": 376
   },
   "files": {
     "topics.json": {
-      "bytes": 2666598,
-      "sha256": "c5d617d515ae1208d0ebcd403a6bd23a81a6862789a9b3593f992e1f2bd4dbea"
+      "bytes": 2672519,
+      "sha256": "4be20d7d8002966fcddde8cee55e32872664bb3ee963ab296a5d94119464afa7"
     },
     "dependencies.json": {
-      "bytes": 970029,
-      "sha256": "76790b59b89f834b2fc86393c62f557dc5e6fab52d5fd48a9856733f51cb410a"
+      "bytes": 971673,
+      "sha256": "46d81067447240cc92ced4d8c1399b6e23c33ba058f79ddd1f3b1dd246c2d2a2"
     },
     "curriculum-standards.json": {
-      "bytes": 2285878,
-      "sha256": "519895b8cb4c8bbb4fb89195c983e64e551d9179c0cf0fc2332caeb569a95e4e"
+      "bytes": 2293757,
+      "sha256": "386d615278835bbfbf7c0a038525841905447bffcdde430c00b836a6bc43c583"
     },
     "clusters.json": {
-      "bytes": 134254,
-      "sha256": "090b237919112679c70acf643e1202e0c015f232917c48ef22e37f9790d75f32"
+      "bytes": 134923,
+      "sha256": "59cc447641a400093e30cdd9f9b0347b2502025e5851765851011f91baa186b2"
     }
   },
   "excluded": [
